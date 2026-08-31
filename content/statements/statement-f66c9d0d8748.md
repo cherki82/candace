@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:08:31](/episodes/ep-ZZGWo6oDscc.md#t-00-08-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(511);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=511s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Every time you see that guy, every time you see that guy in TV, it really just reminds you of like getting pulled over for DUI with your drunk girlfriend in the passenger seat screaming at the cop. ... Lindsey Graham really is the drunk girlfriend. Picking fights he'll never have to participate in.
 

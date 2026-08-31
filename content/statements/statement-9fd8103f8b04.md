@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:12:16](/episodes/ep-i8m_6D4QGmk.md#t-00-12-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(736);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=736s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is quite literally known as the Seal of Solomon. I'm going to show you this. This is on Wikipedia. ... This is that accessible. We can read parts of this together. It reads, it is often depicted in the shape of either a hexagram or a pentagram. ... In mystic Jewish lore, the ring is variously described as having been given Solomon the power to command the supernatural. ... Due to the proverbial wisdom of Solomon, it came to be seen as an amulet or a talisman or a symbol or character in medieval magic and Renaissance magic, occultism, alchemy.
 

@@ -22,8 +22,8 @@ Source: [Biography - Rush H. Limbaugh III](https://officialrushlimbaugh.com/biog
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -86,17 +86,48 @@ Source: [Biography - Rush H. Limbaugh III](https://officialrushlimbaugh.com/biog
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Met With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:03:05](/episodes/ep-_dRaEO47-co.md#t-00-02-47): “The person that he adored the most—like, really, never in a million years did he think that he was going to meet him, and of course he did—was Rush Limbaugh.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:03:05](/episodes/ep-_dRaEO47-co.md#t-00-02-47): “The person that he adored the most—like, really, never in a million years did he think that he was going to meet him, and of course he did—was Rush Limbaugh.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rush Limbaugh (1)</strong></summary>
+<summary><strong class="section-title">Statements about Rush Limbaugh (4)</strong></summary>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (1)</summary>
+<summary>To My Friend, Charlie Kirk. (4)</summary>
 
-- [00:03:14](/episodes/ep-_dRaEO47-co.md#t-00-02-47) (Claim) **Candace Owens**: ["Rush Limbaugh was Charlie Kirk's greatest influence - he was raised li..."](/statements/statement-8d2a086a4d0d.md)
+- [00:03:05](/episodes/ep-_dRaEO47-co.md#t-00-02-47) (Opinion) **Candace Owens**: ["Candace Owens recalled that Rush Limbaugh was the person Charlie Kirk ..."](/statements/statement-2706e9bc081d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:03:05](/episodes/ep-_dRaEO47-co.md#t-00-02-47) (Claim) **Candace Owens**: ["Candace Owens recalled that Rush Limbaugh was the person Charlie Kirk ..."](/statements/statement-d31b6fab9f82.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:03:14](/episodes/ep-_dRaEO47-co.md#t-00-02-47) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk told Candace Owens that if he could have a show like Rush..."](/statements/statement-c49d9a921f6f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:03:14](/episodes/ep-_dRaEO47-co.md#t-00-02-47) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was raised listening to Rush Limbaugh ..."](/statements/statement-6be7042ad9be.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

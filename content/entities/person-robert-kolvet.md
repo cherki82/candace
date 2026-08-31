@@ -22,7 +22,7 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -97,9 +97,10 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:19:58](/episodes/ep-y8lak3CRwDw.md#t-00-19-44): “That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “His cousin, Captain Robert Kolvet, is high up in the military.”
 
 </details>
 
@@ -128,9 +129,10 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** cousin of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:19:58](/episodes/ep-y8lak3CRwDw.md#t-00-19-44): “That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “His cousin, Captain Robert Kolvet, is high up in the military.”
 
 </details>
 
@@ -153,7 +155,7 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert Kolvet (2)</strong></summary>
+<summary><strong class="section-title">Statements about Robert Kolvet (3)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2)</summary>
@@ -163,6 +165,14 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 
 - [00:22:43](/episodes/ep-y8lak3CRwDw.md#t-00-22-41) (Claim) **Candace Owens**: ["May the Kolvets, the Frantzves, and the Bowyers all have run into each..."](/statements/statement-f431ce9b3e43.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Dennis Frantzve](/entities/person-dennis-frantzve.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:23:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Andrew Kolvet's brother, Captain Kurt Kolvet, is in the military. His ..."](/statements/statement-21d55ee01d7c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kurt Kolvet](/entities/person-kurt-kolvet.md)
 
 </details>
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:34:25](/episodes/ep-19vHhjF7-NA.md#t-00-34-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2065);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2065s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They send out Blake Neff because he's not an official, he's not at all actually an employee of Turning Point USA
 

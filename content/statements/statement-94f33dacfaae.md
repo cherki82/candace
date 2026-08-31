@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(999);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ahmed (Ahmed Qureshi), remember, Zachariah (Zachariah Qureshi)'s dad, he's listed as a co-founder of Built. Who did he co-found this with? ... That would be a man named Nathan Henderson.
 

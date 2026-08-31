@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(654);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=654s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just days after her husband's death, ... she was already laying out ambitious plans for the company over Zoom. ... It's obvious she was always deeply involved in the business and knew exactly where to pick up when her turn came.
 

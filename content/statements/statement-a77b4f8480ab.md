@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:53:00](/episodes/ep-B9TyCs-6o_0.md#t-00-52-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3180);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=3180s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I never got classified information from Joe Kent. Like I said. and the person who told me about the check chain originally was Andrew Kolvet.
 

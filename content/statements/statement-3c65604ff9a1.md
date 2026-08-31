@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:37:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-37-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2263);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2263s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They believe in sacrifices. And I will forever maintain that the first casualty of the Iranian war was Charlie Kirk. I believe he was sacrificed by this death cult.
 

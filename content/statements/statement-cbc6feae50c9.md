@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:37:32](/episodes/ep-ZzAT2xijKGQ.md#t-00-37-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2252);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2252s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > some rocket scientist on the bears i'm screaming at my tv
 

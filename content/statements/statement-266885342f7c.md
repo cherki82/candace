@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:41:30](/episodes/ep-sKuYLNx3iRo.md#t-00-41-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2490);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2490s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > wires and talks to take on at least 100 million in strategic investment with an eye on an IPO. ... Okay. He just couldn't be bothered. It reads exclusive Daily Wire under pressure seeks strategic investors and targets an IPO.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:32:19](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1939);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1939s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we had spoken to you guys about next model management a few times, right? And we've now received another testimony about that. Now, if you watched our Bride of Charlie (Charlie Kirk) series, you know that we had received a well-vetted tip that Erika (Erika Kirk) was in charge of quote-unquote modeling apartments for a bunch of underage Eastern European girls who were being brought to and shuffled through Next Model Management,
 

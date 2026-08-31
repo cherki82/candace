@@ -18,7 +18,7 @@ _Type: People_
 Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.org/AFF/leadership.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:06:47</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:07:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07">2026-07-22 · 00:21:32</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>28</strong></div>
@@ -32,7 +32,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-27-07">Myron Gaines x Candace Owens</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05" style="--pulse-height:67%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-miriam-adelson-t-00-56-26" style="--pulse-height:67%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-27-07" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-miriam-adelson-t-00-48-09" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
@@ -51,7 +51,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-miriam-adelson-t-00-56-26) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-27-07) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-miriam-adelson-t-00-48-09) | 2 |
@@ -218,10 +218,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[01:06:47](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
-> "Miriam Adelson gave him 00 million"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
 **[01:07:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
 > "Miriam Adelson gave him $100 million, and she was explicit."
@@ -250,13 +247,14 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <summary>Funded (2)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:07:05](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05): “And I don't believe he's reconsidering his love for Israel. Miriam Adelson gave him $100 million, and she was explicit.”
 
 </details>
 
@@ -316,13 +314,14 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** funded by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:07:05](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05): “And I don't believe he's reconsidering his love for Israel. Miriam Adelson gave him $100 million, and she was explicit.”
 
 </details>
 
@@ -441,12 +440,17 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
-- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Miriam Adelson gave Donald Trump 100 million dollars and was explicit ..."](/statements/statement-c5319102ec05.md)
-  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:43:31](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) (Claim) **Candace Owens**: ["Owens said she found information indicating that Cabot Phillips's fath..."](/statements/statement-ac23843213dd.md)
+  - Also about: [Graham Phillips](/entities/person-graham-phillips.md), [Sheldon Adelson](/entities/person-sheldon-adelson.md)
 
-- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Miriam Adelson gave Trump $100 million with the explicit understanding..."](/statements/statement-794eecb6af0b.md)
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Owens said, as her perspective, that Miriam Adelson gave Trump 100 mil..."](/statements/statement-794eecb6af0b.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>

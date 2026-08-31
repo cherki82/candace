@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:56:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-56-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3402);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=3402s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What I'm saying is I've never, me said or written or our organization ever declared we rescued 45,000. We've helped. ... We've provided trauma relief and some we've definitely rescued because it's part of what we do. Our mission statement for all things possible ministries is to set captives free physically, emotionally and spiritually.
 

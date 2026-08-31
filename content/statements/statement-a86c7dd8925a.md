@@ -22,14 +22,15 @@ type: "factual_claim"
 ## About
 
 - [David Horowitz](/entities/person-david-horowitz.md) (person)
+- [Andreessen Horowitz](/entities/org-andreessen-horowitz.md) (org)
 
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:18:16](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1096);return false;">Play</a>
+**Timestamp:** [00:11:41](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=701s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Take a listen. (Candace Owens speaking)
+> You should also know that he is the father—or stepfather—to Andreessen Horowitz, the one that Bibi (Benjamin Netanyahu) is insisting should be a part of this group that buys TikTok because—and this is relevant—they think it's important for warfare, psychological warfare in the future.
 
 ## Verification
 

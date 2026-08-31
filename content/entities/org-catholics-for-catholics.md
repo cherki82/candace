@@ -22,13 +22,13 @@ _Type: Organizations_
 Source: [Catholics for Catholics endorses Arizona Catholic Conference statement](https://cforc.com/2022/11/catholics-for-catholics-endorses-arizona-catholic-conference-statement-on-unapproved-political-efforts/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#t-00-39-11">2025-12-20 · 00:39:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#t-00-39-45">2025-12-20 · 00:39:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#t-00-22-40">2026-07-21 · 00:22:40</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,7 +36,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholics-for-catholics-t-00-34-29">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-w1oqQbR_bYs.md#t-00-39-11" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#t-00-39-45" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholics-for-catholics-t-00-34-29" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-catholics-for-catholics-t-00-18-07" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-catholics-for-catholics-t-00-48-59" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
@@ -50,7 +50,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-39-11) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-39-45) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholics-for-catholics-t-00-34-29) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-catholics-for-catholics-t-00-18-07) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-catholics-for-catholics-t-00-48-59) | 2 |
@@ -159,7 +159,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
-**[00:39:45](/episodes/ep-w1oqQbR_bYs.md#t-00-39-11)**
+**[00:39:45](/episodes/ep-w1oqQbR_bYs.md#t-00-39-45)**
 > "having a discussion at dinner with Johnny Yep, who runs Catholic for Catholics"
 
 </details>
@@ -176,6 +176,18 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47): “Catholics for Catholics lists General Michael Flynn as their senior advisor on their own website”
+
+</details>
+
+</details>
+
+<details>
+<summary>Employs (1)</summary>
+
+- **[John Yep](/entities/person-john-yep.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:39:45](/episodes/ep-w1oqQbR_bYs.md#t-00-39-45): “Johnny Yep, who runs Catholic for Catholics”
 
 </details>
 
@@ -203,7 +215,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Michael T. Flynn](/entities/person-michael-t-flynn.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -225,6 +237,13 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:33:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27): “General Michael Flynn spoke there.”
+
+</details>
+
+- **[John Yep](/entities/person-john-yep.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:39:45](/episodes/ep-w1oqQbR_bYs.md#t-00-39-45): “Johnny Yep, who runs Catholic for Catholics”
 
 </details>
 

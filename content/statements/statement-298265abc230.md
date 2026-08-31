@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:46:43](/episodes/ep-k1b1NDCrNFs.md#t-00-46-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2803);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2803s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > uh he's an accused i should say because it's still going through the courts he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors and again i'm going to say allegedly because he has not been convicted yet but the case is making its way through the courts and perhaps more crucially you should know that this now former employee zachary lewis happens to have worked in the daily wire kids department where they filmed kids shows with kids.
 

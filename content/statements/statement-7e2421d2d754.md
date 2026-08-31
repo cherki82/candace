@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:16:28](/episodes/ep-SubDoZWHARo.md#t-00-16-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(988);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=988s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) knew. That she was not coming long before Andrew Kolvet made the announcement on stage. Yet she did not make a statement herself until after the event began.
 

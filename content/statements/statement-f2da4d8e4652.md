@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:56:01](/episodes/ep-5-HUyv9LyMg.md#t-00-56-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3361);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=3361s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > As soon as we got to .30-06, the reasonable position to have is that they are lying to us about everything, which implies that this was a deep-state assassination ... and the likes of which have not been seen since the assassination of JFK, which also involved Israel.
 

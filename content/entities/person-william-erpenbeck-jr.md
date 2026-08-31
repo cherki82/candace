@@ -241,7 +241,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
   - Also about: [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
 
 - [00:10:56](/episodes/ep-cZxHqYsWRYg.md#t-00-10-40) (Citation) **Candace Owens**: ["Lori Ann Erpenbeck told her lawyer that Tony Erpenbeck offered money t..."](/statements/statement-25baa798a75c.md)
-  - Also about: [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [FBI](/entities/org-fbi.md)
 
 - [00:12:55](/episodes/ep-cZxHqYsWRYg.md#t-00-12-42) (Citation) **Candace Owens** (via paraphrase): ["A notary testified that Bill Erpenbeck sometimes asked her to notarize..."](/statements/statement-3e100f27921d.md)
   - Also about: [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
@@ -250,7 +250,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
   - Also about: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
 
 - [00:17:25](/episodes/ep-cZxHqYsWRYg.md#t-00-17-01) (Claim) **Anonymous Source #1 (Ep cZxHqYsWRYg)** (via quoted speech): ["In 2009 FBI agents recovered a cooler of cash buried at Summit Hills C..."](/statements/statement-4dda7f080dbb.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Summit Hills Country Club](/entities/org-summit-hills-country-club.md), [Crestview Hills, Kentucky](/entities/gpe-crestview-hills-kentucky.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Summit Hills Country Club](/entities/org-summit-hills-country-club.md), [Crestview Hills, Kentucky](/entities/gpe-crestview-hills-kentucky.md)
 
 </details>
 

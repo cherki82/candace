@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:05:32](/episodes/ep-9naMwS0kMBE.md#t-00-05-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(332);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=332s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we received a solid tip tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA.
 

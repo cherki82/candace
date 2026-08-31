@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:24:01](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1441);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1441s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She watches every moment. She watches me and she has been directing the attacks against me since the beginning. ... alongside Andrew Kolvet, who's now gone mask down before I was even aware, right? I presumed these people were allies.
 

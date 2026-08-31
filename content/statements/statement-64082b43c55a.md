@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:05:12](/episodes/ep-q1NRQQAYS_Q.md#t-00-05-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(312);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Erica (Erika Kirk) had not told any verifiable lies to the public until right before we met. She publicly told Glenn Beck that she had Charlie (Charlie Kirk)'s phone and he did not text people the night before saying that he was fearful of his life. That was kind of for me the first.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2327);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=2327s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue, that the night before Charlie (Charlie Kirk) was not sending messages saying that he feared for his life.
 

@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2332);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=2332s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want you to get there by yourself, Gary (Gary Melton). Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment.
 

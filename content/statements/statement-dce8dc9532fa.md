@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2159);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2159s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think by now the majority of Americans understand that the true death cult is Israel. You can't fill them to the brim with enough murder.
 

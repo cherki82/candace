@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:17:00](/episodes/ep-DqGNvi36ol8.md#t-00-16-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1020);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=1020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he was plucked from obscurity by the mainstream media as an eyewitness in Salt Lake City.
 

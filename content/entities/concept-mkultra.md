@@ -40,8 +40,8 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44" style="--pulse-height:29%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21" style="--pulse-height:86%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 6 mentions" title="2025-11-15 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35" style="--pulse-height:43%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-15" style="--pulse-height:43%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-16" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15" style="--pulse-height:43%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59" style="--pulse-height:29%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-mkultra-t-00-35-51" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
@@ -63,8 +63,8 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 |---|---|---:|
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44) | 2 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21) | 6 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35) | 3 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-15) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-16) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15) | 3 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-mkultra-t-00-35-51) | 2 |
@@ -254,10 +254,10 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-16)**
 > "...bit too loud—you know, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times..."
 
-**[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-08)**
+**[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-42)**
 > "...ght track. And it was something that was so sinister, you know, involving maybe another step of the MKUltra program being used to foster serial killers and to give serial killers new identities and allowing ..."
 
 </details>
@@ -265,13 +265,13 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
 
-**[00:47:52](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35)**
+**[00:47:46](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-15)**
 > "Yeah, this is this is like MK Ultra."
 
-**[00:53:28](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-19)**
+**[00:53:24](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-18)**
 > "They rang the MK Ultra Red phone to get you off their backs."
 
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-19)**
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-18)**
 > "...real close talking about that MK Ultra experiment that happened that I believe it looked..."
 
 </details>
@@ -279,7 +279,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
 
-**[00:02:01](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21)**
+**[00:01:57](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21)**
 > "... we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, Brigitte Macron and Emmanuel had a heart at..."
 
 **[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-02-03)**
@@ -288,13 +288,13 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 **[00:02:48](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-02-48)**
 > ".... They put him on a psych 5150 hold, which is one of their strategies. And effectively, he had been MKUltra'd, right? By putting on that psych 5150 hold. Jeffrey Epstein. I did a mini-series on Jeffrey Epste..."
 
-**[00:18:14](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-18-12)**
+**[00:18:14](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-18-09)**
 > "...came even more obsessed with learning everything that I could about the '60s and the military-grade MKUltra program that our government employed in place after JFK was shot, right? Actually putting journalis..."
 
-**[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-22-30)**
+**[00:23:01](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-22-52)**
 > "... West), he said he was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUltra—suddenly puts him in a hospital on a psych 5150 hold." And somehow his wife—I guess—was cool with t..."
 
-**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-30-07)**
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-29-53)**
 > "...ch investigating the Brigitte Macron thing and was arriving very quickly at this weird backstory of MKUltra and the Haight-Ashbury Clinic when it seems like a button was pressed in America— and big psycholog..."
 
 </details>
@@ -379,10 +379,10 @@ _No relationships extracted yet._
 - [00:02:44](/episodes/ep-7RLtGgkTh9o.md#t-00-02-03) (Accusation) **Candace Owens**: ["Kanye West was put on a psych 5150 hold, which is one of their strateg..."](/statements/statement-08c3cea838b4.md)
   - Also about: [Kanye West](/entities/person-kanye-west.md)
 
-- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
+- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-09) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
-- [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study..."](/statements/statement-698fdea4ccc4.md)
+- [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-20-53) (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study..."](/statements/statement-698fdea4ccc4.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </details>

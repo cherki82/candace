@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(30);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=30s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Not important for today. Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. ... They're effectively then business partners. They have been for a while, actually. Lori (Lori Frantzve) was at first a director over at Superfeed.
 

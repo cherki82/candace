@@ -1,8 +1,8 @@
 ---
 title: "Robert Richards the Fourth was in 2009 convicted of raping h..."
-description: "\"Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter\" — Candace Owens"
+description: "\"Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter\" — Vanity Fair"
 statement_id: "statement-479c680fd9b3"
-speaker: "Candace Owens"
+speaker: "Vanity Fair"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,10 +15,11 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Vanity Fair](/entities/org-vanity-fair.md) (Quoted)
 
 **Delivery:** Quoted from article
-**Original Source:** Vanity Fair article read aloud by Candace Owens
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Vanity Fair
 
 ## About
 
@@ -29,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:07:03](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it tells us that Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter,
 

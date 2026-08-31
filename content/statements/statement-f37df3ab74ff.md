@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:39:52](/episodes/ep-rupRLXmSndU.md#t-00-39-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2392);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=2392s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think you should sue him, but you know, I told him you ought to sue somebody. They're so jealous, America. ... Sue their ass off.
 

@@ -15,7 +15,7 @@ object: "person-ben-shapiro"
 
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
-- [00:17:37](/episodes/ep-K1tFD7FfoCU#t-00-17-37): _book us on Ben's (Ben Shapiro's) show_
+- [00:17:53](/episodes/ep-K1tFD7FfoCU#t-00-17-53): _Anyway, the story goes, we get the invite to be on Ben Shapiro's (Ben Shapiro) show._
 
 ### Related
 

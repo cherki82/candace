@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:21:09](/episodes/ep-JQjCAsfoXEE.md#t-00-21-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1269);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > from this data as follows. On September 10th, the day of Charlie (Charlie Kirk)'s assassination, this plane first transponded
 

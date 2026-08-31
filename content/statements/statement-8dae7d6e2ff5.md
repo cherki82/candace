@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:33:41](/episodes/ep-SKNJPul29zU.md#t-00-33-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2021);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2021s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > well it's funny because they are in control of the levers of power right and that's definitely scary i mean don't get me wrong i don't want to minimize that but at the same time they are no longer in control of the narrative and And Americans are waking up to just how much our government has been, I mean, for lack of a better word, infiltrated by people who are much more concerned. ... with foreign policy that benefits Israel above and beyond what's better for the American people, this war against Iran doesn't benefit us in any way, shape or form.
 

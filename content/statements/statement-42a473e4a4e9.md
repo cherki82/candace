@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:38:32](/episodes/ep-1mYNOqzAdXs.md#t-00-38-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2312);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am happy, just to be clear, to have Victor (Victor Marx) on with his wife. If he'd like to have her, I have no problem with that. But we will need him to agree to sit down with Corby Hall because he sent me a ton of messages and I would like to begin to sort through them. Otherwise, I am happy to have just Victor (Victor Marx) on my show alone one-on-one.
 

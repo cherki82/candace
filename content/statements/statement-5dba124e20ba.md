@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:29:28](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1768);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1768s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, in 2024, legislation was passed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S
 

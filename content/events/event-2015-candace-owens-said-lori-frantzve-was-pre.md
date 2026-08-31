@@ -6,6 +6,11 @@ date: "2015"
 ---
 
 **Date:** 2015
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2015”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2015"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:23:12](/episodes/ep-QRS_hR7NXaQ.md#t-00-22-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1392);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1392s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > her mother was present next to Erika in 2015 when she was standing behind Trump

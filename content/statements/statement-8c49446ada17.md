@@ -3,7 +3,7 @@ title: "That Zionists control a lot of publications in America. That..."
 description: "\"That Zionists control a lot of publications in America. That is just a reality.\" — Candace Owens"
 statement_id: "statement-8c49446ada17"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
@@ -23,14 +23,14 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:31:52](/episodes/ep-sreYYcID-QY.md#t-00-31-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1912);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That Zionists control a lot of publications in America
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

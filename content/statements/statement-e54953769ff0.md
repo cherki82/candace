@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:11:04](/episodes/ep-iB-YtO3UZOg.md#t-00-11-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(664);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=664s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So erotic roleplay is different from cyber sex in the sense that in erotic roleplay you have this roleplay component, meaning that people are not at least explicitly playing as themselves.
 

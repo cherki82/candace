@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:39:37](/episodes/ep-G3zdOeHpvS0.md#t-00-39-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2377);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=2377s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I try and start that we were giving him CPR, but nothing was happening. It wasn't like if we had better first aid or we had better medical facilities or we were faster to the hospital, we could have saved him. We couldn't.
 

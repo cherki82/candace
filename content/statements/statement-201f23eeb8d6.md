@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:23:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-23-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1412);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1412s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One of the facts is that Kent (Kenneth Frantzve) and Lori (Lori Frantzve) were married on November 20th, 1995 in Marblehead, Massachusetts.
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:58:02](/episodes/ep-jTj9Ip46r4w.md#t-00-57-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3482);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=3482s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So everything and every manner that she is moving registers to me as someone who is a pathological liar and which we've proven already.
 

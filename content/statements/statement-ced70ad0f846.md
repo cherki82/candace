@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2374);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2374s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, well, then here's what we're going to do. We're going to change the contract. ... And instead of being paid X amount of years, you are going to only get this. Are you willing to do that? ... I said, yeah, I'm willing to lose the money—take the money, obviously—because he's my friend.
 

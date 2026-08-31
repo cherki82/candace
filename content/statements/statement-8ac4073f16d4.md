@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:02:29](/episodes/ep-rupRLXmSndU.md#t-00-02-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(149);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=149s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran
 

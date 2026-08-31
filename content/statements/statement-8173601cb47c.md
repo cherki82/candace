@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:14:01](/episodes/ep-581dILVcEE4.md#t-00-13-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(841);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > them might have been like the week before Thursday or something. But yeah, like I said, it wasn't
 

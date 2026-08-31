@@ -3,12 +3,21 @@ title: "Yashar Ali"
 description: "Yashar Ali (People) - 4 mentions"
 id: "person-yashar-ali"
 type: "PERSON"
+categories:
+  - "journalism"
+  - "social media commentary"
 ---
 
 _Type: People_
 
+**Categories:** journalism, social media commentary
+
+**Entity verification:** verified
+> Los Angeles Times coverage identifies Yashar Ali as a journalist and social media figure; the canonical public name matches the quoted byline in the source.
+Source: [A judge tosses social media star Yashar Ali's defamation case](https://www.latimes.com/california/story/2025-01-29/a-judge-tosses-social-media-star-yashar-alis-defamation-case-against-la-magazine)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-06-59">2025-10-08 · 00:07:23</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-06-59">2025-10-08 · 00:07:19</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53">2025-12-20 · 00:04:05</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -51,13 +60,13 @@ _Type: People_
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
 
-**[00:07:23](/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-06-59)**
+**[00:07:19](/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-06-59)**
 > "... calling for a public execution? Well, I'll let one of the many Zionist PR agents explain it first. Yashar Ali, who, like I said, is quite literally paid to do PR for Zionists. I know this personally, on the ri..."
 
-**[00:07:48](/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-07-35)**
+**[00:07:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-07-35)**
 > "...e, Irina Zarutska, in North Carolina. That was obviously a big story in the beginning of September. Yashar Ali wrote this: "Last night, Candace (Candace Owens) quote-tweeted notorious neo-Nazi Sam Parker, who p..."
 
-**[00:48:14](/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-47-43)**
+**[00:48:08](/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-47-46)**
 > "...look away either. The problems begin when you try to analyze it. It is what it is." And I love that Yashar Ali replies and says, "This is what I mean. These are the people who are supposed to be combating Canda..."
 
 </details>
@@ -77,8 +86,8 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
-- [00:08:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) [○] (Claim) ["Josh Hammer was sharing what many conservatives were sharing the day before abou..."](/statements/statement-4fb57d4251c4.md)
-  - About: [Josh Hammer](/entities/person-josh-hammer.md), [Irina Zarutska](/entities/person-irina-zarutska.md)
+- [00:08:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-12) [◐] (Claim) ["Josh Hammer was sharing what many conservatives were sharing the day before abou..."](/statements/statement-4fb57d4251c4.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md), [Iryna Zarutska](/entities/person-iryna-zarutska.md)
 
 </details>
 

@@ -6,6 +6,11 @@ date: "2026-06-15"
 ---
 
 **Date:** 2026-06-15
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-06-15"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:51:14](/episodes/ep-h76ZN-xXC6c.md#event-event-2026-06-15-fbi-rapid-response-account-sends-multipl-t-00-51-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3074);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=3074s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They just genuinely they sent about five tweets at us yesterday.

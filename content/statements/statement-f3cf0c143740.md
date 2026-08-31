@@ -1,17 +1,17 @@
 ---
-title: "Richard William Erpenbeck prepared but did not record a deed..."
-description: "\"Richard William Erpenbeck prepared but did not record a deed transferring property to Anita Andrews; she had not signed it, and he then transferred th...\" — Candace Owens"
+title: "Richard William Erpenbeck reportedly prepared but did not re..."
+description: "\"Richard William Erpenbeck reportedly prepared but did not record a deed transferring property to Anita Andrews; she had not signed it, and he then tra...\" — Candace Owens"
 statement_id: "statement-f3cf0c143740"
 speaker: "Candace Owens"
 type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Richard William Erpenbeck prepared but did not record a deed transferring property to Anita Andrews; she had not signed it, and he then transferred the property to his parents.
+> Richard William Erpenbeck reportedly prepared but did not record a deed transferring property to Anita Andrews; she had not signed it, and he then transferred the property to his parents.
 
 ## Attribution
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:39:36](/episodes/ep-2tFYJf1klgY.md#t-00-39-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2376);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=2376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Cool. Thirdly, Rick (Richard William Erpenbeck) prepared a deed transferring property to a woman named Anita Andrews, but apparently he did not record that deed with the county and the deed wasn't actually signed by Anita Andrews. ... That's weird. And he then quickly transferred that same property to his mother and father. So this kind of feels like this is deed fraud.
 

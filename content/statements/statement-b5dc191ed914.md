@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:54:34](/episodes/ep-9naMwS0kMBE.md#t-00-54-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3274);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I asked this person to just, hey, do you remember this happening? Person said no. We talked to another person. that was at this Aspen event. ... Do you remember Charlie saying that if anything happens to him, I Erika could take over? I got another no.
 

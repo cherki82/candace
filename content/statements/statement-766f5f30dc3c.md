@@ -1,8 +1,8 @@
 ---
-title: "Someone at the Hamptons published a statement saying Charlie..."
-description: "\"Someone at the Hamptons published a statement saying Charlie Kirk said he felt morally blackmailed\" — Candace Owens"
+title: "According to a statement published by an unidentified Hampto..."
+description: "\"According to a statement published by an unidentified Hamptons attendee, Charlie Kirk said he felt morally blackmailed.\" — Charlie Kirk"
 statement_id: "statement-766f5f30dc3c"
-speaker: "Candace Owens"
+speaker: "Charlie Kirk"
 type: "factual_claim"
 ---
 
@@ -10,36 +10,28 @@ type: "factual_claim"
 
 ## Statement
 
-> Someone at the Hamptons published a statement saying Charlie Kirk said he felt morally blackmailed
+> According to a statement published by an unidentified Hamptons attendee, Charlie Kirk said he felt morally blackmailed.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** statement by unidentified Hamptons attendee
 
 ## About
 
 - [Bill Ackman](/entities/person-bill-ackman.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:38:08](/episodes/ep-sreYYcID-QY.md#t-00-37-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2288);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2288s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in fact, somebody that was at the Hamptons published a statement and said that Charlie (Charlie Kirk) said he felt morally blackmailed.
-
-### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
-
-**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:38:13](/episodes/ep-sreYYcID-QY.md#t-00-37-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2293);return false;">Play</a>
-
-> And in fact, somebody that was at the Hamptons published a statement and said that Charlie (Charlie Kirk) said he felt morally blackmailed
 
 ## Verification
 

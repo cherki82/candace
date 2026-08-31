@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:11:41](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(701);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=701s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church and, more specifically, that Camino should have access to young children in a program called Home Fellowship, which put him inside the homes of children.
 

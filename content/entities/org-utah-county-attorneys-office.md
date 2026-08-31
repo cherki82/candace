@@ -25,7 +25,7 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30">2026-08-21 · 00:19:30</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>19</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -78,6 +78,61 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Utah County Attorney's Office (19)</strong></summary>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (19)</summary>
+
+- [00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-50) [✓] (Claim) ["Tyler James Robinson surrendered to police at Washington County Sheriff's Office..."](/statements/statement-ac0e06512d64.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:07:14](/episodes/ep-q7f8r-THr84.md#t-00-06-50) [✓] (Claim) ["DNA consistent with Robinson was found on the rifle trigger"](/statements/statement-a2a35e1127ad.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-07-21) [○] (Claim) ["Tyler Robinson told his lover/roommate to delete incriminating text messages and..."](/statements/statement-666a203b4adc.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-07-21) [○] (Claim) ["Children were present at the time of the shooting, leading to count six charges"](/statements/statement-3fef8ac9fe5c.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:08:07](/episodes/ep-q7f8r-THr84.md#t-00-08-06) [○] (Claim) ["Surveillance camera recorded individual in dark clothing who crossed railing fro..."](/statements/statement-c94566f55e07.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-06) [✓] (Claim) ["Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk w..."](/statements/statement-aebd5ec91482.md)
+
+- [00:09:27](/episodes/ep-q7f8r-THr84.md#t-00-08-44) [✓] (Claim) ["Suspect entered campus from the north at approximately 11:51 a.m. wearing black ..."](/statements/statement-04029db0325a.md)
+
+- [00:11:57](/episodes/ep-q7f8r-THr84.md#t-00-11-31) [✓] (Claim) ["The probable cause statement reported that investigators found a bolt-action rif..."](/statements/statement-b495e09f34f4.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:12:01](/episodes/ep-q7f8r-THr84.md#t-00-11-31) [◐] (Claim) ["Investigators found a bolt action rifle wrapped in a towel in wooded area with o..."](/statements/statement-15a49ac5fed3.md)
+
+- [00:12:01](/episodes/ep-q7f8r-THr84.md#t-00-11-31) [✓] (Claim) ["In that wooded area, investigators found a bolt action rifle wrapped in a towel."](/statements/statement-3ea73e4564df.md)
+
+- [00:12:34](/episodes/ep-q7f8r-THr84.md#t-00-12-13) [○] (Claim) ["'Hey, fascist, catch,' says one on one cartridge. 'You've got notices bulge.' 'W..."](/statements/statement-6ed406539d6c.md)
+
+- [00:13:25](/episodes/ep-q7f8r-THr84.md#t-00-13-23) [○] (Claim) ["on September 11th, Tyler James Robinson then walked in to the Washington County ..."](/statements/statement-794379542e52.md)
+
+- [00:13:46](/episodes/ep-q7f8r-THr84.md#t-00-13-23) [✓] (Claim) ["Robinson's mother saw photo of shooter in news and thought it looked like her so..."](/statements/statement-237b43c17d7a.md)
+
+- [00:14:25](/episodes/ep-q7f8r-THr84.md#t-00-13-57) [✓] (Claim) ["Over the last year Robinson had become increasingly more political, leaning left..."](/statements/statement-fdfb65f0c458.md)
+
+- [00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-30) [○] (Claim) ["In one conversation before the shooting, Robinson mentioned that Charlie Kirk (C..."](/statements/statement-ccc7aa17a866.md)
+
+- [00:15:20](/episodes/ep-q7f8r-THr84.md#t-00-15-09) [✓] (Claim) ["He also believed that the rifle that the police had suspected the shooter had us..."](/statements/statement-1e91be18fe6a.md)
+
+- [00:15:25](/episodes/ep-q7f8r-THr84.md#t-00-15-09) [✓] (Claim) ["The probable cause statement reported that Tyler Robinson did not send his fathe..."](/statements/statement-85b0e60bbf2d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:15:47](/episodes/ep-q7f8r-THr84.md#t-00-15-09) [○] (Accusation) ["Robinson implied that he was the shooter and stated that he could not go to jail..."](/statements/statement-ea1e0979f5cd.md)
+
+- [00:19:03](/episodes/ep-q7f8r-THr84.md#t-00-18-30) [○] (Claim) ["Police interviewed Robinson's roommate, a biological male who was involved in a ..."](/statements/statement-6a033b8d247c.md)
+
+</details>
 
 </details>
 

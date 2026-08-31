@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:09:23](/episodes/ep-tXoI0TTKVrs.md#t-00-08-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(563);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=563s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > but we certainly would like to hear it. We deserve to hear it. Instead, her method of dealing with reasonable public questions is to use turning points bottomless budget to target people with influencers and lawyers while she directs her private plane to transport her away from any meaningful debate.
 

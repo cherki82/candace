@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:24:41](/episodes/ep-BxN2-aeMYIs.md#t-00-24-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1481);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1481s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Our government, I just want to make sure you understand what's happening here. Our government is now describing citizens with platforms who do not believe the lies that they are spewing as dissidents. ... As terrorists, they are smearing them. They are smearing me as being susceptible to a foreign influence operation.
 

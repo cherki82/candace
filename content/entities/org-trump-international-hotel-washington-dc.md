@@ -1,6 +1,6 @@
 ---
 title: "Trump International Hotel Washington, D.C."
-description: "Trump International Hotel Washington, D.C. (Organizations) - 1 mention"
+description: "Trump International Hotel Washington, D.C. (Organizations) - 2 mentions"
 id: "org-trump-international-hotel-washington-dc"
 type: "ORG"
 categories:
@@ -17,10 +17,10 @@ _Type: Organizations_
 Source: [Trump International Hotel Washington D.C. - The Trump Organization](https://www.trump.com/hotels/trump-international-hotel-washington-dc)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#t-00-05-28">2026-02-05 · 00:05:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-50-01">2025-10-02 · 00:50:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#t-00-05-28">2026-02-05 · 00:05:34</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,14 +29,16 @@ Source: [Trump International Hotel Washington D.C. - The Trump Organization](htt
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#t-00-05-28">An Open Letter To Erika Kirk | Candace Ep 303</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-50-01">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-50-01" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#t-00-05-28" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-50-01) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-05-28) | 1 |
 
 </details>
@@ -45,13 +47,21 @@ Source: [Trump International Hotel Washington D.C. - The Trump Organization](htt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
 
 **[00:05:34](/episodes/ep-mFuno0TuuQQ.md#t-00-05-28)**
 > "as we were riding up an elevator at the Trump Hotel in D.C."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:50:31](/episodes/ep-t1YtLS1n8Vs.md#t-00-50-01)**
+> "Trump Hotel in D.C."
 
 </details>
 

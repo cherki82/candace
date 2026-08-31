@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:33:25](/episodes/ep-X3VKJVJ7cN4.md#t-00-33-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2005);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2005s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's just responding naturally. The PR guy. Anyway, it's entitled permission to kill. Look, kill is in red. Ooh, they're serious guys. ... Focus groups sat down and said, let's put the word kill in red. And they have obviously a target's gunshot and then a scope looking at someone and it says, how Candace Owens built a digital assassination culture targeting Erika Kirk.
 

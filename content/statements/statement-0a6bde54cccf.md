@@ -1,36 +1,34 @@
 ---
-title: "Candace Owens believes the Charlie Kirk assassination was a ..."
-description: "\"Candace Owens believes the Charlie Kirk assassination was a deep state operation involving multiple nations including France, Israel, United States, a...\" — Candace Owens"
+title: "Owens said government behavior after Charlie Kirk's killing ..."
+description: "\"Owens said government behavior after Charlie Kirk's killing indicated that officials wanted to cover it up rather than get to the bottom of it.\" — Candace Owens"
 statement_id: "statement-0a6bde54cccf"
 speaker: "Candace Owens"
-type: "opinion"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Candace Owens believes the Charlie Kirk assassination was a deep state operation involving multiple nations including France, Israel, United States, and Egypt
+> Owens said government behavior after Charlie Kirk's killing indicated that officials wanted to cover it up rather than get to the bottom of it.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## About
 
-- [Candace Owens](/entities/person-candace-owens.md) (person)
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [the federal government](/entities/org-the-federal-government.md) (org)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:06:55](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(415);return false;">Play</a>
+**Timestamp:** [00:18:48](/episodes/ep-Kmt6HgRjckU.md#t-00-18-13) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Megyn (Megyn Kelly) asked him directly about the Macron couple and about the allegation that they attempted to orchestrate an assassination on my life and, of course, whether or not they could have been involved in Charlie Kirk's assassination, which I have said, right?
+> The day that Charlie Kirk got publicly executed in front of the world and our government was just, ... behaving in ways that indicated that they wanted to cover this up, that they were not interested in getting to the bottom of this
 
 ## Verification
 
@@ -38,4 +36,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** No

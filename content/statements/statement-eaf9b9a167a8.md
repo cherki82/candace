@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:49:54](/episodes/ep-his-JBjlkh8.md#t-00-49-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2994);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2994s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > now that we know—or that we've learned—and thanks to the internet sleuths and the YouTubers that put this together—that an hour and a half before Charlie (Charlie Kirk) was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been released. You can see that he had the phone call with Donald Trump at 6—sorry, this would be 6:45, obviously, p.m. in French time. That's 10:45 a.m. in Utah time. 10:45 a.m. Utah time
 

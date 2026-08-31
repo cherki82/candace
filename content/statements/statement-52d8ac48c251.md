@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 **Timestamp:** [00:13:37](/episodes/ep-adJ4LNGp84I.md#t-00-13-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(817);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=817s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They would have seen that there was a woman with the shooter, and yet they chose during this manhunt, during this 33-hour manhunt, not to inform the public that they were also looking for a woman who this lady believes, she wondered whether or not she would have been an accomplice, if that was his accomplice
 

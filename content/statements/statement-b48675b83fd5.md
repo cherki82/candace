@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:17:23](/episodes/ep-czVBmqZP6Ss.md#t-00-17-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1043);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1043s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I know that Charlie was offered a ton of money in this moment. A ton of money. Benjamin would fund it, you know? Spend tons of money. And Turning Point, I guess, if it needed to go to a higher level, would have gone to an even higher level than it already was at. And I know for a fact that Charlie denied that funding.
 

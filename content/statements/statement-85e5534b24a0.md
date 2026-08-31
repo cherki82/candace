@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:17:02](/episodes/ep-Ux1kzgQxkws.md#t-01-17-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4622);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4622s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who is believed to be living in israel as a fugitive which the israelis will not help us locate and the other one is alexander smirnoff who is a known israeli intelligence agent those are the two people who was in a prison in the united states serving six years and they can't find him Your president can't find him in his prison, in the prison. ... He is on furlough, but no one knows where he's been furloughed to within the only passport that he has is an Israeli passport.
 

@@ -16,7 +16,9 @@ type: "opinion"
 
 **Speaker:** [Tucker Carlson](/entities/person-tucker-carlson.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Dave Smith show clip
 
 ## About
 
@@ -26,14 +28,14 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:33:11](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1991);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=1991s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > virtue and sin are not transmitted genetically. There is no such thing as blood guilt. Therefore, collective punishment is always immoral
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

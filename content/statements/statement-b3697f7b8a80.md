@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:13:17](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(797);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=797s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So he is announced that he is going to be heading up. ... And on February 28th, Sean Feucht is announced that he's going to be heading up the Kingdom to the Capitol Tour. ... So he becomes the face of this Turning Point USA Faith Tour.
 

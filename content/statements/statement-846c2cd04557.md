@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:00:18](/episodes/ep-y8lak3CRwDw.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(18);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=18s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By the way, you guys, we did send Erika an email on February 24th. So eight days ago asking specifically how many times and for what duration she had visited Romania in the past. ... We got no response. Well, we did get a response. We got a response from a lawyer saying that she was getting ready for the state of the union and didn't have time to reply.
 

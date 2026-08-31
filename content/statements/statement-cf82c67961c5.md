@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
 **Timestamp:** [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2298);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=2298s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Whoever flew under this incredibly highly sensitive call sign, SAM-000, on August 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special Forces Group. It stayed in Colorado Springs for three hours, and then it flew to Las Vegas, arriving there at 4.48 p.m. local time.
 

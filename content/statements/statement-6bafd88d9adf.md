@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:02:37](/episodes/ep-19vHhjF7-NA.md#t-00-02-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(157);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=157s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I guarantee you they wouldn't come up with anything remotely akin to the one that Ivanka (Ivanka Trump) jumped off of because, well, it's a Rothschild-owned boat. ... Yeah, this boat happens to be a planet. It's a super yacht appropriately named Planet Nine. Planet Nine, which is designed for heliskiing adventures for the uninitiated.
 

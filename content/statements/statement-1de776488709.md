@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:09:55](/episodes/ep-y8lak3CRwDw.md#t-00-09-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(595);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=595s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at the same time in 2010. And I will also remind you again that in 2010, Lori Frantzve reinstates AZ Tech International.
 

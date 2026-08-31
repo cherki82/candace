@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:29:52](/episodes/ep-zSKrxIUMNqw.md#t-00-29-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1792);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1792s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He is telling you the truth about what happened with David Horowitz, which is Freedom Center, me, the Babylon Bee.
 

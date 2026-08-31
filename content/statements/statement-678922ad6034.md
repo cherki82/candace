@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:02:12](/episodes/ep-k1b1NDCrNFs.md#t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(132);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=132s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Hold, don't delete anything. So how do I know that this is what they are doing? Well, because their lawyers emailed my team wanting me to give them Ian Carroll's address.
 

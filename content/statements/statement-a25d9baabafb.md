@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:32:27](/episodes/ep-ti5Fxrvegno.md#t-00-32-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1947);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1947s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then if you look up and you look up the LLCs, certainly as being of 2019, she files for a trademark for that fashion brand. So she is both running a fashion brand, getting her master's at Liberty University, getting her real estate license and beginning a career with Corcoran Real Estate, which is a massive real estate firm in New York.
 

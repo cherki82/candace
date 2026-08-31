@@ -27,8 +27,8 @@ type: "factual_claim"
 ### 1. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:28:47](/episodes/ep-9k2xrAC0H88.md#t-00-28-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1727);return false;">Play</a>
+**Timestamp:** [00:28:47](/episodes/ep-9k2xrAC0H88.md#t-00-28-38) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=1727s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > immediately after the car was transported to a towing facility...on Monday, they had another tow truck come and take that car so that it could get a cleaning and be immediately put up for auction
 
@@ -36,7 +36,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:00:49](/episodes/ep-nPhCKwJ6ye8.md#t-02-00-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7249);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=7249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's absurd. That is absurd. Everything should be in evidence. When you learn that the car that they carried Charlie in to go to the hospital, they had immediately towed, cleaned. ... and back up for resale
 
@@ -44,7 +44,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:30:05](/episodes/ep-aPOyk1i2LOc.md#t-01-29-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5405);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=5405s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's absurd. That is absurd. Everything should be in evidence. When you learn that the car that they carried Charlie in to go to the hospital, they had immediately towed clean and... ... and back up for resale, that's absurd.
 

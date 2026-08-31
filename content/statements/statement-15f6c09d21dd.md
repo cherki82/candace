@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:06:30](/episodes/ep-OgRyiOAVtWU.md#t-00-06-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(390);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=390s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And again, I'd like to note that this glove is located inside of the left side rear doors where Rick Cutler was seated. ... This is not after the car is cleaned up. And I can make that apparent in the next picture. ... Anyway, the only place that we could see blood on this door was just there at the handle, so we're zooming in so you can see that.
 

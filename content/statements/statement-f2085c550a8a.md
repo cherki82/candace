@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:51:05](/episodes/ep-AoYZel7_cGQ.md#t-00-50-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3065);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=3065s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > be assassinated and now they are demanding that another innocent man be assassinated tyler robinson is up for the death penalty so when you see these it's 100 him when you see blake neff who is an evil man saying convict tyler robinson and he does not do you have reasonable doubt blake no convict him he's calling for the murder of tyler robinson that's what that is
 

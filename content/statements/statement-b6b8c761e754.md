@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:56:46](/episodes/ep-y8lak3CRwDw.md#t-00-56-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3406);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=3406s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This many people died. We get to pay a fine. They're drug traffickers and they're human traffickers out of Tel Aviv. Tel Aviv runs Vegas, created Vegas, and you could you could argue. ... And beyond that, they control D.C. old dc that's my story i'm sticking to it
 

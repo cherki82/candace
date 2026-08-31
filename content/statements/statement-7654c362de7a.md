@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:50:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-50-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3038);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=3038s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > there's no evidence charlie (Charlie Kirk) was even shot there's no evidence charlie (Charlie Kirk) was even shot
 

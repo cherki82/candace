@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:21:35](/episodes/ep-JQjCAsfoXEE.md#t-00-21-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > first transponded from 9:05 a.m. plus 36 seconds until it was turned off at 10:34 a.m. and five seconds. Then the plane turned
 

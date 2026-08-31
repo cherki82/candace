@@ -1,6 +1,6 @@
 ---
 title: "Free market"
-description: "Free market (Concepts) - 14 mentions"
+description: "Free market (Concepts) - 18 mentions"
 id: "concept-free-market"
 type: "CONCEPT"
 aliases:
@@ -16,10 +16,10 @@ _Type: Concepts_
 **Categories:** political economy
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-free-market-t-00-00-00">2026-01-12 · 00:00:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-free-market-t-00-36-52">2025-09-19 · 00:36:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-free-market-t-00-25-41">2026-06-26 · 00:25:52</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +30,9 @@ _Type: Concepts_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-free-market-t-00-29-22">SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-free-market-t-00-36-52" style="--pulse-height:33%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-free-market-t-00-37-00" style="--pulse-height:17%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-free-market-t-00-34-01" style="--pulse-height:17%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-free-market-t-00-00-00" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-free-market-t-00-44-24" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-free-market-t-00-14-06" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -44,6 +47,9 @@ _Type: Concepts_
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-free-market-t-00-36-52) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-free-market-t-00-37-00) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-free-market-t-00-34-01) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-free-market-t-00-00-00) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-free-market-t-00-44-24) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-free-market-t-00-14-06) | 1 |
@@ -60,7 +66,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -146,6 +152,33 @@ _Type: Concepts_
 
 **[00:00:22](/episodes/ep-CMcktj3Egfo.md#ent-concept-free-market-t-00-00-00)**
 > "initial goals focused on the free market and capitalism"
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[00:34:20](/episodes/ep-YFmRH8p5lt0.md#ent-concept-free-market-t-00-34-01)**
+> "You care about free markets, which I think actually relies upon free speech t..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+
+**[00:37:22](/episodes/ep-iHav0PPzUz8.md#ent-concept-free-market-t-00-37-00)**
+> "...re valid— I'll see you in the free market. But these people can't win the free market."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+
+**[00:36:52](/episodes/ep-aDlhjfW6hz8.md#ent-concept-free-market-t-00-36-52)**
+> "...because they can't win in the free markets."
+
+**[00:41:05](/episodes/ep-aDlhjfW6hz8.md#ent-concept-free-market-t-00-40-41)**
+> "... Jimmy Kimmel said—is for the free markets to take him out, right?"
 
 </details>
 

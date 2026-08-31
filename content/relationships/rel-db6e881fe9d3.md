@@ -1,15 +1,15 @@
 ---
-title: "Mitch formerly worked for Joint Task Force Six"
-description: "Evidence for the relationship: Mitch formerly worked for Joint Task Force Six"
+title: "Mitch Snow formerly worked for Joint Task Force Six"
+description: "Evidence for the relationship: Mitch Snow formerly worked for Joint Task Force Six"
 relationship_id: "rel-db6e881fe9d3"
-subject: "person-mitch-fort-huachuca-witness"
+subject: "person-mitch-snow"
 predicate: "formerly worked for"
 object: "org-joint-task-force-six"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Mitch](/entities/person-mitch-fort-huachuca-witness) formerly worked for [Joint Task Force Six](/entities/org-joint-task-force-six)
+## [Mitch Snow](/entities/person-mitch-snow) formerly worked for [Joint Task Force Six](/entities/org-joint-task-force-six)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-joint-task-force-six"
 
 ### Related
 
-- [Mitch](/entities/person-mitch-fort-huachuca-witness)
+- [Mitch Snow](/entities/person-mitch-snow)
 - [Joint Task Force Six](/entities/org-joint-task-force-six)

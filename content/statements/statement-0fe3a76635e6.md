@@ -7,7 +7,7 @@ type: "promise"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:18:07](/episodes/ep-QdM9jLwjwLw.md#t-00-17-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1087);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=1087s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point USA will continue like my husband always wanted and it will be bigger than ever.
 

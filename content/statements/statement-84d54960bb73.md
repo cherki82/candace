@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:16:43](/episodes/ep-B9TyCs-6o_0.md#t-00-16-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1003);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1003s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I was then surprised when Andrew's story down the line seemed to shift to me and it became that he was with his wife flying from Santa Barbara.
 

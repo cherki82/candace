@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:34:08](/episodes/ep-jsqUIkszZd0.md#t-00-33-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2048);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2048s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After telling his bodyguard to step back a few paces, his response to me was, do you know that I could whoop your ass right here and there's nothing that you could do about it?
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:46:25](/episodes/ep--9MOUvgGyi4.md#t-01-46-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6385);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=6385s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the 3,700 gun, I said 3,700 schools. Yeah. That's, that's great. 3,700 schools and Israel. ... And he says no. ... um 50 000 guns and uh and the idea for the operations and guys of lebanon and syria and that's you know our stare off and he says you know i could whoop your ass and there ain't nothing you could do about it and uh
 

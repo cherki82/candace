@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:01:49](/episodes/ep-7ERqbYElOfs.md#t-00-01-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You have to wake up, okay? America was, in fact, founded by warring factions of Freemasons. Freemasons pursued America in the hopes of establishing a new Atlantis, which was going to be removed from their battles with the Catholic Empire, who were kind of...
 

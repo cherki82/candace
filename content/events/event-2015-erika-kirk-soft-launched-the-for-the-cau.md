@@ -6,6 +6,11 @@ date: "2015"
 ---
 
 **Date:** 2015
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2015 timeline context”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2015"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:08:59](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(539);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=539s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika soft launches another charity that's called For the Cause in Phoenix.

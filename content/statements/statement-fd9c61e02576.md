@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(249);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I was just sort of noticing how the planes foremost were stopping over in states and cities with military bases and more crucially, after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes.
 

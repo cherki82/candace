@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:27:38](/episodes/ep-ti5Fxrvegno.md#t-00-27-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1658);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it even shows her email which is redacted. Now this is a bit of a tinfoil hot conspiracy theory, but if Erika (Erika Kirk) was involved in anything sketchy and she needed to receive payment, having her work for the Corcoran group as a real estate agent would be a very easy way to launder money, right?
 

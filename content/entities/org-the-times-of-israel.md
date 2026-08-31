@@ -1,6 +1,6 @@
 ---
 title: "The Times of Israel"
-description: "The Times of Israel (Organizations) - 3 mentions"
+description: "The Times of Israel (Organizations) - 4 mentions"
 id: "org-the-times-of-israel"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About The Times of Israel and its staff](https://www.timesofisrael.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-org-the-times-of-israel-t-00-50-59">2026-04-30 · 00:50:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-the-times-of-israel-t-00-53-50">2025-09-16 · 00:54:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-the-times-of-israel-t-00-20-32">2026-05-27 · 00:20:32</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,8 +33,9 @@ Source: [About The Times of Israel and its staff](https://www.timesofisrael.com/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-the-times-of-israel-t-00-50-59">BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-org-the-times-of-israel-t-00-53-50">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-the-times-of-israel-t-00-53-50" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-the-times-of-israel-t-00-50-59" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-the-times-of-israel-t-00-36-39" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-the-times-of-israel-t-00-20-32" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
@@ -43,6 +44,7 @@ Source: [About The Times of Israel and its staff](https://www.timesofisrael.com/
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-the-times-of-israel-t-00-53-50) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-the-times-of-israel-t-00-50-59) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-the-times-of-israel-t-00-36-39) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-the-times-of-israel-t-00-20-32) | 1 |
@@ -53,7 +55,7 @@ Source: [About The Times of Israel and its staff](https://www.timesofisrael.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -76,6 +78,14 @@ Source: [About The Times of Israel and its staff](https://www.timesofisrael.com/
 
 **[00:50:59](/episodes/ep-69A8TzAGHlU.md#ent-org-the-times-of-israel-t-00-50-59)**
 > "This is the headline in the Times of Israel headline, literally April 29th. I couldn't believe this. The U.S. House is considering a resolution condemning Hasan Piker."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
+
+**[00:54:26](/episodes/ep-q7f8r-THr84.md#ent-org-the-times-of-israel-t-00-53-50)**
+> "...here's another article out in the Times of Israel today."
 
 </details>
 

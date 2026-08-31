@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:43:12](/episodes/ep-SubDoZWHARo.md#t-00-43-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2592);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2592s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > there's other people that have trafficking history that are involved with Turning Point USA and in particular there is someone who openly discusses the fact that he used to traffic arms I'll say allegedly but this is apparently something he's very open about around the office he's very close with Andrew Kolvet that's what I am told by again both current and former ... former Turning Point USA employee. His name is Marcus Wada.
 

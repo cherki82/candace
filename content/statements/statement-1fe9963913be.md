@@ -1,39 +1,35 @@
 ---
-title: "Charlie Kirk stated that Lyndon Baines Johnson and parts of ..."
-description: "\"Charlie Kirk stated that Lyndon Baines Johnson and parts of the US government wanted JFK dead\" — Charlie Kirk"
+title: "Owens asserted that the CIA has been engaged in trafficking."
+description: "\"Owens asserted that the CIA has been engaged in trafficking.\" — Candace Owens"
 statement_id: "statement-1fe9963913be"
-speaker: "Charlie Kirk"
-type: "factual_claim"
+speaker: "Candace Owens"
+type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Charlie Kirk stated that Lyndon Baines Johnson and parts of the US government wanted JFK dead
+> Owens asserted that the CIA has been engaged in trafficking.
 
 ## Attribution
 
-**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from speech/interview
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Made directly
 
 ## About
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [John F. Kennedy](/entities/person-john-f-kennedy.md) (person)
-- [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md) (person)
+- [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(132);return false;">Play</a>
+**Timestamp:** [00:23:27](/episodes/ep-Kmt6HgRjckU.md#t-00-23-05) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1407s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> But definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead
+> Obviously, our CIA has been engaged in trafficking.
 
 ## Verification
 
@@ -54,4 +50,4 @@ Verified as direct attribution: the reproduced clip contains Kirk's statement th
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

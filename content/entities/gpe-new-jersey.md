@@ -1,6 +1,6 @@
 ---
 title: "New Jersey"
-description: "New Jersey (Places) - 7 mentions"
+description: "New Jersey (Places) - 9 mentions"
 id: "gpe-new-jersey"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [State of New Jersey](https://www.nj.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-jersey-t-00-26-33">2026-01-29 · 00:26:51</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-jersey-t-00-00-01">2025-11-04 · 00:00:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-new-jersey-t-00-07-06">2026-07-16 · 00:07:12</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,8 +28,9 @@ Source: [State of New Jersey](https://www.nj.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-new-jersey-t-00-06-22">EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-jersey-t-00-00-01">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-jersey-t-00-00-01" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-jersey-t-00-26-33" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-jersey-t-00-27-35" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-new-jersey-t-00-45-32" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
@@ -41,6 +42,7 @@ Source: [State of New Jersey](https://www.nj.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-jersey-t-00-00-01) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-jersey-t-00-26-33) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-jersey-t-00-27-35) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-new-jersey-t-00-45-32) | 1 |
@@ -54,7 +56,7 @@ Source: [State of New Jersey](https://www.nj.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
@@ -104,6 +106,17 @@ Source: [State of New Jersey](https://www.nj.gov/)
 
 **[00:26:51](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-jersey-t-00-26-33)**
 > "Israel is the size of New Jersey"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+
+**[00:00:09](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-jersey-t-00-00-01)**
+> "...untry that's only the size of New Jersey."
+
+**[00:23:02](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-jersey-t-00-23-02)**
+> "...ation that's only the size of New Jersey and has done nothing wrong ever and was truly the..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 156 mentions"
+description: "Judaism (Concepts) - 174 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -20,10 +20,10 @@ _Type: Concepts_
 Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/introduction-to-judaism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21">2026-01-12 · 00:22:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-35-19">2025-09-22 · 00:35:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>156</strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>174</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,11 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-judaism-t-00-02-51">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (23 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-38-09" style="--pulse-height:35%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-judaism-t-00-36-02" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-judaism-t-00-51-41" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-judaism-t-00-13-01" style="--pulse-height:9%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-01-51" style="--pulse-height:26%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21" style="--pulse-height:13%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15" style="--pulse-height:9%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -77,6 +82,11 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-38-09) | 8 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-judaism-t-00-36-02) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-judaism-t-00-51-41) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-judaism-t-00-13-01) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-01-51) | 6 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-30) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15) | 2 |
@@ -122,7 +132,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (156)</strong></summary>
+<summary><strong class="section-title">Raw mentions (174)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -773,6 +783,85 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 
 **[00:39:04](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-38-55)**
 > "These are pro-Israel Jewish friends of mine."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+
+**[00:02:14](/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-01-51)**
+> "...ing behind the scenes to have Jewish donors start threatening Charlie to make sure tha..."
+
+**[00:04:29](/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-04-29)**
+> "...te event, probably at another Jewish donor's house, and somebody caught him standing o..."
+
+**[00:23:59](/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-23-59)**
+> "...r to the very end against the Jewish donors who were pressuring him, some of them beca..."
+
+**[00:44:42](/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-44-30)**
+> "...e, I'm her cousin, she's half Jewish."
+
+**[00:44:45](/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-44-30)**
+> "... I did know that she was part Jewish."
+
+**[00:58:34](/episodes/ep-w1oqQbR_bYs.md#ent-concept-judaism-t-00-58-34)**
+> "...through in the end because of Jewish donors threatening him, I'm gonna take everything..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+
+**[00:13:21](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-judaism-t-00-13-01)**
+> "That was a female Jewish donor. And I will be outing her later because I d..."
+
+**[00:50:01](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-judaism-t-00-49-33)**
+> "...ain things who happened to be Jewish."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:51:53](/episodes/ep-vwG1juDCQZQ.md#ent-concept-judaism-t-00-51-41)**
+> "...s and also pressure from your Jewish donors."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:36:06](/episodes/ep-K5GjF53bfN4.md#ent-concept-judaism-t-00-36-02)**
+> "... I've read that my husband is Jewish."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (8 mentions)</summary>
+
+**[00:38:43](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-38-09)**
+> "Converting to Catholic from Judaism."
+
+**[00:35:56](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-35-19)**
+> "...rds—I mean, just being honest—Jewish people.""
+
+**[00:38:45](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-38-09)**
+> ""Oh, from Judaism?""
+
+**[00:38:47](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-38-09)**
+> "So you're ethnically Jewish.""
+
+**[00:38:50](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-38-09)**
+> ""Ethnically Jewish, yes.""
+
+**[00:41:03](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-40-37)**
+> "To that young ethnically Jewish kid who said he was converting to Catholicism—ama..."
+
+**[00:41:08](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-40-37)**
+> "...n the political realm for the Jewish people—they would go a lot further."
+
+**[00:42:33](/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-41-59)**
+> "...t text messages. I know other Jewish people—you know, they love you, but they were hur..."
 
 </details>
 

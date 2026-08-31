@@ -1,6 +1,6 @@
 ---
-title: "WireFi sponsored the event as indicated by backdrop advertis..."
-description: "\"WireFi sponsored the event as indicated by backdrop advertising; a man in WireFi shirt took a photo or sent a text immediately after shots while secur...\" — Candace Owens"
+title: "Owens said a man wearing a WireFi shirt approached after the..."
+description: "\"Owens said a man wearing a WireFi shirt approached after the shot and then appeared to send a text or take a photo, though she said his action was not...\" — Candace Owens"
 statement_id: "statement-ab42ac0bd47b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,22 +10,26 @@ type: "factual_claim"
 
 ## Statement
 
-> WireFi sponsored the event as indicated by backdrop advertising; a man in WireFi shirt took a photo or sent a text immediately after shots while security handled Charlie Kirk
+> Owens said a man wearing a WireFi shirt approached after the shot and then appeared to send a text or take a photo, though she said his action was not entirely clear
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [WireFi](/entities/org-wirefi.md) (org)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:16:38](/episodes/ep-UBkFkg4UNY8.md#t-00-16-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(998);return false;">Play</a>
+**Timestamp:** [00:16:24](/episodes/ep-UBkFkg4UNY8.md#t-00-16-01) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=984s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And that's common sense, given the fact that WireFi—you will notice in the clips of the event—is the backdrop advertiser that's behind Charlie (Charlie Kirk)
+> He's right there in the blue shirt. ... sends a text. As I'm watching the footage, it goes on a little bit longer. Like, sends a text, takes a photo—not entirely clear what's being done there—but it just sort of stood out to me, like, in the middle of the chaos, seeing that. ... He's wearing a shirt that says WireFi.
 
 ## Verification
 

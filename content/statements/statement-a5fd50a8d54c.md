@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:22:21](/episodes/ep-4YgrOhhy708.md#t-00-22-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a lawsuit and the content of this lawsuit is impressive. This is an old newspaper article again from October 20. ... 21st 1985 it appeared in the times union and it says the sanctuary movement is on trial it tells us the story of this guy who um picked up a hitchhiker and there a movement was born and to begin smuggling humans across the border and hiding them into churches i kid you not ... essentially the argument that he's making is we actually shouldn't invade these churches because then it's going to become a talking point that oh look at the big bad like you know ice agents that are invading churches and we shouldn't do that so i'm going to direct quote because he testified and he said um he wrote to his superiors quote a ploy is going to be border patrol baiting in order to demonstrate to the public that the u.s government thinks nothing of breaking down the doors of their churches
 

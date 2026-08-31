@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) met with [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (18 mentions)
+### Evidence (20 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -61,9 +61,17 @@ object: "person-erika-kirk"
 
 - [00:39:47](/episodes/ep-X3VKJVJ7cN4#t-00-39-47): _My source was Andrew Kolvet. It was, I told Erika that when we met face to face._
 
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI#t-00-02-04): _And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk)._
+
 **[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
 
 - [00:52:36](/episodes/ep-hWTdXHGQ8R4#t-00-52-36): _And I told you when I sat down with Erika (Erika Kirk), they didn't have anything. They weren't hiding anything._
+
+**[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
+
+- [00:02:29](/episodes/ep-ja26iltROkM#t-00-02-29): _I remember meeting Erika._
 
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 

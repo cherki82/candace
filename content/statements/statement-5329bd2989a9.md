@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:37:37](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2257);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2257s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you won't be sending a thousand units to anyone in the IDF you will get a paycheck for the patent and possibly your company and then on to your next adventure
 

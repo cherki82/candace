@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:28:15](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By way of deception was the only book in the history of American literature that there was a gag order for 24 hours. ... They managed to stop that book for 24 hours. ... It was the first and last ever gag order on an American book in ... the United States, ... and that's 1992.
 

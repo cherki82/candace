@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:19:19](/episodes/ep-EtLHqDbxqks.md#t-00-19-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1159);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1159s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You are noticing that that is a dual exhaust pipe. You see two? Right? These are your eyes. ... Well, Robinson's car, here's a still of the car, which is clearer, which was towed out of his driveway, features not a dual exhaust pipe exhaust system, but it's just, it's singular.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:08:03](/episodes/ep-WoXd4oLwd3w.md#t-00-07-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(483);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=483s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Let me read this to you in case you're a Tucker (Tucker Carlson) fan who can't read. The case, that's the Crooks case he says was shut down, currently sits in a pending, inactive status.
 

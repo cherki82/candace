@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:21:13](/episodes/ep-DYD_QHMPwqM.md#t-00-21-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so I am now pretty obsessed with trying to confirm Erika (Erika Kirk)'s story up September 10th. She said in the morning of September 10th, she was with her mother. Her mother was receiving a medical treatment and she got the news when Mikey McCoy called her and collapsed in a parking lot.
 

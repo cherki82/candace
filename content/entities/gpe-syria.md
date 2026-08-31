@@ -1,6 +1,6 @@
 ---
 title: "Syria"
-description: "Syria (Places) - 22 mentions"
+description: "Syria (Places) - 21 mentions"
 id: "gpe-syria"
 type: "GPE"
 categories:
@@ -20,9 +20,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05">2025-11-12 · 00:52:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -31,7 +31,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05" style="--pulse-height:40%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-syria-t-00-42-29" style="--pulse-height:60%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-syria-t-00-05-17" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -48,7 +48,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-syria-t-00-42-29) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38) | 5 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-syria-t-00-05-17) | 1 |
@@ -67,7 +67,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -185,13 +185,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
 **[00:52:22](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05)**
 > "...ple complain about how these people have nowhere to go. "I can't believe that Israel is taking over Syria, and now there's all these Syrian refugees." I can't believe Israel—it's just—they're expanding the..."
-
-**[00:52:28](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05)**
-> "I can't believe that Israel is taking over Syria, and now there's all these Syrian refugees"
 
 </details>
 
@@ -227,7 +224,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Syria (9)</strong></summary>
+<summary><strong class="section-title">Statements about Syria (11)</strong></summary>
 
 <details>
 <summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3)</summary>
@@ -283,6 +280,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [01:04:07](/episodes/ep-OEAHy3SsIiI.md#t-01-03-38) (Accusation) **Candace Owens**: ["Israel had been working with Al-Qaeda or an Al-Qaeda-adjacent group in..."](/statements/statement-a9ea16785ff5.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Al-Qaida](/entities/org-al-qaida.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+
+- [00:43:26](/episodes/ep-a-e7HC6SeK8.md#t-00-43-12) (Claim) **Candace Owens**: ["Owens said the official reason given for the strikes was that the Syri..."](/statements/statement-c3ea20036b5e.md)
+  - Also about: [Bashar al-Assad](/entities/person-bashar-al-assad.md)
+
+- [00:44:03](/episodes/ep-a-e7HC6SeK8.md#t-00-43-56) (Citation) **France** (via quoted document): ["France said in an April 14 statement that "France's red line had been ..."](/statements/statement-86036759ce02.md)
+  - Also about: [France](/entities/gpe-france.md)
 
 </details>
 

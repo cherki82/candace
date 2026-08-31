@@ -1,6 +1,6 @@
 ---
-title: "Bill Ackman donated $1.75 million to PACs opposing Zohran Ma..."
-description: "\"Bill Ackman donated $1.75 million to PACs opposing Zohran Mamdani in the 2025 New York City mayoral election\" — Candace Owens"
+title: "Candace Owens said Bill Ackman gave $1.75 million against Ma..."
+description: "\"Candace Owens said Bill Ackman gave $1.75 million against Mamdani.\" — Candace Owens"
 statement_id: "statement-e9c76e71619c"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,14 +11,13 @@ veracity: "true"
 
 ## Statement
 
-> Bill Ackman donated $1.75 million to PACs opposing Zohran Mamdani in the 2025 New York City mayoral election
+> Candace Owens said Bill Ackman gave $1.75 million against Mamdani.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## About
 
@@ -28,10 +27,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:10:07](/episodes/ep-LATnak75Si0.md#t-00-09-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(607);return false;">Play</a>
+**Timestamp:** [00:10:19](/episodes/ep-LATnak75Si0.md#t-00-10-19) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Bill Ackman almost personally ran against Mamdani, right? ... Point is, Mamdani won, okay? ... Bill gave ... $1.75 million, and Mamdani won—irrespective of the money that was donated against him.
+> Point is, Mamdani won, okay? Bill gave $1.75 million, and Mamdani won—irrespective of the money that was donated against him.
 
 ## Verification
 

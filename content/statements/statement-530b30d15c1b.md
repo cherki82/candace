@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:17:21](/episodes/ep-BxN2-aeMYIs.md#t-00-16-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1041);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1041s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was then given a Dropbox link containing research, polling data, internal comments and strategy material compiled by VFT and the third party involved. ... Inside the Dropbox were seven folders.
 

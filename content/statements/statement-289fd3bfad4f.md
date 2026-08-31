@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
 **Timestamp:** [00:24:16](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1456);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=1456s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Egyptian registered aircraft were following Erika Kirk Charlie's widow around for a number of years in different places in the world. ... That's one of the weirdest things I've ever heard and I just want to say that that is factually true. ... What does that mean? ... I have literally no idea.
 

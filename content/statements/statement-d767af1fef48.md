@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:22:43](/episodes/ep-tB5SXXmd9vU.md#t-00-22-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1363);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1363s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, as it pertains to the French Legion, something else that's kind of interesting is that they basically gutted and replaced about half of their leadership in mid-August. ... Check out this article published on August 20th. ... In 2025, a change of command took place across six regiments. ... Now, we researched, and look, I'm not a military buff, but we found that they have 12 regiments that are known of. ... And you're telling me that they gutted leadership of six, they put in six new commanders.
 

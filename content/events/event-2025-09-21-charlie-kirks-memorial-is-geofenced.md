@@ -6,6 +6,11 @@ date: "2025-09-21"
 ---
 
 **Date:** 2025-09-21
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 21st”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-21"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:38:35](/episodes/ep-eMtjzXkQrsU.md#event-event-2025-09-21-charlie-kirks-memorial-is-geofenced-t-00-38-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2315);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2315s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On September 21st, Charlie Kirk's memorial is geofenced.

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:19:00](/episodes/ep-mFuno0TuuQQ.md#t-00-18-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think France and Israel are involved in Charlie Kirk's assassination, ... and I'm going to put that out there with full confidence.
 

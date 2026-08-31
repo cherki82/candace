@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:14:52](/episodes/ep-k1b1NDCrNFs.md#t-00-14-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(892);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=892s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so the person saying, dude, he didn't see Erika (Erika Kirk) and Brian Harpole. He's just a con artist. My my source at Turning Point USA literally said they have all the documents and proof proof both Brian (Brian Harpole) and Erika (Erika Kirk) weren't there and they're purposefully giving Candace rope to hang herself.
 

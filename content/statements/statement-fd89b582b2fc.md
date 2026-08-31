@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:22:46](/episodes/ep-DYD_QHMPwqM.md#t-00-22-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1366);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1366s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reality is her and Andrew (Andrew Kolvet) called the doctor together through a call on the day of Charlie (Charlie Kirk)'s funeral and the Superman quote came from Erika (Erika Kirk).
 

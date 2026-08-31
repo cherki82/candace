@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:41:41](/episodes/ep-5zgkrOaCCj4.md#t-00-41-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2501);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=2501s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've never cheated on anyone. I've never just carelessly or casually had sex ever. So I've only ever been with men that I, at least at the time, felt certain I was going to be with forever and have a family with.
 

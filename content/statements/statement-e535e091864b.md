@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:47:41](/episodes/ep--9MOUvgGyi4.md#t-01-47-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6461);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=6461s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think the whole weekend was kind of designed to intimidate you. I mean, from. wearing they're all wearing bulletproof why you know him he's supposed to be a friend of yours we're just breaking these in that feel it just kind of feels like a military presence so it's kind of and again this is my opinion but like supposed to subconsciously wrap you in this idea like we're we are a force and you're here alone you don't have your wife here Eileen (Eileen Marx)'s not here it just feels very yeah ... And then he's leading up to this big question on the third day, no one's here, I could kick your butt and the IDF wants this and you need the money sort of a thing, you know, you're desperate and, you know, this is what we can do, this is what your company's worth, it's quite intimidating or meant to be intimidating.
 

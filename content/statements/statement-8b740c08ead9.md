@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 **Timestamp:** [00:22:50](/episodes/ep-adJ4LNGp84I.md#t-00-22-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1370);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=1370s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it is also a fact, by the way, that Charlie (Charlie Kirk) was on a hit list.
 

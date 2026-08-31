@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:03:38](/episodes/ep-iHav0PPzUz8.md#t-00-03-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(218);return false;">Play</a>
+**Timestamp:** [00:03:38](/episodes/ep-iHav0PPzUz8.md#t-00-03-11) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=218s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I should tell you, because there has been a lot of speculation about it online, that took place approximately 26 minutes after Charlie (Charlie Kirk) was assassinated.
 

@@ -6,6 +6,11 @@ date: "2002"
 ---
 
 **Date:** 2002
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2002”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2002"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:05:34](/episodes/ep-_vg7ucP1E0g.md#event-event-2002-prosecutors-initiated-a-grand-jury-inves-t-00-05-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(334);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=334s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > prosecutors initiated a grand jury investigation into charges of sexual abuse by Catholic priests

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:12:55](/episodes/ep-cZxHqYsWRYg.md#t-00-12-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(775);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=775s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Another personal favorite portion of mine from the news of that day is the notary testifying that Rick (Richard Erpenbeck)'s brother Bill (Bill Erpenbeck) would sometimes ask her to notarize documents while the person involved was not even present, right? ... She said Bill Erpenbeck sometimes asked her to notarize documents from the people who supposedly had signed them or not in her presence.
 

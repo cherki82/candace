@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:36:41](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2201);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump's Department of Justice made it a safe space for Israel. Now, I'm assuming you probably need a timeline because when you see a timeline, it just gets a little crazy.
 

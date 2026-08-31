@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:22:30](/episodes/ep-Vu6Y24pqhZs.md#t-00-22-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1350);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1350s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they have a presence in more than 41 countries and on U.S. Navy vessels. ... They are tasked primarily, the NCIS, with investigating major criminal activities that involve the Navy and the Marine Corps.
 

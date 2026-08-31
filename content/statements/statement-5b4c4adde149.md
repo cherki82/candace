@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(959);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=959s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Britney Spears lives in Thousand Oaks, California—as does Justin Bieber. I believe P. Diddy, I believe, has a house there as well.
 

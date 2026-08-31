@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [01:00:19](/episodes/ep-9naMwS0kMBE.md#t-00-59-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3619);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what did Erika know? Did she know he was going to die the next day? Because I think the answer to that question is yes. In my opinion, I think the answer is yes.
 

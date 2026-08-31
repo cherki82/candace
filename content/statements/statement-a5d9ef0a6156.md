@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3028);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3028s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from turning point action.
 

@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5726);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=5726s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:16:37](/episodes/ep-mKXdKV-OBog.md#t-00-16-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(997);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=997s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the shots, right? That also was recorded by a person in the military who actually teaches shooting. So this is not a military
 

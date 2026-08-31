@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:00:10](/episodes/ep-7ERqbYElOfs.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(10);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=10s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do have to say today is a great day to be Candace Owens. It's a great day also to be a Candace Owens podcast listener, because back in November, I was telling you guys that France was, in fact, involved in Charlie Kirk's assassination, specifically that their intelligence agency, also known as DGSE, was involved.
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:07:02](/episodes/ep-1CFDtD0IgEg.md#t-00-06-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You were in the back praying because from where I'm sitting, there is currently more evidence that Charlie Kirk was killed from an exploding mic than there is that he was shot from.
 

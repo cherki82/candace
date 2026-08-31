@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:35:05](/episodes/ep-EtLHqDbxqks.md#t-00-35-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2105);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2105s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, I just said it again. Tyler Robinson, despite all of these prints on the gun, Tyler Robinson's prints were the most degraded, or his DNA was the most degraded. And I'm going to explain that in a second.
 

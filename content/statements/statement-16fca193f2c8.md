@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:31:02](/episodes/ep-d7VsbEIWkP8.md#t-00-30-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1862);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1862s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what they decided to do after they questioned Lance (Lance Twiggs) for a few hours is they offered him a ride back home. ... He was then dropped off by police at his parents' residence. The feds then moved him and his father into a safe house. ... The feds paid for them to live somewhere unknown to the general public.
 

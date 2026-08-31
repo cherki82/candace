@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:35:38](/episodes/ep-X3VKJVJ7cN4.md#t-00-35-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2138);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2138s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika's done that. Erika made personal phone calls to priests, telling them not to attend an event that I was at, because that's how she behaves behind the scenes, while she...
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:21:03](/episodes/ep-Pb7UlpRdW6U.md#t-00-20-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1263);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1263s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They already can shut down a large portion of cars automatically, the newer ones. They can just literally while you're driving shut that down.
 

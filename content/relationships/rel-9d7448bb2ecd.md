@@ -11,7 +11,7 @@ object: "person-kash-patel"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Kash Patel](/entities/person-kash-patel)
 
-### Evidence (7 mentions)
+### Evidence (10 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
@@ -29,6 +29,10 @@ object: "person-kash-patel"
 
 - [00:44:08](/episodes/ep-IqHsl7d2dos#t-00-44-08): _Not saying he did anything wrong. I am saying he did everything wrong on the 10th._
 
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:35:32](/episodes/ep-K1tFD7FfoCU#t-00-35-32): _I am everyone right now when I say that Kash Patel is the most embarrassing human in the United States._
+
 **[SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U)**
 
 - [00:15:29](/episodes/ep-Pb7UlpRdW6U#t-00-15-29): _It was just completely ridiculous. This is just, you should laugh at this. Kash Patel's stunning reaction as the shooter opened fire at a White House Correspondents' Dinner._
@@ -37,9 +41,17 @@ object: "person-kash-patel"
 
 - [00:49:10](/episodes/ep-UYkXV9mYbT4#t-00-49-10): _You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them._
 
+**[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
+
+- [00:39:04](/episodes/ep-pc3pxRyNFZk#t-00-39-04): _We're not gonna get those answers from Kash Patel about that plane. We're not even getting straight answers about the other plane._
+
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 
 - [00:56:27](/episodes/ep-qZ8RWfyuewQ#t-00-56-27): _I wouldn't be able to stomach sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White House correspondence center. Why don't you ask him to give the defense what they need if you want a speedy trial victim?_
+
+**[Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc)**
+
+- [00:51:47](/episodes/ep-t4U7NjnUEgc#t-00-51-47): _because Kash Patel is just not interested and it is a struggle for me to believe that they didn't know about this French angle_
 
 ### Related
 

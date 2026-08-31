@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:27:18](/episodes/ep-ti5Fxrvegno.md#t-00-26-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1638);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1638s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, in this Epstein document that's doing an official name search, an alias for Lynn Forester, a.k.a. Lady de Rothschild, it states that under her work affiliations she is the Corcoran Group, Inc. president. And it even shows her email which is redacted.
 

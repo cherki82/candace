@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:00:27](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(27);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=27s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in this conspiracy, whether unwittingly or not. And I have to say that Taryl Farnsworth racing to take down the camera behind Charlie (Charlie Kirk)'s head minutes after he died, also that little selfie he recorded of himself declaring that Charlie (Charlie Kirk) was dead seconds after he died, that's not going to help the conspiracies.
 

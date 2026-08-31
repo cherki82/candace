@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:32:24](/episodes/ep-qZ8RWfyuewQ.md#t-00-32-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1944);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1944s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'll put a bounty on it. I will. offer $10,000 to somebody who has the opposite side footage. ... And I obviously will not run your name. I will protect you. If you have that opposite side footage of the person who caught that footage, 10K is yours, no questions asked.
 

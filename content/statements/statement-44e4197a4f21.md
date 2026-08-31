@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:52:18](/episodes/ep-wcD2khO3rOA.md#t-00-51-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3138);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3138s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the movement controls more than 300 million... Washington area property owned by the church, its affiliated companies or senior church officials is worth more than $200 million
 

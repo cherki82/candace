@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:18:41](/episodes/ep-JQjCAsfoXEE.md#t-00-18-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1121);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1121s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > probability—okay, under random distribution models—that these Egyptian planes coincidentally landed around Erika at these times. Like I said, this plane was not just
 

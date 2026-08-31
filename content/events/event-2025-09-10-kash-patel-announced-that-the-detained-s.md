@@ -7,6 +7,11 @@ time: "17:59"
 ---
 
 **Date:** 2025-09-10 at 17:59
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “5.59 p.m.”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "17:59"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:08:59](/episodes/ep-rupRLXmSndU.md#event-event-2025-09-10-kash-patel-announced-that-the-detained-s-t-00-08-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(539);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=539s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The subject in custody has been released after an interrogation by law enforcement.
 
@@ -26,6 +31,6 @@ time: "17:59"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:09:14](/episodes/ep-HYn0P-P1wUw.md#event-event-2025-09-10-kash-patel-announced-that-the-detained-s-t-00-08-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(554);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=554s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kash Patel tweets that the subject, erroneously tweets that the subject in custody has been released

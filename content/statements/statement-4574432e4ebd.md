@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:03:47](/episodes/ep-YeEtS7nix3o.md#t-00-03-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(227);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just so you guys know, this is the most hilarious part. Trump administration sent an entire delegation to this.
 

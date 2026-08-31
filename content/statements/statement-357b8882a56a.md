@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:01:31](/episodes/ep-zSKrxIUMNqw.md#t-00-01-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(91);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=91s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am going to tell you about a turning point action former employee who has just been sentenced for a crime in Arizona.
 

@@ -6,6 +6,11 @@ date: "2017"
 ---
 
 **Date:** 2017
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “this year”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2017"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:17:28](/episodes/ep-_vg7ucP1E0g.md#event-event-2017-erika-kirk-was-pictured-at-a-celebrity-d-t-00-17-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1048);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1048s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she is randomly pictured at a celebrity dentist this year as well, Dr.

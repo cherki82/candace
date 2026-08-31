@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(54);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=54s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) was assassinated in broad daylight
 
@@ -37,7 +37,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(54);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=54s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) was assassinated in broad daylight, and they immediately deployed their troops to criminalize asking questions.
 

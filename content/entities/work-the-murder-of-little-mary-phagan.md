@@ -21,8 +21,8 @@ _Type: Works & Media_
 Source: [NYPL Research Catalog — The murder of little Mary Phagan](https://www.nypl.org/research/research-catalog/bib/b11169311)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-04-56">2025-10-02 · 00:05:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-04-56">2025-10-02 · 00:05:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-05-22">2025-10-02 · 00:05:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-05-22">2025-10-02 · 00:05:22</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,15 +33,15 @@ Source: [NYPL Research Catalog — The murder of little Mary Phagan](https://www
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-04-56">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-05-22">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-04-56" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-05-22" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-04-56) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-05-22) | 1 |
 
 </details>
 </section>
@@ -54,7 +54,7 @@ Source: [NYPL Research Catalog — The murder of little Mary Phagan](https://www
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:05:22](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-04-56)**
+**[00:05:22](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-murder-of-little-mary-phagan-t-00-05-22)**
 > "I can point you guys; there's a book called The Murder of Little Mary Phagan, and it is written by a relative of hers."
 
 </details>

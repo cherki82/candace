@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:18:20](/episodes/ep-BxN2-aeMYIs.md#t-00-18-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1100);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1100s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In that same Charlie Kirk report, they state, quote, this represents an urgent national security threat and demands a whole-of-government response on par with cyber attacks on terrorism.
 

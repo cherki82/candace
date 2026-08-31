@@ -1,6 +1,6 @@
 ---
-title: "I can tell you it's a Zionist attack."
-description: "\"I can tell you it's a Zionist attack.\" — Candace Owens"
+title: "Owens said the media attacks were a Zionist attack, pointing..."
+description: "\"Owens said the media attacks were a Zionist attack, pointing to outlets parroting the same talking point and clearly collaborating.\" — Candace Owens"
 statement_id: "statement-ef2f96c32c94"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> I can tell you it's a Zionist attack.
+> Owens said the media attacks were a Zionist attack, pointing to outlets parroting the same talking point and clearly collaborating.
 
 ## Attribution
 
@@ -22,10 +22,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:31:29](/episodes/ep-sreYYcID-QY.md#t-00-31-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1889);return false;">Play</a>
+**Timestamp:** [00:31:20](/episodes/ep-sreYYcID-QY.md#t-00-31-15) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1880s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I can tell you it's a Zionist attack
+> They are all parroting the same talking point. They're clearly collaborating. I can tell you it's a Zionist attack.
 
 ## Verification
 

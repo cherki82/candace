@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:01:03](/episodes/ep-E7P2ShoYDUA.md#t-00-00-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(63);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=63s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, they are the biggest losers. I personally think the organization is over. There can't be much coming back from that who they're now hitching their wagon to.
 

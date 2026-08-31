@@ -1,6 +1,6 @@
 ---
-title: "Miriam Adelson gave Trump $100 million with the explicit und..."
-description: "\"Miriam Adelson gave Trump $100 million with the explicit understanding he would allow Israel to annex the West Bank.\" — Candace Owens"
+title: "Owens said, as her perspective, that Miriam Adelson gave Tru..."
+description: "\"Owens said, as her perspective, that Miriam Adelson gave Trump 100 million dollars with the explicit understanding he would allow Israel to annex the ...\" — Candace Owens"
 statement_id: "statement-794eecb6af0b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Miriam Adelson gave Trump $100 million with the explicit understanding he would allow Israel to annex the West Bank.
+> Owens said, as her perspective, that Miriam Adelson gave Trump 100 million dollars with the explicit understanding he would allow Israel to annex the West Bank
 
 ## Attribution
 
@@ -29,9 +29,9 @@ veracity: "mixed"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4027);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=4027s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Miriam Adelson gave him $100 million, and she was explicit. ... The $100 million meant that he would allow them to annex—not Gaza—the West Bank. ... He pre-agreed to that, and he's gonna make good on his pre-agreement. ... That's my perspective.
+> Miriam Adelson gave him $100 million, and she was explicit. The $100 million meant that he would allow them to annex—not Gaza—the West Bank. So all this chatter of "Oh, that would be a step too far—no, blah, blah, blah." He pre-agreed to that, and he's gonna make good on his pre-agreement. That's my perspective.
 
 ## Verification
 

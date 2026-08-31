@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:39:38](/episodes/ep-i8m_6D4QGmk.md#t-00-39-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2378);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2378s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because on February 26th, Trump signed an executive order invoking the Defense Production Act to boost the production of glyphosate, which is what's found in Monsanto, right?
 

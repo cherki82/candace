@@ -17,11 +17,11 @@ _Type: Organizations_
 Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/departments/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-59">2025-09-16 · 00:07:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-50">2025-09-16 · 00:07:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-01-38-09">2026-08-14 · 01:38:09</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -29,9 +29,9 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-59">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-50">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-59" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-50" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-washington-county-sheriff-s-office-t-00-27-57" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-washington-county-sheriff-s-office-t-00-40-25" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-washington-county-sheriff-s-office-t-00-39-34" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
@@ -42,7 +42,7 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-59) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-50) | 2 |
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-washington-county-sheriff-s-office-t-00-27-57) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-washington-county-sheriff-s-office-t-00-40-25) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-washington-county-sheriff-s-office-t-00-39-34) | 1 |
@@ -95,7 +95,7 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:28:04](/episodes/ep-2WEHTk0Xewg.md#ent-org-washington-county-sheriff-s-office-t-00-27-57)**
+**[00:28:01](/episodes/ep-2WEHTk0Xewg.md#ent-org-washington-county-sheriff-s-office-t-00-27-57)**
 > "... September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had committed the incident...."
 
 </details>
@@ -103,10 +103,10 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:07:05](/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-59)**
+**[00:07:02](/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-50)**
 > "...eep signaling that to us. On September 11, 2025, when Tyler James Robinson surrendered to police at Washington County Sheriff's Office... That was when it happened. They found DNA consistent with Robinson on the rifle trigger. After s..."
 
-**[00:13:25](/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-13-25)**
+**[00:13:23](/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-13-23)**
 > "...as they continued their investigation on September 11th, Tyler James Robinson then walked in to the Washington County Sheriff's Office and he is accompanied by his parents and a family friend to turn himself in, okay? Now again, he di..."
 
 </details>
@@ -170,6 +170,19 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:38:26](/episodes/ep-eLgD5yUVbko.md#t-00-38-00): “He says the phone call is less less than two minutes. And then Sheriff Brooksby. calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell. They're all excited. ... At 1026, the search warrants. For instance, Tyler Robinson arrived at Washington County Sheriff's Office with his parents. So we already have this disparity.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Washington County Sheriff's Office (1)</strong></summary>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:41:20](/episodes/ep-sImMM04XdWY.md#t-00-41-20) [✓] (Claim) ["Washington County Sheriff's Office stated that surveillance footage responsive t..."](/statements/statement-f3fd2bcfecbc.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:22:34](/episodes/ep-cPidFQDJLbo.md#t-00-22-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1354);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1354s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you'd like to reach out to me to receive the names of the people who Erika (Erika Kirk) disclosed this information to, I would be happy and willing to provide it.
 

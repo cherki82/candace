@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -23,13 +23,13 @@ veracity: "mixed"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2267);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=2267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they don't they literally don't have a smoking gun because the bomb dogs could not smell the dog smell the gun which means it was just planted there and they can't connect the gun to charlie
 

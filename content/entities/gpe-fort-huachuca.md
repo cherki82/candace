@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 239 mentions"
+description: "Fort Huachuca (Places) - 241 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -23,12 +23,12 @@ _Type: Places_
 Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.php)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:12:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>239</strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>241</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>111</strong></div>
+<div><span>Statements about</span><strong>96</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,10 +37,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (21 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36" style="--pulse-height:14%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27" style="--pulse-height:29%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09" style="--pulse-height:19%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03" style="--pulse-height:86%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 18 mentions" title="2025-12-18 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36" style="--pulse-height:10%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-11" style="--pulse-height:29%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-gpe-fort-huachuca-t-01-04-23" style="--pulse-height:10%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-35" style="--pulse-height:19%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-00-00" style="--pulse-height:81%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 17 mentions" title="2025-12-18 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41" style="--pulse-height:43%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 9 mentions" title="2025-12-20 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-32" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 15 mentions" title="2026-01-05 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-07" style="--pulse-height:48%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 10 mentions" title="2026-01-06 · 10 mentions"><span></span></a>
@@ -90,10 +91,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36) | 3 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27) | 6 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09) | 4 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03) | 18 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-11) | 6 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-gpe-fort-huachuca-t-01-04-23) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-35) | 4 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-00-00) | 17 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41) | 9 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-32) | 15 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-07) | 10 |
@@ -145,7 +147,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (239)</strong></summary>
+<summary><strong class="section-title">Raw mentions (241)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -989,30 +991,27 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (18 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (17 mentions)</summary>
 
-**[00:00:41](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
-> "I thought long and hard about whether to bring on the eyewitness from Fort Huachuca."
+**[00:00:31](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-00-00)**
+> "Anyway, we have another unbelievable episode for you guys here today. I thought long and hard about whether to bring on the eyewitness from Fort Huachuca (Mitch)."
 
-**[00:00:34](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
-> "... bring on the eyewitness from Fort Huachuca."
-
-**[00:11:38](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
+**[00:11:38](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-29)**
 > "Fort Huachuca, as many of you in the military have informed me,..."
 
-**[00:12:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-45)**
+**[00:12:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-12-13)**
 > "But that is not what Fort Huachuca in Arizona is, okay?"
 
-**[00:12:28](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-12-28)**
+**[00:12:28](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-12-13)**
 > "... that I got, quote, just FYI, Fort Huachuca is where soldiers go for their MIT courses."
 
-**[00:15:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-19)**
-> "... class that she was taking on Fort Huachuca taught by none other than Bruce Bevins."
+**[00:15:35](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-18)**
+> "She said she, quote, could not take it anymore. When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins (alleged Fort Huachuca instructor)."
 
 **[00:19:01](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
 > "...panic ever since we mentioned Fort Huachuca."
 
-**[00:19:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-19-20)**
+**[00:19:14](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-19-14)**
 > "...was pressed when we mentioned Fort Huachuca in the alleged meeting that happened on the morni..."
 
 **[00:31:58](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-31-58)**
@@ -1021,25 +1020,25 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 **[00:32:10](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-32-10)**
 > "...you were initially trained in Fort Huachuca."
 
-**[00:36:51](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-36-34)**
+**[00:36:51](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-36-29)**
 > "I'm going to go down to Fort Huachuca, book myself into a hotel."
 
-**[00:56:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-56-15)**
+**[00:56:25](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-56-15)**
 > "Fort Huachuca currently."
 
 **[00:57:45](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-57-34)**
 > "...t person matches who I saw at Fort Huachuca in the lobby the night before, and she was with t..."
 
-**[01:06:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-06-12)**
+**[01:06:12](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-06-12)**
 > "...m sure there's people down at Fort Huachuca and other places that have seen things."
 
-**[00:17:42](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-17-22)**
-> "...Bruce Bevins) Bevins (alleged Fort Huachuca instructor) trained some of these individuals bef..."
+**[00:17:37](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-17-22)**
+> "You mentioned previously that there was a strange military background connection among some of the people involved. I am now wondering if instructors like Bruce Bevins (alleged Fort Huachuca instructor) trained some of these individuals before they infiltrated Christian organizations like Turning Point USA.""
 
 **[00:18:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
 > "... a part in these exercises on Fort Huachuca base where you were learning instructions about h..."
 
-**[00:35:26](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-35-08)**
+**[00:35:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-34-57)**
 > "... what led me to going down to Fort Huachuca was just to get the original records and find out..."
 
 **[01:01:19](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-01-19)**
@@ -1050,54 +1049,62 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
 
-**[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09)**
+**[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-35)**
 > "we recognized this increase in this botted activity after we started speaking about Fort Huachuca"
 
-**[00:33:24](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09)**
+**[00:33:24](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-32-52)**
 > "...ter we started speaking about Fort Huachuca."
 
-**[00:44:58](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-44-50)**
+**[00:44:56](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-44-41)**
 > "... know, particularly regarding Fort Huachuca, it is an intelligence base."
 
-**[00:47:55](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-47-35)**
+**[00:47:55](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-47-55)**
 > "...n planes and what happened on Fort Huachuca base."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+
+**[01:04:40](/episodes/ep-es7PWdFGoFI.md#ent-gpe-fort-huachuca-t-01-04-23)**
+> "Camp Huachuca"
+
+**[01:04:05](/episodes/ep-es7PWdFGoFI.md#ent-gpe-fort-huachuca-t-01-03-44)**
+> "...where he was building on Camp Huachuca and he made me notice some things, so then we sta..."
 
 </details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>
 
-**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27)**
-> "... September 9th, it flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
+**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-11)**
+> "However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso and then El Paso back to Andrews Air Force Base."
 
 **[00:46:55](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-46-55)**
 > "...oticed that this plane was in Fort Huachuca."
 
-**[00:49:01](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
+**[00:49:01](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-48-41)**
 > "... the call sign from Tucson to Fort Huachuca is a standard reach, everything before that is as..."
 
-**[00:49:09](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
+**[00:49:09](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-48-41)**
 > "But once it gets to Fort Huachuca and takes off, it switches to SAM."
 
-**[00:49:12](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
-> "...up someone of that stature in Fort Huachuca."
-
-**[00:49:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
+**[00:49:28](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-23)**
 > "...own, or the best luck down in Fort Huachuca."
+
+**[00:39:41](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-39-26)**
+> "... on that base in Arizona, the Huachuca base in Arizona, adding further credence to his c..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
 
-**[00:01:50](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36)**
-> "I was taken back to Fort Huachuca"
+**[00:12:36](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36)**
+> "...tle town. I was taken back to Fort Huachuca with the U.S. Border Patrol agent."
 
-**[00:12:43](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36)**
-> "I was taken back to Fort Huachuca with the U.S. Border Patrol agent."
-
-**[00:16:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-15-57)**
-> "To Fort Huachuca, pardon me, Huachuca, in Arizona."
+**[00:16:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-15-51)**
+> "To Fort Huachuca, pardon me, Huachuca, in Arizona. He's gonna revi..."
 
 </details>
 
@@ -1110,10 +1117,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Based In (1)</summary>
 
 - **[Arizona](/entities/gpe-arizona.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): “Fort Huachuca in Arizona is... a hub for intelligence training”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-13): “But that is not what Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
 
 </details>
@@ -1121,19 +1127,24 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Employs (2)</summary>
-
-- **[Bruce Bevins](/entities/person-bruce-bevins.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19): “When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins.”
-
-</details>
+<summary>Employs (1)</summary>
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): “me, one of the captains there, his name was Captain Neff, nice guy.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-28): “But yeah, they escorted me out across the parking lot to the park benches there. And me, one of the captains there, his name was Captain Neff, nice guy.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Bruce Bevins](/entities/person-bruce-bevins.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:35](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-18): “We ended up conversing for about 45 minutes and what she shared with me has stuck with me ever since. She said she, quote, could not take it anymore. When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins (alleged Fort Huachuca instructor).”
 
 </details>
 
@@ -1145,7 +1156,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 - **[Candlewood Suites](/entities/org-candlewood-suites.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): “the evening of September 8th at the Candlewood Suites”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-09): “the evening of September 8th at the Candlewood Suites”
 
 </details>
 
@@ -1176,7 +1187,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 - **[Candlewood Suites](/entities/org-candlewood-suites.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): “the evening of September 8th at the Candlewood Suites”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-09): “the evening of September 8th at the Candlewood Suites”
 
 </details>
 
@@ -1187,10 +1198,17 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 </details>
 
+- **[Bruce Bevins](/entities/person-bruce-bevins.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:35](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-18): “We ended up conversing for about 45 minutes and what she shared with me has stuck with me ever since. She said she, quote, could not take it anymore. When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins (alleged Fort Huachuca instructor).”
+
+</details>
+
 - **[Arizona](/entities/gpe-arizona.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-13): “But that is not what Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
 
 </details>
@@ -1202,17 +1220,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 </details>
 
-- **[Bruce Bevins](/entities/person-bruce-bevins.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19): “When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins.”
-
-</details>
-
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): “me, one of the captains there, his name was Captain Neff, nice guy.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-28): “But yeah, they escorted me out across the parking lot to the park benches there. And me, one of the captains there, his name was Captain Neff, nice guy.”
 
 </details>
 
@@ -1221,7 +1232,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (111)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (96)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
@@ -1545,30 +1556,21 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (9)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6)</summary>
 
 - [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) (Claim) **Candace Owens**: ["Fort Huachuca Education Center has connected students with Liberty Uni..."](/statements/statement-4a1ea3561680.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md)
 
-- [00:32:38](/episodes/ep-w1oqQbR_bYs.md#t-00-32-19) (Claim) **Candace Owens**: ["Owens said she had verified that Mitch was where he claimed to be, tha..."](/statements/statement-614098d3d935.md)
-  - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
-
-- [00:34:49](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) (Claim) **Candace Owens**: ["Candace Owens verified all aspects of witness Mitch's story including ..."](/statements/statement-83ee7fdd0e12.md)
-  - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
+- [00:32:38](/episodes/ep-w1oqQbR_bYs.md#t-00-32-19) (Claim) **Candace Owens**: ["Owens said she had verified Mitch's location and Captain Neff's presen..."](/statements/statement-614098d3d935.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
 
 - [00:34:57](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) (Claim) **Candace Owens**: ["The alleged meeting at Fort Huachuca was concluding around 7:30 a.m. o..."](/statements/statement-9c867c67f2e6.md)
-
-- [00:37:47](/episodes/ep-w1oqQbR_bYs.md#t-00-37-03) (Claim) **Candace Owens**: ["Brian Harpole could have made it to Fort Huachuca for the early mornin..."](/statements/statement-712747817fac.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 - [00:37:55](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) (Claim) **Candace Owens**: ["Owens says private travel logs made it possible for Brian Harpole to r..."](/statements/statement-b42ceeaf4f20.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
-- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Witness Mitch identified Cabot Phillips as the person he saw at Fort H..."](/statements/statement-113b092b6b74.md)
-  - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
-
 - [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Mitch tentatively identified Cabot Phillips from a photo, but Owens ca..."](/statements/statement-b16f405410db.md)
-  - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
+  - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
 - [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) (Accusation) **Candace Owens**: ["Lawsuits and sworn affidavits allegedly connect Fort Huachuca to prepa..."](/statements/statement-81307478a879.md)
   - Also about: [9/11](/entities/event-9-11.md)
@@ -1576,52 +1578,31 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (21)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (12)</summary>
 
-- [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45) (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base, a hub for intelligence training..."](/statements/statement-ad9042e7d3e0.md)
+- [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-13) (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base, a hub for intelligence training..."](/statements/statement-ad9042e7d3e0.md)
 
-- [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45) (Claim) **Candace Owens**: ["Fort Huachuca is a hub for intelligence training where civilians can b..."](/statements/statement-db27b5fabb0c.md)
-
-- [00:16:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19) (Claim) **Anonymous Source #3 (Ep ewBzjVe3LNQ)** (via read message): ["The class's objective was to teach military personnel to infiltrate Ch..."](/statements/statement-0e2603009b4c.md)
+- [00:16:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-58) (Claim) **Distressed Fort Huachuca military student (identity unverified)** (via quoted document): ["The class's objective was to teach military personnel to infiltrate Ch..."](/statements/statement-0e2603009b4c.md)
   - Also about: [Bruce Bevins](/entities/person-bruce-bevins.md)
 
-- [00:16:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-02) (Accusation) **Candace Owens** (via read message): ["A Fort Huachuca training class taught by Bruce Bevins had the objectiv..."](/statements/statement-1d9b65767406.md)
+- [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-38) (Claim) **Anonymous Source #2 (Ep ewBzjVe3LNQ)** (via read message): ["Military students' objective had been to deceive civilians in Tucson -..."](/statements/statement-9ad26108704e.md)
 
-- [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-41) (Claim) **Anonymous Source #2 (Ep ewBzjVe3LNQ)** (via read message): ["Military students' objective had been to deceive civilians in Tucson -..."](/statements/statement-9ad26108704e.md)
+- [00:37:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-09) (Claim) **Mitch Snow**: ["On September 8, I checked into the Candlewood Suites at Fort Huachuca ..."](/statements/statement-58fce571197c.md)
 
-- [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-41) (Claim) **Candace Owens** (via read message): ["Military students at Fort Huachuca had overnight field training missio..."](/statements/statement-ba51a3859360.md)
+- [00:45:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-44-51) (Claim) **Mitch Snow**: ["After I entered the JTF headquarters at Fort Huachuca on September 9, ..."](/statements/statement-5eb1850fe988.md)
 
-- [00:37:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I was at Fort Huachuca on the evening of September 8th at the Candlewo..."](/statements/statement-f05281cbc74d.md)
+- [00:46:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-06) (Claim) **Mitch Snow**: ["At the Fort Huachuca JTF headquarters, I saw a civilian who looked lik..."](/statements/statement-1ac2526e812d.md)
 
-- [00:39:01](/episodes/ep-ewBzjVe3LNQ.md#t-00-38-23) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["On September 8, 2024, I checked into the Candlewood Suites at Fort Hua..."](/statements/statement-58fce571197c.md)
-
-- [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["On September 9th at Fort Huachuca, I walked into a JTF headquarters bu..."](/statements/statement-1ac2526e812d.md)
-
-- [00:46:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["On September 9, 2024, I walked into what appeared to be a high-level m..."](/statements/statement-54152af172b2.md)
-
-- [00:50:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-43) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["After I entered the JTF headquarters at Fort Huachuca on September 9, ..."](/statements/statement-5eb1850fe988.md)
-
-- [00:50:09](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-43) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["Police officers from different levels of government surrounded me and ..."](/statements/statement-2a3f39c23b97.md)
-
-- [00:53:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["Authorities at Fort Huachuca kept asking about the next 24 hours and w..."](/statements/statement-83f8b5f3882a.md)
+- [00:52:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) (Opinion) **Mitch Snow**: ["Authorities at Fort Huachuca repeatedly focused on the next 24 hours a..."](/statements/statement-83f8b5f3882a.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuc..."](/statements/statement-8de81100cf3e.md)
+- [00:55:53](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-53) (Claim) **Mitch Snow**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca mee..."](/statements/statement-d7c3e7e4fe7b.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
-- [00:56:54](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca mee..."](/statements/statement-d7c3e7e4fe7b.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
-
-- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the..."](/statements/statement-fe5aea94c1fd.md)
+- [00:57:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) (Claim) **Mitch Snow**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the..."](/statements/statement-fe5aea94c1fd.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:57:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the woman with striking blue eyes I sa..."](/statements/statement-225fecf27f50.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on ..."](/statements/statement-958dde69f981.md)
-  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
-
-- [01:01:11](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain the congressman I saw at the Fort Huachuca mee..."](/statements/statement-849e9251a645.md)
+- [01:00:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-00-28) (Claim) **Mitch Snow**: ["I am 95 percent certain the congressman I saw at the Fort Huachuca mee..."](/statements/statement-849e9251a645.md)
   - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
 
 - [01:01:35](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) (Claim) **Candace Owens**: ["We confirmed based on flight call signs that someone heavy duty was at..."](/statements/statement-5e2e1df123e7.md)
@@ -1634,59 +1615,56 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
 
-- [00:45:12](/episodes/ep-9k2xrAC0H88.md#t-00-44-50) (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base where they train people in the i..."](/statements/statement-6a1675de503a.md)
+- [00:45:12](/episodes/ep-9k2xrAC0H88.md#t-00-44-41) (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base where they train people in the i..."](/statements/statement-6a1675de503a.md)
 
-- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-46) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
   - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (11)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7)</summary>
 
-- [00:40:03](/episodes/ep-6DhWawD4ZiM.md#t-00-39-28) (Claim) **Candace Owens** (via paraphrase): ["Owens said Harry Myers identified Captain Adam Neff of the 10th Mounta..."](/statements/statement-45521027afec.md)
-  - Also about: [10th Mountain Division](/entities/org-10th-mountain-division.md), [Harry Myers](/entities/person-harry-myers.md)
+- [00:40:03](/episodes/ep-6DhWawD4ZiM.md#t-00-39-26) (Claim) **Candace Owens** (via paraphrase): ["Owens said Harry Myers identified Captain Adam Neff of the 10th Mounta..."](/statements/statement-45521027afec.md)
+  - Also about: [10th Mountain Division](/entities/org-10th-mountain-division.md), [Harry Myers](/entities/person-harry-myers.md), [Captain Adam Neff](/entities/person-captain-adam-neff.md)
 
-- [00:41:15](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) (Claim) **Candace Owens** (via read message): ["Owens said unnamed correspondents stationed at Fort Huachuca told her ..."](/statements/statement-324865fc175a.md)
+- [00:40:48](/episodes/ep-6DhWawD4ZiM.md#t-00-40-48) (Claim) **Fort Huachuca stationed correspondents (identities unverified)** (via read message): ["Anonymous correspondents currently stationed at Fort Huachuca told Owe..."](/statements/statement-324865fc175a.md)
+  - Also about: [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)
 
-- [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) (Claim) **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation o..."](/statements/statement-536d43327c41.md)
-  - Also about: [Captain Adam Neff](/entities/person-captain-adam-neff.md)
+- [00:44:22](/episodes/ep-6DhWawD4ZiM.md#t-00-44-11) (Claim) **C-37A flight email tipster (identity unverified)** (via read message): ["An anonymous flight-tracking tipster reported that C-37A tail 99-0404 ..."](/statements/statement-8a03426a4ab1.md)
+  - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md)
 
-- [00:41:25](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) (Claim) **Candace Owens**: ["A building at Fort Huachuca has been converted into a SCIF (Sensitive ..."](/statements/statement-3e770fcf90d6.md)
+- [00:47:51](/episodes/ep-6DhWawD4ZiM.md#t-00-47-33) (Claim) **Candace Owens** (via paraphrase): ["Owens said her military source described the Fort Huachuca meeting he ..."](/statements/statement-45c985fc27c8.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md)
 
-- [00:42:18](/episodes/ep-6DhWawD4ZiM.md#t-00-41-37) (Claim) **Candace Owens**: ["Harry previously discovered a cartel tunnel when he was 20 years old"](/statements/statement-ca0d3079dc50.md)
+- [00:49:01](/episodes/ep-6DhWawD4ZiM.md#t-00-48-41) (Claim) **Mark (Candace show staff; surname unverified)**: ["Mark said the C-37A's call sign changed from REACH to SAM after depart..."](/statements/statement-03404b845b40.md)
+  - Also about: [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md), [Special Air Mission](/entities/concept-special-air-mission.md)
 
-- [00:43:41](/episodes/ep-6DhWawD4ZiM.md#t-00-43-00) (Claim) **Candace Owens**: ["A US government VIP plane (C37A Gulfstream, tail number 99-0404) flew ..."](/statements/statement-88162d6bfd9c.md)
-  - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [El Paso](/entities/gpe-el-paso.md)
+- [00:49:39](/episodes/ep-6DhWawD4ZiM.md#t-00-49-23) (Prediction) **Candace Owens**: ["Owens said she assumed Harry Myers would be heard from directly the fo..."](/statements/statement-626a58b21e1b.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md)
 
-- [00:44:00](/episodes/ep-6DhWawD4ZiM.md#t-00-43-45) (Claim) **Candace Owens** (via read message): ["Owens presented flight-tracking material identifying Air Force C-37A t..."](/statements/statement-8a03426a4ab1.md)
-  - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md)
-
-- [00:46:38](/episodes/ep-6DhWawD4ZiM.md#t-00-46-23) (Claim) **Candace Owens**: ["A military source named Harry witnessed what appeared to be a finaliza..."](/statements/statement-45c985fc27c8.md)
-
-- [00:48:28](/episodes/ep-6DhWawD4ZiM.md#t-00-48-17) (Claim) **Candace Owens**: ["The VIP plane call sign changed from REACH (standard) to SAM (Special ..."](/statements/statement-03404b845b40.md)
-
-- [00:48:55](/episodes/ep-6DhWawD4ZiM.md#t-00-48-17) (Prediction) **Candace Owens**: ["Harry will be going on podcasts next week to share his story about wha..."](/statements/statement-626a58b21e1b.md)
-
-- [01:00:36](/episodes/ep-6DhWawD4ZiM.md#t-01-00-25) (Claim) **Candace Owens**: ["The military source Harry believes he saw Brian Harpole at the Fort Hu..."](/statements/statement-f1dc8d72a7f2.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+- [01:00:05](/episodes/ep-6DhWawD4ZiM.md#t-00-59-31) (Claim) **Candace Owens**: ["Owens said Harry Myers was certain he saw Brian Harpole at the Fort Hu..."](/statements/statement-f1dc8d72a7f2.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5)</summary>
 
-- [00:16:16](/episodes/ep-t4U7NjnUEgc.md#t-00-15-57) (Claim) **Candace Owens**: ["Owens says private booking records show Harry Myers checked into the C..."](/statements/statement-7a77cc26066d.md)
+- [00:16:16](/episodes/ep-t4U7NjnUEgc.md#t-00-15-51) (Claim) **Candace Owens**: ["Owens says private booking records show Harry Myers checked into the C..."](/statements/statement-7a77cc26066d.md)
   - Also about: [Harry Myers](/entities/person-harry-myers.md)
 
-- [00:17:41](/episodes/ep-t4U7NjnUEgc.md#t-00-17-13) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers claimed he saw Brian Harpole at Joint Task Force Southern ..."](/statements/statement-e1f3b3a8c4ff.md)
+- [00:20:43](/episodes/ep-t4U7NjnUEgc.md#t-00-20-22) (Claim) **Candace Owens** (via paraphrase): ["Owens said, allegedly, that Harry Myers was certain one of the people ..."](/statements/statement-e1f3b3a8c4ff.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Harry Myers](/entities/person-harry-myers.md)
 
-- [00:22:00](/episodes/ep-t4U7NjnUEgc.md#t-00-21-28) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers said Fort Huachuca personnel interrogated him for about se..."](/statements/statement-9e9c07274601.md)
-  - Also about: [Harry Myers](/entities/person-harry-myers.md)
+- [00:21:43](/episodes/ep-t4U7NjnUEgc.md#t-00-21-43) (Claim) **Candace Owens** (via paraphrase): ["Owens said Fort Huachuca personnel began what became a seven-hour inte..."](/statements/statement-9e9c07274601.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md), [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)
 
-- [00:28:13](/episodes/ep-t4U7NjnUEgc.md#t-00-27-53) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers said Fort Huachuca personnel gave him incident-report numb..."](/statements/statement-610f9c7c6a76.md)
-  - Also about: [Harry Myers](/entities/person-harry-myers.md)
+- [00:25:45](/episodes/ep-t4U7NjnUEgc.md#t-00-25-45) (Claim) **Candace Owens** (via paraphrase): ["Owens reported that Myers characterized the Fort Huachuca gathering as..."](/statements/statement-af9ea8ba174f.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md), [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)
+
+- [00:28:13](/episodes/ep-t4U7NjnUEgc.md#t-00-27-49) (Citation) **Candace Owens**: ["Owens cited incident-report number 8611-2025-MPC446 and said Captain N..."](/statements/statement-610f9c7c6a76.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md), [Captain Adam Neff](/entities/person-captain-adam-neff.md)
 
 </details>
 

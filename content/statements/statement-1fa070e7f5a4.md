@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Catholic perspective is that this is an unjust war because it is, obviously. OK, you can't just decide that you want to take things from Iran ... and then you just do it and you put American lives at risk. ... It's unjust, unjust. Even honestly, if you if you remove Catholicism, it's just unjust in general. It's morally contemptible what you are doing in the Middle East. ... forget the part that you went against every single one of your promises, betrayed your base
 

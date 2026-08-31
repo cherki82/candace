@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(711);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=711s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so there's no way that they can come out and pretend like Erika (Erika Kirk) didn't know this was happening because she's very close with Elizabeth McCoy. She's very close with her.
 

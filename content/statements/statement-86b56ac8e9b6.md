@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:02:04](/episodes/ep-B9TyCs-6o_0.md#t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(124);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=124s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's small, it's a tight space. And he said, Joe, stop us from getting into a war with Iran.
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:18:28](/episodes/ep-DdPjoy5W-wY.md#t-00-18-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1108);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1108s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, I'm going to be doing something kind of like a lunch with your department style thing because it is on my heart so badly. I would love to sit down.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:04:30](/episodes/ep-1IY2oD-_xVA.md#t-00-04-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(270);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=270s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 29, they came out and said, oh no, actually, he just died from inflammation of the intestines, nothing to see here.
 

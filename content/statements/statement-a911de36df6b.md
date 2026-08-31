@@ -20,14 +20,14 @@ type: "accusation"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [01:07:57](/episodes/ep-2T39-oADLj0.md#t-01-07-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4077);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=4077s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know who is walking up the stairs. I think that's a whole different person because they don't even look like they have the same body. And yeah, that's how you do a nice fed operation: you got a bunch of patsies doing different roles.
 

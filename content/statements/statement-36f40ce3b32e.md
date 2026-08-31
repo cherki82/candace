@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:58:05](/episodes/ep-i8m_6D4QGmk.md#t-00-57-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3485);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3485s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It didn't exist in the blackmail. You know, that's an element of it. Yeah, you blackmail a bunch of politicians. You get them caught doing weird things on camera.
 

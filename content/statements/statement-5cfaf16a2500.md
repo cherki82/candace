@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:13:09](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(789);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=789s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You're citing CNN, but you're also dissing CNN for having produced certain polls. I don't know. You just told us that we couldn't get on CNN, but now you're saying that we have good coverage on CNN. You're all over the place.
 

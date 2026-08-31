@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -28,6 +28,10 @@ object: "person-blake-neff"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:00:11](/episodes/ep-q1NRQQAYS_Q#t-00-00-11): _But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?_
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:19:05](/episodes/ep-w1oqQbR_bYs#t-00-19-05): _the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk_
 
 ### Related
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:18:04](/episodes/ep-9naMwS0kMBE.md#t-00-17-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1084);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=1084s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > if you take a literal view of the demonic influence into everyday life of humanity, and I firmly believe that, you get a sense that this demonic lot. works its way into public life into government officials into military into the media into academia they are trying to control humanity they despise humanity they want to control humanity they want to destroy humanity
 

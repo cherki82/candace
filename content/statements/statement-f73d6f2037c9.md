@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(136);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > About Butler, I know that Trump (Donald Trump) shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI.
 

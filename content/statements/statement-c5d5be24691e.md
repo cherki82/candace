@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:55:35](/episodes/ep-xjzb_t5Tk9o.md#t-00-55-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When you sanction a person, ... and they did that for a couple of the judges in the ICC, ... they sanctioned the judge. He's Dutch. ... This guy cannot have access to the bank account, ... cannot have anything like he cannot have money, ... he cannot buy a ticket, ... he cannot pay his own bills. ... He's just like a ghost.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:59:01](/episodes/ep-DdPjoy5W-wY.md#t-00-59-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3541);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3541s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and to your mother as well and I don't know any Romanian words other than da that's it so I got but you are correct I do know what happened there and that's the point I was making yesterday is I'm not arguing for communism or crony capitalism I'm saying it's the same people at the top and they did to Romania what they've done to many countries in in the East it's just a fact I mean we were behind the Yugoslav Wars about what happened in Bosnia and it
 

@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk was present the night Candace met her husband G..."
-description: "\"Charlie Kirk was present the night Candace met her husband George Farmer in the UK\" — Candace Owens"
+title: "Candace Owens said Charlie Kirk was present when she met her..."
+description: "\"Candace Owens said Charlie Kirk was present when she met her future husband, George Farmer, in the United Kingdom.\" — Candace Owens"
 statement_id: "statement-27f89a6f2547"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie Kirk was present the night Candace met her husband George Farmer in the UK
+> Candace Owens said Charlie Kirk was present when she met her future husband, George Farmer, in the United Kingdom.
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
-**Timestamp:** [00:17:19](/episodes/ep-_dRaEO47-co.md#t-00-17-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1039);return false;">Play</a>
+**Timestamp:** [00:17:09](/episodes/ep-_dRaEO47-co.md#t-00-16-36) 
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=1029s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He was also there the night that I met my husband
+> He was also there the night that I met my husband, which was absolutely an incredible night. ... And in the UK, which I didn't expect to happen. ... And then he sat down and he spent just one evening with George, and he—Charlie (Charlie Kirk)—was just the most supportive of everything.
 
 ## Verification
 

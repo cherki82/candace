@@ -23,23 +23,13 @@ type: "factual_claim"
 - [Ben Shapiro](/entities/person-ben-shapiro.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
-## Appearances (2)
-
-### 1. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
+## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:16:56](/episodes/ep-w1oqQbR_bYs.md#t-00-16-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1016);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=1016s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He has issued thus far three court proceedings, okay, for every solitary petty infraction against things that I say.
-
-### 2. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
-
-**Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:17:03](/episodes/ep-w1oqQbR_bYs.md#t-00-16-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1023);return false;">Play</a>
-
-> He has issued thus far three court proceedings, okay, for every solitary petty infraction against things that I say
 
 ## Verification
 

@@ -1,16 +1,16 @@
 ---
-title: "The text messages that were released in the indictment of Ty..."
-description: "\"The text messages that were released in the indictment of Tyler Robinson are fabricated\" — Candace Owens"
+title: "Owens said she thought the text messages released in Tyler R..."
+description: "\"Owens said she thought the text messages released in Tyler Robinson's indictment were made up.\" — Candace Owens"
 statement_id: "statement-6d44fb42226a"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> The text messages that were released in the indictment of Tyler Robinson are fabricated
+> Owens said she thought the text messages released in Tyler Robinson's indictment were made up.
 
 ## Attribution
 
@@ -26,15 +26,15 @@ type: "accusation"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:02:42](/episodes/ep-2WEHTk0Xewg.md#t-00-02-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(162);return false;">Play</a>
+**Timestamp:** [00:02:42](/episodes/ep-2WEHTk0Xewg.md#t-00-02-02) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=162s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think it's unlikely because I think, again, this is all made up—these messages
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

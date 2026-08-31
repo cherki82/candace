@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1829);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1829s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, a tip that I received and I was able to confirm is that Helene Bartz was actually good friends with Bill Montgomery and his wife, Edith Montgomery,
 

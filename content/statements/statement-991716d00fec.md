@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:50:02](/episodes/ep-GY6GWceEqtQ.md#t-00-49-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3002);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=3002s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they got the autopsy and turns out the dog had what chihuahuas get a lot of, which is fluid in the brains, in the brain. ... And that's very typical for chihuahuas and small dogs.
 

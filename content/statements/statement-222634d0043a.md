@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [01:06:37](/episodes/ep-eMtjzXkQrsU.md#t-01-06-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3997);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=3997s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm glad you forgive Tyler Robinson. You know, I could probably get to forgiving Tyler Robinson, too, because I don't think he did it.
 

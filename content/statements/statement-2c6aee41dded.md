@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:31:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-31-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1889);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1889s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > completely disinterested in determining who fired that shot there were a lot of holes in that story I didn't go down that rabbit hole but I do know that once you assume office and you have the power to get more information and put more information out there It's weird that he was satisfied just moving on from that.
 

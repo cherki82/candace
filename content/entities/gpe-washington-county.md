@@ -1,6 +1,6 @@
 ---
 title: "Washington County"
-description: "Washington County (Places) - 21 mentions"
+description: "Washington County (Places) - 20 mentions"
 id: "gpe-washington-county"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about-us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-06-59">2025-09-16 · 00:07:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-06-50">2025-09-16 · 00:07:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-washington-county-t-00-39-21">2026-03-30 · 00:40:29</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -30,20 +30,20 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-washington-county-t-00-28-14">The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#t-00-06-59" style="--pulse-height:22%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30" style="--pulse-height:22%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-06-50" style="--pulse-height:22%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-27" style="--pulse-height:22%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-washington-county-t-00-09-49" style="--pulse-height:44%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 4 mentions" title="2025-09-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42" style="--pulse-height:44%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42" style="--pulse-height:33%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-washington-county-t-00-28-14" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 9 mentions" title="2026-03-30 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-06-59) | 2 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-06-50) | 2 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-27) | 2 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-washington-county-t-00-09-49) | 4 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-washington-county-t-00-28-14) | 9 |
 
 </details>
@@ -52,7 +52,7 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (9 mentions)</summary>
@@ -87,10 +87,7 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
-> "...ark. Take a listen to KUER TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to g..."
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
 
 **[00:40:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
 > "...was just to get him here." After Charlie (Charlie Kirk)'s alleged shooter was taken into custody in Washington County less than two days after the shooting— "Within the hour, my friend drove Tyler and his parents to m..."
@@ -123,10 +120,10 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:28:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
+**[00:28:01](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-27)**
 > "... September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had commit..."
 
-**[00:28:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
+**[00:28:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-27)**
 > "...lack hat with a white logo, and light-colored shoes. When encountered in person by investigators in Washington County on September 12th in the early morning hours, Robinson was observed in consistent clothing with tho..."
 
 </details>
@@ -134,10 +131,10 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-59)**
+**[00:07:02](/episodes/ep-q7f8r-THr84.md#t-00-06-50)**
 > "...eep signaling that to us. On September 11, 2025, when Tyler James Robinson surrendered to police at Washington County Sheriff's Office... That was when it happened. They found DNA consistent with Robinson on the rifle..."
 
-**[00:13:25](/episodes/ep-q7f8r-THr84.md#t-00-13-25)**
+**[00:13:23](/episodes/ep-q7f8r-THr84.md#t-00-13-23)**
 > "...as they continued their investigation on September 11th, Tyler James Robinson then walked in to the Washington County Sheriff's Office and he is accompanied by his parents and a family friend to turn himself in, okay?..."
 
 </details>
@@ -175,9 +172,10 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 <summary>Has Sheriff (1)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:40:42](/episodes/ep-sImMM04XdWY.md#t-00-40-42): “On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference.”
 
 </details>
 
@@ -194,9 +192,10 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 </details>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)** sheriff of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:40:42](/episodes/ep-sImMM04XdWY.md#t-00-40-42): “On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference.”
 
 </details>
 

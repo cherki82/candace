@@ -5,6 +5,7 @@ id: "person-mike-mitchell"
 type: "PERSON"
 aliases:
   - "Deputy Mike Mitchell"
+  - "Detective Mike Mitchell"
 categories:
   - "Charlie Kirk assassination case"
   - "family associate"
@@ -12,7 +13,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Deputy Mike Mitchell
+**Also known as:** Deputy Mike Mitchell, Detective Mike Mitchell
 
 **Categories:** Charlie Kirk assassination case, family associate
 
@@ -27,7 +28,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,7 +38,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41" style="--pulse-height:50%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 5 mentions" title="2025-09-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22" style="--pulse-height:60%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 6 mentions" title="2025-09-30 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-18" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46" style="--pulse-height:10%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51" style="--pulse-height:90%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 9 mentions" title="2026-03-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00" style="--pulse-height:30%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
@@ -55,7 +56,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 |---|---|---:|
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41) | 5 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22) | 6 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-18) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51) | 9 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00) | 3 |
@@ -260,7 +261,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30)**
+**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-18)**
 > "...y interesting. And yes, it is true, it is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay?..."
 
 **[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-23-05)**
@@ -360,6 +361,18 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
+<summary>Member Of (1)</summary>
+
+- **[LDS church](/entities/org-lds-church.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:21:05](/episodes/ep-YA1FxrDWNIo.md#t-00-21-05): “We also learned that he's a Boy Scout leader in the LDS church, but usually if you have a long tenure as a police officer, you're just featured in a lot of articles.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Pastor Of (1)</summary>
 
 - **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)**
@@ -399,7 +412,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -448,6 +461,13 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:35:19](/episodes/ep-7ERqbYElOfs.md#t-00-34-49): “this Mike Mitchell guy ... Take a listen to Sheriff Brooksby. ... I received a call from a friend of mine who happens to be a retired detective that worked for me for many years.”
+
+</details>
+
+- **[LDS church](/entities/org-lds-church.md)** has member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:21:05](/episodes/ep-YA1FxrDWNIo.md#t-00-21-05): “We also learned that he's a Boy Scout leader in the LDS church, but usually if you have a long tenure as a police officer, you're just featured in a lot of articles.”
 
 </details>
 

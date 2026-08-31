@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(996);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=996s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla, okay
 

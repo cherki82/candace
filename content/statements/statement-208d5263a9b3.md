@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:18:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=1118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They even share outdated videos and try to pretend that he's supporting the Iranian war, like they're getting fact checked on X because they're sharing outdated videos and misrepresenting Charlie (Charlie Kirk)'s. ... these actual beliefs about the Iranian war
 

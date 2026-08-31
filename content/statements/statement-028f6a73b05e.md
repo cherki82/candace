@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:26:09](/episodes/ep-eLgD5yUVbko.md#t-00-25-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1569);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1569s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There is something about him that feels dangerous and I will leave it at that.
 

@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:31:20](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1880);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1880s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Turning Point USA faith, the radical shift almost that Turning Point made from discussing free marketing capitalism to being all about faith in the pastors and what was guiding that seems to be Erika (Erika Kirk), his very faithful, soon-to-be Christian wife encouraging him to get to lean further into the world of pastors and Calvary Chapel and Dream City Church.
 

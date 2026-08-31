@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:35:02](/episodes/ep-NIEbqsLAK8g.md#t-00-35-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2102);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=2102s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pastor Gary Hamrick here from Cornerstone Chapel ... inviting you to a special Wednesday night service ... January the 21st, where we're going to talk about anti-Semitism. ... the rise in churches and in conservative politics. ... Consider Candace Owens, Tucker Carlson. We'll talk about them too. ... Pastor Rob McCoy, the leader of Turning Point Faith, ... Samuel Smaja from Israel, ... an Israeli businessman.
 

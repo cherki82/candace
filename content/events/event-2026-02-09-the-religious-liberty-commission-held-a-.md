@@ -6,6 +6,15 @@ date: "2026-02-09"
 ---
 
 **Date:** 2026-02-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “this morning”
+
+**Normalization note:** The Justice Department dates the fifth Religious Liberty Commission hearing to February 9, 2026.
+
+**Date source:** [https://www.justice.gov/opa/video/fifth-hearing-religious-liberty-commission-part-2](https://www.justice.gov/opa/video/fifth-hearing-religious-liberty-commission-part-2)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2026-02-09"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:31:24](/episodes/ep-4YgrOhhy708.md#event-event-2026-02-09-the-religious-liberty-commission-held-a--t-00-31-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1884);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this morning there was a religious liberty commission hearing on anti-semitism
 
@@ -25,6 +34,6 @@ date: "2026-02-09"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:36:02](/episodes/ep-hWTdXHGQ8R4.md#event-event-2026-02-09-the-religious-liberty-commission-held-a--t-00-35-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2162);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2162s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is clearly without question what happened on Monday in our hearing on anti-Semitism in America.

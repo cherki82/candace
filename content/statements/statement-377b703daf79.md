@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:33:08](/episodes/ep-rupRLXmSndU.md#t-00-32-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1988);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1988s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A year later, the Bureau abandoned the analysis.
 

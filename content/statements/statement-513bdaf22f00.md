@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:11:01](/episodes/ep-69A8TzAGHlU.md#t-00-10-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(661);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=661s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and had Charlie (Charlie Kirk) had it on his phone I said Charlie (Charlie Kirk) I don't like this place there are too many buildings Charlie (Charlie Kirk) just kind of brushed it off because look we have a security team and he wasn't going to cancel an event so we're driving in Megan and his team has drones up
 

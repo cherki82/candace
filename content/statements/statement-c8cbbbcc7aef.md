@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:03:52](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(232);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So criticizing the behavior of a government agency does not make you a hater. It makes you a free person. It makes you a citizen. You're allowed to do that because you're not a slave. You're a citizen. And you have a right to expect that your government will not act against your interests. And you have a right to demand that foreign governments not be allowed to act against your interest.
 

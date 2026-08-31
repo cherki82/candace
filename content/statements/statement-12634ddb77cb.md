@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(274);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace Owens went to Russia to just do propaganda work on behalf of the Russian regime.
 

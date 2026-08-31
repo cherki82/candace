@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2697);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2697s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There are documents in the files that dispute the president's claim that he kicked Epstein out of his club.
 

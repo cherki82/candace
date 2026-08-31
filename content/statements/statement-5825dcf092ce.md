@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:22:46](/episodes/ep-5-HUyv9LyMg.md#t-00-22-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1366);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=1366s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To be clear, Renee Crossman, Erika (Erika Kirk)'s partner on Romanian Angels, who the children, according to Erika (Erika Kirk), do not trust, is a self-admitted member of this cult. ... But Renee Crossman herself has not been accused of anything. ... And she says she defends the cult
 

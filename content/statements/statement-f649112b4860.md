@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:05:59](/episodes/ep-2tFYJf1klgY.md#t-00-05-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(359);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=359s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We know Erica (Erika Kirk) is born on either November 20th or November 22nd, depending on who's telling the story.
 

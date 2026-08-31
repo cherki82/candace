@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:34:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-34-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2094);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2094s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Carl Kenneth Frantzve is Erica (Erika Kirk)'s... ... paternal grandfather. ... He participated extensively in horse racing. More crucially though, he was an executive at the American Banknote Company in Illinois. ... This is the company that was responsible for printing lottery tickets.
 

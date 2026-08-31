@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:07:35](/episodes/ep-q1NRQQAYS_Q.md#t-00-07-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(455);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=455s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Stunning, a stunning claim for two reasons right off the bat. One, because Charlie Kirk on every stage that he was ever on repeatedly said that women should not aspire to climb the corporate ladder and to be.
 

@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:24:40](/episodes/ep-1mYNOqzAdXs.md#t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1480);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Victor Marx was the first person to say that um Charlie (Charlie Kirk) had died and you should know but he posted that information at 1 13 p.m Utah time mountain standard so that is less than an hour after Charlie (Charlie Kirk) was shot Erika Kirk's dear friend Victor Marx announced that he had died. That's just 50 minutes after Charlie (Charlie Kirk) was shot. ... So the public didn't officially find out until President Trump announced it at 2 40 p.m. on X. Again, this is all in mountain time. ... So yeah, he beat him by an hour and 27 minutes.
 

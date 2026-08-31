@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:15:23](/episodes/ep-9CuC1yf8-PU.md#t-00-15-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(923);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=923s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is not someone's sunglasses that we are looking at. I can show you another more enhanced photos here, particularly that one in the right corner is just so obviously a piece of a shard of something. And I believe this is Charlie (Charlie Kirk)'s RØDE microphone.
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:24:10](/episodes/ep-a2bZf4fic10.md#t-00-23-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=1450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We all have to acknowledge that this is the RØDE mic.
 

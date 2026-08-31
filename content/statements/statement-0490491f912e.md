@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:12:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(734);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=734s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had received a couple of emails from people that follow and watch the show at the White House. And they said, hey, Candace, Andrew Kolvet, Mikey McCoy (Michael McCoy) and a couple of women look like Mikey McCoy (Michael McCoy)'s wife. They were in the West Wing. And, you know, we just thought that's kind of odd because Andrew (Andrew Kolvet) just presented as though he was live on the Charlie Kirk show doing a phone call with Kash Patel. But actually, he's here.
 

@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(660);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=660s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:09:45](/episodes/ep-IqHsl7d2dos.md#t-00-09-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(585);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=585s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want peace, but not for those who don't want peace. I was in the 19th Special Forces. ... I have wings and wore a red beret. I own the night and feel the oppressed. I push with my brothers.
 

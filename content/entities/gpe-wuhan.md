@@ -3,9 +3,18 @@ title: "Wuhan"
 description: "Wuhan (Places) - 2 mentions"
 id: "gpe-wuhan"
 type: "GPE"
+categories:
+  - "Chinese city"
+  - "Hubei Province"
 ---
 
 _Type: Places_
+
+**Categories:** Chinese city, Hubei Province
+
+**Entity verification:** verified
+> Wuhan Municipal Government identifies Wuhan as a city in eastern Hubei Province and the provincial capital.
+Source: [The government of Wuhan](https://english.wuhan.gov.cn/H_1/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-wuhan-t-00-34-16">2025-10-29 · 00:34:49</a></strong></div>

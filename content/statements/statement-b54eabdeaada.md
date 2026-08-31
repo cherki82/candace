@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:20:05](/episodes/ep-UYkXV9mYbT4.md#t-00-20-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1205);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=1205s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We learned that Mr. Robinson seeks to continue the preliminary hearing, which is scheduled for May 2026 to a setting that allows him and his counsel to receive discovery that is necessary for preliminary hearing preparations.
 

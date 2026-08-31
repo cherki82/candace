@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:48:47](/episodes/ep-BxN2-aeMYIs.md#t-00-48-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2927);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2927s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It doesn't remove the fact that he supported Thomas Massie and he would have supported Thomas Massie and he would not have appreciated money being spent by AIPAC to remove him.
 

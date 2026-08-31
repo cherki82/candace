@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:31:11](/episodes/ep-QdM9jLwjwLw.md#t-00-31-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1871);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=1871s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I, like I said, fully side with the employees. I do believe with all of the new information that I'm getting, and it is a lot that she has been orchestrating this entire PR campaign from the back and pretending that Andrew Kolvet was problematic, maybe some credit to Andrew Kolvet for being enough of a gentleman to absorb all that, to allow people to think that it was just him acting rogue when it wasn't. It factually was not. We were lied to.
 

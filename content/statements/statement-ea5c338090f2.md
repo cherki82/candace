@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:00:18](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(18);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=18s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk), according to a family friend, refers to me as that B-I-T-C-H, that B.
 

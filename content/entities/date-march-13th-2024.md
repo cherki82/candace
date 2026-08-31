@@ -8,8 +8,8 @@ type: "DATE"
 _Type: Dates_
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-59">2025-11-20 · 00:07:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-59">2025-11-20 · 00:07:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-47">2025-11-20 · 00:07:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-47">2025-11-20 · 00:07:05</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -20,15 +20,15 @@ _Type: Dates_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-59">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-47">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-59" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-47" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-59) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-47) | 1 |
 
 </details>
 </section>
@@ -41,7 +41,7 @@ _Type: Dates_
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-59)**
+**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-date-march-13th-2024-t-00-06-47)**
 > "...same time that I began looking into the Brigitte Macron story. That was in March of 2024. It was on March 13th, 2024, that I did the very first ever episode on Brigitte Macron, right? And then wham, I am fired within..."
 
 </details>

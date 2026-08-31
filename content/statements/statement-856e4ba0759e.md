@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:31:12](/episodes/ep-9naMwS0kMBE.md#t-00-31-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1872);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=1872s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He tweets that he has been holding onto this for a very long time. But that one time I went to his house for dinner and I told him that I hated Charlie Kirk. ... To the Charlie Kirk thing, I have literally no idea what he's talking about. Asked my husband. He's like zero memory of us even discussing Charlie Kirk.
 

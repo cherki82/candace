@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:58:25](/episodes/ep-wcD2khO3rOA.md#t-00-57-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3505);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3505s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They had a pastor summit led by Rob McCoy, as I showed you that, Sean Feucht. They were going to lead this up.
 

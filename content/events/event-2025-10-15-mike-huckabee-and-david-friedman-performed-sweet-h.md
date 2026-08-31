@@ -6,6 +6,7 @@ date: "2025-10-15"
 ---
 
 **Date:** 2025-10-15
+**Date precision:** Day
 
 ## Event
 
@@ -17,7 +18,7 @@ date: "2025-10-15"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:25:28](/episodes/ep-mKXdKV-OBog.md#event-event-2025-10-15-mike-huckabee-and-david-friedman-performed-sweet-h-t-00-24-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1528);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1528s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this Charlie assassination story. And I have to tell you, I do not think that they were just painting planes this year. Rather, we've learned that just before Charlie's
 
@@ -25,7 +26,7 @@ date: "2025-10-15"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:25:05](/episodes/ep-mKXdKV-OBog.md#event-event-2025-10-15-mike-huckabee-and-david-friedman-performed-sweet-h-t-00-24-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1505);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1505s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > ngaging in naked propaganda to serve the state of Israel. So let me show you a couple of these headlines. I guess let's start with Mike Huckabee. He is the
 
@@ -33,7 +34,7 @@ date: "2025-10-15"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:25:20](/episodes/ep-mKXdKV-OBog.md#event-event-2025-10-15-mike-huckabee-and-david-friedman-performed-sweet-h-t-00-24-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1520);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1520s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > uple of these headlines. I guess let's start with Mike Huckabee. He is the ambassador to Israel and apparently is completely shameless. Now just to go back—in case
 
@@ -41,6 +42,6 @@ date: "2025-10-15"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:25:39](/episodes/ep-mKXdKV-OBog.md#event-event-2025-10-15-mike-huckabee-and-david-friedman-performed-sweet-h-t-00-24-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1539);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1539s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > ael—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebr

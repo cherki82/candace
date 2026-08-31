@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:42:43](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2563);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2563s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And actually, we particularly went out to them two days ago with this specific question: who was the pastor? They didn't answer.
 

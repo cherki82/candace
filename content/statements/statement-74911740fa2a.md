@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:44:57](/episodes/ep-kaWtDuoY_ns.md#t-00-44-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2697);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2697s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > well no I was I would know I was not good friends with Laura (Laura Loomer) I was uh uh I was loose allies with Laura (Laura Loomer) until I met her uh and then when I met her properly and spent time with her I realized she was absolutely mental I distanced myself very quickly um well I distanced myself because she she used to force herself on young male volunteers 20 21 year olds and she would go in the middle of the night and i mean some men will find this to be quite titillating although ... in the pool house with with her um victim in twenty twenty who didn't know how to make it stop. He was a young uh a Brazilian volunteer on her twenty twenty congressional campaign. I know because I helped to run that campaign, okay. Um so don't tell me you don't believe it. I was there. ... She was creeping into bed with him and she convinced herself that they were in love and he was coming to me every day saying how do I make this stop.
 

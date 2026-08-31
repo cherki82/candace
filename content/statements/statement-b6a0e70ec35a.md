@@ -1,17 +1,17 @@
 ---
-title: "Israel had something to do with Charlie Kirk's horrific murd..."
-description: "\"Israel had something to do with Charlie Kirk's horrific murder. This is insane. It is false. It is outrageous.\" — Benjamin Netanyahu"
+title: "Netanyahu called the allegation that Israel was involved in ..."
+description: "\"Netanyahu called the allegation that Israel was involved in Charlie Kirk's murder insane, false, and outrageous.\" — Benjamin Netanyahu"
 statement_id: "statement-b6a0e70ec35a"
 speaker: "Benjamin Netanyahu"
-type: "factual_claim"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Israel had something to do with Charlie Kirk's horrific murder. This is insane. It is false. It is outrageous.
+> Netanyahu called the allegation that Israel was involved in Charlie Kirk's murder insane, false, and outrageous.
 
 ## Attribution
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:33:27](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2007);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2007s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, somebody has fabricated a monstrous big lie that Israel had something to do with Charlie (Charlie Kirk)'s horrific murder
 
@@ -48,4 +48,4 @@ Verified as a direct-attribution claim: Netanyahu's primary video contains the q
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

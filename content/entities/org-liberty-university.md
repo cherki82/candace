@@ -1,6 +1,6 @@
 ---
 title: "Liberty University"
-description: "Liberty University (Organizations) - 73 mentions"
+description: "Liberty University (Organizations) - 74 mentions"
 id: "org-liberty-university"
 type: "ORG"
 aliases:
@@ -24,10 +24,10 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24">2025-10-29 · 00:04:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-19-59">2026-05-11 · 00:20:16</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,8 +36,8 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (38 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-31" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-54" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 38 mentions" title="2026-01-09 · 38 mentions"><span></span></a>
@@ -55,8 +55,8 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24) | 1 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-19) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-31) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-59) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-54) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24) | 38 |
@@ -75,7 +75,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3 mentions)</summary>
@@ -343,18 +343,21 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:48:03](/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-31)**
+**[00:48:03](/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-54)**
 > "...nd if you're looking for a fact: he took over for Charlie (Charlie Kirk)—who was slated to speak at Liberty University. Okay, that's just a fact. Alex Clark also threw shade at us, and it's kind of incredible that she ..."
+
+**[00:21:45](/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-21-29)**
+> "...Charlie (Charlie Kirk) at his Liberty Convocation Liberty event that he has—which is go..."
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
-**[00:08:59](/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-19)**
-> "...he seemed all too happy to assume Charlie (Charlie Kirk)'s position. Look, he's already speaking at Liberty University. Why? Because he made some phone calls? Have we lowered the standards for what makes somebody a her..."
+**[00:08:59](/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-59)**
+> "Look, he's already speaking at Liberty University. Why? Because he made some phone calls? Have we lowered the standards for what makes somebody a hero in 2025?"
 
 </details>
 
@@ -468,7 +471,20 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Hosted Speaker (1)</summary>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:08:59](/episodes/ep-Qfwr08Ebczo.md#t-00-08-59): “Look, he's already speaking at Liberty University.”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:48:03](/episodes/ep-vwG1juDCQZQ.md#t-00-47-54): “he took over for Charlie (Charlie Kirk)—who was slated to speak at Liberty University.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (13)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -551,6 +567,14 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
 </details>
 
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:08:59](/episodes/ep-Qfwr08Ebczo.md#t-00-08-59): “Look, he's already speaking at Liberty University.”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:48:03](/episodes/ep-vwG1juDCQZQ.md#t-00-47-54): “he took over for Charlie (Charlie Kirk)—who was slated to speak at Liberty University.”
+
+</details>
+
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -563,7 +587,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Liberty University (20)</strong></summary>
+<summary><strong class="section-title">Statements about Liberty University (21)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>
@@ -647,6 +671,14 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
 - [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) (Claim) **Candace Owens**: ["Fort Huachuca Education Center has connected students with Liberty Uni..."](/statements/statement-4a1ea3561680.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
+
+- [00:48:03](/episodes/ep-vwG1juDCQZQ.md#t-00-47-54) (Claim) **Candace Owens**: ["Owens said Michael McCoy took over Charlie Kirk's scheduled speaking a..."](/statements/statement-d0f2a771d92c.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

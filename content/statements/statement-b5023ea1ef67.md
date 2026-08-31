@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:12:15](/episodes/ep-wcD2khO3rOA.md#t-01-11-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > give you my best guess as to why Charlie Kirk was assassinated. It's because an offer came to him to become the next moon to turn turning point, which is already a hundred million dollar organization into a multi-billion dollar organization... I think this is what Charlie Kirk said no to... you might betray him you might betray him for that
 

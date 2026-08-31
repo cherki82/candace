@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:19:12](/episodes/ep-yAIb-NuUh_U.md#t-00-18-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1152);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=1152s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Rob Coy, who was a former Las Vegas casino entertainment director turned religious leader for one of Florida's biggest megachurches
 

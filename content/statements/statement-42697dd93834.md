@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:11:05](/episodes/ep-ChuWo-n49B8.md#t-00-11-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(665);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=665s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were told Tyler Robinson's gun had had DNA all over it. And I'm going to call that a lie by severe omission because every time they said this in the public, they refused to say but five other sets of prints minimally were also found on the gun and they refused to say that Tyler's are the most degraded. Tyler's prints are the most degradative. All the prints that were found on this gun, that is a severe lie by omission to continually say they found his prints on a gun and not admit that five other sets were found of which one were his owned by his father and the other by Lance (Lance Twiggs).
 

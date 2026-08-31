@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:21:07](/episodes/ep-N4uM8Jdr410.md#t-00-20-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1267);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then this one, which just gets me. Remember Special Agent Robert Bohls, who had been serving for the FBI office over in Virginia, but suddenly and rather inexplicably, Kash Patel fires the person that was heading up— ... —the FBI Salt Lake City office. He fires that person and installs Robert Bohls. On September 2nd, okay, eight days before the Charlie Kirk assassination, Robert Bohls assumes that position at the Salt Lake field office.
 

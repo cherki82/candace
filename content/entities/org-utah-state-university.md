@@ -36,7 +36,7 @@ Source: [Department of Public Safety | USU](https://www.usu.edu/dps/dps/emergenc
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-utah-state-university-t-00-06-55" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-utah-state-university-t-00-29-25" style="--pulse-height:50%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-15" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-utah-state-university-t-00-16-36" style="--pulse-height:100%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 2 mentions" title="2026-08-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-utah-state-university-t-00-24-22" style="--pulse-height:50%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-state-university-t-00-11-05" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [Department of Public Safety | USU](https://www.usu.edu/dps/dps/emergenc
 |---|---|---:|
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-utah-state-university-t-00-06-55) | 2 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-utah-state-university-t-00-29-25) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-15) | 2 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-utah-state-university-t-00-16-36) | 2 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-utah-state-university-t-00-24-22) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-state-university-t-00-11-05) | 1 |
@@ -90,10 +90,10 @@ Source: [Department of Public Safety | USU](https://www.usu.edu/dps/dps/emergenc
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:41:48](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
+**[00:41:48](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-15)**
 > "...section for some reason. Oh, I wanted to read this email that came in because Turning Point had the USU event last night. They went back to Utah and returned, made a big splash about that. And this perso..."
 
-**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
+**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-59)**
 > "...ns), tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agreement that all were disappointed. The event was scripted. The allowance of op..."
 
 </details>

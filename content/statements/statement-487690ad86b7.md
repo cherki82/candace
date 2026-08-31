@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:12:52](/episodes/ep-FFQ9675oqRI.md#t-00-12-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(772);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=772s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Apparently this freelancing operative was positioned in advance with the specific instruction to take that exact video at that exact place at that exact time. ... The operative was allegedly in communication with digital media teams and the entire moment was staged, captured, and then intended. ... intentionally shared amongst those digital media teams and their operatives whereupon it was made to go viral.
 

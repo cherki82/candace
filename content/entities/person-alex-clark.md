@@ -22,7 +22,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <div><span>Episodes</span><strong>28</strong></div>
 <div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,10 +39,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09" style="--pulse-height:10%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-23-38" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-alex-clark-t-00-56-54" style="--pulse-height:10%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-57" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-44" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07" style="--pulse-height:30%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13" style="--pulse-height:30%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10" style="--pulse-height:40%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10" style="--pulse-height:30%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-45" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21" style="--pulse-height:10%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -72,10 +72,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09) | 1 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-23-38) | 4 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-alex-clark-t-00-56-54) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-57) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-44) | 2 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07) | 3 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13) | 3 |
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10) | 4 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-45) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21) | 1 |
@@ -269,10 +269,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
-
-**[00:01:17](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10)**
-> "Alex and Andrew then jump onto a podcast"
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
 
 **[00:04:26](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10)**
 > "...ng in a tribute to him, Alex (Alex Clark) and Andrew (Andrew Kolvet) then jump onto a podc..."
@@ -280,7 +277,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 **[00:31:35](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-31-26)**
 > "...with that sit down with Alex (Alex Clark), where Andrew said, oh, there was not $150 milli..."
 
-**[01:11:06](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-01-11-03)**
+**[01:11:06](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-01-10-32)**
 > "...ke, what was that weird Alex (Alex Clark) thing?"
 
 </details>
@@ -316,10 +313,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
-**[00:16:05](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-57)**
+**[00:16:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-44)**
 > "... a committed evangelical who only liked Catholic architecture. That's a lie, told and reinforced by Alex Clark and Andrew Kolvet. Lie number three is that Charlie (Charlie Kirk)'s neck stopped a .30-06 bullet b..."
 
-**[00:17:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-17-25)**
+**[00:17:20](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-17-02)**
 > "...Ben Shapiro and Charlie (Charlie Kirk) never had any bad blood between them. The offender there was Alex Clark. Ben Shapiro was on her show, and I don't know why she tried that little bit of propaganda when she..."
 
 </details>
@@ -338,13 +335,13 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 **[00:24:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-23-38)**
 > "...l you got a stage. Okay. And people started going, "Lie, lie, lie, lie, lie." Right. Case in point: Alex Clark wanted to do the Wall Street Journal thing until I caught like this little lie. And it's like: what..."
 
-**[00:46:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-45-21)**
+**[00:46:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-46-02)**
 > "...o truth. My platform is your platform. Now, speaking of PR and people who should maybe get into it: Alex Clark needs a raise. I don't even know what she's doing over at Turning Point USA. This gets back into—yo..."
 
-**[00:48:13](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-47-31)**
+**[00:48:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-47-54)**
 > "...for Charlie (Charlie Kirk)—who was slated to speak at Liberty University. Okay, that's just a fact. Alex Clark also threw shade at us, and it's kind of incredible that she said this working for Turning Point US..."
 
-**[00:59:59](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-59-48)**
+**[00:59:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-59-45)**
 > "...st been—I don't know—it's just—it's been one big nothing burger. Tom Paul writes: "Andrew Kolvet on Alex Clark show discussed how Charlie's (Charlie Kirk's) heart was still beating. How did Charlie (Charlie Kir..."
 
 </details>
@@ -353,7 +350,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:27:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09)**
-> "...y? People that are just lying about Charlie Kirk (Charlie Kirk). That was my reason for going after Alex Clark (Alex Clark). She lied about the Catholic thing. That was my reason for going after Andrew Kolvet (..."
+> "That was my reason for going after Alex Clark."
 
 </details>
 
@@ -454,6 +451,18 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:46:19](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56): “allowing Alex to just lie about where he was while you purport to be a friend of Charlie.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Appeared With (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
@@ -471,9 +480,9 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Alex (Alex Clark) pulling that move.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:30:51](/episodes/ep-KpxIBWkNsSs.md#t-00-30-33): “But she wrote this, Nick Shirley is a real journalist. Candace Owens is not. Oh, OK. So we're in a podcast.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:48:14](/episodes/ep-YeEtS7nix3o.md#t-00-47-49): “here's what she replied with ... I'd worry less about ours and more about the fact that yours seems to consist primarily of leftist hate watching and Russian bots.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:18:12](/episodes/ep-JQjCAsfoXEE.md#t-00-17-32): “Alex Clark lies; I get attacked. I'm telling the truth. Turning Point knows it, but they kind of allow this like Catholic thing—lie to flow. And the influencers are allowed to lie.”
 
 </details>
 
@@ -483,12 +492,13 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:47](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Alex Clark.”
 
 </details>
 
@@ -507,7 +517,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Interviewed (2)</summary>
+<summary>Interviewed (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -516,14 +526,6 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:30:26](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03): “He went onto the Alex Clark podcast”
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:29:42](/episodes/ep-Qt0VHV-POCg.md#t-00-29-08): “I reflect on that moment, and I think it was right after memorial service—a couple of days after the memorial service—where Alex Clark released that interview with her and Andrew Kolvet”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:18:40](/episodes/ep-AoYZel7_cGQ.md#t-00-18-40): “their spokesperson, Andrew Kolvet, joined Alex Clark's show and took down that insinuation.”
-
-</details>
-
-- **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12): “Erika Kirk is going on—I think—Alex Clark's show”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:09](/episodes/ep-ja26iltROkM.md#t-00-58-36): “I saw people that were going: 'Erika Kirk is going on—I think—Alex Clark's show'”
 
 </details>
 
@@ -545,10 +547,11 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “highlighted by Alex Clark, who has a show over there on Instagram”
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:04:18](/episodes/ep-es7PWdFGoFI.md#t-00-04-10): “I was like, look, I say something in a tribute to him, Alex and Andrew then jump onto a podcast”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:34:40](/episodes/ep-JQjCAsfoXEE.md#t-00-34-07): “The Form 990 for fiscal year 2024 is posted for Turning Point USA, but it is missing for all the other three organizations. ... And Alex Clark said, "Oh, every year since I've been here, this is what we do."”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:48:05](/episodes/ep-vwG1juDCQZQ.md#t-00-47-54): “Alex Clark also threw shade at us, and it's kind of incredible that she said this working for Turning Point USA.”
 
 </details>
 
@@ -563,6 +566,13 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 <details>
 <summary>Referenced By (10)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:46:19](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56): “allowing Alex to just lie about where he was while you purport to be a friend of Charlie.”
+
+</details>
 
 - **[Joe Kent](/entities/person-joe-kent.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -579,28 +589,31 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:47](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Alex Clark.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Alex (Alex Clark) pulling that move.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:30:51](/episodes/ep-KpxIBWkNsSs.md#t-00-30-33): “But she wrote this, Nick Shirley is a real journalist. Candace Owens is not. Oh, OK. So we're in a podcast.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:48:14](/episodes/ep-YeEtS7nix3o.md#t-00-47-49): “here's what she replied with ... I'd worry less about ours and more about the fact that yours seems to consist primarily of leftist hate watching and Russian bots.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:18:12](/episodes/ep-JQjCAsfoXEE.md#t-00-17-32): “Alex Clark lies; I get attacked. I'm telling the truth. Turning Point knows it, but they kind of allow this like Catholic thing—lie to flow. And the influencers are allowed to lie.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “highlighted by Alex Clark, who has a show over there on Instagram”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:34:40](/episodes/ep-JQjCAsfoXEE.md#t-00-34-07): “The Form 990 for fiscal year 2024 is posted for Turning Point USA, but it is missing for all the other three organizations. ... And Alex Clark said, "Oh, every year since I've been here, this is what we do."”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:48:05](/episodes/ep-vwG1juDCQZQ.md#t-00-47-54): “Alex Clark also threw shade at us, and it's kind of incredible that she said this working for Turning Point USA.”
 
 </details>
 
@@ -633,13 +646,6 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 </details>
 
-- **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12): “Erika Kirk is going on—I think—Alex Clark's show”
-
-</details>
-
 </details>
 
 </details>
@@ -662,16 +668,17 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
 
-- [00:36:10](/episodes/ep-UBkFkg4UNY8.md#t-00-36-03) [○] (Claim) ["Charlie Kirk was not offered $150 million from Israel; Turning Point USA refused..."](/statements/statement-7e9c7ba1ce4c.md)
+- [00:46:48](/episodes/ep-vwG1juDCQZQ.md#t-00-46-39) [◐] (Claim) ["Alex Clark said Michael McCoy went to Korea and Japan because Turning Point USA'..."](/statements/statement-d79001ce3915.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Alex Clark](/entities/person-alex-clark.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Clark (9)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Clark (11)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
@@ -719,10 +726,16 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3)</summary>
 
-- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk did not give any person the authority to say that the Catho..."](/statements/statement-6504abed6bbe.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:46:02](/episodes/ep-vwG1juDCQZQ.md#t-00-46-02) (Accusation) **Candace Owens**: ["Owens accused Alex Clark of lying about Charlie Kirk's interest in Cat..."](/statements/statement-df3d7b950fbd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Catholicism](/entities/concept-catholicism.md)
+
+- [00:46:48](/episodes/ep-vwG1juDCQZQ.md#t-00-46-39) (Claim) **Alex Clark** (via quoted post): ["Alex Clark said Michael McCoy went to Korea and Japan because Turning ..."](/statements/statement-d79001ce3915.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:51:53](/episodes/ep-vwG1juDCQZQ.md#t-00-51-41) (Opinion) **Candace Owens**: ["Owens speculated that Turning Point USA and Alex Clark lied about Char..."](/statements/statement-3f80a015bbcf.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Catholicism](/entities/concept-catholicism.md)
 
 </details>
 

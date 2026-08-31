@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-11-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(690);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=690s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > during this stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a trade and investment delegation to Cairo, Egypt. ... The mission is currently scheduled for October 26 through November 2. ... However, the dates are subject to change.
 

@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:25:07](/episodes/ep-jsqUIkszZd0.md#t-00-24-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1507);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1507s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On January 24th, 2024, Mr. Marx married Melody (Corby Hall's wife and FoldAR COO; surname unverified) and me in his hotel room with several of our industry friends present.
 

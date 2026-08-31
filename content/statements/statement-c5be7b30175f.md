@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:55:06](/episodes/ep-IqHsl7d2dos.md#t-00-54-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3306);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=3306s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > if you want to honor Charlie (Charlie Kirk), if you want to do something for Charlie (Charlie Kirk), do not sign up for the United States military. ... Because I think that they had everything to do with what happened on September 10th.
 

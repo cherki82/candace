@@ -11,11 +11,15 @@ object: "person-charlie-kirk"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) close associate of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8)**
 
-- [00:00:48](/episodes/ep-UBkFkg4UNY8#t-00-00-48): _Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions_
+- [00:00:48](/episodes/ep-UBkFkg4UNY8#t-00-00-48): _Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk)_
+
+**[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
+
+- [00:10:22](/episodes/ep-ja26iltROkM#t-00-10-22): _He also was very close to Charlie (Charlie Kirk)._
 
 ### Related
 

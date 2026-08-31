@@ -6,6 +6,11 @@ date: "2014-10"
 ---
 
 **Date:** 2014-10
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “October of 2014”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2014-10"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:26:21](/episodes/ep-CMcktj3Egfo.md#event-event-2014-10-ronald-s-godwin-retired-from-liberty-uni-t-00-18-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1581);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1581s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can tell you that when Ron Godwin retired from Liberty University in October of 2014,
 
@@ -25,6 +30,6 @@ date: "2014-10"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:18:47](/episodes/ep-CMcktj3Egfo.md#event-event-2014-10-ronald-s-godwin-retired-from-liberty-uni-t-00-18-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.

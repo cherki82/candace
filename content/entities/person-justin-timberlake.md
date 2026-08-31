@@ -3,9 +3,17 @@ title: "Justin Timberlake"
 description: "Justin Timberlake (People) - 1 mention"
 id: "person-justin-timberlake"
 type: "PERSON"
+categories:
+  - "music,entertainment"
 ---
 
 _Type: People_
+
+**Categories:** music,entertainment
+
+**Entity verification:** verified
+> The artist official site confirms the canonical public name Justin Timberlake; transcript context identifies the musician.
+Source: [Justin Timberlake Official Site](https://www.justintimberlake.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-justin-timberlake-t-00-02-57">2025-12-05 · 00:03:20</a></strong></div>

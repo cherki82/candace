@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:02:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(156);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=156s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think to myself, when was the exact moment that Charlie Kirk understood that he was not free, that he had money and they had fame, but he did not actually have freedom, you know, between you and I, whoever it was that made the decision to kill him was correct in their assessment that he was indeed a threat because Charlie Kirk could command a crowd.
 

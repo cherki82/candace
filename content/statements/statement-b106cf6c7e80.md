@@ -19,11 +19,16 @@ type: "opinion"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:22:39](/episodes/ep-_dRaEO47-co.md#t-00-22-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1359);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=1359s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will never allow the memory of Charlie (Charlie Kirk) to be forgotten, obviously, because there is no Candace (Candace Owens) without Charlie (Charlie Kirk). You know, we came up in politics together.
 

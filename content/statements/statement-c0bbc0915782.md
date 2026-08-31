@@ -25,8 +25,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:19:43](/episodes/ep-aDlhjfW6hz8.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1183);return false;">Play</a>
+**Timestamp:** [00:19:43](/episodes/ep-aDlhjfW6hz8.md#t-00-19-38) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1183s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And like I said, I perceive a government conspiracy. You'd be a fool not to see a government conspiracy here, especially with the way that I am being attacked for simply trying to investigate this.
 

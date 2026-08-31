@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:19:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-18-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1146);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1146s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, to be clear, Erica (Erika Kirk) was 10 years old when her parents divorced in 1998.
 

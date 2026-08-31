@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:07:42](/episodes/ep-YFmRH8p5lt0.md#t-00-07-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(462);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=462s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So in 2023, Charlie (Charlie Kirk)—I went back on his X feed—and he is hitting hard on Ukraine. ... He's accusing Ukraine and Zelensky of corruption, of financial fraud, of money laundering.
 

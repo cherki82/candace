@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:05:00](/episodes/ep-QZWSsq8ZWzw.md#t-00-04-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(300);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=300s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 'Cause all we have is, well, in the indictment, he dropped onto the roof at 12:15 PM.
 

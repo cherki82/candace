@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:10:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4250);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4250s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then just get a bunch of homosexual men to go to D.C., you know, catch them on the apps, Lindsey Graham and then. ... And I mean, whatever they've got on Lindsey Graham, he's like terrifyingly supportive of Israel. ... Now it's like his file terrifies me. ... That's how Israeli blackmail files are created.
 

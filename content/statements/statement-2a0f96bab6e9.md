@@ -29,9 +29,9 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:11:46](/episodes/ep-w1oqQbR_bYs.md#t-00-11-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(706);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=706s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> When I look back, because it recently leaked what happened at this quote unquote town hall, this is a slave hanging. ... And here is a video of the then CEO Jeremy Boring, which somehow Steven Crowder got a hold of this week or last week or whatever. This is just a portion of it. You should watch the entire thing because it really is something.
+> And here is a video of the then CEO Jeremy Boreing, which somehow Steven Crowder got a hold of this week or last week or whatever.
 
 ## Verification
 

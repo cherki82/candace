@@ -24,11 +24,11 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30">2026-07-29 · 00:28:15</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>23</strong></div>
+<div><span>Relationships</span><strong>27</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,9 +40,10 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <a href="/episodes/ep-5autG89PW6w.md#t-00-27-54" style="--pulse-height:25%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-navy-t-00-22-48" style="--pulse-height:50%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#t-00-12-06" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#t-00-37-21" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#t-00-18-25" style="--pulse-height:25%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#t-00-10-04" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-13-05" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-09-04" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -67,9 +68,10 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-27-54) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-navy-t-00-22-48) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39) | 2 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-37-21) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#t-00-18-25) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#t-00-10-04) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-09-04) | 2 |
@@ -239,6 +241,14 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:18:39](/episodes/ep-t4U7NjnUEgc.md#t-00-18-25)**
+> "...ng like you can get the Army, Navy, everybody kind of working together on something."
+
+</details>
+
+<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21)**
@@ -255,13 +265,10 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:34:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22)**
+**[00:34:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09)**
 > "... of these new age Turning Point pastors—Hibbs is from a military family, okay? Butch Sr. was in the Navy. What he did in the Navy is unclear, but I'm interested. I'm just really interested. Also, somethin..."
-
-**[00:34:24](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22)**
-> "... Point pastors—Hibbs is from a military family, okay? Butch Sr. was in the Navy. What he did in the Navy is unclear, but I'm interested. I'm just really interested. Also, something that I'm just gonna say..."
 
 </details>
 
@@ -309,14 +316,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (3)</summary>
-
-- **[Roy Edgar McCoy](/entities/person-roy-edgar-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”
-
-</details>
+<summary>Employs (2)</summary>
 
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -335,12 +335,12 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Formerly Employed (6)</summary>
+<summary>Formerly Employed (9)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “Frank Turek—former officer in the U.S. Navy, and then he turned to Christian apologetics”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
 
@@ -381,6 +381,27 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 </details>
 
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:34:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09): “Butch Sr. was in the Navy.”
+
+</details>
+
+- **[Jon Lewis](/entities/person-jon-lewis.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
+
+</details>
+
+- **[Roy Edgar McCoy](/entities/person-roy-edgar-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “but a pastor with a very strong military background. Pastor Rob McCoy—his father was the naval captain, was a naval captain, Roy Edgar McCoy. ... But also—and this is kind of shocking—his father was also the assistant chief of staff for psychological warfare in the Navy.”
+
+</details>
+
 </details>
 
 <details>
@@ -408,12 +429,12 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (14)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “Frank Turek—former officer in the U.S. Navy, and then he turned to Christian apologetics”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
 
@@ -454,6 +475,27 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 </details>
 
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:34:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09): “Butch Sr. was in the Navy.”
+
+</details>
+
+- **[Jon Lewis](/entities/person-jon-lewis.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
+
+</details>
+
+- **[Roy Edgar McCoy](/entities/person-roy-edgar-mccoy.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “but a pastor with a very strong military background. Pastor Rob McCoy—his father was the naval captain, was a naval captain, Roy Edgar McCoy. ... But also—and this is kind of shocking—his father was also the assistant chief of staff for psychological warfare in the Navy.”
+
+</details>
+
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -473,13 +515,6 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 - [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:34:19](/episodes/ep-FFQ9675oqRI.md#t-00-34-00): “C15 was originally studied by Dr. Stephanie Van Watson when working with the U.S. Navy to improve health of aging dolphins.”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:41:22](/episodes/ep-3QJqtW_NOSI.md#t-00-41-12): “C15 was originally studied by Dr. Stephanie Venn-Watson while working with the U.S. Navy to improve the health of aging dolphins.”
-
-</details>
-
-- **[Roy Edgar McCoy](/entities/person-roy-edgar-mccoy.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”
 
 </details>
 

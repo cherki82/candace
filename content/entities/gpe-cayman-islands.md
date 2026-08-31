@@ -17,7 +17,7 @@ _Type: Places_
 Source: [Our Islands | Cayman Islands Government](https://otp.gov.ky/web/govky/ourislands)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-03">2025-10-02 · 00:24:44</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-35">2025-10-02 · 00:24:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-cayman-islands-t-00-12-04">2026-02-28 · 00:12:18</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -29,16 +29,16 @@ Source: [Our Islands | Cayman Islands Government](https://otp.gov.ky/web/govky/o
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-03">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-35">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-03" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-35" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-cayman-islands-t-00-12-04" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-03) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-35) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-cayman-islands-t-00-12-04) | 1 |
 
 </details>
@@ -60,7 +60,7 @@ Source: [Our Islands | Cayman Islands Government](https://otp.gov.ky/web/govky/o
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:24:44](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-03)**
+**[00:24:44](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-cayman-islands-t-00-24-35)**
 > "...we've got Robbie Hilde in the Cayman Islands."
 
 </details>

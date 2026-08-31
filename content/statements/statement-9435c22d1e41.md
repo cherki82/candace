@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:43:55](/episodes/ep-cZxHqYsWRYg.md#t-00-43-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2635);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2635s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian Houston, on his father, who was ... never charged, said, quote, 'I have no doubt now that my father was a serial pedophile, and we'll probably never know the extent of it.' That's a quote from him.
 

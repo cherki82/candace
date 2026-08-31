@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:14:28](/episodes/ep-sreYYcID-QY.md#t-00-14-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(868);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Secondly, like I said, this clip is from the morning after Charlie (Charlie Kirk)'s assassination
 

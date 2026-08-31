@@ -25,7 +25,7 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,12 +35,12 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 <p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-the-federal-government-t-00-34-38">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-the-federal-government-t-00-21-48" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-11-24" style="--pulse-height:33%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-11-13" style="--pulse-height:33%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-the-federal-government-t-00-00-55" style="--pulse-height:17%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-the-federal-government-t-00-13-44" style="--pulse-height:17%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-the-federal-government-t-00-35-37" style="--pulse-height:17%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-04-16" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-the-federal-government-t-00-14-09" style="--pulse-height:17%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-04-30" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-the-federal-government-t-00-14-04" style="--pulse-height:17%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-the-federal-government-t-00-34-38" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-the-federal-government-t-00-55-43" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-the-federal-government-t-00-33-36" style="--pulse-height:17%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
@@ -51,12 +51,12 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-the-federal-government-t-00-21-48) | 1 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-11-24) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-11-13) | 2 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-the-federal-government-t-00-00-55) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-the-federal-government-t-00-13-44) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-the-federal-government-t-00-35-37) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-04-16) | 2 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-the-federal-government-t-00-14-09) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-04-30) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-the-federal-government-t-00-14-04) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-the-federal-government-t-00-34-38) | 6 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-the-federal-government-t-00-55-43) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-the-federal-government-t-00-33-36) | 1 |
@@ -129,7 +129,7 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:14:22](/episodes/ep-SKGUzGHymcI.md#ent-org-the-federal-government-t-00-14-09)**
+**[00:14:22](/episodes/ep-SKGUzGHymcI.md#ent-org-the-federal-government-t-00-14-04)**
 > "...e Army and the Secretary of Defense to the President. So now you can say with complete honesty that the federal government was aware of and signed off on the plane and hangar situation. Now, I'm not claiming a direct line ..."
 
 </details>
@@ -137,10 +137,10 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:04:30](/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-04-16)**
+**[00:04:30](/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-04-30)**
 > "... Department confirmed that a foreign military jet actually can't just land on American soil without the federal government paying attention. It actually requires a federal escort. Okay? Again, common sense. I don't know ho..."
 
-**[00:51:09](/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-50-42)**
+**[00:51:09](/episodes/ep-581dILVcEE4.md#ent-org-the-federal-government-t-00-50-52)**
 > "... right track. Certainly there are a lot of implications with why this plane would be allowed in and the federal government would escort it and then everyone would play dumb when Candace (Candace Owens) mentioned this fligh..."
 
 </details>
@@ -172,10 +172,10 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:11:44](/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-11-24)**
+**[00:11:44](/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-11-13)**
 > "...y of something. I want you guys to also, though, be conscious of the lies that we are being told by the federal government, because that feels extremely guilty to me. We haven't received any updates whatsoever on the raid ..."
 
-**[00:16:23](/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-16-10)**
+**[00:16:23](/episodes/ep-K5GjF53bfN4.md#ent-org-the-federal-government-t-00-15-46)**
 > "...nd, "Oh really? We didn't know that." What do you mean you didn't know that? This is the first time the federal government, on the 15th, decided to reach out to the other person who saw the person climbing the roof. I mean..."
 
 </details>
@@ -220,7 +220,7 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about the federal government (4)</strong></summary>
+<summary><strong class="section-title">Statements about the federal government (14)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
@@ -239,16 +239,69 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 </details>
 
 <details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:24:27](/episodes/ep-6J6lRZPQ4jk.md#t-00-24-27) (Accusation) **Candace Owens**: ["Owens said it looked to her, and she thought to many outside observers..."](/statements/statement-e973ec2f26c1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5)</summary>
+
+- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said Lyndon Baines Johnson, parts of the U.S. government,..."](/statements/statement-e4d824ed3726.md)
+  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [JFK assassination](/entities/event-jfk-assassination.md)
+
+- [00:02:43](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the U.S. government had lied about the JFK assassina..."](/statements/statement-0e334e1e49cf.md)
+  - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
+
+- [00:18:48](/episodes/ep-Kmt6HgRjckU.md#t-00-18-13) (Accusation) **Candace Owens**: ["Owens said government behavior after Charlie Kirk's killing indicated ..."](/statements/statement-0a6bde54cccf.md)
+
+- [00:33:49](/episodes/ep-Kmt6HgRjckU.md#t-00-33-36) (Claim) **Candace Owens**: ["Owens said the particular .30-06 round would have decapitated Charlie ..."](/statements/statement-ef74ad894086.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:42](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Owens said Qatar stated that it had a relationship with Hamas because ..."](/statements/statement-b9887fea08a7.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:55:55](/episodes/ep-a-e7HC6SeK8.md#t-00-55-43) (Opinion) **Candace Owens**: ["Owens said she thinks the federal government is trying to bankrupt her..."](/statements/statement-ac844dfc29b5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:04:42](/episodes/ep-sImMM04XdWY.md#t-00-04-12) (Accusation) **Candace Owens**: ["Candace Owens speculated that a warning to her and Tucker Carlson may ..."](/statements/statement-7ac384630899.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:04:19](/episodes/ep-581dILVcEE4.md#t-00-04-16) (Claim) **Anonymous Source #1 (Ep 581dILVcEE4)** (via read message): ["A foreign military jet cannot land on American soil without federal at..."](/statements/statement-85b243c15b41.md)
+- [00:04:19](/episodes/ep-581dILVcEE4.md#t-00-03-51) (Claim) **Anonymous Source #1 (Ep 581dILVcEE4)** (via read message): ["A foreign military jet cannot land on American soil without federal at..."](/statements/statement-85b243c15b41.md)
 
 </details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:36:49](/episodes/ep-7RLtGgkTh9o.md#t-00-36-14) (Opinion) **Candace Owens**: ["Our government is evil. Terrible people who do terrible things are pro..."](/statements/statement-a11b3bd8e799.md)
+- [00:36:49](/episodes/ep-7RLtGgkTh9o.md#t-00-36-09) (Opinion) **Candace Owens**: ["Our government is evil. Terrible people who do terrible things are pro..."](/statements/statement-a11b3bd8e799.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2)</summary>
+
+- [00:15:27](/episodes/ep-K5GjF53bfN4.md#t-00-15-09) (Claim) **Rooftop-position videographer in Ep K5GjF53bfN4 (identity unverified)** (via quoted speech): ["A second videographer told Owens that authorities likewise had never c..."](/statements/statement-ed3b814e7988.md)
+  - Also about: [Orem Police Department](/entities/org-orem-police-department.md)
+
+- [00:43:41](/episodes/ep-K5GjF53bfN4.md#t-00-43-32) (Opinion) **Candace Owens**: ["Owens said recent bullet-casing etchings were very suspect and were st..."](/statements/statement-75f7ba25fc3c.md)
 
 </details>
 

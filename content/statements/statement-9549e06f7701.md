@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:06:16](/episodes/ep-_cNtgris8Ik.md#t-00-06-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(376);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What is not in dispute is that Terrell did, in fact, remove a physical object from the crime scene. ... It's not in dispute. He then immediately goes behind the tent, puts in his pocket. Would that count as concealing?
 

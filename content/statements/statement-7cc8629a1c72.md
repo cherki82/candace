@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:31:42](/episodes/ep-SKGUzGHymcI.md#t-00-31-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1902);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we're driving in Megyn (Megyn Kelly) and his team has drones up looking at the crowd from above and they text him some video.
 

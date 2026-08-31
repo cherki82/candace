@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-10"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:14:52](/episodes/ep-X3VKJVJ7cN4.md#event-event-2025-09-10-blake-neff-said-he-rode-in-a-separate-su-t-00-14-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(892);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=892s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We drove somewhere, and because I wasn't going to that event, we just parked
 
@@ -25,6 +30,6 @@ date: "2025-09-10"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(715);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=715s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Blake Neff and Danny got into one SUV they don't remember.

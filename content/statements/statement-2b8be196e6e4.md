@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:49:53](/episodes/ep-a2bZf4fic10.md#t-00-49-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2993);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=2993s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree because I think John Bray's theory has infinitely more. ... more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.
 

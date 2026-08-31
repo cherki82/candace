@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:22:12](/episodes/ep-jsqUIkszZd0.md#t-00-22-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1332);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1332s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > During our demo at his home base gun range, Mr. Marx (Victor Marx) approached me separately and asked if I would make a signature series rifle for him. ... He went on to tell me that he was exploring this as well with other much larger manufacturers, but that the Fold AR is, quote, the only one that makes sense.
 
@@ -41,7 +41,7 @@ veracity: "true"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:09:18](/episodes/ep--9MOUvgGyi4.md#t-00-08-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(558);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=558s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so he said, well, you know, I've got some signature series that I'm looking at with. ... he named off a few different companies and you know bigger companies like yeah but this one's the only one that makes sense and for me I already know what my weapon system is so validation doesn't really mean anything to me from other people but you know bigger companies like yeah but this one's the only one that makes sense and for me I already know what my weapon system is so validation doesn't really mean anything to me from other people but it was again a reaffirmation that somebody gets it
 

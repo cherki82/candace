@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1596);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1596s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk wrote explicitly he had no choice but to abandon the pro-Israel cause. And according to Charlie (Charlie Kirk), he felt that he was being morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others.
 

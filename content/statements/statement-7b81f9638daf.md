@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:35:35](/episodes/ep-xi8SYJTUXPM.md#t-00-35-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2135);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2135s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One of the first phone calls he made after attacking Iran was to Laura Loomer.
 

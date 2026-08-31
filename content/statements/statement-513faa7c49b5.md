@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:59:13](/episodes/ep-nPhCKwJ6ye8.md#t-02-59-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(10753);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=10753s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > would like to state for the record that I think Erika is underqualified to run ... the organization
 
@@ -37,7 +37,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [02:18:11](/episodes/ep-aPOyk1i2LOc.md#t-02-18-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8291);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=8291s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think Erica is underqualified to run that organization.
 

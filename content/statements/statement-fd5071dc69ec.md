@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:58:59](/episodes/ep-zSKrxIUMNqw.md#t-00-58-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3539);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3539s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All of us decentralizing intelligence and me just being willing to share what you guys are sharing with me is what is solving the mystery of what happened to Charlie Kirk on September 10th.
 

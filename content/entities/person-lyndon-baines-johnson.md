@@ -29,8 +29,8 @@ Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-lega
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,7 +41,7 @@ Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-lega
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 4 mentions" title="2025-10-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-16" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-lyndon-baines-johnson-t-00-50-08" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -51,7 +51,7 @@ Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-lega
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52) | 4 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46) | 4 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-16) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-lyndon-baines-johnson-t-00-50-08) | 1 |
 
 </details>
@@ -73,7 +73,7 @@ Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-lega
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:56:37](/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20)**
+**[00:56:36](/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-16)**
 > "I'm sorry, LBJ that was involved"
 
 </details>
@@ -125,51 +125,23 @@ Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-lega
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Accused (1)</summary>
-
-- **[John F. Kennedy](/entities/person-john-f-kennedy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): “definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[John F. Kennedy](/entities/person-john-f-kennedy.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): “definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead.”
-
-</details>
-
-</details>
+_No relationships extracted yet._
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lyndon Baines Johnson (5)</strong></summary>
+<summary><strong class="section-title">Statements about Lyndon Baines Johnson (3)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
-- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Lyndon Baines Johnson and parts of our own government and the Cubans w..."](/statements/statement-e4d824ed3726.md)
-  - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
-
-- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Parts of our own government and the Cubans wanted JFK dead"](/statements/statement-37435b3d356d.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md)
-
-- [00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk stated that Lyndon Baines Johnson and parts of the US gov..."](/statements/statement-1fe9963913be.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said Lyndon Baines Johnson, parts of the U.S. government,..."](/statements/statement-e4d824ed3726.md)
+  - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [the federal government](/entities/org-the-federal-government.md)
 
 - [00:02:18](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Claim) **Charlie Kirk** (via quoted speech): ["There were 15 or 20 inexcusable things that happened on the day of JFK..."](/statements/statement-17c4af89e1a6.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
 
-- [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-60b6bb5b3d5e.md)
+- [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Owens said Lyndon Baines Johnson was clearly implicated in JFK's assas..."](/statements/statement-60b6bb5b3d5e.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
 
 </details>

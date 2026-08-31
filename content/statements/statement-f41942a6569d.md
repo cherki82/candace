@@ -27,7 +27,7 @@ type: "prediction"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:54:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3254);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I think the more and more people are waking up, the more. ... brutal that we're going to become the more outspoken more stupid more blunt in your face they're going to become and then at a certain point people will either give up disenfranchise or just people go underground and you will see a violent counter-attack coming from the people
 

@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:38:23](/episodes/ep-nPhCKwJ6ye8.md#t-02-38-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(9503);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=9503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were, my sources at the U.S. Marshals were saying they were basically sent on a wild goose chase that day.
 

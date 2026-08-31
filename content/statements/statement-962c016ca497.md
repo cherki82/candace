@@ -1,6 +1,6 @@
 ---
-title: "Andrew Kolvet is a PR agent for Turning Point USA and was a ..."
-description: "\"Andrew Kolvet is a PR agent for Turning Point USA and was a close friend of Charlie Kirk\" — Candace Owens"
+title: "Andrew Kolvet was Turning Point USA's PR agent and a close f..."
+description: "\"Andrew Kolvet was Turning Point USA's PR agent and a close friend of Charlie Kirk\" — Candace Owens"
 statement_id: "statement-962c016ca497"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,22 +10,27 @@ type: "factual_claim"
 
 ## Statement
 
-> Andrew Kolvet is a PR agent for Turning Point USA and was a close friend of Charlie Kirk
+> Andrew Kolvet was Turning Point USA's PR agent and a close friend of Charlie Kirk
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(48);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=48s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Also, later on, we're going to discuss Andrew Kolvet (Andrew Kolvet), the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark (Alex Clark) to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered...
+> Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk)
 
 ## Verification
 

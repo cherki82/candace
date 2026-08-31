@@ -27,7 +27,7 @@ type: "prediction"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:21:00](/episodes/ep-OEAHy3SsIiI.md#t-00-20-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1260);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=1260s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The deep state is insisting on passing speech laws and they're going to attempt to bankrupt me for knowing the truth about Brigitte.
 

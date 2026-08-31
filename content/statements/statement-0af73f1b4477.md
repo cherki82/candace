@@ -27,8 +27,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1107);return false;">Play</a>
+**Timestamp:** [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-09) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1107s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the military-grade MKUltra program that our government employed in place after JFK was shot, right? Actually putting journalists on payroll to control our minds.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:10:52](/episodes/ep-DYD_QHMPwqM.md#t-00-10-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(652);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=652s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look up CERN. Uh it's a very interesting facility. Just look at this thing. The thing's huge. It's a the Hadron Super Super Collider they're trying to their stated objective is to recreate the Big Bang
 

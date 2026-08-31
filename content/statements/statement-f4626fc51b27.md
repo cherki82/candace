@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:16:16](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(976);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=976s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Interesting that the U.S. military started its military occupation phase of Iraq one month later.
 

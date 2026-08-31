@@ -20,11 +20,16 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:01:20](/episodes/ep-_dRaEO47-co.md#t-00-01-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(80);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=80s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I met him back in 2017, when Turning Point was this very young organization. Nobody knew who I was. Nobody knew who Charlie Kirk was.
 

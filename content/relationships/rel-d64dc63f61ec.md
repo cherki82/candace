@@ -15,7 +15,7 @@ object: "person-harry-myers"
 
 **[Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc)**
 
-- [00:05:00](/episodes/ep-t4U7NjnUEgc#t-00-05-00): _In 1990, this young man named Harry Myers discovered something_
+- [00:07:57](/episodes/ep-t4U7NjnUEgc#t-00-07-57): _as a lowly military censor guy assigned to this joint task operation six_
 
 ### Related
 

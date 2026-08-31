@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:29:25](/episodes/ep-YA1FxrDWNIo.md#t-00-28-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1765);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1765s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Something else that is really bothering me—just because I have done these campus tours—is the question of why Charlie (Charlie Kirk) was set to do two events in Utah, a mere 20 days apart, okay? He was supposed to do UVU, and then today was scheduled to do—just 20 days later—USU.
 

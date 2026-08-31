@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3058);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=3058s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i think our military at the top are actually just mercenary squads to protect the gangs
 

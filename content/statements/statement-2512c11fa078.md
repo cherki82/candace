@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:49:30](/episodes/ep-OEAHy3SsIiI.md#t-00-49-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2970);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > obviously, and I confirmed that Andrew (Andrew Kolvet) had been communicating with Alex Jones directly.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2151);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=2151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At 6.17, the FBI Salt Lake City releases another round of photos of the alleged shooter on X, photos of him again walking up the stairs. Tyler Robinson, I should say maybe here, was already in custody. ... They released the video of the suspect, they released new stills, they say they're seeking help from the public to identify a suspect.
 

@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [01:01:41](/episodes/ep-9naMwS0kMBE.md#t-01-01-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3701);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3701s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he said as soon as the plane landed I got off of the plane and ran into Erika's arms on the tarmac and boohoo cried he said like basically like you know like fell into her arms and cried because he was had so much anxiety their planes landed an hour apart
 
@@ -40,7 +40,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:25:11](/episodes/ep-DYD_QHMPwqM.md#t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1511);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1511s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Andrew (Andrew Kolvet) told me that Erika (Erika Kirk) and him collapsed in each other's arms on the tarmac.
 

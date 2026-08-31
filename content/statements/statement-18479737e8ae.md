@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:56:00](/episodes/ep-YeEtS7nix3o.md#t-00-56-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To remind you, Erika introduced this video to the public conscience herself back in November of 2025 in an interview with Megyn Kelly. ... claiming that Charlie named her as a CEO at a private event just three weeks before his death.
 

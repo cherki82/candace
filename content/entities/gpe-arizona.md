@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 257 mentions"
+description: "Arizona (Places) - 252 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -20,13 +20,13 @@ _Type: Places_
 Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-48-33">2026-08-04 · 00:48:57</a></strong></div>
 <div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>257</strong></div>
+<div><span>Mentions</span><strong>252</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,25 +34,25 @@ Source: [State of Arizona official website](https://az.gov/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-arizona-t-00-16-51">Bride Of Charlie: Crazy In Love | Episode 7</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-01-10-39" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-arizona-t-00-43-40" style="--pulse-height:16%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-15-20" style="--pulse-height:32%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 6 mentions" title="2025-10-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11" style="--pulse-height:32%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 6 mentions" title="2025-10-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00" style="--pulse-height:16%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-25" style="--pulse-height:21%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-23" style="--pulse-height:21%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-arizona-t-00-29-39" style="--pulse-height:21%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 4 mentions" title="2025-10-31 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-06-20" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-05-49" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-arizona-t-00-27-38" style="--pulse-height:16%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-07-02" style="--pulse-height:11%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-06-55" style="--pulse-height:11%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-05" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#t-00-12-04" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30" style="--pulse-height:37%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 7 mentions" title="2025-12-09 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28" style="--pulse-height:16%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45" style="--pulse-height:32%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30" style="--pulse-height:16%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-26" style="--pulse-height:11%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-12-13" style="--pulse-height:32%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19" style="--pulse-height:11%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-arizona-t-00-48-17" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20" style="--pulse-height:84%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 16 mentions" title="2026-01-06 · 16 mentions"><span></span></a>
@@ -111,25 +111,25 @@ Source: [State of Arizona official website](https://az.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-01-10-39) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-arizona-t-00-43-40) | 3 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55) | 1 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51) | 1 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-15-20) | 6 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11) | 6 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00) | 3 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-25) | 4 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-23) | 4 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-arizona-t-00-29-39) | 4 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-06-20) | 1 |
-| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-05-49) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-arizona-t-00-27-38) | 3 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-07-02) | 2 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-06-55) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-05) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30) | 7 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28) | 3 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45) | 6 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-26) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-12-13) | 6 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-arizona-t-00-48-17) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20) | 16 |
@@ -190,7 +190,7 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (257)</strong></summary>
+<summary><strong class="section-title">Raw mentions (252)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (4 mentions)</summary>
@@ -1078,62 +1078,47 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
 
-**[00:12:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
+**[00:12:28](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-12-13)**
 > "But that is not what Fort Huachuca in Arizona is, okay?"
 
-**[00:12:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
+**[00:12:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-12-13)**
 > "... is not what Fort Huachuca in Arizona is, okay?"
 
-**[00:30:50](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
+**[00:30:50](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-12-13)**
 > "...s coming through the Douglas, Arizona area."
 
-**[00:33:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
-> "...d with a friend at, uh, NOCA, Arizona."
+**[00:33:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-12-13)**
+> "It was about a ton of cocaine and a bunch of guns, a bunch of money. And then right afterward we went right back to work and I ended up getting approached with a friend at, uh, Naco, Arizona."
 
 **[00:59:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-59-12)**
 > "...fact that her mother moved to Arizona because she got involved with the military."
 
-**[01:12:31](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-01-12-11)**
+**[01:12:31](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-01-12-04)**
 > "I'm in Arizona and I'm also an ultrasound tech."
 
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:39:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28)**
-> "...ople who were on that base in Arizona,"
+**[00:39:41](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-26)**
+> "He gave us his car that he swiped onto the base. And now, because you guys sent so many emails and actually people who were on that base in Arizona, the Huachuca base in Arizona, adding further credence to his claim is we've been able to since verify two more things from other people that are currently stationed there."
 
-**[00:39:50](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28)**
-> "the Wachuca base in Arizona, adding further credence to his claim is we've be..."
-
-**[00:40:12](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28)**
+**[00:40:09](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-26)**
 > "people who were on that base in Arizona"
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (7 mentions)</summary>
-
-**[00:01:12](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
-> "cover half of Arizona and Mexico"
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
 
 **[00:07:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
 > "...nd they were to cover half of Arizona and Mexico."
 
-**[00:09:56](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
-> "...el at a warehouse in Douglas, Arizona."
+**[00:16:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-15-51)**
+> "...huca, pardon me, Huachuca, in Arizona. He's gonna revisit the past. He's gonna get thes..."
 
-**[00:12:05](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
-> "...trol agent were sent to Naco, Arizona, where I was approached by a cartel member confir..."
-
-**[00:12:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-12-36)**
-> "...and a prosecutor from Tucson, Arizona, informing me of how my ID became compromised."
-
-**[00:16:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-15-57)**
-> "...huca, pardon me, Huachuca, in Arizona."
-
-**[00:53:20](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-53-08)**
+**[00:53:17](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-53-08)**
 > "...ying that they found God, but Arizona is quite a place and I worry about what happened."
 
 </details>
@@ -1157,15 +1142,15 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:29:39](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09)**
-> "...s just leaving Santa Barbara. Passengers don't know. Here are the passengers that we know came from Arizona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stace..."
+**[00:29:38](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-05)**
+> "Passengers don't know. Here are the passengers that we know came from Arizona and potentially Santa Barbara. Andrew (Andrew Kolvet), Andrew Kolvet's wife."
 
 </details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:07:12](/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-07-02)**
+**[00:07:12](/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-06-55)**
 > "...oing to mix it up now. These are our five plates as follows: a white 2025 Toyota Camry. This had an Arizona license plate, and that number is CWN—like Nancy—9872, okay? Our second plate is a silver 2025 Toyo..."
 
 **[00:36:29](/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-36-17)**
@@ -1190,7 +1175,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
-**[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54)**
+**[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54)**
 > "And then it says, "Candace (Candace Owens) alleged Turning Point USA orchestrated the October 15th, 2025 assassination of its founder, Charlie (Charlie Kirk), in Phoenix, Arizona, by former volunteer Marcus Hale,"
 
 </details>
@@ -1198,7 +1183,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:06:20](/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-06-20)**
+**[00:06:14](/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-05-49)**
 > "...d Stanford. You do a sweep overnight, over two days. You don't fly to Utah and then go back home to Arizona and then fly to Utah 10 days later. Nothing is making sense, and we need to get to the bottom of wh..."
 
 </details>
@@ -1223,16 +1208,16 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
 
-**[00:06:34](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-25)**
+**[00:06:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-23)**
 > "...onspiracies that were taking shape, the plane was actually empty when it departed Provo en route to Arizona, where he and some of his friends were picked up, and they were turned home to Provo. Okay. Some pe..."
 
-**[00:07:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-07-47)**
+**[00:07:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-23)**
 > "...raft owned by one of our companies with the tail number N888KG departed the Provo Airport for Page, Arizona. Pursuant to a pre-scheduled flight plan, occupants at takeoff included two pilots and no passenger..."
 
-**[00:08:05](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-07-47)**
+**[00:08:05](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-23)**
 > "...plan, occupants at takeoff included two pilots and no passengers. That tail number arrived at Page, Arizona airport at approximately 1 p.m. Mountain Time. At 12:55 p.m. local time upon arrival, I, Derek Maxf..."
 
-**[00:08:22](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-07-47)**
+**[00:08:22](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-08-22)**
 > "... along with seven additional passengers for the return trip to Provo. We departed at PGA Airport in Arizona at approximately 1:40 and arrived at PVU at approximately 3:15 p.m. Mountain Time. Radar services w..."
 
 </details>
@@ -1262,22 +1247,22 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (6 mentions)</summary>
 
-**[00:15:41](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-15-20)**
+**[00:15:37](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11)**
 > "...." his cousin, "and here is his number." Now I noticed that that cousin happens to live in Phoenix, Arizona, so I went and just checked some profiles on social media. I found some Browns, but they were all l..."
 
-**[00:15:53](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-15-20)**
+**[00:15:49](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11)**
 > "...st checked some profiles on social media. I found some Browns, but they were all living in Phoenix, Arizona. Okay, maybe this person's from Phoenix, Arizona. Well, actually, when I went through what he has a..."
 
-**[00:15:55](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-15-20)**
+**[00:15:57](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11)**
 > "... some Browns, but they were all living in Phoenix, Arizona. Okay, maybe this person's from Phoenix, Arizona. Well, actually, when I went through what he has as his resume on this website where he says that h..."
 
-**[00:32:37](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-13)**
+**[00:32:37](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11)**
 > "...y opted to, in their very early years of their company, use a lawyer for trademark purposes down in Arizona, right? And I'm looking at these early documents, and I'm like, "Wait a second, I know this lawyer...."
 
-**[00:39:35](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-39-25)**
-> "...emember. 888 is what I actually remember. And it seemed as though that plane left. It went to Page, Arizona, and it appeared that the ADS-B transponder turned off. Now, what Kash Patel (Kash Patel) told us i..."
+**[00:39:35](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11)**
+> "It went to Page, Arizona, and it appeared that the ADS-B transponder turned off. Now, what Kash Patel told us is different from what Derek Maxfield told us."
 
-**[00:40:29](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-40-07)**
+**[00:40:25](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-32-11)**
 > "...le have confirmed that this plane was a little bit weird that day. It was supposed to land in Page, Arizona, in Million Air FBO. Last second, it made a change. As you guys know, an FBO was just a private ter..."
 
 </details>
@@ -1302,7 +1287,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3 mentions)</summary>
 
 **[00:43:43](/episodes/ep-sreYYcID-QY.md#ent-gpe-arizona-t-00-43-40)**
-> "...nt like, “Oh, well, the proof of this is she's not speaking at Charlie's honoring-Charlie events in Arizona.” And then they asked me these questions; they're like, “When's the last time you spoke to Erika? D..."
+> "And that's your big LOL point like, “Oh, well, the proof of this is she's not speaking at Charlie (Charlie Kirk)'s honoring-Charlie (Charlie Kirk) events in Arizona.” And then they asked me these questions; they're like,"
 
 **[00:44:05](/episodes/ep-sreYYcID-QY.md#ent-gpe-arizona-t-00-43-40)**
 > "...points. This is what we got from the Daily Mail. “Is she planning to attend his memorial service in Arizona? Was she asked to speak or did she ask to be a part of the program?” Why would I ask to be a part? ..."
@@ -1315,7 +1300,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[01:11:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09)**
+**[01:11:13](/episodes/ep-q7f8r-THr84.md#t-01-10-39)**
 > "... is the case. We're not letting this one go. Alama Coronado writes, "Sending you love from Douglas, Arizona." I'm sending you guys love back and thank you for that donation. Thank you to everyone who went on..."
 
 </details>
@@ -1374,29 +1359,20 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details>
-<summary>Location Of (3)</summary>
+<summary>Location Of (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00): “he was on the phone with the ops that were back in Arizona watching.”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51): “feed it back instantly to Arizona.”
-- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:01:25](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I wanna know what is happening over there in Arizona.”
 
 </details>
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-13): “But that is not what Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
-
-</details>
-
-- **[Sierra Vista](/entities/gpe-sierra-vista.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “person who grew up and lives just outside of the base in in Sierra Vista.”
 
 </details>
 
@@ -1408,37 +1384,27 @@ Source: [State of Arizona official website](https://az.gov/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): “go back home to Arizona”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-49): “go back home to Arizona”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00): “he was on the phone with the ops that were back in Arizona watching.”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51): “feed it back instantly to Arizona.”
-- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:01:25](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I wanna know what is happening over there in Arizona.”
 
 </details>
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): “Fort Huachuca in Arizona is... a hub for intelligence training”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-13): “But that is not what Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
-
-</details>
-
-- **[Sierra Vista](/entities/gpe-sierra-vista.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “person who grew up and lives just outside of the base in in Sierra Vista.”
 
 </details>
 
@@ -1473,7 +1439,7 @@ Source: [State of Arizona official website](https://az.gov/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** lives in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): “go back home to Arizona”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-49): “go back home to Arizona”
 
 </details>
 
@@ -1482,7 +1448,7 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arizona (22)</strong></summary>
+<summary><strong class="section-title">Statements about Arizona (21)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
@@ -1595,11 +1561,9 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and w..."](/statements/statement-54e2de6e1ea2.md)
-
-- [00:31:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["60 to 80% of the cocaine was coming through the Douglas, Arizona area"](/statements/statement-5887c78eaa89.md)
+- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-36) (Claim) **Mitch Snow**: ["We discovered underground tunnel signals that were subterranean, and w..."](/statements/statement-54e2de6e1ea2.md)
 
 </details>
 

@@ -26,7 +26,7 @@ type: "prediction"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [01:02:17](/episodes/ep-mLvJqdxS-FY.md#t-01-02-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3737);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=3737s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think that I think she'll change her mind. I do. I think that she will change her mind when presented with more evidence.
 

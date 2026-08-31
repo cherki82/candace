@@ -23,7 +23,7 @@ veracity: "true"
 
 ## About
 
-- [Stacey Sheridan](/entities/person-stacey-sheridan.md) (person)
+- [Stacy Sheridan](/entities/person-stacy-sheridan.md) (person)
 - [Katherine Locastro](/entities/person-katherine-locastro.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:20:49](/episodes/ep-7ERqbYElOfs.md#t-00-20-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1249);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Stacey Sheridan, friend of Erica (Erika Kirk), was with her. ... Catherine LoCastro, another amazing TPUSA employee was with her.
 

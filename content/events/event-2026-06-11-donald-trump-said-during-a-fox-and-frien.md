@@ -6,6 +6,11 @@ date: "2026-06-11"
 ---
 
 **Date:** 2026-06-11
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “this morning”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-06-11"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:12:01](/episodes/ep-19vHhjF7-NA.md#t-00-11-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(721);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=721s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > here's what Trump said this morning about wanting to take Kharg Island

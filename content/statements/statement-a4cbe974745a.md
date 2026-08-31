@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:58:20](/episodes/ep-eMtjzXkQrsU.md#t-00-57-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=3500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now that seems weird to me. It seems weird that that was an intentional talking point that they were prepared to give. And I feel like it's because they were going to tell us that the .30-06 went through and completely destroyed his neck and nobody would have known any different had it not been for Terrell Farnsworth. So Terrell Farnsworth is an unexpected hero in the story because he couldn't get his lie straight.
 

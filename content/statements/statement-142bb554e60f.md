@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Coming soon...](/episodes/ep-LKR94FQ5p3o.md)
 **Timestamp:** [00:00:49](/episodes/ep-LKR94FQ5p3o.md#t-00-00-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(49);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=LKR94FQ5p3o&t=49s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.
 

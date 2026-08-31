@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "false"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:35:23](/episodes/ep-xjzb_t5Tk9o.md#t-00-35-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2123);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2123s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This happened in the United States. You know what's the most important thing about this is that not a single media outlet reported that this ever happened. ... ABC, ... Fox News, CNBC, ... CNN, ... nothing. ... And then you have like the acting D.A. who happened to be an Israeli national who ... let him go.
 

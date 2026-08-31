@@ -20,13 +20,18 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Blexit](/entities/org-blexit.md) (org)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:17:00](/episodes/ep-_dRaEO47-co.md#t-00-16-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1020);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=1020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Charlie (Charlie Kirk) always had my back, and I always had his. Charlie (Charlie Kirk) was right by my side when I started Blexit, obviously.
+> Charlie (Charlie Kirk) always had my back, and I always had his. ... Charlie (Charlie Kirk) was right by my side when I started Blexit, obviously.
 
 ## Verification
 

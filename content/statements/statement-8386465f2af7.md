@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:02:40](/episodes/ep-mKXdKV-OBog.md#t-00-02-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(160);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=160s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Roman Empire, and then seeing the people that he benefited the most turn against him. I think there's something very tragic
 

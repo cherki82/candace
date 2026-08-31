@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:04:48](/episodes/ep-DqGNvi36ol8.md#t-00-04-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(288);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=288s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when he submitted them to the FBI, the FBI, had asked him to delete that footage.
 

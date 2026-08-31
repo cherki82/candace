@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:11:02](/episodes/ep-xi8SYJTUXPM.md#t-00-10-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(662);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=662s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That footage should not be zoomed in. She's correct. Turning Point has that footage and it should show you the entire ground area.
 

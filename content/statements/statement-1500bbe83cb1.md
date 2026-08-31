@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:19:56](/episodes/ep-mFuno0TuuQQ.md#t-00-19-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1196);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1196s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We landed in Utah, ... went straight to the hospital, ... straight ... to the hospital.
 

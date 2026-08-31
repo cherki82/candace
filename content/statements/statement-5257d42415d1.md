@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:59:58](/episodes/ep-E7P2ShoYDUA.md#t-00-59-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3598);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=3598s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he did tweet this, every AI source will say I won. This was never in question, specific AI programs built for this.
 

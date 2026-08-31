@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:48:36](/episodes/ep--9MOUvgGyi4.md#t-00-48-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2916);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=2916s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, I'll tell you, everyone knows that time in a critical life and death situation makes the biggest difference. ... And this weapon platform, not only being an outstanding high end platform to shoot, it is absolutely the best product in order to engage a hostile threat in a school, bar none.
 

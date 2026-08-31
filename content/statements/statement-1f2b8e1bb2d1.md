@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:22:04](/episodes/ep-MhakwJxK-Zk.md#t-00-21-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1324);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1324s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were initially engaged by Orbis, which is a Washington area security contractor to help with a feasibility study for a new aid project. ... Orbis was prepping the study on behalf of the Tachlith Institute, which is an Israeli think tank. And yeah, BCG was chosen as that consultant because of their longstanding relationship with Phil Reilly, an ex-CIA operative who worked for Orbis—now ex-CIA.
 

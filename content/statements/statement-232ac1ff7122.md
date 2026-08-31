@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:18:33](/episodes/ep-amqTMimDr0A.md#t-00-18-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1113);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1113s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I remember where I was when all this was happening. I was in Los Angeles. I had sort of a breakfast slash lunch meeting with somebody. ... And I got the news that Charlie (Charlie Kirk) had been shot and my security was on the phone with Charlie (Charlie Kirk)'s security because nobody knew what the hell was going on while Charlie (Charlie Kirk) was still in the back of the car and we were sort of getting updates along the way.
 

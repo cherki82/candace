@@ -1,6 +1,6 @@
 ---
 title: "Goyim"
-description: "Goyim (Concepts) - 22 mentions"
+description: "Goyim (Concepts) - 24 mentions"
 id: "concept-goyim"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webster.com/dictionary/goyim)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-goyim-t-00-00-00">2026-02-02 · 00:00:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#t-00-36-11">2025-10-31 · 00:36:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-goyim-t-00-21-42">2026-07-23 · 00:22:16</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-goyim-t-00-00-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-36-11" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-goyim-t-00-00-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 8 mentions" title="2026-02-02 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-goyim-t-00-51-09" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-goyim-t-00-46-48" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-goyim-t-00-00-00) | 8 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-goyim-t-00-51-09) | 4 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-goyim-t-00-46-48) | 2 |
@@ -64,7 +66,7 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -169,6 +171,17 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 
 **[00:59:28](/episodes/ep-CEF7gQRWYCE.md#ent-concept-goyim-t-00-59-28)**
 > "...e Christians who they view as goyim."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:36:28](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11)**
+> "...ur job is to be a good little goy and do what we say."
+
+**[00:36:57](/episodes/ep-YFmRH8p5lt0.md#t-00-36-53)**
+> "Israel's top goy, and he said probably too much."
 
 </details>
 

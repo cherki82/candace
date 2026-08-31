@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:38:49](/episodes/ep-DdPjoy5W-wY.md#t-00-38-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2329);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2329s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, he is going to be accused of running a brothel, a Romanian brothel with children on the base. And so, again, it's everyone around her, I guess, and she has all of these connections, I guess.
 

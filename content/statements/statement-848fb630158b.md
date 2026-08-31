@@ -1,6 +1,6 @@
 ---
-title: "Kanye West said that in order to be free, you had to violate..."
-description: "\"Kanye West said that in order to be free, you had to violate these contracts and recognize that your voice is being controlled, and it was an act of b...\" — Candace Owens"
+title: "Candace Owens said Kanye West argued that freedom required v..."
+description: "\"Candace Owens said Kanye West argued that freedom required violating controlling contracts, and she called his freeing himself an act of bravery.\" — Candace Owens"
 statement_id: "statement-848fb630158b"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Kanye West said that in order to be free, you had to violate these contracts and recognize that your voice is being controlled, and it was an act of bravery to free himself
+> Candace Owens said Kanye West argued that freedom required violating controlling contracts, and she called his freeing himself an act of bravery.
 
 ## Attribution
 
@@ -25,8 +25,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:52:31](/episodes/ep-2Riv3I7D0Yk.md#t-00-51-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3151);return false;">Play</a>
+**Timestamp:** [00:52:31](/episodes/ep-2Riv3I7D0Yk.md#t-00-52-12) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=3151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kanye said that in order to be free, you had to violate these contracts. You had to recognize that your voice is being controlled. And Kanye did just that. It was really an act of bravery to free himself
 

@@ -11,11 +11,15 @@ object: "person-joe-biden"
 
 ## [Delaware](/entities/gpe-delaware) former residence of [Joe Biden](/entities/person-joe-biden)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
 
 - [01:18:54](/episodes/ep-Ux1kzgQxkws#t-01-18-54): _He lived in Delaware._
+
+**[Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY)**
+
+- [00:53:58](/episodes/ep-sImMM04XdWY#t-00-53-58): _Renee writes: "I wonder if our president's plane ever landed there in Delaware, where we know that Biden was living in Delaware."_
 
 ### Related
 

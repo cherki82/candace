@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:57:14](/episodes/ep-DdPjoy5W-wY.md#t-00-56-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3434);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3434s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here in my country, we all know now that this was not our revolution. It was actually orchestrated from the outside by those globalist Illuminati who pushed George Soros into Romania right as the revolution ended.
 

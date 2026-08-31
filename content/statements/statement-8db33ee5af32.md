@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:05:37](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(337);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=337s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So what exactly was it that Terrell (Terrell Farnsworth) was racing to hide? What they were hiding... And I am going to speculate this boldly now, having read through these files and thought through everything that's happened, they were hiding was the fact that the bullet did not go through, did not pierce through Charlie (Charlie Kirk). ... I believe that that was supposed to remain a state secret. The public was never supposed to have that piece of information.
 

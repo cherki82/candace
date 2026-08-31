@@ -1,6 +1,6 @@
 ---
 title: "First Amendment to the United States Constitution"
-description: "First Amendment to the United States Constitution (Laws & Legislation) - 7 mentions"
+description: "First Amendment to the United States Constitution (Laws & Legislation) - 9 mentions"
 id: "law-first-amendment-us-constitution"
 type: "LAW"
 aliases:
@@ -21,10 +21,10 @@ _Type: Laws & Legislation_
 Source: [First Amendment | Constitution Annotated | Congress.gov](https://constitution.congress.gov/constitution/amendment-1/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-18">2025-10-01 · 00:39:28</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-law-first-amendment-us-constitution-t-00-47-02">2025-09-19 · 00:47:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-law-first-amendment-us-constitution-t-00-43-58">2026-07-21 · 00:43:58</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,10 +33,12 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-18">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-law-first-amendment-us-constitution-t-00-47-02">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-18" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-law-first-amendment-us-constitution-t-00-47-02" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-06" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-law-first-amendment-us-constitution-t-00-52-25" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-law-first-amendment-us-constitution-t-00-54-00" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-law-first-amendment-us-constitution-t-00-36-00" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-law-first-amendment-us-constitution-t-00-44-26" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-law-first-amendment-us-constitution-t-01-00-53" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
@@ -46,8 +48,10 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-18) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-law-first-amendment-us-constitution-t-00-47-02) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-06) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-law-first-amendment-us-constitution-t-00-52-25) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-law-first-amendment-us-constitution-t-00-54-00) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-law-first-amendment-us-constitution-t-00-36-00) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-law-first-amendment-us-constitution-t-00-44-26) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-law-first-amendment-us-constitution-t-01-00-53) | 1 |
@@ -59,7 +63,7 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -94,6 +98,14 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 </details>
 
 <details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
+
+**[00:54:32](/episodes/ep-pc3pxRyNFZk.md#ent-law-first-amendment-us-constitution-t-00-54-00)**
+> "...ms that are guaranteed by the First Amendment."
+
+</details>
+
+<details>
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
 
 **[00:52:53](/episodes/ep-ozWJz2spBcI.md#ent-law-first-amendment-us-constitution-t-00-52-25)**
@@ -104,8 +116,16 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:39:28](/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-18)**
+**[00:39:28](/episodes/ep-adJ4LNGp84I.md#ent-law-first-amendment-us-constitution-t-00-39-06)**
 > "...he freedoms guaranteed by the First Amendment."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+
+**[00:47:22](/episodes/ep-aDlhjfW6hz8.md#ent-law-first-amendment-us-constitution-t-00-47-02)**
+> "...he freedoms guaranteed by the First Amendment: free speech, okay?"
 
 </details>
 

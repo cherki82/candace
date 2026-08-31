@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:18:27](/episodes/ep-IqHsl7d2dos.md#t-00-18-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1107);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1107s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, when that court case—which they tried to hush up—that Virginia Giuffre had against Ghislaine Maxwell ... When that got unsealed, it was revealed that she said that Epstein had bragged that he had slept with over 1,000 of Brunel's girls, referring to the modeling agency that he ran.
 

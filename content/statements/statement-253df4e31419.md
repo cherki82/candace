@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:29:01](/episodes/ep-_cNtgris8Ik.md#t-00-28-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1741);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1741s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I got hundreds of DMs, for instance, from people who didn't know that the steakhouse receipt was a complete phony fraud, that the whole thing is a fraud.
 

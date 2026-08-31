@@ -5,11 +5,19 @@ id: "org-ericsson"
 type: "ORG"
 aliases:
   - "Ericsson Boyd Corporation"
+categories:
+  - "telecommunications company"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Ericsson Boyd Corporation
+
+**Categories:** telecommunications company
+
+**Entity verification:** verified
+> Ericsson's official company facts confirm canonical corporate name and telecommunications identity.
+Source: [Company facts - Ericsson](https://www.ericsson.com/en/about-us/company-facts)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-29-20">2025-10-28 · 00:30:00</a></strong></div>

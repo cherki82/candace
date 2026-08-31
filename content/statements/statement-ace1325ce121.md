@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:02:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(150);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=150s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What they're actually saying instead is essentially, "If you don't close the case against Charlie Kirk and rule it a lone gunman, then it might mess up our prosecution against Tyler Robinson."
 

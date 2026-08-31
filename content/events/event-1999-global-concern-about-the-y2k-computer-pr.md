@@ -6,6 +6,11 @@ date: "1999"
 ---
 
 **Date:** 1999
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “the final months of 1999”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1999"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:08:05](/episodes/ep-BKcOm32ZEGk.md#event-event-1999-global-concern-about-the-y2k-computer-pr-t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(485);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=485s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In the final months of 1999 there was a global concern that computer systems would fail

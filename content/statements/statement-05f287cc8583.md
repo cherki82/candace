@@ -24,7 +24,7 @@ type: "accusation"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:04:51](/episodes/ep-his-JBjlkh8.md#t-00-04-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(291);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=291s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She has called it suspicious that Mikey (Mikey McCoy)'s wife, who works at Turning Point, helped plan the campus tour event where Charlie (Charlie Kirk) was murdered, which she didn't, by the way.
 

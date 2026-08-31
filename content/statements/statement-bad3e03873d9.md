@@ -23,7 +23,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:30:47](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1847);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1847s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the big medical hack of 2025 was several peer-reviewed studies identifying the direct connections between anti-parasitic medications and their off-label benefits of fighting a wide variety of cancers.
 

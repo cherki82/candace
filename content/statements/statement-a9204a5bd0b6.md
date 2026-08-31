@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1410);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination uh it was uh august 19th ... he'd previously been working down in McKinney, Texas as the COO of Medical City, which is north of Dallas.
 

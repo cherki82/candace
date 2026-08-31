@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:10:49](/episodes/ep-ZIH5-V6UPkg.md#t-00-10-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(649);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=649s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Did you connect that dot when we revolted against you saying, what about the Epstein files? That seems to be a theme with you, protecting people who harm children.
 

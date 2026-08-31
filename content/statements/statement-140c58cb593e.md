@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:01:26](/episodes/ep-YeEtS7nix3o.md#t-01-01-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3686);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3686s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika also recently included a personal letter that Charlie wrote her in a fundraising email.
 

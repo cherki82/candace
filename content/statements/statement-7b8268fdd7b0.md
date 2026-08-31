@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:23:29](/episodes/ep-BxN2-aeMYIs.md#t-00-23-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1409);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1409s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There is definitely a way to use this in our favor. ... Tell politicians that there are two wings of the party, they don't overlap, and the majority lies here. ... And this is where you should be if you want to get reelected
 

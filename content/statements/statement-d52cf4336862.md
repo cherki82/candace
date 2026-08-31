@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:35:28](/episodes/ep-SKGUzGHymcI.md#t-00-34-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2128);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We've been telling you Charlie (Charlie Kirk) was not shot by a .30-06. He was not that damaged. I told you this. I've confirmed this.
 

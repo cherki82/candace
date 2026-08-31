@@ -6,6 +6,11 @@ date: "2012"
 ---
 
 **Date:** 2012
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2012”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2012"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:36:38](/episodes/ep-DdPjoy5W-wY.md#event-event-2012-erika-kirk-began-dating-josh-harrellson-t-00-36-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2198);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She started dating him actually in 2012. So during her actual crown year.

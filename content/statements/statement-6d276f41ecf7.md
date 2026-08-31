@@ -1,37 +1,38 @@
 ---
-title: "A chat viewer wrote that Erika Kirk would appear with Bari W..."
-description: "\"A chat viewer wrote that Erika Kirk would appear with Bari Weiss on December 13, and Owens said she thought it was that month\" — Candace Owens"
+title: "An anonymous overseas tipster alleged that people associated..."
+description: "\"An anonymous overseas tipster alleged that people associated with Turning Point USA had taken a meeting with Pierre Falcone; Owens said she could not ...\" — Anonymous Source #5 (Ep Kmt6HgRjckU)"
 statement_id: "statement-6d276f41ecf7"
-speaker: "Candace Owens"
-type: "factual_claim"
+speaker: "Anonymous Source #5 (Ep Kmt6HgRjckU)"
+type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> A chat viewer wrote that Erika Kirk would appear with Bari Weiss on December 13, and Owens said she thought it was that month
+> An anonymous overseas tipster alleged that people associated with Turning Point USA had taken a meeting with Pierre Falcone; Owens said she could not yet verify the allegation.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous Source #5 (Ep Kmt6HgRjckU)](/entities/anon-src-Kmt6HgRjckU-005.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** overseas tip
 
 ## About
 
-- [Bari Weiss](/entities/person-bari-weiss.md) (person)
-- [Erika Kirk](/entities/person-erika-kirk.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Pierre Falcone](/entities/person-pierre-falcone.md) (person)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:40:41](/episodes/ep-Kmt6HgRjckU.md#t-00-40-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2441);return false;">Play</a>
+**Timestamp:** [00:11:29](/episodes/ep-Kmt6HgRjckU.md#t-00-11-24) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=689s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> AZ Master Baker writes Erica with Barry Weiss on the 13th
+> And that there was another Pierre (Pierre Falcone) that we should be looking into right and what I'm going to say is, despite this tip and indicating that Turning Point people that work with Turning Point or one of their, you know, action organizations who knows which organization they have a few. ... took a meeting with this particular Pierre (Pierre Falcone), we cannot verify that yet.
 
 ## Verification
 
@@ -53,4 +54,4 @@ CBS and AP confirm that Erika Kirk's town hall moderated by Bari Weiss aired Dec
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

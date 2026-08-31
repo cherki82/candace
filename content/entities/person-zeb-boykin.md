@@ -3,9 +3,18 @@ title: "Zeb Boykin"
 description: "Zeb Boykin (People) - 2 mentions"
 id: "person-zeb-boykin"
 type: "PERSON"
+categories:
+  - "independent media"
+  - "ballistics commentary"
 ---
 
 _Type: People_
+
+**Categories:** independent media, ballistics commentary
+
+**Entity verification:** verified
+> A source-linked capture of Boykin’s ballistics video records his self-identification as Zeb Boykin and the same Charlie Kirk ballistics context named twice in the episode; this verifies identity/name, not the accuracy of his conclusions.
+Source: [Zeb Boykin — A Scout Sniper's Frame-by-Frame Ballistics Read](https://whoassassinatedcharliekirk.com/Videos/Vid_Ballistics_Gun/Vid_Ballistics_Analysis/Vid_Ballistics_Kirk_KLcwHCd)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-zeb-boykin-t-00-07-38">2025-10-27 · 00:07:57</a></strong></div>

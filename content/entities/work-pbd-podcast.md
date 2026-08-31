@@ -1,6 +1,6 @@
 ---
 title: "PBD Podcast"
-description: "PBD Podcast (Works & Media) - 27 mentions"
+description: "PBD Podcast (Works & Media) - 26 mentions"
 id: "work-pbd-podcast"
 type: "WORK"
 aliases:
@@ -23,8 +23,8 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-59-19">2025-09-15 · 00:59:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-work-pbd-podcast-t-04-03-19">2026-08-14 · 04:03:30</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,8 +36,9 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-work-pbd-podcast-t-00-00-33">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#t-00-59-19" style="--pulse-height:33%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-work-pbd-podcast-t-00-57-35" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-work-pbd-podcast-t-00-57-31" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-work-pbd-podcast-t-00-00-33" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-49-06" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-pbd-podcast-t-00-46-56" style="--pulse-height:67%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-pbd-podcast-t-00-26-33" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-23-44" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -48,8 +49,9 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-59-19) | 1 |
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-work-pbd-podcast-t-00-57-35) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-work-pbd-podcast-t-00-57-31) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-work-pbd-podcast-t-00-00-33) | 3 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-49-06) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-work-pbd-podcast-t-00-46-56) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-pbd-podcast-t-00-26-33) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-23-44) | 1 |
@@ -61,7 +63,7 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -105,6 +107,14 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 </details>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:49:06](/episodes/ep-vwG1juDCQZQ.md#t-00-49-06)**
+> "So this is not a tribute episode. This is my podcast, and we're investigating this murder. And every person who is doing podcasts—whether it's Allie speaking about his Catholic journey, Lila speaking about what happens, whatever context they're putting it into, whether it's PBD and his team—which spoke a lot about Charlie Kirk after he died— why are you looking at me as being the person who's reading my ads?"
+
+</details>
+
+<details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3 mentions)</summary>
 
 **[00:00:33](/episodes/ep-sreYYcID-QY.md#ent-work-pbd-podcast-t-00-00-33)**
@@ -114,14 +124,14 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 > "... I have asserted. So what's going on here? Then they trot this guy out—Eric Bolling. He goes on the PBD podcast. And this should be embarrassing. Like, the amount of lies coming out of this man's mouth was astou..."
 
 **[00:38:56](/episodes/ep-sreYYcID-QY.md#ent-work-pbd-podcast-t-00-38-34)**
-> "...dace Owens).” Like, if we were dating. Let's listen actually to what Eric Bolling had to say on the PBD podcast. At some point, her credibility—I mean—is going to go down the tubes because she needs to bring rec..."
+> "Like, if we were dating. Let's listen actually to what Eric Bolling had to say on the PBD podcast."
 
 </details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:58:07](/episodes/ep-q7f8r-THr84.md#ent-work-pbd-podcast-t-00-57-35)**
+**[00:58:03](/episodes/ep-q7f8r-THr84.md#ent-work-pbd-podcast-t-00-57-31)**
 > "...ront war because Israel didn't do nothing. He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast. He went on to the Nelk Boys' podcast. Anybody find it weird..."
 
 </details>
@@ -143,9 +153,10 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <summary>Interviewed (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “He also did the Patrick Bet-David show.”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:58:03](/episodes/ep-q7f8r-THr84.md#t-00-57-31): “He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast.”
 
 </details>
 
@@ -155,9 +166,10 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <summary>Referenced By (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “He also did the Patrick Bet-David show.”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:58:03](/episodes/ep-q7f8r-THr84.md#t-00-57-31): “He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast.”
 
 </details>
 

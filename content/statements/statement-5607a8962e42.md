@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:24:29](/episodes/ep-c5BcKF91iec.md#t-00-23-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1469);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=1469s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But this second close friend of Charlie chose to run just a few yards away—up to a grassy knoll— to take out his phone. A couple of seconds later, he takes out his phone, and he begins recording himself. It's a selfie video—takes a video of himself.
 

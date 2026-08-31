@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:00:36](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(36);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=36s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Could it get any worse? I mean, guys, they brought that guy in to train Turning Point USA students how to debate. ... Because he's going to teach them the strategy of debate. They actually paid him to teach them.
 

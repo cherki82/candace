@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:15:50](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(950);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=950s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bill Ackman was very upset and threats were made
 

@@ -1,6 +1,6 @@
 ---
 title: "Meghan Markle"
-description: "Meghan Markle (People) - 7 mentions"
+description: "Meghan Markle (People) - 8 mentions"
 id: "person-meghan-markle"
 type: "PERSON"
 aliases:
@@ -21,10 +21,10 @@ _Type: People_
 Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.npg.org.uk/collections/search/person/mp06341/prince-henry-duke-of-sussex)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36">2025-12-10 · 00:04:58</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-meghan-markle-t-00-22-09">2025-11-06 · 00:22:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-meghan-markle-t-00-56-09">2026-04-15 · 00:56:09</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-meghan-markle-t-00-22-09" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-38" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-meghan-markle-t-00-02-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -45,6 +46,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-meghan-markle-t-00-22-09) | 1 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36) | 3 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-38) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-meghan-markle-t-00-02-57) | 1 |
@@ -57,7 +59,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -94,14 +96,22 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:04:58](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
+**[00:04:49](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
 > "..., this is going to be read as Meghan Markle syndrome, okay?"
 
 **[00:05:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
 > "Meghan Markle syndrome where you want privacy when you want it,..."
 
-**[00:05:18](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
+**[00:05:15](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
 > "this is going to be read as Meghan Markle syndrome"
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:22:15](/episodes/ep-vwG1juDCQZQ.md#ent-person-meghan-markle-t-00-22-09)**
+> "This is kind of the Meghan Markle thing, right? That we talk about. And I'm calling..."
 
 </details>
 
@@ -120,7 +130,7 @@ _No relationships extracted yet._
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
-- [00:04:58](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36) (Opinion) **Candace Owens**: ["Erika Kirk is exhibiting Meghan Markle syndrome - wanting privacy when..."](/statements/statement-ba5226e265d4.md)
+- [00:04:49](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36) (Opinion) **Candace Owens**: ["Owens said Erika Kirk's approach to privacy was 'going to be read as M..."](/statements/statement-ba5226e265d4.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

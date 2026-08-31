@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 231 mentions"
+description: "Catholicism (Concepts) - 247 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -20,12 +20,12 @@ _Type: Concepts_
 Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/catechism/en.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-31">2025-10-02 · 00:03:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-28">2025-10-02 · 00:03:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-concept-catholicism-t-00-42-32">2026-08-18 · 00:43:02</a></strong></div>
-<div><span>Episodes</span><strong>61</strong></div>
-<div><span>Mentions</span><strong>231</strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>247</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,8 +34,13 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-AoYZel7_cGQ.md#ent-concept-catholicism-t-00-17-17">A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368</a> (25 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-31" style="--pulse-height:16%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-28" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-catholicism-t-00-14-40" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-catholicism-t-00-12-27" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-14-49" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 10 mentions" title="2025-11-06 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-catholicism-t-00-15-44" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-catholicism-t-00-02-09" style="--pulse-height:12%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-catholicism-t-00-39-45" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-32" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-catholicism-t-00-34-49" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-catholicism-t-00-42-37" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
@@ -100,8 +105,13 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-31) | 4 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-28) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-catholicism-t-00-14-40) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-catholicism-t-00-12-27) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-14-49) | 10 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-catholicism-t-00-15-44) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-catholicism-t-00-02-09) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-catholicism-t-00-39-45) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-32) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-catholicism-t-00-34-49) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-catholicism-t-00-42-37) | 2 |
@@ -168,7 +178,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (231)</strong></summary>
+<summary><strong class="section-title">Raw mentions (247)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -1138,6 +1148,71 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 </details>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:39:45](/episodes/ep-w1oqQbR_bYs.md#ent-concept-catholicism-t-00-39-45)**
+> "...ner with Johnny Yep, who runs Catholic for Catholics, and we were sort of discussing eve..."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+
+**[00:02:49](/episodes/ep-a-e7HC6SeK8.md#ent-concept-catholicism-t-00-02-09)**
+> "Because, man, those Catholic priests that I was telling you about—they were un..."
+
+**[00:02:55](/episodes/ep-a-e7HC6SeK8.md#ent-concept-catholicism-t-00-02-55)**
+> "...r not I should be Orthodox or Catholic, but I knew that I was sort of done with Protesta..."
+
+**[00:03:45](/episodes/ep-a-e7HC6SeK8.md#ent-concept-catholicism-t-00-03-33)**
+> "...d an appetite for Orthodox or Catholicism because the Catholics and the Orthodox have kept ..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:16:00](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-catholicism-t-00-15-44)**
+> "...ed evangelical who only liked Catholic architecture. That's a lie, told and reinforced b..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (10 mentions)</summary>
+
+**[00:15:03](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-14-49)**
+> "...ted that she responded to the Catholic innuendo once and for all in her own way."
+
+**[00:16:58](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-16-42)**
+> "...g to take the step and become Catholic.""
+
+**[00:17:29](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-17-26)**
+> "...ginning: he didn't convert to Catholicism, but it's just kind of okay for us to tell the tr..."
+
+**[00:29:48](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-29-43)**
+> "Before I was Catholic, they had a very good sit-down, and she's always ..."
+
+**[00:31:23](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-31-23)**
+> "...lie Kirk) being interested in Catholicism.""
+
+**[00:40:48](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-40-48)**
+> "...o and say, "He's not becoming Catholic."
+
+**[00:43:32](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-43-24)**
+> "...ve been getting curious about Catholicism."
+
+**[00:46:11](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-46-02)**
+> "... We watched her lie about the Catholic thing."
+
+**[00:49:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-49-06)**
+> "...it's Allie speaking about his Catholic journey, Lila speaking about what happens, whatev..."
+
+**[00:51:53](/episodes/ep-vwG1juDCQZQ.md#ent-concept-catholicism-t-00-51-41)**
+> "...o you—when you lied about the Catholicism thing—it wasn't because you murdered Charlie Kirk..."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:12:41](/episodes/ep-YFmRH8p5lt0.md#ent-concept-catholicism-t-00-12-27)**
@@ -1149,18 +1224,26 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:03:54](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-31)**
+**[00:14:56](/episodes/ep-iHav0PPzUz8.md#ent-concept-catholicism-t-00-14-40)**
+> "... the thing is lying about the Catholic thing."
+
+**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-concept-catholicism-t-00-57-10)**
+> "...mer)), for opening my eyes to Catholicism. For years, I was a lukewarm Christian, and I was..."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
+
+**[00:03:54](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-28)**
 > "She's a Catholic girl, by the way."
 
-**[00:03:56](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-31)**
-> "She was a young Catholic girl."
-
-**[00:11:57](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-11-19)**
+**[00:11:57](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-11-57)**
 > "Back in 2023, actually, a Catholic investigator revealed this and shared it."
 
-**[00:38:14](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-37-57)**
+**[00:38:14](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-37-41)**
 > "The Catholic school shooting; the person was scribbling in the..."
 
 </details>
@@ -1175,7 +1258,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (17)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (20)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2)</summary>
@@ -1289,6 +1372,20 @@ _No relationships extracted yet._
 
 - [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-22) (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weake..."](/statements/statement-e501a3b4e04d.md)
   - Also about: [Pornography](/entities/concept-pornography.md), [Psychological operations](/entities/concept-psychological-operations.md)
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3)</summary>
+
+- [00:31:40](/episodes/ep-vwG1juDCQZQ.md#t-00-31-23) (Claim) **Candace Owens**: ["Owens said Charlie Kirk had been attending Mass, sometimes daily and o..."](/statements/statement-937226dc9b0d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:46:02](/episodes/ep-vwG1juDCQZQ.md#t-00-46-02) (Accusation) **Candace Owens**: ["Owens accused Alex Clark of lying about Charlie Kirk's interest in Cat..."](/statements/statement-df3d7b950fbd.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:51:53](/episodes/ep-vwG1juDCQZQ.md#t-00-51-41) (Opinion) **Candace Owens**: ["Owens speculated that Turning Point USA and Alex Clark lied about Char..."](/statements/statement-3f80a015bbcf.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Alex Clark](/entities/person-alex-clark.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

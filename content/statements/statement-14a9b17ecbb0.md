@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:38:40](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2320);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2320s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So hard and so quickly that another sleuth found him on September 22nd seated in Charlie (Charlie Kirk)'s chair at home. ... Mikey (Mikey McCoy) the amazing shared a similar message with Martha McCollum on Fox News. And you can see just at the end of that, this little screenshot that Mikey (Mikey McCoy), you see the photo in the background.
 

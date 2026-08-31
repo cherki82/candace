@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:09:03](/episodes/ep-c5BcKF91iec.md#t-00-08-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(543);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=543s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Please call every pastor and pray." I said, "Okay, son." He has wits about him
 
@@ -39,7 +39,7 @@ veracity: "false"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:09:03](/episodes/ep-c5BcKF91iec.md#t-00-08-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(543);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=543s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm watching. The minute Charlie was shot, he called me. Says, "Dad, Charlie's been shot in the neck. Please call every pastor and pray."
 

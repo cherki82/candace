@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(347);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then when Erika got there, she spent a lot of time talking to the—she probably got there, I don't know, somewhere around 4 p.m., maybe.
 

@@ -128,7 +128,7 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 <details>
 <summary>Part Of (1)</summary>
 
-- **[BYU](/entities/org-byu.md)**
+- **[Brigham Young University](/entities/org-brigham-young-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another.”
@@ -168,7 +168,7 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 
 </details>
 
-- **[BYU](/entities/org-byu.md)** includes this
+- **[Brigham Young University](/entities/org-brigham-young-university.md)** includes this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another.”
@@ -194,13 +194,13 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3)</summary>
 
 - [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA recruits directly from BYU and specifically from BYU's Jerusal..."](/statements/statement-862b7ba82e4c.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Jerusalem](/entities/gpe-jerusalem.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Jerusalem](/entities/gpe-jerusalem.md)
 
 - [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["Elite Mormon students at BYU's Jerusalem Center are introduced to one ..."](/statements/statement-ddfdb9405887.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Knesset](/entities/org-knesset.md), [Mormonism](/entities/concept-mormonism.md)
 
 - [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA approaches selected students at BYU's Hawaii and Jerusalem cam..."](/statements/statement-55fc338c7349.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Hawaii](/entities/gpe-hawaii.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Hawaii](/entities/gpe-hawaii.md)
 
 </details>
 

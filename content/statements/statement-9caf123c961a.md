@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:26:23](/episodes/ep-7RLtGgkTh9o.md#t-00-25-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1583);return false;">Play</a>
+**Timestamp:** [00:26:23](/episodes/ep-7RLtGgkTh9o.md#t-00-26-22) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1583s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined; nitrous oxide found near his body
 

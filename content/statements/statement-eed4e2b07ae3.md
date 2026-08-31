@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:58:12](/episodes/ep-7ERqbYElOfs.md#t-00-58-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3492);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=3492s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > oxy tocin right go max always candace i wonder if you've heard anything about israel possibly spying on x users israel runs x guys i mean can you not see that they're just a bunch of israeli bots it's like insane war war it's like lindsey graham times two million i tweeted about charlie kirk and discovered that my name and my x handle were being googled in israel right after yes i forgot i actually know the exact way that they have that the x has a deal with israel i have to be reminded Um,
 

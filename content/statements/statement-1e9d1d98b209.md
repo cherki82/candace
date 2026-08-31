@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:20:28](/episodes/ep-tXoI0TTKVrs.md#t-00-20-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1228);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's very interesting. It's Pete Hegseth's department. The implication is that the email was controlled by them. The Department of War has since replied, informing us that the burden was too heavy regarding our request because it was not specific enough. Now, I feel like our request is very specific.
 

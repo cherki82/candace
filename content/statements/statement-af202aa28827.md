@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:22:00](/episodes/ep-tB5SXXmd9vU.md#t-00-21-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1320);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1320s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's co-hosted by the United States and Egypt to enhance regional security and to strengthen military partnerships
 

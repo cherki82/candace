@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Allie Beth Stuckey](/entities/person-allie-beth-stuckey) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
+
+- [00:41:33](/episodes/ep-6J6lRZPQ4jk#t-00-41-33): _Ali Beth Stuckey does the same like tactic of attacking people, sniping them._
 
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 

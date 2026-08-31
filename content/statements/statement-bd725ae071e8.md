@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:51:19](/episodes/ep-MhakwJxK-Zk.md#t-00-50-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3079);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=3079s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We are occupied. We are an occupied nation. That is the reality. You don't need me to tell you that. You just need to look around and pay attention to what's happening.
 

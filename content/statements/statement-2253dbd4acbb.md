@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:16:14](/episodes/ep-iB-YtO3UZOg.md#t-00-16-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(974);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=974s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian's: 'I cut Charlie; I took the shirt.' What happened to the clothes? Well, I will say Frank Turek's name was not explicitly mentioned, but I did hear that the feds, the FBI, took the clothes from certain members of Charlie's security team, down to their boxer briefs—took their clothes.
 

@@ -5,11 +5,20 @@ id: "gpe-919-north-market-street"
 type: "GPE"
 aliases:
   - "919 N Market St"
+  - "919 North Market Street, Wilmington, Delaware"
+categories:
+  - "Wilmington, Delaware street address"
 ---
 
 _Type: Places_
 
-**Also known as:** 919 N Market St
+**Also known as:** 919 N Market St, 919 North Market Street, Wilmington, Delaware
+
+**Categories:** Wilmington, Delaware street address
+
+**Entity verification:** verified
+> The Delaware Division of Corporations lists a registered agent at 919 North Market Street, Suite 950, Wilmington, Delaware, validating the source-context address.
+Source: [Registered Agents With Remote Access – Delaware Division of Corporations](https://corp.delaware.gov/remoteagts-2/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-919-north-market-street-t-00-11-53">2025-12-02 · 00:12:04</a></strong></div>

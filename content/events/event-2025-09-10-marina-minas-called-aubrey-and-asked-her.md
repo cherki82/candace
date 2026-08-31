@@ -7,6 +7,11 @@ time: "14:05"
 ---
 
 **Date:** 2025-09-10 at 14:05
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "14:05"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:24:10](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-marina-minas-called-aubrey-and-asked-her-t-00-23-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1450);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Marina Minas, the chief marketing officer, personally called Aubrey at 2.05 p.m. Utah time

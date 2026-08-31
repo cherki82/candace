@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:44:14](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2654);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=2654s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is what I'm talking about. They're no longer the organization that had the image that Charlie (Charlie Kirk) wanted.
 

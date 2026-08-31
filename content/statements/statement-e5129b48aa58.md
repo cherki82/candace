@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:38:14](/episodes/ep-X3VKJVJ7cN4.md#t-00-37-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What gives? It feels to me like it could be the beginning of a plot, ... a government plot. We can't win this thing. We need to get influencers, independent journalists off of this entirely.
 

@@ -1,6 +1,6 @@
 ---
 title: "Anonymous Source #3 (Ep 7RLtGgkTh9o)"
-description: "Anonymous Source #3 (Ep 7RLtGgkTh9o) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #3 (Ep 7RLtGgkTh9o) (Anonymous Sources) - 1 mention"
 id: "anon-src-7RLtGgkTh9o-003"
 type: "ANONYMOUS_SOURCE"
 ---
@@ -9,7 +9,7 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +19,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -38,7 +36,7 @@ _No relationships extracted yet._
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5)</summary>
 
-- [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13) [○] (Accusation) ["Lou Taylor makes clients say 10% has to go to the church if they want to be bles..."](/statements/statement-e484aed1011f.md)
+- [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-11) [○] (Accusation) ["Lou Taylor makes clients say 10% has to go to the church if they want to be bles..."](/statements/statement-e484aed1011f.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md)
 
 - [00:15:06](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) [○] (Accusation) ["Rob and Lou Taylor's church is just a front for them and a ruse, and I have many..."](/statements/statement-0e819256bc06.md)

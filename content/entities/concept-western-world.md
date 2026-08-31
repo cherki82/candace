@@ -1,6 +1,6 @@
 ---
 title: "Western world"
-description: "Western world (Concepts) - 17 mentions"
+description: "Western world (Concepts) - 21 mentions"
 id: "concept-western-world"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [Westernization - Britannica](https://www.britannica.com/topic/Westernization)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-western-world-t-00-34-41">2026-01-12 · 00:34:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-western-world-t-00-33-47">2025-11-04 · 00:33:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-western-world-t-00-46-09">2026-08-07 · 00:46:09</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,8 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-western-world-t-00-08-12">I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-western-world-t-00-33-47" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-western-world-t-00-43-12" style="--pulse-height:75%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-western-world-t-00-34-41" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-western-world-t-00-08-12" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-western-world-t-00-30-33" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
@@ -51,6 +53,8 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-western-world-t-00-33-47) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-western-world-t-00-43-12) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-western-world-t-00-34-41) | 2 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-western-world-t-00-08-12) | 4 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-western-world-t-00-30-33) | 2 |
@@ -68,7 +72,7 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -165,6 +169,28 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 
 **[00:35:44](/episodes/ep-CMcktj3Egfo.md#ent-concept-western-world-t-00-35-18)**
 > "...ism. It is the same hatred of the West dressed up in a different costume."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+
+**[00:43:36](/episodes/ep-a-e7HC6SeK8.md#ent-concept-western-world-t-00-43-12)**
+> "...istians that's happening—then the West and the United States were implicated in part by ..."
+
+**[00:43:53](/episodes/ep-a-e7HC6SeK8.md#ent-concept-western-world-t-00-43-12)**
+> "That's kind of something the West does a lot, right?"
+
+**[00:46:13](/episodes/ep-a-e7HC6SeK8.md#ent-concept-western-world-t-00-46-06)**
+> "...he East to hate Christians in the West."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:33:51](/episodes/ep-Qfwr08Ebczo.md#ent-concept-western-world-t-00-33-47)**
+> "...etical to Christianity and to the West. And so for me—and by the way, Israel is not the ..."
 
 </details>
 

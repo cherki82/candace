@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:18:39](/episodes/ep-SKGUzGHymcI.md#t-00-18-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1119);return false;">Play</a>
+**Timestamp:** [00:18:39](/episodes/ep-SKGUzGHymcI.md#t-00-18-39) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1119s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Within an hour, federal SUVs move from that airport to 920 North King Street
 

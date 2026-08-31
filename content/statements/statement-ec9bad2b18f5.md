@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:21:59](/episodes/ep-YeEtS7nix3o.md#t-00-21-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1319);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1319s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Statistics on the high proportion of Jewish women in the Russian social democratic movement and the social revolutionaries, the successor party to the People's Will, also show a very robust participation by Jewish women. ... When we seek to understand why Jewish women were so attracted to the left movements, we must consider the deteriorating situation of Russian Jewry in these years.
 

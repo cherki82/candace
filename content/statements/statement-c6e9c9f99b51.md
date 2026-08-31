@@ -32,7 +32,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1351);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1351s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And a chief shared with us the true story of how Ben (Ben Shapiro) started the Daily Wire on scandal.
 

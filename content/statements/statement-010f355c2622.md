@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:22:48](/episodes/ep-FFQ9675oqRI.md#t-00-22-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1368);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1368s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's a single point lead for me. ... They've spent... 10 million dollars against me
 

@@ -1,6 +1,6 @@
 ---
-title: "Email came in October of 2023 for planning April 2024 campus..."
-description: "\"Email came in October of 2023 for planning April 2024 campus events including University of North Carolina Chapel Hill, University of Pittsburgh, and ...\" — Candace Owens"
+title: "For the April 2024 Candace Owens campus events, an October 2..."
+description: "\"For the April 2024 Candace Owens campus events, an October 2023 planning email listed the University of North Carolina at Chapel Hill, the University ...\" — Candace Owens"
 statement_id: "statement-ec307cb20308"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,22 +10,21 @@ type: "factual_claim"
 
 ## Statement
 
-> Email came in October of 2023 for planning April 2024 campus events including University of North Carolina Chapel Hill, University of Pittsburgh, and University of Alabama.
+> For the April 2024 Candace Owens campus events, an October 2023 planning email listed the University of North Carolina at Chapel Hill, the University of Pittsburgh, and the University of Alabama as pending.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:04:02](/episodes/ep-LATnak75Si0.md#t-00-03-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(242);return false;">Play</a>
+**Timestamp:** [00:03:55](/episodes/ep-LATnak75Si0.md#t-00-03-55) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=235s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> You will note that this email came in October of 2023
+> For my April 2024 event, here is when we started planning. Here's an email, okay? You will note that this email came in October of 2023. ... These are pending availability and approval: University of North Carolina, Chapel Hill—which I think we ended up doing—University of Pittsburgh, which I think we did, and the University of Alabama.
 
 ## Verification
 

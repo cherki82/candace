@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:47:48](/episodes/ep-k1b1NDCrNFs.md#t-00-47-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2868);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Zach (Zachary Lewis) was arrested, as I said, in May of last year. I am told that he was not immediately dismissed from a daily wire.
 

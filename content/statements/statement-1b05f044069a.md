@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:22:44](/episodes/ep-E7P2ShoYDUA.md#t-00-22-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1364);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1364s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just out of curiosity, between 0 to 100, what is the likelihood that you think Tyler Robinson shot Charlie Kirk and killed him? ... Based on the evidence right now, I don't know, I'd say 75, 85 percent.
 

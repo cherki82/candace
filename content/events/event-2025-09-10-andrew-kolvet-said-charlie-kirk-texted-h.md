@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “33 minutes before he was killed”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:32:28](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-10-andrew-kolvet-said-charlie-kirk-texted-h-t-00-32-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1948);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1948s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that was about uh i think i had it was like 33 minutes before he was killed

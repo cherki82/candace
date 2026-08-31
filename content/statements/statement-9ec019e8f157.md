@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:33:57](/episodes/ep-HGtMfbePDKk.md#t-00-33-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2037);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=2037s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He is going to be deciding when we go to break. To break, he is going to be the person that decides who talks and when, and he is going to be the person that the producers are speaking to when we say, can you bring something up?
 

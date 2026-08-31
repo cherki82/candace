@@ -6,6 +6,11 @@ date: "2024-12"
 ---
 
 **Date:** 2024-12
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “In December of 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024-12"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:15:42](/episodes/ep-ZZGWo6oDscc.md#event-event-2024-12-a-court-petition-challenged-alton-c-jenn-t-00-14-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(942);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In December of 2024, a court petition was filed challenging the last will and testament
 
@@ -25,6 +30,6 @@ date: "2024-12"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:14:58](/episodes/ep-ZZGWo6oDscc.md#event-event-2024-12-a-court-petition-challenged-alton-c-jenn-t-00-14-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(898);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=898s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > there actually was a lawsuit filed at the end of 2024 against Turning Point USA and YAF

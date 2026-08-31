@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:09:00](/episodes/ep-7ERqbYElOfs.md#t-00-09-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(540);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=540s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Quote, they told investigators that they believed that they had been asked to murder Denis on behalf of the French state and they were targeting Denis on the grounds that she worked for the Israeli spy agency, the Mossad. Now, I'm going to stop there and tell you that I kind of believe them. I really do.
 

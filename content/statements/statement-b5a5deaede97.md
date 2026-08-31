@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:21:16](/episodes/ep-4YgrOhhy708.md#t-00-20-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1276);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1276s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm going to show you what's left of the LinkedIn link. ... You can't actually click it. You can see it says Thomas Martin, ... director, ... U.S. Border Patrol, ... location, ... greater Tucson area. ... looking at Zoom Info, we were again able to find this sort of relic. We found that he was Deputy Chief Patrol Agent at the Department of Homeland Security.
 

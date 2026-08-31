@@ -6,6 +6,11 @@ date: "2023-11"
 ---
 
 **Date:** 2023-11
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “November of 2023”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2023-11"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:40:04](/episodes/ep-_cNtgris8Ik.md#event-event-2023-11-charlie-kirk-publicly-said-he-was-on-tea-t-00-40-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2404);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, Candace is she's on our team. She's the best. Right. I mean, we're on team Candace.

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:27:36](/episodes/ep-2tFYJf1klgY.md#t-00-27-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1656);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, for the first time that year, the Black Sea Rotational Force 10 goes out to Romania, and they establish the Mihail Kogălniceanu, I hope I'm saying that right, Kogălniceanu, probably not, air base in Romania. ... You can see that here. Marines, sailors, and sailors of the Black Sea Rotational Force 2010 officially kicked off their three-month engagement in the Black Sea region in a ceremony at Romania's Mihail Kogălniceanu Airfield on May 17th. Now, what's incredibly interesting, and we're going to get more into that.
 

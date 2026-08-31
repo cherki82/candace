@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:25:28](/episodes/ep-mKXdKV-OBog.md#t-00-25-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1528);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1528s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now just to go back—in case you missed it back in October—Mike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama."
 

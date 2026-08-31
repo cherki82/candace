@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:35:18](/episodes/ep-iHav0PPzUz8.md#t-00-34-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2118);return false;">Play</a>
+**Timestamp:** [00:35:18](/episodes/ep-iHav0PPzUz8.md#t-00-35-00) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And yes, this is the same Seth Dillon at that notorious Hamptons Summit—who I told you pressed Charlie (Charlie Kirk), and a couple of weeks before he died— horrific to Charlie (Charlie Kirk)—made Charlie (Charlie Kirk) feel as if he was suddenly sitting down and being told that his viewpoints had changed and it was unacceptable.
 

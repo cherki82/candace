@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:08:11](/episodes/ep-mKXdKV-OBog.md#t-00-07-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Strike was a week-long training where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in
 
@@ -40,7 +40,7 @@ veracity: "mixed"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:08:52](/episodes/ep-mKXdKV-OBog.md#t-00-08-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(532);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=532s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Strike was a week-long training where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in
 

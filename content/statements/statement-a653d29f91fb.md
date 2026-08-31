@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:13:14](/episodes/ep-iB-YtO3UZOg.md#t-00-13-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(794);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=794s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ashley Brown Guajardo and her husband have both—they've now gone to New York. He's accepted—now he's going to be the chief medical examiner in New York, and she's going to be teaching at NYU. We should pull up her LinkedIn, by the way.
 

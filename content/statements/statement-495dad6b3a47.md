@@ -27,7 +27,7 @@ type: "prediction"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:20:25](/episodes/ep-SKNJPul29zU.md#t-01-20-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4825);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4825s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There have been a lot of liberals who are worried that Trump (Donald Trump), if he gets reelected, as he did, he's never going to leave the White House. I'm not worried about that at all. ... I think that in order to do a literal coup, you would need popular support among your base and he's losing that support big time.
 

@@ -1,6 +1,6 @@
 ---
-title: "I watched the footage... there is nothing gory about this sh..."
-description: "\"I watched the footage... there is nothing gory about this shot at all... there's no blood from the back. There is no blood.\" — Candace Owens"
+title: "There is nothing gory about this footage from the back; ther..."
+description: "\"There is nothing gory about this footage from the back; there is no blood from the back\" — Candace Owens"
 statement_id: "statement-2d6d5458fb95"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> I watched the footage... there is nothing gory about this shot at all... there's no blood from the back. There is no blood.
+> There is nothing gory about this footage from the back; there is no blood from the back
 
 ## Attribution
 
@@ -19,13 +19,17 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:10:36](/episodes/ep-aDlhjfW6hz8.md#t-00-09-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(636);return false;">Play</a>
+**Timestamp:** [00:11:21](/episodes/ep-aDlhjfW6hz8.md#t-00-11-04) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> First and foremost, there is nothing gory about this shot at all.
+> There's nothing gory about this footage from the back. The thing that really stood out to me—and I just kept asking him to replay it over and over and over again—is that there's no blood. There's no blood from the back.
 
 ## Verification
 

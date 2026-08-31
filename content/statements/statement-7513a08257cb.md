@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:16:46](/episodes/ep-HYn0P-P1wUw.md#t-00-16-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1006);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We also broke the story of the massive check that was coming to Turning Point USA from Pierre (surname uncertain; possibly Pierre Falcone). Is it Pierre DuPont? Is it Pierre Falcone? I think it's Pierre Falcone. I really do believe it's Pierre Falcone for a lot of reasons.
 

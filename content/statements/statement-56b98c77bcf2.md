@@ -1,6 +1,6 @@
 ---
-title: "Owens said Dan Flood accompanied Charlie Kirk during the Sou..."
-description: "\"Owens said Dan Flood accompanied Charlie Kirk during the South Korea portion of Kirk Asia trip\" — Candace Owens"
+title: "Owens said Dan Flood was with Charlie Kirk in Korea."
+description: "\"Owens said Dan Flood was with Charlie Kirk in Korea.\" — Candace Owens"
 statement_id: "statement-56b98c77bcf2"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Owens said Dan Flood accompanied Charlie Kirk during the South Korea portion of Kirk Asia trip
+> Owens said Dan Flood was with Charlie Kirk in Korea.
 
 ## Attribution
 
@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:28:57](/episodes/ep-t4U7NjnUEgc.md#t-00-28-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1737);return false;">Play</a>
+**Timestamp:** [00:28:57](/episodes/ep-t4U7NjnUEgc.md#t-00-28-26) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=1737s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> No, well, that checks out because Dan Flood (Dan Flood) was with Charlie in Korea.
+> No, well, that checks out because Dan Flood was with Charlie in Korea.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
-title: "Owens said the TMZ doorbell footage came from a West Street ..."
-description: "\"Owens said the TMZ doorbell footage came from a West Street area where many Caldera Engineering employees lived; public reporting identifies one assoc...\" — Candace Owens"
+title: "Owens said the TMZ doorbell footage came from a street where..."
+description: "\"Owens said the TMZ doorbell footage came from a street where many Caldera Engineering employees lived\" — Candace Owens"
 statement_id: "statement-c50d639bb47a"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,22 @@ veracity: "mixed"
 
 ## Statement
 
-> Owens said the TMZ doorbell footage came from a West Street area where many Caldera Engineering employees lived; public reporting identifies one associated resident, Erwin Steele, as a Caldera employee
+> Owens said the TMZ doorbell footage came from a street where many Caldera Engineering employees lived
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Paraphrased
+**Delivery:** Made directly
 **Original Source:** TMZ footage, local reporting, and employment claims summarized by Candace Owens
 
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(894);return false;">Play</a>
+**Timestamp:** [00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-22) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The husband and wife I had mentioned worked for Caldera Engineering, and it is a valves and pipes company.
+> Yesterday, I pretty casually mentioned to you guys something: that the doorbell cam footage, which TMZ happened upon somehow, was from a street upon which a ton of employees that work for Caldera Engineering live.
 
 ## Verification
 

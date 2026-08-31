@@ -26,7 +26,7 @@ type: "prediction"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:20:27](/episodes/ep-HZvwbfePe7o.md#t-00-20-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1227);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=1227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think we are going to be able to firmly confirm who we is, we, the dial 911 in the coming weeks, maybe even this week.
 

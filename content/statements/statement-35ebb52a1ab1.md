@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:15:04](/episodes/ep-HYn0P-P1wUw.md#t-00-14-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(904);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=904s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I broke the story that the feds seized the cameras inside the hospital, that the feds blocked Dr. Trotter (Lee Trotter) from returning to his operating room, and that a phone call was then placed to D.C.
 

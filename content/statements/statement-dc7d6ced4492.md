@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:44:35](/episodes/ep-EtLHqDbxqks.md#t-00-44-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2675);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2675s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe he's referring to red ovals or circles that were placed over the image to identify specific and significant individuals of note. ... If I recall, there was some individuals uh in the parking garage footage and their faces were blurred. ... Uh, predominantly it's an area that was referred to as viewing the Losee Center rooftop. I believe it focuses on the area where Mr. Robinson (Tyler Robinson) comes up the stairs and onto the rooftop. Those portions of that particular footage were zoomed in for clarity.
 

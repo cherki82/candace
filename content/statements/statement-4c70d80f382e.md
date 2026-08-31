@@ -35,7 +35,7 @@ veracity: "mixed"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:10:23](/episodes/ep-19vHhjF7-NA.md#t-00-10-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(623);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=623s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And according to Enver Hoxha, who was the former prime minister of Albania and was present, Khrushchev said of the island, quote, with a powerful fleet from here, we can have the whole of the Mediterranean, the Bosporus to Gibraltar, in our hands. We can control everyone, end quote.
 

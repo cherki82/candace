@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:38:50](/episodes/ep-_cNtgris8Ik.md#t-00-38-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2330);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2330s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so weird because if it didn't end well at all it's a question because why were charlie and erica at my wedding at the end of 2019 and what's funny is he mentions this clip of blake at the beginning of it but that clip that he's referring to is charlie discussing our friendship in november of 2023
 

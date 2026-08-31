@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:18:51](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1131);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1131s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, quote, video of the Aspen donor conference has never been released publicly, but the Daily Mail has been given exclusive access to screen the full video, video report on its contents and speak to individuals who were in the room in Aspen that day as secrecy around the footage has become a major point of contention for critics of Turning Point and its new CEO, Erika Kirk.
 

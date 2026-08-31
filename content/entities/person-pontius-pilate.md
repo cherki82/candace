@@ -3,9 +3,18 @@ title: "Pontius Pilate"
 description: "Pontius Pilate (People) - 3 mentions"
 id: "person-pontius-pilate"
 type: "PERSON"
+categories:
+  - "Roman governor of Judaea"
+  - "biblical figure"
 ---
 
 _Type: People_
+
+**Categories:** Roman governor of Judaea, biblical figure
+
+**Entity verification:** verified
+> Bible Gateway encyclopedia identifies Pontius Pilate as the Roman governor of Judea who sentenced Jesus, matching the episode discussion.
+Source: [Pontius Pilate — Encyclopedia of the Bible](https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Pontius-Pilate)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-pontius-pilate-t-00-04-11">2025-10-07 · 00:04:47</a></strong></div>

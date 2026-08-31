@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:11:57](/episodes/ep-Pb7UlpRdW6U.md#t-00-11-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(717);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=717s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And make no mistake, that is what we have uncovered. The Department of Defense instructing teams internally on how to immediately begin to engineer and to conduit our emotions.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:05:06](/episodes/ep-1CFDtD0IgEg.md#t-00-05-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(306);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=306s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, secondly, you are quite literally describing yourself, Blake Neff, orbit of influencers who have been screaming for Tyler Robinson to be convicted and have been unable to produce really any evidence, actually, any evidence which would convince the public that he might have done this.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:01:39](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(99);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=99s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Frank Turek, as a reminder, he is the pastor friend who was next to Charlie (Charlie Kirk). Actually, when he was assassinated, you remember, he was wearing the white hat. He ducks down. He is one of the people that helped to get Charlie (Charlie Kirk) to the vehicle. He was at the hospital.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:14:50](/episodes/ep-cPidFQDJLbo.md#t-00-14-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(890);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=890s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > children, nobody's going to kill you. You're safe. You and the kids. No one's coming after you. They just wanted Charlie (Charlie Kirk).
 

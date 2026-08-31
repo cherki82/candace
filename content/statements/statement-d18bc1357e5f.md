@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:19:52](/episodes/ep-iB-YtO3UZOg.md#t-00-19-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1192);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We get to the hospital. Actually, we make it to the hospital through the traffic. ... We've got full wound pack in. We get out and we carry in to the door. Once we make it into the door where we see a gurney on the left hand side, we put him on a gurney and then I wheel him into a room.
 

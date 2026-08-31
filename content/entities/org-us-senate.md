@@ -1,6 +1,6 @@
 ---
 title: "United States Senate"
-description: "United States Senate (Organizations) - 8 mentions"
+description: "United States Senate (Organizations) - 9 mentions"
 id: "org-us-senate"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [United States Senate: About the Senate](https://www.senate.gov/about/index.htm)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55">2025-09-19 · 00:01:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55">2025-09-19 · 00:01:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-senate-t-00-13-13">2026-05-27 · 00:13:13</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-us-senate-t-00-42-25">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55" style="--pulse-height:50%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-us-senate-t-00-39-17" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-senate-t-01-00-24" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-us-senate-t-00-42-25" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-us-senate-t-00-34-48" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
@@ -48,6 +49,7 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-us-senate-t-00-39-17) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-senate-t-01-00-24) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-us-senate-t-00-42-25) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-us-senate-t-00-34-48) | 1 |
@@ -60,7 +62,7 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -109,9 +111,17 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 </details>
 
 <details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+
+**[00:39:47](/episodes/ep-ja26iltROkM.md#ent-org-us-senate-t-00-39-17)**
+> "...ke 20 representatives between Senate and the House who I think are actually fully doin..."
+
+</details>
+
+<details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:01:09](/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55)**
+**[00:01:04](/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55)**
 > "the Senate has voted, and they have passed a bipartisan resolution to designate October 14th...as Charlie Kirk Remembrance Day"
 
 </details>

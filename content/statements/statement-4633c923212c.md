@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:45:12](/episodes/ep-9hRcfSrri70.md#t-00-44-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2712);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=2712s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, top comments from yesterday's episode. Dan teacher Leslie writes, sounds like Terrell Farnsworth could be guilty of evidence tampering and obstruction of justice.
 

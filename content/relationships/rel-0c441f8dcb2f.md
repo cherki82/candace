@@ -15,7 +15,7 @@ object: "org-turning-point-usa-faith"
 
 **[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
 
-- [00:06:42](/episodes/ep-Qt0VHV-POCg#t-00-06-42): _Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith..._
+- [00:06:48](/episodes/ep-Qt0VHV-POCg#t-00-06-48): _In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to recruit pastors and other church leaders to be active in local and national political issues._
 
 ### Related
 

@@ -1,6 +1,6 @@
 ---
 title: "Northern Ireland"
-description: "Northern Ireland (Places) - 1 mention"
+description: "Northern Ireland (Places) - 2 mentions"
 id: "gpe-northern-ireland"
 type: "GPE"
 categories:
@@ -17,10 +17,10 @@ _Type: Places_
 Source: [About Northern Ireland | nidirect](https://www.nidirect.gov.uk/articles/about-northern-ireland)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-northern-ireland-t-00-59-08">2026-02-13 · 00:59:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-northern-ireland-t-00-18-54">2025-09-30 · 00:19:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-northern-ireland-t-00-59-08">2026-02-13 · 00:59:11</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,14 +29,16 @@ Source: [About Northern Ireland | nidirect](https://www.nidirect.gov.uk/articles
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-northern-ireland-t-00-59-08">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-northern-ireland-t-00-18-54">DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-northern-ireland-t-00-18-54" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-northern-ireland-t-00-59-08" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-northern-ireland-t-00-18-54) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-northern-ireland-t-00-59-08) | 1 |
 
 </details>
@@ -45,13 +47,21 @@ Source: [About Northern Ireland | nidirect](https://www.nidirect.gov.uk/articles
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
 
 **[00:59:11](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-northern-ireland-t-00-59-08)**
 > "... is it still going on ireland northern ireland i don't know i'm not i'm not getting in it i love..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:19:09](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-northern-ireland-t-00-18-54)**
+> "...onestly, it was from Belfast, Northern Ireland, no less."
 
 </details>
 

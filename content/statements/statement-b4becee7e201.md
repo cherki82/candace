@@ -20,11 +20,16 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Fox News](/entities/org-fox-news.md) (org)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:03:29](/episodes/ep-_dRaEO47-co.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(209);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=209s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We had a bunch of rules. Charlie (Charlie Kirk)'s rule was never say no to Fox News. So even if the show was at 4 a.m. in the morning, crack of dawn, I cannot tell you guys how many hits we did on Fox News. I'm talking four hits a day, up at 4 a.m. for Fox & Friends First and then doing whatever the evening program was, because he believed this is the way that we're going to get our names out there.
 

@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:23:14](/episodes/ep-7RLtGgkTh9o.md#t-00-22-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1394);return false;">Play</a>
+**Timestamp:** [00:23:14](/episodes/ep-7RLtGgkTh9o.md#t-00-22-52) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1394s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "Ye (Kanye West), he said he was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUltra—suddenly puts him in a hospital on a psych 5150 hold."
 

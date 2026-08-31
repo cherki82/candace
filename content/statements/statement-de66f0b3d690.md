@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [01:04:03](/episodes/ep-his-JBjlkh8.md#t-01-03-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3843);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=3843s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were all—you could feel a ... spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty.
 

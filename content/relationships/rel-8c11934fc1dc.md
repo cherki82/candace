@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Beekeeper's Naturals](/entities/org-beekeepers-naturals) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
 - [00:28:17](/episodes/ep-1QZ4X6q1DPg#t-00-28-17): _That's why Beekeeper's Naturals is always stocked in our house. I especially love their propolis throat spray._
+
+**[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
+
+- [00:38:25](/episodes/ep-2WEHTk0Xewg#t-00-38-25): _That's why I'm so thankful for Beekeeper's Naturals and their amazing propolis throat spray._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 

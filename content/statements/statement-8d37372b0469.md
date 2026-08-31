@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:26:44](/episodes/ep-y8lak3CRwDw.md#t-00-26-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1604);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1604s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Johnny's Locker is an everyday Heroes Like You program that is targeted towards enhancing the lives of children and teens undergoing life-altering and various emotional hardships that reside in hospitals, shelters, or protective facilities across the country.
 

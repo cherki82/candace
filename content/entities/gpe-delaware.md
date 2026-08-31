@@ -1,6 +1,6 @@
 ---
 title: "Delaware"
-description: "Delaware (Places) - 94 mentions"
+description: "Delaware (Places) - 86 mentions"
 id: "gpe-delaware"
 type: "GPE"
 aliases:
@@ -20,55 +20,55 @@ _Type: Places_
 Source: [State of Delaware official website](https://delaware.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-15-42">2025-10-30 · 00:16:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-16-02">2025-10-30 · 00:16:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-47">2026-08-19 · 00:23:47</a></strong></div>
 <div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>94</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (23 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-12">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (20 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#t-00-15-42" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-16-02" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-delaware-t-00-17-41" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-delaware-t-00-16-57" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-00-00" style="--pulse-height:74%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 17 mentions" title="2025-11-19 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 23 mentions" title="2025-11-20 · 23 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-43-34" style="--pulse-height:9%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-12" style="--pulse-height:87%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 20 mentions" title="2025-12-01 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-04-57" style="--pulse-height:48%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 11 mentions" title="2025-12-02 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-00-00" style="--pulse-height:80%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 16 mentions" title="2025-11-19 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-34" style="--pulse-height:85%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 17 mentions" title="2025-11-20 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-43-34" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-12" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 20 mentions" title="2025-12-01 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-04-57" style="--pulse-height:55%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 11 mentions" title="2025-12-02 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-delaware-t-00-49-40" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44" style="--pulse-height:13%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-35-31" style="--pulse-height:13%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44" style="--pulse-height:15%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-35-31" style="--pulse-height:10%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-03" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-delaware-t-00-46-57" style="--pulse-height:9%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-delaware-t-00-46-57" style="--pulse-height:10%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-delaware-t-00-20-05" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#t-00-20-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-delaware-t-00-11-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-00-36-29" style="--pulse-height:9%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-00-36-29" style="--pulse-height:10%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-delaware-t-00-16-54" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-05" style="--pulse-height:9%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-05" style="--pulse-height:10%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-15-42) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-16-02) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-delaware-t-00-17-41) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-delaware-t-00-16-57) | 1 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-00-00) | 17 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01) | 23 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-00-00) | 16 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-34) | 17 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-43-34) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-12) | 20 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-04-57) | 11 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-delaware-t-00-49-40) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44) | 3 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-03) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-delaware-t-00-46-57) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-delaware-t-00-20-05) | 1 |
@@ -84,7 +84,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -160,15 +160,12 @@ Source: [State of Delaware official website](https://delaware.gov/)
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:36:06](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31)**
+**[00:35:56](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31)**
 > "I know you didn't go to Wilmington, Delaware"
 
 **[00:36:30](/episodes/ep-6DhWawD4ZiM.md#t-00-36-12)**
-> "...k off and went to Wilmington, Delaware."
-
-**[00:36:36](/episodes/ep-6DhWawD4ZiM.md#t-00-36-12)**
 > "... you didn't go to Wilmington, Delaware on the day of trial for her assassination."
 
 </details>
@@ -310,86 +307,68 @@ Source: [State of Delaware official website](https://delaware.gov/)
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (23 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (17 mentions)</summary>
 
-**[00:00:34](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01)**
+**[00:00:34](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-34)**
 > "...ng they've told us is real. Plus, I don't think we can reasonably ignore that odd French company in Delaware. Now that our source proved to us that it certainly wasn't established to provide any maintenance t..."
 
-**[00:05:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01)**
+**[00:05:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-34)**
 > "...mediately—this becomes a location where our Egyptian military plane is going to land in Wilmington, Delaware, not to get service. We know there was no maintenance happening because there was this lack of a le..."
 
-**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01)**
+**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-34)**
 > "...hat's when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar. Okay, there's suddenly a French company, and the CEO who knows Emmanuel Macron—we've..."
 
-**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-16-53)**
+**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-17-12)**
 > "...eriod that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, right? Not saying that Brigitte or Emmanuel are on this plane. What I'm saying is that could..."
 
-**[00:18:30](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+**[00:18:30](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-23)**
 > "...ommunication between my legal team. We were very confused about why this lawsuit was being filed in Delaware. Not putting anything together. Obviously, I didn't know about Satis. Nothing. This is my lawyer, a..."
 
-**[00:18:41](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+**[00:18:41](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-23)**
 > "...y to file a motion to dismiss to stay the case on the grounds that it's inconvenient to litigate in Delaware because you're in Tennessee. Your companies in Delaware do not defame anyone. The witnesses are in ..."
 
-**[00:18:45](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+**[00:18:45](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-23)**
 > "...ounds that it's inconvenient to litigate in Delaware because you're in Tennessee. Your companies in Delaware do not defame anyone. The witnesses are in Tennessee. The Macrons are not citizens of Delaware. Thu..."
 
-**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
-> "...s in Delaware do not defame anyone. The witnesses are in Tennessee. The Macrons are not citizens of Delaware. Thus, there's no connection to Delaware. Like, what are we doing in Delaware? We should dismiss in..."
-
-**[00:18:54](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+**[00:18:54](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-23)**
 > "...itnesses are in Tennessee. The Macrons are not citizens of Delaware. Thus, there's no connection to Delaware. Like, what are we doing in Delaware? We should dismiss in Delaware and say that they have to file ..."
 
-**[00:18:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
-> "...s are not citizens of Delaware. Thus, there's no connection to Delaware. Like, what are we doing in Delaware? We should dismiss in Delaware and say that they have to file where you are—like where they claim t..."
-
-**[00:18:59](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
-> "... Thus, there's no connection to Delaware. Like, what are we doing in Delaware? We should dismiss in Delaware and say that they have to file where you are—like where they claim that they have been defamed is h..."
-
-**[00:19:06](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+**[00:19:06](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-19-06)**
 > "...ssee. That's so interesting to me in retrospect that we didn't understand why this was happening in Delaware. Anyways, moving on to August 1st—same week—Tucker (Tucker Carlson) releases an episode with me. An..."
 
-**[00:22:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+**[00:22:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-19-06)**
 > "...go time, right? This plane is now going to stay for six days, and then it's gonna go to Wilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th afte..."
 
-**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-19-06)**
 > "...s, and then it's gonna go to Wilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination. I find this now t..."
 
-**[00:24:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+**[00:24:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-19-06)**
 > "...e question, right? Why on earth did France move? I mean, who wants to lease a hangar in Wilmington, Delaware, for two years to paint planes ostensibly? We're supposed to believe that this was a maintenance st..."
 
-**[00:24:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+**[00:24:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-19-06)**
 > "...l the way forward to the end of 2024. So literally that plane was still making stops in Wilmington, Delaware, and there was no lease to that. And these were federally controlled waterways where that hangar is..."
 
-**[00:29:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+**[00:29:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-19-06)**
 > "...r for two years—a very short time—to paint some planes. Could you tell us who landed in Wilmington, Delaware, and we're shuttled over to 920 King? I think that would be a good start. Anyways, we'll be right b..."
 
-**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-25)**
+**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-31)**
 > "...e to go a little chill today. Renee writes: "I wonder if our president's plane ever landed there in Delaware, where we know that Biden was living in Delaware." He lives in Delaware. He's from Delaware. But I ..."
 
-**[00:52:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-25)**
+**[00:52:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-31)**
 > "... plane ever landed there in Delaware, where we know that Biden was living in Delaware." He lives in Delaware. He's from Delaware. But I have—I do not think that Trump would have been described as a dignitary...."
 
-**[00:52:03](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-25)**
-> "...here in Delaware, where we know that Biden was living in Delaware." He lives in Delaware. He's from Delaware. But I have—I do not think that Trump would have been described as a dignitary. Certainly would not..."
-
-**[00:54:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
-> "...de to go a little chill today. Renee writes, I wonder if our president's plane ever landed there in Delaware, where we know that Biden was living in Delaware. He lives in Delaware. He's from Delaware. But I h..."
-
-**[00:54:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
-> "...s plane ever landed there in Delaware, where we know that Biden was living in Delaware. He lives in Delaware. He's from Delaware. But I have, I do not think that Trump would have been described as a dignitary..."
-
-**[00:54:09](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
-> "...there in Delaware, where we know that Biden was living in Delaware. He lives in Delaware. He's from Delaware. But I have, I do not think that Trump would have been described as a dignitary. Certainly would no..."
+**[00:18:23](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-23)**
+> "...is lawsuit was being filed in Delaware."
 
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (17 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (16 mentions)</summary>
 
 **[00:00:33](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-00-00)**
 > "...military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware? Actually, we should figure that out. Welcome back to Candace (Candace Owens). There are so many el..."
 
-**[00:01:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
+**[00:01:35](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
 > "...—particularly the yellow jet, tail number SUBTT— which kept overlaying, sometimes even for days, in Delaware—why would they do that? Why would that plane be doing that? Let's pull up that timeline again that ..."
 
 **[00:02:16](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
@@ -398,13 +377,10 @@ Source: [State of Delaware official website](https://delaware.gov/)
 **[00:03:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
 > "...e, departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern. So that's at around 9:51 a.m. Utah time...."
 
-**[00:03:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
-> "....m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern. So that's at around 9:51 a.m. Utah time. Charlie (Charlie Kirk)'s gonna get ..."
-
 **[00:04:06](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
 > "...Charlie Kirk) is shot. And then for whatever reason, these Egyptians decided to stay in Wilmington, Delaware for a night until the following day. I don't know, where did they sleep? Where did they go? Again, ..."
 
-**[00:04:20](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
+**[00:04:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
 > "...wing day. I don't know, where did they sleep? Where did they go? Again, what goes on in Wilmington, Delaware? Because they departed September 11th at 7:56 a.m. That means that we can definitively rule out tha..."
 
 **[00:05:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
@@ -419,22 +395,22 @@ Source: [State of Delaware official website](https://delaware.gov/)
 **[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
 > "...reet, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801. Both are live, both are at Suite 404, both also publish phone numbers. In the Secret Servic..."
 
-**[00:11:24](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
+**[00:11:19](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
 > "...umbers. In the Secret Service case, the agency's own 2025 field office list still shows Wilmington, Delaware. That means the suites that the Department of Justice owned in the 1990s never actually went away. ..."
 
-**[00:13:05](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-12-23)**
+**[00:13:05](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-13-05)**
 > "...ys, S-A-T-Y-S, announced that it was taking over the shuttered Wilmington airport hangar. And every Delaware outlet said the same thing. Satys will invest a little over $1 million and get this. So you see tha..."
 
-**[00:13:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-13-08)**
+**[00:13:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-13-05)**
 > "...rue. This is a French company that said they were going to take over this hangar in Wilmington. The Delaware River and Bay Authority is the one that is making that deal. DRBA is a bi-state authority, except t..."
 
-**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-15-37)**
+**[00:15:37](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-15-25)**
 > "...eet with the label Federal Bureau of Investigation. Instead of the public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can confirm that 500 Delaware Ave is the borough..."
 
-**[00:18:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-18-04)**
+**[00:18:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-18-01)**
 > "...ptian government aircraft with a history of flying to France and the United States lands at a small Delaware airport under a French company maintenance pretext that doesn't actually match the hangar timeline,..."
 
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-18-04)**
+**[00:19:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-19-22)**
 > "...any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged two-continent hop that ends in Wilmington before goin..."
 
 </details>
@@ -458,7 +434,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42)**
+**[00:16:14](/episodes/ep-iHav0PPzUz8.md#t-00-16-02)**
 > "...owed you—I showed you—the plane left. They left on September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
 
 </details>
@@ -472,9 +448,10 @@ Source: [State of Delaware official website](https://delaware.gov/)
 <summary>Former Residence Of (1)</summary>
 
 - **[Joe Biden](/entities/person-joe-biden.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Hunter Biden: The Interview @ 01:18:54](/episodes/ep-Ux1kzgQxkws.md#t-01-18-27): “He lived in Delaware.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:53:58](/episodes/ep-sImMM04XdWY.md#t-00-53-52): “Renee writes: "I wonder if our president's plane ever landed there in Delaware, where we know that Biden was living in Delaware."”
 
 </details>
 
@@ -486,7 +463,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 - **[Wilmington](/entities/gpe-wilmington.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-16-02): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “went over to Wilmington, Delaware.”
 
 </details>
@@ -499,15 +476,16 @@ Source: [State of Delaware official website](https://delaware.gov/)
 - **[Wilmington](/entities/gpe-wilmington.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-16-02): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “went over to Wilmington, Delaware.”
 
 </details>
 
 - **[Joe Biden](/entities/person-joe-biden.md)** formerly lived in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Hunter Biden: The Interview @ 01:18:54](/episodes/ep-Ux1kzgQxkws.md#t-01-18-27): “He lived in Delaware.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:53:58](/episodes/ep-sImMM04XdWY.md#t-00-53-52): “Renee writes: "I wonder if our president's plane ever landed there in Delaware, where we know that Biden was living in Delaware."”
 
 </details>
 
@@ -516,21 +494,13 @@ Source: [State of Delaware official website](https://delaware.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Delaware (3)</strong></summary>
+<summary><strong class="section-title">Statements about Delaware (2)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
 
 - [00:11:13](/episodes/ep-2tFYJf1klgY.md#t-00-11-13) (Claim) **Candace Owens**: ["Lori Frantzve formed Intellimet International Incorporated of Delaware..."](/statements/statement-98853befecc9.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
-
-</details>
-
-<details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
-
-- [00:35:36](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) (Claim) **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie ..."](/statements/statement-a2a2171aef70.md)
-  - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

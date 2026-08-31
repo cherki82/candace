@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:06:35](/episodes/ep-BxN2-aeMYIs.md#t-00-06-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(395);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=395s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They wrote, you do not appear to be seeking records created or controlled by the NSA. We redirected your request. ... To the Office of the Secretary of War and or the joint staff.
 

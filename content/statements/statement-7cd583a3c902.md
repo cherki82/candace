@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he has, especially over the past few months, he's become the number one. ... Republican gadfly, Republican who gets in Trump's way, criticizes Trump and not just on debt or the war, but also on Epstein
 

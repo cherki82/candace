@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:20:49](/episodes/ep-ja26iltROkM.md#t-00-20-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1249);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And as it turns out, I looked at some old pictures of where he was sitting, and there was a massive pipeline that was almost exactly behind where Charlie (Charlie Kirk) was sitting.
 

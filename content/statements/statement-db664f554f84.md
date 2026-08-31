@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:23:40](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1420);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And out of nowhere, Kanye (Kanye West), who did actually help me design the BLEXIT logo in Chicago, he was getting an insane amount of pressure and told that he could not get involved in politics.
 

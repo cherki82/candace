@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:51:04](/episodes/ep-EtLHqDbxqks.md#t-00-50-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3064);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=3064s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Kirk asked us to do this. Pray for a speedy trial. We have a right to a speedy trial here. It's in our constitution.
 

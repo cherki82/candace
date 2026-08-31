@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:29:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1753);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1753s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Undoubtedly, anti-Zionism is anti-Semitism, and undoubtedly. And one does not have to support the specific policies of the government of Israel, but to not support the right of Israel to exist, which is what anti-Zionists do, while not taking that same stand to the 28 Muslim countries and 13 Christian countries in this world is a double standard, is hypocrisy, and is absolutely anti-Semitism.
 

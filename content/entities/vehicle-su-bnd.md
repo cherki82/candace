@@ -13,7 +13,7 @@ _Type: Vehicles_
 **Also known as:** SUBND, SU BND
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-55">2025-10-30 · 00:55:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-25">2025-10-30 · 00:55:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-bnd-t-00-13-44">2025-12-05 · 00:13:44</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -27,20 +27,20 @@ _Type: Vehicles_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-bnd-t-00-11-07">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-55" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-25" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-bnd-t-00-05-35" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-bnd-t-00-11-07" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-05" style="--pulse-height:50%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-11" style="--pulse-height:50%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-bnd-t-00-13-44" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-55) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-25) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-bnd-t-00-05-35) | 2 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-bnd-t-00-11-07) | 4 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-05) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-11) | 2 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-bnd-t-00-13-44) | 1 |
 
 </details>
@@ -62,10 +62,10 @@ _Type: Vehicles_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:09:14](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-05)**
+**[00:09:11](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-11)**
 > "... And like I said, they weren't even on the plane on the way out. They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home. So what are we looking at here? What ex..."
 
-**[00:54:11](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-53-36)**
+**[00:54:03](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-53-36)**
 > "...that day. Who was on each plane is now very relevant. As we take a look at this picture of why this SU-BND jet might have been transponding without moving at Duncan Aviation. So stay tuned, and we'll see yo..."
 
 </details>
@@ -101,8 +101,8 @@ _Type: Vehicles_
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:55:55](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-55)**
-> "...ail yesterday. I can't remember if it was Carrie. Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025. What is that? Mark, help me mansplain. After and Hades, the tail numb..."
+**[00:55:54](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-25)**
+> "I can't remember if it was Carrie (Carrie (Carrie Jean)). Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025."
 
 </details>
 
@@ -117,7 +117,7 @@ _Type: Vehicles_
 - **[Egypt](/entities/gpe-egypt.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-11): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
 
 </details>
 
@@ -129,7 +129,7 @@ _Type: Vehicles_
 - **[Egypt](/entities/gpe-egypt.md)** operates this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-11): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
 
 </details>
 
@@ -143,7 +143,7 @@ _Type: Vehicles_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05) (Claim) **Candace Owens**: ["The Egyptians on the SU-BTT flight waited for the other Egyptian milit..."](/statements/statement-028c91e2ea6f.md)
+- [00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-11) (Claim) **Candace Owens**: ["The Egyptians on the SU-BTT flight waited for the other Egyptian milit..."](/statements/statement-028c91e2ea6f.md)
 
 </details>
 

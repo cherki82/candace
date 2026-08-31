@@ -1,6 +1,6 @@
 ---
-title: "we officially have become the number one podcast in the worl..."
-description: "\"we officially have become the number one podcast in the world\" — Candace Owens"
+title: "Owens said her podcast had become the number one podcast in ..."
+description: "\"Owens said her podcast had become the number one podcast in the world.\" — Candace Owens"
 statement_id: "statement-9930afa88e0e"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,21 @@ veracity: "mixed"
 
 ## Statement
 
-> we officially have become the number one podcast in the world
+> Owens said her podcast had become the number one podcast in the world.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:00:07](/episodes/ep-vwG1juDCQZQ.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7);return false;">Play</a>
+**Timestamp:** [00:00:00](/episodes/ep-vwG1juDCQZQ.md#t-00-00-00) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=0s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Yes, in case you missed it, we officially have become the number one podcast in the world—not in America, okay, not Europe
+> Yes, in case you missed it, we officially have become the number one podcast in the world—not in America, okay, not Europe. ... I am talking about in the world, and the haters stay mad. Haters stay big mad on the internet.
 
 ## Verification
 

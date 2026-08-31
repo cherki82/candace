@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [01:02:10](/episodes/ep-czVBmqZP6Ss.md#t-01-01-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3730);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=3730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When you understand how severe the lies were that were being told, that Sigmund Freud professionalized in the form of the psychoanalytic movement—I'm talking about parents that were raping their toddlers he was covering for— then you understand the evil that we are confronted with, like what kind of people...
 

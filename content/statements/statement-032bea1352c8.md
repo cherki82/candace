@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:39:22](/episodes/ep-1CFDtD0IgEg.md#t-00-39-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2362);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2362s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These are precision-guided missiles. They follow a programmed path, they have cameras on the front that can watch what they're doing in real time. They're some of the most uh precise weapons that the US has.
 

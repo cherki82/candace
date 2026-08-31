@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 123 mentions"
+description: "Tax Network USA (Organizations) - 146 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44">2025-09-16 · 01:05:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-56">2026-08-17 · 01:15:56</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>146</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,64 +34,70 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-23-33" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 5 mentions" title="2025-09-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10" style="--pulse-height:60%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-00-39" style="--pulse-height:60%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20" style="--pulse-height:80%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44" style="--pulse-height:80%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53" style="--pulse-height:80%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-tax-network-usa-t-01-13-46" style="--pulse-height:80%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-org-tax-network-usa-t-00-49-50" style="--pulse-height:80%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04" style="--pulse-height:60%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-tax-network-usa-t-01-04-02" style="--pulse-height:60%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-tax-network-usa-t-00-36-52" style="--pulse-height:60%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-tax-network-usa-t-00-33-51" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 5 mentions" title="2026-02-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-tax-network-usa-t-00-55-42" style="--pulse-height:60%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-tax-network-usa-t-00-48-55" style="--pulse-height:60%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-tax-network-usa-t-00-48-53" style="--pulse-height:40%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-tax-network-usa-t-00-52-54" style="--pulse-height:60%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-tax-network-usa-t-00-55-09" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-03" style="--pulse-height:40%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-tax-network-usa-t-00-26-56" style="--pulse-height:60%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45" style="--pulse-height:20%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-org-tax-network-usa-t-00-50-59" style="--pulse-height:40%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-tax-network-usa-t-00-32-33" style="--pulse-height:40%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-tax-network-usa-t-01-19-18" style="--pulse-height:60%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-tax-network-usa-t-00-54-50" style="--pulse-height:40%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-tax-network-usa-t-00-41-39" style="--pulse-height:40%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-org-tax-network-usa-t-01-08-27" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-tax-network-usa-t-00-34-40" style="--pulse-height:40%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-tax-network-usa-t-01-01-53" style="--pulse-height:40%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-05" style="--pulse-height:40%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-tax-network-usa-t-00-49-57" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08" style="--pulse-height:40%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30" style="--pulse-height:40%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-tax-network-usa-t-00-55-33" style="--pulse-height:20%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-tax-network-usa-t-00-37-40" style="--pulse-height:40%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-28-41" style="--pulse-height:80%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-tax-network-usa-t-00-45-31" style="--pulse-height:40%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-tax-network-usa-t-00-25-23" style="--pulse-height:60%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-tax-network-usa-t-02-30-51" style="--pulse-height:60%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-28" style="--pulse-height:40%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 6 mentions" title="2025-09-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-48-37" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 6 mentions" title="2025-09-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-23-33" style="--pulse-height:83%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 5 mentions" title="2025-09-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10" style="--pulse-height:83%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-00-39" style="--pulse-height:83%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-tax-network-usa-t-00-39-05" style="--pulse-height:83%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 5 mentions" title="2025-11-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-48-41" style="--pulse-height:83%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20" style="--pulse-height:67%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-14" style="--pulse-height:83%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-24" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53" style="--pulse-height:83%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30" style="--pulse-height:83%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-tax-network-usa-t-01-13-46" style="--pulse-height:67%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-tax-network-usa-t-00-49-50" style="--pulse-height:67%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-tax-network-usa-t-01-04-02" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-tax-network-usa-t-00-36-52" style="--pulse-height:50%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-tax-network-usa-t-00-33-51" style="--pulse-height:83%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 5 mentions" title="2026-02-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-tax-network-usa-t-00-55-42" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-tax-network-usa-t-00-48-55" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-tax-network-usa-t-00-48-53" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-tax-network-usa-t-00-52-54" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-tax-network-usa-t-00-55-09" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-03" style="--pulse-height:33%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-tax-network-usa-t-00-26-56" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45" style="--pulse-height:17%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-tax-network-usa-t-00-50-59" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-tax-network-usa-t-00-32-33" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-tax-network-usa-t-01-19-18" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-tax-network-usa-t-00-54-50" style="--pulse-height:33%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11" style="--pulse-height:17%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-tax-network-usa-t-00-41-39" style="--pulse-height:33%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-tax-network-usa-t-01-08-27" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-tax-network-usa-t-00-34-40" style="--pulse-height:33%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-tax-network-usa-t-01-01-53" style="--pulse-height:33%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-05" style="--pulse-height:33%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-tax-network-usa-t-00-49-57" style="--pulse-height:17%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-tax-network-usa-t-00-55-33" style="--pulse-height:17%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-tax-network-usa-t-00-37-40" style="--pulse-height:33%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-28-41" style="--pulse-height:67%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-tax-network-usa-t-00-45-31" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-tax-network-usa-t-00-25-23" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-tax-network-usa-t-02-30-51" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-28" style="--pulse-height:33%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24) | 5 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44) | 6 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-48-37) | 6 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-23-33) | 5 |
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10) | 3 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-00-39) | 3 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10) | 5 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-00-39) | 5 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-tax-network-usa-t-00-39-05) | 5 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-48-41) | 5 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20) | 4 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44) | 4 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39) | 5 |
-| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53) | 4 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-14) | 5 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-24) | 6 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53) | 5 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-tax-network-usa-t-01-13-46) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-tax-network-usa-t-00-49-50) | 4 |
@@ -134,7 +140,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (146)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -576,7 +582,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
 
 **[00:29:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53)**
 > "And reminding you guys about Tax Network USA, because maybe you owe back taxes, you've not fil..."
@@ -590,42 +596,51 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 **[00:30:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-30-16)**
 > "...your free discovery call with Tax Network USA."
 
+**[00:30:29](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-30-16)**
+> "Again, that's tnusa.com slash Candace."
+
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
 
-**[00:27:58](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39)**
+**[00:27:57](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-24)**
 > "Right now, Tax Network USA is offering a completely free IRS research and discovery call"
 
-**[00:22:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-11)**
+**[00:22:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-01)**
 > "...I want to tell you guys about Tax Network USA because you might owe back taxes."
 
-**[00:23:10](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-55)**
+**[00:23:10](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-42)**
 > "Right now, Tax Network USA is offering a completely free IRS research and di..."
 
-**[00:23:32](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-55)**
+**[00:23:31](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-24)**
 > "... protected the right way with Tax Network USA and start the process of settling your tax burden..."
 
-**[00:23:39](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39)**
+**[00:23:39](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-24)**
 > "...your free discovery call with Tax Network USA."
+
+**[00:23:48](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-24)**
+> "Again, that's tnusa.com slash Candace."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (5 mentions)</summary>
 
-**[00:49:54](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
+**[00:49:54](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-14)**
 > "Tax Network USA is offering a completely free IRS research and discovery call"
 
-**[00:49:44](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
+**[00:49:41](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-14)**
 > "Right now, Tax Network USA is offering a completely free IRS research and di..."
 
-**[00:50:07](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
+**[00:50:06](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-59)**
 > "... protected the right way with Tax Network USA."
 
-**[00:50:13](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
+**[00:50:13](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-59)**
 > "...your free discovery call with Tax Network USA."
+
+**[00:50:23](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-59)**
+> "That's tnusa.com slash Candice. Also telling you guys about Ne..."
 
 </details>
 
@@ -647,7 +662,47 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
+
+**[00:49:08](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-48-41)**
+> "...o want to tell you guys about Tax Network USA because if you owe the IRS back taxes, they can g..."
+
+**[00:49:24](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-49-24)**
+> "...ou. Call the professionals at Tax Network USA. Their tax lawyers and enrolled agents are expert..."
+
+**[00:49:34](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-49-24)**
+> "Tax Network USA is rated A+ and has saved over $1 billion for the..."
+
+**[00:49:52](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-49-24)**
+> "...For a free consultation, call Tax Network USA today at 1-800-958-1000, or you can visit tnusa.c..."
+
+**[00:50:03](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-49-24)**
+> "...S be the first to act. That's tnusa.com slash Candace."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (5 mentions)</summary>
+
+**[00:39:38](/episodes/ep-Qfwr08Ebczo.md#ent-org-tax-network-usa-t-00-39-05)**
+> "...g in here to remind you about Tax Network USA because there are tons of people who owe back tax..."
+
+**[00:40:03](/episodes/ep-Qfwr08Ebczo.md#ent-org-tax-network-usa-t-00-39-42)**
+> "Tax Network USA is a nationwide tax firm, and they've helped taxp..."
+
+**[00:40:15](/episodes/ep-Qfwr08Ebczo.md#ent-org-tax-network-usa-t-00-39-42)**
+> "So do not wait. Visit tnusa.com/Candace Owens, or you can call 1-800-958-1000..."
+
+**[00:40:27](/episodes/ep-Qfwr08Ebczo.md#ent-org-tax-network-usa-t-00-40-27)**
+> "...ne short call, the experts at Tax Network USA can guide you through some simple questions to de..."
+
+**[00:40:32](/episodes/ep-Qfwr08Ebczo.md#ent-org-tax-network-usa-t-00-40-27)**
+> "...w before it's too late. Visit tnusa.com/Candace Owens or call 1-800-958-1000."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
 
 **[01:00:52](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-00-39)**
 > "Also, I'd tell you guys about Tax Network USA because you might be somebody who owes back taxes..."
@@ -658,10 +713,16 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 **[01:01:35](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-01-23)**
 > "...ne short call, the experts at Tax Network USA will guide you through some simple questions to d..."
 
+**[01:01:30](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-01-23)**
+> "Visit tnusa.com/Candace or call 1-800-958-1000 for a 100% fre..."
+
+**[01:01:41](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-01-23)**
+> "Visit tnusa.com/Candace or call"
+
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5 mentions)</summary>
 
 **[00:54:45](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10)**
 > "...s, let me tell you guys about Tax Network USA."
@@ -671,6 +732,12 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 **[00:55:25](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-55)**
 > "...ne short call, the experts at Tax Network USA will guide you through some simple questions to d..."
+
+**[00:55:20](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-55)**
+> "Visit tnusa.com/Candace or call 1-800-958-1000 for"
+
+**[00:55:34](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-55)**
+> "Visit tnusa.com/Candace or call 1-800-958-1000."
 
 </details>
 
@@ -695,22 +762,48 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6 mentions)</summary>
 
-**[01:05:59](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24)**
+**[00:48:37](/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-48-37)**
+> "...rst, I'm gonna tell you about Tax Network USA, because if you are stressed about back taxes—may..."
+
+**[00:48:56](/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-48-37)**
+> "Tax Network USA can take the burden off your shoulders, and they ..."
+
+**[00:49:03](/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-48-37)**
+> "...ert negotiators on your side, Tax Network USA knows how to help you win."
+
+**[00:49:34](/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-49-21)**
+> "Call 1-800-958-1000 or visit tnusa.com/candace because you may have missed the tax d..."
+
+**[00:49:39](/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-49-21)**
+> "Let Tax Network USA help."
+
+**[00:49:47](/episodes/ep-sreYYcID-QY.md#ent-org-tax-network-usa-t-00-49-21)**
+> "...er is 1-800-958-1000 or visit tnusa.com/candace."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (6 mentions)</summary>
+
+**[01:05:57](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44)**
 > "First, I'm gonna remind you guys about Tax Network USA"
 
-**[01:06:13](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-07)**
+**[01:06:07](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44)**
 > "Back to Tax Network USA."
 
-**[01:06:22](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-07)**
+**[01:06:22](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-22)**
 > "Tax Network USA can take the burden off your shoulders and stop t..."
 
-**[01:06:39](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-07)**
+**[01:06:30](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-22)**
 > "Tax Network USA knows how to help you win."
 
-**[01:07:05](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-49)**
+**[01:07:05](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-07-05)**
 > "So let Tax Network USA help you by calling 1-800-958-1000 or visit tnusa..."
+
+**[01:06:58](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-22)**
+> "... call 1-800-958-1000 or visit tnusa.com/Candace. You may have missed the tax deadline..."
 
 </details>
 
@@ -723,7 +816,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -734,6 +827,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:45:38](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:55:33](/episodes/ep-OgRyiOAVtWU.md#t-00-55-33): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:02](/episodes/ep-HZvwbfePe7o.md#t-00-37-40): “Before the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:23:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-24): “They are not on your side. Obviously, get protected the right way with Tax Network USA and start the process of settling your tax burden once and for all.”
 
 </details>
 
@@ -743,7 +837,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -754,6 +848,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:45:38](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:55:33](/episodes/ep-OgRyiOAVtWU.md#t-00-55-33): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:02](/episodes/ep-HZvwbfePe7o.md#t-00-37-40): “Before the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:23:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-24): “They are not on your side. Obviously, get protected the right way with Tax Network USA and start the process of settling your tax burden once and for all.”
 
 </details>
 

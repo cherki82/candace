@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1077);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1077s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they established Jerry Falwell, Charlie Kirk, the Falkirk Center in 2021.
 

@@ -1,6 +1,6 @@
 ---
-title: "Jimmy Kimmel called Charlie Kirk’s killing a senseless murde..."
-description: "\"Jimmy Kimmel called Charlie Kirk’s killing a senseless murder in a September 11, 2025 monologue\" — Candace Owens"
+title: "Owens noted that, in the same monologue, Jimmy Kimmel called..."
+description: "\"Owens noted that, in the same monologue, Jimmy Kimmel called Charlie Kirk's murder senseless\" — Candace Owens"
 statement_id: "statement-68e23d373338"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Jimmy Kimmel called Charlie Kirk’s killing a senseless murder in a September 11, 2025 monologue
+> Owens noted that, in the same monologue, Jimmy Kimmel called Charlie Kirk's murder senseless
 
 ## Attribution
 
@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:41:31](/episodes/ep-aDlhjfW6hz8.md#t-00-40-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2491);return false;">Play</a>
+**Timestamp:** [00:41:28](/episodes/ep-aDlhjfW6hz8.md#t-00-41-19) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2488s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it should be noted, by the way, that in the same monologue, he did call the murder senseless.
 

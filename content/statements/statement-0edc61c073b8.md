@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:28:29](/episodes/ep-CEF7gQRWYCE.md#t-00-28-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1709);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1709s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Palantir boys were put onto Fort Huachuca airbase in July
 
@@ -38,7 +38,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:34:16](/episodes/ep-MhakwJxK-Zk.md#t-00-33-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2056);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2056s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is announced that Palantir is doing a $10 billion software deal with the military and they are going to be stationed at Fort Huachuca. ... That's interesting. They moved into Fort Huachuca. They got announced.
 

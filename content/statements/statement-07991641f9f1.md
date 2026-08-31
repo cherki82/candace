@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(172);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=172s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Don't know who he is, but like I really would like to like just hear the other side and my producer ran it up the chain and came back to me and said, we are not allowed to have Bassem Youssef on. And I said, that's weird. Why? And the answer I got was because you hurt Ben (Ben Shapiro)'s feelings. I'm not kidding. She got it in writing.
 

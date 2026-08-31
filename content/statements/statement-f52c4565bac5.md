@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:01:03](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(63);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=63s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is my personal belief that that is the very reason that they colluded to have that obstacle eventually removed just months later.
 

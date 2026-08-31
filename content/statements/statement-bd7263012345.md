@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:57:26](/episodes/ep-uC_GjKU8rs8.md#t-00-57-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3446);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=3446s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what was his uncle zalman shapira am i correct that he's the one that took all of the uranium to israel zalman like z-a-l-m-a-n is that correct i'm pretty sure uh yeah oh i guess you could say The theft is in his family's nature.
 

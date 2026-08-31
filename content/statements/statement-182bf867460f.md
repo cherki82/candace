@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:38:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that the number one victims of World War II were not Jews, it was Christians. ... And when you say that, they get so angry because they have worked so hard for decades to manipulate people in the classroom to believe that the only victims that ever existed in history were Jews. And that's just on its face false and it is a lie.
 

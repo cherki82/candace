@@ -3,11 +3,11 @@ title: "We want no mercury in the vaccine. We want no aluminum in th..."
 description: "\"We want no mercury in the vaccine. We want no aluminum in the vaccine.\" — Donald J. Trump"
 statement_id: "statement-2e127038e3b7"
 speaker: "Donald J. Trump"
-type: "promise"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -19,14 +19,14 @@ veracity: "true"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Remarks on autism research and public health
+**Original Source:** Archival remarks on vaccines
 **Original Date:** 2025-09-22
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:47:35](/episodes/ep-UBkFkg4UNY8.md#t-00-46-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2855);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=2855s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We want no mercury in the vaccine. We want no aluminum in the vaccine.
 
@@ -50,4 +50,4 @@ Verified as a direct quotation and policy-position attribution. The official Dai
 
 ---
 
-**Type:** Promise | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

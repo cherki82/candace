@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:25:38](/episodes/ep-amqTMimDr0A.md#t-00-25-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1538);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1538s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > More about Gary (Gary Javitch). His professional biography says that he served on the National Council of AIPAC. Gary (Gary Javitch) was the president of the Nebraska chapter of AIPAC. It also lists his twin brother David Javich as being on the board of AIPAC currently.
 

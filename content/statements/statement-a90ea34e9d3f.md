@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [01:04:26](/episodes/ep-his-JBjlkh8.md#t-01-04-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3866);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=3866s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Thanks for the USS Liberty episode as well." To this day, the best interview that we have ever given
 

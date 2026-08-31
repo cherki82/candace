@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:38:57](/episodes/ep-jTj9Ip46r4w.md#t-00-38-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2337);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=2337s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can see that here in this obituary from 1970. The bottom there says that. Angeline, wife of Joseph Abbas of Cincinnati, Ohio.
 

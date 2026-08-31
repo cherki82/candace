@@ -20,10 +20,10 @@ _Type: Dates_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-45">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-58">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-2nd-t-00-13-38" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-45" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-58" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-date-september-2nd-t-00-24-50" style="--pulse-height:67%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -31,7 +31,7 @@ _Type: Dates_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-2nd-t-00-13-38) | 1 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-45) | 3 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-58) | 3 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-2nd-t-00-24-50) | 2 |
 
 </details>
@@ -56,14 +56,14 @@ _Type: Dates_
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
 
-**[00:20:19](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-45)**
+**[00:20:17](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-19-58)**
 > "...too quickly. And Charlie (Charlie Kirk) set about finding out why and how this was happening. So on September 2nd, which is, of course, just one week before he lost his life, Charlie (Charlie Kirk) surprised the c..."
 
-**[00:21:13](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-21-13)**
+**[00:21:13](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-20-42)**
 > "... in his own words. This was an internal memo that went out, signed off by Charlie (Charlie Kirk) on September 2nd. I'm gonna skip to the relevant portions. He's first and foremost announcing that, "Dear Team Ameri..."
 
-**[00:21:38](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-21-13)**
-> "...ortions. He's first and foremost announcing that, "Dear Team America, effective immediately, again, September 2nd, Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TP..."
+**[00:21:26](/episodes/ep-K5GjF53bfN4.md#ent-date-september-2nd-t-00-21-26)**
+> "I'm gonna skip to the relevant portions. He's first and foremost announcing that, "Dear Team America, effective immediately, again, September 2nd, Justin Streiff is taking on a new elevated role with Turning Point USA as its COO."
 
 </details>
 

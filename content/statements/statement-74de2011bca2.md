@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:45:07](/episodes/ep-1mYNOqzAdXs.md#t-00-44-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2707);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2707s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They are just trying to make this fit. They are corrupt. They know they don't have a case. They want to bring back old FBI tactics that were. that were first put in place after JFK was shot because they lied about that as well. And this is that all over again.
 

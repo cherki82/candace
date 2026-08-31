@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:51:21](/episodes/ep-d7VsbEIWkP8.md#t-00-51-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3081);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=3081s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > genocide going on. ... speak will not favor the genocide that you are behind.
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:17:00](/episodes/ep-jsqUIkszZd0.md#t-00-16-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1020);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, he openly admits that he punches holes in the walls of his house about once a year, and he tells his wife and his kids not to cover it up so that people can see what he's done when they come over. ... He also openly states that he himself struggles with suicidal and homicidal tendencies.
 

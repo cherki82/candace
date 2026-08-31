@@ -6,6 +6,11 @@ date: "2024-07-01"
 ---
 
 **Date:** 2024-07-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 1st of 2024”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2024-07-01"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:01:33](/episodes/ep-HZvwbfePe7o.md#event-event-2024-07-01-deidre-amaros-tenure-as-utah-chief-medic-t-00-01-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(93);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=93s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Her tenure began July 1st of 2024, and now we can exclusively report

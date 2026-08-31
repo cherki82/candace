@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:35:03](/episodes/ep-cPidFQDJLbo.md#t-00-35-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2103);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=2103s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The defense still has not received their discovery requests. ... So what they are saying is if we must go through with this preliminary hearing, if you are insisting that this has to happen and we are not going to receive our discovery requests. ... Then you should seal the quote-unquote evidence in case it becomes inadmissible down the line.
 

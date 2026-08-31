@@ -1,8 +1,8 @@
 ---
-title: "CNN exit poll of about 4,700 people coming out."
-description: "\"CNN exit poll of about 4,700 people coming out.\" — Candace Owens"
+title: "The CNN exit poll surveyed about 4,700 people leaving pollin..."
+description: "\"The CNN exit poll surveyed about 4,700 people leaving polling places.\" — Mark (Candace show producer; surname unverified)"
 statement_id: "statement-edc5d4e280fb"
-speaker: "Candace Owens"
+speaker: "Mark (Candace show producer; surname unverified)"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,25 @@ type: "factual_claim"
 
 ## Statement
 
-> CNN exit poll of about 4,700 people coming out.
+> The CNN exit poll surveyed about 4,700 people leaving polling places.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Mark (Candace show producer; surname unverified)](/entities/person-mark-candace-show-producer.md) (Guest)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [CNN](/entities/org-cnn.md) (org)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:15:00](/episodes/ep-LATnak75Si0.md#t-00-14-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(900);return false;">Play</a>
+**Timestamp:** [00:15:00](/episodes/ep-LATnak75Si0.md#t-00-14-38) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=900s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> This is according to a CNN exit poll of about 4,700 people coming out
+> This is according to a CNN exit poll of about 4,700 people coming out.
 
 ## Verification
 

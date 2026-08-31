@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:41:46](/episodes/ep-Ux1kzgQxkws.md#t-00-41-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2506);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2506s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've never sold a painting nor offered a painting for a half a million dollars in my frigging life.
 

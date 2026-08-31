@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:17:27](/episodes/ep-VMNWMXX1vO8.md#t-00-16-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1047);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1047s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's the reason why Terrell (Terrell Farnsworth) had to scramble to get the cameras down, because they were never supposed to see it. ... Again, this is my theory, and I am now very much sticking to it. Okay, they panicked.
 

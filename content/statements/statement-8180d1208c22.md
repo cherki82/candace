@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2493);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, unlike many branches of Christianity, this is in the article, the Catholic Church does not demand that the faithful be committed Zionists to receive God's blessing.
 

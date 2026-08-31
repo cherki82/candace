@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:01:16](/episodes/ep-jsqUIkszZd0.md#t-00-00-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(76);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=76s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning point faith was the infiltration. How many times have you heard me say that over and over again?
 

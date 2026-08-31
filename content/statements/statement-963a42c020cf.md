@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:16:03](/episodes/ep-c5BcKF91iec.md#t-00-15-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(963);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=963s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The point is that I hit college campuses with Charlie Kirk for six years. I don't believe that there was a single living, breathing person who has spoken at more college campuses alongside Charlie Kirk than me.
 

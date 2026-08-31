@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:09:59](/episodes/ep-SubDoZWHARo.md#t-00-09-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(599);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=599s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > safety. The event venue itself was fine, especially once VP was on site, but it was the travel portion that was the chief concern, the official tells the Daily Wire.
 

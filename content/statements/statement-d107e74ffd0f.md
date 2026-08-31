@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:36:57](/episodes/ep-AH1KVKkweUE.md#t-00-36-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2217);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Admit you were wrong, apologize, remove our ties from Israel, stop funding that demonic pedophilic state of Baal, close the chapter on that and try actually being the president of the United States for like a day. ... We get a day as opposed to the president of Israel. Can we get like a day?
 

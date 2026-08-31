@@ -28,7 +28,7 @@ type: "promise"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:27:10](/episodes/ep-_vg7ucP1E0g.md#t-00-26-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1630);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1630s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will find out who in Kanye's (Kanye West's) circle knew Erika (Erika Kirk) when that tweet went out. I will find out. I will call Ye (Kanye West), and I will find out.
 

@@ -128,7 +128,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 > "And it involved, here we go, Africa, Angola in particular, Israel, France, and the Un..."
 
 **[00:12:44](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-12-44)**
-> "...at were being trafficked into Africa, and this scandal came to be known as Angola Gate..."
+> "arms trafficking, okay, weapons that were being trafficked into Africa, and this scandal came to be known as Angolagate."
 
 **[00:13:16](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-12-44)**
 > "...ved when stuff is going on in Africa."

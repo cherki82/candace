@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:14:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(860);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=860s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you think that MKUltra ever stopped, I hope that the Epstein files and the stunning defense of the Epstein files from our quote-unquote elites helped to shatter that illusion for you.
 

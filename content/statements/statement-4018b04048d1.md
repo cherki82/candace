@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:10:32](/episodes/ep-WoXd4oLwd3w.md#t-00-10-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(632);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=632s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, so if Dan (Dan Bongino), if the president could be called and could be told to instruct you to release more information, then there's more information that the president is aware has not been released to the public. That's everything Tucker (Tucker Carlson) just said.
 

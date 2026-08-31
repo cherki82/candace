@@ -7,7 +7,7 @@ type: "promise"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:59:04](/episodes/ep-KpxIBWkNsSs.md#t-00-59-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3544);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=3544s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do think we are going to do a website so you guys can read the documents yourselves and read all the messages and the timeline that I created of how everything went down.
 

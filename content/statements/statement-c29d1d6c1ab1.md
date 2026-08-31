@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:24:36](/episodes/ep-7ERqbYElOfs.md#t-00-24-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1476);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Erika Kirk's personal security guard, Derek Neukirk. What are the four of them doing together? They only stayed for a couple of hours and then they returned to Scottsdale.
 

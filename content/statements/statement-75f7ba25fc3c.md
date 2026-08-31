@@ -1,6 +1,6 @@
 ---
-title: "that is very suspect. Like I said, it's starting to feel lik..."
-description: "\"that is very suspect. Like I said, it's starting to feel like a government signature a little bit, right?\" — Candace Owens"
+title: "Owens said recent bullet-casing etchings were very suspect a..."
+description: "\"Owens said recent bullet-casing etchings were very suspect and were starting to feel like a government signature.\" — Candace Owens"
 statement_id: "statement-75f7ba25fc3c"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> that is very suspect. Like I said, it's starting to feel like a government signature a little bit, right?
+> Owens said recent bullet-casing etchings were very suspect and were starting to feel like a government signature.
 
 ## Attribution
 
@@ -19,13 +19,17 @@ type: "opinion"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [the federal government](/entities/org-the-federal-government.md) (org)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:43:27](/episodes/ep-K5GjF53bfN4.md#t-00-42-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2607);return false;">Play</a>
+**Timestamp:** [00:43:41](/episodes/ep-K5GjF53bfN4.md#t-00-43-32) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=2621s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Like I said, it's starting to feel like a government signature a little bit, right?
+> Indeed, Ben (Ben Auten), indeed. You and Thistle (viewer screen name) both agree that that is very suspect. ... Like I said, it's starting to feel like a government signature a little bit, right?
 
 ## Verification
 

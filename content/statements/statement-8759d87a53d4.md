@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:00:28](/episodes/ep-X92MllIHDzw.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(28);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=28s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you Erika disputes that narrative.
 

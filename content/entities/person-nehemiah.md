@@ -3,9 +3,18 @@ title: "Nehemiah"
 description: "Nehemiah (People) - 4 mentions"
 id: "person-nehemiah"
 type: "PERSON"
+categories:
+  - "biblical figure"
+  - "religion"
 ---
 
 _Type: People_
+
+**Categories:** biblical figure, religion
+
+**Entity verification:** verified
+> The New American Bible introduction to the Book of Nehemiah identifies Nehemiah as governor of Judah who rebuilt Jerusalem’s walls, matching the episode’s wall-building reference.
+Source: [The Book of Nehemiah | New American Bible, Revised Edition](https://www.biblegateway.com/passage/intro/?search=Nehemiah&version=NABRE)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-nehemiah-t-00-07-51">2025-12-10 · 00:07:56</a></strong></div>
@@ -47,7 +56,7 @@ _Type: People_
 **[00:08:02](/episodes/ep-6DhWawD4ZiM.md#ent-person-nehemiah-t-00-07-51)**
 > "...the base of that hill saying, Nehemiah, calling him all these names, saying all these th..."
 
-**[00:08:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-nehemiah-t-00-07-51)**
+**[00:08:48](/episodes/ep-6DhWawD4ZiM.md#ent-person-nehemiah-t-00-07-51)**
 > "It reminds me so much of chapter 6 in the book of Nehemiah"
 
 **[00:27:36](/episodes/ep-6DhWawD4ZiM.md#ent-person-nehemiah-t-00-27-13)**

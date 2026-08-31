@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:18:05](/episodes/ep-YaZfwLQ7vrI.md#t-00-17-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1085);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=1085s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they wind up doing things that are more New Age-y or more even occult-like than they are Christian. The occult—and that is correct.
 

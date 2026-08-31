@@ -23,14 +23,16 @@ type: "accusation"
 ## About
 
 - [El Chapo](/entities/person-el-chapo.md) (person)
+- [United States Border Patrol](/entities/org-us-border-patrol.md) (org)
+- [Joint Task Force Six](/entities/org-joint-task-force-six.md) (org)
 
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:09:08](/episodes/ep-t4U7NjnUEgc.md#t-00-08-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(548);return false;">Play</a>
+**Timestamp:** [00:09:08](/episodes/ep-t4U7NjnUEgc.md#t-00-09-08) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=548s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> where our Joint Task Commander, who was a high-ranking Border Patrol, was actually in the photos in that house posing with El Chapo (El Chapo) and Felipe, his architect, and there were other U.S. Marine officers and Mexican law enforcement officers and military that were in those photos, okay, end quote.
+> where our Joint Task Commander, who was a high-ranking Border Patrol, was actually in the photos in that house posing with El Chapo and Felipe (architect; surname unverified), his architect, and there were other U.S. Marine officers and Mexican law enforcement officers and military that were in those photos, okay, end quote.
 
 ## Verification
 

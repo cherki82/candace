@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:21:29](/episodes/ep-iHav0PPzUz8.md#t-00-21-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1289);return false;">Play</a>
+**Timestamp:** [00:21:29](/episodes/ep-iHav0PPzUz8.md#t-00-21-13) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "Kash Patel shuts down Charlie (Charlie Kirk) foreign intelligence probe in an explosive feud with Trump's counter-terror chief." It really makes you wonder what Kash Patel is hiding
 

@@ -7,6 +7,7 @@ time: "08:00"
 ---
 
 **Date:** 2025-09-12 at 08:00
+**Date precision:** Day
 
 ## Event
 
@@ -17,15 +18,15 @@ time: "08:00"
 ### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:27:38](/episodes/ep-2WEHTk0Xewg.md#event-event-2025-09-12-governor-cox-press-conference-declares-we-got-him-t-00-07-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1658);return false;">▶️ Play</a>
+**Timestamp:** [00:27:33](/episodes/ep-2WEHTk0Xewg.md#event-event-2025-09-12-governor-cox-press-conference-declares-we-got-him-t-00-27-33) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1653s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> t second suspect is wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press conference began at 5:30 p.m.—mentions that the second suspect, who is a person of interest
+> Okay, and here is what the governor is then—two hours later is when his press conference began.
 
 ### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:27:33](/episodes/ep-2WEHTk0Xewg.md#event-event-2025-09-12-governor-cox-press-conference-declares-we-got-him-t-00-07-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1653);return false;">▶️ Play</a>
+**Timestamp:** [00:31:15](/episodes/ep-2WEHTk0Xewg.md#event-event-2025-09-12-governor-cox-press-conference-declares-we-got-him-t-00-27-33) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1875s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> don't know what that second suspect is wearing until 5:30 p.
+> Good morning, ladies and gentlemen. We got him. This is a very sad day again for our country

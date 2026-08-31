@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:23:59](/episodes/ep-eLgD5yUVbko.md#t-00-23-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers
 

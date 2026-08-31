@@ -25,15 +25,15 @@ veracity: "true"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:27:30](/episodes/ep-JQjCAsfoXEE.md#t-00-26-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1650);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1650s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation. I didn't just learn that; I actually
 
 ### 2. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:06:44](/episodes/ep-581dILVcEE4.md#t-00-06-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(404);return false;">Play</a>
+**Timestamp:** [00:06:44](/episodes/ep-581dILVcEE4.md#t-00-06-15) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These are our five plates as follows: a white 2025 Toyota Camry. This had an Arizona license plate, and that number is CWN—like Nancy—9872, okay?
 

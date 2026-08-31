@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:18:16](/episodes/ep-ds6umq1rHAw.md#t-00-18-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1096);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1096s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > certainly fatal dose we then learned that he suffered from malnutrition and he was covered in bed sores while his kidneys were damaged his other internal organs including his brain which had no visible damage or illnesses were deemed perfectly healthy x-rays revealed five broken off hypodermic needles needles that were inside the flesh of his arms when he died in 1976 his body was so thin that observers likened him to a captive from a japanese prisoner of war camp.
 

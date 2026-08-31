@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:42:12](/episodes/ep-k8ueJdPFel4.md#t-00-42-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2532);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=2532s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One, I'm not an agent of foreign power. Unlike a lot of people commenting on U.S. politics and global affairs, I have only one loyalty and that's the United States and have never acted against it. ... So that's not a concern. I've also never taken money from anybody, don't need it, don't want it, and that's provable.
 

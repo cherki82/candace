@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:16:29](/episodes/ep-G3zdOeHpvS0.md#t-00-16-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(989);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=989s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And here you can see that Philip Goldsberry secured it under Charlie (Charlie Kirk)'s shirt next to the necklace.
 

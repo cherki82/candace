@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(607);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=607s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They sued me for allowing a survivor to tell his story and they were making it a psychic argument that I put him up to it like I could ever be so disgusting as to manipulate a man to say something so that I could like I mean it was and then I had to actually call Phil after this and say I'm going to court.
 

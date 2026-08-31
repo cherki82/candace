@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:16:15](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(975);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=975s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this person claims that it was corrupt pastors, evangelical pastors, that wanted him out and wanted to put an end to the Falkirk Center.
 

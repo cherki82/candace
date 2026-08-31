@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:44:12](/episodes/ep-1CFDtD0IgEg.md#t-00-43-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2652);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2652s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He claimed that the Iranian resistance has hidden crude weaponry and tools throughout the country, bricks, rocks, wooden clubs, chairs and tires used to block roads, waiting for the day that the people once again take to the streets. ... Well, they're not going to come out armed if we don't arm them. Now let's arm them!
 

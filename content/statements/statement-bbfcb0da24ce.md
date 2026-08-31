@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:29:09](/episodes/ep-QRS_hR7NXaQ.md#t-00-28-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1749);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1749s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I am starting to look at Charlie (Charlie Kirk)'s schedule because Charlie (Charlie Kirk) came back from Korea. And Tokyo, his trip, very late, almost early morning on September 8th, very late on the 7th. We know when he landed into California and then continued on to Arizona.
 

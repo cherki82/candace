@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:13:14](/episodes/ep-aDlhjfW6hz8.md#t-00-12-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(794);return false;">Play</a>
+**Timestamp:** [00:13:14](/episodes/ep-aDlhjfW6hz8.md#t-00-12-58) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=794s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have much more trust in the people than I do in the feds. The feds are lying about everything, so they should not be the only people that have access to this.
 

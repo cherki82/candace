@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:20:31](/episodes/ep-mLvJqdxS-FY.md#t-00-20-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1231);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=1231s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well Left behind by a bystander or according to your notes at page 20, the backpack belongs to Kirk's detainees. ... Yes, based on the individual that, that was not my communication log, that was someone else within the laboratory, that was the information that they received.
 

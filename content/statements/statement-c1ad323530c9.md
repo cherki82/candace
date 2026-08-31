@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:28:05](/episodes/ep-NIEbqsLAK8g.md#t-00-27-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1685);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1685s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The lawyer in this letter says the following, there was no discrepancy. UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage.
 

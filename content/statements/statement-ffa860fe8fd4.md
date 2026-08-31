@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:21:29](/episodes/ep-k8ueJdPFel4.md#t-00-21-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1289);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=1289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I said, just like her father was. And Charlie (Charlie Kirk) wrote back and said, disgrace. They are a disgraceful family, a disgraceful family. ... For the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas.
 

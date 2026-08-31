@@ -1,6 +1,6 @@
 ---
 title: "Freedom of Information Act"
-description: "Freedom of Information Act (Laws & Legislation) - 57 mentions"
+description: "Freedom of Information Act (Laws & Legislation) - 64 mentions"
 id: "law-freedom-of-information-act"
 type: "LAW"
 aliases:
@@ -23,8 +23,8 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27">2025-10-06 · 00:26:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-44-42">2026-06-26 · 00:45:17</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,10 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 <p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-law-freedom-of-information-act-t-00-00-41">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27" style="--pulse-height:25%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-law-freedom-of-information-act-t-00-52-19" style="--pulse-height:38%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-law-freedom-of-information-act-t-00-27-49" style="--pulse-height:25%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-law-freedom-of-information-act-t-00-20-09" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-law-freedom-of-information-act-t-00-08-21" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-law-freedom-of-information-act-t-00-14-09" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-law-freedom-of-information-act-t-00-26-13" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-law-freedom-of-information-act-t-00-00-01" style="--pulse-height:12%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
@@ -56,6 +60,10 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27) | 2 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-law-freedom-of-information-act-t-00-52-19) | 3 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-law-freedom-of-information-act-t-00-27-49) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-law-freedom-of-information-act-t-00-20-09) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-law-freedom-of-information-act-t-00-08-21) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-law-freedom-of-information-act-t-00-14-09) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-law-freedom-of-information-act-t-00-26-13) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-law-freedom-of-information-act-t-00-00-01) | 1 |
@@ -77,7 +85,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
@@ -308,6 +316,47 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 
 **[00:14:09](/episodes/ep-QRS_hR7NXaQ.md#ent-law-freedom-of-information-act-t-00-14-09)**
 > "there was this still never quite explained FOIA request"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:08:40](/episodes/ep-ewBzjVe3LNQ.md#ent-law-freedom-of-information-act-t-00-08-21)**
+> "...tah news that they didn't say FOIA."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:20:36](/episodes/ep-9k2xrAC0H88.md#ent-law-freedom-of-information-act-t-00-20-09)**
+> "...do we get that? Do we have to FOIA? I don't know."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:27:49](/episodes/ep-t4U7NjnUEgc.md#ent-law-freedom-of-information-act-t-00-27-49)**
+> "... he believes that this can be FOIA requested."
+
+**[00:32:00](/episodes/ep-t4U7NjnUEgc.md#ent-law-freedom-of-information-act-t-00-31-42)**
+> "...ody knows the quickest way to FOIA requests that stuff."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
+
+**[00:52:35](/episodes/ep-JQjCAsfoXEE.md#ent-law-freedom-of-information-act-t-00-52-19)**
+> "...hen I learned that anyone can FOIA all Flock license plate cameras, locations, and d..."
+
+**[00:52:48](/episodes/ep-JQjCAsfoXEE.md#ent-law-freedom-of-information-act-t-00-52-19)**
+> "Can you FOIA all Flock license plate cameras?"
+
+**[00:53:10](/episodes/ep-JQjCAsfoXEE.md#ent-law-freedom-of-information-act-t-00-53-03)**
+> "So we'll see if we can FOIA that information."
 
 </details>
 

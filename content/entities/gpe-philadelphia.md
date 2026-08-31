@@ -3,11 +3,20 @@ title: "Philadelphia"
 description: "Philadelphia (Places) - 2 mentions"
 id: "gpe-philadelphia"
 type: "GPE"
+categories:
+  - "United States city"
+  - "Pennsylvania"
 ---
 
 _Type: Places_
 
+**Categories:** United States city, Pennsylvania
+
 > **Possibly overlapping entity records:** [Philadelphia, Pennsylvania](/entities/gpe-philadelphia-pennsylvania). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> The official City of Philadelphia website confirms the canonical city name; the transcript identifies a restaurant location in Philadelphia.
+Source: [City of Philadelphia](https://www.phila.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-philadelphia-t-00-14-52">2025-09-11 · 00:15:22</a></strong></div>

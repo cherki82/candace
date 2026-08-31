@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Coming soon...](/episodes/ep-LKR94FQ5p3o.md)
 **Timestamp:** [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=LKR94FQ5p3o&t=6s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The great and even legendary Charlie Kirk is dead.
 

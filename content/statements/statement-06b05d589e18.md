@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:39:40](/episodes/ep-kaWtDuoY_ns.md#t-00-39-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2380);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2380s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Laura (Laura Loomer) is actually forbidden to own weapons. She cannot buy weapons. She cannot own them because she was placed on two involuntary psychiatric holds by her own father, who allegedly is very fearful of her because she has had multiple suicide attempts. ... recently to file an appeal with the FBI to reverse the banning on her owning weapons and they declined to remove it, citing the fact that she had been involuntarily placed on psychiatric holds.
 

@@ -28,7 +28,7 @@ Source: [Incyte chooses to grow in Delaware — City of Wilmington](https://www.
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -76,18 +76,6 @@ Source: [Incyte chooses to grow in Delaware — City of Wilmington](https://www.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Headquarters Of (1)</summary>
-
-- **[Insight](/entities/org-insight.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:24](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): “...that's Bridge Complex, which is supposed to house Insight headquarters...”
-
-</details>
-
-</details>
-
-<details>
 <summary>Owned By (1)</summary>
 
 - **[Incyte](/entities/org-incyte.md)**
@@ -100,14 +88,7 @@ Source: [Incyte chooses to grow in Delaware — City of Wilmington](https://www.
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Insight](/entities/org-insight.md)** headquartered in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:24](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): “...that's Bridge Complex, which is supposed to house Insight headquarters...”
-
-</details>
+<summary>Referenced By (1)</summary>
 
 - **[Incyte](/entities/org-incyte.md)** owns this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:58:26](/episodes/ep-QdM9jLwjwLw.md#t-00-58-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3506);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=3506s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > after she got caught red-handed and everything i'm learning from the employees right now like she was very much involved in a lot of the pr stuff she i assumed everyone was just doing things and she was gathering herself and she was like at home in the ... home in the fetal condition nope she was in the office every day and she was making informed decisions alongside Stacy Sheridan and this Marina Minas
 

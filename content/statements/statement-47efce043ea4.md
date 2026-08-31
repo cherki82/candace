@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(160);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=160s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me,
 

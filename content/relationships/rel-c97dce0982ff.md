@@ -15,7 +15,7 @@ object: "person-charlie-kirk"
 
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 
-- [00:13:16](/episodes/ep-JQjCAsfoXEE#t-00-13-16): _Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie Kirk,_
+- [00:13:16](/episodes/ep-JQjCAsfoXEE#t-00-13-16): _Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 

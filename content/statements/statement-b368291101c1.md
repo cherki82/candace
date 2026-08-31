@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:01:00](/episodes/ep-adJ4LNGp84I.md#t-00-00-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(60);return false;">Play</a>
+**Timestamp:** [00:01:00](/episodes/ep-adJ4LNGp84I.md#t-00-00-24) 
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=60s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have now confirmed that there was indeed a woman who was with the shooter in the footage that was captured by the houses nearby the area
 

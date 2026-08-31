@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:12:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4355);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4355s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > oh, that's the name of the game. ... Like that's what the CIA is doing. ... They are trafficking human beings. This is what they are involved in.
 

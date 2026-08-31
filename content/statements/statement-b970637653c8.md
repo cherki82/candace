@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:19:29](/episodes/ep-5-HUyv9LyMg.md#t-00-19-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1169);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=1169s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Born in California in 1919, the article tells us David Berg had a very turbulent life, one that included incestuous sexual relations with a cousin and even one of his daughters, Faithy, whom he made into a sexual partner when she reached the age of 12.
 

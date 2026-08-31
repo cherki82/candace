@@ -1,22 +1,34 @@
 ---
-title: "Stacey Sheridan works for Turning Point USA"
-description: "Evidence for the relationship: Stacey Sheridan works for Turning Point USA"
+title: "Stacy Sheridan works for Turning Point USA"
+description: "Evidence for the relationship: Stacy Sheridan works for Turning Point USA"
 relationship_id: "rel-ee1aef824cbe"
-subject: "person-stacey-sheridan"
+subject: "person-stacy-sheridan"
 predicate: "works for"
 object: "org-turning-point-usa"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Stacey Sheridan](/entities/person-stacey-sheridan) works for [Turning Point USA](/entities/org-turning-point-usa)
+## [Stacy Sheridan](/entities/person-stacy-sheridan) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (4 mentions)
+### Evidence (7 mentions)
+
+**[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
+
+- [00:25:04](/episodes/ep-A39g5oqB_eM#t-00-25-04): _She was in the office every day with Stacey Sheridan, ... taking phone calls with Stacey Sheridan. That's like the head of the fundraising for Turning Point USA._
+
+**[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
+
+- [00:13:50](/episodes/ep-QdM9jLwjwLw#t-00-13-50): _Saying Stacy (Stacy Sheridan), ... who is the head of fundraising for Turning Point USA,_
+
+**[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
+
+- [00:21:03](/episodes/ep-Wjul6YV6izo#t-00-21-03): _they would have known everything about you that's how they work before everyone is seated stacy sheridan's job literally is to know everything about that person their net worth she she'll know your dad's net worth your mom's net worth she would tell charlie she whispered in charlie's ear that person and then charlie would go have the conversation that was the whole reason they brought her on that's what stacy's brilliant at_
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:12:14](/episodes/ep-a-e7HC6SeK8#t-00-12-14): _...That's Stacey Sheridan of Turning Point USA... Stacey, by the way, is the senior advancement director at Turning Point USA._
-- [00:13:23](/episodes/ep-a-e7HC6SeK8#t-00-13-23): _Stacey, by the way, is the senior advancement director at Turning Point USA_
+- [00:12:14](/episodes/ep-a-e7HC6SeK8#t-00-12-14): _That's Stacey Sheridan (Stacey Sheridan) of Turning Point USA._
+- [00:13:23](/episodes/ep-a-e7HC6SeK8#t-00-13-23): _Stacey (Stacey Sheridan), by the way, is the senior advancement director at Turning Point USA._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 
@@ -25,5 +37,5 @@ object: "org-turning-point-usa"
 
 ### Related
 
-- [Stacey Sheridan](/entities/person-stacey-sheridan)
+- [Stacy Sheridan](/entities/person-stacy-sheridan)
 - [Turning Point USA](/entities/org-turning-point-usa)

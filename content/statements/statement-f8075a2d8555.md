@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:29:29](/episodes/ep-qZ8RWfyuewQ.md#t-00-29-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1769);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1769s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Evan Hill, who is an investigative reporter for The Washington Post, wrote on his X that a Secret Service officer fired four times at Nicole Allen and in the direction of other security personnel. ... a post review of surveillance footage has been found has found that there was no indication on the foot. ... on the footage that Allen fired his weapon.
 

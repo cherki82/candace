@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:52:11](/episodes/ep-i8m_6D4QGmk.md#t-00-51-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3131);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3131s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Voilà. No American son or daughter should die for Israel. Goyim, stand down. Go home. Find the legal means to exit the military because there are legal means you can exit the military. ... You can, in fact, conscientiously object to military service. Military men, in case you didn't know, swear an oath to defend the Constitution of the United States of America.
 

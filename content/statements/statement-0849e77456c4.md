@@ -1,8 +1,8 @@
 ---
-title: "Bruce Bevins is the most evil man that she had ever met"
-description: "\"Bruce Bevins is the most evil man that she had ever met\" — Anonymous Source #3 (Ep ewBzjVe3LNQ)"
+title: "Bruce Bevins was, quote, the most evil man the student had e..."
+description: "\"Bruce Bevins was, quote, the most evil man the student had ever met\" — Distressed Fort Huachuca military student (identity unverified)"
 statement_id: "statement-0849e77456c4"
-speaker: "Anonymous Source #3 (Ep ewBzjVe3LNQ)"
+speaker: "Distressed Fort Huachuca military student (identity unverified)"
 type: "opinion"
 ---
 
@@ -10,15 +10,15 @@ type: "opinion"
 
 ## Statement
 
-> Bruce Bevins is the most evil man that she had ever met
+> Bruce Bevins was, quote, the most evil man the student had ever met
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #3 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-003.md) (Anonymous Source)
+**Speaker:** [Distressed Fort Huachuca military student (identity unverified)](/entities/anon-src-ewBzjVe3LNQ-distressed-military-student.md) (Anonymous Source)
 
-**Delivery:** Read from message
+**Delivery:** Quoted from document
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** email
+**Original Source:** Email from Sierra Vista gym owner
 
 ## About
 
@@ -27,15 +27,15 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:15:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(958);return false;">Play</a>
+**Timestamp:** [00:15:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-18) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=958s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This young woman described Bruce (Bruce Bevins) as, quote, the most evil man that she had ever met.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

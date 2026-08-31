@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:44:30](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2670);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=2670s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can't even believe that he's authoring this. First off, Blake (Blake Neff), I could show you text messages that turning your phone off on Saturday I was doing first and telling Charlie (Charlie Kirk) he should do before anybody.
 

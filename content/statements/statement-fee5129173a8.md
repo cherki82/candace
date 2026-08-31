@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:49:08](/episodes/ep-_vg7ucP1E0g.md#t-00-48-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2948);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=2948s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she's just a fundamentally dishonest person who should not be at the helm of that company or any company.
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(130);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=130s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I was wrong. It was not flying at that time. The Charlie Kirk show was hosted in its entirety before that plane took off from Santa Barbara to Scottsdale at 1228 Mountain Time.
 

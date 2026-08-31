@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:47:04](/episodes/ep-sreYYcID-QY.md#t-00-46-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2824);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2824s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You're suing me because you're saying, "Well, you said I stole the identity from my sister." I'm not a thief
 

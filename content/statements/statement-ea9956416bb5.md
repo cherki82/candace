@@ -26,8 +26,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-25-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1510);return false;">Play</a>
+**Timestamp:** [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-24-44) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=1510s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have been wondering why Dan (Dan Bongino) has been silent, I would say effectively silent on the Charlie Kirk situation. He has not been a part of the people that have been feeding us trash.
 

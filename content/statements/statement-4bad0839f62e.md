@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:58:09](/episodes/ep-mLvJqdxS-FY.md#t-00-57-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3489);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=3489s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He specifically laid out the Jews in Hollywood that were toying with his life, similar to what Kanye (Kanye West) said when he tweeted that, but there were specific Jews in his life that were doing things to him.
 

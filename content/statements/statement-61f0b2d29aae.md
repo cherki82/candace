@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:02:42](/episodes/ep-YeEtS7nix3o.md#t-01-02-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3762);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3762s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > donors and turning point employees who were present all remember the question being asked, but they remember Charlie answering and saying that the board would figure it out. ... And also sharing some sentiment about Steve Jobs, which Erika confirmed and how he trusted his lieutenants to figure it out.
 

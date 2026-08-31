@@ -6,6 +6,11 @@ date: "2025-09-08"
 ---
 
 **Date:** 2025-09-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 8th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-08"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:39:32](/episodes/ep-uC_GjKU8rs8.md#event-event-2025-09-08-candace-owens-said-show-faith-by-works-h-t-00-39-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2372);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2372s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Show Faith by Works LLC was initially contracted by Havos Media on September 8th

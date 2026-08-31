@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:17:45](/episodes/ep-AH1KVKkweUE.md#t-00-17-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1065);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=1065s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > More importantly, why is Officer Bagley (Chris Bagley) seemingly running cover for this rookie? ... Seemingly. Allegedly. ... Kind of makes me think that this guy is maybe more important than Officer Bagley (Chris Bagley) is letting on.
 

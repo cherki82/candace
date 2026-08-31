@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:06:38](/episodes/ep-YFmRH8p5lt0.md#t-00-06-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(398);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=398s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's about 12 to 16 passengers. And tail number SUBTT. That's gonna be our main one. That's our Falcon 7X.
 

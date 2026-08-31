@@ -6,25 +6,19 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
 
 ## Event
 
 > Allegation that Justin Strife placed an immediate phone call to a donor prospect after the assassination.
 
-## Mentioned In (2 times)
-
-### 1. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+## Mentioned In
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:27:29](/episodes/ep-a-e7HC6SeK8.md#t-00-26-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1649);return false;">▶️ Play</a>
+**Timestamp:** [00:27:49](/episodes/ep-a-e7HC6SeK8.md#t-00-27-29) 
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=1669s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> family vacation. And Mikey's capturing these last videos tha
+> They said that Justin had placed an immediate call to a donor prospect.
 
-### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1496);return false;">▶️ Play</a>
-
-> the email asking for a DOJ audit of his company. And he anno
+> **Date stated in this source:** “the day of Charlie's assassination”
+> **Date review note:** The transcript anchors the reported call to the September 10, 2025 assassination.

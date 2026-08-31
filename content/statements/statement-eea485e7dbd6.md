@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2351);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2351s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The person said, first and foremost, this was filmed, which we have already told you, and they've said two weeks ago or weeks leading up to it in Fayetteville, Georgia. There were actually only 180 people in the audience and they used camera tricks to make it look like it was really filled. They were just moved around the room to make it look more full
 

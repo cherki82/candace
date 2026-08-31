@@ -15,7 +15,7 @@ object: "person-rob-mccoy"
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
-- [00:56:56](/episodes/ep-2WEHTk0Xewg#t-00-56-56): _Rob McCoy. He wrote: Charlie Kirk was my friend, and I was his pastor_
+- [00:56:53](/episodes/ep-2WEHTk0Xewg#t-00-56-53): _Charlie (Charlie Kirk) was my friend, and I was his pastor._
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 

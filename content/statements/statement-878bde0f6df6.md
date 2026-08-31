@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:47:30](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2850);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=2850s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Family values public promotion and endorsements above all else. Brand Beckham comes first. Family love is decided by how much you post on social media or how quickly you drop everything to show up and post for a family photo, even if it's at the expense of our professional obligations.
 

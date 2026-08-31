@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:03:29](/episodes/ep-zSKrxIUMNqw.md#t-00-03-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(209);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=209s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ben (Ben Shapiro) was not a friend of Charlie Kirk. ... Ben (Ben Shapiro) got to work behind the scenes trying to complicate and stop Charlie (Charlie Kirk)'s rise and my rise.
 

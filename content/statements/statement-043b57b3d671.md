@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:24:00](/episodes/ep-tXoI0TTKVrs.md#t-00-24-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1440);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1440s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We know that this is deep state. We know that we are looking at an assassination akin to JFK. And we know that the subject matter is Israel.
 

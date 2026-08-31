@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:15:40](/episodes/ep-4DvYXBn_5JI.md#t-00-15-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(940);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=940s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > one detail, she writes, that has never been publicly clarified is who actually made the first 911 call and from where that call was placed. ... The caller's identity, the type of device used, and the precise location the call originated from. ... have never been publicly disclosed.
 

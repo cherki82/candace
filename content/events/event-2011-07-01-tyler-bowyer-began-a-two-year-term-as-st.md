@@ -6,6 +6,11 @@ date: "2011-07-01"
 ---
 
 **Date:** 2011-07-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 1st, 2011”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2011-07-01"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:15:15](/episodes/ep-y8lak3CRwDw.md#event-event-2011-07-01-tyler-bowyer-began-a-two-year-term-as-st-t-00-15-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(915);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=915s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It begins a two-year term beginning on July 1st. Oh, that's interesting.

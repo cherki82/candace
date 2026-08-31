@@ -1,6 +1,6 @@
 ---
-title: "Charlie is not the only one who's been threatened or was thr..."
-description: "\"Charlie is not the only one who's been threatened or was threatened to cut ties with you or not platform you\" — Megyn Kelly"
+title: "Megyn Kelly said Charlie Kirk was not the only person who ha..."
+description: "\"Megyn Kelly said Charlie Kirk was not the only person who had been threatened to cut ties with Tucker Carlson or deny him a platform.\" — Megyn Kelly"
 statement_id: "statement-cd51e36c65c0"
 speaker: "Megyn Kelly"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie is not the only one who's been threatened or was threatened to cut ties with you or not platform you
+> Megyn Kelly said Charlie Kirk was not the only person who had been threatened to cut ties with Tucker Carlson or deny him a platform.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:52:17](/episodes/ep-2WEHTk0Xewg.md#t-00-52-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3137);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=3137s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) is not the only one who's been threatened or was threatened to cut ties with you or not platform you.
 

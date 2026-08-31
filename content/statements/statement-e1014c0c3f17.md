@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:08:42](/episodes/ep-_cNtgris8Ik.md#t-00-08-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(522);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=522s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's dead. Within two minutes, within two minutes approximately of Charlie getting hit, Terrell knew that Charlie was dead.
 

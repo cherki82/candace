@@ -6,25 +6,19 @@ date: "2024-02-15"
 ---
 
 **Date:** 2024-02-15
+**Date precision:** Day
 
 ## Event
 
 > Jared Kushner speaks at Harvard about Gaza future
 
-## Mentioned In (2 times)
-
-### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
+## Mentioned In
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:49:10](/episodes/ep-pc3pxRyNFZk.md#t-00-49-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2950);return false;">▶️ Play</a>
+**Timestamp:** [00:49:02](/episodes/ep-pc3pxRyNFZk.md#t-00-48-52) 
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=2942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> peace. At the center of it was Steve Witkoff and Jared Kushner. They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas, and the mediators from Qatar a
+> to speak about their aim. This is February 15th, 2024.
 
-### 2. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
-
-**Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:47:28](/episodes/ep-pc3pxRyNFZk.md#t-00-46-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2848);return false;">▶️ Play</a>
-
-> peace. At the center of it was Steve Witkoff and Jared Kushner. They arrived on Wednesday morning to represent the US negotiators from Israel and
+> **Date stated in this source:** “February 15th, 2024”
+> **Date review note:** Transcript wording matches the canonical exact date.

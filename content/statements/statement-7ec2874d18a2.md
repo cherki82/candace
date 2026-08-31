@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:35:21](/episodes/ep-DYD_QHMPwqM.md#t-00-35-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2121);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=2121s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Was somebody on it communicating? That would be a pretty obvious thing to do if you don't want your communications to be tracked. You get on a foreign plane and communicate that way.
 

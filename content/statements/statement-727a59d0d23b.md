@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:11:32](/episodes/ep-5zgkrOaCCj4.md#t-00-11-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(692);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=692s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It would suggest heavily that Lance (Lance Twiggs) is left-hand dominant. Maybe he's ambidextrous, I don't know, but I've seen enough photos now to go, yeah, I think he's left-handed.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Coming soon...](/episodes/ep-LKR94FQ5p3o.md)
 **Timestamp:** [00:00:46](/episodes/ep-LKR94FQ5p3o.md#t-00-00-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(46);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=LKR94FQ5p3o&t=46s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have 50,000-plus hat orders.
 

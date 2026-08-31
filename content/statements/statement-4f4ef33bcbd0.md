@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:33:55](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2035);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2035s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I learned when I was out in Arizona last week that two weeks before Charlie Kirk was assassinated, the far-left website Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 

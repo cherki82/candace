@@ -7,6 +7,11 @@ time: "13:30"
 ---
 
 **Date:** 2025-09-10 at 13:30
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "13:30"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:22:23](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-at-130-pm-utah-time-the-turning-point-us-t-00-22-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1343);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1343s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at 1.30 p.m., he is asked, can Morgan do a news hit at 8 p.m. Eastern?

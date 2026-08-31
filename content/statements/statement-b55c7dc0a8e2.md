@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:07:04](/episodes/ep-mKXdKV-OBog.md#t-00-06-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(424);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=424s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Remember on September 12th when Kash Patel ended his press conference with quote, "Lastly, to my friend Charlie (Charlie Kirk), rest now, my brother. We have the watch, and I'll see you in Valhalla."
 

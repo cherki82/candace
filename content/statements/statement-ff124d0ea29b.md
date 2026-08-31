@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:50:44](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3044);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3044s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we know Charlie (Charlie Kirk) was establishing this doge.
 

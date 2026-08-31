@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:10:45](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(645);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=645s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Israel or the Jews had Charlie murdered. Yes. So, which we do not believe, which we do not believe, but we have been accused of trying to, or we're not interested in the truth. The actual fact of the matter is that behind the scenes, we have given everything we know to give, every single piece of information.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:08:29](/episodes/ep-JQjCAsfoXEE.md#t-00-07-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(509);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=509s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think there are fake people on the payroll. I think that paychecks are getting sent to people who do not really exist. And that would explain why we have a company with zero employees with millions of dollars of salary expense.
 

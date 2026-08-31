@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 35 mentions"
+description: "Turning Point Action (Organizations) - 36 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-00-00">2025-10-06 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-27-18">2026-07-22 · 00:27:18</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-34-07" style="--pulse-height:29%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-action-t-00-15-33" style="--pulse-height:14%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-21" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-08" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
@@ -63,6 +64,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-34-07) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-action-t-00-15-33) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-21) | 7 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-08) | 1 |
@@ -84,7 +86,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
@@ -244,6 +246,14 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:15:43](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-action-t-00-15-33)**
+> "...sidiaries turning point, like turning point action, all that. Those are my kids."
+
+</details>
+
+<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:04:17](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17)**
@@ -293,6 +303,18 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from turning point action.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Audited By (1)</summary>
+
+- **[Baker Tilly](/entities/org-baker-tilly.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
 
 </details>
 
@@ -364,7 +386,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -378,6 +400,20 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from turning point action.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Baker Tilly](/entities/org-baker-tilly.md)** audited this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
 
 </details>
 

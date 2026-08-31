@@ -1,17 +1,17 @@
 ---
-title: "Erika Kirk said Turning Point USA would build a museum-style..."
-description: "\"Erika Kirk said Turning Point USA would build a museum-style memorial for Charlie Kirk\" — Erika Kirk"
+title: "Erika Kirk promised that Turning Point USA would build a mus..."
+description: "\"Erika Kirk promised that Turning Point USA would build a museum-style memorial for Charlie Kirk\" — Erika Kirk"
 statement_id: "statement-ddbcea5fe35b"
 speaker: "Erika Kirk"
-type: "factual_claim"
+type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Erika Kirk said Turning Point USA would build a museum-style memorial for Charlie Kirk
+> Erika Kirk promised that Turning Point USA would build a museum-style memorial for Charlie Kirk
 
 ## Attribution
 
@@ -19,7 +19,7 @@ veracity: "true"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Fox News interview with Harris Faulkner, replayed by Candace Owens
+**Original Source:** Fox News interview with Harris Faulkner
 
 ## About
 
@@ -30,8 +30,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:03:58](/episodes/ep-6DhWawD4ZiM.md#t-00-03-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(238);return false;">Play</a>
+**Timestamp:** [00:03:44](/episodes/ep-6DhWawD4ZiM.md#t-00-03-31) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=224s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular, and it will have basically museum style for our Charlie, for my Charlie.
 
@@ -54,4 +54,4 @@ Verified as an attribution claim: the interview transcript and contemporaneous r
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Promise | **Verifiable:** Yes

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:28:50](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1730);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Oh, and the Romanian angels? Yeah, that was a project that a bunch of us were blessed to be a part of because Erika (Erika Kirk) put it together and we would get a wish list around Christmas time and it was from children who wanted nothing more than barrettes. brushes personal care items pencils school supplies and we would all go out and go shopping and we would wrap it up and it was such a wonderful thing because we would have specific paper that we would wrap our gifts in and my daughters would then watch the video that Erika (Erika Kirk) would send back to us once the distribution and they were delivered and we could see the children opening these beautiful gifts
 

@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:50:30](/episodes/ep-q7f8r-THr84.md#t-00-49-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3030);return false;">Play</a>
+**Timestamp:** [00:50:30](/episodes/ep-q7f8r-THr84.md#t-00-50-15) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3030s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bill Ackman just confirmed that he hosted his meeting with Charlie (Charlie Kirk) on August 4th and 5th
 

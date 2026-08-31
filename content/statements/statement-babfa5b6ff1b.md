@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(187);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But 330, 330 is when that pickup is scheduled for. So basically we can conclusively confirm that Erika did not wait an hour on the tarmac for Andrew's alleged plane to land at about 440pm.
 

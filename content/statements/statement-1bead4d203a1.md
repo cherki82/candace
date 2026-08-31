@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:42:40](/episodes/ep-IqHsl7d2dos.md#t-00-42-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2560);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=2560s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because I think she's been there more than we realize. ... I think there's a lot of coordination between Erika (Erika Kirk) and the Department of War. I think there's a broader reason why Erika (Erika Kirk) was put on that board, which she's not qualified for, the Air Force Board, and it might even give her perks that we don't know about. ... Does this allow her to fly on Air Force planes and go undetected? I don't know. But that's strange.
 

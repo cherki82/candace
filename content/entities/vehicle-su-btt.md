@@ -1,6 +1,6 @@
 ---
 title: "SU-BTT"
-description: "SU-BTT (Vehicles) - 38 mentions"
+description: "SU-BTT (Vehicles) - 43 mentions"
 id: "vehicle-su-btt"
 type: "VEHICLE"
 aliases:
@@ -15,13 +15,13 @@ _Type: Vehicles_
 **Also known as:** SUBTT, SU BTT, tail number SUBTT, BTT
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29">2025-10-30 · 00:12:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12">2025-12-01 · 00:23:24</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-46">2025-10-30 · 00:12:46</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btt-t-00-42-17">2025-12-05 · 00:42:51</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -29,27 +29,29 @@ _Type: Vehicles_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29" style="--pulse-height:15%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-46" style="--pulse-height:15%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 13 mentions" title="2025-10-31 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-11-07" style="--pulse-height:15%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-51" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26" style="--pulse-height:85%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 11 mentions" title="2025-11-19 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36" style="--pulse-height:31%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-06-02" style="--pulse-height:31%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45" style="--pulse-height:31%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btt-t-00-16-27" style="--pulse-height:31%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-46) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11) | 13 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-11-07) | 2 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-51) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26) | 11 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-06-02) | 4 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45) | 4 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btt-t-00-16-27) | 4 |
 
 </details>
 </section>
@@ -57,7 +59,24 @@ _Type: Vehicles_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
+
+**[00:17:08](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btt-t-00-16-27)**
+> "...t so you know, he's confusing BTT."
+
+**[00:17:12](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btt-t-00-17-12)**
+> "We were always talking about BTT."
+
+**[00:17:35](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btt-t-00-17-12)**
+> "...again, he's mixing it up with BTT, but we can now connect these two planes."
+
+**[00:42:51](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btt-t-00-42-17)**
+> "I think you thought BTU was BTT, but that's actually okay because now we can conn..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
@@ -87,16 +106,16 @@ _Type: Vehicles_
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
 
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36)**
+**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-06-02)**
 > "...ting. And don't forget that that same core, that same source claimed that after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 ..."
 
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-16-53)**
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-16-28)**
 > "...is really interesting because BTT then comes in from Cairo through Paris and lands ..."
 
 **[00:20:51](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-20-22)**
 > "On the 4th, we have the BTT flight departing from Paris."
 
-**[00:21:44](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-21-44)**
+**[00:21:44](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-21-35)**
 > "BTT leaves from Paris, and it's go time, right?"
 
 </details>
@@ -107,34 +126,34 @@ _Type: Vehicles_
 **[00:01:35](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26)**
 > "...d these jets—ostensibly filled with government-level Egyptians, right?—particularly the yellow jet, tail number SUBTT— which kept overlaying, sometimes even for days, in Delaware—why would they do that? Why would that..."
 
-**[00:05:51](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-33)**
+**[00:05:51](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-51)**
 > "...volved in the events leading up to and on September 10th." "I'm aware that you also tied the plane, SUBTT, yellow plane, to this and that you are receiving tips." "You might have been wondering why SUBTT m..."
 
-**[00:05:59](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-33)**
+**[00:05:59](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-51)**
 > "..., SUBTT, yellow plane, to this and that you are receiving tips." "You might have been wondering why SUBTT made so many visits to Wilmington, Delaware out of all places." "And I can personally answer that."..."
 
-**[00:06:15](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
+**[00:06:15](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-51)**
 > "...o read that. I'm not going to read that. I'm not going to read that. "Some people may tell you that SUBTT stopped at Wilmington because it was quote-unquote just maintenance." "That is not true." "The info..."
 
-**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
+**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-33)**
 > "...tion portion reads this. "As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware." "I tried to pull non-public movement data, and it came up empty." ..."
 
-**[00:07:33](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-58)**
+**[00:07:33](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-07-11)**
 > "...h often leave and enter that airport when they do covert handoffs." "Now I have no affiliation with SUBTT." "Nor am I an operator anywhere near Egypt or its planes, but I do know that only federal vehicles..."
 
-**[00:07:52](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-07-37)**
+**[00:07:52](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-07-52)**
 > "...tee you that the vehicles affiliated with this workspace arrived and left inside the same window as SUBTT." "Government vehicles either pick up, monitor, or escort every government plane that lands there."..."
 
 **[00:09:44](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-09-44)**
 > "... more convenient spot, a meeting that's not in a car." "That is what I am telling you happened with SUBTT." "Obviously be impossible for me to show you the evidence of these activities because I obviously ..."
 
-**[00:12:08](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-11-40)**
+**[00:12:08](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-11-38)**
 > "... The only difference is that 920 North King has glass windows. Now, you saw people on X saying that SUBTT has an alibi because it, quote-unquote, aligns with a long-standing Falcon maintenance arrangement ..."
 
-**[00:14:57](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-14-53)**
+**[00:14:57](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-14-44)**
 > "... because I wouldn't know that, but it is noteworthy. What you can honestly say, though, is this. If SUBTT has been doing this run for decades, it could not have been using a 2024 French finishing lease as ..."
 
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-19-26)**
+**[00:19:22](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-19-22)**
 > ".... Once more, go through this logic and ask yourself how this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is alrea..."
 
 </details>
@@ -142,7 +161,7 @@ _Type: Vehicles_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33)**
+**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-51)**
 > "... have confirmed that this was a full flight over to Utah. This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination. So we are looking at anywher..."
 
 </details>
@@ -205,11 +224,11 @@ _Type: Vehicles_
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29)**
+**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-46)**
 > "...arlie (Charlie Kirk)'s assassination. Okay, here is that plane. The tail number you can see here is SUBTT. And this is a screenshot again from FlightRadar. Now, of course, when I pointed out that this fore..."
 
-**[00:55:55](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-55-55)**
-> "...day. I can't remember if it was Carrie. Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025. What is that? Mark, help me mansplain. After and Hades, the tail number N1098L ..."
+**[00:55:54](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-55-25)**
+> "I can't remember if it was Carrie (Carrie (Carrie Jean)). Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025."
 
 </details>
 
@@ -224,19 +243,38 @@ _Type: Vehicles_
 - **[Egypt](/entities/gpe-egypt.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-51): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Owned By (1)</summary>
+
+- **[Egyptian government](/entities/org-egyptian-government.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:06:48](/episodes/ep-SKGUzGHymcI.md#t-00-06-33): “As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Egypt](/entities/gpe-egypt.md)** operates this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-51): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+
+</details>
+
+- **[Egyptian government](/entities/org-egyptian-government.md)** owns this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:06:48](/episodes/ep-SKGUzGHymcI.md#t-00-06-33): “As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware.”
 
 </details>
 
@@ -245,7 +283,7 @@ _Type: Vehicles_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about SU-BTT (3)</strong></summary>
+<summary><strong class="section-title">Statements about SU-BTT (5)</strong></summary>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
@@ -253,14 +291,20 @@ _Type: Vehicles_
 - [00:14:14](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The yellow Egyptian plane flight from Provo to Delaware on September 1..."](/statements/statement-5dbb401e599c.md)
 
 - [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) (Claim) **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using t..."](/statements/statement-e8ce61355fdf.md)
-  - Also about: [Walid Mahmood](/entities/person-walid-mahmood.md)
+  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
 
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
 
-- [00:22:01](/episodes/ep-sImMM04XdWY.md#t-00-21-44) (Claim) **Candace Owens**: ["The BTT plane left Paris on September 4th, stayed for six days, then w..."](/statements/statement-fc8a58ed2319.md)
+- [00:06:02](/episodes/ep-sImMM04XdWY.md#t-00-06-02) (Claim) **Satys and Egyptian-aircraft source (identity unverified)** (via read message): ["An anonymous source claimed that after Egyptian plane SU-BTT landed in..."](/statements/statement-2a88ad32aba8.md)
+
+- [00:17:21](/episodes/ep-sImMM04XdWY.md#t-00-17-12) (Claim) **Candace Owens**: ["Candace Owens said an Egyptian plane stayed in Wilmington from July 20..."](/statements/statement-6406220b7901.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:21:44](/episodes/ep-sImMM04XdWY.md#t-00-21-35) (Claim) **Candace Owens**: ["Candace Owens said plane SU-BTT left Paris on September 4, later staye..."](/statements/statement-fc8a58ed2319.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

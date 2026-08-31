@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:52:19](/episodes/ep-1CFDtD0IgEg.md#t-00-52-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3139);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=3139s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's also used other similar rhetoric, by the way, like he did this whole thing where he was like, why hasn't the Mossad killed Candace (Candace Owens) and Tucker Carlson? Like, why would you say that, Frank (Frank Turek)?
 

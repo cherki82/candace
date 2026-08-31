@@ -24,8 +24,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:09:33](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(573);return false;">Play</a>
+**Timestamp:** [00:09:33](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-14) 
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=573s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > James Comey wrote love letters to the ADL and embedded FBI agents with them, a group that ran disgraceful ops spying on Americans
 

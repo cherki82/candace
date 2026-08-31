@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:41:51](/episodes/ep-a2bZf4fic10.md#t-00-41-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2511);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=2511s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was a really strange day. Uh, I usually turn my phone off on Saturdays. I honor the Shabbat, and I'm not Jewish, but I think it's important that we Christians do. And yet I had my phone on, because I was trying to help make J.D. Vance the vice president of the United States. Uh, so I just had some calls to make. Let's just put it that way.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:35:09](/episodes/ep-AH1KVKkweUE.md#t-00-34-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But CNN came out today with just an incredible headline that the U.S. military is now asking troops for creative and unconventional ideas to punish Iran. ... An officer in the U.S. Central Command's intelligence branch, if we're still calling it intelligence, wrote in a message that was sent on Wednesday to a broad group of military analysts, according to a source that was familiar with the message.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:25:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1512);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What or who changed Donald Trump, right? How does one go from making friends with people, fighting beside people, promising, being very explicit in his guarantee, promising no new wars, right? No new wars in the Middle East. We're going to lower gas prices to suddenly insider trading, right? ... That looks like that happened recently. Never-ending wars, where we're everywhere fighting all the time, and we're never being told, and no one's articulating a reason as to why we're going down to Venezuela, why we're speaking about Greenland, and all of a sudden, oh, okay, here we are going to Iran, despite the fact that nobody wants to go, not even people in the armed services. They don't know. Everybody is saying there's no need to do this, and yet he does it, right?
 

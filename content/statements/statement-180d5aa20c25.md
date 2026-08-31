@@ -34,7 +34,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:27:03](/episodes/ep-19vHhjF7-NA.md#t-00-27-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1623);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=1623s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > How long would a U.S. military operation take to remove the communist regime in Cuba? And uh what would happen per se and how long would it take to, you know, re-establish order if President Trump (Donald J. Trump) were to decide to do a capture-kill operation with Miguel Diaz-Canel like he did with Maduro in ... we've got we've got options all over the map Just like we've got lots of options in CENTCOM why we're what that's that's our job Our building literally plans for a living so besides the Pentagon no one plans better than United States Central Command So to kind of bring it back home to while we're here those options are all all those options are on the table
 

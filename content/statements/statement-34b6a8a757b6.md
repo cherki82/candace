@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:51:48](/episodes/ep-IqHsl7d2dos.md#t-00-51-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3108);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=3108s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they wrote, I want to know why there have been no arrests for tampering with evidence and destroying a crime scene. ... Well, I think the most logical conclusion is because it was an inside job. If you started arresting people for tampering with the crime scene, you'd be arresting FBI agents.
 

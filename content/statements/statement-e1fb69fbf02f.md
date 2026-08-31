@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -34,7 +34,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:17:20](/episodes/ep-amqTMimDr0A.md#t-00-17-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1040);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1040s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Kolvet) then lied. He lied, didn't feel anything when he did it. He said Ben (Ben Shapiro) and Charlie (Charlie Kirk) were friends. ... allowed him to open at his event his wife as well allowed that right she came out first and then Ben (Ben Shapiro) came out and not only that he had to have pre-submitted his speech that's usually how it goes they knew he was going to go on the attack against Charlie (Charlie Kirk)'s actual friends me Tucker Carlson Megyn Kelly
 

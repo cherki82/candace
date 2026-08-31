@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:34:45](/episodes/ep-9hRcfSrri70.md#t-00-34-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2085);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=2085s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote, Hasan Piker is openly celebrating Candace Owens, calling her a queen because she single-handedly undermined the effort to martyrize Charlie (Charlie Kirk) to go after the violent radical left.
 

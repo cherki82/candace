@@ -1,6 +1,6 @@
 ---
 title: "Dose"
-description: "Dose (Organizations) - 44 mentions"
+description: "Dose (Organizations) - 68 mentions"
 id: "org-dose"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-40-44">2026-01-06 · 00:41:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21">2025-11-03 · 00:25:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-23-39">2026-08-21 · 00:23:59</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>68</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,25 +34,31 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-40-44" style="--pulse-height:80%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-dose-t-00-26-09" style="--pulse-height:80%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-22-59" style="--pulse-height:80%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 4 mentions" title="2026-03-06 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-dose-t-00-25-57" style="--pulse-height:60%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-00" style="--pulse-height:80%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-dose-t-00-35-33" style="--pulse-height:60%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-00" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 5 mentions" title="2026-06-23 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-04" style="--pulse-height:60%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-dose-t-00-25-53" style="--pulse-height:60%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-dose-t-00-27-41" style="--pulse-height:60%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-22-57" style="--pulse-height:60%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 8 mentions" title="2025-11-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-30-21" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 8 mentions" title="2025-11-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-14" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 8 mentions" title="2025-12-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-40-44" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-dose-t-00-26-09" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-22-59" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 4 mentions" title="2026-03-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-dose-t-00-25-57" style="--pulse-height:38%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-00" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-dose-t-00-35-33" style="--pulse-height:38%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-00" style="--pulse-height:62%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 5 mentions" title="2026-06-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-04" style="--pulse-height:38%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-dose-t-00-25-53" style="--pulse-height:38%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-dose-t-00-27-41" style="--pulse-height:38%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-22-57" style="--pulse-height:38%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21) | 8 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-30-21) | 8 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-14) | 8 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-40-44) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-dose-t-00-26-09) | 4 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-22-59) | 4 |
@@ -72,7 +78,7 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (68)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>
@@ -263,6 +269,93 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 **[00:41:54](/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-41-20)**
 > "One shot of dose for your liver is equivalent to 17 shots of turme..."
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (8 mentions)</summary>
+
+**[00:21:43](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-14)**
+> "...I want to tell you guys about Dose because the modern-day diet is taking a toll on a..."
+
+**[00:21:55](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-55)**
+> "... my liver health, and that is Dose."
+
+**[00:22:01](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-55)**
+> "Dose is a powerful all-in-one wellness shot that helps..."
+
+**[00:22:16](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-55)**
+> "Their best seller is Dose for Your Liver."
+
+**[00:22:24](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-55)**
+> "Dose's clinical results showed lowering liver enzyme l..."
+
+**[00:22:30](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-55)**
+> "One shot of Dose for Your Liver is equivalent to 17 shots of turme..."
+
+**[00:22:35](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-21-55)**
+> "Dose is gluten-free, dairy-free, sugar-free, and it's ..."
+
+**[00:22:37](/episodes/ep-ZAuuSq_j2_w.md#ent-org-dose-t-00-22-37)**
+> "Stick with Dose, and you will feel the incredible benefits over t..."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (8 mentions)</summary>
+
+**[00:30:43](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-30-21)**
+> "...lso gonna tell you guys about Dose because I think we all know that the modern-day d..."
+
+**[00:30:52](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-30-21)**
+> "... my liver health, and that is Dose."
+
+**[00:31:00](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-31-00)**
+> "Dose is a powerful all-in-one wellness shot that helps..."
+
+**[00:31:15](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-31-00)**
+> "...best seller that they have is Dose for Your Liver, which was formulated to cleanse y..."
+
+**[00:31:23](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-31-00)**
+> "Dose's clinical results showed lowering liver enzyme l..."
+
+**[00:31:28](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-31-00)**
+> "One shot of Dose for Your Liver is equivalent to 17 shots of turme..."
+
+**[00:31:33](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-31-00)**
+> "Dose is gluten-free, dairy-free, sugar-free, and vegan..."
+
+**[00:31:35](/episodes/ep-JQjCAsfoXEE.md#ent-org-dose-t-00-31-00)**
+> "Stick with Dose, and you will feel the incredible benefits over t..."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (8 mentions)</summary>
+
+**[00:25:44](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21)**
+> "...I want to tell you guys about Dose because the modern-day diet is taking a toll on A..."
+
+**[00:25:51](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21)**
+> "... my liver health, and that is Dose."
+
+**[00:25:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21)**
+> "Dose is a powerful all-in-one wellness shot that helps..."
+
+**[00:26:16](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-26-05)**
+> "Their best seller is Dose for Your Liver, which is formulated to cleanse yo..."
+
+**[00:26:26](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-26-05)**
+> "Dose's clinical results showed lowering liver enzyme l..."
+
+**[00:26:29](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-26-05)**
+> "One shot of Dose for Your Liver is equivalent to 17 shots of turme..."
+
+**[00:26:34](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-26-05)**
+> "Dose is gluten-free, dairy-free, sugar-free, and it's ..."
+
+**[00:26:38](/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-26-05)**
+> "Stick with Dose, and you will feel the incredible benefits over t..."
 
 </details>
 

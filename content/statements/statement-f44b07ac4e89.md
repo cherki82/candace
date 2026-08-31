@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:56:54](/episodes/ep-DdPjoy5W-wY.md#t-00-56-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3414);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3414s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The cruelty of that killing has haunted our country for years. General Gica Popa committed suicide right after being forced to sentence them to death by firing squad. ... committed suicide right after being forced to sentence them to death by firing squad. Three months after the execution, he shot himself in the head in his office at the Ministry of National Defense, leaving a note stating that he couldn't live with the guilt anymore.
 

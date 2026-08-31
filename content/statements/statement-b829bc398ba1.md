@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:03:08](/episodes/ep-4DvYXBn_5JI.md#t-00-03-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(188);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=188s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I have since learned that at some point, Charlie and Victor Marx had a real falling out. The reason why, I'm not sure, but it was apparently bad enough, according to insiders at Turning Point USA, that Charlie and Victor actually stopped following one another on social media for a period of time.
 

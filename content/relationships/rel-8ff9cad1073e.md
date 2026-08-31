@@ -19,7 +19,7 @@ object: "person-candace-owens"
 
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 
-- [00:13:57](/episodes/ep-w1oqQbR_bYs#t-00-13-57): _Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candice, found it vile and rebuked her_
+- [00:13:44](/episodes/ep-w1oqQbR_bYs#t-00-13-44): _Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candace, found it vile and rebuked her_
 
 ### Related
 

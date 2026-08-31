@@ -6,6 +6,11 @@ date: "2025-10"
 ---
 
 **Date:** 2025-10
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “since October”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-10"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:08:52](/episodes/ep-9hRcfSrri70.md#event-event-2025-10-candace-owens-said-she-had-footage-invol-t-00-08-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(532);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=532s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I call it an October surprise because I've had it since October.

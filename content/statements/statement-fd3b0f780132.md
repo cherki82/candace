@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:56:51](/episodes/ep-c5BcKF91iec.md#t-00-56-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3411);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=3411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, the only person—as Ian Carroll pointed out in one of his videos, and you should subscribe to Ian Carroll's channel— as well. He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot.
 

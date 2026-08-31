@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:22:04](/episodes/ep-Pb7UlpRdW6U.md#t-00-22-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1324);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1324s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is a great issue, but the enhancement of surveillance with AI tools is how you now walk through. ... the dubai airport and you also walk through some airports here in the u.s facial recognition technology has finally got to the resolution using ai's tools where
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1899);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1899s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It feels like they're buying up so much land and now we're having these fires that are happening. ... they're trying to tell you that these disasters are natural, but it's becoming pretty apparent they're not. ... It feels like these are land grabs
 

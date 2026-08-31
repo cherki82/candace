@@ -17,12 +17,12 @@ _Type: Places_
 Source: [City of El Paso](https://www.elpasotexas.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22">2025-10-30 · 00:01:44</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-17">2025-10-30 · 00:01:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-el-paso-t-00-08-50">2026-06-18 · 00:09:09</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -31,8 +31,8 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-el-paso-t-00-09-55">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27" style="--pulse-height:75%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-17" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-11" style="--pulse-height:75%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-el-paso-t-00-09-55" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-el-paso-t-00-12-35" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-43-32" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
@@ -42,8 +42,8 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22) | 2 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-17) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-11) | 3 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-el-paso-t-00-09-55) | 4 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-el-paso-t-00-12-35) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-43-32) | 4 |
@@ -110,13 +110,13 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
-> "...t flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
+**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-11)**
+> "However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso and then El Paso back to Andrews Air Force Base."
 
-**[00:45:06](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
+**[00:45:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-54)**
 > "However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso"
 
-**[00:45:10](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-45-10)**
+**[00:45:10](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-54)**
 > "Remember El Paso, Texas is where all those weird flights were comi..."
 
 </details>
@@ -124,10 +124,10 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22)**
+**[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-17)**
 > "It was contracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right?"
 
-**[00:03:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-03-31)**
+**[00:03:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-03-11)**
 > "And then the plane went back home or back to the home base in El Paso."
 
 </details>
@@ -142,7 +142,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about El Paso (10)</strong></summary>
+<summary><strong class="section-title">Statements about El Paso (9)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
@@ -186,12 +186,9 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
-- [00:43:41](/episodes/ep-6DhWawD4ZiM.md#t-00-43-00) (Claim) **Candace Owens**: ["A US government VIP plane (C37A Gulfstream, tail number 99-0404) flew ..."](/statements/statement-88162d6bfd9c.md)
-  - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
-
-- [00:46:13](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47) (Claim) **Candace Owens**: ["There were weird flights coming from El Paso, Texas on the day of Char..."](/statements/statement-4f46327805eb.md)
+- [00:45:10](/episodes/ep-6DhWawD4ZiM.md#t-00-44-54) (Claim) **Candace Owens**: ["Owens said odd flights had come from El Paso on the day of Charlie Kir..."](/statements/statement-4f46327805eb.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -199,7 +196,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
-- [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) (Claim) **Candace Owens**: ["A military-contracted aircraft identified as N1098L departed Biggs Arm..."](/statements/statement-c37d3180176a.md)
+- [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-17) (Claim) **Candace Owens**: ["A military-contracted aircraft identified as N1098L departed Biggs Arm..."](/statements/statement-c37d3180176a.md)
   - Also about: [N1098L](/entities/vehicle-n1098l.md), [Biggs Army Airfield](/entities/org-biggs-army-airfield.md)
 
 </details>

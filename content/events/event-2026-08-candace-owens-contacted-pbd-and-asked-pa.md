@@ -6,6 +6,11 @@ date: "2026-08"
 ---
 
 **Date:** 2026-08
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “last week”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2026-08"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:56:22](/episodes/ep-nPhCKwJ6ye8.md#event-event-2026-08-candace-owens-contacted-pbd-and-asked-pa-t-03-56-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(14182);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=14182s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think it was last week you sent a message on one of our accounts to say can I talk to Patrick
 
@@ -25,6 +30,6 @@ date: "2026-08"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [03:03:17](/episodes/ep-aPOyk1i2LOc.md#event-event-2026-08-candace-owens-contacted-pbd-and-asked-pa-t-03-03-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(10997);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=10997s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > last week you sent a message on one of our accounts to say can i talk to patrick we got on the call

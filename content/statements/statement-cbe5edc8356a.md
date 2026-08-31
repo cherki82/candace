@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:15:36](/episodes/ep-69A8TzAGHlU.md#t-00-15-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(936);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=936s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What is the law in the books when you do that? The rule is that private citizens can indeed become limited purpose public figures when they voluntarily thrust themselves into the forefront of a particular public controversy to influence its outcome.
 

@@ -6,6 +6,11 @@ date: "2025-07"
 ---
 
 **Date:** 2025-07
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “in July”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-07"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:25:16](/episodes/ep-WoXd4oLwd3w.md#event-event-2025-07-candace-owens-traveled-to-maine-and-reco-t-00-25-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1516);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1516s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and didn't remember that I went up to Maine too. I went up to Maine with my husband in July.

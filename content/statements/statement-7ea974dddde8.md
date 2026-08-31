@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:30:52](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1852);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=1852s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was fair for the media to conclude on the basis of those messages that his dad recognized it. And that's why he was calling Tyler.
 

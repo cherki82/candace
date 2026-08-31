@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:06:52](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4012);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4012s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jeremy Boring, who just wanted to insert himself, jumped in and tried to pretend that it was my security that was getting those updates. I confirmed that that is a lie. They said they were not on the phone with anybody in that car during those crucial minutes.
 

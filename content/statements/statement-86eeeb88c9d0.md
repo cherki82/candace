@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:49:03](/episodes/ep-SubDoZWHARo.md#t-00-48-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2943);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2943s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, not a bar for entry as an advisor to Turning Point USA. He was accused, I'm referring to Michael Aquino, was accused of abusing children at army child development centers.
 

@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:48:06](/episodes/ep-1IY2oD-_xVA.md#t-00-48-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2886);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2886s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Right. So, so the pageant world to me is something that it was an interesting season of life. It was nothing that I was ever groomed for.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:32:10](/episodes/ep-cZxHqYsWRYg.md#t-00-32-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1930);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Right. So the pageant world to me is something that it was an interesting season of life. It was nothing that I was ever groomed for.
 

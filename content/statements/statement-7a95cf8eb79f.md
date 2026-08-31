@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2724);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=2724s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Maddie (Madison Bransford) was then landed upon and they decided because we're really going to stick it to Candace (Candace Owens), we're going to have her name the show in the no-no.
 

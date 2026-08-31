@@ -56,7 +56,7 @@ object: "person-erika-kirk"
 
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 
-- [00:42:48](/episodes/ep-JQjCAsfoXEE#t-00-42-48): _Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025—eight days after Charlie Kirk was murdered._
+- [00:42:48](/episodes/ep-JQjCAsfoXEE#t-00-42-48): _Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025—eight days after Charlie (Charlie Kirk) was murdered._
 
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
@@ -64,7 +64,7 @@ object: "person-erika-kirk"
 
 **[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
 
-- [00:33:11](/episodes/ep-K5GjF53bfN4#t-00-33-11): _she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie Kirk_
+- [00:33:05](/episodes/ep-K5GjF53bfN4#t-00-33-05): _Erika (Erika Kirk) a couple of days ago, and I said she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie (Charlie Kirk)_
 
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 
@@ -97,7 +97,7 @@ object: "person-erika-kirk"
 
 **[Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8)**
 
-- [00:38:57](/episodes/ep-UBkFkg4UNY8#t-00-38-57): _Erica—who is taking on this huge step of being the chairman and the CEO—that she has someone in her corner that she really trusts._
+- [00:38:57](/episodes/ep-UBkFkg4UNY8#t-00-38-57): _I have, rather, hopes that Erika (Erika Kirk)—who is taking on this huge step of being the chairman and the CEO—that she has someone in her corner that she really trusts._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
@@ -113,7 +113,7 @@ object: "person-erika-kirk"
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:54:03](/episodes/ep-a-e7HC6SeK8#t-00-54-03): _Erika Kirk will issue a statement. I think in this new capacity, CEO and chairman_
+- [00:54:03](/episodes/ep-a-e7HC6SeK8#t-00-54-03): _I think in this new capacity—CEO and chairman—that we deserve an answer about that check._
 
 **[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
 
@@ -153,7 +153,7 @@ object: "person-erika-kirk"
 
 **[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
 
-- [00:06:41](/episodes/ep-vwG1juDCQZQ#t-00-06-41): _what it's like being at the helm of the organization, what her thoughts are about what that organization is going to look like going forward._
+- [00:21:14](/episodes/ep-vwG1juDCQZQ#t-00-21-14): _This is where it's going to be really hard for Erika to be a CEO and to be somebody who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right?_
 
 ### Related
 

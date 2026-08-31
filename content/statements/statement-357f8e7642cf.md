@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:35:18](/episodes/ep-jsqUIkszZd0.md#t-00-35-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Days after I left his residence, we continued our conversations in a different tone. He continued on, telling me that there is "no longer a need for FoldAR in schools."
 

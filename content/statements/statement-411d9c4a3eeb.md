@@ -1,6 +1,6 @@
 ---
-title: "Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamda..."
-description: "\"Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.\" — Candace Owens"
+title: "Candace Owens said Airbnb co-founder Joe Gebbia gave $3.1 mi..."
+description: "\"Candace Owens said Airbnb co-founder Joe Gebbia gave $3.1 million against Mamdani.\" — Candace Owens"
 statement_id: "statement-411d9c4a3eeb"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,14 +11,13 @@ veracity: "mixed"
 
 ## Statement
 
-> Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.
+> Candace Owens said Airbnb co-founder Joe Gebbia gave $3.1 million against Mamdani.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## About
 
@@ -28,8 +27,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(641);return false;">Play</a>
+**Timestamp:** [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-19) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=641s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Airbnb co-founder, Joe Gebbia, gave $3.1 million. It didn't matter.
 

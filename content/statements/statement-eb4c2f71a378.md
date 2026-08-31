@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:45:10](/episodes/ep-h76ZN-xXC6c.md#t-00-44-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2710);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=2710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on October 10th, there was an explosion to the Accurate Energetic Systems, which they do make military and demolition explosives. ... This is about 60 miles west of Nashville, and like I said, killed 16 employees.
 

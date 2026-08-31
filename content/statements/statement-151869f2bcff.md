@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:12:53](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4373);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These guys, okay, Don Jr. got the single largest loan guarantee from the Department of Defense ever handed out of over $600 million for an energy company, a fusion energy company, of which he has zero, zero experience in.
 

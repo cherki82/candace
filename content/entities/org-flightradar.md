@@ -20,7 +20,7 @@ _Type: Organizations_
 Source: [About Flightradar24](https://www.flightradar24.com/about)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-02-07">2025-10-30 · 00:02:17</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-01-57">2025-10-30 · 00:02:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51">2025-12-05 · 00:16:19</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -32,9 +32,9 @@ Source: [About Flightradar24](https://www.flightradar24.com/about)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-02-07">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-01-57">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-02-07" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 7 mentions" title="2025-10-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-01-57" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 7 mentions" title="2025-10-30 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-flightradar-t-00-07-32" style="--pulse-height:14%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51" style="--pulse-height:29%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 </div>
@@ -42,7 +42,7 @@ Source: [About Flightradar24](https://www.flightradar24.com/about)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-02-07) | 7 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-01-57) | 7 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-flightradar-t-00-07-32) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51) | 2 |
 
@@ -76,25 +76,25 @@ Source: [About Flightradar24](https://www.flightradar24.com/about)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (7 mentions)</summary>
 
-**[00:02:17](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-02-07)**
+**[00:02:17](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-01-57)**
 > "I'm going to show you a screenshot here. This is from FlightRadar."
 
-**[00:03:31](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-03-31)**
+**[00:03:31](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-03-11)**
 > "This is from FlightRadar—that dip. I should tell you, because there has been a lot of speculation about it online,"
 
-**[00:12:49](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-12-29)**
+**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-12-46)**
 > "... here is that plane. The tail number you can see here is SUBTT. And this is a screenshot again from FlightRadar. Now, of course, when I pointed out that this foreign military plane arrived on September 4th—so si..."
 
-**[00:13:20](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-12-53)**
+**[00:13:14](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-12-46)**
 > "...here in the middle of Utah. Instead, they said, oh, she made a time zone mistake. Like as if I'm on FlightRadar every day, accustomed to reading the data here. Yeah, I thought that I was looking at mountain time..."
 
-**[00:13:24](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-12-53)**
-> "...ed to reading the data here. Yeah, I thought that I was looking at mountain time—like local time—on FlightRadar. As Mark just explained, no, they do it according to universal time. Okay, big deal. Like actually ..."
+**[00:13:24](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-13-24)**
+> "Yeah, I thought that I was looking at mountain time—like local time—on FlightRadar. As Mark (Mark (show producer; surname unverified)) just explained, no, they do it according to universal time."
 
-**[00:18:12](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-17-46)**
+**[00:18:10](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-17-58)**
 > "... to be very thorough here in presenting this information. So I was like, let's actually upgrade our FlightRadar account so we can go back three years on this plane's flight history—which is really the max settin..."
 
-**[00:18:24](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-18-24)**
+**[00:18:24](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-17-58)**
 > "...o pay for a business account—which is way too expensive, especially for me who doesn't actually use FlightRadar often—but I am doing whatever I can to solve the murder of Charlie (Charlie Kirk). Here it is. Thre..."
 
 </details>

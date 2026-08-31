@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:19:34](/episodes/ep-tXoI0TTKVrs.md#t-00-19-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1174);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1174s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet knows that that email is not fake. And when we receive our FOIA response officially regarding the email, Andrew Kolvet is going to look like the liar that he is.
 

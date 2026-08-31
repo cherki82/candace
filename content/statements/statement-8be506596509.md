@@ -21,13 +21,13 @@ type: "factual_claim"
 ## About
 
 - [Lori Frantzve](/entities/person-lori-frantzve.md) (person)
-- [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md) (gpe)
+- [Phoenix](/entities/gpe-phoenix.md) (gpe)
 
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2393);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And for sure, Erica (Erika Kirk)'s mother has in the past received treatments there. Okay, I was able to determine that factually she had. In fact, she went in for a treatment two days earlier on September 8th because people sent me records of that.
 

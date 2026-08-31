@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:13:50](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(830);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=830s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Later in the discussion, Boreing (Jeremy Boreing) said that he'd be thrilled to have Fuentes (Nick Fuentes) on one of the Daily Wire's shows to debate the media company's popular pundits, some of whom have millions of viewers.
 

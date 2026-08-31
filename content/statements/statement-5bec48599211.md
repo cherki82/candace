@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:14:25](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > director of National Counterterrorism Center, could not have come at a better time. What? Like in his statement explaining why he's resigning in protest, Mr. Kent is echoing the Democratic talking points, which are devoid of fact or evidence. ... Hopefully the person replacing Mr. Kent will have a better understanding of the threats presented by the Iranian regime.
 

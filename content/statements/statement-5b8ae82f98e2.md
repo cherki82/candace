@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:02:22](/episodes/ep-Ux1kzgQxkws.md#t-01-02-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3742);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=3742s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's protecting his donors, without question.
 

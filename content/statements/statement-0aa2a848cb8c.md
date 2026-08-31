@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:41:27](/episodes/ep-IqHsl7d2dos.md#t-00-41-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2487);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=2487s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can look through Jeffrey Epstein's emails. He was picking girls to win in the pageant world, just picking the winners.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:24:54](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1494);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1494s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We fast forward just a few days to September 10th and we learn one of the people that told us this was the New York Times that on September 10th, Erika (Erika Kirk) was at the hospital while her mother was receiving treatments. Now that.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:17:04](/episodes/ep-DEtFh2Ff-58.md#t-00-16-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1024);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=1024s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Little things like when they say Erika was in the hospital with her mom.
 

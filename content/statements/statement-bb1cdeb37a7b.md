@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:04:26](/episodes/ep-9CuC1yf8-PU.md#t-00-04-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(266);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=266s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nope, sorry, the widow needed that for the Mar-a-Lago fundraiser. It's encased in some glass, and she is mourning beside it with photographers at her helm.
 

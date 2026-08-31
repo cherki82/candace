@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:23:09](/episodes/ep-amqTMimDr0A.md#t-00-23-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1389);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1389s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yet to this day, every year the ADL lobbies, claims it was anti-Semitism that he got convicted, or there was none, he was an unbelievably powerful player, and he was also convicted by a jury that consisted of Jews. ... And they have been attempting to get that conviction overturned for decades.
 

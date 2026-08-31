@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:44:16](/episodes/ep-jTj9Ip46r4w.md#t-00-43-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2656);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=2656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > past or that world to follow with me until this into the new season that I was about to enter into and so for me it was all about just I literally had locked myself in my room and read my bible and the only person I saw for six months was my pastor's wife and Really? had her pour into me we would meet for lunch or coffee and I just I didn't see any of my friends I didn't do anything I didn't you And I just was so focused on that.
 

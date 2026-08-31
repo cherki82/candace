@@ -1,15 +1,15 @@
 ---
-title: "Thousand Oaks, California location of Godspeak Calvary Chapel"
-description: "Evidence for the relationship: Thousand Oaks, California location of Godspeak Calvary Chapel"
+title: "Thousand Oaks location of Godspeak Calvary Chapel"
+description: "Evidence for the relationship: Thousand Oaks location of Godspeak Calvary Chapel"
 relationship_id: "rel-e4b3ad1531bb"
-subject: "gpe-thousand-oaks-california"
+subject: "gpe-thousand-oaks"
 predicate: "location of"
 object: "org-godspeak-calvary-chapel"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Thousand Oaks, California](/entities/gpe-thousand-oaks-california) location of [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel)
+## [Thousand Oaks](/entities/gpe-thousand-oaks) location of [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-godspeak-calvary-chapel"
 
 ### Related
 
-- [Thousand Oaks, California](/entities/gpe-thousand-oaks-california)
+- [Thousand Oaks](/entities/gpe-thousand-oaks)
 - [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel)

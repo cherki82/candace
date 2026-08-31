@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:28:32](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1712);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=1712s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > for anybody to suggest—whether it's Candace Owens or any other person within TPUSA—was somehow complicit in his murder is to say that Charlie (Charlie Kirk) was such a bad judge of character that he put a bunch of traitors around him.
 

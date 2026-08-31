@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
 **Timestamp:** [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4388);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=4388s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He lied and they'll go out of their way to protect those individuals.
 

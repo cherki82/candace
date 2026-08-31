@@ -3,9 +3,17 @@ title: "Manhattan Beach"
 description: "Manhattan Beach (Places) - 1 mention"
 id: "gpe-manhattan-beach"
 type: "GPE"
+categories:
+  - "California city"
 ---
 
 _Type: Places_
+
+**Categories:** California city
+
+**Entity verification:** verified
+> The official municipal site confirms Manhattan Beach, California.
+Source: [City of Manhattan Beach](https://www.manhattanbeach.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-manhattan-beach-t-00-08-29">2025-11-13 · 00:08:46</a></strong></div>

@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3583);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3583s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.
 

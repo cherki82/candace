@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:06:44](/episodes/ep-DdPjoy5W-wY.md#t-00-06-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(404);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In October, Proclaimed did not actually file to become a business until January of 2019. In 19, after she began dating Charlie (Charlie Kirk), that's when she formed the official LLC paperwork.
 

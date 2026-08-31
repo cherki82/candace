@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > George Zinn was arrested and then it was determined that he had. ... had pornographic images that's our decoy boy of children on his phone and as i told you he told people at the hospital that he was treated at that he would be paid if he did this he didn't know where the money was coming from but all he had to do was jump up and down and say it was me it was me
 

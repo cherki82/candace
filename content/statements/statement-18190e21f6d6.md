@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:38:29](/episodes/ep-EtLHqDbxqks.md#t-00-38-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2309);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2309s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, this registers to me as more evidence that Lance Twiggs simply took Tyler Robinson's family heirloom of a gun and helped the feds set him up as a patsy. There is no reason why Lance Twiggs's prints are less degraded than Tyler Robinson's prints on this gun if Tyler Robinson is the shooter. It is a massive admission by her that his prints were degrading.
 

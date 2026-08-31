@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:39:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5948);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5948s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Are ... you still team Trump (Donald J. Trump)? ... like that was it that was like goodbye like look no i mean there is i do not go halfway with defending pedophiles goodbye goodbye yeah
 

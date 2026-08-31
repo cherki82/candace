@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:49:41](/episodes/ep-BxN2-aeMYIs.md#t-00-49-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2981);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2981s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The meme coins—taking from people who already have so little, getting them to believe that his meme coins are just stealing wealth. ... Like stealing from the poor to further enrich his own pockets.
 

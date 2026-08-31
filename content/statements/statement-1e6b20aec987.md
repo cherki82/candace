@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2590);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2590s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here is one that was in the London Times. Catholics outnumber Anglicans, two to one among Gen Z churchgoers, which is amazing.
 

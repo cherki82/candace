@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:39:28](/episodes/ep-1hcjQGgvxUY.md#t-00-39-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2368);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2368s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > mike he got ahead of himself mikey the amazing mike mikey the marvels got a little ahead of himself and it was like messing up his vibe and he moved it that's probably what happened
 

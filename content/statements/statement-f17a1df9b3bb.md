@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:37:45](/episodes/ep-zSKrxIUMNqw.md#t-00-37-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2265);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2265s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What I can tell you is that that tweet cost me many millions of dollars,
 

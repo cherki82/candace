@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Rob McCoy](/entities/person-rob-mccoy) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
+
+- [00:57:11](/episodes/ep-2WEHTk0Xewg#t-00-57-11): _I only wish at this tragic time of mourning she would be the friend to Charlie (Charlie Kirk) that he was to her._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 

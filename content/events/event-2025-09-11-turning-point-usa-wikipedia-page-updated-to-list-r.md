@@ -7,185 +7,26 @@ time: "22:34"
 ---
 
 **Date:** 2025-09-11 at 22:34
+**Date precision:** Day
 
 ## Event
 
 > Turning Point USA Wikipedia page updated to list Rob McCoy as co-founder of TPUSA Faith.
 
-## Mentioned In (22 times)
+## Mentioned In (2 times)
 
-### 1. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
-**Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
-**Timestamp:** [00:00:02](/episodes/ep-Qt0VHV-POCg.md#event-event-2025-09-11-turning-point-usa-wikipedia-page-updated-to-list-r-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2);return false;">▶️ Play</a>
+**Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+**Timestamp:** [00:06:49](/episodes/ep-c5BcKF91iec.md#t-00-06-36) 
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=409s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> All right, you guys. Where to begin? Well, the Turning Point USA Wikipedia entry got a very interesting update the night after Charlie Kirk was murdered. A certain someone was myster
+> the exact terminology that was utilized by Pastor Rob McCoy just four days after Charlie was murdered. In front of his congregation, he spoke about Charlie's s
 
 ### 2. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
-**Timestamp:** [00:03:21](/episodes/ep-Qt0VHV-POCg.md#event-event-2025-09-11-turning-point-usa-wikipedia-page-updated-to-list-r-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(201);return false;">▶️ Play</a>
+**Timestamp:** [00:03:21](/episodes/ep-Qt0VHV-POCg.md#event-event-2025-09-11-turning-point-usa-wikipedia-page-updated-to-list-r-t-00-02-59) 
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> an 36 hours, exact time, at 10:34 p.m. Eastern on September 11th—the Turning Point USA Wikipedia received a rather interesting update. Pastor Rob McCoy, who had pre
-
-### 3. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
-
-**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:15:52](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(952);return false;">▶️ Play</a>
-
-> d us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie was a commit
-
-### 4. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
-
-**Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1671);return false;">▶️ Play</a>
-
-> That was my reason for going after Andrew Kolvet, Mikey McCoy. Anybody that's told a lie—Rob McCoy, blood all over him— you got my attention. What lie has Erika
-
-### 5. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
-
-**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
-**Timestamp:** [00:11:39](/episodes/ep-JQjCAsfoXEE.md#t-00-11-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(699);return false;">▶️ Play</a>
-
-> Erika? Why didn't Ben on stage say, "She accused Mikey or Rob"? I've done multiple episodes now on Mikey, on Rob, speaking
-
-### 6. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:48:26](/episodes/ep-a-e7HC6SeK8.md#t-00-47-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2906);return false;">▶️ Play</a>
-
-> He apparently had a 15–20 year plan according to Frank Turek. Or was it Rob McCoy? Rob McCoy said that, I think. I think they all said it—honestly—but Rob McCoy
-
-### 7. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
-
-**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
-**Timestamp:** [00:02:04](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(124);return false;">▶️ Play</a>
-
-> r which you have no evidence. Challenge accepted, Frank Turek. Let's go, Max, today. Welcome back to Candace. Pastor Rob McCoy—let's not forget h
-
-### 8. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:56:55](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3415);return false;">▶️ Play</a>
-
-> use some jujitsu—and I'm referring here to Roy or Rob McCoy who says, "I'm Charlie's pastor, and here's the truth" or whatever it is—to look the
-
-### 9. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
-
-**Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
-**Timestamp:** [00:06:49](/episodes/ep-c5BcKF91iec.md#t-00-06-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(409);return false;">▶️ Play</a>
-
-> the exact terminology that was utilized by Pastor Rob McCoy just four days after Charlie was murdered. In front of his congregation, he spoke about Charlie's s
-
-### 10. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
-
-**Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:24:20](/episodes/ep-vwG1juDCQZQ.md#t-00-23-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1460);return false;">▶️ Play</a>
-
-> that. And I don't—I do not have any sympathy for Rob McCoy. I have no sympathy for Mikey McCoy. I have no sympathy for Tyler Bowyer. I—yeah—I think telling the
-
-### 11. Why Isn't The Trump Family Asking Questions About Charlie Ki...
-
-**Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
-**Timestamp:** [00:03:05](/episodes/ep-Qt0VHV-POCg.md#event-event-2025-09-11-turning-point-usa-wikipedia-page-updated-to-list-r-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(185);return false;">▶️ Play</a>
-
-> you guys something that's been bothering me about Rob McCoy—sticking on him—other than the fact that he lies and he proclaims to be a pastor. Is the fact that
-
-### 12. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
-
-**Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:27:53](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1673);return false;">▶️ Play</a>
-
-> ew Kolvet, Mikey McCoy. Anybody that's told a lie—Rob McCoy, blood all over him— you got my attention. What lie has Erika told that I'm supposed t
-
-### 13. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
-
-**Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(814);return false;">▶️ Play</a>
-
-> plausibility—almost like it was this psychological operation
-
-### 14. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:48:33](/episodes/ep-a-e7HC6SeK8.md#t-00-47-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2913);return false;">▶️ Play</a>
-
-> –20 year plan according to Frank Turek. Or was it Rob McCoy? Rob McCoy said that, I think. I think they all said it—honestly—but Rob McCoy did say that. He kep
-
-### 15. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
-
-**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
-**Timestamp:** [00:02:23](/episodes/ep-JQjCAsfoXEE.md#t-00-02-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(143);return false;">▶️ Play</a>
-
-> . Welcome back to Candace. Pastor Rob McCoy—let's not forget him too—because he's the spawn of naval psychological intelligence, psychological
-
-### 16. From Britney To Charlie. With Pastors Like These, Who Needs ...
-
-**Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(228);return false;">▶️ Play</a>
-
-> we spoke about the Calvary Chapel. We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States—and my s
-
-### 17. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
-
-**Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:07:20](/episodes/ep-LATnak75Si0.md#t-00-07-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(440);return false;">▶️ Play</a>
-
-> Then they were going to tell Americans—as Pastor Rob McCoy did— that it just so happened that Charlie kept notebooks and diaries. He was so dil
-
-### 18. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:48:32](/episodes/ep-a-e7HC6SeK8.md#t-00-47-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2912);return false;">▶️ Play</a>
-
-> apparently had a 15–20 year plan according to Frank Turek. O
-
-### 19. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:56:12](/episodes/ep-2WEHTk0Xewg.md#t-00-55-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3372);return false;">▶️ Play</a>
-
-> emotionally use some jujitsu—and I'm referring here to Roy o
-
-### 20. Why Isn't The Trump Family Asking Questions About Charlie Ki...
-
-**Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
-**Timestamp:** [00:09:11](/episodes/ep-Qt0VHV-POCg.md#event-event-2025-09-11-turning-point-usa-wikipedia-page-updated-to-list-r-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(551);return false;">▶️ Play</a>
-
-> 't even think Charlie's body had returned back to Arizona. And yet somebody was dedicated to Rob McCoy lying and claiming—this person who typed this—that he
-
-### 21. Why Isn't The Trump Family Asking Questions About Charlie Ki...
-
-**Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
-**Timestamp:** [00:03:52](/episodes/ep-Qt0VHV-POCg.md#event-event-2025-09-11-turning-point-usa-wikipedia-page-updated-to-list-r-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(232);return false;">▶️ Play</a>
-
-> ow. It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith together." "Along with being a Pentecostal pastor in the Calvary Chapel Association,
-
-### 22. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
-
-**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
-**Timestamp:** [00:11:45](/episodes/ep-JQjCAsfoXEE.md#t-00-11-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(705);return false;">▶️ Play</a>
-
-> Mikey, on Rob, speaking about Andrew Kolvet, Alex Clark. Why were they kept? Why do they keep going back to Erika? What is it about these Egypt
+> September 11th—the Turning Point USA Wikipedia received a rather interesting update.

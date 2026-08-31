@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:23:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-23-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1435);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1435s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, the 60s, that entire decade was all about military experimenting with social engineering and social engineering via things like the Manson murders, ... social engineering via establishing churches.
 

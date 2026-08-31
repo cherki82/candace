@@ -24,7 +24,7 @@ Source: [Cognex Investor Relations FAQs](https://investor.cognex.com/resources/f
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -71,7 +71,43 @@ Source: [Cognex Investor Relations FAQs](https://investor.cognex.com/resources/f
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Funded (2)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
+
+</details>
+
+</details>
 
 </details>
 

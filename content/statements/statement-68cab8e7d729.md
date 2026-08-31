@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:04:27](/episodes/ep-4YgrOhhy708.md#t-00-04-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(267);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, I looked into it. The person that controls who gets to perform at the halftime is JAY-Z for some reason. ... JAY-Z in partnership with the NFL. ... but JAY-Z booked him.
 

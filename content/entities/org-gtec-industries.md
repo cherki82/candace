@@ -28,7 +28,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -120,13 +120,6 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Has Ceo (1)</summary>
-
-- **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-
-</details>
-
-<details>
 <summary>Has Former Ceo (1)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
@@ -139,9 +132,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
-
-- **[Lori Frantzve](/entities/person-lori-frantzve.md)** CEO of this
+<summary>Referenced By (3)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -175,7 +166,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2)</summary>
 
-- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pend..."](/statements/statement-2c06601c490a.md)
+- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["Owens alleged that, in late 2016, Lori Frantzve and Larry Guinta met t..."](/statements/statement-2c06601c490a.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 - [00:19:10](/episodes/ep-xi8SYJTUXPM.md#t-00-18-56) (Claim) **Candace Owens**: ["Lori Frantzve was doing government deals involving GTEC Industries' el..."](/statements/statement-bfdbc1e5443e.md)

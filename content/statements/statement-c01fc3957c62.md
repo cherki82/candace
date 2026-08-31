@@ -1,6 +1,6 @@
 ---
-title: "I spoke at Turning Point's conference—two conferences—last y..."
-description: "\"I spoke at Turning Point's conference—two conferences—last year... I went on tour with Turning Point last year. Live Free Tour, Charlie Kirk and Canda...\" — Candace Owens"
+title: "I spoke at Turning Point's conferences twice last year and w..."
+description: "\"I spoke at Turning Point's conferences twice last year and went on the Live Free Tour with Charlie Kirk\" — Candace Owens"
 statement_id: "statement-c01fc3957c62"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> I spoke at Turning Point's conference—two conferences—last year... I went on tour with Turning Point last year. Live Free Tour, Charlie Kirk and Candace Owens.
+> I spoke at Turning Point's conferences twice last year and went on the Live Free Tour with Charlie Kirk
 
 ## Attribution
 
@@ -20,13 +20,18 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:28:05](/episodes/ep-aDlhjfW6hz8.md#t-00-27-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1685);return false;">Play</a>
+**Timestamp:** [00:28:03](/episodes/ep-aDlhjfW6hz8.md#t-00-27-56) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1683s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> For context, just so you can realize how odd this is: I spoke at Turning Point's conference—two conferences—last year.
+> For context, just so you can realize how odd this is: I spoke at Turning Point's conference—two conferences—last year. ... But like, I went on tour with Turning Point last year. It's still on their website. ... Live Free Tour, Charlie Kirk and Candace Owens.
 
 ## Verification
 

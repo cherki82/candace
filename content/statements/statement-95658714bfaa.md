@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:21:39](/episodes/ep-3QJqtW_NOSI.md#t-00-21-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1299);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1299s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yet despite reporting that the officers were indeed at DynCorp trafficking, prostituting and raping the victims, they got to enjoy immunity. ... Military contractors don't have to suffer any prosecution in foreign territories. So in the end, DynCorp got off scot-free and just continued their relationship with the United States government.
 

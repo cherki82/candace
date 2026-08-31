@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:11:52](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(712);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=712s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You see, we have to remember that Charlie had an event before the event, which I said was unusual. ... It's like they didn't want him to land in Provo. He does this restaurant event. His last interview with a guy named Andrew Smith.
 

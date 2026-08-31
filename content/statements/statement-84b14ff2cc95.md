@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:37:49](/episodes/ep-FFQ9675oqRI.md#t-00-37-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2269);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=2269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, the biggest lie being that the surgeon said that he had a steel neck. ... why she would lie and why Andrew Kolvet would lie and they would put words in the surgeon's mouth
 

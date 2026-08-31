@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:40:25](/episodes/ep-cPidFQDJLbo.md#t-00-40-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2425);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=2425s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's not real. They used to think that that was what these things do, that they treated a chemical imbalance, but then recently studies have shown that that is not what they do. ... They don't exactly know what they do, and they kind of numb you in some sort of a way that helps some people.
 

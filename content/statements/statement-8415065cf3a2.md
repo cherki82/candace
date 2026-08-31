@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:34:48](/episodes/ep-5autG89PW6w.md#t-00-34-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2088);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=2088s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I maintain—I actually believe—that this was a military hit that involved foreign actors and also literal actors.
 

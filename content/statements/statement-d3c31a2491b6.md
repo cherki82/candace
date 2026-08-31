@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:48:31](/episodes/ep-Pb7UlpRdW6U.md#t-00-48-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2911);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=2911s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when too many people are saying the same thing all at once like a ball room after a shooting you go who's instructing this and now we know it's the military right the military is sending to ... to comms teams, the comms teams are then going out to surrogates and they are coordinating that messaging behind the scenes and amplifying certain things.
 

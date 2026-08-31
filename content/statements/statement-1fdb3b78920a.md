@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1925);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1925s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > charlie kirk show really here's what blake neff wrote crashing out here we can see the latest thing that candace will fixate on for the next two weeks as all important the key to blowing the case wide open so that she has an excuse to harass more people of course when she gets bored or successfully extracts whatever thing she is looking for which of course will be a total nothing burger she'll move on to dismissing it as irrelevant or just stop talking about it entirely and move on to her next fixation
 

@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:58:09](/episodes/ep-es7PWdFGoFI.md#t-00-58-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3489);return false;">Play</a>
+**Timestamp:** [00:58:00](/episodes/ep-es7PWdFGoFI.md#t-00-58-00) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=3480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Megyn Kelly offered to ref that conversation
+> And Megyn Kelly, who was initially going to, when we were going to live stream the conversation, before the Bari (Bari Weiss) moment, Megyn Kelly offered to ref that conversation.
 
 ## Verification
 

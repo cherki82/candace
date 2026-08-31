@@ -15,7 +15,7 @@ object: "person-charlie-kirk"
 
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
-- [00:30:39](/episodes/ep-es7PWdFGoFI#t-00-30-39): _Seth Dillon definitively pressed Charlie at this event._
+- [00:30:28](/episodes/ep-es7PWdFGoFI#t-00-30-28): _I think I've been clear about that. Like, Seth Dillon definitively pressed Charlie (Charlie Kirk) at this event. Whether it was in a hypothetical, which it was in a hypothetical, but he got fired up in the hypothetical, of Charlie (Charlie Kirk) discussing, potentially tweeting something against Bibi Netanyahu, it did lead to this firecracker moment._
 
 ### Related
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2580);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=2580s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said discord, we understood discord, we all said discord, but then what happened was discord themselves came out immediately and said that wasn't true. ... So they suddenly changed their minds and they said, no, this was happening via iMessage. That wasn't a mistake. ... He's reading from a piece of paper and then the feds got caught lying and then they altered things and they said, we always said that it was eye messages.
 

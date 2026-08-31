@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:19:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1182);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1182s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In her high school yearbook, actually, ... Kent (Kenneth Frantzve) is included, ... her father, ... biological father, ... in a collage, and so are his parents, ... her grandparents, ... Carl (Carl Kenneth Frantzve) and Elaine (Elaine Frantzve), ... But he's featured there, too. ... You've got Larry (Larry Guinta) in the photo.
 

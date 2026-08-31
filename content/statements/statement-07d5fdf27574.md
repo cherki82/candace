@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:31:14](/episodes/ep-QRS_hR7NXaQ.md#t-00-30-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1874);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1874s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is pointing. to the possibility that Erika (Erika Kirk) was just not there on the 8th at all
 
@@ -36,7 +36,7 @@ type: "accusation"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:41:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-41-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2496);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2496s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have a strong inkling and it's not a fact, but it is a strong inkling. that charlie was at home alone with the kids ... My vibes, my spidey senses are telling me. And Erika (Erika Kirk) was not there on the 8th.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:25:22](/episodes/ep-q1NRQQAYS_Q.md#t-00-25-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1522);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=1522s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mm-hmm. No, it's a great question. It's actually a very thoughtful question. I grew up with a mother who is an entrepreneur. ... It was her and I. My parents got divorced when I was very young, when I was five.
 

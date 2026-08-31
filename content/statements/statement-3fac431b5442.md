@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:38:20](/episodes/ep-2tFYJf1klgY.md#t-00-38-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2300);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=2300s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We continue the second reason is that Bill (William Erpenbeck Jr.) transferred 50% of the stock that he owned in B&G Holdings LLC, and that's Bill (William Erpenbeck Jr.), his brother, the one that goes to prison for years. Well, we learned that Bill (William Erpenbeck Jr.) transferred 50% of that stock to an LLC called Bill (William Erpenbeck Jr.) Erpenbeck Children LLC, and Rick (Richard William Erpenbeck) managed that LLC.
 

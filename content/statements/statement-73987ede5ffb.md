@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:02:33](/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(153);return false;">Play</a>
+**Timestamp:** [00:02:33](/episodes/ep-MUA9ebCF4Ow.md#t-00-02-30) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=153s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This was not a simple mistake because in the days following it, he didn't recant. He did not modify. He did not correct...This was a premeditated and a postmeditated lie.
 

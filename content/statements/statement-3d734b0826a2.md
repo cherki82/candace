@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:45:48](/episodes/ep-WoXd4oLwd3w.md#t-00-45-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2748);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2748s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Although we have already begun processing your request, we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request.
 

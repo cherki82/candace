@@ -1,6 +1,6 @@
 ---
-title: "Military-grade actors were present when Charlie Kirk got sho..."
-description: "\"Military-grade actors were present when Charlie Kirk got shot\" — Candace Owens"
+title: "Owens said she thinks some military-grade actors were presen..."
+description: "\"Owens said she thinks some military-grade actors were present when Charlie Kirk was shot\" — Candace Owens"
 statement_id: "statement-f59c4e4811ab"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Military-grade actors were present when Charlie Kirk got shot
+> Owens said she thinks some military-grade actors were present when Charlie Kirk was shot
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:31:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1903);return false;">Play</a>
+**Timestamp:** [00:31:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-30-46) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1878s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I think this military industrial complex has had a lot of actors. We have military-grade actors—some of which I think were there when Charlie got shot.
+> I think this military industrial complex has had a lot of actors. We have military-grade actors—some of which I think were there when Charlie (Charlie Kirk) got shot.
 
 ## Verification
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(254);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck. ... yet curiously that wedding photo is missing
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:33:01](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1981);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1981s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > moving on after yesterday's episode regarding photogate, turning point issued a statement about how the wedding photo, ... which was curiously there when Charlie (Charlie Kirk) was hosting his last show and then was suddenly removed and Erica (Erika Kirk) was speaking to Glenn Beck in December,
 

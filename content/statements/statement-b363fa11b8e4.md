@@ -29,7 +29,7 @@ type: "citation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:20:02](/episodes/ep-tXoI0TTKVrs.md#t-00-20-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1202);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1202s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Instead, the Department of War was directing people to artificially boost her I want to go home video because it was an emotional asset. ... They wanted that video to be the number one video by morning.
 
@@ -37,7 +37,7 @@ type: "citation"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:25:23](/episodes/ep-3QJqtW_NOSI.md#t-00-25-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1523);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1523s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Particularly the department that Bradley Hansell and Stephen Feinberg and Pete Hegseth sit at the top of were orchestrating messaging to artificially boost Erika (Erika Kirk). They wanted her as the number one trend by morning.
 

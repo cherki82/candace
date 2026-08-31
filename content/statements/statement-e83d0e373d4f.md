@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:11:56](/episodes/ep-KpxIBWkNsSs.md#t-00-11-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(716);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=716s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) would be the kind of person that if you see on a subway, you should move if you're capable of that, because that would mean she was void of any and all human emotion, capable of, I am being clear, I am not being dramatic. If this turns out to be real, I would assert that she is capable of real harm. She is dangerous.
 

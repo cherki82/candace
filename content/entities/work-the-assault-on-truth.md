@@ -38,8 +38,8 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-work-the-assault-on-truth-t-00-38-17" style="--pulse-height:50%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-assault-on-truth-t-00-02-02" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-work-the-assault-on-truth-t-00-58-47" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-00-56" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-58" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-00-38" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-44" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-assault-on-truth-t-00-02-09" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-the-assault-on-truth-t-00-12-53" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 </div>
@@ -51,8 +51,8 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-work-the-assault-on-truth-t-00-38-17) | 1 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-assault-on-truth-t-00-02-02) | 2 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-work-the-assault-on-truth-t-00-58-47) | 2 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-00-56) | 2 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-58) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-00-38) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-44) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-the-assault-on-truth-t-00-02-09) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-the-assault-on-truth-t-00-12-53) | 1 |
 
@@ -83,7 +83,7 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:56:18](/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-58)**
+**[00:56:15](/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-44)**
 > "...ub. Even if you can't join the book club, you can still buy those books. And so I would start with "The Assault on Truth" by Jeffrey Masson, and then move on to this most critical book, which is "Sigmund Freud's and the ..."
 
 </details>
@@ -91,10 +91,10 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[01:00:56](/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-00-56)**
+**[01:00:56](/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-00-38)**
 > "...mund Freud, the book in my book club. If you can't join the book club, that's fine. You should read The Assault on Truth to understand what sorts of lies these people are capable of telling and why what they do is they a..."
 
-**[01:03:24](/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-03-09)**
+**[01:03:24](/episodes/ep-pc3pxRyNFZk.md#ent-work-the-assault-on-truth-t-01-03-11)**
 > "...I would say, on getting people to recognize just how evil things can get. And that's why I say read The Assault on Truth, confront that, and then everything will start to make sense. Because then you're going to go, "How..."
 
 </details>

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2008);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=2008s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's an article which tells us that Greg Laurie, there's been a number of lawsuits filed against Harvest Christian Fellowship. The founder, Greg Laurie, and also the churches related to alleged abuse of young men at a children's home in Romania. OK, there's now there's 12 lawsuits, actually.
 

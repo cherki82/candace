@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -14,7 +19,7 @@ date: "2025-09-10"
 ## Mentioned In
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:19:24](/episodes/ep-iHav0PPzUz8.md#event-event-2025-09-10-egyptian-military-plane-departed-provo-u-t-00-19-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1164);return false;">▶️ Play</a>
+**Timestamp:** [00:19:24](/episodes/ep-iHav0PPzUz8.md#event-event-2025-09-10-egyptian-military-plane-departed-provo-u-t-00-19-19) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > September 10th, it departed Provo, Utah at 7:14 a.m. local time

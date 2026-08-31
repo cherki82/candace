@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:54:34](/episodes/ep-VMNWMXX1vO8.md#t-00-54-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3274);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I know this won't help progress your theories, but me, along with my tech friends, all believe it was the mic. ... We could definitely be biased since we deal with IEDs, but I just thought that you should know that a lot of people who deal with rifles and improvised explosives do not believe it was from a gun.
 

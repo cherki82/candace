@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:33:32](/episodes/ep-WoXd4oLwd3w.md#t-00-32-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2012);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2012s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bibi (Benjamin Netanyahu) calls him, offers to take turning point to the next level in exchange for what we still don't know. But Charlie (Charlie Kirk) declines.
 

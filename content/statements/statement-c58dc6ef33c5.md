@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:23:24](/episodes/ep-WoXd4oLwd3w.md#t-00-22-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1404);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Right after this on July 18th, that's when the request goes in for UVU. We still don't know who submitted that request. I told you it has literally never happened that you instantly get a spot, the first spot of a semester tour. There's such a long waiting list to have Charlie (Charlie Kirk) go speak at their schools, but they suddenly made one.
 

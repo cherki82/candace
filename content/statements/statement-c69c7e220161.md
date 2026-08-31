@@ -1,6 +1,6 @@
 ---
-title: "Tyler Robinson arrived on UVU campus in gray Dodge Challenge..."
-description: "\"Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 10 wearing maroon t-shirt, light-colored shorts, black hat with white l...\" — Spencer Cox"
+title: "Governor Cox said UVU surveillance showed Tyler Robinson arr..."
+description: "\"Governor Cox said UVU surveillance showed Tyler Robinson arriving on campus in a gray Dodge Challenger at about 8:29 a.m. on September 10 wearing a ma...\" — Spencer Cox"
 statement_id: "statement-c69c7e220161"
 speaker: "Spencer Cox"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 10 wearing maroon t-shirt, light-colored shorts, black hat with white logo, light-colored shoes; encountered in same clothing early morning Sep 12
+> Governor Cox said UVU surveillance showed Tyler Robinson arriving on campus in a gray Dodge Challenger at about 8:29 a.m. on September 10 wearing a maroon T-shirt, light-colored shorts, a black hat with a white logo, and light-colored shoes
 
 ## Attribution
 
@@ -26,24 +26,24 @@ veracity: "true"
 ### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1710);return false;">Play</a>
+**Timestamp:** [00:28:27](/episodes/ep-2WEHTk0Xewg.md#t-00-28-27) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1707s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Investigators reviewed additional video footage from UVU surveillance and identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m
+> Investigators reviewed additional video footage from UVU surveillance and identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with a white logo, and light-colored shoes. ... When encountered in person by investigators in Washington County on September 12th in the early morning hours, Robinson was observed in consistent clothing with those surveillance images.
 
 ### 2. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:40:44](/episodes/ep-czVBmqZP6Ss.md#t-00-40-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2444);return false;">Play</a>
+**Timestamp:** [00:40:44](/episodes/ep-czVBmqZP6Ss.md#t-00-40-44) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2444s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Investigators reviewed additional video footage from UVU surveillance and identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m
+> Investigators reviewed additional video footage from UVU surveillance and identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with a white logo, and light-colored shoes.
 
 ### 3. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:40:10](/episodes/ep-czVBmqZP6Ss.md#t-00-39-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2410);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, Governor Cox tells us that at 8:29, which is an interesting timeline, Governor Cox tells us that that is when the shooter, Tyler Robinson, arrived at UVU campus in a plain maroon t-shirt, light-colored shorts, and a black hat with a white logo
 

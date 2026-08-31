@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:12:13](/episodes/ep-EtLHqDbxqks.md#t-00-11-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(733);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=733s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His brothers were the hunters. I also have suggested heavily from the beginning that Lance Twiggs is a federal asset who gathered Tyler (Tyler Robinson)'s belongings to pin the crime on him.
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:46:57](/episodes/ep-QZWSsq8ZWzw.md#t-00-46-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2817);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2817s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think that's a little ridiculous. And that only is being—that's only due to, in large part, some of the more sinister motives of the feminist movement—which we can get into another time when I release my next, my sophomore book, which is coming out later this year.
 

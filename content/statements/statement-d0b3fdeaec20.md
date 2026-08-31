@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:09:57](/episodes/ep-4YgrOhhy708.md#t-00-09-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=597s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What we can safely say is over 20 million Americans tuned in to the All-American Halftime Show tonight.
 

@@ -6,6 +6,11 @@ date: "2019"
 ---
 
 **Date:** 2019
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:24:13](/episodes/ep-amqTMimDr0A.md#event-event-2019-gary-javitch-receives-bnai-brith-interna-t-00-23-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1453);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1453s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He received the inaugural President's Award in 2019 for advancing the organization's mission.

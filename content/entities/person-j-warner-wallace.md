@@ -3,9 +3,17 @@ title: "J. Warner Wallace"
 description: "J. Warner Wallace (People) - 1 mention"
 id: "person-j-warner-wallace"
 type: "PERSON"
+categories:
+  - "cold-case detective and Christian apologist"
 ---
 
 _Type: People_
+
+**Categories:** cold-case detective and Christian apologist
+
+**Entity verification:** verified
+> CBN biography confirms the canonical public name J. Warner Wallace and detective/apologist role.
+Source: [J. Warner Wallace | CBN](https://cbn.com/person/j-warner-wallace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-j-warner-wallace-t-00-02-46">2025-11-13 · 00:03:18</a></strong></div>

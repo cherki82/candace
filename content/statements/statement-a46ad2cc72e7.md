@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:32:13](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1933);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1933s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He fired the chief—among other people—and replaced her with Robert Bohls in August. I think Robert Bohls—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:36:55](/episodes/ep-4DvYXBn_5JI.md#t-00-36-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2215);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=2215s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After Charlie's death, and maybe even before Charlie's death, but definitively after, Marcus was meeting with and communicating with Hollywood AI deep fake companies. ... I'm going to give you the name of the company. It's VFXLA. ... These guys were brought into Turning Point USA. Like I said, we can confirm that with Marcus Wada.
 

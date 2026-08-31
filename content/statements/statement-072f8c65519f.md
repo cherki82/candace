@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:56:51](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3411);return false;">Play</a>
+**Timestamp:** [00:56:51](/episodes/ep-2WEHTk0Xewg.md#t-00-56-47) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=3411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rob McCoy. He wrote: "Charlie (Charlie Kirk) was my friend, and I was his pastor. I want to simply say this regarding Candace (Candace Owens). Charlie (Charlie Kirk) was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, though he disagreed with her. He never operated nor entertained gossip or innuendo concerning Candace (Candace Owens). My only comment I offer regarding Candace (Candace Owens) is this. I only wish at this tragic time of mourning she would be the friend to Charlie (Charlie Kirk) that he was to her.
 

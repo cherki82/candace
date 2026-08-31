@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:11:02](/episodes/ep-c5BcKF91iec.md#t-00-10-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(662);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=662s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can't dial and put your phone to your ear in 0.834 seconds.
 

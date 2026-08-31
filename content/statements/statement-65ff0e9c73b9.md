@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:11:43](/episodes/ep-YFmRH8p5lt0.md#t-00-11-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(703);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=703s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you guys—that's obvious. But he grew up playing music in a New Apostolic Reformation Church, okay? New Apostolic Reformation. Going forward, we're going
 

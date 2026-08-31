@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:40:54](/episodes/ep-5NQyGuRYbU8.md#t-00-40-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2454);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2454s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He also said she hated the pastors that were around him, right? What that means is that Erika (Erika Kirk), as the wife and the confidant of Charlie Kirk, was pushing him to be more anti-Israel.
 

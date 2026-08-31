@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:44:54](/episodes/ep-Ux1kzgQxkws.md#t-01-44-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=6294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That faith that is used as a cudgel is really, really dangerous. I think that I know a lot of people that I personally love and very close to that are part of an evangelical church, particularly in the African-American community, but that are... ... horrified by the complicity of a certain section of the evangelical church and what's happening in the world today.
 

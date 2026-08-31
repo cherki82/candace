@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:04:02](/episodes/ep-I0OaY6Gryqk.md#t-00-04-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(242);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=242s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Shannon (Shannon Kent) was the first female combat death in Syria since combat operations began against ISIS. And she was also the first female U.S. service member that was killed by enemy fire in more than three years up until that point. And as you can see, she left behind her two children with Joe (Joe Kent), just three years old at the time. The other was 18 months old at the time.
 

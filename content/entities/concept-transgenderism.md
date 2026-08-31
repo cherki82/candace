@@ -139,7 +139,7 @@ _Type: Concepts_
 > "...ure of vices that we are suffering from today: a culture that is filled with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuticals. If you research these topics historically, y..."
 
 **[00:13:27](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-12-52)**
-> "...ht for that. Samuel Roth (Samuel Roth)—actually, that's his name—fought for that decision in court. Transgenderism—go back and try to figure out where that came from. Magnus Hirschfeld (Magnus Hirschfeld) was the d..."
+> "Transgenderism—go back and try to figure out where that came from."
 
 </details>
 
@@ -185,7 +185,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:56:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) (Accusation) **Candace Owens**: ["Kabbalah is the reason for the cultural push for transgenderism"](/statements/statement-ec798c5bd223.md)
+- [00:56:13](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) (Accusation) **Candace Owens**: ["Kabbalah is the reason for the cultural push for transgenderism"](/statements/statement-ec798c5bd223.md)
   - Also about: [Jewish mystical tradition](/entities/concept-jewish-mystical-tradition.md)
 
 </details>

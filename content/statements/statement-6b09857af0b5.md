@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:39:00](/episodes/ep-SgVcnx4Oh30.md#t-00-38-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2340);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2340s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do believe Erika Kirk flew with Tyler Bowyer. And another person told us Tyler Bowyer was in earlier that day and had taken a meeting in Utah. ... But I have not been able to confirm that with a first person account. But I find that interesting and I do know Erika Kirk and Tyler Bowyer were together.
 

@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:36:57](/episodes/ep-19vHhjF7-NA.md#t-00-36-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2217);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The prime minister is considered the biggest anti-Albanian in the entire history of Albania. He is selling our land and sea to neighboring countries.
 

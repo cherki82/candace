@@ -22,7 +22,7 @@ _Type: Works & Media_
 Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-34">2025-11-05 · 00:23:39</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-23">2025-11-05 · 00:23:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#t-00-56-50">2026-06-24 · 00:57:13</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
@@ -34,9 +34,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-34">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-23">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-34" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-23" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-work-the-shawn-ryan-show-t-00-16-16" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-work-the-shawn-ryan-show-t-00-49-18" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#t-00-08-30" style="--pulse-height:50%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-34) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-23) | 2 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-work-the-shawn-ryan-show-t-00-16-16) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-work-the-shawn-ryan-show-t-00-49-18) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30) | 1 |
@@ -111,10 +111,10 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:23:39](/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-34)**
+**[00:23:34](/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-23)**
 > "... to. (Clip of Brett Cooper on Sean Ryan Show)"
 
-**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-25-08)**
+**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-25-04)**
 > "...s a very powerful episode of "The Sean Ryan Show" because she tells her backstory, and you realize..."
 
 </details>
@@ -164,7 +164,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
+- [00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said she believed Turning Point USA's assertion that it ..."](/statements/statement-191d6deb062d.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

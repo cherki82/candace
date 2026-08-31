@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:06:29](/episodes/ep-k1b1NDCrNFs.md#t-00-06-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(389);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=389s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Owens is the most high profile spreader of baseless Charlie Kirk conspiracy theories, but she is not the only one.
 

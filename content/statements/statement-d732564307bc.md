@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:16:39](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(999);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So as President Trump said, they've been tap, tap, tapping. You can see when someone's trying to tap, tap, tap on a deal. Instead, they're going to have tap, tap, tap bombs dropping on key facilities ... in Iran from the United States of America.
 

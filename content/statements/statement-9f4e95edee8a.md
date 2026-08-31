@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:35:42](/episodes/ep-EtLHqDbxqks.md#t-00-35-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2142);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2142s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Correct. So they were swabbed together, so I wouldn't be able to say where the DNA came from.
 

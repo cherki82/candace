@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:00:04](/episodes/ep-DqGNvi36ol8.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=4s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Get excited because the rapper, the game has dropped his song entitled The Assassination of Candace Owens. ... Truth is, truth hurts. ... It's like a neck shot, who really killed Charlie Kirk?
 

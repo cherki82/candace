@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2106);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2106s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I see a new enemy rising from within. ... I am speaking of a poison being sold to the American people as patriotism. I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens.
 

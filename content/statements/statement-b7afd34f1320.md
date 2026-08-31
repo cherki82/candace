@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:43:38](/episodes/ep-amqTMimDr0A.md#t-00-43-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2618);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2618s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it is true that at Charlie (Charlie Kirk)'s actual Catholic mass burial, which was a day before the memorial event that Erika (Erika Kirk) made her own family members and everyone present sign NDAs. That's what I was told.
 

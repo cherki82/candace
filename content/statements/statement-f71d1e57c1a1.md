@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:12:50](/episodes/ep-cPidFQDJLbo.md#t-00-12-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(770);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=770s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Your communications with the security team during those critical hours might be relevant to my lawsuit. Maybe Brian (Brian Harpole) or Dan (Dan Flood) communicated to you that they felt that they didn't do all they could do. ... I really don't know, Victor (Victor Marx), but I'm going to need to find out because I'm being sued for defamation, which is why we sent earlier today Victor Marx's legal preservation letter.
 

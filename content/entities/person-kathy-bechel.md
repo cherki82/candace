@@ -3,9 +3,17 @@ title: "Kathy Bechel"
 description: "Kathy Bechel (People) - 1 mention"
 id: "person-kathy-bechel"
 type: "PERSON"
+categories:
+  - "Orem neighborhood witness"
 ---
 
 _Type: People_
+
+**Categories:** Orem neighborhood witness
+
+**Entity verification:** verified
+> The embedded local-news clip explicitly introduces Kathy Bechel by name and shows her leading the reporter to the referenced backyard; canonicalization records that visible source identification only.
+Source: [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](https://www.youtube.com/watch?v=sreYYcID-QY)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-kathy-bechel-t-00-13-21">2025-09-18 · 00:13:21</a></strong></div>

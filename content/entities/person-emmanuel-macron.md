@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Macron"
-description: "Emmanuel Macron (People) - 118 mentions"
+description: "Emmanuel Macron (People) - 112 mentions"
 id: "person-emmanuel-macron"
 type: "PERSON"
 aliases:
@@ -23,36 +23,35 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>118</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>112</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (24 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (23 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-34-19" style="--pulse-height:17%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46" style="--pulse-height:25%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49" style="--pulse-height:13%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46" style="--pulse-height:22%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-emmanuel-macron-t-00-10-58" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-10" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-01-57" style="--pulse-height:26%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-57-38" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-39-14" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-39-18" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-emmanuel-macron-t-00-30-06" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03" style="--pulse-height:21%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#t-00-38-36" style="--pulse-height:21%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 24 mentions" title="2025-11-20 · 24 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-04-29" style="--pulse-height:92%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 22 mentions" title="2025-12-01 · 22 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-01-30" style="--pulse-height:21%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-emmanuel-macron-t-00-49-40" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#t-00-06-27" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03" style="--pulse-height:17%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-38-36" style="--pulse-height:22%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 23 mentions" title="2025-11-20 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-04-29" style="--pulse-height:96%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 22 mentions" title="2025-12-01 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-01-30" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 4 mentions" title="2025-12-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-emmanuel-macron-t-00-49-40" style="--pulse-height:26%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#t-00-06-27" style="--pulse-height:9%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-08" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-53" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-emmanuel-macron-t-00-00-00" style="--pulse-height:29%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 7 mentions" title="2026-02-04 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-emmanuel-macron-t-00-00-00" style="--pulse-height:30%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 7 mentions" title="2026-02-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-emmanuel-macron-t-00-43-01" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-emmanuel-macron-t-00-14-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-emmanuel-macron-t-00-28-10" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
@@ -60,8 +59,8 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-emmanuel-macron-t-00-09-34" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-emmanuel-macron-t-01-04-42" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#t-00-00-00" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-emmanuel-macron-t-00-00-44" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-36-50" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-emmanuel-macron-t-00-00-44" style="--pulse-height:9%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-36-50" style="--pulse-height:9%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-emmanuel-macron-t-00-08-25" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-emmanuel-macron-t-00-52-23" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-emmanuel-macron-t-01-02-41" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
@@ -73,18 +72,17 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-45-49) | 3 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-34-19) | 4 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46) | 6 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46) | 5 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-emmanuel-macron-t-00-10-58) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-10) | 6 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-01-57) | 6 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-57-38) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-14) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-18) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-emmanuel-macron-t-00-30-06) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03) | 5 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03) | 4 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-38-36) | 5 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18) | 24 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14) | 23 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-04-29) | 22 |
-| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-01-30) | 5 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-01-30) | 4 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-emmanuel-macron-t-00-49-40) | 6 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-08) | 1 |
@@ -111,7 +109,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (118)</strong></summary>
+<summary><strong class="section-title">Raw mentions (112)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -308,19 +306,16 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
 
 **[00:01:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-01-30)**
-> "my lawsuit, me being sued by Brigitte Macron (Brigitte Macron), me being sued by Brigitte (Brigitte Macron) and Emmanuel Macron (Emmanuel Macron), and whether or not it was just one big federal setup meant to bankrupt me."
+> "my lawsuit, me being sued by Brigitte Macron, me being sued by Brigitte (Brigitte Macron) and Emmanuel Macron, and whether or not it was just one big federal setup meant to bankrupt me."
 
 **[00:02:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-02-09)**
 > ""I believe that the purpose of Macron's (Emmanuel Macron's) lawsuit was that it was supposed to go nowhere because Candace (Candace Owens) was supposed to have been assassinated before the case got to court.""
 
 **[00:05:46](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-02-09)**
 > "...r Becoming Brigitte (Brigitte Macron) series."
-
-**[00:05:52](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-02-09)**
-> "...n Becoming Brigitte (Brigitte Macron) series two, season two—we were speaking about Er..."
 
 **[00:12:04](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-02-09)**
 > "...e've got Brigitte's (Brigitte Macron's) lawyers at 919 North Market Street."
@@ -399,78 +394,75 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (24 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (23 mentions)</summary>
 
-**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18)**
+**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14)**
 > "...ng whether or not Charlie (Charlie Kirk)'s assassination was meant to distract us from the Brigitte Macron investigation. And rightfully so; that is a fair question. Because as you guys know, it was Charlie..."
 
-**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18)**
+**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14)**
 > "...egan prodding the narrative on Israel at the exact same time that I began looking into the Brigitte Macron story. That was in March of 2024. It was on March 13th, 2024, that I did the very first ever episod..."
 
-**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18)**
+**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14)**
 > "...as in March of 2024. It was on March 13th, 2024, that I did the very first ever episode on Brigitte Macron, right? And then wham, I am fired within 10 days. It's a pretty quick turnaround. Charlie (Charlie ..."
 
-**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18)**
+**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14)**
 > "...hings neat, right? So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire. I thought it was 10; it's actually..."
 
-**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18)**
+**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14)**
 > "...he had never been on camera. I thought that would be a great get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I rec..."
 
-**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18)**
+**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14)**
 > "...ecember 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers. And the funny thing is I didn't receive it. They sent it to a really strange inbox..."
 
-**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-18)**
+**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-14)**
 > "...lease see attached the time-sensitive legal correspondence sent on behalf of our clients, President Emmanuel Macron and Brigitte Macron. We urge you to provide this correspondence to legal counsel promptly. They sen..."
 
-**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-09-03)**
+**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-58)**
 > "... Wilmington, Delaware, for a hangar. Okay, there's suddenly a French company, and the CEO who knows Emmanuel Macron—we've confirmed that—decides they're gonna sign a two-year lease for an airport hangar to do what? ..."
 
-**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-09-03)**
+**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-08-58)**
 > "...ons between me and Xavier Poussard—the obvious answer—because I hadn't been speaking about Brigitte Macron on my podcast. So what was up with the cease-and-desist? I think my suspicion is they knew that I w..."
 
-**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-11-43)**
+**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-11-35)**
 > "...ruary 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron. Do we have that, by the way, the text message between me and Charlie (Charlie Kirk)? Here we go. Y..."
 
-**[00:13:17](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-11-43)**
+**[00:13:17](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-11-35)**
 > "...Christian men to be slaughtered in Ukraine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July 18th, this is where things get really interesting. Charlie (Cha..."
 
-**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-16-53)**
+**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-12)**
 > "... okay? That happens to be—from the 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, right? Not saying that ..."
 
-**[00:17:29](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-29)**
+**[00:17:29](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-12)**
 > "Not saying that Brigitte or Emmanuel are on this plane."
 
-**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-29)**
+**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-12)**
 > "The Macrons are not citizens of Delaware."
 
-**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-29)**
+**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-12)**
 > "...tte case. Tucker (Tucker Carlson) is interested; he's watched the series; he believes that Brigitte Macron was born a man—or born a male, rather—and that goes viral, okay? It just goes viral; gets more peop..."
 
-**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-29)**
+**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-12)**
 > "...ays one night on August 23rd in Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographed with the Minister of Culture. We ..."
 
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-29)**
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-17-12)**
 > "...got to mention before we get to September 4th. President Zelensky is in town also, though. Brigitte Macron welcomes President Zelensky into Paris on September 3rd because there is this remarkable—and I woul..."
 
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-25)**
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-16)**
 > "...f that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd as we were..."
 
-**[00:22:51](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-25)**
-> "...18 times struck us as odd as we were trying to determine whether or not it could have been Brigitte Macron that was involved in that Stanford experiment—this prisoner 2093 that was being protected. We didn'..."
-
-**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-25)**
+**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-16)**
 > "... I was having in the background with Xavier. And we thought that we had perhaps identified Brigitte Macron at Stanford University—a possibility is what I would say; we were maybe at 50-50%—and then suddenly..."
 
-**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-25)**
+**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-16)**
 > "...I have to tell you guys, in my gut of guts, there is something unbelievably—I just look at Brigitte Macron, and I am telling you, you are looking at an utter psychopath in my view. There is something dark; ..."
 
-**[00:26:33](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-25)**
+**[00:26:33](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-16)**
 > "...he way, is how far the lengths that they are going to to protect Brigitte. Who the hell is Brigitte Macron, okay? Because it ain't Brigitte Trogneux now. I can tell you that for free. Who is this person? Be..."
 
-**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-25)**
+**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-16)**
 > "...is. They would rather protect Brigitte even though the whole world no longer believes that Brigitte Macron was born a female, right? But they would rather risk the entire thing coming undone than to just sa..."
 
-**[00:27:17](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-25)**
+**[00:27:17](/episodes/ep-sImMM04XdWY.md#ent-person-emmanuel-macron-t-00-22-16)**
 > "...er risk the entire thing coming undone than to just say, "Okay, maybe we took it too far. Let's get Macron out of office and put somebody else in there that we can control." They are taking this way too far..."
 
 </details>
@@ -478,34 +470,31 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (5 mentions)</summary>
 
-**[00:38:38](/episodes/ep-SKGUzGHymcI.md#t-00-38-36)**
+**[00:38:36](/episodes/ep-SKGUzGHymcI.md#t-00-38-36)**
 > "...larly, I would say the last two years of that, I mean, any person who actually watched the Brigitte Macron story knows that that was a story about pedophiles in power, pedophiles in power and the psychopath..."
 
 **[00:39:02](/episodes/ep-SKGUzGHymcI.md#t-00-38-36)**
-> "...ve masters, how dare you know? And Theo Von and Joe Rogan had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen. Dude, Candace is the best. I went to see, she has, her and he..."
+> "And Theo Von and Joe (Joe Rogan) had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen."
 
-**[00:40:49](/episodes/ep-SKGUzGHymcI.md#t-00-40-48)**
-> "...og. Classic Theo Von, classic Theo Von. And here's the reality. I told the truth about the Brigitte Macron story, right? And like I said, the fact that they are caught and their move is we're gonna sue Cand..."
+**[00:40:48](/episodes/ep-SKGUzGHymcI.md#t-00-40-48)**
+> "And here's the reality. I told the truth about the Brigitte Macron story, right? And like I said, the fact that they are caught and their move is we're gonna sue Candace Owens."
 
-**[00:53:25](/episodes/ep-SKGUzGHymcI.md#t-00-53-19)**
+**[00:53:24](/episodes/ep-SKGUzGHymcI.md#t-00-53-18)**
 > "... bet is it's connected to the Macrons."
 
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#t-00-53-19)**
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#t-00-53-18)**
 > "...f people wrote that instantly they did this intentionally because you were on the track of Brigitte Macron we were getting real close talking about that MK Ultra experiment that happened that I believe it l..."
 
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03)**
 > "...ch I got obsessed with and [that] it's required reading for this podcast— connected to the Brigitte Macron case. I'm gonna tell you about that, connected to Ye (Kanye West), me telling you all about what ha..."
 
 **[00:01:57](/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03)**
 > "...ite literally all of our investigations over the past two years were coming together here. Brigitte Macron—where did we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you g..."
-
-**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03)**
-> "... together here. Brigitte Macron—where did we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, B..."
 
 **[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-emmanuel-macron-t-00-02-03)**
 > "...speaking to you guys about MKUltra. How odd it was that of everything I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in t..."
@@ -526,7 +515,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:39:20](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-14)**
+**[00:39:18](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-18)**
 > "...s to lawsuits. If you have to sue someone to prove—as an example—that you are a woman—a la Brigitte Macron—it's because you're not one. If you have to sue someone to prove that your relationship is really a..."
 
 </details>
@@ -542,22 +531,22 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (6 mentions)</summary>
 
-**[00:02:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-10)**
+**[00:02:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-01-57)**
 > "... organic growth to criticism, legal challenges including a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron, and her small team's resilience. Owens attributes the milestone to ..."
 
-**[00:02:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-51)**
+**[00:02:47](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-37)**
 > "...e never been happier. And there are so many people to thank. It is true. We must thank Brigitte and Emmanuel Macron for that ill-advised lawsuit. Obviously, I feel like that ripped a hole in reality and made things ..."
 
-**[00:05:52](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-51)**
+**[00:05:50](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-37)**
 > "... Kirk). You know, you guys change this every month. First it was, "Oh, it's because of the Brigitte Macron thing." "Oh, it's because of the Kamala Chronicles." "Oh, it's because of the Blake Lively lawsuit...."
 
-**[00:57:06](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-51)**
-> "...harlie Kirk). That's what I would say. Anyways, top comment from yesterday was: "Somewhere Brigitte Macron is breathing a sigh of relief." I don't know, man. Now that the podcast has gone number one, people..."
+**[00:57:04](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-37)**
+> "That's what I would say. Anyways, top comment from yesterday was: "Somewhere Brigitte Macron is breathing a sigh of relief.""
 
-**[00:57:12](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-51)**
+**[00:57:07](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-37)**
 > "...now, man. Now that the podcast has gone number one, people are gonna go back and watch the Brigitte Macron series—and once you watch it, you just know. You're like: "She's a dude, obviously." Such a bizarre..."
 
-**[01:02:46](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-51)**
+**[01:02:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-emmanuel-macron-t-00-02-37)**
 > "...ically relentless over matters that don't have as much significance to my life personally. Brigitte Macron—I mean, that's a broader issue with perverts in power. But this one is—it is just so sinister, so e..."
 
 </details>
@@ -566,12 +555,12 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:11:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-emmanuel-macron-t-00-10-58)**
-> "...ace Owens (clip): Obama, gay. Candace Owens (clip): Zelensky (Zelensky), gay. Candace Owens (clip): Emmanuel Macron (Emmanuel Macron), gay and married to a trans man who molested him when he was a child. Candace Owe..."
+> "Emmanuel Macron, gay and married to a trans man who molested him when he was a child."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (6 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
 
 **[00:45:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46)**
 > "...f you feel that pressure is to just say, "I'm going to dispel this." It's kind of like the Brigitte Macron thing. "Hey, here's a couple of pictures of me raising my kids. 30 years was missing because I real..."
@@ -582,31 +571,11 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 **[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46)**
 > "...'re talking about who Brigitte actually is, the families that Brigitte is related to, the fact that Emmanuel Macron is in fact—just like the state of Israel—a Rothschild creation; talking about the military industri..."
 
-**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46)**
-> "Emmanuel Macron is a Rothschild creation"
-
 **[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-55-46)**
 > "...his week is people who hadn't even watched the series were like, "Okay, I've seen enough." Brigitte Macron crying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French tax form..."
 
 **[00:58:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-emmanuel-macron-t-00-58-25)**
 > "You got away with offending Emmanuel when he was 14 years old—sexual offense."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
-
-**[00:34:37](/episodes/ep-t1YtLS1n8Vs.md#t-00-34-19)**
-> "...kay, I am the first. It is because we are getting close to a lot of truth when it comes to Brigitte Macron, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired fe..."
-
-**[00:34:45](/episodes/ep-t1YtLS1n8Vs.md#t-00-34-19)**
-> "... to Brigitte Macron, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired feds, former federal prosecutors, and she's hiring a firm here. Why? Because the next opt..."
-
-**[00:52:45](/episodes/ep-t1YtLS1n8Vs.md#t-00-52-17)**
-> "...ens), and you are one of Charlie (Charlie Kirk)'s few true friends. You have bigger balls than Mrs. Macron.” I don't know about that. Mrs. Macron's got some pretty big balls. She's gonna bankrupt me for exp..."
-
-**[00:52:49](/episodes/ep-t1YtLS1n8Vs.md#t-00-52-17)**
-> "...ie Kirk)'s few true friends. You have bigger balls than Mrs. Macron.” I don't know about that. Mrs. Macron's got some pretty big balls. She's gonna bankrupt me for exposing it. “We'll bankrupt you;” that's ..."
 
 </details>
 
@@ -630,6 +599,18 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:06:39](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27): “a viable threat, which came from the Macron couple who apparently paid for my assassination.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Married To (1)</summary>
 
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)**
@@ -637,6 +618,18 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:32:35](/episodes/ep-DYD_QHMPwqM.md#t-00-32-21): “His trigger is anybody that discusses his wife ... Any woman looks at Brigitte (Brigitte Macron)”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:35:19](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52): “And there's a New Times headline here that we can show you Brigitte Macron slapped husband over text messages to an actress. So everybody kind of knows Emmanuel Macron's gay.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:12:02](/episodes/ep-sImMM04XdWY.md#t-00-11-35): “On the same day, February 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron.”
 
 </details>
 
@@ -658,17 +651,28 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <summary>Sued (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:14:37](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13): “Emmanuel Macron ... the president of France ... is suing me for merely mentioning MKUltra on Tim Dillon's show.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 01:00:12](/episodes/ep-5-HUyv9LyMg.md#t-01-00-12): “a Macron abuses a kid who, uh, is suing Candace for talking about it”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:02:03](/episodes/ep-7RLtGgkTh9o.md#t-00-01-21): “Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in the lawsuit against me—way too many times in the lawsuit against me.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:01:56](/episodes/ep-a-e7HC6SeK8.md#t-00-01-30): “my lawsuit, me being sued by Brigitte Macron, me being sued by Brigitte (Brigitte Macron) and Emmanuel Macron, and whether or not it was just one big federal setup meant to bankrupt me.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:21](/episodes/ep-sImMM04XdWY.md#t-00-17-12): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, right?”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:10](/episodes/ep-vwG1juDCQZQ.md#t-00-01-57): “Conservative commentator Candace Owens ... legal challenges including a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:06:39](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27): “a viable threat, which came from the Macron couple who apparently paid for my assassination.”
+
+</details>
 
 - **[France](/entities/gpe-france.md)** has president this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -677,11 +681,22 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:12:02](/episodes/ep-sImMM04XdWY.md#t-00-11-35): “On the same day, February 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:14:37](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13): “Emmanuel Macron ... the president of France ... is suing me for merely mentioning MKUltra on Tim Dillon's show.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 01:00:12](/episodes/ep-5-HUyv9LyMg.md#t-01-00-12): “a Macron abuses a kid who, uh, is suing Candace for talking about it”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:02:03](/episodes/ep-7RLtGgkTh9o.md#t-00-01-21): “Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in the lawsuit against me—way too many times in the lawsuit against me.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:01:56](/episodes/ep-a-e7HC6SeK8.md#t-00-01-30): “my lawsuit, me being sued by Brigitte Macron, me being sued by Brigitte (Brigitte Macron) and Emmanuel Macron, and whether or not it was just one big federal setup meant to bankrupt me.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:21](/episodes/ep-sImMM04XdWY.md#t-00-17-12): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, right?”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:10](/episodes/ep-vwG1juDCQZQ.md#t-00-01-57): “Conservative commentator Candace Owens ... legal challenges including a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron”
 
 </details>
 
@@ -690,7 +705,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Emmanuel Macron (15)</strong></summary>
+<summary><strong class="section-title">Statements about Emmanuel Macron (21)</strong></summary>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
@@ -744,13 +759,16 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
-- [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["The Macron couple apparently paid for my assassination"](/statements/statement-a99141835461.md)
+- [00:06:39](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["Owens alleged that the Macron couple apparently paid for an assassinat..."](/statements/statement-a99141835461.md)
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the ..."](/statements/statement-532c5d81ba0d.md)
+- [00:06:39](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Owens said the Pentagon, White House, U.S. intelligence agencies, and ..."](/statements/statement-532c5d81ba0d.md)
   - Also about: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
+
+- [00:07:40](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly relayed Owens's allegation that she had received a credibl..."](/statements/statement-0629fdc132de.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 
@@ -759,6 +777,28 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 
 - [00:49:54](/episodes/ep-his-JBjlkh8.md#t-00-49-40) (Accusation) **Candace Owens**: ["an hour and a half before Charlie Kirk was assassinated in Utah, Donal..."](/statements/statement-eaf9b9a167a8.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:02:09](/episodes/ep-a-e7HC6SeK8.md#t-00-02-09) (Accusation) **Anonymous Source #1 (Ep a-e7HC6SeK8)** (via quoted post): ["An unnamed commenter speculated that the Macrons' lawsuit was supposed..."](/statements/statement-2ee873efc8b9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
+
+- [00:12:02](/episodes/ep-sImMM04XdWY.md#t-00-11-35) (Claim) **Candace Owens**: ["Donald Trump met Emmanuel Macron on February 24, the day Charlie Kirk ..."](/statements/statement-2f741b4cbab7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:17:21](/episodes/ep-sImMM04XdWY.md#t-00-17-12) (Claim) **Candace Owens**: ["Candace Owens said an Egyptian plane stayed in Wilmington from July 20..."](/statements/statement-6406220b7901.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [SU-BTT](/entities/vehicle-su-btt.md)
+
+- [00:22:25](/episodes/ep-sImMM04XdWY.md#t-00-22-16) (Claim) **Candace Owens**: ["Candace Owens said Becoming Brigitte season two began on September 8 a..."](/statements/statement-fe66cc7c572f.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 </details>
 
@@ -774,9 +814,17 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 </details>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
+
+- [00:02:47](/episodes/ep-vwG1juDCQZQ.md#t-00-02-37) (Claim) **Candace Owens**: ["Owens said Brigitte Macron and Emmanuel Macron had filed an "ill-advis..."](/statements/statement-016ba677281e.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:56:14](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) (Claim) **Candace Owens**: ["Emmanuel Macron is a Rothschild creation like the state of Israel"](/statements/statement-b48747b9bf82.md)
+- [00:56:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) (Claim) **Candace Owens**: ["Emmanuel Macron is a Rothschild creation like the state of Israel"](/statements/statement-b48747b9bf82.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>

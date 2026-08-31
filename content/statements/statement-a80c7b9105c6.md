@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:36:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-35-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2162);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2162s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I texted him. I said, okay, I'm about here. He said coming out and then. A minute later, he said shortly, Gigi just got up.
 

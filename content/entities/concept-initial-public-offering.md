@@ -1,6 +1,6 @@
 ---
 title: "Initial public offering"
-description: "Initial public offering (Concepts) - 6 mentions"
+description: "Initial public offering (Concepts) - 9 mentions"
 id: "concept-initial-public-offering"
 type: "CONCEPT"
 aliases:
@@ -21,12 +21,12 @@ _Type: Concepts_
 Source: [Investor.gov: Initial Public Offering (IPO)](https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04">2026-06-24 · 00:02:04</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-28-13">2025-12-02 · 00:28:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-48-14">2026-06-24 · 00:48:14</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,12 +35,14 @@ Source: [Investor.gov: Initial Public Offering (IPO)](https://www.investor.gov/i
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-28-13" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 6 mentions" title="2026-06-24 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-28-13) | 3 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04) | 6 |
 
 </details>
@@ -49,7 +51,7 @@ Source: [Investor.gov: Initial Public Offering (IPO)](https://www.investor.gov/i
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (6 mentions)</summary>
@@ -74,6 +76,20 @@ Source: [Investor.gov: Initial Public Offering (IPO)](https://www.investor.gov/i
 
 </details>
 
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+
+**[00:28:36](/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-28-13)**
+> "They were anticipating some IPO, and that this was going to be life-changing mone..."
+
+**[00:31:26](/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-31-21)**
+> "... secret because it's about to IPO and billions are on the line?""
+
+**[00:32:31](/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-32-01)**
+> "...u say that you knew that your IPO"
+
+</details>
+
 </details>
 
 <details open>
@@ -84,7 +100,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Initial public offering (2)</strong></summary>
+<summary><strong class="section-title">Statements about Initial public offering (3)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2)</summary>
@@ -94,6 +110,14 @@ _No relationships extracted yet._
 
 - [00:47:21](/episodes/ep-sKuYLNx3iRo.md#t-00-47-13) (Accusation) **Candace Owens**: ["Owens characterized a possible Daily Wire IPO as a last-ditch effort t..."](/statements/statement-60ee4d1ef1a6.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:28:17](/episodes/ep-a-e7HC6SeK8.md#t-00-28-13) (Claim) **Anonymous Source #4 (Ep a-e7HC6SeK8)** (via read message): ["Turning Point USA sources told Owens that a donor prospect had offered..."](/statements/statement-190d4ce6ed30.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Pierre (French-American donor; identity unverified)](/entities/anon-src-a-e7HC6SeK8-008.md)
 
 </details>
 

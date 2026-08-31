@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:04:55](/episodes/ep-HZvwbfePe7o.md#t-00-04-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote this, remember, Candace (Candace Owens), you and Charlie (Charlie Kirk) were not friends. He managed you. He kept things light and polite so that you would not turn on the organization.
 

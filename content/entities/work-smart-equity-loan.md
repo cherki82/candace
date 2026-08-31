@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 84 mentions"
+description: "SMART Equity Loan (Works & Media) - 101 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -22,10 +22,10 @@ _Type: Works & Media_
 Source: [American Financing | National Home Mortgage Lender](https://www.americanfinancing.net/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11">2025-10-06 · 00:55:20</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-smart-equity-loan-t-00-56-30">2025-09-15 · 00:56:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-03-00-28">2026-08-14 · 03:00:33</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>101</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,9 +36,18 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-smart-equity-loan-t-00-46-15">A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-smart-equity-loan-t-00-56-30" style="--pulse-height:67%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-work-smart-equity-loan-t-00-47-20" style="--pulse-height:33%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-work-smart-equity-loan-t-00-52-22" style="--pulse-height:67%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-work-smart-equity-loan-t-00-41-32" style="--pulse-height:67%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11" style="--pulse-height:67%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-work-smart-equity-loan-t-00-55-38" style="--pulse-height:67%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-work-smart-equity-loan-t-01-03-11" style="--pulse-height:67%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37" style="--pulse-height:33%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02" style="--pulse-height:67%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-smart-equity-loan-t-00-24-51" style="--pulse-height:67%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-23" style="--pulse-height:67%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-work-smart-equity-loan-t-00-58-41" style="--pulse-height:67%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-work-smart-equity-loan-t-00-22-51" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-work-smart-equity-loan-t-01-00-18" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-31" style="--pulse-height:67%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07" style="--pulse-height:67%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
@@ -85,9 +94,18 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-work-smart-equity-loan-t-00-56-30) | 2 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-work-smart-equity-loan-t-00-47-20) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-work-smart-equity-loan-t-00-52-22) | 2 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-work-smart-equity-loan-t-00-41-32) | 2 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-work-smart-equity-loan-t-00-55-38) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-work-smart-equity-loan-t-01-03-11) | 2 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-work-smart-equity-loan-t-00-24-51) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-23) | 2 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-work-smart-equity-loan-t-00-58-41) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-work-smart-equity-loan-t-00-22-51) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-work-smart-equity-loan-t-01-00-18) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-31) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07) | 2 |
@@ -136,7 +154,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (101)</strong></summary>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
@@ -581,13 +599,46 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 </details>
 
 <details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:22:51](/episodes/ep-9k2xrAC0H88.md#ent-work-smart-equity-loan-t-00-22-51)**
+> "...merican Financing created the Smart Equity Loan, which is a simple, smart way to get your finance..."
+
+**[00:22:59](/episodes/ep-9k2xrAC0H88.md#ent-work-smart-equity-loan-t-00-22-51)**
+> "...luctuate with the market, the Smart Equity Loan offers a fixed rate, so you'll have one predictab..."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+
+**[00:59:15](/episodes/ep-es7PWdFGoFI.md#ent-work-smart-equity-loan-t-00-58-41)**
+> "...merican Financing created the Smart Equity Loan, which is a simple, smart way to get your finance..."
+
+**[00:59:23](/episodes/ep-es7PWdFGoFI.md#ent-work-smart-equity-loan-t-00-59-23)**
+> "...luctuate with the market, the Smart Equity Loan offers a fixed rate, so you'll have one predictab..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:51:38](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02)**
+**[00:51:38](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-23)**
 > "...w because they've created the Smart Equity Loan—"
 
-**[00:51:46](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-46)**
+**[00:51:46](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-23)**
 > "...ave varied interest rates—the Smart Equity Loan offers a fixed rate."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
+
+**[00:25:06](/episodes/ep-Qt0VHV-POCg.md#ent-work-smart-equity-loan-t-00-24-51)**
+> "Smart Equity Loan"
+
+**[00:25:14](/episodes/ep-Qt0VHV-POCg.md#ent-work-smart-equity-loan-t-00-24-51)**
+> "...ve varied interest rates, the Smart Equity Loan offers a fixed rate."
 
 </details>
 
@@ -596,6 +647,28 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 **[00:46:55](/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37)**
 > "The Smart Equity Loan offers a fixed rate."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[01:03:11](/episodes/ep-2Riv3I7D0Yk.md#ent-work-smart-equity-loan-t-01-03-11)**
+> "...cause they've now created the Smart Equity Loan, which is a solution designed to help you take co..."
+
+**[01:03:17](/episodes/ep-2Riv3I7D0Yk.md#ent-work-smart-equity-loan-t-01-03-11)**
+> "...ve varied interest rates, the Smart Equity Loan offers a fixed rate, which means one predictable ..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:55:58](/episodes/ep-5autG89PW6w.md#ent-work-smart-equity-loan-t-00-55-38)**
+> "They've created the Smart Equity Loan—a solution designed to help you take control of your finances without touching your current mortgage."
+
+**[00:56:04](/episodes/ep-5autG89PW6w.md#ent-work-smart-equity-loan-t-00-55-38)**
+> "...ve varied interest rates, the Smart Equity Loan offers a fixed rate—which means one predictable m..."
 
 </details>
 
@@ -610,6 +683,47 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 </details>
 
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:41:32](/episodes/ep-YA1FxrDWNIo.md#ent-work-smart-equity-loan-t-00-41-32)**
+> "They've created the Smart Equity Loan, which is a solution designed to help you take co..."
+
+**[00:41:38](/episodes/ep-YA1FxrDWNIo.md#ent-work-smart-equity-loan-t-00-41-32)**
+> "...ave varied interest rates—the Smart Equity Loan offers a fixed rate."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
+
+**[00:52:48](/episodes/ep-UBkFkg4UNY8.md#ent-work-smart-equity-loan-t-00-52-22)**
+> "They've created the Smart Equity Loan, which is a solution that's designed to help you ..."
+
+**[00:52:52](/episodes/ep-UBkFkg4UNY8.md#ent-work-smart-equity-loan-t-00-52-22)**
+> "...ve varied interest rates, the Smart Equity Loan offers a fixed rate—which means one predictable m..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+
+**[00:47:35](/episodes/ep-ja26iltROkM.md#ent-work-smart-equity-loan-t-00-47-20)**
+> "They've created the Smart Equity Loan, which is a solution designed to help you take control of your finances without touching your current mortgage."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
+
+**[00:56:51](/episodes/ep-czVBmqZP6Ss.md#ent-work-smart-equity-loan-t-00-56-30)**
+> "They've created the Smart Equity Loan, which is a solution designed to help you take co..."
+
+**[00:56:57](/episodes/ep-czVBmqZP6Ss.md#ent-work-smart-equity-loan-t-00-56-30)**
+> "...ve varied interest rates, the Smart Equity Loan offers a fixed rate. That means one predictable m..."
+
+</details>
+
 </details>
 
 <details open>
@@ -619,11 +733,12 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <summary>Part Of (1)</summary>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:20](/episodes/ep-X3VKJVJ7cN4.md#t-00-46-14): “If that debt is starting to feel heavy, you should know that you're not alone. If you're a homeowner, you've likely looked at your mortgage rate and thought, I can't touch that. But with American Financing Smart Equity Loan, you don't have to.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:42](/episodes/ep-puuMVxEu5NU.md#t-00-42-35): “Well, American Financing offers a smart equity loan so that you don't have to.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:56:51](/episodes/ep-czVBmqZP6Ss.md#t-00-56-30): “They've created the Smart Equity Loan, which is a solution designed to help you take control of your finances”
 
 </details>
 
@@ -633,11 +748,12 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <summary>Referenced By (1)</summary>
 
 - **[American Financing](/entities/org-american-financing.md)** includes this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:20](/episodes/ep-X3VKJVJ7cN4.md#t-00-46-14): “If that debt is starting to feel heavy, you should know that you're not alone. If you're a homeowner, you've likely looked at your mortgage rate and thought, I can't touch that. But with American Financing Smart Equity Loan, you don't have to.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:42](/episodes/ep-puuMVxEu5NU.md#t-00-42-35): “Well, American Financing offers a smart equity loan so that you don't have to.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:56:51](/episodes/ep-czVBmqZP6Ss.md#t-00-56-30): “They've created the Smart Equity Loan, which is a solution designed to help you take control of your finances”
 
 </details>
 

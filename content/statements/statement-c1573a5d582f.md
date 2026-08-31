@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:37:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-37-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2271);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2271s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now I'm paraphrasing, but they said Candace, ... Morfar quite literally translates into mother's father. ... And farfar quite literally translates into father's father. ... no Swedish grandfather would ever allow you to refer to him as Morfar if he was not actually your Morfar,
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:06:36](/episodes/ep-k1b1NDCrNFs.md#t-00-06-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(396);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=396s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did not yet turn the page when I thought he has to be talking about Douglas Blake Bednarz here because Douglas Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk.
 

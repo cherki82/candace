@@ -25,10 +25,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:43:57](/episodes/ep-LATnak75Si0.md#t-00-43-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2637);return false;">Play</a>
+**Timestamp:** [00:44:18](/episodes/ep-LATnak75Si0.md#t-00-44-03) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=2658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> If transparency would hurt the case, then it's because you don't have a case, okay? If transparency would hurt the case, it's because you don't have a case.
+> And like I've said: if transparency would hurt the case, then it's because you don't have a case, okay?
 
 ## Verification
 

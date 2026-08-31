@@ -33,7 +33,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:45:22](/episodes/ep-DdPjoy5W-wY.md#t-00-45-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2722);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2722s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've lived in China. I've lived in Chongqing. I've been to Romania. I've been in Croatia. Lived in Puerto Rico for a little bit. Really handsome.
 

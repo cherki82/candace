@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:42:56](/episodes/ep-QdM9jLwjwLw.md#t-00-42-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2576);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=2576s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is rhetorical pornography. ... It does the same thing that regular pornography does. It titillates, it stimulates, it's slightly naughty. ... It's great for getting clicks and it makes tons of money on the internet. ... And you shouldn't be able to look at it if you're under 18.
 

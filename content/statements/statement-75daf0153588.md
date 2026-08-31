@@ -1,6 +1,6 @@
 ---
-title: "Turning Point made something like $90 million in the couple ..."
-description: "\"Turning Point made something like $90 million in the couple of weeks following Charlie's death\" — Candace Owens"
+title: "Owens said Turning Point USA made \"something like $90 millio..."
+description: "\"Owens said Turning Point USA made \"something like $90 million\" in the couple of weeks after Charlie Kirk's death.\" — Candace Owens"
 statement_id: "statement-75daf0153588"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Turning Point made something like $90 million in the couple of weeks following Charlie's death
+> Owens said Turning Point USA made "something like $90 million" in the couple of weeks after Charlie Kirk's death.
 
 ## Attribution
 
@@ -20,13 +20,18 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:48:34](/episodes/ep-vwG1juDCQZQ.md#t-00-48-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2914);return false;">Play</a>
+**Timestamp:** [00:48:30](/episodes/ep-vwG1juDCQZQ.md#t-00-47-54) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=2910s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Turning Point made something like $90 million in the couple of weeks following Charlie's (Charlie Kirk's) death
+> Turning Point made something like $90 million in the couple of weeks following Charlie's (Charlie Kirk's) death. ... I think at first it was $70 million. It's gone up since then.
 
 ## Verification
 

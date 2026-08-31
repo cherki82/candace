@@ -3,9 +3,17 @@ title: "Sherry Steele"
 description: "Sherry Steele (People) - 4 mentions"
 id: "person-sherry-steele"
 type: "PERSON"
+categories:
+  - "source-identified St. George-area witness"
 ---
 
 _Type: People_
+
+**Categories:** source-identified St. George-area witness
+
+**Entity verification:** verified
+> The episode quotes the BBC report naming Sherry Steele and describing her as a witness near the residence; canonicalization is limited to that source-reported identity and does not validate the episode host’s separate speculation.
+Source: [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](https://www.youtube.com/watch?v=sreYYcID-QY)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-sherry-steele-t-00-16-13">2025-09-18 · 00:16:49</a></strong></div>
@@ -13,7 +21,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -66,7 +74,7 @@ _Type: People_
 - **[BBC](/entities/org-bbc.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:33](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13): “Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance while she was walking her dog in the evening.”
 
 </details>
 
@@ -78,21 +86,9 @@ _Type: People_
 - **[BBC](/entities/org-bbc.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:33](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13): “Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance while she was walking her dog in the evening.”
 
 </details>
-
-</details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about Sherry Steele (1)</strong></summary>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
-
-- [00:18:39](/episodes/ep-sreYYcID-QY.md#t-00-18-18) (Claim) **Candace Owens**: ["I cannot find a woman named Sherry Steele that lives in Lance's buildi..."](/statements/statement-9fbb4fb7a805.md)
 
 </details>
 

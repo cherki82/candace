@@ -6,6 +6,11 @@ date: "2026-02-04"
 ---
 
 **Date:** 2026-02-04
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “last night”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-02-04"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:01:18](/episodes/ep-mFuno0TuuQQ.md#event-event-2026-02-04-erika-kirk-called-for-transparency-about-t-00-01-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(78);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=78s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want there to always be full transparency because what I don't want to have happen

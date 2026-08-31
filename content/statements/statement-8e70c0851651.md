@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:33:46](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2026);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2026s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > “One of my greatest joys as a Christian,” he said, “is advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.” He encouraged me to make the case directly to the American people about how vital Israel is to U.S
 

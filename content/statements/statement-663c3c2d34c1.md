@@ -23,21 +23,11 @@ veracity: "mixed"
 
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
 
-## Appearances (2)
-
-### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
-
-**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:12:28](/episodes/ep-sreYYcID-QY.md#t-00-11-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(748);return false;">Play</a>
-
-> Look, if you've been a longtime listener of the show, the mainstream media has been controlled by the CIA since Operation Mockingbird.
-
-### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:12:20](/episodes/ep-sreYYcID-QY.md#t-00-11-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look, if you've been a longtime listener of the show, the mainstream media has been controlled by the CIA since Operation Mockingbird
 

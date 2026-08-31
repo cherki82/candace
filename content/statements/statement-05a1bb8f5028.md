@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:32:18](/episodes/ep-JQjCAsfoXEE.md#t-00-31-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1938);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That was the plan, right? To make us think Egypt had attacked us. But it wasn't actually Egypt that attacked that ship. It was Israel. Israel attacked that ship.
 

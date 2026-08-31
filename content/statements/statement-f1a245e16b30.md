@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1666);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1666s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet, Charlie (Charlie Kirk) told me specifically, owned a stake in the Charlie Kirk show.
 

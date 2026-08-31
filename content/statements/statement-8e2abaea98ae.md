@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:10:12](/episodes/ep-1IY2oD-_xVA.md#t-00-09-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(612);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=612s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we learned that Erika (Erika Kirk) was born at the Good Samaritan Hospital on either the 20th or the 22nd of November of 1988. It depends on who's telling the stories. Erika (Erika Kirk), is it Lori (Lori Frantzve)?
 

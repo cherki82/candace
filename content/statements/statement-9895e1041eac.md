@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,8 +28,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:11:30](/episodes/ep-adJ4LNGp84I.md#t-00-11-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(690);return false;">Play</a>
+**Timestamp:** [00:11:30](/episodes/ep-adJ4LNGp84I.md#t-00-11-21) 
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=690s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I wondered if the girl had given him stuff, like if there is an accomplice.
 

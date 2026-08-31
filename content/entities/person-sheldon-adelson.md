@@ -22,7 +22,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -117,13 +117,21 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sheldon Adelson (1)</strong></summary>
+<summary><strong class="section-title">Statements about Sheldon Adelson (2)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
 
 - [00:54:29](/episodes/ep-y8lak3CRwDw.md#t-00-53-53) (Claim) **Candace Owens**: ["Miriam Adelson served in the Israel Defense Forces, and Sheldon Adelso..."](/statements/statement-4c2f8f8a9f48.md)
   - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:43:31](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) (Claim) **Candace Owens**: ["Owens said she found information indicating that Cabot Phillips's fath..."](/statements/statement-ac23843213dd.md)
+  - Also about: [Graham Phillips](/entities/person-graham-phillips.md), [Miriam Adelson](/entities/person-miriam-adelson.md)
 
 </details>
 

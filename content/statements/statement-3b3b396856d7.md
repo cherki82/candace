@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1075);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=1075s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Of course, right off the bat, Erika told me that the doctor called her directly. It informed her that Charlie was dead.
 

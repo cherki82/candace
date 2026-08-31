@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:15:45](/episodes/ep-HYn0P-P1wUw.md#t-00-15-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(945);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=945s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We broke the story that Netanyahu (Benjamin Netanyahu) called Charlie (Charlie Kirk) to make an offer to take Turning Point to the next level. That story is being disputed by Erika (Erika Kirk).
 

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:08:19](/episodes/ep-A39g5oqB_eM.md#t-00-07-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(499);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=499s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is actually the least traumatizing thing for me since she herself has been raised by her mother after their parents divorced when she was young.
 

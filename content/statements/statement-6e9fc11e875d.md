@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:43:09](/episodes/ep-sKuYLNx3iRo.md#t-00-42-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2589);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2589s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, they finally admitted that they spent 50 million dollars. ... On just seven episodes, that is just to understand how crazy and insane that is. They spent actually, by the way, to be clear, I've been saying the whole time, more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.
 

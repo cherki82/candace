@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:03:56](/episodes/ep-r1PS67aRmcA.md#t-00-03-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(236);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=236s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, people have a Daily Wire non-compete when they're leaving the Daily Wire; they have to sign agreements that they're not going to go work for Tucker (Tucker Carlson) for six months
 

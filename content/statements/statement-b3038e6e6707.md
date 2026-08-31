@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:44:07](/episodes/ep-mFuno0TuuQQ.md#t-00-44-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2647);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=2647s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by the way, she didn't mention this in the video, but that young woman, they also then fired her fiance. ... So their entire income in one house was wiped out in one day. ... No explanation given to him.
 

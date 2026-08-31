@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:31:47](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1907);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1907s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, I told you John T. Golle. He was working with Roundup Monsanto on their launch. So I guess him and Jerri (Jerri Frantzve), Jerri (Jerri Frantzve)'s with DuPont. That's a natural alliance poisoning the population and getting away with it.
 

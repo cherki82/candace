@@ -6,6 +6,11 @@ date: "2025-06-19"
 ---
 
 **Date:** 2025-06-19
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “June 19th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-06-19"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:28:30](/episodes/ep-4YgrOhhy708.md#t-00-28-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1710);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a while ago that on June 19th, Erika purged her Instagram of a lot of pictures,
 
@@ -25,7 +30,7 @@ date: "2025-06-19"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:28:32](/episodes/ep-MhakwJxK-Zk.md#t-00-28-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1712);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1712s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika purges her Instagram. She deletes 126 posts.
 
@@ -33,6 +38,6 @@ date: "2025-06-19"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:12:25](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-06-19-erika-kirk-purged-posts-from-her-instagr-t-00-12-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(745);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=745s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > background is that on June 19th, Erika purges her Instagram.

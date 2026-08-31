@@ -23,7 +23,7 @@ _Type: People_
 Source: [Introduction | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/introduction)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55">2025-09-19 · 00:01:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55">2025-09-19 · 00:01:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-martin-luther-king-jr-t-00-49-52">2026-03-31 · 00:50:20</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
@@ -128,7 +128,7 @@ Source: [Introduction | The Martin Luther King, Jr. Research and Education Insti
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
+**[00:01:22](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
 > "...Charlie Kirk Remembrance Day. And I have to say, that is a very government maneuver. Like, we get a Martin Luther King Day. We've got Martin Luther King Boulevard. John F. Kennedy gets a library and a national day of m..."
 
 </details>

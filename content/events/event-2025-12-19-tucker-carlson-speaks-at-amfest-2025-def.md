@@ -6,6 +6,15 @@ date: "2025-12-19"
 ---
 
 **Date:** 2025-12-19
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
+
+**Normalization note:** AmFest 2025 Dec 19-22 per official site
+
+**Date source:** [https://www.amfest.com/](https://www.amfest.com/)
 
 ## Event
 
@@ -14,7 +23,7 @@ date: "2025-12-19"
 ## Mentioned In
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:29:39](/episodes/ep-w1oqQbR_bYs.md#event-event-2025-12-19-tucker-carlson-speaks-at-amfest-2025-def-t-00-24-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1779);return false;">▶️ Play</a>
+**Timestamp:** [00:24:12](/episodes/ep-w1oqQbR_bYs.md#event-event-2025-12-19-tucker-carlson-speaks-at-amfest-2025-def-t-00-23-59) 
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=1452s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I mean, this kind of was the whole point of Charlie Kirk's public life.
+> Take a listen to what Tucker Carlson had to say when he hit the stage.

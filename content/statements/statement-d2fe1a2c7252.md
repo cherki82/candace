@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:03:25](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(205);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=205s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > More specifically, that the green light was given to a small team in the National Gendarmerie Intervention Group
 

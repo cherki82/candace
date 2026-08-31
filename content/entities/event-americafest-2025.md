@@ -179,7 +179,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 **[00:05:50](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-05-42)**
 > "...hat he wanted to invite me to AMFest."
 
-**[00:24:04](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-24-04)**
+**[00:24:04](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-23-39)**
 > "They had AMFest. They had a huge donor thing at Mar-a-Lago. So ev..."
 
 **[00:25:50](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-25-50)**

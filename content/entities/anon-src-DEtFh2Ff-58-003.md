@@ -39,7 +39,7 @@ _No relationships extracted yet._
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
 
 - [00:43:22](/episodes/ep-DEtFh2Ff-58.md#t-00-43-07) [○] (Claim) ["Stacey Sheridan, Michael McCoy, and Elizabeth McCoy are at Charlie and Erika Kir..."](/statements/statement-30bada1746a8.md)
-  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+  - About: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
 
 </details>
 

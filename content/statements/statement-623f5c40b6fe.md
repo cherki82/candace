@@ -22,7 +22,7 @@ type: "accusation"
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:01:04](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(64);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=64s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They are definitely insisting that we stop investigating this.
 

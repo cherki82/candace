@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1030);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1030s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then Danny (Danny Philip) calls Mikey (Michael McCoy) and they stay on the phone for 10 minutes. They're together. Blake Neff rode with Danny (Danny Philip). That's the only SUV that is left. ... What are they conversing about for 10 full minutes? We do know that they then all arrive at the hospital together around 1 o'clock p.m.-ish.
 

@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:07:03](/episodes/ep-SKGUzGHymcI.md#t-00-06-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+**Timestamp:** [00:07:03](/episodes/ep-SKGUzGHymcI.md#t-00-06-33) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "I tried to pull non-public movement data, and it came up empty." "For me, this means that the arrival was processed under a diplomatic and dignitary category, which would not show up in the usual places."
 

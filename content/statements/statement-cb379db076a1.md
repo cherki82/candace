@@ -1,8 +1,8 @@
 ---
 title: "The arrest source told Candace Owens that police initially p..."
-description: "\"The arrest source told Candace Owens that police initially planned to pick Tyler Robinson up in Warner Valley while he was buying another gun, before ...\" — Anonymous Source #4 (Ep 2WEHTk0Xewg)"
+description: "\"The arrest source told Candace Owens that police initially planned to pick Tyler Robinson up in Warner Valley while he was buying another gun, before ...\" — Anonymous Source #2 (Ep 2WEHTk0Xewg)"
 statement_id: "statement-cb379db076a1"
-speaker: "Anonymous Source #4 (Ep 2WEHTk0Xewg)"
+speaker: "Anonymous Source #2 (Ep 2WEHTk0Xewg)"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #4 (Ep 2WEHTk0Xewg)](/entities/anon-src-2WEHTk0Xewg-004.md) (Anonymous Source)
+**Speaker:** [Anonymous Source #2 (Ep 2WEHTk0Xewg)](/entities/anon-src-2WEHTk0Xewg-002.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:31:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1873);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1873s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they initially had planned to pick him up in warner valley but and this is a part that has not come out since that he was buying a gun that tyler ... Tyler Robinson had been buying a gun in Warner Valley, purchasing another gun. But then suddenly there was some sea change and they learned that he was coming in cooperatively.
 

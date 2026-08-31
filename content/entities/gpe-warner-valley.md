@@ -17,7 +17,7 @@ _Type: Places_
 Source: [Warner Valley Dinosaur Track Site - Bureau of Land Management](https://www.blm.gov/visit/warner-valley-dinosaur-track-site)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-59">2025-09-17 · 00:23:20</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-52">2025-09-17 · 00:23:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-warner-valley-t-00-36-35">2026-04-13 · 00:37:02</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -31,14 +31,14 @@ Source: [Warner Valley Dinosaur Track Site - Bureau of Land Management](https://
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-warner-valley-t-00-31-40">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-59" style="--pulse-height:75%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-52" style="--pulse-height:75%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-warner-valley-t-00-31-40" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-59) | 3 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-52) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-warner-valley-t-00-31-40) | 4 |
 
 </details>
@@ -69,10 +69,10 @@ Source: [Warner Valley Dinosaur Track Site - Bureau of Land Management](https://
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
 
-**[00:23:20](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-59)**
+**[00:23:14](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-52)**
 > "... were going to pick him up in Warner Valley."
 
-**[00:23:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-59)**
+**[00:23:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-52)**
 > "Now, Warner Valley is right next to St. George, so he lives very clo..."
 
 **[00:23:36](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-23-36)**
@@ -95,7 +95,7 @@ _No relationships extracted yet._
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
-- [00:31:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-03) (Claim) **Anonymous Source #4 (Ep 2WEHTk0Xewg)** (via read message): ["The arrest source told Candace Owens that police initially planned to ..."](/statements/statement-cb379db076a1.md)
+- [00:31:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-03) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["The arrest source told Candace Owens that police initially planned to ..."](/statements/statement-cb379db076a1.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:58:16](/episodes/ep-OEAHy3SsIiI.md#t-00-57-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3496);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=3496s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He did send me that message, but the contact name was blacked out. ... Can you just send me the quick—the quick video of her opening that? And I've not received that since, okay? So that was, you know, a while ago. I followed up about four times. I still have not received that. So I cannot confirm that conversation took place between her and Charlie (Charlie Kirk)
 

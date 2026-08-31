@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:46:23](/episodes/ep-puuMVxEu5NU.md#t-00-46-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2783);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2783s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We live in a technological age. We can Zoom anytime, any place, you know, on the internet. I would like to have that conversation and I would be completely respectful and ask questions, hopefully come away with answers, what I expected to do when sitting down with Erika (Erika Kirk). And it led me to believe that. ... she lied to my face. I can't come back from that when people try to sell her to me or say like, maybe it's like, no guys, she lied to my face. No one can make me come back from a person who lied about the surgeon call. ... Address that, address that, make that make sense of why you hung Andrew Kolvet out to dry and the surgeon saying one violated HIPAA, one went rogue on the day of Charlie (Charlie Kirk)'s funeral.
 

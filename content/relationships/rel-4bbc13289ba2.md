@@ -11,7 +11,7 @@ object: "person-brigitte-macron"
 
 ## [Candace Owens](/entities/person-candace-owens) sued by [Brigitte Macron](/entities/person-brigitte-macron)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o)**
 
@@ -20,6 +20,10 @@ object: "person-brigitte-macron"
 **[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
 
 - [00:08:30](/episodes/ep-BxN2-aeMYIs#t-00-08-30): _Brigitte Macron, who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of the UK and America._
+
+**[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
+
+- [00:55:07](/episodes/ep-Cq7nj9rxPdo#t-00-55-07): _Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of her lying about having been born with a penis. ... And yeah, I'm being sued because that's the next logical step. ... You're suing me for the claim that I said you stole your sister's identity to transition._
 
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
@@ -31,7 +35,7 @@ object: "person-brigitte-macron"
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:01:56](/episodes/ep-a-e7HC6SeK8#t-00-01-56): _...my lawsuit, me being filed by Brigitte Macron, me being sued by Brigitte and Emmanuel Macron..._
+- [00:01:56](/episodes/ep-a-e7HC6SeK8#t-00-01-56): _my lawsuit, me being sued by Brigitte Macron, me being sued by Brigitte (Brigitte Macron) and Emmanuel Macron, and whether or not it was just one big federal setup meant to bankrupt me._
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
@@ -43,7 +47,7 @@ object: "person-brigitte-macron"
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 
-- [00:46:11](/episodes/ep-sreYYcID-QY#t-00-46-11): _Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court_
+- [00:46:15](/episodes/ep-sreYYcID-QY#t-00-46-15): _Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court to prove that Brigitte is a woman. That's what her lawyer says. Well, the lawyer's a liar because we haven't even started this case yet. So how could you have offered scientific proof to a court to prove you're a woman—especially because you're not suing me over the claim that I said you were born a man. You were born a man. I guess you were born a boy—a male is what I should say. You were born a male, and you've never sued anybody for making that statement. You sue for things around it. You're suing me because you're saying, "Well, you said I stole the identity from my sister."_
 
 **[INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs)**
 
@@ -55,7 +59,7 @@ object: "person-brigitte-macron"
 
 **[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
 
-- [00:02:10](/episodes/ep-vwG1juDCQZQ#t-00-02-10): _defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron_
+- [00:02:10](/episodes/ep-vwG1juDCQZQ#t-00-02-10): _Conservative commentator Candace Owens ... legal challenges including a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron_
 
 ### Related
 

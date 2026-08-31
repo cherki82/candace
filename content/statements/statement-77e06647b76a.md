@@ -19,21 +19,11 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
-## Appearances (2)
-
-### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(478);return false;">Play</a>
-
-> We don't know what that second suspect is wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press conference began at 5:30 p.m.—mentions that the second suspect, who is a person of interest, is wearing all dark clothing
-
-### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:08:17](/episodes/ep-2WEHTk0Xewg.md#t-00-07-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(497);return false;">Play</a>
+**Timestamp:** [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-26) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=478s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We don't know what that second suspect is wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press conference began at 5:30 p.m.—mentions that the second suspect, who is a person of interest, is wearing all dark clothing
 

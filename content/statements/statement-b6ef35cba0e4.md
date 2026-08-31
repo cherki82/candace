@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:06:47](/episodes/ep-ja26iltROkM.md#t-00-06-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(407);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=407s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were unpacking the footage that was going viral of the guy that was taking down the camera—which was directly behind Charlie's (Charlie Kirk's) head—a mere four minutes after Charlie (Charlie Kirk) was shot.
 

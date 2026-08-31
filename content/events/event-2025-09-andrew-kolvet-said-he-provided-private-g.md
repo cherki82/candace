@@ -6,6 +6,11 @@ date: "2025-09"
 ---
 
 **Date:** 2025-09
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “in the immediate aftermath”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:09:49](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-andrew-kolvet-said-he-provided-private-g-t-00-09-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(589);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=589s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in the immediate aftermath, I did provide the group chat to Joe Kent.

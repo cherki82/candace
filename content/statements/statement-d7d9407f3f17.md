@@ -22,8 +22,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:13:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-12-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(792);return false;">Play</a>
+**Timestamp:** [00:13:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-13-04) 
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=792s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because after I made that offhand remark yesterday, I received a rather stunning tip, which I have been able to corroborate, that out of all of the FBI bureaus in the United States, regarding which there are 55 main bureaus and over 350 satellite bureaus, the FBI sent the specific...
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:51:21](/episodes/ep-h76ZN-xXC6c.md#t-00-51-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3081);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=3081s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then they said, when you tell your audience that you were quote unquote denied, that would be a lie for clickbait.
 

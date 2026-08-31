@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
 **Timestamp:** [00:42:07](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2527);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=2527s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we started our first before that one the 24th of the month prior
 

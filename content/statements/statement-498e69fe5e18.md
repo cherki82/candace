@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:04:25](/episodes/ep-2Riv3I7D0Yk.md#t-00-04-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(265);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=265s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Seth Dillon was the more vocal of the two parties in the Hamptons, as I said, in terms of actually pressing Charlie (Charlie Kirk)
 

@@ -360,7 +360,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
   - Also about: [Gina Romney Henderson](/entities/person-gina-romney-henderson.md), [Nathan Henderson](/entities/person-nathan-henderson.md), [LinkedIn](/entities/org-linkedin.md)
 
 - [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) (Claim) **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time a..."](/statements/statement-869a9611ac9f.md)
-  - Also about: [Connor Henderson](/entities/person-connor-henderson.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [BYU](/entities/org-byu.md)
+  - Also about: [Connor Henderson](/entities/person-connor-henderson.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [Brigham Young University](/entities/org-brigham-young-university.md)
 
 </details>
 

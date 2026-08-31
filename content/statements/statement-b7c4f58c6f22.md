@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1159);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1159s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying.
 

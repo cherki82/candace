@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(34);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=34s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, it seems like Turning Point USA is now engaging in this strategy of David hogging the public
 

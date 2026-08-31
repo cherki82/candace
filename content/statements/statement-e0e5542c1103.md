@@ -30,10 +30,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(106);return false;">Play</a>
+**Timestamp:** [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=106s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> In the JFK files, Mossad is mentioned
+> In the JFK files, Mossad is mentioned. One of the reasons why Mossad is mentioned so much is that they're just a very good intelligence operation. It was not mentioned as if they were tied or that they knew about it or that they were involved.
 
 ## Verification
 

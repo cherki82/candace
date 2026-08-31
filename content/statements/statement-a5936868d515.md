@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:05:25](/episodes/ep-YeEtS7nix3o.md#t-00-05-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(325);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=325s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you don't understand what is going on here when Candace goes to Russia and is a guest of the state at this economic forum, is attending these different TV hits with RT, and she's talking about how surprised she is that it's a beautiful country and that the CIA must have lied to her all of these years about what Russia is like. If you fall for this, you are the mark for this kind of. ... of propaganda.
 

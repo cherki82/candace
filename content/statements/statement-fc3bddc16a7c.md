@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1999);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=1999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the reason they're doing this, and doing it on my channel, is because they are trying to hard-launch a young woman named Madison Bransford. Okay, now she's apparently an intern at the Daily Wire, and they're basically dropping, like, an iCarly-type, Nickelodeon-feel show where she's going to make fun of me, and the show... ... is entitled 'In the Know'
 

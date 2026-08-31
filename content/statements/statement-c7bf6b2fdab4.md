@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:02:33](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(153);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=153s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, again, can't say that's what it was used for, but what I can state. Is that someone else is in Ahmed Qureshi's family and Tor Qureshi is his name and he was in fact stationed at Fort Huachuca. Same family, according to Tor Qureshi's LinkedIn, he trained there using reconnaissance drones.
 

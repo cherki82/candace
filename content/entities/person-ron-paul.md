@@ -23,7 +23,7 @@ Source: [PAUL, Ronald Ernest (1935-)](https://bioguideretro.congress.gov/Home/Me
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,7 +32,7 @@ Source: [PAUL, Ronald Ernest (1935-)](https://bioguideretro.congress.gov/Home/Me
 <p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 4 mentions" title="2025-11-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-03" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-ron-paul-t-00-44-50" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-ron-paul-t-00-43-45" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
@@ -41,7 +41,7 @@ Source: [PAUL, Ronald Ernest (1935-)](https://bioguideretro.congress.gov/Home/Me
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26) | 4 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-03) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-ron-paul-t-00-44-50) | 2 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-ron-paul-t-00-43-45) | 1 |
 
@@ -75,8 +75,8 @@ Source: [PAUL, Ronald Ernest (1935-)](https://bioguideretro.congress.gov/Home/Me
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20)**
-> "... empowered other people to know what's going on behind the scenes too. VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His friend Charlie (Charlie Kirk) Kirk—questioning the off..."
+**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-03)**
+> "Ron Paul has used his platform to speak about it."
 
 </details>
 
@@ -115,12 +115,31 @@ Source: [PAUL, Ronald Ernest (1935-)](https://bioguideretro.congress.gov/Home/Me
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Friend Of (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:49:30](/episodes/ep-sImMM04XdWY.md#t-00-49-03): “VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His friend Charlie (Charlie Kirk)—questioning the official narrative—and if dark forces are responsible, a 9/10/2025, no one is as loud as you, but Ron is a real one too."”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:57](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “Also, this was a real tweet directed at Ron Paul. ... "Ron Paul is manifestly insane.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:49:30](/episodes/ep-sImMM04XdWY.md#t-00-49-03): “VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His friend Charlie (Charlie Kirk)—questioning the official narrative—and if dark forces are responsible, a 9/10/2025, no one is as loud as you, but Ron is a real one too."”
 
 </details>
 

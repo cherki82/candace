@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:36:47](/episodes/ep-ZAsV0fHGBiM.md#t-00-36-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2207);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2207s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I should mention her, ... she comes from a very long line of the Swedish Freemasons.
 

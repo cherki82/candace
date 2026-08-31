@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1953);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=1953s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew was feeding information to like obscure podcasters trying to get them to attack us over Fort Huachuca.
 
@@ -39,7 +39,7 @@ veracity: "mixed"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:53:13](/episodes/ep-KpxIBWkNsSs.md#t-00-53-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3193);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=3193s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then to realize that Andrew (Andrew Kolvet) was coordinating that was trying he was the one coordinating these like YouTubers Valhalla and Paramount Tactical. ... she's obviously got caught red-handed working with Andrew Kolvet to get this out through this obscure youtube channel this alibi
 

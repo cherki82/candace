@@ -1,21 +1,21 @@
 ---
-title: "Tyler Bowyer hired Stacey Sheridan"
-description: "Evidence for the relationship: Tyler Bowyer hired Stacey Sheridan"
+title: "Tyler Bowyer hired Stacy Sheridan"
+description: "Evidence for the relationship: Tyler Bowyer hired Stacy Sheridan"
 relationship_id: "rel-89ad2e94bd44"
 subject: "person-tyler-bowyer"
 predicate: "hired"
-object: "person-stacey-sheridan"
+object: "person-stacy-sheridan"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Tyler Bowyer](/entities/person-tyler-bowyer) hired [Stacey Sheridan](/entities/person-stacey-sheridan)
+## [Tyler Bowyer](/entities/person-tyler-bowyer) hired [Stacy Sheridan](/entities/person-stacy-sheridan)
 
 ### Evidence (3 mentions)
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:13:27](/episodes/ep-a-e7HC6SeK8#t-00-13-27): _...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level._
+- [00:13:27](/episodes/ep-a-e7HC6SeK8#t-00-13-27): _She was brought in specifically by Tyler Bowyer to raise money and to take Turning Point to the next level._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 
@@ -25,4 +25,4 @@ object: "person-stacey-sheridan"
 ### Related
 
 - [Tyler Bowyer](/entities/person-tyler-bowyer)
-- [Stacey Sheridan](/entities/person-stacey-sheridan)
+- [Stacy Sheridan](/entities/person-stacy-sheridan)

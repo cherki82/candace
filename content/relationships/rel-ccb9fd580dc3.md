@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Justin Streiff](/entities/person-justin-streiff) met with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
 - [00:08:44](/episodes/ep-GY6GWceEqtQ#t-00-08-44): _we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff_
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI#t-00-02-04): _And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk)._
 
 ### Related
 

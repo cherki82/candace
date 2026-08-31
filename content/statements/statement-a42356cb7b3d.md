@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:36:15](/episodes/ep-i8m_6D4QGmk.md#t-00-36-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Thus far in one year, to recap, his administration has worked to allow the erosion, slow erosion of the First Amendment on college campuses, special carve outs for anti-Semitism.
 

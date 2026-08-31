@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(943);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=943s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What about Tyler Bowyer? Because I do feel that Erika and Tyler flew together definitively.
 

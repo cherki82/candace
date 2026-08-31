@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:48:53](/episodes/ep-3QJqtW_NOSI.md#t-00-48-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2933);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2933s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, I mean, at the White House, that is the beginning. I think the timeline here is wrong. ... The New York Times was recounting everything that happened at the beginning of the administration when Trump (Donald Trump) began to crash out over the files like that was happening as soon as he came in. ... And that took place long before the Iran thing, so I don't think it does.
 

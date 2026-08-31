@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:04:57](/episodes/ep-I0OaY6Gryqk.md#t-00-04-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(297);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=297s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I cannot in good conscience support the ongoing war in Iran. Iran posed no imminent threat to our nation, and it is clear that we started this war due to pressure from Israel and its powerful American lobby.
 

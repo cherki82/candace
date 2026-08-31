@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:50:48](/episodes/ep-i8m_6D4QGmk.md#t-00-50-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3048);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3048s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's why Israel supporters like Bill Ackman went rabid over the weekend over me suggesting that maybe military men shouldn't sign up. Maybe you shouldn't sign up to join the military in America if this is the circumstance that we live in. ... They want me imprisoned for merely mentioning that no one at this juncture should join the American military. ... Bill was retweeting people who were stipulating that it's actually a federal crime to tell people apparently not to sign up for the military.
 

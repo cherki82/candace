@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:01:09](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(69);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=69s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we earlier broke the story that Tyler Bowyer is, among other things, allegedly taking turning point into the business of real estate in particular.
 

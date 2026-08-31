@@ -23,8 +23,8 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,7 +33,7 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 <p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-freemasons-t-00-27-10">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-freemasons-t-00-51-00" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-freemasons-t-00-45-19" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-freemasons-t-00-27-10" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-freemasons-t-00-02-55" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
@@ -43,7 +43,7 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-freemasons-t-00-51-00) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-freemasons-t-00-45-19) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-freemasons-t-00-27-10) | 2 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-freemasons-t-00-02-55) | 2 |
@@ -89,7 +89,7 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43)**
+**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41)**
 > "...nce that she comes from a Freemason family in California. Like, dad was in the Freemason California Freemasons, and grandpa was pretty high up in the California Freemasons. And you know, Kash Patel drops in 33r..."
 
 </details>
@@ -107,17 +107,50 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Founded (1)</summary>
+
+- **[United States](/entities/gpe-united-states.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:03:25](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55): “How about we should talk about the founding of America? ... Your country was founded by Freemasons."”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[United States](/entities/gpe-united-states.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:03:25](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55): “How about we should talk about the founding of America? ... Your country was founded by Freemasons."”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freemasons (1)</strong></summary>
+<summary><strong class="section-title">Statements about Freemasons (3)</strong></summary>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:13:11](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44) (Opinion) **Candace Owens**: ["No civil war ever was organic. Not even our civil war was organic. It'..."](/statements/statement-844b601e127d.md)
+- [00:13:11](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44) (Opinion) **Candace Owens**: ["Owens opined that no civil war, including the American Civil War, was ..."](/statements/statement-844b601e127d.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+
+- [00:03:20](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55) (Claim) **Anonymous Source #2 (Ep a-e7HC6SeK8)** (via quoted speech): ["An unnamed Catholic priest told Owens, "Your country was founded by Fr..."](/statements/statement-b984186cac9e.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:03:59](/episodes/ep-a-e7HC6SeK8.md#t-00-03-33) (Claim) **Candace Owens**: ["They know what the Freemasons were up to, Freemasons who caused all of..."](/statements/statement-53ee5a1aefa2.md)
+  - Also about: [Europe](/entities/gpe-europe.md)
 
 </details>
 

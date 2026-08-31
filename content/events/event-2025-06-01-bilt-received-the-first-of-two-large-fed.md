@@ -6,6 +6,11 @@ date: "2025-06-01"
 ---
 
 **Date:** 2025-06-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “June 1 of 2025”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-06-01"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:15:52](/episodes/ep-rupRLXmSndU.md#event-event-2025-06-01-bilt-received-the-first-of-two-large-fed-t-00-15-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(952);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=952s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > see when these two contracts were. Up June 1 and June 16 of 2025.

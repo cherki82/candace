@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:27:07](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1627);return false;">Play</a>
+**Timestamp:** [00:27:08](/episodes/ep-es7PWdFGoFI.md#t-00-26-36) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1628s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> the first person he called was his wife. He called Elizabeth McCoy. And then he stayed on the phone with his wife for 10 minutes
+> Actually, the first person he called was his wife. He called Elizabeth McCoy. And then he stayed on the phone with his wife for 10 minutes.
 
 ## Verification
 

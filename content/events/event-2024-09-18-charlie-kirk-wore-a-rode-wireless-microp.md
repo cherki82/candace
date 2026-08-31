@@ -6,6 +6,11 @@ date: "2024-09-18"
 ---
 
 **Date:** 2024-09-18
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 18th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2024-09-18"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:12:34](/episodes/ep-G3zdOeHpvS0.md#t-00-12-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(754);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=754s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, you can see Tyler, I mean, Tyler, Charlie has it on the outside of his shirt.

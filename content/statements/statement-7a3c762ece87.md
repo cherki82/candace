@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:00:48](/episodes/ep-his-JBjlkh8.md#t-00-00-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(48);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=48s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Quite literally, all we have ever asked for were sensible answers to our basic questions about what transpired on September 10th.
 

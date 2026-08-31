@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:43:56](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2636);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=2636s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just I'm amazed because I really didn't know who this guy was. I knew nothing about this guy until he went on Joe Rogan and then we started looking in and trying to figure out stuff about him. And the more I find, I'm just amazed that this is Turning Point's horse. ... Like we brought him in and paid him. to teach our students to debate. So when I say to you guys, it's a very good idea if you're a parent not to allow your children to get involved with Turning Point USA because of the characters that are around, Victor Marks. This is the person who's going to be training people to debate and being paid to do that.
 

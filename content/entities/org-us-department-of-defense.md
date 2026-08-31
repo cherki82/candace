@@ -463,10 +463,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-46-55)**
+**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-46-55)**
 > "... here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions about what the Pentagon was..."
 
-**[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-48-57)**
+**[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-48-54)**
 > "...that they kicked her off. I don't agree with them kicking anybody off. But you should know that our Department of Defense—for whatever reason—is signaling that she's an okay person to be in the building. That just seems l..."
 
 </details>
@@ -912,7 +912,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
 
 - [00:36:27](/episodes/ep-OEAHy3SsIiI.md#t-00-36-06) (Opinion) **Charlie Kirk**: ["The Department of Defense, CIA, and FBI constitute a super-government ..."](/statements/statement-7aa10d972bd6.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

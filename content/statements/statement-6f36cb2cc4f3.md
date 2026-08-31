@@ -1,6 +1,6 @@
 ---
-title: "Owens reported that a Utah artist had posted a song titled '..."
-description: "\"Owens reported that a Utah artist had posted a song titled 'Charlie Kirk Dead at 31' before the shooting and juxtaposed the online speculation with au...\" — Candace Owens"
+title: "Owens said a Utah artist posted a song titled 'Charlie Kirk,..."
+description: "\"Owens said a Utah artist posted a song titled 'Charlie Kirk, Dead at 31' and that after people said he resembled the person in a photo, federal author...\" — Candace Owens"
 statement_id: "statement-6f36cb2cc4f3"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Owens reported that a Utah artist had posted a song titled 'Charlie Kirk Dead at 31' before the shooting and juxtaposed the online speculation with authorities identifying Tyler Robinson
+> Owens said a Utah artist posted a song titled 'Charlie Kirk, Dead at 31' and that after people said he resembled the person in a photo, federal authorities identified Tyler Robinson.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:56:48](/episodes/ep-sreYYcID-QY.md#t-00-56-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3408);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=3408s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was also some artist who posted a song—he happens to be from Utah—and it was called, like, “Charlie (Charlie Kirk), Dead at 31.” And right when people started going, "This guy looks like the person in the photo," suddenly the feds said, “No, never mind; we got him
 

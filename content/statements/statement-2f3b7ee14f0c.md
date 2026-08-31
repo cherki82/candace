@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:09:26](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(566);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=566s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > James O'Keefe gets pushed out. He's ousted from the board of his own company. And Charlie (Charlie Kirk) publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover.
 

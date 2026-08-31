@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:21:58](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1318);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1318s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She has a number of LLCs. And when I say a number, I mean it's almost incalculable the amount of LLCs trying to figure out what exactly this does, the technology, connections from France to Arizona to Cincinnati to Massachusetts.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:16:15](/episodes/ep-SubDoZWHARo.md#t-00-16-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(975);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=975s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Similarly, they had to move the Believers Summit, something that they advertised for last year. It was slated to take place back in October, but they could not move any free tickets.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:36:05](/episodes/ep-5autG89PW6w.md#t-00-35-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2165);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=2165s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He potentially has connections to the federal government—familial connections to the federal government—and we are prodding that. It's getting interesting.
 

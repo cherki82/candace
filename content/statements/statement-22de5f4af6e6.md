@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:06:11](/episodes/ep-2tFYJf1klgY.md#t-00-06-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(371);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=371s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Dr. Frantzve. I don't know if she is still married to Kent (Kent Randall Frantzve). Because we can't find marriage records between Lori (Lori Frantzve) and Kent (Kent Randall Frantzve), but we also could not locate divorce records between Dr. ... Jerri Frantzve and Kent (Kent Randall Frantzve). So I'm just going to put that out there. But what we do know is 1990, she's going to start conducting research in Eastern Europe.
 

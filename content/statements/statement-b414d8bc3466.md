@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:06:09](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(369);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=369s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It reads, quote, 22 people have gone on trial in France on charges of murder and other serious crimes centered on a Masonic lodge accused of running hit squads.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:00:28](/episodes/ep-7ERqbYElOfs.md#t-00-00-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(28);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=28s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, lo and behold, ladies and gentlemen, 22 people in France are on trial for running a Freemason military hit squad.
 

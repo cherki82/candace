@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:11:49](/episodes/ep-ZzAT2xijKGQ.md#t-00-11-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(709);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=709s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The point here is that Epstein (Jeffrey Epstein) was definitively of the mystic Frankist ilk. He was practicing mystical. Judaism, there is no question about that. It always involves the cult rituals which involve harming innocent children.
 

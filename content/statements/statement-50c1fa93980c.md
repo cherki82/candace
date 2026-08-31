@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:41:05](/episodes/ep-iHav0PPzUz8.md#t-00-40-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2465);return false;">Play</a>
+**Timestamp:** [00:41:05](/episodes/ep-iHav0PPzUz8.md#t-00-40-30) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2465s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He fought tooth and nail to make sure that Tucker (Tucker Carlson) stayed on the Turning Point USA speaking list. That's the reality, okay?
 

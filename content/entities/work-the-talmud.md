@@ -5,11 +5,19 @@ id: "work-the-talmud"
 type: "WORK"
 aliases:
   - "Talmud"
+categories:
+  - "Jewish religious literature"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** Talmud
+
+**Categories:** Jewish religious literature
+
+**Entity verification:** verified
+> Library of Congress classification materials use Talmud, Talmud Bavli, and Babylonian Talmud as canonical bibliographic forms; the transcript's generic Talmud reference supports the existing work entity.
+Source: [Library of Congress Classification: Judaism](https://www.loc.gov/aba/publications/Archived-LCC2018/BL-BQ-text.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-work-the-talmud-t-00-21-50">2025-12-20 · 00:22:17</a></strong></div>

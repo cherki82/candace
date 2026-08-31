@@ -3,11 +3,11 @@ title: "Seth Dillon was the one that was applying pressure to him, a..."
 description: "\"Seth Dillon was the one that was applying pressure to him, and Seth Dillon and Josh Hammer—Josh Hammer didn't jump on him in that moment—were not happ...\" — Candace Owens"
 statement_id: "statement-0d37b073c27f"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -20,11 +20,17 @@ veracity: "mixed"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Seth Dillon](/entities/person-seth-dillon.md) (person)
+- [Josh Hammer](/entities/person-josh-hammer.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:05:11](/episodes/ep-K5GjF53bfN4.md#t-00-05-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(311);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=311s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him, and Seth Dillon and Josh Hammer—Josh Hammer didn't jump on him in that moment—were not happy. ... They were not happy with Charlie (Charlie Kirk) at the end of this weekend in the Hamptons because, again, they saw which way the wind was traveling in terms of his positions on Benjamin Netanyahu (Israeli PM) and Israel.
 
@@ -49,4 +55,4 @@ Contemporaneous reporting and direct attendee posts confirm the Hamptons gatheri
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

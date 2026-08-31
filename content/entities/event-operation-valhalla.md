@@ -3,13 +3,25 @@ title: "Operation Valhalla"
 description: "Operation Valhalla (Events) - 8 mentions"
 id: "event-operation-valhalla"
 type: "EVENT"
+aliases:
+  - "Operation Valhalla Strike"
+categories:
+  - "military training exercise"
 ---
 
 _Type: Events_
 
+**Also known as:** Operation Valhalla Strike
+
+**Categories:** military training exercise
+
+**Entity verification:** verified
+> Published Minot Air Force Base reporting confirms the exercise’s canonical full name Operation Valhalla Strike and August 2025 training context; the shorter graph name is retained with the full name added as an alias.
+Source: [Operation Valhalla Strike sharpens 891st MSFS defenders’ readiness](https://www.nordaknorth.com/media/publication/northern-sentry/issue8011/NS-09-12-2025_A.pdf)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-06-30">2025-11-21 · 00:06:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23">2025-12-17 · 00:43:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23">2025-12-17 · 00:43:37</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -47,7 +59,7 @@ _Type: Events_
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:43:43](/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23)**
+**[00:43:37](/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23)**
 > "It also happens to be the exact date that Operation Valhalla Strike begins between civilians and the military"
 
 </details>
@@ -99,7 +111,7 @@ _Type: Events_
 - **[Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): “[00:23:57] And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): “And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.”
 
 </details>
 
@@ -111,7 +123,7 @@ _Type: Events_
 - **[Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): “[00:23:57] And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): “And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.”
 
 </details>
 

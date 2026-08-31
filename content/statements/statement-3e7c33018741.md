@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:49:31](/episodes/ep-EtLHqDbxqks.md#t-00-49-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2971);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2971s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson committing the murder of Charlie Kirk. But we saw it and they played it on giant screens inside of the courthouse. courthouse. You can see clearly Tyler Robinson's face. You can see crystal clear the license plate number on his vehicle, his movements on the rooftop.
 

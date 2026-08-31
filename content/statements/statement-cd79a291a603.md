@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-00-41-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2505);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2505s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the first reason that I think, and I think it's compelling evidence, is that Tyler Robinson's rifle was found near the crime scene.
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:17:07](/episodes/ep-aPOyk1i2LOc.md#t-00-17-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1027);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=1027s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the first reason that I think it's compelling evidence is that Tyler Robinson's rifle was found near the crime scene.
 

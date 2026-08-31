@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:33:06](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1986);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=1986s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I just want to preface by saying I am not a particle physicist. So I'm just I just use particle physics recreationally. I'm a high school dropout. This is all on my own. But CERN was basically established in 1954 to research particle physics.
 

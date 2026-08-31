@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:06:02](/episodes/ep-QRS_hR7NXaQ.md#t-00-05-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(362);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=362s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You need to look up the research that was done by Rob Skiba. They did find Gilgamesh, aka Nimrod.
 

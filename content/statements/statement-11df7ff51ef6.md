@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(884);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay. Next up, we have Mark Levin, a resident psycho. I wonder if this guy Joe Kent was about to be fired. ... but quickly resigned first. That's how these things typically work. He's part of the radical isolationist woke right cabal. ... I wonder if he was one of the leakers inside of the administration just asking questions.
 

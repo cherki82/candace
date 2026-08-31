@@ -1,6 +1,6 @@
 ---
 title: "Non-disclosure agreement"
-description: "Non-disclosure agreement (Concepts) - 9 mentions"
+description: "Non-disclosure agreement (Concepts) - 16 mentions"
 id: "concept-nondisclosure-agreement"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.cornell.edu/wex/non-disclosure_agreement_%28nda%29)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04">2026-01-21 · 00:07:28</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-nondisclosure-agreement-t-00-55-48">2025-11-06 · 00:56:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-23-09">2026-07-29 · 00:23:39</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,10 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-nondisclosure-agreement-t-00-39-28">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-nondisclosure-agreement-t-00-55-48" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-concept-nondisclosure-agreement-t-00-13-08" style="--pulse-height:75%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-nondisclosure-agreement-t-00-45-23" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-nondisclosure-agreement-t-00-33-40" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-nondisclosure-agreement-t-00-42-06" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-nondisclosure-agreement-t-01-02-47" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
@@ -47,6 +51,10 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-nondisclosure-agreement-t-00-55-48) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-concept-nondisclosure-agreement-t-00-13-08) | 3 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-nondisclosure-agreement-t-00-45-23) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-nondisclosure-agreement-t-00-33-40) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-nondisclosure-agreement-t-00-42-06) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-nondisclosure-agreement-t-01-02-47) | 1 |
@@ -60,7 +68,7 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -116,6 +124,47 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 
 **[00:07:28](/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04)**
 > "there is standard NDA agreements"
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:33:40](/episodes/ep-w1oqQbR_bYs.md#ent-concept-nondisclosure-agreement-t-00-33-40)**
+> "...he said about being put on an NDA for 35 years."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:45:23](/episodes/ep-9k2xrAC0H88.md#ent-concept-nondisclosure-agreement-t-00-45-23)**
+> "... gets out of his 25 year long NDA and stumbles into another, what could be, we're k..."
+
+**[01:01:03](/episodes/ep-9k2xrAC0H88.md#ent-concept-nondisclosure-agreement-t-01-01-03)**
+> "... have signed a very extensive NDA, maybe 25 years long."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
+
+**[00:13:29](/episodes/ep-t4U7NjnUEgc.md#ent-concept-nondisclosure-agreement-t-00-13-08)**
+> "...ions, I was also put under an NDA gag order, which was dated out, look it says 1990..."
+
+**[00:15:10](/episodes/ep-t4U7NjnUEgc.md#ent-concept-nondisclosure-agreement-t-00-15-10)**
+> "...m this 35-year military-grade NDA."
+
+**[00:26:48](/episodes/ep-t4U7NjnUEgc.md#ent-concept-nondisclosure-agreement-t-00-15-10)**
+> "...bout that happened back then, NDAs, judges, things that he's been in court with figh..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:56:18](/episodes/ep-vwG1juDCQZQ.md#ent-concept-nondisclosure-agreement-t-00-55-48)**
+> "...u really evil, but there's an NDA preventing you, so you got to allow her to abuse ..."
 
 </details>
 

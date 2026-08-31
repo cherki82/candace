@@ -6,6 +6,11 @@ date: "2026-01-12"
 ---
 
 **Date:** 2026-01-12
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “January 12th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-01-12"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:37:58](/episodes/ep-DdPjoy5W-wY.md#t-00-37-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2278);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2278s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he wrote back to me on January 12th that Erika did not live in China.

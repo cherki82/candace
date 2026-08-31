@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:07:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-07-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(475);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=475s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They don't know why and I don't know how because the issue that I'm having here is that Erika (Erika Kirk) did not actually have her real estate license yet. Remember, real estate licenses are a matter of public record.
 

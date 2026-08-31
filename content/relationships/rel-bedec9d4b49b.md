@@ -1,15 +1,15 @@
 ---
-title: "Rob McCoy CFO of Potter's Fields Ministries"
-description: "Evidence for the relationship: Rob McCoy CFO of Potter's Fields Ministries"
+title: "Rob McCoy CFO of Potter's Field Ministries"
+description: "Evidence for the relationship: Rob McCoy CFO of Potter's Field Ministries"
 relationship_id: "rel-bedec9d4b49b"
 subject: "person-rob-mccoy"
 predicate: "CFO of"
-object: "org-potters-fields-ministries"
+object: "org-potters-field-ministries"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Rob McCoy](/entities/person-rob-mccoy) CFO of [Potter's Fields Ministries](/entities/org-potters-fields-ministries)
+## [Rob McCoy](/entities/person-rob-mccoy) CFO of [Potter's Field Ministries](/entities/org-potters-field-ministries)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-potters-fields-ministries"
 ### Related
 
 - [Rob McCoy](/entities/person-rob-mccoy)
-- [Potter's Fields Ministries](/entities/org-potters-fields-ministries)
+- [Potter's Field Ministries](/entities/org-potters-field-ministries)

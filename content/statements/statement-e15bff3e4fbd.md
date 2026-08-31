@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:08:53](/episodes/ep-k1b1NDCrNFs.md#t-00-08-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(533);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=533s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His name is Brian Harpole from Dallas, Texas. Okay, third time. Douglas Blake Bednarz writes, a gun was never fired and a bullet did not hit his neck. The pendant shaped charge was detonated by Brian Harpole. This is why the necklace was such a central focus right after the incident.
 

@@ -1,8 +1,8 @@
 ---
-title: "An American lieutenant colonel was posed in a photo on the M..."
-description: "\"An American lieutenant colonel was posed in a photo on the Mexican side after the tunnel had been built, along with other Mexican military and U.S. mi...\" — Anonymous Source #4 (Ep ewBzjVe3LNQ)"
+title: "An American lieutenant colonel was pictured on the Mexican s..."
+description: "\"An American lieutenant colonel was pictured on the Mexican side after the tunnel apparently had been built, along with Mexican and U.S. military perso...\" — Mitch Snow"
 statement_id: "statement-630dfb08f6c5"
-speaker: "Anonymous Source #4 (Ep ewBzjVe3LNQ)"
+speaker: "Mitch Snow"
 type: "accusation"
 ---
 
@@ -10,23 +10,23 @@ type: "accusation"
 
 ## Statement
 
-> An American lieutenant colonel was posed in a photo on the Mexican side after the tunnel had been built, along with other Mexican military and U.S. military, showing collaboration
+> An American lieutenant colonel was pictured on the Mexican side after the tunnel apparently had been built, along with Mexican and U.S. military personnel; Mitch said this indicated there had been some collaboration
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #4 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-004.md) (Guest)
+**Speaker:** [Mitch Snow](/entities/person-mitch-snow.md) (Guest)
 
 **Delivery:** Made directly
 
 ## About
 
-- [Border Patrol](/entities/org-border-patrol.md) (org)
+- [United States Border Patrol](/entities/org-us-border-patrol.md) (org)
 
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
 **Timestamp:** [00:30:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1841);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=1841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One of the commanders that was with the border patrol was actually posed with a photo that was done on the Mexican side after the tunnel apparently had been built along with other Mexican military and U.S. military. So there had been some collaboration.
 

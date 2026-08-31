@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:21:55](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1315);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1315s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The internal comments attached to these reports are what stood out most. They talk about going after Fuentes, stating that undermining his Christian identity is probably a good idea. They contemplate getting Matt Walsh or Michael Knowles to publish on behalf of VFT.
 

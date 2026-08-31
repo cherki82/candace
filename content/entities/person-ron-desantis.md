@@ -21,7 +21,7 @@ _Type: People_
 Source: [Ron DeSantis | Executive Office of the Governor](https://www.flgov.com/eog/leadership/people/ron-desantis)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-32-49">2025-10-30 · 00:33:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-33-01">2025-10-30 · 00:33:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-ron-desantis-t-00-18-49">2026-05-04 · 00:19:12</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -33,9 +33,9 @@ Source: [Ron DeSantis | Executive Office of the Governor](https://www.flgov.com/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-32-49">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-33-01">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-32-49" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-33-01" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-ron-desantis-t-00-13-51" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-ron-desantis-t-00-47-30" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-ron-desantis-t-00-18-49" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
@@ -44,7 +44,7 @@ Source: [Ron DeSantis | Executive Office of the Governor](https://www.flgov.com/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-32-49) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-33-01) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-ron-desantis-t-00-13-51) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-ron-desantis-t-00-47-30) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-ron-desantis-t-00-18-49) | 1 |
@@ -84,7 +84,7 @@ Source: [Ron DeSantis | Executive Office of the Governor](https://www.flgov.com/
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:33:05](/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-32-49)**
+**[00:33:01](/episodes/ep-iHav0PPzUz8.md#ent-person-ron-desantis-t-00-33-01)**
 > "...(Donald Trump) was up against Ron DeSantis, okay?"
 
 </details>

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1022);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1022s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bibi (Benjamin Netanyahu) is your master. Maybe it's Miriam Adelson that lights the fire and Bibi (Benjamin Netanyahu) that makes the shadows on the wall.
 

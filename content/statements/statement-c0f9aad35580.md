@@ -30,9 +30,9 @@ veracity: "mixed"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1063);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1063s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And then afterwards, Pierre Faucon just disappeared into thin air, disappeared from France because as it turns out, he actually reappeared in Scottsdale ... since, again, this is in he is in Scottsdale, and we know that turning point is very much involved in politics in Scottsdale
+> And then afterwards, Pierre Falcone just disappeared into thin air, disappeared from France because as it turns out, he actually reappeared in Scottsdale. ... Which I'd like to pursue further, since, again, this is in he is in Scottsdale, and we know that Turning Point is very much involved in politics in Scottsdale, as to whether or not he still has a.
 
 ## Verification
 

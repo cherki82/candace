@@ -3,9 +3,17 @@ title: "Anthony Iglesias"
 description: "Anthony Iglesias (People) - 1 mention"
 id: "person-anthony-iglesias"
 type: "PERSON"
+categories:
+  - "former Calvary Chapel youth minister"
 ---
 
 _Type: People_
+
+**Categories:** former Calvary Chapel youth minister
+
+**Entity verification:** verified
+> Published reporting and litigation coverage identify Anthony Iglesias in the North Country Chapel abuse case.
+Source: [OC Weekly: Lawsuit Claims Calvary Chapel Allowed Shuffling of Employee](https://www.ocweekly.com/lawsuit-claims-calvary-chapel-allowed-shuffling-of-pedophile-employee-from-diamond-bar-to-idaho-6456577/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-anthony-iglesias-t-00-20-23">2025-11-13 · 00:20:40</a></strong></div>

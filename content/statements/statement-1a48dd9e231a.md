@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:23:14](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1394);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1394s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The White House, I think Elizabeth Lane read Erika correctly when she posited that she may be a psychopath because in my opinion, only a psychopath could. ... After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.
 

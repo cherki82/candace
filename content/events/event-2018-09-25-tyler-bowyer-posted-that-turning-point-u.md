@@ -6,6 +6,11 @@ date: "2018-09-25"
 ---
 
 **Date:** 2018-09-25
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 25th, 2018”
 
 ## Event
 
@@ -14,7 +19,7 @@ date: "2018-09-25"
 ## Mentioned In
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:22:01](/episodes/ep-gG4ZoYUjUc8.md#event-event-2018-09-25-tyler-bowyer-posted-that-turning-point-u-t-00-21-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1321);return false;">▶️ Play</a>
+**Timestamp:** [00:22:01](/episodes/ep-gG4ZoYUjUc8.md#event-event-2018-09-25-tyler-bowyer-posted-that-turning-point-u-t-00-22-01) 
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1321s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We run everything like a military op. All of our people are from that background.

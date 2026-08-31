@@ -6,6 +6,11 @@ date: "2026-01-04"
 ---
 
 **Date:** 2026-01-04
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “January 4th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-01-04"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:22:56](/episodes/ep-k1b1NDCrNFs.md#t-00-22-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1376);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's Brian's business partner, longtime colleague. On January 4th, I messaged him.

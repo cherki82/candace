@@ -1,6 +1,6 @@
 ---
-title: "Israel used spyware spying on us for years"
-description: "\"Israel used spyware spying on us for years\" — Candace Owens"
+title: "Personally, Benjamin, I would have appreciated if you guys u..."
+description: "\"Personally, Benjamin, I would have appreciated if you guys used all of your spyware you had spying on us for years to maybe track down the killer\" — Candace Owens"
 statement_id: "statement-06ff49b0046c"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Israel used spyware spying on us for years
+> Personally, Benjamin, I would have appreciated if you guys used all of your spyware you had spying on us for years to maybe track down the killer
 
 ## Attribution
 
@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:14:58](/episodes/ep-czVBmqZP6Ss.md#t-00-14-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(898);return false;">Play</a>
+**Timestamp:** [00:14:54](/episodes/ep-czVBmqZP6Ss.md#t-00-14-19) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Personally, Benjamin, I would have appreciated if you guys used all of your spyware you had spying on us for years to maybe track down the killer.
 

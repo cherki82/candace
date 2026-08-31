@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:12:52](/episodes/ep-Vu6Y24pqhZs.md#t-00-12-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(772);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=772s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You will recall that the guy who recorded the footage specifically said, told us, that he saw no recoil. ... He just saw the guy get up and run.
 

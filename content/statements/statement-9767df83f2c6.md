@@ -28,9 +28,9 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:38:22](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2302);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I have now reached out to Brian Harpole twice. I have his number because he was Charlie's security and I went on tour with Charlie for years. messaged him and know that he received it according to iMessage and messaged him again
+> I have now reached out to Brian Harpole twice. ... messaged him and know that he received it according to iMessage and messaged him again. ... We got crickets. crickets from him.
 
 ## Verification
 

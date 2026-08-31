@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:53:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3190);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=3190s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the purpose was we had an invitation by the Kurdistan government. We had access placement and an official invitation to go in to help those who had been held captive by ISIS.
 

@@ -24,7 +24,7 @@ veracity: "false"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:27:07](/episodes/ep-yAIb-NuUh_U.md#t-00-26-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1627);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=1627s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They shut down in 2019, and they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances
 

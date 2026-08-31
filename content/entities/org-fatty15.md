@@ -1,6 +1,6 @@
 ---
 title: "fatty15"
-description: "fatty15 (Organizations) - 30 mentions"
+description: "fatty15 (Organizations) - 44 mentions"
 id: "org-fatty15"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [fatty15 — Official site](https://fatty15.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-16">2026-02-27 · 00:41:26</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-31-23">2025-10-07 · 00:31:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-42-27">2026-08-03 · 00:42:27</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -34,20 +34,24 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34">Bride Of Charlie: Crazy In Love | Episode 7</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-31-23">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-51" style="--pulse-height:67%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 6 mentions" title="2026-03-06 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48" style="--pulse-height:83%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12" style="--pulse-height:67%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50" style="--pulse-height:83%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-41-16" style="--pulse-height:50%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-31-23" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 7 mentions" title="2025-10-07 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-25-44" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 7 mentions" title="2025-11-04 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-51" style="--pulse-height:57%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34" style="--pulse-height:86%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 6 mentions" title="2026-03-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48" style="--pulse-height:71%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00" style="--pulse-height:43%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12" style="--pulse-height:57%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50" style="--pulse-height:71%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-41-16" style="--pulse-height:43%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-31-23) | 7 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-25-44) | 7 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-51) | 4 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34) | 6 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48) | 5 |
@@ -62,7 +66,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (3 mentions)</summary>
@@ -186,6 +190,58 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 
 **[00:42:02](/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-51)**
 > "...ce at checkout. Again, that's fatty15.com slash Candace. Use promo code Candace at chec..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (7 mentions)</summary>
+
+**[00:25:49](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-25-44)**
+> "...I want to tell you guys about Fatty15."
+
+**[00:25:57](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-25-44)**
+> "...h you guys C15, which is from Fatty15—the first emerging essential fatty acid to be dis..."
+
+**[00:26:21](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-26-21)**
+> "...y age faster. And thankfully, Fatty15 repairs age-related damage to cells, and it prote..."
+
+**[00:26:36](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-26-21)**
+> "Fatty15 is a science-backed, award-winning, patented, 100..."
+
+**[00:26:47](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-26-21)**
+> "Fatty15 has three times more cellular benefits than Omega..."
+
+**[00:26:57](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-26-21)**
+> "Fatty15 is on a mission to optimize your C15 levels to he..."
+
+**[00:27:04](/episodes/ep-Qfwr08Ebczo.md#ent-org-fatty15-t-00-27-04)**
+> "...ion starter kit by heading to fatty15.com/Candace Owens. That's fatty15.com/Candace Owe..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (7 mentions)</summary>
+
+**[00:31:59](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-31-23)**
+> "I also want to tell you guys about Fatty15."
+
+**[00:32:02](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-32-02)**
+> "This is something from Fatty15—the first emerging essential fatty acid to be dis..."
+
+**[00:32:28](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-32-02)**
+> "Thankfully, Fatty15 repairs age-related damage to cells, protects the..."
+
+**[00:32:41](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-32-02)**
+> "Fatty15 is a science-backed, award-winning, patented, 100..."
+
+**[00:32:49](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-32-46)**
+> "Fatty15 has three times more cellular benefits than Omega..."
+
+**[00:32:58](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-32-46)**
+> "Fatty15 is on a mission to optimize your C15 levels"
+
+**[00:33:01](/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-32-46)**
+> "...ption starter kit by going to fatty15.com/Candace and using code Candace at checkout: f..."
 
 </details>
 

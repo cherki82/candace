@@ -31,7 +31,7 @@ type: "prediction"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:18:34](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And mark my word, he will make a move on turning point because he's always been envious of Charlie Kirk.
 

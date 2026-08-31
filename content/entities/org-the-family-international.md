@@ -1,6 +1,6 @@
 ---
 title: "The Family International"
-description: "The Family International (Organizations) - 7 mentions"
+description: "The Family International (Organizations) - 9 mentions"
 id: "org-the-family-international"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ _Type: Organizations_
 Source: [The Family International - Our History](https://www.thefamilyinternational.org/en/about/our-history/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-family-international-t-00-09-30">2026-03-12 · 00:09:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-the-family-international-t-00-06-14">2025-11-15 · 00:06:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-the-family-international-t-00-38-00">2026-03-17 · 00:38:24</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -37,6 +37,7 @@ Source: [The Family International - Our History](https://www.thefamilyinternatio
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-family-international-t-00-09-30">EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-the-family-international-t-00-52-16" style="--pulse-height:40%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-family-international-t-00-09-30" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 5 mentions" title="2026-03-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-the-family-international-t-00-37-25" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 </div>
@@ -44,6 +45,7 @@ Source: [The Family International - Our History](https://www.thefamilyinternatio
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-the-family-international-t-00-52-16) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-family-international-t-00-09-30) | 5 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-the-family-international-t-00-37-25) | 2 |
 
@@ -53,7 +55,7 @@ Source: [The Family International - Our History](https://www.thefamilyinternatio
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
@@ -83,6 +85,17 @@ Source: [The Family International - Our History](https://www.thefamilyinternatio
 
 **[00:20:25](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-family-international-t-00-20-01)**
 > "David Berg instructed the Children of God to spread throughout the world, first in Europe i..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+
+**[00:52:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-the-family-international-t-00-52-16)**
+> ""That is the epicenter of the Family International movement—AKA the Children of God." "Their practices are very familiar.""
+
+**[00:06:29](/episodes/ep-7RLtGgkTh9o.md#ent-org-the-family-international-t-00-06-14)**
+> "...—Lou was going on TV shows as the family's spokesperson to speak on behalf of Britney."
 
 </details>
 

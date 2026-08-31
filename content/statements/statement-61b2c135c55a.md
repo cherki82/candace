@@ -22,8 +22,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:44:37](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2677);return false;">Play</a>
+**Timestamp:** [00:44:37](/episodes/ep-aDlhjfW6hz8.md#t-00-44-08) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2677s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He has handed so much over to Israel, and he's about to hand over the keys to our speech.
 

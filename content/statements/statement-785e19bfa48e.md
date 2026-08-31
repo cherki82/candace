@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:10:12](/episodes/ep-4YgrOhhy708.md#t-00-10-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(612);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=612s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Kolvet), ... Do you have a sense of how many people watched? ... over 10 million concurrent views. ... I was just in awe that they were going to try to sell this, that they were going to do what he did with his face and just lie and pretend that 6 million, ... that's just not true on its face. ... I'm going to walk you through this so you don't even have to have my background on YouTube to understand why this number is impossible.
 

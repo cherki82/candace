@@ -18,7 +18,7 @@ _Type: Places_
 Source: [City of St. George, Utah](https://sgcityutah.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-59">2025-09-17 · 00:23:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-52">2025-09-17 · 00:23:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-st-george-t-00-20-02">2026-08-10 · 00:20:15</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
@@ -32,7 +32,7 @@ Source: [City of St. George, Utah](https://sgcityutah.gov/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-st-george-t-00-14-25">EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-59" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-52" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-george-t-00-51-00" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-st-george-t-00-03-31" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-st-george-t-00-36-35" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
@@ -42,7 +42,7 @@ Source: [City of St. George, Utah](https://sgcityutah.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-59) | 2 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-52) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-george-t-00-51-00) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-st-george-t-00-03-31) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-st-george-t-00-36-35) | 1 |
@@ -100,7 +100,7 @@ Source: [City of St. George, Utah](https://sgcityutah.gov/)
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:23:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-59)**
+**[00:23:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-22-52)**
 > "...stody and that they were going to pick him up in Warner Valley. Now, Warner Valley is right next to St. George, so he lives very close to his parents—is what I want you to recognize. You've got St. George. You'..."
 
 **[00:23:36](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-st-george-t-00-23-36)**

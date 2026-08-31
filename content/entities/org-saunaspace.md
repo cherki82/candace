@@ -1,38 +1,51 @@
 ---
 title: "SaunaSpace"
-description: "SaunaSpace (Organizations) - 16 mentions"
+description: "SaunaSpace (Organizations) - 18 mentions"
 id: "org-saunaspace"
 type: "ORG"
+aliases:
+  - "Sauna Space"
+categories:
+  - "infrared sauna company"
+  - "episode sponsor"
 ---
 
 _Type: Organizations_
 
+**Also known as:** Sauna Space
+
+**Categories:** infrared sauna company, episode sponsor
+
+**Entity verification:** verified
+> SaunaSpace official support documentation confirms the company product names FireLight Infrared Sauna and Glow Infrared Therapy Light used in the sponsor segment.
+Source: [SaunaSpace product use guides](https://help.sauna.space/en-US/download-your-product-use-guides-here-654621)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47">2025-09-23 · 00:52:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-32">2025-11-05 · 00:30:04</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-02">2025-09-23 · 00:51:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-30">2025-11-05 · 00:29:59</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47">Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47" style="--pulse-height:29%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46" style="--pulse-height:86%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 6 mentions" title="2025-10-07 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 7 mentions" title="2025-11-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 6 mentions" title="2025-09-23 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 6 mentions" title="2025-10-07 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 6 mentions" title="2025-11-05 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47) | 2 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47) | 6 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46) | 6 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48) | 7 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48) | 6 |
 
 </details>
 </section>
@@ -40,10 +53,10 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (7 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
 
 **[00:28:48](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48)**
 > "...o want to tell you guys about SaunaSpace because when you're a mom with kids and a nonstop..."
@@ -54,17 +67,14 @@ _Type: Organizations_
 **[00:29:03](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48)**
 > "...w Infrared Therapy Light from SaunaSpace."
 
-**[00:29:39](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-32)**
+**[00:29:39](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-30)**
 > "SaunaSpace spent over a decade perfecting their firelight sp..."
 
-**[00:29:52](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-32)**
+**[00:29:52](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-30)**
 > "...ay back to herself, check out SaunaSpace."
 
-**[00:29:59](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-32)**
+**[00:29:59](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-30)**
 > "Head to saunaspace.com/Candace and use code Candace for a special 10..."
-
-**[00:30:04](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-32)**
-> "That's saunaspace.com/Candace with code Candace for a discount."
 
 </details>
 
@@ -92,13 +102,25 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (6 mentions)</summary>
 
 **[00:52:03](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47)**
 > "...heck out Sauna Space. Head to SaunaSpace.com/Candace and use code Candace, and you'll get ..."
 
 **[00:52:09](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47)**
 > "Again, that's SaunaSpace.com/Candace—use code Candace at checkout."
+
+**[00:51:14](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-02)**
+> "...nts, I want to tell you about Sauna Space, because when you are a mother with kids and you ..."
+
+**[00:51:17](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-02)**
+> "...hat is why I am obsessed with Sauna Space."
+
+**[00:51:22](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-02)**
+> "...w Infrared Therapy Light from Sauna Space."
+
+**[00:51:58](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47)**
+> "Sauna Space spent over a decade perfecting their firelight sp..."
 
 </details>
 
@@ -107,6 +129,28 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:51:17](/episodes/ep-UBkFkg4UNY8.md#t-00-51-02): “And that is why I am obsessed with Sauna Space.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:51:17](/episodes/ep-UBkFkg4UNY8.md#t-00-51-02): “And that is why I am obsessed with Sauna Space.”
+
+</details>
+
+</details>
 
 </details>

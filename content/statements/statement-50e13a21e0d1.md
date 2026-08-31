@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:21:14](/episodes/ep-YeEtS7nix3o.md#t-00-21-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1274);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the people's will attracted 2,193 activists during the decade of the 80s. Among these 2,000, some radicals were 95 Jewish women who represented almost a third of the only 348 women that were in the party.
 

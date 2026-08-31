@@ -6,6 +6,11 @@ date: "1993"
 ---
 
 **Date:** 1993
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1993”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1993"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:06:16](/episodes/ep-cZxHqYsWRYg.md#event-event-1993-lori-frantzve-filed-for-techmetrics-inte-t-00-06-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(376);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She filed for TechMetrics International 1993 and in the available 1998 docs pertaining to it

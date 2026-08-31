@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:38:01](/episodes/ep-tXoI0TTKVrs.md#t-00-38-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2281);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2281s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For the fourth day in a row, thousands of protesters took to the streets of the Albanian capital, brandishing national flags and flamingo shaped cardboard cutouts on sticks. ... The bird has become a symbol of intensifying protests against a vast real estate project linked to Donald Trump's son-in-law Jared Kushner in a region known for its rich biodiversity.
 

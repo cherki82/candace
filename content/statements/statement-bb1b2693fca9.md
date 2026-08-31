@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:19:56](/episodes/ep-4DvYXBn_5JI.md#t-00-19-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1196);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1196s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was there where we saw a young person fighting. He came out holding another student by the neck and the police was saying something for him to stop and so the student shot at the other teen and threw him. He threw him to the ground.
 

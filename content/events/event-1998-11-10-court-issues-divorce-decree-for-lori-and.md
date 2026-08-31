@@ -6,6 +6,11 @@ date: "1998-11-10"
 ---
 
 **Date:** 1998-11-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “November 10th of the same year”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "1998-11-10"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:25:26](/episodes/ep-ZAsV0fHGBiM.md#event-event-1998-11-10-court-issues-divorce-decree-for-lori-and-t-00-25-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1526);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1526s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then we have a decree on November 10th of the same year. So this is like three months later.
 
@@ -25,6 +30,6 @@ date: "1998-11-10"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:19:02](/episodes/ep-jTj9Ip46r4w.md#event-event-1998-11-10-court-issues-divorce-decree-for-lori-and-t-00-18-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1142);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1142s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then I'm going to show you this November 10th, 1998 final decree.

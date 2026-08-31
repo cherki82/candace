@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:07:22](/episodes/ep-69A8TzAGHlU.md#t-00-06-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(442);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=442s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Want to know the truth? In that particular episode, we never mentioned Brian Harpole or referred to him even once. ... The specific quotation to which he's referring to is about Terrell Farnsworth because it was Terrell Farnsworth who notoriously announced in a selfie video that Charlie Kirk was dead like two minutes after Charlie (Charlie Kirk) went down. ... Oh, they were picking up phone calls like Mikey McCoy. They were already filming themselves prematurely announcing Charlie (Charlie Kirk) is dead when not a single person could have known that Charlie Kirk was dead.
 

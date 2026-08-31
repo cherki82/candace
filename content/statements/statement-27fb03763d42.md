@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1939);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1939s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's almost as if the Mossad and the CIA, there is no separation between the two. It's why Bibi used to work for the CIA. ... I think we uncovered that during our Epstein series, but don't quote me on that.
 

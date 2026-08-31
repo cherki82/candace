@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:12:45](/episodes/ep-3QJqtW_NOSI.md#t-00-12-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(765);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=765s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What we can state definitively is that he is the wealthiest person in the Trump (Donald Trump) administration. I always find it a little weird when you got somebody who's like worth five billion like this guy
 

@@ -5,11 +5,20 @@ id: "person-john-dupont"
 type: "PERSON"
 aliases:
   - "John du Pont"
+  - "John E. du Pont"
+categories:
+  - "du Pont heir and wrestling patron"
 ---
 
 _Type: People_
 
-**Also known as:** John du Pont
+**Also known as:** John du Pont, John E. du Pont
+
+**Categories:** du Pont heir and wrestling patron
+
+**Entity verification:** verified
+> The National Wrestling Hall of Fame's Dave Schultz biography identifies Foxcatcher sponsor John E. du Pont; contemporaneous reporting also identifies him in Schultz's killing.
+Source: [Dave Schultz Biography – National Wrestling Hall of Fame](https://nwhof.org/massachusetts/files/2014/07/Dave-Schultz-Biography.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-john-dupont-t-00-09-45">2025-12-02 · 00:10:13</a></strong></div>
@@ -18,7 +27,7 @@ _Type: People_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -58,7 +67,29 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Attacked (1)</summary>
+
+- **[David Schultz](/entities/person-david-schultz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45): “John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[David Schultz](/entities/person-david-schultz.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45): “John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996.”
+
+</details>
+
+</details>
 
 </details>
 
@@ -68,7 +99,7 @@ _No relationships extracted yet._
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
 
-- [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) (Claim) **Candace Owens**: ["John DuPont shot Olympic wrestler David Schultz dead in the driveway o..."](/statements/statement-9a8d4a44b905.md)
+- [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) (Claim) **Vanity Fair** (via quoted article): ["John DuPont shot Olympic wrestler David Schultz dead in the driveway o..."](/statements/statement-9a8d4a44b905.md)
   - Also about: [DuPont family](/entities/org-dupont-family.md), [David Schultz](/entities/person-david-schultz.md)
 
 </details>

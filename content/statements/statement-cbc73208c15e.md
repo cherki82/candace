@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(413);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=413s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace should be forced to register with FARA, and her bank accounts and her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.
 

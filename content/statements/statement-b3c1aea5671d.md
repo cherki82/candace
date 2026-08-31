@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:43:27](/episodes/ep-X3VKJVJ7cN4.md#t-00-43-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2607);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2607s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew, beyond anything else, why didn't you confirm this earlier that I was telling the truth? Was it weird for you when Benjamin Netanyahu was pretending that Charlie had no issues with him and it was all love when you knew that Charlie declined to have him on the show, when you knew the night before that Charlie was fearful that he was going to be killed, when you knew the night before that he was on a text thread saying that he had no choice but to abandon the pro-Israel cause,
 

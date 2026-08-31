@@ -6,6 +6,11 @@ date: "2008"
 ---
 
 **Date:** 2008
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “So that's 2008”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2008"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:46:54](/episodes/ep-cZxHqYsWRYg.md#event-event-2008-erika-kirk-placed-third-runner-up-while--t-00-46-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2814);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she does make it to compete for Miss USA Colorado 2009, and she places third runner-up.

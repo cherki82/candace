@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:22:48](/episodes/ep-Pb7UlpRdW6U.md#t-00-22-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1368);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1368s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > definition of nefarious changes, as you know, I mean, hundreds of thousands of American citizens were sent to concentration camps by Franklin Roosevelt because they were Japanese.
 

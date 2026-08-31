@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:56:02](/episodes/ep-2T39-oADLj0.md#t-00-55-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3362);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3362s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They lied about the fact that he had said, I have no choice but to abandon the pro-Israel cause.
 

@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1437);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=1437s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.
 

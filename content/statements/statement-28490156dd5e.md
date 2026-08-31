@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:22:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-21-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1329);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1329s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You will note and remember perhaps in 2008 following the financial crisis, Merrill Lynch was acquired by Bank of America. So it became Bank of America Merrill Lynch.
 

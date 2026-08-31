@@ -6,6 +6,11 @@ date: "2026-04-17"
 ---
 
 **Date:** 2026-04-17
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Friday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-04-17"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:24:40](/episodes/ep-kaWtDuoY_ns.md#event-event-2026-04-17-candace-owens-reported-that-turning-poin-t-00-24-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1480);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=1480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Her turning point team canceled her appearance at Pinnacle High School

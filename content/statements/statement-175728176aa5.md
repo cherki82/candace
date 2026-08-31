@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [01:01:15](/episodes/ep-X92MllIHDzw.md#t-01-00-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3675);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=3675s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do think that Charlie was DARPA tested. I think he was obviously we can prove that he was tracked by the military. I mean, turning point was established in part by Bill Montgomery, who was Air Force involved with the Air Force.
 

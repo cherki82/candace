@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(617);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=617s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Responding to my episode where I simply told the public the truth that there was no bullet that passed through was deemed a higher priority than Erika (Erika Kirk) being fully emotionally present at her husband's funeral. ... Erika (Erika Kirk) lied. Erika (Erika Kirk) and Andrew (Andrew Kolvet) colluded. on how to message to the public about this little fact that was never meant to be known to us.
 

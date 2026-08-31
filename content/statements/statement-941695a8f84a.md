@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2136);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The United States, at the instruction presumably of Israel, bombed an elementary school in Iran, a primary school is an elementary school in Iran. ... 156 people were murdered, including 120 students and 26 teachers. And the craziest part of the story is that the United States tried to deny it.
 

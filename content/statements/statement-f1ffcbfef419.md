@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:37:34](/episodes/ep-QZWSsq8ZWzw.md#t-00-37-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2254);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But this stuff is real. And I'm glad that the end result thus far of how it has impacted society—to watch Charlie Kirk be assassinated, even though we don't know who exactly was behind this—we know it was more than one person—is that people are going back to church, and that they had that instinct when they watched it.
 

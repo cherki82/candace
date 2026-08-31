@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:26:14](/episodes/ep-SgVcnx4Oh30.md#t-00-26-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1574);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1574s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that are wi-fi capable and they do not use it because the costs are astronomical and they say it's a scam okay it is an outright rip-off if you own the jet uh and i can state that i highly highly highly doubt that Charlie (Charlie Kirk) kirk would have been running the wi-fi on the jet it costs just so you understand three hundred thousand dollars just to install wi-fi aboard a jet and then you're looking at an approximate uh 30 to 50 thousand dollars a month to run it on it.
 

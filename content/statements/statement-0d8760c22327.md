@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:01:15](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(75);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=75s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I want to toss it to you guys because the public is more perceptive and capable than our FBI.
 

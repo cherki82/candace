@@ -6,6 +6,15 @@ date: "2022-07-08"
 ---
 
 **Date:** 2022-07-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “2022”
+
+**Normalization note:** The Prime Minister of Japan records Abe speaking and being killed on July 8, 2022.
+
+**Date source:** [https://japan.kantei.go.jp/101_kishida/actions/202209/_00033.html](https://japan.kantei.go.jp/101_kishida/actions/202209/_00033.html)
 
 ## Event
 
@@ -15,6 +24,6 @@ date: "2022-07-08"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:13:19](/episodes/ep-CMcktj3Egfo.md#event-event-2022-07-08-former-japanese-prime-minister-shinzo-ab-t-00-13-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(799);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=799s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was shot and he was killed because a 41-year-old man blamed the prime minister,

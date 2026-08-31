@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:00:14](/episodes/ep-HYn0P-P1wUw.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(14);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=14s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He'd never been arrested, never committed any crimes. He has a perfect ACT score,
 

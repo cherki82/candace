@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:12:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(725);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=725s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He flies into Salt Lake City, not Provo. Blake Neff was on board that private jet with Charlie to Salt Lake City on that morning.
 

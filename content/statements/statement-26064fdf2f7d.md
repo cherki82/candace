@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:02:56](/episodes/ep-G3zdOeHpvS0.md#t-00-02-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(176);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=176s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > until he was until he was assassinated and the people caring for him ripped it off as they tried to save his life and Erika (Erika Kirk) has it on her all times now
 

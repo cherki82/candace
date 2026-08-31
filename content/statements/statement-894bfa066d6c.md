@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:25:25](/episodes/ep-A39g5oqB_eM.md#t-00-25-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1525);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1525s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That call, ... the timing, ... the energy of that call does not feel right to me.
 

@@ -25,8 +25,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:13:47](/episodes/ep-iHav0PPzUz8.md#t-00-13-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(827);return false;">Play</a>
+**Timestamp:** [00:13:47](/episodes/ep-iHav0PPzUz8.md#t-00-13-24) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=827s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I was like, ah, I've been telling you guys for a while, the military runs X—like not Elon Musk, the military. These are military bots that you're seeing on X.
 

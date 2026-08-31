@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:37:13](/episodes/ep-NIEbqsLAK8g.md#t-00-36-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2233);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=2233s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've got a lot more information coming because apparently hilariously Turning Point USA purged a bunch of their employees that they thought were giving me information and they weren't. And so now they're giving me information.
 

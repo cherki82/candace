@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But from there... It kind of grew into something more global. I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army and then was able to work with a orphanage in Romania.
 

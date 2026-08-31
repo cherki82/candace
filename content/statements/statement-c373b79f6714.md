@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -23,13 +23,13 @@ veracity: "mixed"
 
 - [Robert Bohls](/entities/person-robert-bohls.md) (person)
 - [Provo Police Department](/entities/org-provo-police-department.md) (org)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:22:06](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1326);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1326s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Of all places, he began at the Provo Police Department back in the early 2000s. Check out this article from 2004, before he joined the FBI. He was at the Provo Police Department.
 

@@ -31,17 +31,17 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-california-t-00-04-56" style="--pulse-height:20%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-18-51" style="--pulse-height:40%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-18-38" style="--pulse-height:40%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-california-t-00-29-39" style="--pulse-height:20%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-california-t-00-17-40" style="--pulse-height:20%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-14-54" style="--pulse-height:40%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-15-06" style="--pulse-height:40%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-california-t-00-18-06" style="--pulse-height:80%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 4 mentions" title="2025-11-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-19" style="--pulse-height:80%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-55" style="--pulse-height:80%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-california-t-00-07-47" style="--pulse-height:60%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-california-t-00-16-09" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-california-t-00-21-13" style="--pulse-height:20%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53" style="--pulse-height:40%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-29-22" style="--pulse-height:40%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#t-00-33-28" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-29" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-california-t-00-10-31" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
@@ -67,17 +67,17 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-california-t-00-04-56) | 1 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-18-51) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-18-38) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-california-t-00-29-39) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-california-t-00-17-40) | 1 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-14-54) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-15-06) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-california-t-00-18-06) | 4 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-19) | 4 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-55) | 4 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-california-t-00-07-47) | 3 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03) | 5 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-california-t-00-16-09) | 5 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-california-t-00-21-13) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-29-22) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-29) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-california-t-00-10-31) | 1 |
@@ -282,10 +282,10 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:29:37](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53)**
+**[00:29:37](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-29-22)**
 > "the owner of the company was in California at the time"
 
-**[00:29:33](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53)**
+**[00:29:32](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-29-22)**
 > "...e owner of the company was in California at the time."
 
 </details>
@@ -321,19 +321,19 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
 
-**[00:02:26](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
+**[00:02:24](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
 > "... Haight-Ashbury Clinic. We're gonna talk about that and the program that they're running throughout California. Ye (Kanye West). When I said why I didn't speak out was because I recognized that he had done some..."
 
-**[00:11:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-10-43)**
+**[00:11:04](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
 > "... church working alongside her husband, who at the time was a pastor at Calvary Chapel in Brentwood, California. And interestingly enough, according to financial documents that are in the public domain, Jamie Sr..."
 
-**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-10-43)**
+**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
 > "...held out in 2019 was tied to Epstein somehow via Tony Blair. Britney Spears lives in Thousand Oaks, California—as does Justin Bieber. I believe P. Diddy, I believe, has a house there as well. I know Lou Taylor ..."
 
-**[00:16:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-10-43)**
+**[00:16:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
 > "...ink that Lou Taylor does not know Rob McCoy—exactly, right? All these people live in Thousand Oaks, California, and he's been pastoring that church up until July of this year for a very long time. And it's abou..."
 
-**[00:52:41](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-52-23)**
+**[00:52:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
 > "...ess Gaming writes, "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?" "That is the epicenter of the Family International movement—AKA the Children of God." "Their prac..."
 
 </details>
@@ -355,16 +355,16 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
 
-**[00:22:23](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-19)**
+**[00:22:21](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-55)**
 > "...r me—is that we randomly received a tip from somebody who knew Pastor Rob McCoy from Thousand Oaks, California. And they were speaking about just kind of the area and how tight-knit it is in the church. And the..."
 
-**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-19)**
+**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-32-55)**
 > "...nother leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother who's involved in a Calva..."
 
-**[00:40:55](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-40-43)**
+**[00:40:51](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-40-41)**
 > "...pot person, so that's not evidence. But there is evidence that she comes from a Freemason family in California. Like, dad was in the Freemason California Freemasons, and grandpa was pretty high up in the Califo..."
 
-**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-40-43)**
+**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-california-t-00-40-41)**
 > "...re is evidence that she comes from a Freemason family in California. Like, dad was in the Freemason California Freemasons, and grandpa was pretty high up in the California Freemasons. And you know, Kash Patel d..."
 
 </details>
@@ -389,10 +389,10 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-14-54)**
+**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-15-06)**
 > "...cCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right now—because I didn't know that..."
 
-**[00:15:07](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-14-54)**
+**[00:15:06](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-california-t-00-15-06)**
 > "...ipating some bigger role at Turning Point USA and maybe therefore planning to wind down his life in California," no. Actually, that's exactly the reason that was cited when it was reported on in January in the ..."
 
 </details>
@@ -416,10 +416,10 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:19:01](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-18-51)**
+**[00:19:01](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-18-38)**
 > "...r. It is a woman named Dr. Deidre Weiss Amaro. Deidre Weiss Amaro is her name, and she blew in from California. She was announced as the new state medical examiner in May of 2024. I'm sorry, from Missouri. I th..."
 
-**[00:19:15](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-18-51)**
+**[00:19:13](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-california-t-00-19-13)**
 > "...medical examiner in May of 2024. I'm sorry, from Missouri. I think she also worked at some point in California, and she was announced as the new Utah medical examiner, state Utah medical examiner, in May of 202..."
 
 </details>

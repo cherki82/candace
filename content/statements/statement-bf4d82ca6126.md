@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:57:53](/episodes/ep-zSKrxIUMNqw.md#t-00-57-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3473);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3473s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, next comment, top comment from yesterday's episode on our English—this channel—says, why does it always end with child sex trafficking every single time? Lord, bring them down. Yeah, Lord, bring them down is correct. This story has way too much child sex trafficking in it. Charlie Kirk's story, me looking into different people, it just keeps coming up. I mean, everyone is involved with the [unclear—sounds like 'chair']. It's like, it's—
 

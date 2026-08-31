@@ -32,7 +32,7 @@ veracity: "false"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:06:13](/episodes/ep-QRS_hR7NXaQ.md#t-00-05-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(373);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The first place that we went during that war and set up a base was a museum. Not just any museum, the museum that held all of the relics. licks for that. It also held all the cuneiform tablets from Babylon and Gilgamesh and or Nimrod's tomb.
 

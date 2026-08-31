@@ -7,7 +7,7 @@ type: "citation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:35:14](/episodes/ep-puuMVxEu5NU.md#t-00-35-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, Time did an article today and they're angry. They are angry with Brad Karkar Scal, the government of Israel, because it seems to have backfired. And they are saying that they spent, I believe it was $1.5 million a day.
 

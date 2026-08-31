@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:23:36](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1416);return false;">Play</a>
+**Timestamp:** [00:23:16](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1396s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He has two sons that are in the military—fly planes—as well as one of his son's spouses that's in the military.
 

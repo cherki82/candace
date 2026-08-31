@@ -20,14 +20,14 @@ type: "accusation"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Spencer Cox](/entities/person-spencer-cox.md) (person)
 
 ## Source
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:09:51](/episodes/ep-N4uM8Jdr410.md#t-00-09-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(591);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=591s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I hate when that happens. Or did they just completely make that part up as they were trying to make the various decoy boys make sense and never understood why he needed to change at all?
 

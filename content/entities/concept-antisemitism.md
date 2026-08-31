@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 123 mentions"
+description: "Antisemitism (Concepts) - 169 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -24,12 +24,12 @@ _Type: Concepts_
 Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/antisemitism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00">2025-10-01 · 00:00:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-00-24-40">2025-09-15 · 00:25:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-23-09">2026-07-23 · 00:23:09</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Episodes</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>169</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,10 +38,26 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-00-13">Candace x Bassem Youssef | Candace Ep 298</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-00-24-40" style="--pulse-height:14%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-antisemitism-t-00-42-01" style="--pulse-height:36%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-antisemitism-t-00-46-08" style="--pulse-height:29%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-antisemitism-t-00-37-37" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-32-41" style="--pulse-height:86%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 12 mentions" title="2025-09-22 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00" style="--pulse-height:21%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-15" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-41" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-concept-antisemitism-t-00-00-00" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-antisemitism-t-00-00-41" style="--pulse-height:14%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-antisemitism-t-00-01-57" style="--pulse-height:14%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-antisemitism-t-00-45-58" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-20-09" style="--pulse-height:43%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 6 mentions" title="2025-11-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26" style="--pulse-height:57%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 8 mentions" title="2025-11-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-antisemitism-t-00-48-48" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-antisemitism-t-00-26-28" style="--pulse-height:14%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-antisemitism-t-00-14-05" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-concept-antisemitism-t-00-55-41" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-concept-antisemitism-t-00-08-38" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-antisemitism-t-00-01-51" style="--pulse-height:14%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-antisemitism-t-01-02-58" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-32" style="--pulse-height:36%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
@@ -83,10 +99,26 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-00-24-40) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-antisemitism-t-00-42-01) | 5 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-antisemitism-t-00-46-08) | 4 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-antisemitism-t-00-37-37) | 2 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-32-41) | 12 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00) | 3 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-15) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-41) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-concept-antisemitism-t-00-00-00) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-antisemitism-t-00-00-41) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-antisemitism-t-00-01-57) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-antisemitism-t-00-45-58) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-20-09) | 6 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26) | 8 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-antisemitism-t-00-48-48) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-antisemitism-t-00-26-28) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-antisemitism-t-00-14-05) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-concept-antisemitism-t-00-55-41) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-concept-antisemitism-t-00-08-38) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-antisemitism-t-00-01-51) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-antisemitism-t-01-02-58) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-32) | 5 |
@@ -130,7 +162,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (169)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -637,10 +669,67 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 </details>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:02:14](/episodes/ep-w1oqQbR_bYs.md#ent-concept-antisemitism-t-00-01-51)**
+> "... at year end because I wasn't anti-Semite."
+
+**[00:14:38](/episodes/ep-w1oqQbR_bYs.md#ent-concept-antisemitism-t-00-14-12)**
+> "...bout Jews that both lovers of antisemitism and haters of antisemitism both agree is antisemi..."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-concept-antisemitism-t-00-08-38)**
+> "...o-Israel cause and talk about anti-Semitism and talk about like crime."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:55:52](/episodes/ep-6DhWawD4ZiM.md#ent-concept-antisemitism-t-00-55-41)**
+> "... corrupt Jews without blanket anti-Semitism critiquing George Floyd because he died of fentan..."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:14:27](/episodes/ep-Kmt6HgRjckU.md#ent-concept-antisemitism-t-00-14-05)**
+> "It's anti-Semitic."
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+
+**[00:26:35](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-antisemitism-t-00-26-28)**
+> "...fuck out of you—would that be anti-Semitic?"
+
+**[00:26:38](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-antisemitism-t-00-26-28)**
+> "Because I don't want to be anti-Semitic."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:38:43](/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43)**
 > "So I'm not being anti-Semitic."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+
+**[00:49:22](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-antisemitism-t-00-48-48)**
+> "... thing is I actually can't be anti-Semitic because Black people are actually Jews also. "You..."
+
+**[00:51:09](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-antisemitism-t-00-50-55)**
+> "We get called anti-Semitic."
 
 </details>
 
@@ -674,9 +763,70 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 </details>
 
 <details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
+
+**[00:20:34](/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-20-09)**
+> "But we know how they responded to Charlie (Charlie Kirk) doing that. They started calling him an anti-Semite."
+
+**[00:11:48](/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-11-48)**
+> "Given the hostility and the anti-Semitism that has been showing in New York, I would go to ..."
+
+**[00:18:36](/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-18-27)**
+> "...troduced bills to criminalize anti-Semitism, infringing upon free speech. I mean, he obviousl..."
+
+**[00:30:46](/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-30-36)**
+> "...(Candace Owens). No, she's an anti-Semite. That's quite a lot."
+
+**[00:30:51](/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-30-36)**
+> "Yeah, she's an anti-Semite. She's anti-gay. She's an anti-Semite. She has sa..."
+
+**[00:31:13](/episodes/ep-LATnak75Si0.md#ent-concept-antisemitism-t-00-31-13)**
+> "... of the issue," yeah—she's an anti-Semite."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:46:33](/episodes/ep-Qfwr08Ebczo.md#ent-concept-antisemitism-t-00-45-58)**
+> "...ing overseas and then call us anti-Semitic."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+
+**[00:01:57](/episodes/ep-K1tFD7FfoCU.md#ent-concept-antisemitism-t-00-01-57)**
+> "...ip): I want the world to know anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not..."
+
+**[00:04:50](/episodes/ep-K1tFD7FfoCU.md#ent-concept-antisemitism-t-00-04-45)**
+> "...Carlson is the most dangerous anti-Semite in America."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:00:55](/episodes/ep-iHav0PPzUz8.md#ent-concept-antisemitism-t-00-00-41)**
+> "...you probably will guess. It's anti-Semitism."
+
+**[00:36:46](/episodes/ep-iHav0PPzUz8.md#ent-concept-antisemitism-t-00-36-18)**
+> "...ugh: How dare you—punish your anti-Semite—for saying or not looking the other way because t..."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
+
+**[00:00:35](/episodes/ep-pc3pxRyNFZk.md#ent-concept-antisemitism-t-00-00-00)**
+> "..., all white European men, are anti-Semitic."
+
+</details>
+
+<details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:04:47](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-15)**
+**[00:04:47](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-41)**
 > "“He is actually a victim of antisemitism.”"
 
 **[00:10:35](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-10-35)**
@@ -693,8 +843,108 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 **[00:25:54](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-25-54)**
 > "...dia, that would be considered anti-Semitic."
 
-**[00:39:13](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-38-34)**
+**[00:39:13](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-39-06)**
 > "That's anti-Semitic."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (12 mentions)</summary>
+
+**[00:32:54](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-32-41)**
+> "Candace (Candace Owens) is not anti-Semitic."
+
+**[00:36:57](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-36-43)**
+> "therefore makes them anti-Semites"
+
+**[00:33:48](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-33-19)**
+> "...ble, actually—to discuss what anti-Semitism is and what anti-Semitism is not."
+
+**[00:35:06](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-34-47)**
+> "...was hosting a town hall about anti-Semitism."
+
+**[00:35:09](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-34-47)**
+> "...ust him discussing with Gen Z anti-Semitism."
+
+**[00:35:27](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-35-19)**
+> ""But you would be called an anti-Semite by some people for saying this.""
+
+**[00:35:44](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-35-19)**
+> "... don't think they're actually anti-Semitic."
+
+**[00:35:50](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-35-19)**
+> "...word out and be like, 'You're anti-Semitic because you think that we should stop sending our..."
+
+**[00:36:25](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-36-03)**
+> "...d what Tucker Carlson said is anti-Semitic—I don't hold that view, but it's like a lot of pe..."
+
+**[00:36:43](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-36-43)**
+> "...ucker (Tucker Carlson), would anti-Semitism increase or decrease?""
+
+**[00:37:35](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-37-23)**
+> "...also, if you call everyone an anti-Semite if they don't take a puritanical view of the Neta..."
+
+**[00:38:53](/episodes/ep-ja26iltROkM.md#ent-concept-antisemitism-t-00-38-53)**
+> "...hat if I criticize AIPAC, I'm anti-Semitic.""
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+
+**[00:37:37](/episodes/ep-aDlhjfW6hz8.md#ent-concept-antisemitism-t-00-37-37)**
+> "...whether or not everything was antisemitism."
+
+**[00:37:41](/episodes/ep-aDlhjfW6hz8.md#ent-concept-antisemitism-t-00-37-37)**
+> "...hat this is going to increase antisemitism—trying to pass speech laws or labeling people ant..."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+
+**[00:46:08](/episodes/ep-2WEHTk0Xewg.md#ent-concept-antisemitism-t-00-46-08)**
+> "...ent—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous." Charlie (Charlie Kirk), an..."
+
+**[00:46:18](/episodes/ep-2WEHTk0Xewg.md#ent-concept-antisemitism-t-00-46-08)**
+> "He was not an anti-Semite. He was the opposite. And he was not dangerous. H..."
+
+**[00:48:33](/episodes/ep-2WEHTk0Xewg.md#ent-concept-antisemitism-t-00-48-12)**
+> "... hater. Obviously, I'm not an anti-Semite. I just don't want more wars. And I don't want a ..."
+
+**[00:50:43](/episodes/ep-2WEHTk0Xewg.md#ent-concept-antisemitism-t-00-50-43)**
+> "...nd telling him he was hosting anti-Semitism then became the fastest people to try to eulogize..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
+
+**[00:42:32](/episodes/ep-q7f8r-THr84.md#ent-concept-antisemitism-t-00-42-01)**
+> "..., yeah, because that would be antisemitic."
+
+**[00:51:13](/episodes/ep-q7f8r-THr84.md#ent-concept-antisemitism-t-00-51-13)**
+> "...o knee-jerk about calling you anti-Semitic or getting deeply offended if you say anything th..."
+
+**[00:52:17](/episodes/ep-q7f8r-THr84.md#ent-concept-antisemitism-t-00-51-57)**
+> "...und on me too, to you must be anti-Semitic."
+
+**[00:52:34](/episodes/ep-q7f8r-THr84.md#ent-concept-antisemitism-t-00-52-34)**
+> "...hat's fine, we won't call you anti-Semitic if you criticize Israel, turn around immediately ..."
+
+**[00:54:19](/episodes/ep-q7f8r-THr84.md#ent-concept-antisemitism-t-00-53-50)**
+> "...essages, Megyn, calling me an anti-Semite. I am learning biblical Hebrew and writing a book..."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
+
+**[00:25:06](/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-00-24-40)**
+> "...tell us to shut up or call us antisemitic for pointing out the fact that Charlie was having..."
+
+**[01:03:15](/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-01-02-48)**
+> "...something that can be labeled anti-Semitic."
 
 </details>
 
@@ -708,7 +958,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antisemitism (21)</strong></summary>
+<summary><strong class="section-title">Statements about Antisemitism (22)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -840,6 +1090,14 @@ _No relationships extracted yet._
 
 - [00:00:37](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) (Opinion) **Candace Owens**: ["Kanye West was right that people who oppose a particular agenda are bl..."](/statements/statement-0ad5a79042eb.md)
   - Also about: [Kanye West](/entities/person-kanye-west.md)
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:14:38](/episodes/ep-w1oqQbR_bYs.md#t-00-14-12) (Accusation) **Jeremy Boreing** (via quoted speech): ["Jeremy Boreing accused Candace Owens of routinely making insinuations ..."](/statements/statement-b26b13e50d72.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

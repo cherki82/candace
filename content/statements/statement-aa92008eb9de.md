@@ -26,7 +26,7 @@ type: "prediction"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [01:04:40](/episodes/ep-OEAHy3SsIiI.md#t-01-04-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3880);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=3880s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in this circumstance, I believe that the end verdict for Venezuela is not going to be preferred.
 

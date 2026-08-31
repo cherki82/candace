@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -34,7 +34,7 @@ veracity: "unverifiable"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:38:26](/episodes/ep-FFQ9675oqRI.md#t-00-38-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2306);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=2306s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > donors are saying that the video is completely ai and they were present and Charlie (Charlie Kirk) never said that
 
@@ -42,7 +42,7 @@ veracity: "unverifiable"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:04:37](/episodes/ep-KpxIBWkNsSs.md#t-00-04-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(277);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because it has been, according to our count, and I now have, I'm keeping the count here on our desk, 39 long days since we reported that donors who were present in Aspen assert that the audio which was shared by Turning Point USA of Charlie (Charlie Kirk) saying, I appoint my wife to run Turning Point USA, if something happens to me, she'll do a great job. was faked. This is what they are saying. I'm reporting that. They are saying that that was faked. It never happened. Charlie (Charlie Kirk) never said that.
 

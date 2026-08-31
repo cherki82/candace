@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:31:52](/episodes/ep-19vHhjF7-NA.md#t-00-31-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1912);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=1912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we we decided over the weekend we were going to troll the trolls there's this video that has become a source of ... controversy ... obsession yeah just absurd i don't even talk about it because i think the whole thing is so lame
 

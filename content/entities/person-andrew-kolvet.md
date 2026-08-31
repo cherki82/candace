@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 805 mentions"
+description: "Andrew Kolvet (People) - 802 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-59-02">2026-08-21 · 00:59:10</a></strong></div>
 <div><span>Episodes</span><strong>120</strong></div>
-<div><span>Mentions</span><strong>805</strong></div>
-<div><span>Statements by</span><strong>96</strong></div>
-<div><span>Statements about</span><strong>209</strong></div>
-<div><span>Relationships</span><strong>101</strong></div>
+<div><span>Mentions</span><strong>802</strong></div>
+<div><span>Statements by</span><strong>98</strong></div>
+<div><span>Statements about</span><strong>199</strong></div>
+<div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,28 +40,28 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-25-42" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-08-07" style="--pulse-height:19%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-andrew-kolvet-t-00-00-32" style="--pulse-height:19%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 8 mentions" title="2025-09-23 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-43" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-37" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-andrew-kolvet-t-00-09-02" style="--pulse-height:14%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-andrew-kolvet-t-00-12-28" style="--pulse-height:23%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-11" style="--pulse-height:12%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-24" style="--pulse-height:12%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-andrew-kolvet-t-00-03-48" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53" style="--pulse-height:23%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 10 mentions" title="2025-10-28 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53" style="--pulse-height:21%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 9 mentions" title="2025-10-28 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-andrew-kolvet-t-00-27-03" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-andrew-kolvet-t-00-36-53" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16" style="--pulse-height:12%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 5 mentions" title="2025-11-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29" style="--pulse-height:12%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-57" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-44" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-kolvet-t-00-11-07" style="--pulse-height:12%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 5 mentions" title="2025-11-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-09" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07" style="--pulse-height:12%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-05" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07" style="--pulse-height:9%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-andrew-kolvet-t-00-15-00" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-andrew-kolvet-t-00-55-11" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-andrew-kolvet-t-00-33-24" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-andrew-kolvet-t-00-02-58" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-andrew-kolvet-t-00-08-01" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-andrew-kolvet-t-00-07-26" style="--pulse-height:9%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10" style="--pulse-height:44%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 19 mentions" title="2025-12-16 · 19 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44" style="--pulse-height:23%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 10 mentions" title="2025-12-17 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10" style="--pulse-height:37%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 16 mentions" title="2025-12-16 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-03-12" style="--pulse-height:23%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 10 mentions" title="2025-12-17 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30" style="--pulse-height:16%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 7 mentions" title="2025-12-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-andrew-kolvet-t-00-01-23" style="--pulse-height:63%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 27 mentions" title="2026-01-05 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-14-53" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
@@ -165,28 +165,28 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-25-42) | 3 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-08-07) | 8 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-andrew-kolvet-t-00-00-32) | 8 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-43) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-37) | 2 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-andrew-kolvet-t-00-09-02) | 6 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-andrew-kolvet-t-00-12-28) | 10 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-11) | 5 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-24) | 5 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-andrew-kolvet-t-00-03-48) | 2 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53) | 10 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53) | 9 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-andrew-kolvet-t-00-27-03) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-andrew-kolvet-t-00-36-53) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16) | 5 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29) | 5 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-57) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-44) | 3 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-kolvet-t-00-11-07) | 5 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-09) | 3 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07) | 5 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-05) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07) | 4 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-andrew-kolvet-t-00-15-00) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-andrew-kolvet-t-00-55-11) | 2 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-andrew-kolvet-t-00-33-24) | 3 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-andrew-kolvet-t-00-02-58) | 2 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-andrew-kolvet-t-00-08-01) | 5 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-andrew-kolvet-t-00-07-26) | 4 |
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10) | 19 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44) | 10 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10) | 16 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-03-12) | 10 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30) | 7 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-andrew-kolvet-t-00-01-23) | 27 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-14-53) | 3 |
@@ -287,7 +287,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (805)</strong></summary>
+<summary><strong class="section-title">Raw mentions (802)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (14 mentions)</summary>
@@ -2412,13 +2412,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 **[00:07:29](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-07-03)**
 > "Andrew Kolvet can confirm it's real."
 
-**[00:22:34](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-22-14)**
+**[00:22:34](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-22-34)**
 > "...got brought into an office by Andrew Kolvet and was told that the CMO got into an Uber car an..."
 
-**[00:23:23](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-23-23)**
+**[00:23:23](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-23-00)**
 > "Andrew Kolvet hauls this person into the office and starts aski..."
 
-**[00:24:54](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-24-42)**
+**[00:24:54](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-24-22)**
 > "... to know my actual opinion to Andrew Kolvet, if you want to know my actual opinion about Erik..."
 
 **[00:07:22](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-07-03)**
@@ -2760,61 +2760,58 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > "...y intimated that to you, like Andrew Kolvet has a memory, Erika Kirk has a memory, and then t..."
 
 **[00:41:14](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-41-05)**
-> "...a three-way call with him and Andrew and Erica."
+> "I should also mention that the surgeon said, and again, this is through a third party person, so it's on direct line between me and the surgeon, that he absolutely did not violate HIPAA when he suggested, hey, maybe it's a frangible bullet, but rather that it was a three-way call with him and Andrew and Erika."
 
 **[00:41:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-41-05)**
-> "...Erica's telling the truth and Andrew Kolvet was flying blind."
+> "I don't know if he's telling the truth or if Erika's telling the truth and Andrew Kolvet was flying blind."
 
 </details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (10 mentions)</summary>
 
-**[00:03:12](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44)**
+**[00:03:12](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-03-12)**
 > "I was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation that he had with the surgeon."
 
-**[00:04:27](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-04-09)**
+**[00:04:22](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-03-57)**
 > "Why would he speak to Andrew Kolvet?"
 
-**[00:04:29](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-04-09)**
+**[00:04:29](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-03-57)**
 > "Also, did Andrew Kolvet record it?"
 
 **[00:06:10](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
 > "...tate that, the quotation that Andrew Kolvet shared on his ex feed is not a direct quotation f..."
 
-**[00:06:22](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
+**[00:06:20](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
 > "...cated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true that the surgeon..."
 
-**[00:07:16](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-40)**
+**[00:07:16](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-16)**
 > "Well, Andrew (Andrew Kolvet) also told us that the bullet did ricochet."
 
-**[00:07:24](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+**[00:07:24](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-16)**
 > "I'm told, we are told that Andrew Kolvet was flying blind to put up this tweet, said that ..."
 
-**[00:34:25](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+**[00:34:15](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-16)**
 > "... is flying, particularly from Andrews outside of D.C. And I'm going to play this longer..."
 
-**[00:38:03](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+**[00:38:03](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-16)**
 > "...ugust 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special For..."
 
-**[00:40:05](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+**[00:40:05](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-16)**
 > "...658 flight back to Joint Base Andrews in DC."
 
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (19 mentions)</summary>
-
-**[00:01:17](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
-> "Alex and Andrew then jump onto a podcast"
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (16 mentions)</summary>
 
 **[00:04:26](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
 > "...Alex (Alex Clark) and Andrew (Andrew Kolvet) then jump onto a podcast and they're doing that ..."
 
-**[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
+**[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-08)**
 > "... I clarified, I said, Andrew (Andrew Kolvet) told me specifically that he was one of the peop..."
 
-**[00:06:32](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
+**[00:06:28](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-08)**
 > "...ot that directly from Andrew (Andrew Kolvet)."
 
 **[00:07:02](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-43)**
@@ -2826,40 +2823,34 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 **[00:07:21](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-07-21)**
 > "Andrew (Andrew Kolvet) did not know who they were, who they, the they t..."
 
-**[00:12:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-12-42)**
+**[00:12:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-12-34)**
 > "...ickly what happens is Andrew (Andrew Kolvet) whips up this tweet about what happened with the..."
 
-**[00:13:55](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-12-42)**
+**[00:13:53](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-13-53)**
 > "... in the comments responded to Andrew and he said,"
 
-**[00:14:10](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
-> "And then Andrew Colbert replies and says, rest assured, I would n..."
+**[00:14:10](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-13-53)**
+> "And then Andrew Kolvet replies and says, rest assured, I would not have posted without full permission. Now he said he spoke to the surgeon and they confirmed that Andrew spoke to the surgeon, but that they did not know that he was gonna write that tweet."
 
-**[00:14:15](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
-> "...rgeon and they confirmed that Andrew spoke to the surgeon, but that they did not know ..."
-
-**[00:14:27](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
+**[00:14:24](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-24)**
 > "...y much came across to be like Andrew was just"
 
-**[00:14:46](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
+**[00:14:41](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-24)**
 > "...even know, in theory, Andrew (Andrew Kolvet) wasn't even there when Charlie (Charlie Kirk) di..."
 
-**[00:14:53](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-53)**
+**[00:14:49](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-24)**
 > "...after, but, you know, Andrew (Andrew Kolvet) was not one of the people that got into the hosp..."
 
 **[00:31:35](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
 > "...with Alex (Alex Clark), where Andrew said, oh, there was not $150 million that's made ..."
 
-**[00:31:47](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
+**[00:31:45](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
 > "Andrew (Andrew Kolvet) was my source."
 
-**[00:31:49](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
-> "Andrew (Andrew Kolvet) told me."
-
-**[00:50:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
+**[00:50:47](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
 > "...d we can attest we, you know, Andrew Cipher, who's our head of field, you know,"
 
-**[00:56:58](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-56-34)**
+**[00:56:55](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-56-34)**
 > "...ven be the first time Andrew (Andrew Kolvet) has expressed that he thought that those message..."
 
 </details>
@@ -2868,7 +2859,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
 
 **[00:08:01](/episodes/ep-DqGNvi36ol8.md#ent-person-andrew-kolvet-t-00-08-01)**
-> "Blake live streaming with Andrew Kolvet who is not in person"
+> "So I love situational irony like that, where he is actually live streaming with Andrew Kolvet."
 
 **[00:08:09](/episodes/ep-DqGNvi36ol8.md#ent-person-andrew-kolvet-t-00-08-01)**
 > "...t's a person is in person and Andrew Kolvet is literally not in person as he's answering his ..."
@@ -2880,7 +2871,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > "... this, Blake Neff and Andrew (Andrew Kolvet) Kovac, because we were his best friends and we l..."
 
 **[00:14:55](/episodes/ep-DqGNvi36ol8.md#ent-person-andrew-kolvet-t-00-14-37)**
-> "...om your spokesperson, Andrew (Andrew Kolvet) Kolvet, who seems to be on the road and isn't co..."
+> "It's not coming across clearly from your spokesperson, Andrew Kolvet, who seems to be on the road and isn't course correcting in the attitudes that are coming out or at least telling people not to be like late night tweeting like Tyler Bowyer."
 
 </details>
 
@@ -2916,10 +2907,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
 **[00:33:24](/episodes/ep-a-e7HC6SeK8.md#ent-person-andrew-kolvet-t-00-33-24)**
-> "And there's one more thing that came in regarding Andrew Kolvet (Andrew Kolvet). A very close family friend of Andrew Kolvet (Andrew Kolvet) had messaged me early on."
+> "And there's one more thing that came in regarding Andrew Kolvet. A very close family friend of Andrew Kolvet had messaged me early on."
 
 **[00:33:35](/episodes/ep-a-e7HC6SeK8.md#ent-person-andrew-kolvet-t-00-33-24)**
-> "And I—again—was not tracking any of this at the time, but they had said that they felt that Andrew Kolvet (Andrew Kolvet) was acting weird."
+> "And I—again—was not tracking any of this at the time, but they had said that they felt that Andrew Kolvet was acting weird."
 
 **[00:33:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-andrew-kolvet-t-00-33-24)**
 > "Andrew (Andrew Kolvet) had told them that when Charlie (Charlie Kirk) s..."
@@ -2946,13 +2937,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
 
 **[00:02:38](/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07)**
 > "...'t making any sense. Well, I want to tell you guys this. There's another phone call that I had with Andrew Kolvet where I was crying on the phone with him. I mean, I am talking maybe 72 hours max after Charlie (Ch..."
-
-**[00:02:44](/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07)**
-> "Andrew Kolvet where I was crying on the phone with him... he said Candace, it was supposed to be you"
 
 **[00:03:29](/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07)**
 > "...now. Was he being honest? Was Andrew being honest?""
@@ -2968,14 +2956,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
 
-**[00:07:11](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-09)**
+**[00:07:11](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-05)**
 > "... odd if we were talking about Andrews or Dulles airports.""
 
-**[00:29:46](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-09)**
-> "...s don't know. Here are the passengers that we know came from Arizona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. W..."
+**[00:29:38](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-05)**
+> "Passengers don't know. Here are the passengers that we know came from Arizona and potentially Santa Barbara. Andrew (Andrew Kolvet), Andrew Kolvet's wife."
 
-**[00:50:18](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-49-41)**
-> "...ic Worldwide. Wow, thank you. That is a very tremendous donation that you just made to us. Up until Andrew Kolvet told us that we had to believe in Miracle Vertebrae, I was a devoted TPUSA donor and a show member...."
+**[00:50:14](/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-50-05)**
+> "Wow, thank you. That is a very tremendous donation that you just made to us. Up until Andrew (Andrew Kolvet) told us that we had to believe in Miracle Vertebrae, I was a devoted TPUSA donor and a show member."
 
 </details>
 
@@ -3002,13 +2990,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
 
-**[00:16:05](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-57)**
+**[00:16:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-44)**
 > "...angelical who only liked Catholic architecture. That's a lie, told and reinforced by Alex Clark and Andrew Kolvet. Lie number three is that Charlie (Charlie Kirk)'s neck stopped a .30-06 bullet because Charlie (Ch..."
 
-**[00:16:19](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-57)**
+**[00:16:18](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-44)**
 > "...te salad. He had strong bones. It was a modern-day Christian miracle. That's a lie. The offender is Andrew Kolvet. Another lie: Charlie (Charlie Kirk) never blinked in his support for Israel. Offender: Josh Hammer..."
 
-**[00:17:02](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-16-41)**
+**[00:17:02](/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-17-02)**
 > "...He lied. Number seven: Terrell moved the SD cards because people were stealing hats. Question mark. Andrew Kolvet: "What if you were scared about people stealing? Maybe remove the cameras? Very expensive cameras w..."
 
 </details>
@@ -3016,20 +3004,20 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
-**[00:03:48](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29)**
+**[00:03:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29)**
 > "Andrew Klavan: Christ is King."
 
 **[00:22:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29)**
-> "Andrew's going to talk about it."
+> "Andrew (Andrew Kolvet)'s going to talk about it. Everyone's going to talk about it. And they don't want to talk about the stuff that we care about."
 
-**[00:59:59](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-59-48)**
+**[00:59:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-59-45)**
 > "... have seen has just been—I don't know—it's just—it's been one big nothing burger. Tom Paul writes: "Andrew Kolvet on Alex Clark show discussed how Charlie's (Charlie Kirk's) heart was still beating. How did Charli..."
 
-**[01:00:41](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-01-00-33)**
-> "Didn't Andrew offer up an explanation?"
+**[01:00:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-01-00-24)**
+> "Yes: regarding that heart still beating if he instantly went to heaven. Didn't Andrew (Andrew Kolvet) offer up an explanation?"
 
-**[01:00:58](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-01-00-33)**
-> "...g—since they mentioned it—for Andrew or Frank Turek to respond to."
+**[01:00:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-01-00-24)**
+> "But maybe he still had a pulse. Again: this would be a great thing—since they mentioned it—for Andrew (Andrew Kolvet) or Frank Turek to respond to."
 
 </details>
 
@@ -3037,19 +3025,19 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (5 mentions)</summary>
 
 **[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16)**
-> "...betrayal. To the contrary, I had a very long discussion with him. I also had a long discussion with Andrew Kolvet (Andrew Kolvet) separately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes ..."
+> "I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes on his show and debate him."
 
 **[00:08:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16)**
-> "... (Nick Fuentes) on his show and debate him. I tried to make that happen. You guys will recall this. Andrew Kolvet (Andrew Kolvet) can confirm that everything that I am saying is true. Oh, it's such an act of betra..."
+> "Andrew Kolvet can confirm that everything that I am saying is true."
 
 **[00:22:13](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-21-54)**
-> "... "Steadfast support of Israel"—this is just a lie, and you know how I feel about lies. Fortunately, Andrew Kolvet (Andrew Kolvet), the spokesperson for Turning Point USA, instantly came out and slapped down the ru..."
+> "Fortunately, Andrew Kolvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor."
 
 **[00:22:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-21-54)**
-> "...rew Kolvet), the spokesperson for Turning Point USA, instantly came out and slapped down the rumor. Andrew Kolvet (Andrew Kolvet) wrote this: "This is the first we're hearing of this." "We've reached out to the re..."
+> "Andrew Kolvet wrote this: "This is the first we're hearing of this.""
 
 **[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-27-09)**
-> "...fter Alex Clark (Alex Clark). She lied about the Catholic thing. That was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood ..."
+> "That was my reason for going after Andrew Kolvet, Mikey McCoy."
 
 </details>
 
@@ -3076,19 +3064,16 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (10 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (9 mentions)</summary>
 
 **[00:12:56](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53)**
-> "...le, telling Charlie that we need to hire bigger and more professional money raisers, PR people like Andrew Kolvet—you name it. And it feels like at every moment there were forces that were trying to tell us this i..."
-
-**[00:13:00](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53)**
-> "Andrew Kolvet hired as PR at TPUSA"
+> "He starts hiring a bunch of people, telling Charlie (Charlie Kirk) that we need to hire bigger and more professional money raisers, PR people like Andrew Kolvet—you name it."
 
 **[00:22:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-22-48)**
 > "...he very least, okay? We've got Frank Turek, and Frank Turek—if we want to go through this—we've got Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer. Let's go through. Let's start with Frank Turek if we have th..."
 
 **[00:23:26](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-22-48)**
-> "...anes—as well as one of his son's spouses that's in the military. Again, he's never lied about this. Andrew Kolvet—by the way, if you don't know, I didn't know. I don't think Charlie knew—definitely not when Tyler ..."
+> "Andrew Kolvet—by the way, if you don't know, I didn't know."
 
 **[00:26:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-22-48)**
 > "...er when she messaged me about Andrew Tate."
@@ -3103,10 +3088,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > "...d if I'm lying, sue me for defamation, and you'll learn exactly how I know that. This is what makes Andrew Kolvet's tweet explaining the conversation with the surgeon especially interesting. You remember—he's like..."
 
 **[00:40:28](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-40-02)**
-> "... had discovered this over the weekend. So like James Lee, Ian Carroll, Sam Parker. And here is what Andrew Kolvet had to say. (Andrew Kolvet speaking) He's going to tell us that Mikey was told to do this in the ev..."
+> "And here is what Andrew Kolvet had to say. (Andrew Kolvet speaking)"
 
-**[00:44:56](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-40-02)**
-> "... that we're hearing this from Andrew, and we're not hearing it from Mikey McCoy."
+**[00:44:56](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-44-32)**
+> "I think it's curious that we're hearing this from Andrew (Andrew Kolvet), and we're not hearing it from Mikey McCoy."
 
 </details>
 
@@ -3124,19 +3109,19 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (5 mentions)</summary>
 
-**[00:02:27](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-11)**
+**[00:02:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-24)**
 > "...upon whatever facts we have in this decentralized investigation. This is about the injury, okay? So Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet in which he tried..."
 
-**[00:06:48](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-11)**
+**[00:06:47](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-24)**
 > "...ordinarily suspicious is that Andrew has claimed that he had a conversation with the s..."
 
-**[00:10:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-10-01)**
+**[00:09:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-09-53)**
 > "...o clarify immediately here and to again debunk some other internet conspiracy theories: That is not Andrew Kolvet in that video. A lot of people were like, "Is this Andrew Kolvet from Turning Point USA hiding unde..."
 
-**[00:10:03](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-10-01)**
+**[00:10:03](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-09-53)**
 > "...t conspiracy theories: That is not Andrew Kolvet in that video. A lot of people were like, "Is this Andrew Kolvet from Turning Point USA hiding under a hat?" It is not true. I spoke to Andrew on this actual day. H..."
 
-**[00:10:07](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-10-01)**
+**[00:10:06](/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-09-53)**
 > "I spoke to Andrew on this actual day."
 
 </details>
@@ -3154,7 +3139,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > "...table response. And yeah, I thought that that was—I will—I will compliment that. Just the action of Andrew Kolvet addressing it head-on instantly was good. So let's hear Andrew Kolvet in his own words. (Clip: Andr..."
 
 **[00:14:14](/episodes/ep-5autG89PW6w.md#ent-person-andrew-kolvet-t-00-13-50)**
-> "...ment that. Just the action of Andrew Kolvet addressing it head-on instantly was good. So let's hear Andrew Kolvet in his own words. (Clip: Andrew Kolvet) But I want to take the start of this show to address some o..."
+> "So let's hear Andrew Kolvet in his own words. (Clip: Andrew Kolvet)"
 
 **[00:18:20](/episodes/ep-5autG89PW6w.md#ent-person-andrew-kolvet-t-00-17-47)**
 > "...are circulating. And yeah, he's being honest about that portion. I personally, as someone who knows Andrew Kolvet, wanna express how I feel. I hold it against him actually that he didn't share it with me. He knew—..."
@@ -3202,10 +3187,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:10:48](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-43)**
-> "... answers." You know, I've been speaking and I've been seeing a lot of vitriol that's been thrown at Andrew Kolvet's (Andrew Kolvet) way because he is doing press. He is carrying on Charlie Kirk's (Charlie Kirk's) ..."
+**[00:10:48](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-37)**
+> "You know, I've been speaking and I've been seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press."
 
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-43)**
+**[00:36:15](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-37)**
 > "...unded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, an..."
 
 </details>
@@ -3232,7 +3217,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > "And here is what Andrew (Andrew Kolvet) had to say about the Turning Point affiliate emp..."
 
 **[00:42:15](/episodes/ep-UBkFkg4UNY8.md#ent-person-andrew-kolvet-t-00-42-15)**
-> "...e bottom of things a little bit. Am I maybe being selfish by thinking that if I was close to him—as Andrew Kolvet, every day on the show—I would be, like, more fired up about all the things that are going wrong? A..."
+> "Am I maybe being selfish by thinking that if I was close to him—as Andrew Kolvet, every day on the show—I would be, like, more fired up about all the things that are going wrong?"
 
 **[00:42:36](/episodes/ep-UBkFkg4UNY8.md#ent-person-andrew-kolvet-t-00-42-15)**
 > "...clip of Alex (Alex Clark) and Andrew (Andrew Kolvet) speaking about that moral blackma..."
@@ -3260,24 +3245,24 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 **[00:10:52](/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-10-50)**
 > "...y? So I think I would like to just respond to what is being said objectively, rather than to attack Andrew Kolvet's character. That aside, the statement objectively feels to me like the manipulation of a Christian..."
 
-**[00:57:06](/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-10-50)**
-> "...Charlie Kirk) Show last week, Andrew said someone powerful called Erika"
-
 **[00:57:15](/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-10-50)**
 > "If that wasn't relevant, Andrew wouldn't have said it."
+
+**[00:57:06](/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-10-50)**
+> "Rosa Marie Martinez writes: "On The Charlie Kirk Show last week, Andrew said someone powerful called Erika"
 
 </details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
 
-**[00:25:54](/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-25-42)**
-> "...kman brought receipts. How long was that tweet? It's still going. I think he was there in the room. Andrew Kolvet was there in the room. You're on the board of Turning Point? Yeah. Okay. When's the last time you s..."
+**[00:25:50](/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-25-42)**
+> "How long was that tweet? It's still going. I think he was there in the room. Andrew Kolvet was there in the room."
 
-**[00:52:13](/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-52-10)**
+**[00:52:11](/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-52-11)**
 > "...eople to lie? There's so many lies just in that one segment. It's stunning to me. Even when he says Andrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons. Wh..."
 
-**[00:52:15](/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-52-10)**
+**[00:52:15](/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-52-11)**
 > "...ment. It's stunning to me. Even when he says Andrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons. What are you lying about? Very strange. Is there—like—are..."
 
 </details>
@@ -3294,7 +3279,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
 **[00:14:02](/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27)**
-> "...nd Charlie (Charlie Kirk) and Andrew Kolvet (Andrew Kolvet)."
+> "And I just remember just being behind Charlie (Charlie Kirk) and Andrew Kolvet."
 
 **[00:14:33](/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-14-11)**
 > "...h, do you support her statements?” And I just remember just being behind Charlie (Charlie Kirk) and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to..."
@@ -3322,7 +3307,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Accused By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -3336,6 +3321,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:12](/episodes/ep-Wjul6YV6izo.md#t-00-54-08): “when I saw her and Andrew Kolvet colluding ... then I realized he's the one organizing the Paramount Tactical and also the Alex Jones ... that it was Andrew Kolvet the whole time.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:06:47](/episodes/ep-pc3pxRyNFZk.md#t-00-06-47): “the part that is now extraordinarily suspicious is that Andrew has claimed that he had a conversation with the surgeon”
 
 </details>
 
@@ -3368,14 +3354,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Appeared With (6)</summary>
-
-- **[Eric Bolling](/entities/person-eric-bolling.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13): “Andrew Kolvet was there in the room.”
-
-</details>
+<summary>Appeared With (5)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3423,7 +3402,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:15](/episodes/ep-sreYYcID-QY.md#t-00-38-58): “Andrew Kolvet was there in the room. You're on the board of Turning Point? Yeah.”
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:38](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “You're on the board of Turning Point? - Yeah.”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:56](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42): “You're on the board of Turning Point? ... Yeah.”
 
 </details>
 
@@ -3433,9 +3412,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Close Associate Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk)”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:10:22](/episodes/ep-ja26iltROkM.md#t-00-10-06): “He also was very close to Charlie (Charlie Kirk).”
 
 </details>
 
@@ -3452,9 +3432,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Cousin Of (1)</summary>
 
 - **[Robert Kolvet](/entities/person-robert-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:19:58](/episodes/ep-y8lak3CRwDw.md#t-00-19-44): “That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “His cousin, Captain Robert Kolvet, is high up in the military.”
 
 </details>
 
@@ -3483,7 +3464,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -3514,6 +3495,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:42](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “So happy new year to Johnny from Missouri. Happy new year, actually, to everyone except for Andrew Kolvet, the spokesperson of Turning Point USA, who has been working behind the scenes to have me smeared. Yeah, Andrew (Andrew Kolvet), you got caught.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:56](/episodes/ep-Wjul6YV6izo.md#t-00-55-29): “so many things I'm mad about that I'm now learning from the people that were wrongly fired at Turning Point USA. ... Andrew Kolvet again went rogue in that interview with Alex Clark. not true and try again another lie”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 
 </details>
 
@@ -3598,9 +3581,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:05](/episodes/ep-K5GjF53bfN4.md#t-00-10-37): “He's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk show.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk)”
 
 </details>
 
@@ -3610,9 +3594,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Hired By (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:12:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11): “On the Turning Point USA side, Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into just one episode— ... He starts hiring a bunch of people, telling Charlie (Charlie Kirk) that we need to hire bigger and more professional money raisers, PR people like Andrew Kolvet—you name it.”
 
 </details>
 
@@ -3668,7 +3653,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - **[Patrick Bet-David](/entities/person-patrick-bet-david.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Patrick Bet-David: When's the last time you saw Candace Owens in person?”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:59](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Okay. When's the last time you saw Candace Owens ... in person?”
 
 </details>
 
@@ -3769,6 +3754,30 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
+<summary>Sibling Of (1)</summary>
+
+- **[Kurt Kolvet](/entities/person-kurt-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “His brother, Captain Kurt Kolvet, is in the military.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:06](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “I spoke to Andrew on this actual day.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supporter Of (1)</summary>
 
 - **[Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report.md)**
@@ -3781,13 +3790,22 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Warned (1)</summary>
+<summary>Warned (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me after, especially given the fact that I told you that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and Tucker (Tucker Carlson) were on it and that we had to lay low, but he never told me who told him that.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:14:23](/episodes/ep-7ERqbYElOfs.md#t-00-14-01): “tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:24:14](/episodes/ep-JQjCAsfoXEE.md#t-00-24-14): “Another point that I'd like to follow up with, Andrew Kolvet: let's stick with you. ... Specifically, you told me that me and Tucker (Tucker Carlson) were on a list and that you were just telling me as a friend that me and Tucker (Tucker Carlson) should lay low.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me... while Charlie was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it”
-- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:14:23](/episodes/ep-7ERqbYElOfs.md#t-00-14-01): “tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:24:14](/episodes/ep-JQjCAsfoXEE.md#t-00-24-14): “Another point that I'd like to follow up with, Andrew Kolvet: let's stick with you. ... Specifically, you told me that me and Tucker (Tucker Carlson) were on a list and that you were just telling me as a friend that me and Tucker (Tucker Carlson) should lay low.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me after, especially given the fact that I told you that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and Tucker (Tucker Carlson) were on it and that we had to lay low, but he never told me who told him that.”
 
 </details>
 
@@ -3797,9 +3815,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Worked With (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39): “yeah i just want to be very clear that i don't see myself as that i've uh you know i worked with charlie just about every day for eight years and i feel like i have a charlie gpt or something in the back of my head i mean for truly i i hear”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
 
 </details>
 
@@ -3832,28 +3851,25 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#t-00-12-28): “Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.”
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:09](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “He's the spokesperson for Turning Point USA.”
-- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#t-00-10-01): “Is this Andrew Kolvet from Turning Point USA hiding under a hat?”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “Is this Andrew Kolvet from Turning Point USA hiding under a hat?”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#t-00-21-54): “Andrew Kolvet, the spokesperson for Turning Point USA”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:23:51](/episodes/ep-JQjCAsfoXEE.md#t-00-23-29): “answer it carefully, please, Andrew Kolvet, spokesperson for Turning Point USA,”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:05](/episodes/ep-his-JBjlkh8.md#t-00-02-58): “we probably anticipated that Andrew Kolvet, who is the TPUSA spokesperson,”
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:54](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “He's the spokesperson for Turning Point USA.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:08:07](/episodes/ep-ja26iltROkM.md#t-00-07-29): “the Turning Point USA spokesperson, Andrew Kolvet”
-- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “[00:00:48] ...Andrew Kolvet, the PR agent, close friend of Charlie Kirk...”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:04](/episodes/ep-UBkFkg4UNY8.md#t-00-26-28): “Anyways, you guys, I want to get to some of the responses and answers that were given by Andrew Kolvet, who is a PR agent for Turning Point USA.”
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:06](/episodes/ep-UBkFkg4UNY8.md#t-00-26-28): “Andrew Kolvet, who is a PR agent for Turning Point USA.”
-- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:01:45](/episodes/ep-ZAuuSq_j2_w.md#t-00-01-28): “today on their show, they had Andrew Kolvet joining them virtually”
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “He's the spokesperson for Turning Point USA. And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:05](/episodes/ep-K5GjF53bfN4.md#t-00-10-37): “There's no question. He's the spokesperson for Turning Point USA. And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk show.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:09:57](/episodes/ep-ja26iltROkM.md#t-00-09-29): “Andrew Kolvet's literal job. Okay, he is a PR agent. He runs a PR company, and his job is to respond to online chatter”
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:07](/episodes/ep-UBkFkg4UNY8.md#t-00-27-06): “Andrew Kolvet, who is a PR agent for Turning Point USA”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:37:48](/episodes/ep-YFmRH8p5lt0.md#t-00-37-34): “Andrew Kolvet should be able to confirm that. Yes or no. Don't dance around it.”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:01:58](/episodes/ep-ozWJz2spBcI.md#t-00-01-27): “Andrew Kolvet and Alex Clark similarly jumped in”
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:08:01](/episodes/ep-DqGNvi36ol8.md#t-00-07-38)
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:09:56](/episodes/ep-ja26iltROkM.md#t-00-09-29): “Andrew Kolvet tweeted this over the weekend...he is a PR agent”
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:03:24](/episodes/ep-es7PWdFGoFI.md#t-00-02-48): “So this is quite literally the PR guy who's calling the surgeon.”
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30): “this is what was divulged to me from Andrew Kolvet at the time”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:31:45](/episodes/ep-es7PWdFGoFI.md#t-00-31-26): “You know, I told them. Andrew (Andrew Kolvet) was my source. Andrew (Andrew Kolvet) told me. Verbatim. That Bibi Netanyahu offered to take turning points to the next level and that Charlie (Charlie Kirk) turned that money down. ... But it's especially crazy when people are calling it a conspiracy when I share things that are told to me from the spokesperson of Turning Point USA.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:25:07](/episodes/ep-9naMwS0kMBE.md#t-00-25-07): “that was told to me from andrew colbet okay that's not some random conspiracy theorist uh it's the spokesperson for turning point usa”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:50](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “the spokesperson of Turning Point USA,”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:17](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet, and then got hired to be the PR guy for Charlie Kirk and Turning Point USA.”
@@ -3866,6 +3882,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:29:55](/episodes/ep-a2bZf4fic10.md#t-00-29-31): “Andrew Kolvet, you're the spokesperson of Turning Point USA.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:04:35](/episodes/ep-AoYZel7_cGQ.md#t-00-04-28): “What about the ever wise and strategic spokesperson of Turning Point USA? Andrew Kolvet”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:00:43](/episodes/ep-aPOyk1i2LOc.md#t-02-00-43): “Yeah, well, I feel like I'm answering your questions and his questions about. I mean, I'm talking about Andrew Kolb at his position as he's a spokesperson for Turning Point USA.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:34:06](/episodes/ep-a-e7HC6SeK8.md#t-00-34-06): “How could the spokesperson at Turning Point USA be on the—how could they be gaining millions from that?”
 
 </details>
 
@@ -3879,10 +3896,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Referenced By (49)</summary>
+<summary>Referenced By (50)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -3896,6 +3913,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:12](/episodes/ep-Wjul6YV6izo.md#t-00-54-08): “when I saw her and Andrew Kolvet colluding ... then I realized he's the one organizing the Paramount Tactical and also the Alex Jones ... that it was Andrew Kolvet the whole time.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:06:47](/episodes/ep-pc3pxRyNFZk.md#t-00-06-47): “the part that is now extraordinarily suspicious is that Andrew has claimed that he had a conversation with the surgeon”
 
 </details>
 
@@ -3917,13 +3935,6 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “Well, Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me for the article.”
-
-</details>
-
-- **[Eric Bolling](/entities/person-eric-bolling.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13): “Andrew Kolvet was there in the room.”
 
 </details>
 
@@ -3965,9 +3976,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk)”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:10:22](/episodes/ep-ja26iltROkM.md#t-00-10-06): “He also was very close to Charlie (Charlie Kirk).”
 
 </details>
 
@@ -3979,14 +3991,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Robert Kolvet](/entities/person-robert-kolvet.md)** cousin of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:19:58](/episodes/ep-y8lak3CRwDw.md#t-00-19-44): “That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “His cousin, Captain Robert Kolvet, is high up in the military.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -4017,6 +4030,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:42](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “So happy new year to Johnny from Missouri. Happy new year, actually, to everyone except for Andrew Kolvet, the spokesperson of Turning Point USA, who has been working behind the scenes to have me smeared. Yeah, Andrew (Andrew Kolvet), you got caught.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:56](/episodes/ep-Wjul6YV6izo.md#t-00-55-29): “so many things I'm mad about that I'm now learning from the people that were wrongly fired at Turning Point USA. ... Andrew Kolvet again went rogue in that interview with Alex Clark. not true and try again another lie”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 
 </details>
 
@@ -4056,17 +4071,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#t-00-12-28): “Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.”
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:09](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “He's the spokesperson for Turning Point USA.”
-- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#t-00-10-01): “Is this Andrew Kolvet from Turning Point USA hiding under a hat?”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “Is this Andrew Kolvet from Turning Point USA hiding under a hat?”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#t-00-21-54): “Andrew Kolvet, the spokesperson for Turning Point USA”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:23:51](/episodes/ep-JQjCAsfoXEE.md#t-00-23-29): “answer it carefully, please, Andrew Kolvet, spokesperson for Turning Point USA,”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:05](/episodes/ep-his-JBjlkh8.md#t-00-02-58): “we probably anticipated that Andrew Kolvet, who is the TPUSA spokesperson,”
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:54](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “He's the spokesperson for Turning Point USA.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:08:07](/episodes/ep-ja26iltROkM.md#t-00-07-29): “the Turning Point USA spokesperson, Andrew Kolvet”
-- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “[00:00:48] ...Andrew Kolvet, the PR agent, close friend of Charlie Kirk...”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:04](/episodes/ep-UBkFkg4UNY8.md#t-00-26-28): “Anyways, you guys, I want to get to some of the responses and answers that were given by Andrew Kolvet, who is a PR agent for Turning Point USA.”
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:06](/episodes/ep-UBkFkg4UNY8.md#t-00-26-28): “Andrew Kolvet, who is a PR agent for Turning Point USA.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:25:07](/episodes/ep-9naMwS0kMBE.md#t-00-25-07): “that was told to me from andrew colbet okay that's not some random conspiracy theorist uh it's the spokesperson for turning point usa”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:50](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “the spokesperson of Turning Point USA,”
@@ -4080,6 +4093,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:29:55](/episodes/ep-a2bZf4fic10.md#t-00-29-31): “Andrew Kolvet, you're the spokesperson of Turning Point USA.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:04:35](/episodes/ep-AoYZel7_cGQ.md#t-00-04-28): “What about the ever wise and strategic spokesperson of Turning Point USA? Andrew Kolvet”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:00:43](/episodes/ep-aPOyk1i2LOc.md#t-02-00-43): “Yeah, well, I feel like I'm answering your questions and his questions about. I mean, I'm talking about Andrew Kolb at his position as he's a spokesperson for Turning Point USA.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:34:06](/episodes/ep-a-e7HC6SeK8.md#t-00-34-06): “How could the spokesperson at Turning Point USA be on the—how could they be gaining millions from that?”
 
 </details>
 
@@ -4120,9 +4134,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:05](/episodes/ep-K5GjF53bfN4.md#t-00-10-37): “He's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk show.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk)”
 
 </details>
 
@@ -4134,9 +4149,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hired this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:12:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11): “On the Turning Point USA side, Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into just one episode— ... He starts hiring a bunch of people, telling Charlie (Charlie Kirk) that we need to hire bigger and more professional money raisers, PR people like Andrew Kolvet—you name it.”
 
 </details>
 
@@ -4161,7 +4177,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - **[Patrick Bet-David](/entities/person-patrick-bet-david.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Patrick Bet-David: When's the last time you saw Candace Owens in person?”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:59](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Okay. When's the last time you saw Candace Owens ... in person?”
 
 </details>
 
@@ -4275,6 +4291,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:06](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “I spoke to Andrew on this actual day.”
+
+</details>
+
 - **[Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -4283,10 +4306,19 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** warned by this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me after, especially given the fact that I told you that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and Tucker (Tucker Carlson) were on it and that we had to lay low, but he never told me who told him that.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:14:23](/episodes/ep-7ERqbYElOfs.md#t-00-14-01): “tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:24:14](/episodes/ep-JQjCAsfoXEE.md#t-00-24-14): “Another point that I'd like to follow up with, Andrew Kolvet: let's stick with you. ... Specifically, you told me that me and Tucker (Tucker Carlson) were on a list and that you were just telling me as a friend that me and Tucker (Tucker Carlson) should lay low.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** warned by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me... while Charlie was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it”
-- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:14:23](/episodes/ep-7ERqbYElOfs.md#t-00-14-01): “tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:24:14](/episodes/ep-JQjCAsfoXEE.md#t-00-24-14): “Another point that I'd like to follow up with, Andrew Kolvet: let's stick with you. ... Specifically, you told me that me and Tucker (Tucker Carlson) were on a list and that you were just telling me as a friend that me and Tucker (Tucker Carlson) should lay low.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me after, especially given the fact that I told you that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and Tucker (Tucker Carlson) were on it and that we had to lay low, but he never told me who told him that.”
 
 </details>
 
@@ -4308,7 +4340,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (96)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (98)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4)</summary>
@@ -4339,7 +4371,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
 
 - [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) [✓] (Claim) ["Andrew Kolvet said the SD cards Farnsworth removed were in the FBI's possession ..."](/statements/statement-80bc48bd9f7b.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [FBI](/entities/org-fbi.md)
 
 </details>
 
@@ -4655,13 +4687,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
 
-- [00:06:29](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) ["Andrew Kolvet told Candace that he was one of the people who received a text mes..."](/statements/statement-dc76fa8f427b.md)
+- [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-08) [○] (Claim) ["Andrew Kolvet reportedly told Candace Owens that he received a message from Char..."](/statements/statement-dc76fa8f427b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:13:25](/episodes/ep-es7PWdFGoFI.md#t-00-12-42) [○] (Claim) ["Andrew Kolvet posted on Twitter that he spoke with the surgeon who said Charlie ..."](/statements/statement-29b7a35a5f09.md)
+- [00:12:48](/episodes/ep-es7PWdFGoFI.md#t-00-12-34) [✓] (Claim) ["Andrew Kolvet wrote on Twitter that he spoke with a surgeon who allegedly said C..."](/statements/statement-29b7a35a5f09.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) [○] (Claim) ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning Point to ..."](/statements/statement-6b48d40529ea.md)
+- [00:31:45](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) [○] (Claim) ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning Point to ..."](/statements/statement-6b48d40529ea.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -4676,13 +4708,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
 
-- [00:02:55](/episodes/ep-sImMM04XdWY.md#t-00-02-44) [○] (Claim) ["Andrew Kolvet said, and I quote, 'Candace, it was supposed to be you'"](/statements/statement-a61b9b15aa1b.md)
-
-- [00:02:55](/episodes/ep-sImMM04XdWY.md#t-00-02-44) [○] (Claim) ["Andrew Kolvet told Candace Owens 'it was supposed to be you' within 72 hours of ..."](/statements/statement-95a2e0a2f071.md)
-  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-- [00:02:58](/episodes/ep-sImMM04XdWY.md#t-00-02-44) [○] (Claim) ["Candace, it was supposed to be you"](/statements/statement-6511a25a0478.md)
+- [00:02:44](/episodes/ep-sImMM04XdWY.md#t-00-02-44) [○] (Claim) ["Andrew Kolvet told Candace Owens 'it was supposed to be you' within about 72 hou..."](/statements/statement-95a2e0a2f071.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:02:55](/episodes/ep-sImMM04XdWY.md#t-00-02-44) [○] (Claim) ["Andrew Kolvet told Candace Owens, 'Candace, it was supposed to be you'"](/statements/statement-a61b9b15aa1b.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29) [○] (Claim) ["Andrew Kolvet told Candace Owens on September 10 that a list included her and Tu..."](/statements/statement-d846b39a0b3a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>
 
@@ -4698,10 +4731,21 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
 
-- [00:40:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-41) [○] (Claim) ["Charlie Kirk told Andrew Kolvet, 'If anything ever happens to me, you call Erika..."](/statements/statement-155ea2baad4b.md)
-  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:22:18](/episodes/ep-K1tFD7FfoCU.md#t-00-21-54) [○] (Claim) ["Andrew Kolvet wrote that the report was the first Turning Point USA had heard of..."](/statements/statement-48a901e70967.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [The Jerusalem Post](/entities/org-jerusalem-post.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+
+- [00:40:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-41) [✓] (Claim) ["Andrew Kolvet said Charlie Kirk had drilled into Mikey McCoy what to do so that ..."](/statements/statement-16bb54d646cd.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-41) [✓] (Claim) ["Andrew Kolvet said Mikey McCoy was not on the phone immediately after the shooti..."](/statements/statement-9dbc5ecfbc78.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -4719,49 +4763,59 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [00:15:06](/episodes/ep-5autG89PW6w.md#t-00-15-02) [○] (Claim) ["It took 33 hours for authorities to get their suspect after Charlie Kirk's assas..."](/statements/statement-c004f407379d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-17-07) [✓] (Claim) ["Kolvet said Kirk’s position on Israel was complicated and nuanced, had been an o..."](/statements/statement-84a0458139cf.md)
+- [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-16-54) [✓] (Claim) ["Kolvet said Kirk’s position on Israel was complicated and nuanced, had been an o..."](/statements/statement-84a0458139cf.md)
   - About: [Israel](/entities/gpe-israel.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (10)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (11)</summary>
 
-- [00:32:40](/episodes/ep-UBkFkg4UNY8.md#t-00-32-37) [○] (Claim) ["Charlie Kirk was not becoming Catholic, but he really loved Catholic Mass and th..."](/statements/statement-d7149a360f91.md)
+- [00:32:37](/episodes/ep-UBkFkg4UNY8.md#t-00-32-37) [✓] (Claim) ["Andrew Kolvet said Charlie Kirk was not becoming Catholic but loved Catholic Mas..."](/statements/statement-d7149a360f91.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:32:41](/episodes/ep-UBkFkg4UNY8.md#t-00-32-37) [○] (Claim) ["Charlie Kirk was not becoming Catholic but loved the ritual and beauty of Cathol..."](/statements/statement-74a906081524.md)
+- [00:32:44](/episodes/ep-UBkFkg4UNY8.md#t-00-32-41) [○] (Claim) ["Andrew Kolvet said Charlie Kirk loved the ritual and beauty of old Catholic chur..."](/statements/statement-74a906081524.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:32:44](/episodes/ep-UBkFkg4UNY8.md#t-00-32-41) [○] (Claim) ["Was he becoming Catholic? No. But he really loved Catholic Mass. He loved the ri..."](/statements/statement-919546a532a3.md)
+- [00:32:50](/episodes/ep-UBkFkg4UNY8.md#t-00-32-41) [○] (Claim) ["Andrew Kolvet said Charlie Kirk and Erika Kirk sometimes attended Catholic Mass ..."](/statements/statement-919546a532a3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:33:03](/episodes/ep-UBkFkg4UNY8.md#t-00-32-41) [○] (Claim) ["Erika is a cradle Catholic, but she ended up kind of like me. ... ended up becom..."](/statements/statement-ceb40e4e9bf2.md)
+- [00:33:14](/episodes/ep-UBkFkg4UNY8.md#t-00-32-41) [○] (Opinion) ["Kolvet said he thought Erika Kirk followed a path similar to his from a Catholic..."](/statements/statement-ceb40e4e9bf2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:36:27](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [○] (Claim) ["Charlie would not accept foreign money."](/statements/statement-227f2c1344f7.md)
+- [00:36:03](/episodes/ep-UBkFkg4UNY8.md#t-00-36-03) [○] (Claim) ["Andrew Kolvet said that, as far as he knew, Charlie Kirk had not been offered 15..."](/statements/statement-7e9c7ba1ce4c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
-- [00:36:39](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [◐] (Claim) ["Turning Point USA refused PPP loans during the pandemic"](/statements/statement-475a1a4f28f5.md)
+- [00:36:24](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [○] (Claim) ["Andrew Kolvet said Charlie Kirk would not accept foreign money"](/statements/statement-227f2c1344f7.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:36:44](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [○] (Claim) ["Charlie Kirk would not accept foreign money - Turning Point USA only took Americ..."](/statements/statement-29f12e04f1b9.md)
+- [00:36:27](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [✓] (Claim) ["Andrew Kolvet said Turning Point USA accepted only American money and had cancel..."](/statements/statement-29f12e04f1b9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:36:45](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [○] (Claim) ["During the pandemic, he refused to do mass layoffs like everybody else in the co..."](/statements/statement-adc8512c7e33.md)
+- [00:36:39](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [○] (Claim) ["Andrew Kolvet said Charlie Kirk refused to carry out mass layoffs during the pan..."](/statements/statement-adc8512c7e33.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md)
+
+- [00:36:41](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) [◐] (Claim) ["Andrew Kolvet said Charlie Kirk declined a PPP loan during the pandemic even tho..."](/statements/statement-475a1a4f28f5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Paycheck Protection Program](/entities/concept-paycheck-protection-program.md)
 
 - [00:41:10](/episodes/ep-UBkFkg4UNY8.md#t-00-41-04) [✓] (Claim) ["Andrew Kolvet said the team removed camera SD cards because the footage would be..."](/statements/statement-23efcce4a5d6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:43:37](/episodes/ep-UBkFkg4UNY8.md#t-00-43-33) [○] (Accusation) ["he basically said, I don't appreciate being morally blackmailed."](/statements/statement-97ec320551bf.md)
+- [00:43:33](/episodes/ep-UBkFkg4UNY8.md#t-00-43-33) [○] (Claim) ["Andrew Kolvet said Charlie Kirk had told people he did not appreciate being mora..."](/statements/statement-97ec320551bf.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (5)</summary>
 
-- [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) [○] (Claim) ["The bullet absolutely should have gone through Charlie Kirk's head, but it didn'..."](/statements/statement-8e1b689b9db3.md)
+- [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) [✓] (Claim) ["The bullet absolutely should have gone through Charlie Kirk's head, but it didn'..."](/statements/statement-8e1b689b9db3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) [○] (Claim) ["The bullet should have gone through Charlie Kirks body but his bone density stop..."](/statements/statement-7d1ab000b338.md)
+- [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) [✓] (Claim) ["The bullet should have gone through Charlie Kirks body but his bone density stop..."](/statements/statement-7d1ab000b338.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) [○] (Claim) ["A surgeon who worked on Charlie Kirk said the bullet 'absolutely should have gon..."](/statements/statement-2b91a4c57270.md)
+- [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) [✓] (Claim) ["A surgeon who worked on Charlie Kirk said the bullet 'absolutely should have gon..."](/statements/statement-2b91a4c57270.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:08:45](/episodes/ep-ja26iltROkM.md#t-00-08-07) [✓] (Claim) ["I just spoke with the surgeon who worked on Charlie Kirk in the hospital"](/statements/statement-d04a71337afd.md)
@@ -4772,12 +4826,9 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
 
-- [00:26:38](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59) [○] (Claim) ["When's the last time Candace Owens was at a Turning Point event? Not in many yea..."](/statements/statement-07a52df894d0.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:26:40](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59) [○] (Claim) ["She hasn't been at Turning Point events in many years"](/statements/statement-354244cc8be4.md)
+- [00:26:40](/episodes/ep-aDlhjfW6hz8.md#t-00-26-40) [✗] (Claim) ["Candace Owens had not been at a Turning Point event in many years"](/statements/statement-354244cc8be4.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -4785,7 +4836,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (209)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (199)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7)</summary>
@@ -5489,7 +5540,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [00:07:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) (Citation) **Candace Owens**: ["The donor's text message was real, and Andrew Kolvet and Erika Kirk co..."](/statements/statement-5bc36f47fa27.md)
   - Also about: [Anonymous Source #3 (Ep gG4ZoYUjUc8)](/entities/anon-src-gG4ZoYUjUc8-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:22:34](/episodes/ep-gG4ZoYUjUc8.md#t-00-22-14) (Accusation) **Candace Owens** (via paraphrase): ["Andrew Kolvet questioned a TPUSA employee over an Uber driver's second..."](/statements/statement-10f521c04fa3.md)
+- [00:22:34](/episodes/ep-gG4ZoYUjUc8.md#t-00-22-34) (Accusation) **Candace Owens** (via paraphrase): ["Andrew Kolvet questioned a TPUSA employee over an Uber driver's second..."](/statements/statement-10f521c04fa3.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -5612,57 +5663,26 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [00:02:30](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Claim) **Andrew Kolvet** (via paraphrase): ["Owens said Andrew Kolvet told her that Ben Shapiro was willing to spen..."](/statements/statement-fe94e2d72ea2.md)
   - Also about: [America Fest](/entities/event-america-fest.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05) (Claim) **Candace Owens**: ["The surgeon said the frangible bullet suggestion was made on a three-w..."](/statements/statement-997a2b519d2a.md)
+- [00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05) (Claim) **Anonymous surgeon source (Ep w1oqQbR_bYs; identity unverified)** (via paraphrase): ["Owens said a third party relayed the unnamed surgeon's claim that his ..."](/statements/statement-997a2b519d2a.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (12)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
-- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk did not give any person the authority to say that the Catho..."](/statements/statement-6504abed6bbe.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Alex Clark](/entities/person-alex-clark.md)
+- [00:14:10](/episodes/ep-es7PWdFGoFI.md#t-00-13-53) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk and Justin Streiff confirmed that Andrew..."](/statements/statement-9d76e2356eb6.md)
 
-- [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Andrew Kolvet told me specifically that he was one of the people that ..."](/statements/statement-7847a11548fc.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:06:55](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Charlie Kirk sent text messages the night before his death saying they..."](/statements/statement-6ed250414edc.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
-
-- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
-
-- [00:07:02](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Andrew Kolvet received a message the night before Charlie Kirk was sho..."](/statements/statement-812a8acabfee.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk**: ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk'..."](/statements/statement-e1f8bf06b0d4.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens** (via paraphrase): ["Andrew Kolvet spoke to the surgeon without Turning Point USA knowing h..."](/statements/statement-9d76e2356eb6.md)
-
-- [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md)
-
-- [00:14:24](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens**: ["Andrew Kolvet spoke to the surgeon without TPUSA knowing he would writ..."](/statements/statement-d884b8c97ce6.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:31:31](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told Candace verbatim that Bibi Netanyahu offered to tak..."](/statements/statement-7ebbb6970725.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told me verbatim that Bibi Netanyahu offered to take Tur..."](/statements/statement-305839cf919f.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning..."](/statements/statement-6b48d40529ea.md)
+- [00:31:45](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning..."](/statements/statement-6b48d40529ea.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
 
-- [00:02:55](/episodes/ep-sImMM04XdWY.md#t-00-02-44) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace Owens 'it was supposed to be you' within 72..."](/statements/statement-95a2e0a2f071.md)
-
-- [00:04:11](/episodes/ep-sImMM04XdWY.md#t-00-03-29) (Claim) **Candace Owens**: ["On September 10th, Andrew Kolvet told Candace there was a list and tha..."](/statements/statement-8e92fe154014.md)
+- [00:33:24](/episodes/ep-a-e7HC6SeK8.md#t-00-33-24) (Claim) **Anonymous Source #5 (Ep a-e7HC6SeK8)** (via read message): ["An anonymous family friend of Andrew Kolvet alleged that Kolvet had sa..."](/statements/statement-f936dc36fa19.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
 
@@ -5678,20 +5698,23 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2)</summary>
 
-- [00:22:18](/episodes/ep-K1tFD7FfoCU.md#t-00-21-54) (Claim) **Candace Owens**: ["The Jerusalem Post reported Charlie Kirk would be posthumously honored..."](/statements/statement-ea44748b3547.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:08:38](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens said she separately had a long discussion with Andrew Ko..."](/statements/statement-f85ea2194ee5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+- [00:21:15](/episodes/ep-K1tFD7FfoCU.md#t-00-21-15) (Claim) **Michael Starr** (via quoted article): ["Michael Starr reported that Charlie Kirk would be posthumously honored..."](/statements/statement-ea44748b3547.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
 
-- [00:23:58](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Andrew Kolvet's brother, Captain Kurt Kolvet, is in the military. His ..."](/statements/statement-21d55ee01d7c.md)
-  - Also about: [Kurt Kolvet](/entities/person-kurt-kolvet.md)
+- [00:23:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Andrew Kolvet's brother, Captain Kurt Kolvet, is in the military. His ..."](/statements/statement-21d55ee01d7c.md)
+  - Also about: [Kurt Kolvet](/entities/person-kurt-kolvet.md), [Robert Kolvet](/entities/person-robert-kolvet.md)
 
-- [00:40:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-41) (Claim) **Andrew Kolvet** (via quoted speech): ["Charlie Kirk told Andrew Kolvet, 'If anything ever happens to me, you ..."](/statements/statement-155ea2baad4b.md)
+- [00:40:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-41) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk told Andrew Kolvet, 'If anything ever happens to me, you ..."](/statements/statement-155ea2baad4b.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -5705,6 +5728,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:09:53](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53) (Claim) **Candace Owens**: ["Owens said the man shown pushing the eyewitness was not Andrew Kolvet ..."](/statements/statement-22e427da7979.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3)</summary>
 
 - [00:14:31](/episodes/ep-5autG89PW6w.md#t-00-14-17) (Claim) **Andrew Kolvet** (via quoted speech): ["Kolvet said the screenshot of Kirk’s group text released by Owens was ..."](/statements/statement-7d45ee3d3772.md)
@@ -5712,8 +5743,16 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:15:02](/episodes/ep-5autG89PW6w.md#t-00-14-17) (Claim) **Andrew Kolvet** (via quoted speech): ["Kolvet said he shared the screenshot with some people in government du..."](/statements/statement-53aff4236354.md)
 
-- [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-17-07) (Claim) **Andrew Kolvet** (via quoted speech): ["Kolvet said Kirk’s position on Israel was complicated and nuanced, had..."](/statements/statement-84a0458139cf.md)
+- [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-16-54) (Claim) **Andrew Kolvet** (via quoted speech): ["Kolvet said Kirk’s position on Israel was complicated and nuanced, had..."](/statements/statement-84a0458139cf.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) (Claim) **Candace Owens**: ["Andrew Kolvet was Turning Point USA's PR agent and a close friend of C..."](/statements/statement-962c016ca497.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -5725,21 +5764,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:11:09](/episodes/ep-ja26iltROkM.md#t-00-10-50) (Opinion) **Candace Owens**: ["Andrew Kolvet's statement about the miracle feels like manipulation of..."](/statements/statement-c04506b81715.md)
 
-- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) (Claim) **Alex Jones** (via quoted speech): ["A .30-06 bullet traveling at 1,900 feet per second would create a tiny..."](/statements/statement-8b12eca4362f.md)
+- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) (Claim) **Alex Jones** (via quoted speech): ["Alex Jones stated that a .30-06 bullet at approximately 1,900 feet per..."](/statements/statement-c47b113fbac1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
 
-- [00:36:05](/episodes/ep-aDlhjfW6hz8.md#t-00-36-02) (Claim) **Candace Owens**: ["Candace spoke at Turning Point conferences last year, contradicting An..."](/statements/statement-b86c81367a56.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:51:15](/episodes/ep-aDlhjfW6hz8.md#t-00-50-39) (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not in the Hamptons despite PBD saying he..."](/statements/statement-e63e7f9ac5f6.md)
-  - Also about: [Patrick Bet-David](/entities/person-patrick-bet-david.md)
-
-- [00:52:15](/episodes/ep-aDlhjfW6hz8.md#t-00-52-10) (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not there in the Hamptons"](/statements/statement-a4c7a3f6c50a.md)
+- [00:52:15](/episodes/ep-aDlhjfW6hz8.md#t-00-52-11) (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not there in the Hamptons"](/statements/statement-a4c7a3f6c50a.md)
 
 </details>
 

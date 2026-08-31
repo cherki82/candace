@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:17:18](/episodes/ep--9MOUvgGyi4.md#t-01-16-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4638);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=4638s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So, you know, Victor (Victor Marx)'s response is, well, ... of course, don't do that. You know, the lawyers will always find a loophole. ... Okay. And the next message is, well, I can just have you disappeared. I can have you knocked off. ... I can have you knocked off. ... disappeared to a banana plantation in South America.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:03:55](/episodes/ep-DqGNvi36ol8.md#t-00-03-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(235);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=235s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, I believe in my heart and in my rational mind as well that Charlie Kirk's assassination was about as organic as John McCain, he rest in peace, leading the people of Ukraine.
 

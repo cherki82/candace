@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:19:04](/episodes/ep-MhakwJxK-Zk.md#t-00-18-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1144);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1144s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Was also, as we just told you, instrumental in setting up that Gaza Humanitarian Foundation. That's ringing a bell for you. ... The consulting firm helped to develop the logistics, the organizational structure, and they also set the pricing for paying and equipping private security contractors to operate the food distribution hubs in Gaza.
 

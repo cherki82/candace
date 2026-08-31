@@ -1,16 +1,16 @@
 ---
-title: "Charlie Kirk, an anti-Semite. He was not an anti-Semite. He ..."
-description: "\"Charlie Kirk, an anti-Semite. He was not an anti-Semite. He was the opposite\" — Tucker Carlson"
+title: "Tucker Carlson said Charlie Kirk was not antisemitic and was..."
+description: "\"Tucker Carlson said Charlie Kirk was not antisemitic and was the opposite.\" — Tucker Carlson"
 statement_id: "statement-bc97728eac66"
 speaker: "Tucker Carlson"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Charlie Kirk, an anti-Semite. He was not an anti-Semite. He was the opposite
+> Tucker Carlson said Charlie Kirk was not antisemitic and was the opposite.
 
 ## Attribution
 
@@ -23,8 +23,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:46:14](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2774);return false;">Play</a>
+**Timestamp:** [00:46:14](/episodes/ep-2WEHTk0Xewg.md#t-00-46-08) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2774s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was not an anti-Semite
 
@@ -34,4 +34,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

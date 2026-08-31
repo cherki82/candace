@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:17:23](/episodes/ep-YFmRH8p5lt0.md#t-00-16-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1043);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=1043s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then we go back into our timeline. You can see on April 1st, we have that plane—we're gonna call it the yellow plane for the sake of this timeline. The yellow plane flies from Cairo—always via Paris—to St. Louis again, and it lands in Missouri.
 

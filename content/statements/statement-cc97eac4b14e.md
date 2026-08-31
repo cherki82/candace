@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:25:36](/episodes/ep-r1PS67aRmcA.md#t-00-25-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1536);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=1536s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We learned that a covert mission was happening where they were sending an intern to ask me a question, okay, to get my answer on the question
 

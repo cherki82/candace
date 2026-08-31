@@ -6,6 +6,11 @@ date: "2012-05-30"
 ---
 
 **Date:** 2012-05-30
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “May 30th, 2012”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2012-05-30"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:27:38](/episodes/ep-y8lak3CRwDw.md#event-event-2012-05-30-erika-frantzve-was-scheduled-to-compete--t-00-27-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1658);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika, because she qualifies, is going to compete in the Miss USA pageant on May 30th.

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:57:46](/episodes/ep-his-JBjlkh8.md#t-00-57-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3466);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=3466s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And if we actually studied where it all came from—which is incredibly evil indoctrination—quite literally doctrines of evil—which is guiding that movement— it's guiding that theology rather
 

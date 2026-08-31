@@ -6,6 +6,11 @@ date: "2026"
 ---
 
 **Date:** 2026
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “Q1 of this year”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:46:37](/episodes/ep-a2bZf4fic10.md#event-event-2026-candace-owens-said-she-accepted-by-q1-20-t-00-46-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2797);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=2797s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had to swallow that, and that took me until Q1 of this year.

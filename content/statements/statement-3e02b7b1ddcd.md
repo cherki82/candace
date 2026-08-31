@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:28:30](/episodes/ep-zSKrxIUMNqw.md#t-00-28-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1710);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was later proved that the bruises could not have been from Corey Lewandowski,
 

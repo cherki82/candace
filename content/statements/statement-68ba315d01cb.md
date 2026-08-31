@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:28:15](/episodes/ep-DdPjoy5W-wY.md#t-00-28-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1695);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we went back and we decided to search through the archived catalog. And sure enough, so far as we can tell, it's not. ... But back when Erika (Erika Kirk) graduated, this was not an option. We searched international relations. It is a topic they say you will cover if you choose to major in political science.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:18:39](/episodes/ep-KpxIBWkNsSs.md#t-00-18-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1119);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=1119s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, ASU did not even offer the international relations degree at all in 2012.
 

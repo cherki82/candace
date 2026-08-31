@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:19:50](/episodes/ep-ds6umq1rHAw.md#t-00-19-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1190);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1190s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And after he died on Robert Graff's plane, the fight for his $2.5 billion estate began. People just coming in saying, oh, no, I should inherit it. There was a mysterious handwritten note which was filed by the Church of Latter-day Saints, which they claimed was his last will and testament. ... That claim was summarily rejected by the courts. It was a 34-year legal battle. Until eventually it was decided that the majority of his fortune, around $1.5 billion, would be controlled by the Howard Hughes Medical Institute, the charity that I told you he started and that he had transferred the Hughes aircraft into.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:17:44](/episodes/ep-Wjul6YV6izo.md#t-00-17-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1064);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=1064s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believed it was an assistant. I can't remember what it is she does. She said. Would you like to join Erika?
 

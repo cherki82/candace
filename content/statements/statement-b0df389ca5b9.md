@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:19:59](/episodes/ep-IqHsl7d2dos.md#t-00-19-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1199);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1199s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was actually the founder. ... alongside his brother Arnaud Brunel, of a modeling agency in New York City, one called Next Model Management. ... Jean-Luc Brunel and his brother founded the Next Model Corporation. And from that spun the next model management modeling agency.
 

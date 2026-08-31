@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:20:46](/episodes/ep-H9p2ZGHAs9A.md#t-00-20-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1246);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1246s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > involving misdiagnosis and institutional pressure before being adopted internationally. This center in particular, notorious for corruption and illicit activities such as trafficking children, which is why I was shocked that out of all of the placement centers in Romania, this was the center that she chose to partner with.
 

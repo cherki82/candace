@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:39:18](/episodes/ep-K5GjF53bfN4.md#t-00-38-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2358);return false;">Play</a>
+**Timestamp:** [00:39:18](/episodes/ep-K5GjF53bfN4.md#t-00-39-18) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=2358s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, Operation Mockingpastor is a real thing.
 

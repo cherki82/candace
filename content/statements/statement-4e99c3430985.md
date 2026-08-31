@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:11:24](/episodes/ep-SKGUzGHymcI.md#t-00-11-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(684);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=684s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In the Secret Service case, the agency's own 2025 field office list still shows Wilmington, Delaware
 

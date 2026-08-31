@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:11:04](/episodes/ep-mKXdKV-OBog.md#t-00-10-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(664);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=664s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, it only stayed in Wilmington for one night. It stayed in Nebraska for the longest stretch yet, departing from Lincoln, Nebraska, in particular.
 
@@ -39,7 +39,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:11:11](/episodes/ep-mKXdKV-OBog.md#t-00-10-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(671);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=671s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, it only stayed in Wilmington for one night. It stayed in Nebraska for the longest stretch yet, departing from Lincoln, Nebraska, in particular.
 

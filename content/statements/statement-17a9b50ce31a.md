@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:51:29](/episodes/ep-cZxHqYsWRYg.md#t-00-51-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3089);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=3089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Why do you care so much that she suddenly apparently had a clear enough mind to decide that she wanted to take the board to a vote to make her the CEO while her children are not at home? Why do you care so much?
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(801);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.
 

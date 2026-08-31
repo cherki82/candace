@@ -3,9 +3,18 @@ title: "Salt Lake County Sheriff's Office"
 description: "Salt Lake County Sheriff's Office (Organizations) - 1 mention"
 id: "org-salt-lake-county-sheriff-s-office"
 type: "ORG"
+categories:
+  - "county law enforcement"
+  - "Utah government"
 ---
 
 _Type: Organizations_
+
+**Categories:** county law enforcement, Utah government
+
+**Entity verification:** verified
+> Salt Lake County official sheriff page confirms the canonical office name and its law-enforcement and public-safety functions.
+Source: [Sheriff | Salt Lake County](https://www.saltlakecounty.gov/sheriff/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-salt-lake-county-sheriff-s-office-t-00-22-32">2025-09-30 · 00:22:36</a></strong></div>

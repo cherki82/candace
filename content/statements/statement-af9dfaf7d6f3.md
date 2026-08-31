@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:29:56](/episodes/ep-ti5Fxrvegno.md#t-00-29-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1796);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1796s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When I met Charlie (Charlie Kirk), the only reason I sat down with him because I thought it was a consulting position for work, I was not thinking, I did not date in Manhattan. I saw the pits of hell of the dating pool through my roommates.
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:25:12](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1512);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To open a trade office in Romania. This was announced at Business Check Office Headline. I promise you, Arizona to be the first U.S. state to open a trade office in Romania.
 

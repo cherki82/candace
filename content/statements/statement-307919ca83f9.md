@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:37:07](/episodes/ep-tB5SXXmd9vU.md#t-00-36-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2227);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=2227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We know Brigitte was in America in the 60s, at least for the moon landing, no details provided about what Brigitte was doing when he experienced the moon landing with Americans
 

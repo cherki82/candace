@@ -1,17 +1,17 @@
 ---
-title: "look forward to some lawsuit being drummed up because I have..."
-description: "\"look forward to some lawsuit being drummed up because I have the audacity to tell the truth about what happened to my friend\" — Candace Owens"
+title: "Owens predicted that a lawsuit would be \"drummed up\" because..."
+description: "\"Owens predicted that a lawsuit would be \"drummed up\" because she had the audacity to tell the truth about what happened to Charlie Kirk.\" — Candace Owens"
 statement_id: "statement-15d267c00514"
 speaker: "Candace Owens"
 type: "prediction"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> look forward to some lawsuit being drummed up because I have the audacity to tell the truth about what happened to my friend
+> Owens predicted that a lawsuit would be "drummed up" because she had the audacity to tell the truth about what happened to Charlie Kirk.
 
 ## Attribution
 
@@ -20,11 +20,16 @@ veracity: "mixed"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:51:21](/episodes/ep-a-e7HC6SeK8.md#t-00-50-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3081);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=3081s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So look forward to some lawsuit being drummed up because I have the audacity to tell the truth about what happened to my friend.
 

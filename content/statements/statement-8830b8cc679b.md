@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:28:34](/episodes/ep-y8lak3CRwDw.md#t-00-28-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1714);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1714s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In July, we find Erika featured in a music video for Emerson Drive that went pretty viral. That's She's My Kind of Crazy. ... We had mentioned to you yesterday that her boyfriend, Tyler Sandford, is alongside with her. He's also cast in that music video.
 

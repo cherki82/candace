@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:23:33](/episodes/ep-EtLHqDbxqks.md#t-00-23-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1413);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1413s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If at nearly 10 p.m. he's leaving Panguitch, he couldn't have been babysitting the campus. This is the problem. The messages are problematic and that's why they're not time stamped.
 

@@ -6,6 +6,11 @@ date: "1968"
 ---
 
 **Date:** 1968
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1968”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1968"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:14:41](/episodes/ep-NIEbqsLAK8g.md#event-event-1968-bobby-harpole-began-his-law-enforcement--t-00-14-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(881);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=881s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I started my law enforcement career in 1968 with the Texas Department of Public Safety,

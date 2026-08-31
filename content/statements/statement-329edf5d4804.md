@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:56:14](/episodes/ep-Wjul6YV6izo.md#t-00-56-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3374);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=3374s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > not true and try again another lie that she told me because the reality is is he was texting her throughout that interview you know it's like badly cut and he was in communication with her during that interview according to the person that worked in Andrew Kolvet's office that no longer does so I got to go back and just now track how many lies I was told because I'm now I'm getting the information from the people that were on the inside inside
 

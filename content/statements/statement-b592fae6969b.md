@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2234);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=2234s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That night, and I stayed basically in the same place everyone else stayed. We were all, to my knowledge, at basically the same hotel, and it was, I think, in Salt Lake. I— ... I don't—I don't remember.
 

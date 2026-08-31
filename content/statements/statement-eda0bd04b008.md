@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:49:43](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2983);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2983s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Committee petitions. He resigned at that time, so this was happening while he was at turning point action, the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics.
 

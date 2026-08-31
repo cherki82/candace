@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:19:54](/episodes/ep-Vu6Y24pqhZs.md#t-00-19-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1194);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1194s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson wrote, when I checked the area about three hours ago, there was an officer with a canine walking nearby the area. ... I'm hoping that pooch has a bad sniffer.
 

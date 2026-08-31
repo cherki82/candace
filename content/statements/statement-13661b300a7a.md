@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:12:03](/episodes/ep-IqHsl7d2dos.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(723);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=723s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Particularly, the U.S. Army's 19 Special Forces Airborne routinely deploy, of all places, to Romania to conduct unconventional warfare. They train with Romanian special operations force, working alongside NATO allies.
 

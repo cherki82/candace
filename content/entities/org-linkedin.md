@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 23 mentions"
+description: "LinkedIn (Organizations) - 26 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -17,10 +17,10 @@ _Type: Organizations_
 Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42">2025-10-01 · 00:08:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-06-55">2025-09-30 · 00:07:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04">2026-08-03 · 00:20:04</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -31,6 +31,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-06-55" style="--pulse-height:60%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-06-46" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
@@ -51,6 +52,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-06-55) | 3 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-06-46) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20) | 1 |
@@ -73,7 +75,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -216,6 +218,20 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 **[00:08:05](/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42)**
 > "...and just outright deleted his LinkedIn page because I asked him a question before we eve..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (3 mentions)</summary>
+
+**[00:07:00](/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-06-55)**
+> "...use it was also posted on his LinkedIn as a connection that Phil Lyman was his uncle."
+
+**[00:07:29](/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-06-55)**
+> "...: Shaner completely wiped his LinkedIn page."
+
+**[00:11:29](/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-11-29)**
+> "...oved to Utah—according to his LinkedIn, which I hope doesn't get wiped."
 
 </details>
 

@@ -23,8 +23,8 @@ type: "factual_claim"
 ### 1. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:13:48](/episodes/ep-9k2xrAC0H88.md#t-00-13-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(828);return false;">Play</a>
+**Timestamp:** [00:13:48](/episodes/ep-9k2xrAC0H88.md#t-00-13-35) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=828s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A bomb dog, they can smell it up to a week, right? Maybe even more because they're specifically training on it
 
@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:13:52](/episodes/ep-h76ZN-xXC6c.md#t-00-13-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(832);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=832s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They are so effective that they can still smell trace amounts of exposure. of explosives, of a fired weapon, a bomb residue for up to 10 days.
 

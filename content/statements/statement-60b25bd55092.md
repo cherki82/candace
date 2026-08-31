@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [01:01:23](/episodes/ep-his-JBjlkh8.md#t-01-01-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3683);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=3683s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look, I came from Turning Point USA, so you guys know that me doing this—there's an element of heartache.
 

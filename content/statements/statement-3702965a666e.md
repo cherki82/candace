@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:00:49](/episodes/ep-i8m_6D4QGmk.md#t-00-00-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(49);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=49s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm going to explain to you guys what I mean by that. Beyond that, it is completely obvious to anyone who is paying attention that Erika's (Erika Kirk's) desire was to become the president one day. So let's talk about all of it. Welcome back to Candace.
 

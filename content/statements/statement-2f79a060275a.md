@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:29:04](/episodes/ep-EtLHqDbxqks.md#t-00-29-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1744);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1744s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, not really. Usually if he did talk about politics stuff, it was relating to Trump (Donald Trump) or current policies being issued or voted on, I think.
 

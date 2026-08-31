@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:18:13](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1093);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1093s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they're almost directly across the street. ... street from the number one human human and child sex trafficking location in arizona a place called arizona mills
 

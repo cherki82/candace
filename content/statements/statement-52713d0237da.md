@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:31:29](/episodes/ep-iB-YtO3UZOg.md#t-00-31-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1889);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1889s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Briefly, number one, given the eruption of blood and/or tissue emanating from Charlie's neck, it is clear that the large vessels of the neck, the left carotid artery and the jugular vein, were transected. ... Transected. This kind of extrusion is more consistent with an exit wound. However, because large blood vessels were involved, we cannot rule out the possibility that a bullet entering his left neck would have resulted in what we saw.
 

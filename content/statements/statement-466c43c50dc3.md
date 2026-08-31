@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2283);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2283s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice. ... And you can see in the corner there is no photo.
 

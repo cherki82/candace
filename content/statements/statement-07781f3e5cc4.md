@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:03:14](/episodes/ep-1mYNOqzAdXs.md#t-00-03-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(194);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=194s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, while Kirk may have received hostile messages, including on social media, those were not part of any identified or actionable threat stream that was monitored by federal authorities.
 

@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [01:00:51](/episodes/ep-czVBmqZP6Ss.md#t-01-00-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3651);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=3651s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At that university, when Charlie was shot, someone stood up and cheered.
 
@@ -37,7 +37,7 @@ veracity: "false"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [01:00:47](/episodes/ep-czVBmqZP6Ss.md#t-01-00-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3647);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=3647s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At that university, when Charlie was shot, someone stood up and cheered
 

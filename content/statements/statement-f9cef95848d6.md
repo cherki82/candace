@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:21:42](/episodes/ep-eLgD5yUVbko.md#t-00-20-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1302);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they said, Candace, I can prove it. I said, okay. And sure enough, they sent me an internal video of their CEO at first just discussing the fact that they were working with Erika regarding me.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [01:01:06](/episodes/ep-1IY2oD-_xVA.md#t-01-01-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3666);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=3666s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that came from Erika (Erika Kirk) superman neck came from Erika (Erika Kirk) and they're telling you you have no right to ask questions like what she was running a pr campaign to help the masses believe that Charlie (Charlie Kirk) had like a superman neck on the day that that that he was slated to be buried i guess he wasn't buried i guess he wasn't buried i don't know whether or not he was ever buried but That's wild.
 

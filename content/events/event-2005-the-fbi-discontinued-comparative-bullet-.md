@@ -6,6 +6,11 @@ date: "2005"
 ---
 
 **Date:** 2005
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “In 2005”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2005"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:42:58](/episodes/ep-UYkXV9mYbT4.md#event-event-2005-the-fbi-discontinued-comparative-bullet--t-00-42-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2578);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=2578s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But in 2005, the FBI pulled the plug on this practice.
 
@@ -25,6 +30,6 @@ date: "2005"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:33:08](/episodes/ep-rupRLXmSndU.md#event-event-2005-the-fbi-discontinued-comparative-bullet--t-00-32-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1988);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1988s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > federal rules of evidence. A year later, the Bureau abandoned the analysis.

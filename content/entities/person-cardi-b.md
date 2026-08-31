@@ -95,10 +95,10 @@ Source: [Get To Know GRAMMY-Winning Rapper Cardi B](https://www.grammy.com/news/
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
 
-**[00:00:52](/episodes/ep-es7PWdFGoFI.md#ent-person-cardi-b-t-00-02-04)**
+**[00:00:49](/episodes/ep-es7PWdFGoFI.md#ent-person-cardi-b-t-00-02-04)**
 > "she's like always just listening to Cardi B music"
 
-**[00:02:44](/episodes/ep-es7PWdFGoFI.md#ent-person-cardi-b-t-00-02-04)**
+**[00:02:42](/episodes/ep-es7PWdFGoFI.md#ent-person-cardi-b-t-00-02-04)**
 > "...like always just listening to Cardi B"
 
 </details>

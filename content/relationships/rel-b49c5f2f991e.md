@@ -11,7 +11,7 @@ object: "person-jeremy-boreing"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) has former CEO [Jeremy Boreing](/entities/person-jeremy-boreing)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -24,6 +24,10 @@ object: "person-jeremy-boreing"
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
 - [00:18:22](/episodes/ep-eLgD5yUVbko#t-00-18-22): _coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,_
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:12:09](/episodes/ep-w1oqQbR_bYs#t-00-12-09): _here is a video of the then CEO Jeremy Boreing_
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

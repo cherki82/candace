@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:03:09](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(189);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=189s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, we get it. 33, 33, 33. Look, it is, in my educated opinion, the most obvious signaling ever. Alerting those that are in the cult that this was a hit that was done by the cult and for the cult.
 

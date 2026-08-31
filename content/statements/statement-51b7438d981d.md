@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:01:49](/episodes/ep-Qt0VHV-POCg.md#t-00-01-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And thankfully, Charlie's parents said, "Absolutely not." "You're not drugging our son." "He is actually, in fact, gifted." And they instead opted to send him to a school for the gifted
 

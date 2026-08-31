@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:13:39](/episodes/ep-i8m_6D4QGmk.md#t-00-13-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(819);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=819s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Freemasons worship Solomon as the master architect. They believe that he gave them the keys to build and therefore control societies.
 

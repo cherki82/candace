@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(796);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=796s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She knows what it takes to set a goal and fearlessly pursue it. Erika (Erika Kirk) graduated magna cum laude. We have not been able to confirm that. That seems to be made up, but so is the rest of this bio appear to be made up. So we'll just keep going.
 
@@ -37,7 +37,7 @@ type: "accusation"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:18:22](/episodes/ep-KpxIBWkNsSs.md#t-00-18-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1102);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=1102s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turns out she didn't graduate magna cum laude and she also didn't graduate summa cum laude. She didn't graduate with any honors and she did not graduate with a double degree. That was all just made up for funsies.
 

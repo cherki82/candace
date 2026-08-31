@@ -23,11 +23,11 @@ Source: [About CNN](https://www.cnn.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16">2025-10-27 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31">2026-08-14 · 02:38:34</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
 <div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,13 +37,14 @@ Source: [About CNN](https://www.cnn.com/about)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-cnn-t-00-27-09" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-30" style="--pulse-height:29%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-30" style="--pulse-height:43%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-38" style="--pulse-height:29%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-38" style="--pulse-height:43%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44" style="--pulse-height:71%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-cnn-t-00-06-06" style="--pulse-height:43%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38" style="--pulse-height:57%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-59" style="--pulse-height:57%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-cnn-t-00-36-25" style="--pulse-height:14%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-04" style="--pulse-height:14%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-cnn-t-00-44-35" style="--pulse-height:14%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-cnn-t-00-22-01" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23" style="--pulse-height:57%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
@@ -68,13 +69,14 @@ Source: [About CNN](https://www.cnn.com/about)
 |---|---|---:|
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-cnn-t-00-27-09) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-30) | 2 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-30) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-38) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-38) | 3 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44) | 5 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-cnn-t-00-06-06) | 3 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-59) | 4 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-cnn-t-00-36-25) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22) | 2 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-04) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cnn-t-00-44-35) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-cnn-t-00-22-01) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23) | 4 |
@@ -283,12 +285,17 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
 
-**[00:04:50](/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22)**
-> "he is on CNN News Japan speaking"
+**[00:45:09](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cnn-t-00-44-35)**
+> "She did do a CNN interview a couple of weeks."
 
-**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22)**
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-04)**
 > "..., he's in Japan, and he is on CNN News Japan speaking."
 
 </details>
@@ -304,16 +311,16 @@ Source: [About CNN](https://www.cnn.com/about)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4 mentions)</summary>
 
-**[00:12:12](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38)**
+**[00:12:07](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-59)**
 > "...eone on the roof a week earlier. And I think we should try to track down these students. Of course, CNN, which ran this article—which I can show you here—didn't include their names, but here is the artic..."
 
-**[00:12:37](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-12-18)**
+**[00:12:37](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-12-37)**
 > "...that he last saw the person on the roof last Wednesday at noon, a week before the shooting. He told CNN that he reported his observations to the FBI tip line after the shooting, but he has not heard back..."
 
 **[00:17:02](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-17-02)**
-> "...same guy those two times. Okay, so we were able to figure out who the student was. I don't know why CNN declined to publish his name, but I was going to figure out who the student was, and I'm going to c..."
+> "Okay, so we were able to figure out who the student was. I don't know why CNN declined to publish his name, but I was going to figure out who the student was, and I'm going to chase down this lead, and I want to open up that possibility because it is a possibility that the stairwell photo and the footage that we have seen of the shooter was actually recorded before the assassination."
 
-**[00:17:27](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-17-02)**
+**[00:17:25](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-17-02)**
 > "...ossibility. So I want to also open this up because I don't want to just hear it from one student or CNN. I want to hear it from more students, right? That would be something that you would remember. We k..."
 
 </details>
@@ -355,24 +362,24 @@ Source: [About CNN](https://www.cnn.com/about)
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
 
-**[00:15:00](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-30)**
-> "...here, you can see that Israel was a factor in a lot of these people's votes. This is according to a CNN exit poll of about 4,700 people coming out. Really, it's an election for mayor of New York. I don't..."
+**[00:15:00](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-38)**
+> "This is according to a CNN exit poll of about 4,700 people coming out."
 
-**[00:30:21](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-30-17)**
+**[00:30:17](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-30-10)**
 > "...by the way, regarding that. But there was this riveting segment that apparently happened in July on CNN that I saw for the first time this morning as it was going around on X, and it's really amazing. An..."
 
-**[00:30:34](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-30-17)**
-> "... guess—how people feel about me in the establishment media in a nutshell. So let's take a listen to CNN. (Clip from CNN) "Not only is she stupid, but she's also disgusting, right? I mean, Candace (Candac..."
+**[00:30:29](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-30-10)**
+> "And it really is just—I guess—how people feel about me in the establishment media in a nutshell. So let's take a listen to CNN. (Clip from CNN)"
 
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:33:57](/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-30)**
+**[00:33:52](/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-38)**
 > "...ount for saying cheap. I'm sure that's not good. Anyways, Stop Antisemitism actually tweeted this: "CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how ..."
 
-**[00:34:28](/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-34-12)**
+**[00:34:28](/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-34-18)**
 > "...er Carlson)—has had a conversation with someone that he disagrees with. Anna Kasparian went on like CNN, and that was it. Then there was a Holocaust, and it has to be stopped. I mean, it's not even good...."
 
 </details>
@@ -436,7 +443,19 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Interviewed (1)</summary>
+
+- **[Anonymous UVU student (CNN report, Ep 581dILVcEE4)](/entities/anon-src-581dILVcEE4-002.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:12:37](/episodes/ep-581dILVcEE4.md#t-00-12-37): “He told CNN that he reported his observations to the FBI tip line after the shooting, but he has not heard back.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -449,6 +468,13 @@ Source: [About CNN](https://www.cnn.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:48](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “Tucker Carlson, who used to work for CNN”
+
+</details>
+
+- **[Anonymous UVU student (CNN report, Ep 581dILVcEE4)](/entities/anon-src-581dILVcEE4-002.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:12:37](/episodes/ep-581dILVcEE4.md#t-00-12-37): “He told CNN that he reported his observations to the FBI tip line after the shooting, but he has not heard back.”
 
 </details>
 
@@ -465,7 +491,7 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about CNN (10)</strong></summary>
+<summary><strong class="section-title">Statements about CNN (14)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -535,10 +561,31 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:29:14](/episodes/ep-t4U7NjnUEgc.md#t-00-29-04) (Claim) **Candace Owens**: ["Owens said Charlie Kirk attended an event in Korea on September 5 and ..."](/statements/statement-63c30899ddce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [South Korea](/entities/gpe-south-korea.md), [Japan](/entities/gpe-japan.md)
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-12-18) (Claim) **Anonymous UVU student (CNN report, Ep 581dILVcEE4)** (via quoted article): ["An anonymous UVU student told CNN that he saw a man on or near the Los..."](/statements/statement-be3da0054162.md)
+- [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-11-59) (Claim) **Anonymous UVU student (CNN report, Ep 581dILVcEE4)** (via quoted article): ["An anonymous UVU student told CNN that he saw a man on or near the Los..."](/statements/statement-be3da0054162.md)
   - Also about: [FBI](/entities/org-fbi.md), [Losee Center](/entities/org-losee-center.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3)</summary>
+
+- [00:14:45](/episodes/ep-LATnak75Si0.md#t-00-14-38) (Citation) **Mark (Candace show producer; surname unverified)**: ["Mamdani received 32% of the Jewish vote, according to a CNN exit poll ..."](/statements/statement-2dbdb6480c36.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+
+- [00:14:45](/episodes/ep-LATnak75Si0.md#t-00-14-38) (Claim) **Mark (Candace show producer; surname unverified)**: ["Mamdani received 32% of the Jewish vote, according to a CNN exit poll."](/statements/statement-e709079b17bf.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+
+- [00:15:00](/episodes/ep-LATnak75Si0.md#t-00-14-38) (Claim) **Mark (Candace show producer; surname unverified)**: ["The CNN exit poll surveyed about 4,700 people leaving polling places."](/statements/statement-edc5d4e280fb.md)
 
 </details>
 

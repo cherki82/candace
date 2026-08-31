@@ -24,13 +24,13 @@ veracity: "true"
 ## About
 
 - [The Daily Wire](/entities/org-the-daily-wire.md) (org)
-- [Nashville, Tennessee](/entities/gpe-nashville-tennessee.md) (gpe)
+- [Nashville](/entities/gpe-nashville.md) (gpe)
 
 ## Source
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:06:00](/episodes/ep-uC_GjKU8rs8.md#t-00-05-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > today the Daily Wire made a difficult decision to restructure the organization, which included layoffs to a number of teams. ... The cuts were largely concentrated at our Nashville production office as the company has invested in new formats, locations and production models. ... Additionally, we will continue to invest our editorial team and investigative journalism
 

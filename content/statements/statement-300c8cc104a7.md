@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:50:06](/episodes/ep-69A8TzAGHlU.md#t-00-49-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3006);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=3006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After watching this show, I would say that I had a damn good reason to suspect Turning Point USA, that they were complicit in a cover-up of what happened.
 

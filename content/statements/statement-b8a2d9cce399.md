@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:24:54](/episodes/ep-tB5SXXmd9vU.md#t-00-24-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1494);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1494s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then we learned that it is also a place which houses the attorneys that are filing my paperwork in the Brigitte lawsuit
 

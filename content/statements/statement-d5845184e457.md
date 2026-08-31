@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:06:32](/episodes/ep-wcD2khO3rOA.md#t-00-06-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(392);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=392s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Bowyer attended and he graduated Erika Kirk attended and she graduated Cabot Phillips attended and he graduated Mikey McCoy was accepted into Liberty University but then he chose not to attend because he got the job at Turning Point USA instead
 

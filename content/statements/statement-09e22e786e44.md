@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:08:20](/episodes/ep-GY6GWceEqtQ.md#t-00-08-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I requested a retraction of Ms. ... Owens Farmer's disparaging statements and again provided notice that the injuries caused by her statements are substantial and continuing to accrue. ... Owens Farmer has declined to issue a retraction to the contrary.
 

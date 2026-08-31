@@ -1,6 +1,6 @@
 ---
 title: "Robert J. Shillman"
-description: "Robert J. Shillman (People) - 2 mentions"
+description: "Robert J. Shillman (People) - 3 mentions"
 id: "person-robert-j-shillman"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Cognex: Robert J. Shillman](https://investor.cognex.com/news/news-detai
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-j-shillman-t-00-42-04">2026-02-02 · 00:42:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-j-shillman-t-00-43-00">2026-02-02 · 00:43:00</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,7 +50,7 @@ Source: [Cognex: Robert J. Shillman](https://investor.cognex.com/news/news-detai
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>

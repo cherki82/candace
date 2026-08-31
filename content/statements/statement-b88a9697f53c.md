@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:33:54](/episodes/ep-a2bZf4fic10.md#t-00-33-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2034);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=2034s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Someone sent me a photo in Arlington that they had made a poster at Charlie's memorial site, one of the many around the country, and they had... ... written on the poster, 'Don't worry, your big sister can also figure out what happened,' and the Turning Point staff removed the poster. Sent me the photos and everything. I don't have it for you today, because we weren't planning on doing a show. And they saw them whispering, and they removed the poster.
 

@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:11:32](/episodes/ep-9hRcfSrri70.md#t-00-11-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(692);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=692s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > securing particularly at first the SD card from behind Charlie (Charlie Kirk)'s head looking both ways putting it in your pocket grabbing your laptop and allegedly maybe it looks to be like putting that SD card into that laptop why you've secured it we were told from Andrew (Andrew Kolvet) he was doing this because
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:02:20](/episodes/ep-_cNtgris8Ik.md#t-00-02-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we just showed you that Terrell takes his laptop. It looks very much like he inserts an SD card into it, an SD card that he just happened to take out of a camera.
 

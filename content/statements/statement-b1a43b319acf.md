@@ -24,7 +24,7 @@ type: "accusation"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:04:32](/episodes/ep-tB5SXXmd9vU.md#t-00-04-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(272);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=272s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said there was a paper trail that Macron (Emmanuel Macron) allegedly paid $1.5 million. And I am saying allegedly because until I can physically see with my own eyes inside of these accounts and verify the transfer of that payment, it's of course alleged. The amount is alleged. Two assassins were hired, one Israeli, one French-Canadian woman, okay, a man and a woman. And I also said that the money ran through the elite gentlemen's club des Saints.
 

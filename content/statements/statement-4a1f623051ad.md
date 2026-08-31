@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:50:19](/episodes/ep-DEtFh2Ff-58.md#t-00-49-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3019);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=3019s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We haven't had his arraignment, guys. ... How are we saying Tyler Robinson did it? That you're just saying that you believe in guilty before proving innocent, that if the state can drum up charges against you, we don't even need to hear from the person who might very well enter in a not guilty plea.
 
@@ -37,7 +37,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:43:18](/episodes/ep-7ERqbYElOfs.md#t-00-42-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2598);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=2598s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Has Tyler confirmed that he authored those messages? Has Tyler been arraigned yet? Has Tyler entered in a plea?
 

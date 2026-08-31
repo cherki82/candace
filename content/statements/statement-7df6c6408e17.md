@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:32:15](/episodes/ep-EtLHqDbxqks.md#t-00-32-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1935);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1935s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And you can't tell us anything about when the DNA was deposited on the trigger guard or the trigger, correct? ... Correct.
 

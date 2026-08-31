@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1256);return false;">Play</a>
+**Timestamp:** [00:20:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> She works—she worked intelligence in the IDF, right, in Israel.
+> Marissa Streit, the CEO, has never shied from telling people that she is... you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel.
 
 ## Verification
 

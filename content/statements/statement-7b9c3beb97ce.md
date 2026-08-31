@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:56:38](/episodes/ep-9CuC1yf8-PU.md#t-00-56-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3398);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=3398s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, I think a couple of things went wrong. They had planned on this hitting his chest. in which would have made things fit in a lot closer. I mean, we just, it was never, in my opinion, meant to hit his neck. And the shape charge due to Charlie (Charlie Kirk)'s posture, he kind of has a bent posture.
 

@@ -1,6 +1,6 @@
 ---
-title: "Ben Shapiro interview with Thomas Sowell was published on No..."
-description: "\"Ben Shapiro interview with Thomas Sowell was published on November 17, 2023, two days after Owens appeared on Tucker Carlson; Owens alleges it was spe...\" — Candace Owens"
+title: "Owens said Ben Shapiro had his team schedule a Thomas Sowell..."
+description: "\"Owens said Ben Shapiro had his team schedule a Thomas Sowell interview after her Tucker Carlson appearance and presumed they paid an offensive amount ...\" — Candace Owens"
 statement_id: "statement-7abccb564d21"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Ben Shapiro interview with Thomas Sowell was published on November 17, 2023, two days after Owens appeared on Tucker Carlson; Owens alleges it was specially scheduled and paid
+> Owens said Ben Shapiro had his team schedule a Thomas Sowell interview after her Tucker Carlson appearance and presumed they paid an offensive amount for it
 
 ## Attribution
 
@@ -30,10 +30,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:10:23](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(623);return false;">Play</a>
+**Timestamp:** [00:10:08](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) 
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=608s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Ben had his team reach out and schedule an interview with Thomas Sowell. which they paid for an offensive amount of money
+> Ben had his team reach out and schedule an interview with Thomas Sowell. which they paid for an offensive amount of money, I presume ... Interview with Tucker is on the 15th, I think it premieres on the 16th, and Ben gets Thomas Sowell
 
 ## Verification
 

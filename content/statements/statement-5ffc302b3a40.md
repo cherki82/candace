@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:07:19](/episodes/ep-qZ8RWfyuewQ.md#t-00-07-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had two asthma attacks that landed me in the hospital, and I had no idea what was happening. ... told me that there had to have been a toxic mold presence for which I needed to have the have the environment tested immediately.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:15:11](/episodes/ep-H9p2ZGHAs9A.md#t-00-14-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(911);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=911s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here is her real estate license, the relic of it that I found, license number 104-013-22765, okay? It was issued to Erika (Erika Kirk).
 

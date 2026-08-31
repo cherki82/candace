@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:17:12](/episodes/ep-2T39-oADLj0.md#t-00-16-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1032);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=1032s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You don't actually have plenty of time, biologically speaking, you literally don't have plenty of time. Men might have plenty of time, biologically speaking, but your body is telling you you don't.
 

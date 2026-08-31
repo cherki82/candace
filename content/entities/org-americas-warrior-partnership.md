@@ -1,6 +1,6 @@
 ---
 title: "America's Warrior Partnership"
-description: "America's Warrior Partnership (Organizations) - 14 mentions"
+description: "America's Warrior Partnership (Organizations) - 15 mentions"
 id: "org-americas-warrior-partnership"
 type: "ORG"
 categories:
@@ -16,10 +16,10 @@ _Type: Organizations_
 Source: [Our Mission | America's Warrior Partnership](https://www.americaswarriorpartnership.org/our-mission)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24">2025-12-20 · 00:47:36</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-americas-warrior-partnership-t-00-50-07">2025-12-10 · 00:50:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-americas-warrior-partnership-t-00-31-51">2026-06-26 · 00:32:04</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -30,6 +30,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-americas-warrior-partnership-t-00-50-07" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-americas-warrior-partnership-t-00-48-40" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
@@ -44,6 +45,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-americas-warrior-partnership-t-00-50-07) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-americas-warrior-partnership-t-00-48-40) | 1 |
@@ -60,7 +62,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -149,6 +151,14 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 
 </details>
 
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:50:18](/episodes/ep-6DhWawD4ZiM.md#ent-org-americas-warrior-partnership-t-00-50-07)**
+> "...ver half a million dollars to America's Warrior Partnership."
+
+</details>
+
 </details>
 
 <details open>
@@ -158,7 +168,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <summary>Funded By (1)</summary>
 
 - **[Pure Talk](/entities/org-pure-talk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
@@ -167,6 +177,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:20:40](/episodes/ep-19vHhjF7-NA.md#t-00-20-12): “PureTalk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:27:03](/episodes/ep-5NQyGuRYbU8.md#t-00-26-55): “Pure Talk will match that donation”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:32:11](/episodes/ep-IqHsl7d2dos.md#t-00-31-51): “PureTalk will match that donation until they hit $250,000. So enjoy unlimited talk, unlimited text, and unlimited high-speed data for just $34.99 a month.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:47:36](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24): “through their Roundup for Charity program, they've been able to donate over half a million dollars to America's Warrior Partnership.”
 
 </details>
 
@@ -188,7 +199,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <summary>Referenced By (2)</summary>
 
 - **[Pure Talk](/entities/org-pure-talk.md)** funded this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
@@ -197,6 +208,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:20:40](/episodes/ep-19vHhjF7-NA.md#t-00-20-12): “PureTalk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:27:03](/episodes/ep-5NQyGuRYbU8.md#t-00-26-55): “Pure Talk will match that donation”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:32:11](/episodes/ep-IqHsl7d2dos.md#t-00-31-51): “PureTalk will match that donation until they hit $250,000. So enjoy unlimited talk, unlimited text, and unlimited high-speed data for just $34.99 a month.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:47:36](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24): “through their Roundup for Charity program, they've been able to donate over half a million dollars to America's Warrior Partnership.”
 
 </details>
 

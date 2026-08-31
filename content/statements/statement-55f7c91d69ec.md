@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:07:32](/episodes/ep-9CuC1yf8-PU.md#t-00-07-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(452);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=452s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We still can't figure out who in the car called 911 and we can't find that 911 call, but they say someone did call 911.
 

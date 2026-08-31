@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:11:51](/episodes/ep-ZGxnf5cj4Uw.md#t-00-11-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(711);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=711s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm told that it's because the Feds told them that if they spoke out, their lives could be at risk. Like they needed to keep things private, and they convinced the family to go into witness protection.
 

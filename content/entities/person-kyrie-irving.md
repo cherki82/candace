@@ -3,13 +3,21 @@ title: "Kyrie Irving"
 description: "Kyrie Irving (People) - 2 mentions"
 id: "person-kyrie-irving"
 type: "PERSON"
+categories:
+  - "professional basketball player"
 ---
 
 _Type: People_
 
+**Categories:** professional basketball player
+
+**Entity verification:** verified
+> NBA's official player profile identifies Kyrie Irving, matching the public figure referenced in the transcript.
+Source: [Kyrie Irving Player Bio - NBA.com](https://www.nba.com/player/202681/kyrie-irving/bio)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-43-02">2025-09-19 · 00:36:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-43-02">2025-09-19 · 00:43:13</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-42-46">2025-09-19 · 00:36:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-42-46">2025-09-19 · 00:43:08</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -20,15 +28,15 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-43-02">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-42-46">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-43-02" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-42-46" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-43-02) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-42-46) | 2 |
 
 </details>
 </section>
@@ -41,10 +49,10 @@ _Type: People_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:36:33](/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-43-02)**
+**[00:36:27](/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-42-46)**
 > "That's what they did to Kyrie Irving. I don't like what you said. Donate to the Holocaust Museum."
 
-**[00:43:13](/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-43-02)**
+**[00:43:08](/episodes/ep-aDlhjfW6hz8.md#ent-person-kyrie-irving-t-00-42-46)**
 > "That's what they did to Kyrie Irving."
 
 </details>

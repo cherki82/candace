@@ -6,6 +6,11 @@ date: "2025-07-25"
 ---
 
 **Date:** 2025-07-25
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 25th, 2025”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-07-25"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:13:13](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-07-25-bradley-hansell-was-sworn-in-as-undersec-t-00-13-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(793);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=793s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was confirmed by the Senate and sworn in on July 25th, 2025.

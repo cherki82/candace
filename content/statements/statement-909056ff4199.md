@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:24:03](/episodes/ep-CEF7gQRWYCE.md#t-00-23-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1443);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1443s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I really don't see how you can have a ton of success in Hollywood and not be in the club because Hollywood was founded upon this Hollywood Babylon. We spoke to you about this in our book club. They quite literally imported people from Vienna where Sigmund Freud was, where his boys were. They imported them and they made them directors. They made them actors. They made them actresses. And they were tasked with destroying Christianity.
 

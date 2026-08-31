@@ -68,7 +68,7 @@ Source: [Jones, Steven E. (1949) | BYU Library](https://archives.lib.byu.edu/age
 <details>
 <summary>Works For (1)</summary>
 
-- **[BYU](/entities/org-byu.md)**
+- **[Brigham Young University](/entities/org-brigham-young-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:47:20](/episodes/ep-rupRLXmSndU.md#t-00-46-56): “Dr. Stephen Jones, a physicist at BYU, published a study in 2009 proving advanced thermite-based explosives in abundance in the dust from Ground Zero on 9-11.”
@@ -80,7 +80,7 @@ Source: [Jones, Steven E. (1949) | BYU Library](https://archives.lib.byu.edu/age
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[BYU](/entities/org-byu.md)** employs this
+- **[Brigham Young University](/entities/org-brigham-young-university.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:47:20](/episodes/ep-rupRLXmSndU.md#t-00-46-56): “Dr. Stephen Jones, a physicist at BYU, published a study in 2009 proving advanced thermite-based explosives in abundance in the dust from Ground Zero on 9-11.”

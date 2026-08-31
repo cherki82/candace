@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:47:22](/episodes/ep-SgVcnx4Oh30.md#t-00-46-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2842);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2842s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And meanwhile, you have government officials that are now saying on the record to journalists they are willing to testify on behalf of the defense to get ostensibly to get Tyler Robinson off the hook.
 

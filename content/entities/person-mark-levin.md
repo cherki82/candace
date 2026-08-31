@@ -205,7 +205,7 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
 **[00:37:10](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10)**
-> "...arlson)'s perspectives and what's guiding his perspectives—and then go backwards and listen to like Mark Levin and these people that got on their platforms and call him irredeemable. And you realize there's a d..."
+> "I'm going to really consider—you listen to Tucker Carlson's perspectives and what's guiding his perspectives—and then go backwards and listen to like Mark Levin and these people that got on their platforms and call him irredeemable. And you realize there's a different spirit moving within these and within these groups, right? And he is"
 
 </details>
 
@@ -319,7 +319,7 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
   - About: [Joe Kent](/entities/person-joe-kent.md)
 
 - [00:16:19](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57) [?] (Accusation) ["The Department of Justice should open a criminal investigation to determine whet..."](/statements/statement-83445a0989bf.md)
-  - About: [Joe Kent](/entities/person-joe-kent.md), [Department of Justice](/entities/org-department-of-justice.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
 
 </details>
 

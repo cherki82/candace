@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:39:28](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2368);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2368s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were just moved around the room to make it look more full and they had to do about three to five takes each on every song, except for Gabby (Gabby Barrett). They said she got it done in two.
 

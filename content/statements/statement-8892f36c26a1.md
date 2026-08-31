@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:05:58](/episodes/ep-Pb7UlpRdW6U.md#t-00-05-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(358);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=358s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But now we have the proof, at the very least, that its amplification was designed by the military. That is a fact.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:03:47](/episodes/ep-puuMVxEu5NU.md#t-00-03-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(227);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, I was Charlie (Charlie Kirk)'s executive assistant. The day-to-day Charlie (Charlie Kirk) makes sure he has his food, water, clothes, all the stuff that...
 

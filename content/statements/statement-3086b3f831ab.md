@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:48:48](/episodes/ep-SKNJPul29zU.md#t-00-48-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2928);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2928s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think that is his job. And that is why he is in there. They put him in there and they tell him what to do and it is to look the other way and to come up with excuses. I think he is executing his job perfectly.
 

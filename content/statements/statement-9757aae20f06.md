@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk said the evidence showed Jeffrey Epstein might ..."
-description: "\"Charlie Kirk said the evidence showed Jeffrey Epstein might have been created by Israeli, American, or Saudi intelligence, or might have been a hired ...\" — Charlie Kirk"
+title: "Charlie Kirk said the evidence showed Jeffrey Epstein was cr..."
+description: "\"Charlie Kirk said the evidence showed Jeffrey Epstein was created by Mossad, Israeli, American, or Saudi intelligence, or perhaps was a hired intermed...\" — Charlie Kirk"
 statement_id: "statement-9757aae20f06"
 speaker: "Charlie Kirk"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Charlie Kirk said the evidence showed Jeffrey Epstein might have been created by Israeli, American, or Saudi intelligence, or might have been a hired intermediary
+> Charlie Kirk said the evidence showed Jeffrey Epstein was created by Mossad, Israeli, American, or Saudi intelligence, or perhaps was a hired intermediary
 
 ## Attribution
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1812);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1812s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > First of all, the evidence that shows that Epstein was a creation of either Mossad, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.
 

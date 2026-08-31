@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:20:02](/episodes/ep-OEAHy3SsIiI.md#t-00-19-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1202);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=1202s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who was quite literally born a male and who quite literally committed statutory rape under the then French law against a 14-year-old student,
 
@@ -37,7 +37,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:56:17](/episodes/ep-HYn0P-P1wUw.md#t-00-55-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3377);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=3377s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But this is not defamation. She's not making the argument that these things are untrue. She's making the argument that her feelings are hurt because you know that she was born with a penis.
 
@@ -45,7 +45,7 @@ veracity: "false"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:23:47](/episodes/ep-BKcOm32ZEGk.md#t-00-23-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1427);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=1427s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is getting to the heart of evil and how the world is run to figure out that Brigitte was born a man. What are we going to do? We're going to file a lawsuit. A lawsuit filing was a mistake,
 

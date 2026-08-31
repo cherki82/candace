@@ -5,20 +5,30 @@ id: "person-elle-steele"
 type: "PERSON"
 aliases:
   - "Elle"
+  - "Elle Steel"
+categories:
+  - "Charlie Kirk assassination eyewitness"
+  - "family member"
 ---
 
 _Type: People_
 
-**Also known as:** Elle
+**Also known as:** Elle, Elle Steel
+
+**Categories:** Charlie Kirk assassination eyewitness, family member
+
+**Entity verification:** verified
+> The embedded Good Morning America clip explicitly introduces the eyewitness as Elle Steele; the cleaned speaker roster independently uses the same spelling.
+Source: [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](https://www.youtube.com/watch?v=sreYYcID-QY)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52">2025-09-18 · 00:20:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#t-00-04-06">2025-09-23 · 00:04:23</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-elle-steele-t-00-04-06">2025-09-23 · 00:04:23</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -27,14 +37,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#t-00-03-13" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-elle-steele-t-00-03-13" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52) | 3 |
-| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13) | 3 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-elle-steele-t-00-03-13) | 3 |
 
 </details>
 </section>
@@ -47,13 +57,13 @@ _Type: People_
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (3 mentions)</summary>
 
-**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13)**
+**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-elle-steele-t-00-03-13)**
 > "...iffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience..."
 
-**[00:04:06](/episodes/ep-UBkFkg4UNY8.md#t-00-04-06)**
+**[00:04:06](/episodes/ep-UBkFkg4UNY8.md#ent-person-elle-steele-t-00-04-06)**
 > "Elle (Elle Steel) and Mia (Mia Grant), I can't imagine..."
 
-**[00:04:23](/episodes/ep-UBkFkg4UNY8.md#t-00-04-06)**
+**[00:04:23](/episodes/ep-UBkFkg4UNY8.md#ent-person-elle-steele-t-00-04-06)**
 > "Elle (Elle Steel), you go first."
 
 </details>
@@ -78,12 +88,54 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (2)</summary>
 
 - **[Mia Grant](/entities/person-mia-grant.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+
+</details>
+
+- **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Cousin Of (2)</summary>
+
+- **[Mia Grant](/entities/person-mia-grant.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:05:00](/episodes/ep-UBkFkg4UNY8.md#t-00-04-25): “It was just me, Mia (Mia Grant), and then my other cousin, Bella.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:21:52](/episodes/ep-sreYYcID-QY.md#t-00-21-15): “It was just me, Mia, and then my other cousin, Bella.”
+
+</details>
+
+- **[Bella (cousin of Elle Steel; surname unverified)](/entities/person-bella-cousin-of-elle-steel-surname-unverified.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:05:00](/episodes/ep-UBkFkg4UNY8.md#t-00-04-25): “It was just me, Mia (Mia Grant), and then my other cousin, Bella.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:21:52](/episodes/ep-sreYYcID-QY.md#t-00-21-15): “It was just me, Mia, and then my other cousin, Bella.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (1)</summary>
+
+- **[Good Morning America](/entities/work-good-morning-america.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:05](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
@@ -93,28 +145,62 @@ _Type: People_
 <summary>Niece/Nephew Of (1)</summary>
 
 - **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Mia Grant](/entities/person-mia-grant.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+
+</details>
+
+- **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+
+</details>
+
+- **[Mia Grant](/entities/person-mia-grant.md)** cousin of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:05:00](/episodes/ep-UBkFkg4UNY8.md#t-00-04-25): “It was just me, Mia (Mia Grant), and then my other cousin, Bella.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:21:52](/episodes/ep-sreYYcID-QY.md#t-00-21-15): “It was just me, Mia, and then my other cousin, Bella.”
+
+</details>
+
+- **[Bella (cousin of Elle Steel; surname unverified)](/entities/person-bella-cousin-of-elle-steel-surname-unverified.md)** cousin of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:05:00](/episodes/ep-UBkFkg4UNY8.md#t-00-04-25): “It was just me, Mia (Mia Grant), and then my other cousin, Bella.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:21:52](/episodes/ep-sreYYcID-QY.md#t-00-21-15): “It was just me, Mia, and then my other cousin, Bella.”
+
+</details>
+
+- **[Good Morning America](/entities/work-good-morning-america.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:05](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
 - **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)** uncle/aunt of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
@@ -123,21 +209,12 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Elle Steele (4)</strong></summary>
+<summary><strong class="section-title">Statements by Elle Steele (1)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4)</summary>
-
-- [00:21:20](/episodes/ep-sreYYcID-QY.md#t-00-21-15) [○] (Claim) ["I saw the shooting and saw blood everywhere. It hit his artery"](/statements/statement-6b62c96a17cb.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:21:23](/episodes/ep-sreYYcID-QY.md#t-00-21-15) [○] (Claim) ["Elle Steele saw blood everywhere and saw that the bullet hit Charlie Kirk's arte..."](/statements/statement-e80bac4ea8ef.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
 - [00:21:24](/episodes/ep-sreYYcID-QY.md#t-00-21-15) [○] (Claim) ["I saw it and I saw blood everywhere, and it hit his artery and then I just fell ..."](/statements/statement-15abacc00bd8.md)
-
-- [00:22:00](/episodes/ep-sreYYcID-QY.md#t-00-21-56) [○] (Claim) ["I saw blood everywhere and it hit his artery, then I just fell to the ground and..."](/statements/statement-6393541f92b4.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

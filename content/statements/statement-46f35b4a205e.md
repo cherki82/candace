@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:01:04](/episodes/ep-c5BcKF91iec.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(64);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=64s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Incredibly, Charlie Kirk did in fact know that Turning Point was going to be the death of him
 
@@ -38,7 +38,7 @@ type: "opinion"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:01:04](/episodes/ep-c5BcKF91iec.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(64);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=64s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Incredibly, Charlie Kirk did in fact know that Turning Point was going to be the death of him. And I have proof of that.
 

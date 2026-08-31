@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(812);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=812s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do know who drove her. The person who drove her is Lauren Tonczyk. ... she volunteered for the task to drive elizabeth to the airport
 

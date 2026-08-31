@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:15:32](/episodes/ep-HYn0P-P1wUw.md#t-00-15-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(932);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=932s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We broke the story that Charlie (Charlie Kirk) texted Dan Flood and Andrew Kolvet the night before saying that he was afraid that they were going to kill him. This has now been confirmed by Erika (Erika Kirk), or at least it was confirmed to me from Erika (Erika Kirk).
 
@@ -39,7 +39,7 @@ veracity: "unverifiable"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:59:10](/episodes/ep-9naMwS0kMBE.md#t-00-58-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3550);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3550s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they had to confirm that it was true that Charlie messaged not only Andrew Kolvet but Dan Flood the night before and said that he was worried he was going to be assassinated
 
@@ -47,7 +47,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:43:56](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2636);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2636s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then he messages Dan Flood and Andrew and says they're going to kill me.
 
@@ -55,7 +55,7 @@ veracity: "unverifiable"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:23:19](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1399);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1399s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reality is that Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood the night before saying that he feared he was going to be killed after he was engaged in a discussion about him removing his support from Israel and after he then had to have this call with a rabbi.
 
@@ -63,7 +63,7 @@ veracity: "unverifiable"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:07:59](/episodes/ep-ti5Fxrvegno.md#t-00-07-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(479);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=479s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To security chief Dan Flood, also to Andrew Kolvet, and he says to them that they are going to kill me. Who is they?
 

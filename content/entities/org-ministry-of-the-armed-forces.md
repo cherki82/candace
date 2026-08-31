@@ -82,7 +82,7 @@ Source: [French Ministry of the Armed Forces](https://www.defense.gouv.fr/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:09:45](/episodes/ep-7RLtGgkTh9o.md#t-00-09-38)**
+**[00:09:38](/episodes/ep-7RLtGgkTh9o.md#t-00-09-38)**
 > "...andal—Potter's Field was actually a healthy, functional organization. This was actually a Christian ministry until—and again, I'm going to say this is alleged, but I'm looking further into this claim—until Ro..."
 
 </details>

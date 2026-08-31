@@ -6,6 +6,11 @@ date: "2026-07-23"
 ---
 
 **Date:** 2026-07-23
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “last Thursday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-07-23"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:39:33](/episodes/ep-HZvwbfePe7o.md#event-event-2026-07-23-candace-owens-released-text-messages-exc-t-00-39-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2373);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=2373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Regarding the text messages that I released, which were asked of me by Andrew Kolvet to release

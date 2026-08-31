@@ -1,6 +1,6 @@
 ---
 title: "Never Trump movement"
-description: "Never Trump movement (Concepts) - 7 mentions"
+description: "Never Trump movement (Concepts) - 11 mentions"
 id: "concept-never-trump-movement"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [Controversy over Tucker Carlson interview reveals conservative movement's conflict over antisemitism | AP](https://apnews.com/article/e7347c9f414dfea41de7d63a0977d3b9)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49">2025-10-30 · 00:32:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-18">2025-10-30 · 00:32:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-never-trump-movement-t-01-07-16">2026-05-21 · 01:07:27</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,21 +33,25 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-concept-never-trump-movement-t-00-51-39">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-never-trump-movement-t-00-52-34" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-never-trump-movement-t-01-07-16" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-18" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#t-00-00-00" style="--pulse-height:33%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-never-trump-movement-t-00-51-39" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-never-trump-movement-t-00-52-34" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-never-trump-movement-t-01-07-16" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-18) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-never-trump-movement-t-00-51-39) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-never-trump-movement-t-00-52-34) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24) | 1 |
@@ -61,7 +65,7 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -112,9 +116,31 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 </details>
 
 <details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
+
+**[00:51:57](/episodes/ep-LATnak75Si0.md#ent-concept-never-trump-movement-t-00-51-39)**
+> "You're not going to convince me that this is the MAGA movement. It's not. And the reason I know it's not is because all the Never Trumpers are praising it—and I've always been against Never Trumpers."
+
+**[00:16:21](/episodes/ep-LATnak75Si0.md#ent-concept-never-trump-movement-t-00-16-21)**
+> "You were never Trump (Donald Trump). If you're telling us that MAGA is..."
+
+**[00:52:06](/episodes/ep-LATnak75Si0.md#ent-concept-never-trump-movement-t-00-51-39)**
+> "...ump (Donald Trump) joined the Never Trump party, then good on him—but I'm not following him..."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:00:08](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00)**
+> "Never Trumpers have now infiltrated the MAGA movement"
+
+</details>
+
+<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:32:49](/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49)**
+**[00:32:49](/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-18)**
 > "...iterally people that were the Never Trump movement in 2015."
 
 </details>

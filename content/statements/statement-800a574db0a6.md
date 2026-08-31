@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:11:37](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(697);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=697s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase
 

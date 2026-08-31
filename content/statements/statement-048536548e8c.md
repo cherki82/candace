@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:09:22](/episodes/ep-OgRyiOAVtWU.md#t-00-08-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(562);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=562s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know, just like I don't know why the feds would want this car immediately released, towed, cleaned up, and resold so fast. ... None of that makes any sense to me. Why wasn't the car impounded for evidence?
 

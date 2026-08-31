@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:20:21](/episodes/ep-X3VKJVJ7cN4.md#t-00-19-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1221);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1221s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is Danny Phillips' granddaddy. You know, I got to know who everybody's granddad is, and I fell apart when I realized who his grandfather was.
 

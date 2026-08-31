@@ -71,7 +71,7 @@ _No relationships extracted yet._
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
 
 - [00:17:25](/episodes/ep-cZxHqYsWRYg.md#t-00-17-01) (Claim) **Anonymous Source #1 (Ep cZxHqYsWRYg)** (via quoted speech): ["In 2009 FBI agents recovered a cooler of cash buried at Summit Hills C..."](/statements/statement-4dda7f080dbb.md)
-  - Also about: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Crestview Hills, Kentucky](/entities/gpe-crestview-hills-kentucky.md)
+  - Also about: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [FBI](/entities/org-fbi.md), [Crestview Hills, Kentucky](/entities/gpe-crestview-hills-kentucky.md)
 
 </details>
 

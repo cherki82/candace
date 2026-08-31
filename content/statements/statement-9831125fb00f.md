@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:09:30](/episodes/ep-ChuWo-n49B8.md#t-00-09-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(570);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=570s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in Utah or in the United States or in the world that drives that particular vehicle in that car in that color so that is thus far unproven but we'll we'll be open to maybe this is they just didn't want to present it at the preliminary hearing We were told Tyler Robinson was suicidal. That is a lie. I told you that was a lie from the very beginning. He was not suicidal. In fact, he was so not suicidal that he agreed to turn himself in, or rather to walk in peaceably. You have no other choice. That's what they told him. He agreed to go in peaceably rather than subject himself to the possibility of an accidental death by SWAT team banging down his door.
 

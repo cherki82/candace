@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:21:49](/episodes/ep-y8lak3CRwDw.md#t-00-21-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1309);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1309s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reason why I even went over there is that one of my on my dad's side, his extended family like a cousin, he was a part of. ... a B-Surf over there. ... that's I went over there in 2013 and when he was over there we did we we did the same thing like he showed us these are the orphanages we work with these are the this is the hospital that we helped rebuild like amazing amazing humanitarian things that no one talks about that our troops are doing over there
 

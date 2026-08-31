@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:57:33](/episodes/ep-WoXd4oLwd3w.md#t-00-57-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3453);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=3453s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > two rights they keep saying Charlie (Charlie Kirk) and candace weren't friends why then did Erika (Erika Kirk) meet candace in such a tight schedule and why did andrew call candace the very first day and shared so many things make it make sense tpus say they can't they're just trying to delete Charlie (Charlie Kirk)'s history Charlie (Charlie Kirk)'s perspective Charlie (Charlie Kirk)'s relationships um they fought viciously to do it they couldn't sell it they had a ton of money to put behind this narrative that Charlie (Charlie Kirk) and i didn't talk the us magazine article Charlie (Charlie Kirk) was afraid to talk to candace what are you like we traveled together for years years
 

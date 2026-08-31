@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:39:45](/episodes/ep-X92MllIHDzw.md#t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2385);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2385s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they actually, one reporter got documents, was pitching to sell the data of his followers. And people are like, that's fine.
 

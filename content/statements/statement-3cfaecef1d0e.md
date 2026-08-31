@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:34:22](/episodes/ep-amqTMimDr0A.md#t-00-34-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2062);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2062s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Never. ... Never. That's not her MO. I have a lot of thoughts about this, to be honest with you, Gary (Paramount Tactical host; surname unverified). ... Erika (Erika Kirk) would never shouldn't curse. She doesn't say those things. And she still to this day has never said anything bad about about Candace or anyone involved.
 

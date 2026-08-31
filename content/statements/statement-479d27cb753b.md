@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:18:45](/episodes/ep-AH1KVKkweUE.md#t-00-18-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1125);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=1125s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > ultimately officer Bagley's version of events just doesn't line up with the available footage so the question is Why lie? ... Allegedly.
 

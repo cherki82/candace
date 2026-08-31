@@ -1675,7 +1675,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 - [00:50:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-10) [○] (Claim) ["Victor Marx says he immediately brought a team to relieve Charlie Kirk's initial..."](/statements/statement-11ab1843d94b.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Eileen Marx](/entities/person-eileen-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:50:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-52) [○] (Claim) ["Victor Marx says Eileen Marx is like a second mother to Erika Kirk and that the ..."](/statements/statement-dfc27f7f919b.md)
+- [00:50:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-52) [○] (Claim) ["Victor Marx says Eileen Marx is perhaps like a second mother to Erika Kirk and t..."](/statements/statement-dfc27f7f919b.md)
   - About: [Eileen Marx](/entities/person-eileen-marx.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:53:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-37) [○] (Claim) ["Victor Marx says the Kurdistan government officially invited his organization in..."](/statements/statement-e4c4edec34ff.md)

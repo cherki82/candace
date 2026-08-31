@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:07:35](/episodes/ep-AH1KVKkweUE.md#t-00-07-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(455);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=455s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Frank (Frank Turek) the Yankin and Bankin Frank (Frank Turek), the public isn't really buying some elements of the story, particularly the portion where Brian Harpole grabs a gurney, jumps on top of Charlie (Charlie Kirk) in the ER and begins cutting his shirt while the staff looks on for further instructions about what drugs to give Charlie (Charlie Kirk), what drugs to administer. That just sounds like fiction and I got to be honest, Frank (Frank Turek).
 

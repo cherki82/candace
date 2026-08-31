@@ -1,6 +1,6 @@
 ---
 title: "Bentkey"
-description: "Bentkey (Organizations) - 6 mentions"
+description: "Bentkey (Organizations) - 7 mentions"
 id: "org-bentkey"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [Need Help with Bentkey? – DailyWire+ Help Center](https://support.dai
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-bentkey-t-00-06-52">2026-05-04 · 00:06:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-bentkey-t-00-47-27">2026-05-06 · 00:47:33</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -52,7 +52,7 @@ Source: [Need Help with Bentkey? – DailyWire+ Help Center](https://support.dai
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>

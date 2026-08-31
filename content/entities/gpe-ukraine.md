@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 79 mentions"
+description: "Ukraine (Places) - 81 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -21,12 +21,12 @@ _Type: Places_
 Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov.ua/en/about-ukraine/general-facts)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43">2026-08-07 · 00:36:43</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>79</strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>81</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,18 +37,19 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01" style="--pulse-height:10%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-gpe-ukraine-t-00-30-33" style="--pulse-height:10%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-55" style="--pulse-height:70%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 7 mentions" title="2025-10-01 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-36" style="--pulse-height:70%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 7 mentions" title="2025-10-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-41" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35" style="--pulse-height:10%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-ukraine-t-00-07-32" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07" style="--pulse-height:10%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-ukraine-t-00-11-56" style="--pulse-height:10%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29" style="--pulse-height:20%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-35" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-ukraine-t-00-39-23" style="--pulse-height:20%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00" style="--pulse-height:20%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53" style="--pulse-height:40%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-58" style="--pulse-height:10%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -78,18 +79,19 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 |---|---|---:|
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-ukraine-t-00-30-33) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-55) | 7 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-36) | 7 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-41) | 2 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-ukraine-t-00-07-32) | 10 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-ukraine-t-00-11-56) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29) | 2 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43) | 5 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-35) | 5 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15) | 5 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-ukraine-t-00-39-23) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-58) | 1 |
@@ -119,7 +121,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+<summary><strong class="section-title">Raw mentions (81)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -352,6 +354,17 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:39:23](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-ukraine-t-00-39-23)**
+> "...ut how they're coming in from Ukraine and that they're fleeing the war, okay?"
+
+**[00:40:20](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-ukraine-t-00-40-05)**
+> "...our ears peeled for how these Ukrainian quote unquote refugees are organizing."
+
+</details>
+
+<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
 
 **[00:18:15](/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15)**
@@ -390,19 +403,19 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
 
-**[00:11:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43)**
+**[00:11:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-35)**
 > "... asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine. That is ostensibly the reason. On the same day, February 24th—that's how quickly the phone call ha..."
 
-**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-12-26)**
+**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-12-19)**
 > "...ause I don't want people in Russia to be killed because I won't stop speaking about Brigitte if the Ukraine peace deal is actually at the center of this. And he says, "Okay." And then I tried to say, "I will..."
 
-**[00:13:14](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-13-11)**
+**[00:13:14](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-13-02)**
 > "...is for a while because it's no longer relevant, and I don't want Christian men to be slaughtered in Ukraine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July..."
 
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-20-57)**
 > "...here is this remarkable—and I would assume rare, I don't know, but—35 state leaders meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on Se..."
 
-**[00:21:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
+**[00:21:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-20-57)**
 > "...d assume rare, I don't know, but—35 state leaders meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on September 3rd. She also, again, like..."
 
 </details>
@@ -430,7 +443,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:11:56](/episodes/ep-LATnak75Si0.md#ent-gpe-ukraine-t-00-11-56)**
-> "... Tillson, where would you go? Yeah, I'd make my fourth trip to Israel, followed by my fifth trip to Ukraine—two of our greatest allies fighting on the front lines of the global war on terror. Mr. Mamdani? I ..."
+> "Yeah, I'd make my fourth trip to Israel, followed by my fifth trip to Ukraine—two of our greatest allies fighting on the front lines of the global war on terror."
 
 </details>
 
@@ -488,10 +501,10 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:11:14](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
+**[00:11:14](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-41)**
 > "...ving swastikas on their head, Ukrainians murdering people."
 
-**[00:38:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
+**[00:38:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-41)**
 > "...o get into this next week. I wanted to make sure that I could get more thorough and show to you the Ukrainian connections that are coming across in this that are very strange, but I guess not so strange when y..."
 
 </details>
@@ -499,16 +512,16 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (7 mentions)</summary>
 
-**[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-55)**
+**[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-36)**
 > "...o this tomorrow. But many of you guys have been sending those clues about the Azov Battalion, about Ukrainian, Russian people that were coming into Utah. There seems to be some organized movement, people that ..."
 
-**[00:19:49](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-19-30)**
+**[00:19:49](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-19-45)**
 > "...on when he's a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And that gets really interesting when I start to combine all o..."
 
-**[00:20:40](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-20-14)**
+**[00:20:40](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-20-29)**
 > "... from overseas. And it turns out that there have been... The New York Times has reported on Russian-Ukrainian spies that are building new lives for themselves with new IDs in America, in Brazil. Essentially, w..."
 
-**[00:20:54](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-20-14)**
+**[00:20:54](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-20-29)**
 > "... Essentially, what we're talking about are terrorist cells. I believe that. I believe that with the Ukrainian war, okay? And they always hack us emotionally. Oh, we need to have open borders. It allows them to..."
 
 **[00:22:30](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-22-22)**
@@ -517,7 +530,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 **[00:22:59](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-22-22)**
 > "...got the name of the individual that worked for Alex Jones who got killed, but he was similarly on a Ukrainian hit list. It's something that I think should be explored a little bit further. And like I said, we'..."
 
-**[00:50:51](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-50-23)**
+**[00:50:51](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-50-51)**
 > "... have a tip that can help us crack this mystery. I do think that we're gonna get into a Russian and Ukrainian angle here for some reason, some way, somehow. We'll see. See you guys tomorrow."
 
 </details>
@@ -533,7 +546,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:00:27](/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01)**
+**[00:00:23](/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01)**
 > "... some point. We believed that: you're my enemy, you're my enemy. It is not a battle between Russia, Ukraine. I don't care what your political issue of the day is. What is happening right now in the world, an..."
 
 </details>
@@ -589,7 +602,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ukraine (10)</strong></summary>
+<summary><strong class="section-title">Statements about Ukraine (13)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -663,6 +676,25 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 
 - [00:03:38](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) (Claim) **Candace Owens**: ["In 2014, John McCain went over to Ukraine and led the protesters in th..."](/statements/statement-2657ec89fb0f.md)
   - Also about: [John McCain](/entities/person-john-mccain.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2)</summary>
+
+- [00:11:52](/episodes/ep-sImMM04XdWY.md#t-00-11-35) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk told Candace Owens that the White House's request to stop..."](/statements/statement-7a4f086a1875.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [White House](/entities/org-white-house.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:20:57](/episodes/ep-sImMM04XdWY.md#t-00-20-57) (Claim) **Candace Owens**: ["Candace Owens said Brigitte Macron welcomed Volodymyr Zelensky in Pari..."](/statements/statement-b5f31b8b8d1f.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
+
+- [00:06:29](/episodes/ep-K1tFD7FfoCU.md#t-00-06-07) (Accusation) **Candace Owens**: ["Fox fired Tucker Carlson because he was speaking out against the war i..."](/statements/statement-39a7601bc28c.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Fox News](/entities/org-fox-news.md)
 
 </details>
 

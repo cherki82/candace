@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:39:14](/episodes/ep-WoXd4oLwd3w.md#t-00-38-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2354);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2354s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The to lie to my face in the way that she lied to my face about saying that Andrew Kolvet went rogue.
 

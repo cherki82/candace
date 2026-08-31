@@ -34,20 +34,20 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36" style="--pulse-height:29%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 7 mentions" title="2025-10-28 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-blexit-t-00-23-40" style="--pulse-height:43%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36" style="--pulse-height:17%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-04" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-blexit-t-00-23-40" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36) | 2 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31) | 7 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08) | 2 |
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31) | 6 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-04) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-blexit-t-00-23-40) | 3 |
 
 </details>
@@ -75,22 +75,19 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
+**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-04)**
 > "...A's business arrangement with Blexit.""
 
-**[00:55:39](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
+**[00:55:39](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-04)**
 > "...e a business arrangement with Blexit—but she's saying that, and it's kind of like dang..."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (7 mentions)</summary>
-
-**[00:00:03](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31)**
-> "If we can get to Kanye, I think he'll join my Blexit movement."
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (6 mentions)</summary>
 
 **[00:03:59](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31)**
-> "... Kanye, I think he'll join my Blexit movement."
+> "If we can get to Kanye (Kanye West), I think he'll join my Blexit movement."
 
 **[00:04:39](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-04-13)**
 > "He is Blexit AF.""
@@ -99,24 +96,21 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 > "We want him to be a part of Blexit."
 
 **[00:14:19](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-14-16)**
-> "... start designing the logo for Blexit that Kanye's pressure cooker got too hot."
+> "It was in October after Kanye (Kanye West) had helped me to start designing the logo for Blexit that Kanye (Kanye West)'s pressure cooker got too hot."
 
 **[00:14:26](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-14-16)**
 > "...tance from us and, of course, Blexit, and he cracked."
 
 **[00:14:38](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-14-16)**
-> "...e West distances himself from Blexit and Trump.""
+> "I mean, you guys remember this headline. I'm taking you back to 2018: "Kanye West distances himself from Blexit and Trump (Donald J. Trump).""
 
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
 
 **[00:17:05](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36)**
 > "...ght by my side when I started Blexit, obviously."
-
-**[00:17:09](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36)**
-> "Charlie was right by my side when I started Blexit"
 
 </details>
 
@@ -131,7 +125,7 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36): “Charlie was right by my side when I started Blexit, obviously.”
+- [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36): “Charlie (Charlie Kirk) was right by my side when I started Blexit, obviously.”
 
 </details>
 
@@ -143,7 +137,7 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 - **[Candace Owens](/entities/person-candace-owens.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36): “Charlie was right by my side when I started Blexit, obviously.”
+- [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36): “Charlie (Charlie Kirk) was right by my side when I started Blexit, obviously.”
 
 </details>
 
@@ -176,7 +170,7 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
-- [00:17:09](/episodes/ep-_dRaEO47-co.md#t-00-16-36) (Claim) **Candace Owens**: ["Charlie Kirk was present when Candace Owens started Blexit"](/statements/statement-aff0ffe95d14.md)
+- [00:17:00](/episodes/ep-_dRaEO47-co.md#t-00-16-36) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk stood beside her when she started BLEX..."](/statements/statement-afe0db1c5ad6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

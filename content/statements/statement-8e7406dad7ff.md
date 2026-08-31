@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:34:02](/episodes/ep-YeEtS7nix3o.md#t-00-33-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2042);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=2042s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's no one that funds me as I've always told you and that is why they are constantly attacking me is because they've already figured out that I can't be controlled by money.
 

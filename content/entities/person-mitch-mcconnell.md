@@ -3,9 +3,18 @@ title: "Mitch McConnell"
 description: "Mitch McConnell (People) - 1 mention"
 id: "person-mitch-mcconnell"
 type: "PERSON"
+categories:
+  - "United States politics"
+  - "U.S. Senate"
 ---
 
 _Type: People_
+
+**Categories:** United States politics, U.S. Senate
+
+**Entity verification:** verified
+> Official Senate biography confirms the canonical name Mitch McConnell and his service as U.S. Senator for Kentucky.
+Source: [Biography - U.S. Senator Mitch McConnell](https://www.mcconnell.senate.gov/public/index.cfm/biography)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-mitch-mcconnell-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>

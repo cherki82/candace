@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:03:01](/episodes/ep-YeEtS7nix3o.md#t-01-02-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3781);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3781s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they said that he was being pressured and they wanted to get more of a response. And I want to be clear, I have asked people who were there who are fans of Erika whether they remember this and they say no, they say no. ... They believe that this clip has been doctored from different points at the event.
 

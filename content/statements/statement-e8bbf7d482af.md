@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -34,7 +34,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1837);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1837s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Please be advised that unusual circumstances apply to the processing of your request. And then we go back to here are what we can deem to be unusual circumstances.
 
@@ -42,7 +42,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2991);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=2991s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You would be unable to make the determination within the 20 days, right? You're denying my right 20 days because we fall into this unusual circumstance, which you're citing as in your circumstance that the request is too burdensome, that it would take, you'd have to coordinate across various departments and speak to other people and perhaps get permission.
 

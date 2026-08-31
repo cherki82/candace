@@ -32,7 +32,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14" style="--pulse-height:30%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51" style="--pulse-height:40%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-44" style="--pulse-height:40%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13" style="--pulse-height:70%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14) | 3 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51) | 4 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-44) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13) | 7 |
@@ -203,16 +203,16 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
 
-**[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51)**
+**[00:27:44](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-44)**
 > "And then it immediately departed for Santa Barbara, landed into Santa Barbara and immediately departed for Scottsdale"
 
-**[00:29:13](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-09)**
+**[00:29:13](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-05)**
 > "...ave here is one that departed Santa Barbara at 2:19 p.m. local."
 
-**[00:29:34](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-09)**
+**[00:29:31](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-05)**
 > "That person is just leaving Santa Barbara."
 
-**[00:29:39](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-09)**
+**[00:29:38](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-05)**
 > "... from Arizona and potentially Santa Barbara."
 
 </details>
@@ -226,7 +226,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 **[00:26:49](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14)**
 > "...body up, and then it departed Santa Barbara at 11:37 a.m. for Scottsdale, landing at 12:44 p...."
 
-**[00:26:59](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
+**[00:26:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
 > "It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at 10:06 a.m. It then immediately turned around and departed for Santa Barbara."
 
 </details>

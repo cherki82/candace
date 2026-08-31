@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:45:38](/episodes/ep-a-e7HC6SeK8.md#t-00-45-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2738);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=2738s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I feel that we are headed toward war—that they want war by any means necessary—and that you need to be—wherever you are in the world—fully dialed into that.
 

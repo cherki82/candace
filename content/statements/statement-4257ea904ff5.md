@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:14:44](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(884);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) and Erica (Erika Kirk) were partners. They were husband and wife in a deep way. Their marriage was incredibly admirable. I've seen a lot of marriages. Some of them are good. Some of them are bad. Charlie (Charlie Kirk) and Erica (Erika Kirk)'s was exceptional.
 

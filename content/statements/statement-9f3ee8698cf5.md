@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:46:42](/episodes/ep-iHav0PPzUz8.md#t-00-46-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2802);return false;">Play</a>
+**Timestamp:** [00:46:42](/episodes/ep-iHav0PPzUz8.md#t-00-46-40) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2802s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A billionaire class of Jewish supremacists are now flagrantly using money as a blackmail weapon to silence not just criticism of Jews, but silence criticism of an ongoing genocide.
 

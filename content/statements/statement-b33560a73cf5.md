@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:20:20](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1220);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1220s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And what I can tell you is we also received a tip from somebody within Turning Point USA that the night before he died, I know for a fact he messaged a donor and he messaged somebody at Turning Point USA But I did not know, and this is what...
 

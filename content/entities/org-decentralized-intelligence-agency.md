@@ -1,6 +1,6 @@
 ---
 title: "The Decentralized Intelligence Agency"
-description: "The Decentralized Intelligence Agency (Organizations) - 12 mentions"
+description: "The Decentralized Intelligence Agency (Organizations) - 11 mentions"
 id: "org-decentralized-intelligence-agency"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-decentralized-intelligence-agency-t-01-08-31">2025-09-15 · 01:08:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34">2026-08-04 · 00:53:34</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,13 +33,13 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-43">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-42">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-decentralized-intelligence-agency-t-01-08-31" style="--pulse-height:33%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-decentralized-intelligence-agency-t-00-58-37" style="--pulse-height:33%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10" style="--pulse-height:67%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-43" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-18" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-11" style="--pulse-height:33%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-42" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-02" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-decentralized-intelligence-agency-t-00-02-47" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-decentralized-intelligence-agency-t-00-49-32" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
@@ -51,9 +51,9 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-decentralized-intelligence-agency-t-01-08-31) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-decentralized-intelligence-agency-t-00-58-37) | 1 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10) | 2 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-43) | 3 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-18) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-11) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-42) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-02) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-decentralized-intelligence-agency-t-00-02-47) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-decentralized-intelligence-agency-t-00-49-32) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40) | 1 |
@@ -65,7 +65,7 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -102,7 +102,7 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:14:18](/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-18)**
+**[00:14:18](/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-02)**
 > "... like to term it—it means you're onto something. Anyways, I was going through the DCIA tips box—our decentralized intelligence agency tips box—and I found a very interesting email. I'm gonna be very careful here to make sure I don't ..."
 
 </details>
@@ -110,25 +110,22 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (3 mentions)</summary>
 
-**[00:28:43](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-43)**
+**[00:28:42](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-00-28-42)**
 > "... have no right to get clicks. No, please get clicks. Explain to us what it is that you know in this decentralized intelligence agency, given the information that I am telling you, okay, that it had— unless we have a bullet that's doi..."
 
-**[01:05:42](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-01-05-21)**
+**[01:05:42](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-01-05-14)**
 > "...least of all when it hasn't been solved. So if you'd like to support us, obviously you can join our decentralized intelligence agency. It is truly because people around the world are sensing how evil this was and how corrupt it is th..."
 
-**[01:05:58](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-01-05-21)**
+**[01:05:57](/episodes/ep-pc3pxRyNFZk.md#ent-org-decentralized-intelligence-agency-t-01-05-57)**
 > "...mation where they can. We will always protect you. Buy yourself a hat; buy yourself a t-shirt; join the Decentralized Intelligence Agency. And we are—I feel optimistic, you guys—we are going to solve this thing. So I'll see you in a bit."
 
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
+**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-11)**
 > "... line. This is the Candace Intelligence Agency. Some people think that it actually says, like, CIA. The Decentralized Intelligence Agency. The Decentralized Intelligence Agency."
-
-**[00:52:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
-> "... Agency. Some people think that it actually says, like, CIA. The Decentralized Intelligence Agency. The Decentralized Intelligence Agency."
 
 </details>
 

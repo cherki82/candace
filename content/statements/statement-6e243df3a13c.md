@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:15:07](/episodes/ep-N4uM8Jdr410.md#t-00-14-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(907);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=907s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But let's check that out. Because I think it's much more likely. That rooftop man was just a decoy who never fired any gun. He was tasked with sprinting away at the right time.
 

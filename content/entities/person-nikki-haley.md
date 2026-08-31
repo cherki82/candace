@@ -5,15 +5,24 @@ id: "person-nikki-haley"
 type: "PERSON"
 aliases:
   - "Nikki"
+categories:
+  - "United States politics"
+  - "diplomat"
 ---
 
 _Type: People_
 
 **Also known as:** Nikki
 
+**Categories:** United States politics, diplomat
+
+**Entity verification:** verified
+> United Nations authority record confirms the canonical name Nikki Haley and her ambassadorial role.
+Source: [Haley, Nikki | United Nations Digital Library](https://digitallibrary.un.org/record/1320743)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-10">2025-09-25 · 00:42:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-10">2025-09-25 · 00:42:20</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-08">2025-09-25 · 00:41:57</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-08">2025-09-25 · 00:42:08</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -24,15 +33,15 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-10">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-08">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-10" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-08" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-10) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-08) | 2 |
 
 </details>
 </section>
@@ -45,10 +54,10 @@ _Type: People_
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:42:00](/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-10)**
+**[00:41:57](/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-08)**
 > "like Nikki Haley signing bombs, people going over there to sign bombs that are going to be dropped and killing children"
 
-**[00:42:20](/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-10)**
+**[00:42:08](/episodes/ep-K5GjF53bfN4.md#ent-person-nikki-haley-t-00-42-08)**
 > "like Nikki Haley signing bombs, people going over there to sign bo..."
 
 </details>

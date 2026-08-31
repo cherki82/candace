@@ -6,6 +6,11 @@ date: "2018"
 ---
 
 **Date:** 2018
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “back in 2018”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2018"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:26:38](/episodes/ep-A39g5oqB_eM.md#event-event-2018-charlie-kirk-told-candace-owens-that-he--t-00-26-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1598);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1598s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he knew from the moment that he began Turning Point USA that he was going to die young.
 
@@ -25,7 +30,7 @@ date: "2018"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:02:38](/episodes/ep-eMtjzXkQrsU.md#event-event-2018-charlie-kirk-told-candace-owens-that-he--t-00-02-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(158);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in 2018 when the dreams would not stop for him and he was telling me about this premonition
 
@@ -33,7 +38,7 @@ date: "2018"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:41:44](/episodes/ep-_cNtgris8Ik.md#event-event-2018-charlie-kirk-told-candace-owens-that-he--t-00-41-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2504);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2504s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in 2018, Charlie foresaw that he was going to die young and that I was going to carry on the torch
 
@@ -41,6 +46,6 @@ date: "2018"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:23:58](/episodes/ep-wcD2khO3rOA.md#event-event-2018-charlie-kirk-told-candace-owens-that-he--t-01-23-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5038);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=5038s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie was going through in 2018 when he was having visions that he was going to die.

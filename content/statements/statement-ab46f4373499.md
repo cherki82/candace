@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:27:34](/episodes/ep-Cq7nj9rxPdo.md#t-00-27-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1654);return false;">Play</a>
+**Timestamp:** [00:16:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-16-27) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1014s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Why doesn't she go on like CNN or Fox News?"
+> and everyone's like, "Why'd you get engaged after 18 days?"
 
 ## Verification
 

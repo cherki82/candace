@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:01:45](/episodes/ep-Wjul6YV6izo.md#t-00-01-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(105);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=105s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was told that actually by Erika, they hired a crisis PR team because, you know, Andrew had made all those mistakes.
 

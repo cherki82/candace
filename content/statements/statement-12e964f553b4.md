@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:05:12](/episodes/ep-4JxgOclKzqg.md#t-00-04-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(312);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, on the very day of the assassination, Terrell (Terrell Farnsworth) apparently did know how to send footage and he chose to do that via. A Google link. He used the very company that he would then tell me eight days later he was afraid was going to hack him. That makes Terrell (Terrell Farnsworth) a liar.
 

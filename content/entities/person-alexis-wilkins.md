@@ -1,6 +1,6 @@
 ---
 title: "Alexis Wilkins"
-description: "Alexis Wilkins (People) - 11 mentions"
+description: "Alexis Wilkins (People) - 16 mentions"
 id: "person-alexis-wilkins"
 type: "PERSON"
 aliases:
@@ -21,10 +21,10 @@ _Type: People_
 Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29">2025-11-12 · 00:38:29</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-36-34">2025-11-03 · 00:36:43</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-alexis-wilkins-t-00-27-40">2026-05-07 · 00:28:07</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
@@ -33,10 +33,11 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexis-wilkins-t-00-29-10">Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-36-34">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-36-34" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-37-58" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-alexis-wilkins-t-00-32-20" style="--pulse-height:25%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-alexis-wilkins-t-01-04-28" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexis-wilkins-t-00-29-10" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
@@ -47,8 +48,9 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29) | 2 |
-| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-36-34) | 4 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-37-58) | 2 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-alexis-wilkins-t-00-32-20) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-alexis-wilkins-t-01-04-28) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexis-wilkins-t-00-29-10) | 4 |
@@ -61,7 +63,7 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
@@ -113,21 +115,41 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:45:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19)**
 > "...d—just loves him for him and was in the right place at the right time. By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hi..."
+
+**[00:45:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19)**
+> "I actually don't believe—don't accept that Alex Wilkins—who comes from a family of Freemasons and who's got a spotty background—nobody knows what she was doing in Switzerland—just loves him for him and was in the right place at the right time."
 
 </details>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
-**[00:38:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29)**
+**[00:38:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-37-58)**
 > "...emy officials. Now, in response to the comments on that same day, Elijah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel. So this is what they're suing over, right here on the internet. LOL. El..."
 
-**[00:42:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-42-13)**
+**[00:42:36](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-42-02)**
 > "... People just being insulting. I wake up. I'm called the N-word. Big deal. The internet is optional, Alexis Wilkins. It's optional, Kash Patel. This lawsuit is pathetic. You should be forced to step aside, but you k..."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+
+**[00:36:43](/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-36-34)**
+> "...ating this cute little thing, Alexis (Alexis)."
+
+**[00:37:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-37-08)**
+> "...rip to go see his girlfriend, Alexis (Alexis)."
+
+**[00:38:42](/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-38-33)**
+> "...ngly baseless attacks against Alexis (Alexis)—a true patriot and the woman I'm proud t..."
+
+**[00:39:45](/episodes/ep-K1tFD7FfoCU.md#ent-person-alexis-wilkins-t-00-39-19)**
+> "Objectively, Alexis (Alexis)—she seems like she's a really sweet girl..."
 
 </details>
 
@@ -163,10 +185,10 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 <details>
 <summary>Formerly Worked For (1)</summary>
 
-- **[IDF](/entities/org-idf.md)**
+- **[Israel Defense Forces](/entities/org-israel-defense-forces.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she's formerly of the IDF Intelligence Unit”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she's formerly of the IDF Intelligence Unit”
 
 </details>
 
@@ -190,7 +212,7 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 - **[Elijah Schaffer](/entities/person-elijah-schaffer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-37-04): “his girlfriend turns out is suing Elijah Schaffer”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-36-45): “his girlfriend turns out is suing Elijah Schaffer”
 
 </details>
 
@@ -202,14 +224,14 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 - **[Marissa Streit](/entities/person-marissa-streit.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
 - **[PragerU](/entities/org-prageru.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
@@ -233,31 +255,33 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 </details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** dating this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Myron Gaines x Candace Owens @ 01:04:28](/episodes/ep-2T39-oADLj0.md#t-01-04-28): “I think that's way more important is trusting Alexis Wilkins is a sensational singer and to people. uh okay ... talk right now and it's embarrassing it is so embarrassing he should have been forced to resign trump should have made him resign for embarrassing us because uh there's no way putin's not laughing with his homies right now about that tweet my girlfriend my life partner we are”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:03](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “The fact that she filed this lawsuit, of course, means that she did this with the blessing of her quote-unquote life partner, Kash Patel.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:36:40](/episodes/ep-K1tFD7FfoCU.md#t-00-36-34): “So the backstory is Kash Patel— ... He starts dating this cute little thing, Alexis (Alexis).”
 
 </details>
 
 - **[Marissa Streit](/entities/person-marissa-streit.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
 - **[PragerU](/entities/org-prageru.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
-- **[IDF](/entities/org-idf.md)** formerly employed this
+- **[Israel Defense Forces](/entities/org-israel-defense-forces.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she's formerly of the IDF Intelligence Unit”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she's formerly of the IDF Intelligence Unit”
 
 </details>
 
@@ -271,7 +295,7 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 - **[Elijah Schaffer](/entities/person-elijah-schaffer.md)** sued by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-37-04): “his girlfriend turns out is suing Elijah Schaffer”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-36-45): “his girlfriend turns out is suing Elijah Schaffer”
 
 </details>
 

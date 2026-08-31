@@ -3,9 +3,17 @@ title: "Ami Kozak"
 description: "Ami Kozak (People) - 1 mention"
 id: "person-ami-kozak"
 type: "PERSON"
+categories:
+  - "comedy and political commentary"
 ---
 
 _Type: People_
+
+**Categories:** comedy and political commentary
+
+**Entity verification:** verified
+> The EastVille Comedy Club biography confirms the canonical name Ami Kozak and his public role as a comedian, musician, and impressionist, matching the named guest discussed in the source.
+Source: [Ami Kozak — EastVille Comedy Club](https://www.eastvillecomedy.com/comedians/ami-kozak)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-ami-kozak-t-00-32-41">2025-09-22 · 00:32:42</a></strong></div>

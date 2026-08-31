@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:31:34](/episodes/ep-mKXdKV-OBog.md#t-00-30-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1894);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Are you shocked if I tell you that Ashley Rindsberg—he happens to live in Tel Aviv? He just cannot make it up. Like, just write your articles.
 

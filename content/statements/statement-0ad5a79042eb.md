@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:00:37](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(37);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=37s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was he right about blackballing people who are opposed to a specific agenda.
 

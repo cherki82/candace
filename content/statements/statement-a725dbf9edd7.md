@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:19:41](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1181);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1181s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > with Colonel Otto Buescher. And Colonel Otto Buescher was the person who was accused of doing this, like setting up this base and just trafficking children through it. Okay.
 

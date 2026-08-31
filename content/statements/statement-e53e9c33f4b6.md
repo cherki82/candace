@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:29:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-29-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1795);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1795s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) was changing. ... and obviously i release text messages they've left me no choice but to abandon the pro-israel cause
 

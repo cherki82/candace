@@ -17,6 +17,8 @@ _Type: Anonymous Sources_
 
 **Categories:** social media account, Protecting Mrs. Kirk group chat participant, identity unverified
 
+> **Possibly overlapping entity records:** [Nathan Livingstone](/entities/person-nathan-livingstone). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Transcript directly names Milk Bar TV among members of the Protecting Mrs. Kirk group chat; legal identity is not established.
 Source: [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)

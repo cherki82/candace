@@ -5,11 +5,20 @@ id: "person-francois-mitterrand"
 type: "PERSON"
 aliases:
   - "Mitterrand"
+categories:
+  - "France"
+  - "former head of state"
 ---
 
 _Type: People_
 
 **Also known as:** Mitterrand
+
+**Categories:** France, former head of state
+
+**Entity verification:** verified
+> The Élysée presidential biography confirms the canonical spelling François Mitterrand and his service as president from 1981 to 1995.
+Source: [Élysée — François Mitterrand](https://www.elysee.fr/francois-mitterrand)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-francois-mitterrand-t-00-14-48">2025-12-08 · 00:15:25</a></strong></div>
@@ -17,7 +26,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,7 +61,7 @@ _Type: People_
 > "...his colleague Jean-Christophe Mitterrand, the son of the former French president, and a Ru..."
 
 **[00:17:08](/episodes/ep-Kmt6HgRjckU.md#ent-person-francois-mitterrand-t-00-16-50)**
-> "...ng on the special access that Mitterrand had to the Angolan government managed to transfer..."
+> "With Western oil companies. Falcone and Gaydamak, relying on the special access that Mitterrand had to the Angolan government, managed to transfer some $463 million in arms to Angola."
 
 </details>
 
@@ -82,22 +91,6 @@ _Type: People_
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13): “his colleague Jean-Christophe Mitterrand, the son of the former French president”
 
 </details>
-
-</details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about François Mitterrand (2)</strong></summary>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
-
-- [00:15:25](/episodes/ep-Kmt6HgRjckU.md#t-00-14-48) (Claim) **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the..."](/statements/statement-4feac2591c94.md)
-  - Also about: [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angolagate scandal](/entities/event-angola-gate.md)
-
-- [00:16:49](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) (Claim) **Candace Owens**: ["Jean-Christophe Mitterrand, son of French President François Mitterran..."](/statements/statement-72b6f48a1049.md)
-  - Also about: [Angolagate scandal](/entities/event-angola-gate.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)
 
 </details>
 

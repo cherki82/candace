@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:32:20](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1940);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1940s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they are extremely close to Tyler (Tyler Bowyer). In fact, Eddie (Eddie Farnsworth) has actually been sued in the past with Tyler (Tyler Bowyer). They're on the same side. They are being sued together.
 

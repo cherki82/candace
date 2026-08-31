@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:18:19](/episodes/ep-tXoI0TTKVrs.md#t-00-17-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1099);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1099s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and that that is doctored, said that they similarly thought the same thing. Charlie (Charlie Kirk), you're one guy. That's why they had this secondary dinner with him after this and spoke to him about it. ... And Charlie (Charlie Kirk) never once said anything about Erika (Erika Kirk) to them, about his plans. He simply reiterated that the board would figure it out.
 

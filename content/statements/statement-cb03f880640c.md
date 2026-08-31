@@ -30,8 +30,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:21:45](/episodes/ep-gG4ZoYUjUc8.md#t-00-21-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1305);return false;">Play</a>
+**Timestamp:** [00:21:45](/episodes/ep-gG4ZoYUjUc8.md#t-00-21-22) 
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1305s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this is a fun tweet that somebody pulled up from Tyler Bowyer, the former COO. He wrote this September 25th, 2018. He wrote, we do have a team. We can only do as much as police on campus will allow and also working with police or private security in a given venue. We run everything like a military op. All of our people are from that background.
 

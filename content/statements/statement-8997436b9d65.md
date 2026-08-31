@@ -18,13 +18,16 @@ veracity: "mixed"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:03:27](/episodes/ep-LATnak75Si0.md#t-00-02-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(207);return false;">Play</a>
+**Timestamp:** [00:03:27](/episodes/ep-LATnak75Si0.md#t-00-03-14) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=207s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) and I went on tour in April of 2024 together
 

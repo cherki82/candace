@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(815);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=815s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Next, we have Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.
 
@@ -41,7 +41,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1973);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1973s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which is why she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour, okay? ... And yeah, they're partnering with the Harvest Church to do this. ... Here's an article which tells us that Greg Laurie, there's been a number of lawsuits filed against Harvest Christian Fellowship. The founder, Greg Laurie, and also the churches related to alleged abuse of young men at a children's home in Romania. OK, there's now there's 12 lawsuits, actually. The original lawsuit was filed in September by two men. Claiming that Paul Havsgaard, he is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California. ... they're alleging that he abused them at a children's shelter in Bucharest, Romania. The allegations include children being tied. to radiators, being made to kneel down on walnut shells, being touched inappropriately, and being pimped out for sex.
 

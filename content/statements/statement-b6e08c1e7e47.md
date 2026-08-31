@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:46:02](/episodes/ep-amqTMimDr0A.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2762);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2762s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She did release a book. February of 2024, a short time after, it was her story of love lost and embracing the light. And once again, she told the public that he was secretly struggling with addiction and past sexual abuse from a male figure in his life. ... Now, members of Twitch (Stephen "tWitch" Boss)'s family said that they were blindsided by the claims that she made, and she also released a children's book that she said that she co-authored with Twitch (Stephen "tWitch" Boss) just before he died, and that was called Keep Dancing Through, Boss Family Groove.
 

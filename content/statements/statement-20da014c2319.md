@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:37:47](/episodes/ep-ti5Fxrvegno.md#t-00-37-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2267);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=2267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He says he can't speak about it. This looks to me like a private investigation. An investigator—like Turning Point USA has sent private investigators to gather information on their employees. We aren't sure. I certainly tweeted at Andrew Kolvet for a statement on this. That is not what happens when they serve documents. I'm a bit of an expert on that. They just give you the documents. There were no documents in his hand. He delivered nothing to him, and he was just taking photos of their home and their car. Terrifying, of course.
 

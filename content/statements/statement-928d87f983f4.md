@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:16:23](/episodes/ep-i8m_6D4QGmk.md#t-00-15-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(983);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=983s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But their hope is, even in the revealing, that you don't know. There's a sadistic delight they get out of basically putting it to you without you even knowing it.
 

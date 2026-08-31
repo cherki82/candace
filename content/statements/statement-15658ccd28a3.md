@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:46:02](/episodes/ep-3QJqtW_NOSI.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2762);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2762s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, I can tell you he trusted the people that were around him. ... And so, if she's saying to him, lean more into faith, and he wants to make his wife happy, and he lets her get involved in the faith department as he did, and she's bringing in all these ... And all these pastors, why would he be suspicious of that? ... It just takes trusting the wrong people. And Charlie (Charlie Kirk) was definitely naive in those ways.
 

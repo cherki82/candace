@@ -6,6 +6,11 @@ date: "2023-11-15"
 ---
 
 **Date:** 2023-11-15
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “November 15th, 2023”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2023-11-15"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:09:58](/episodes/ep-amqTMimDr0A.md#event-event-2023-11-15-charlie-kirk-and-candace-owens-exchange--t-00-09-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(598);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=598s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This one dated November 15th, 2023 when Ben Shapiro began his attacks against me
 
@@ -25,6 +30,6 @@ date: "2023-11-15"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:08:05](/episodes/ep-HZvwbfePe7o.md#event-event-2023-11-15-charlie-kirk-and-candace-owens-exchange--t-00-07-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(485);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=485s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The text released from November 2023 was within 22 months of Kirk’s death on September 10.

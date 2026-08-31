@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:15:50](/episodes/ep-wcD2khO3rOA.md#t-01-15-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4550);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4550s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they infiltrated Christian organizations and we are, we've been under the spell of a psychological operation... these people are not pastors these people are soldiers
 

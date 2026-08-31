@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:43:41](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2621);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2621s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I asked him, I was like, can you confirm that you actually saw him take the shot? Because literally he's recording him at 1223, right? He said, no, I didn't see him take the shot. I never saw any recoil.
 

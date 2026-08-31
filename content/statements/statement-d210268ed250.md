@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:26:41](/episodes/ep-9CuC1yf8-PU.md#t-00-26-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1601);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1601s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Plan to represent Erika (Erika Kirk), she is the listed victim on this case, and they plan to present at that time a recorded statement from Lance Twigs at the preliminary hearing. So essentially, Lance Twigs is allowed to testify against Tyler Robinson in the form of a recorded statement. Robinson's team therefore argued that they should be allowed to have the opportunity to cross-examine him. Otherwise, this is hearsay.
 

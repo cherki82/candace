@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:04:30](/episodes/ep-1CFDtD0IgEg.md#t-00-03-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(270);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=270s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Deuteronomy 19 in the Old Testament economy says if you accuse somebody falsely of a crime and you're found out, you get the penalty of that crime.
 

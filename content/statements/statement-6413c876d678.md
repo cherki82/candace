@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:54:12](/episodes/ep-EtLHqDbxqks.md#t-00-53-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3252);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=3252s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's not minute. That was a crucial detail in which somebody's going to have to explain. Somebody's going to have to explain why Lance Twiggs is not being considered a suspect. When his DNA is on everything, more of his DNA than Tyler (Tyler Robinson)'s on the gun, that requires a logical explanation, not a unit of influencers that are taking money, trying to convince us of the opposite.
 

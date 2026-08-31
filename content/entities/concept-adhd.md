@@ -1,6 +1,6 @@
 ---
 title: "Attention-deficit/hyperactivity disorder"
-description: "Attention-deficit/hyperactivity disorder (Concepts) - 4 mentions"
+description: "Attention-deficit/hyperactivity disorder (Concepts) - 7 mentions"
 id: "concept-adhd"
 type: "CONCEPT"
 aliases:
@@ -20,10 +20,10 @@ _Type: Concepts_
 Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-concept-adhd-t-00-02-14">2025-12-03 · 00:02:14</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-adhd-t-00-01-30">2025-10-29 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13">2026-04-10 · 00:46:44</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,9 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-adhd-t-00-01-30" style="--pulse-height:50%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-adhd-t-01-00-28" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-adhd-t-00-48-52" style="--pulse-height:50%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-adhd-t-00-02-14" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
@@ -42,6 +45,9 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-adhd-t-00-01-30) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-adhd-t-01-00-28) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-adhd-t-00-48-52) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-adhd-t-00-02-14) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13) | 1 |
@@ -52,7 +58,7 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -78,6 +84,30 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 
 **[00:02:14](/episodes/ep-his-JBjlkh8.md#ent-concept-adhd-t-00-02-14)**
 > "...in this tremendous culture of ADHD and everyone's constantly being distracted by the..."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:49:00](/episodes/ep-581dILVcEE4.md#ent-concept-adhd-t-00-48-52)**
+> "...ad successfully fostered this ADHD culture where people are just unable to pay atten..."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+
+**[01:01:00](/episodes/ep-LATnak75Si0.md#ent-concept-adhd-t-01-00-28)**
+> "They want us to be ADHD about this. They want us to move on and start talking about the Mamdani race."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:01:48](/episodes/ep-Qt0VHV-POCg.md#ent-concept-adhd-t-00-01-30)**
+> "ADHD"
 
 </details>
 

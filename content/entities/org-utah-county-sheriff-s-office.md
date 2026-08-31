@@ -1,6 +1,6 @@
 ---
 title: "Utah County Sheriff's Office"
-description: "Utah County Sheriff's Office (Organizations) - 5 mentions"
+description: "Utah County Sheriff's Office (Organizations) - 4 mentions"
 id: "org-utah-county-sheriff-s-office"
 type: "ORG"
 categories:
@@ -20,7 +20,7 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57">2025-09-17 · 00:28:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37">2026-08-06 · 00:01:50</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -29,18 +29,18 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57">Who Ordered The Hit On Charlie Kirk? | Candace Ep 237</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57">Who Ordered The Hit On Charlie Kirk? | Candace Ep 237</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-utah-county-sheriff-s-office-t-00-40-25" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#t-00-38-00" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-utah-county-sheriff-s-office-t-00-40-25" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#t-00-38-00" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57) | 2 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-utah-county-sheriff-s-office-t-00-40-25) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-38-00) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37) | 1 |
@@ -51,7 +51,7 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -78,12 +78,9 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
 **[00:28:17](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57)**
-> "...nformation was relayed to the Utah County Sheriff's Office and scene investigators at Utah Valley University..."
-
-**[00:28:24](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57)**
 > "This information was relayed to the Utah County Sheriff's Office and scene investigators at Utah Valley University."
 
 </details>

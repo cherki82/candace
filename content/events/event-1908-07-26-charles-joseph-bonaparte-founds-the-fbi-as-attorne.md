@@ -6,25 +6,22 @@ date: "1908-07-26"
 ---
 
 **Date:** 1908-07-26
+**Date precision:** Day
+
+## Date Record
+
+**Normalization note:** FBI states that Bonaparte appointed the DOJ investigative force on July 26, 1908; transcript supports the founding occurrence.
+
+**Date source:** [https://www.fbi.gov/about/faqs/when-was-the-fbi-founded](https://www.fbi.gov/about/faqs/when-was-the-fbi-founded)
 
 ## Event
 
 > Charles Joseph Bonaparte founds the FBI as Attorney General.
 
-## Mentioned In (2 times)
-
-### 1. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+## Mentioned In
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:04:29](/episodes/ep-a-e7HC6SeK8.md#event-event-1908-07-26-charles-joseph-bonaparte-founds-the-fbi-as-attorne-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(269);return false;">▶️ Play</a>
+**Timestamp:** [00:04:29](/episodes/ep-a-e7HC6SeK8.md#event-event-1908-07-26-charles-joseph-bonaparte-founds-the-fbi-as-attorne-t-00-04-18) 
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> to say, did you know that our FBI was founded by Charles Joseph Bonaparte? I had no idea. I hate to be American ignorant, but I had no idea. And yes, that man was the founder. And yes, that is like N
-
-### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:01:08](/episodes/ep-a-e7HC6SeK8.md#event-event-1908-07-26-charles-joseph-bonaparte-founds-the-fbi-as-attorne-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(68);return false;">▶️ Play</a>
-
-> s actually a riddle that we're all familiar with. What came
+> All of this to say, did you know that our FBI was founded by Charles Joseph Bonaparte?

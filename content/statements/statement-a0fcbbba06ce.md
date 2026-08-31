@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(776);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=776s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But we have a great board and God forbid if something happens, they'll figure it out. I appoint my wife to run Turning Point USA if something happens to me. ... Erika would do a great job.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:00:01](/episodes/ep-FFQ9675oqRI.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we've requested to see the footage of Charlie Kirk naming his wife Erika Kirk as the chairman and CEO in the event that anything happens to him. Quote, I appoint my wife, Erika Kirk, right?
 

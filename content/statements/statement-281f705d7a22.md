@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:24:40](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1480);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And his dad, who's an exec at Bank of America. In fact, Tyler Bowyer's first job was at Bank of America.
 

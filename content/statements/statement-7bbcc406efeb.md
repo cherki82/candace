@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:25:39](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1539);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=1539s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I went back on Wayback Machine, ... saved screenshots. ... There was no RV show that was on the calendar for this Cardinal Stadium.
 

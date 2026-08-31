@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:05:37](/episodes/ep-SKNJPul29zU.md#t-00-05-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(337);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=337s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > saying a statement like Brian Mast did about the Palestinians, there's no such thing as an innocent Palestinian, which is what I was tweeting about in particular.
 

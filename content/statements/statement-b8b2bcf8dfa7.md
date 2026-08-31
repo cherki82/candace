@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:11:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(681);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I said, I want you to have a good night's sleep, go ahead and sleep in her room. And I'll turn the air down so it's nice and cozy in there and I just want you to get a good night's sleep so you can be amazing tomorrow.
 

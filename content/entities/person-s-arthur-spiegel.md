@@ -75,7 +75,7 @@ _No relationships extracted yet._
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
 
 - [00:11:29](/episodes/ep-cZxHqYsWRYg.md#t-00-11-21) (Citation) **Candace Owens**: ["Tony Erpenbeck tried from federal prison to hire someone to murder a f..."](/statements/statement-a44cdfdbb3f2.md)
-  - Also about: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [Kathleen Brinkman](/entities/person-kathleen-brinkman.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [Kathleen Brinkman](/entities/person-kathleen-brinkman.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:15:27](/episodes/ep-rupRLXmSndU.md#t-00-15-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(927);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=927s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So when were these massive $7.5 million worth of contracts on a company who had not had Much more than one single contract of any value in the previous four or five years. ... Up June 1 and June 16 of 2025.
 

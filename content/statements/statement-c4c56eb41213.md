@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:28:03](/episodes/ep-nPhCKwJ6ye8.md#t-01-27-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5283);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=5283s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They asked for an extension. That reading through those filings of why they were requesting an extension. and why I actually believe their extension should have been granted because they did not receive discovery on their text messages.
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:57:10](/episodes/ep-aPOyk1i2LOc.md#t-00-57-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3430);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=3430s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they asked for an extension that that reading through those filings of why they were requesting an extension extension And why I actually believe their extension should have been granted because they did not receive discovery on their text messages.
 

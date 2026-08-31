@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Manson murders, ... the 60s, all of that was our government, ... CIA gone wild after the assassination of JFK.
 

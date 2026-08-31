@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:51:41](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=3101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If this really does become one world government, and I do believe that that is the explicit aim.
 

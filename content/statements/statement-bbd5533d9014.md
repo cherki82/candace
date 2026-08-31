@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:51:24](/episodes/ep-_cNtgris8Ik.md#t-00-51-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3084);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3084s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, I specifically asked you, who is they? And you said, I don't know. You were the one who told me about that chat that Charlie saying I'm abandoning the pro-Israel cause.
 

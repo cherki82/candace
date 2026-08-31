@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:02:31](/episodes/ep-1mYNOqzAdXs.md#t-00-02-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(151);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the u.s secret service determined there were no credible threats to tuesday's turning point usa rally at the university of georgia even as a planned co-appearance by Erika Kirk was canceled over unspecified security concerns. A person familiar with the matter tells CBS News, according to the source, that the site was secure and there were no known threats to the protectee.
 

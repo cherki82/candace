@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:25:20](/episodes/ep-NIEbqsLAK8g.md#t-00-25-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1520);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1520s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > number one, I went to UVU and I actually put the drone up. We were going to do the survey. Immediately, we were, law enforcement came up and said, hey, look, we need you to take down that drone. Now, my drone pilot had already taken all the necessary steps with the FAA to make sure that we could do that. And I explained to the law enforcement officer, hey, look, you guys don't control this airspace. But he's like, well, we got policies. You have to do this. And we're not going to sit there and argue with them, right? So we ended up grounding the drone. We went and jumped through some hoops. We were trying to get some documents done. Long story short, what we ended up having to do was leave campus. We flew the drone. We were off campus. We flew the drone. We got the survey.
 

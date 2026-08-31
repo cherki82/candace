@@ -5,11 +5,19 @@ id: "person-richard-m-aronson"
 type: "PERSON"
 aliases:
   - "Commissioner Richard M. Aronson"
+categories:
+  - "Orange County court commissioner"
 ---
 
 _Type: People_
 
 **Also known as:** Commissioner Richard M. Aronson
+
+**Categories:** Orange County court commissioner
+
+**Entity verification:** verified
+> Los Angeles Times sentencing coverage identifies Orange County Superior Court Commissioner Richard M. Aronson.
+Source: [Los Angeles Times: Child Molester Draws an 8-Year Term in Prison](https://www.latimes.com/archives/la-xpm-1995-10-07-me-54219-story.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-richard-m-aronson-t-00-09-14">2025-11-13 · 00:09:49</a></strong></div>

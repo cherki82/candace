@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:28:44](/episodes/ep-IqHsl7d2dos.md#t-00-28-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1724);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1724s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We think you did it. We think Charlie Kirk was taken out because a global trafficking ring had to be protected. Now what?
 

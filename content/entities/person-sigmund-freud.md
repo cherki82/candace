@@ -21,7 +21,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <div><span>Episodes</span><strong>34</strong></div>
 <div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,16 +36,16 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-sigmund-freud-t-00-02-02" style="--pulse-height:44%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-sigmund-freud-t-00-58-47" style="--pulse-height:22%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-sigmund-freud-t-01-04-43" style="--pulse-height:11%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-00-11" style="--pulse-height:22%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50" style="--pulse-height:44%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-sigmund-freud-t-01-00-41" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-00-38" style="--pulse-height:22%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-sigmund-freud-t-01-00-29" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-sigmund-freud-t-00-12-07" style="--pulse-height:11%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-sigmund-freud-t-00-38-31" style="--pulse-height:11%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58" style="--pulse-height:44%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-sigmund-freud-t-00-49-41" style="--pulse-height:11%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-10" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-44" style="--pulse-height:44%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-sigmund-freud-t-00-49-21" style="--pulse-height:11%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-02" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-sigmund-freud-t-00-54-16" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-54-16" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#t-01-01-31" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-sigmund-freud-t-00-30-06" style="--pulse-height:11%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-sigmund-freud-t-01-02-12" style="--pulse-height:11%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -75,16 +75,16 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-sigmund-freud-t-00-02-02) | 4 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-sigmund-freud-t-00-58-47) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-sigmund-freud-t-01-04-43) | 1 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-00-11) | 2 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50) | 4 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-sigmund-freud-t-01-00-41) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-00-38) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-sigmund-freud-t-01-00-29) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-sigmund-freud-t-00-12-07) | 1 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-sigmund-freud-t-00-38-31) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58) | 4 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-sigmund-freud-t-00-49-41) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-10) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-44) | 4 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-sigmund-freud-t-00-49-21) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-02) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26) | 1 |
-| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-sigmund-freud-t-00-54-16) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-54-16) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-01-31) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-sigmund-freud-t-00-30-06) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-sigmund-freud-t-01-02-12) | 1 |
@@ -319,7 +319,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
-**[00:54:38](/episodes/ep-a-e7HC6SeK8.md#ent-person-sigmund-freud-t-00-54-16)**
+**[00:54:38](/episodes/ep-a-e7HC6SeK8.md#t-00-54-16)**
 > "...he way, we're about to—when we get off—head to the book club as we continue this conversation about Sigmund Freud and the Jewish mystical tradition—and which correlates directly with what's going on today: kind of..."
 
 </details>
@@ -335,7 +335,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:47:18](/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-10)**
+**[00:47:18](/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-02)**
 > "...late that when I said to bump it to Thursday. So it will be tomorrow, and we will continue reading "Sigmund Freud and the Jewish Mystical Tradition." Okay, top comment from yesterday. Angela wrote: "To all those w..."
 
 </details>
@@ -343,7 +343,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:49:58](/episodes/ep-SKGUzGHymcI.md#ent-person-sigmund-freud-t-00-49-41)**
+**[00:49:58](/episodes/ep-SKGUzGHymcI.md#ent-person-sigmund-freud-t-00-49-21)**
 > "...ebody grow up to be a psychopath. And that's what we're seeing. These are people that are in power. Sigmund Freud explicitly spells that out, that doing these things to children, they will grow up and they will be..."
 
 </details>
@@ -351,17 +351,17 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
 
-**[00:56:03](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58)**
+**[00:56:00](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-44)**
 > "...appening today. You have to also recognize what Israel—how it came together. You have to start with Sigmund Freud, the early Zionist movement. Theodore Herzl, his connection to him—why they were connected. We talk..."
 
-**[00:56:18](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58)**
+**[00:56:15](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-44)**
 > "...th "The Assault on Truth" by Jeffrey Masson, and then move on to this most critical book, which is "Sigmund Freud's and the Jewish Mystical Tradition." I think the combination of those two books are absolutely pot..."
 
-**[00:56:36](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58)**
+**[00:56:32](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-56-26)**
 > "...tart to recognize the psych tactics that they use on us—the gaslighting. That is why they celebrate Sigmund Freud—because he mainstreamed gaslighting people that they harmed. That's just a fact—an inescapable fact..."
 
-**[00:56:44](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-56-42)**
-> "...at they harmed. That's just a fact—an inescapable fact— as Jeffrey Masson—who was in control of the Sigmund Freud archives—points out. Andrea writes: "Please help us locate the video of Charlie (Charlie Kirk) Kirk..."
+**[00:56:42](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-56-26)**
+> "That's just a fact—an inescapable fact— as Jeffrey Masson—who was in control of the Sigmund Freud archives—points out."
 
 </details>
 
@@ -377,26 +377,23 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:12:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-sigmund-freud-t-00-12-07)**
-> "...ere brought to and fought for on our shores by people like Emma Goldman (Emma Goldman) on feminism, Sigmund Freud (Sigmund Freud), the father of modern psychology. The gambling empire is where the Adelson empire w..."
+> "Sigmund Freud, the father of modern psychology."
 
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[01:00:52](/episodes/ep-iHav0PPzUz8.md#ent-person-sigmund-freud-t-01-00-41)**
+**[01:00:52](/episodes/ep-iHav0PPzUz8.md#ent-person-sigmund-freud-t-01-00-29)**
 > "...y and learn about the author—learn about what he went through to tell the truth about the fact that Sigmund Freud was factually defending his pedophile friends. And they brought that to the shores of America. They..."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:46:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50)**
-> "...ng or out there." So that right there is a psychological operation. And because we're reading about Sigmund Freud, they diagnose you. When they don't want you to look into something, they diagnose you. So right th..."
-
-**[00:47:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50)**
-> "because we are reading about Sigmund Freud they diagnose you"
+> "And because we're reading about Sigmund Freud, they diagnose you."
 
 **[00:52:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-52-11)**
 > "...of the Frankist movement. And we go pretty quickly. We're reading these books; we're learning about Sigmund Freud, right? It starts with Sigmund Freud. It ends with Operation Mockingbird—or that's where we are at ..."
@@ -409,10 +406,10 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[01:00:51](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-00-11)**
+**[01:00:51](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-00-38)**
 > "...t of us are obviously understanding that and are therefore being called crazy. About the history of Sigmund Freud, the book in my book club. If you can't join the book club, that's fine. You should read The Assaul..."
 
-**[01:03:32](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-03-09)**
+**[01:03:29](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-03-11)**
 > "...'re going to go, "How the hell have our public school systems across the world been telling us that Sigmund Freud was like a wonderful man?" Like insane. Brittany Schofield, lastly. She writes, "I'm a stay-at-home..."
 
 </details>
@@ -495,9 +492,10 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:12:46](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39): “It's everything that I have learned studying Sigmund Freud. ... I told you Sigmund Freud was a Satanist.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 01:03:29](/episodes/ep-pc3pxRyNFZk.md#t-01-03-11): “How the hell have our public school systems across the world been telling us that Sigmund Freud was like a wonderful man?”
 
 </details>
 
@@ -545,9 +543,10 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:12:46](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39): “It's everything that I have learned studying Sigmund Freud. ... I told you Sigmund Freud was a Satanist.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 01:03:29](/episodes/ep-pc3pxRyNFZk.md#t-01-03-11): “How the hell have our public school systems across the world been telling us that Sigmund Freud was like a wonderful man?”
 
 </details>
 
@@ -578,7 +577,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sigmund Freud (11)</strong></summary>
+<summary><strong class="section-title">Statements about Sigmund Freud (10)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -631,7 +630,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
-- [01:01:09](/episodes/ep-iHav0PPzUz8.md#t-01-00-41) (Accusation) **Candace Owens**: ["Sigmund Freud was factually defending his pedophile friends"](/statements/statement-34da4e06d527.md)
+- [01:01:09](/episodes/ep-iHav0PPzUz8.md#t-01-00-29) (Accusation) **Candace Owens**: ["Sigmund Freud was factually defending his pedophile friends"](/statements/statement-34da4e06d527.md)
 
 </details>
 
@@ -639,13 +638,6 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>
 
 - [00:45:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-45-30) (Accusation) **Candace Owens**: ["Freud and the early psychoanalytic community dismissed genuine patient..."](/statements/statement-3c8e6888855c.md)
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
-
-- [00:36:36](/episodes/ep-sreYYcID-QY.md#t-00-36-24) (Opinion) **Candace Owens**: ["The Freud family, not Joseph Goebbels, is the real father of modern pr..."](/statements/statement-8cb6965121ef.md)
 
 </details>
 

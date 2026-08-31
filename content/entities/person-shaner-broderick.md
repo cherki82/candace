@@ -1,17 +1,26 @@
 ---
 title: "Shaner Broderick"
-description: "Shaner Broderick (People) - 5 mentions"
+description: "Shaner Broderick (People) - 6 mentions"
 id: "person-shaner-broderick"
 type: "PERSON"
+categories:
+  - "Utah healthcare administration"
+  - "Charlie Kirk case witness commentary"
 ---
 
 _Type: People_
 
+**Categories:** Utah healthcare administration, Charlie Kirk case witness commentary
+
+**Entity verification:** verified
+> The self-published professional profile confirms the canonical name Shaner Broderick and Utah professional context; the source transcript independently uses the same full name and Instagram context.
+Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbroderick)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50">2025-09-30 · 00:02:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-20-22">2025-09-30 · 00:20:37</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57">2025-10-02 · 00:24:06</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -23,12 +32,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50">DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 5 mentions" title="2025-09-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50) | 5 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57) | 1 |
 
 </details>
 </section>
@@ -36,7 +47,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57)**
+> "Featured in Shaner’s Instagram"
+
+</details>
 
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (5 mentions)</summary>
@@ -64,6 +83,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Niece/Nephew Of (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
@@ -76,24 +107,12 @@ _Type: People_
 </details>
 
 <details>
-<summary>Works For (1)</summary>
-
-- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “chosen for an internship with Senator Mike Lee of Utah.”
-
-</details>
-
-</details>
-
-<details>
 <summary>Referenced By (2)</summary>
 
-- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** employs this
+- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “chosen for an internship with Senator Mike Lee of Utah.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah.”
 
 </details>
 

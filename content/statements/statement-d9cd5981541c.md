@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [01:09:05](/episodes/ep-h76ZN-xXC6c.md#t-01-08-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4145);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=4145s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it breaks though it definitively breaks and it goes like this and i thought that was that's weird why is it breaking here first well if he had a RØDE mic under his shirt that traveled it would have taken broken the necklace first and that's why before charlie reacts to the wound the necklace breaks
 

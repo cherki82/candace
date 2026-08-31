@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:04:51](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3891);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3891s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > spokesman, and out of nowhere he said, "There is no famine in Gaza. There are so many videos of fat Palestinians—fat." He emphasized "fat."
 

@@ -1,6 +1,6 @@
 ---
-title: "The French company Satys in Delaware wasn't established to p..."
-description: "\"The French company Satys in Delaware wasn't established to provide maintenance to Egyptian planes and was more than likely a front for something else\" — Candace Owens"
+title: "Candace Owens said a source had shown that Satys was not est..."
+description: "\"Candace Owens said a source had shown that Satys was not established to maintain the Egyptian planes and was more than likely a front for something el...\" — Candace Owens"
 statement_id: "statement-af3c0e82202b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The French company Satys in Delaware wasn't established to provide maintenance to Egyptian planes and was more than likely a front for something else
+> Candace Owens said a source had shown that Satys was not established to maintain the Egyptian planes and was more than likely a front for something else
 
 ## Attribution
 
@@ -23,23 +23,13 @@ veracity: "mixed"
 
 - [Satys](/entities/org-satys.md) (org)
 
-## Appearances (2)
-
-### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:00:39](/episodes/ep-sImMM04XdWY.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(39);return false;">Play</a>
+**Timestamp:** [00:00:34](/episodes/ep-sImMM04XdWY.md#t-00-00-34) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=34s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else
-
-### 2. Another French Front: Did Charlie Kirk Save My Life? | Canda...
-
-**Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:00:39](/episodes/ep-sImMM04XdWY.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(39);return false;">Play</a>
-
-> Now that our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else, we should address that
+> Plus, I don't think we can reasonably ignore that odd French company in Delaware. Now that our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else, we should address that.
 
 ## Verification
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2703);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2703s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump (Donald J. Trump) made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year. ... We love Pam and she will be transitioning to a much better life. The much needed and important new job in the private sector is to be announced at a date in the near future. And our Deputy Attorney General and a very talented and respected legal mind, Todd Blanche, will step in to serve as acting Attorney General. Thank you for your attention to this matter, President Donald J. Trump.
 

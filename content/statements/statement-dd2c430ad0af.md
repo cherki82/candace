@@ -24,12 +24,14 @@ veracity: "mixed"
 ## About
 
 - [Harry Myers](/entities/person-harry-myers.md) (person)
+- [Sinaloa Cartel](/entities/org-sinaloa-cartel.md) (org)
+- [Operation Catacomb](/entities/event-operation-catacomb.md) (event)
 
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:08:17](/episodes/ep-t4U7NjnUEgc.md#t-00-08-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(497);return false;">Play</a>
+**Timestamp:** [00:08:17](/episodes/ep-t4U7NjnUEgc.md#t-00-08-10) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=497s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In just six days I planted sensors, translated data, and skipped the chain of command and gave proof of the existence and pinpointed the location of the first ever discovered Sinaloa cartel underground rail tunnel
 

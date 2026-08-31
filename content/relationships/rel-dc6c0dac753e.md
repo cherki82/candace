@@ -15,7 +15,7 @@ object: "person-steve-bannon"
 
 **[Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU)**
 
-- [00:26:03](/episodes/ep-Kmt6HgRjckU#t-00-26-03): _Oh, you're going to quote Bannon who consulted for Epstein?_
+- [00:26:03](/episodes/ep-Kmt6HgRjckU#t-00-26-03): _Oh, you're going to quote Bannon (Steve Bannon) who consulted for Epstein?_
 
 ### Related
 

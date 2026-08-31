@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:20:42](/episodes/ep-iB-YtO3UZOg.md#t-00-20-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1242);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1242s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so and then started talking about pushing drugs. And so I was back and forth with them on drugs and defibrillator.
 

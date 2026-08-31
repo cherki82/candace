@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:15:06](/episodes/ep-AH1KVKkweUE.md#t-00-14-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(906);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=906s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Officer Bagley (Chris Bagley) gets up there at 1245, 1244. I was able to find some footage of who Officer Bagley (Chris Bagley) was with. ... It was captured by a bystander at 1247 p.m. ... we definitely can ID the other guy ... it is officer ... Alan Robertson from the Utah State University Department of Public Safety
 

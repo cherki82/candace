@@ -6,6 +6,11 @@ date: "2010"
 ---
 
 **Date:** 2010
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2010”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2010"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:09:30](/episodes/ep-y8lak3CRwDw.md#event-event-2010-the-european-union-required-romania-to-r-t-00-09-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(570);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=570s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So now we are in 2010 and the EU forces that online gambling restrictions are removed as well.

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:45:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-45-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2730);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were gaslighting people that were actually being raped.
 

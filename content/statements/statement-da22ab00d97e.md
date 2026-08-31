@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [01:06:19](/episodes/ep-i8m_6D4QGmk.md#t-01-05-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3979);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3979s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, I'll tell you that I have it on very good authority that they have had to cancel events that Erika Kirk was intended to speak at because there has been a backlash.
 

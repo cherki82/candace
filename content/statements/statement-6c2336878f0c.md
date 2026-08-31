@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(344);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=344s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > During the hearing, we can show you this statement from Terrell (Terrell Farnsworth), and it tells us, and I'm going to read the first part first, on September 10th, I, Terrell (Terrell Farnsworth), the first person here, was present at the Turning Point USA Utah Valley University event. Myself and my team were there to provide audio video equipment, set up management and support as we had done for Mr. Charlie Kirk for years. Our camera setup consisted of three angles, an angle directly on Charlie (Charlie Kirk), an angle on the individual asking questions, and a wider angle behind Charlie (Charlie Kirk) that showed the audience and the crowd reaction.
 

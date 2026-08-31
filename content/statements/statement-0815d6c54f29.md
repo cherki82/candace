@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:15:42](/episodes/ep-sreYYcID-QY.md#t-00-15-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it turns out that they work for an engineering place, a place that makes—called Caldera Engineering
 

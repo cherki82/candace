@@ -70,7 +70,7 @@ _No relationships extracted yet._
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
 
-- [00:39:36](/episodes/ep-2tFYJf1klgY.md#t-00-39-26) (Citation) **Candace Owens**: ["Richard William Erpenbeck prepared but did not record a deed transferr..."](/statements/statement-f3cf0c143740.md)
+- [00:39:36](/episodes/ep-2tFYJf1klgY.md#t-00-39-26) (Citation) **Candace Owens**: ["Richard William Erpenbeck reportedly prepared but did not record a dee..."](/statements/statement-f3cf0c143740.md)
   - Also about: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
 
 </details>

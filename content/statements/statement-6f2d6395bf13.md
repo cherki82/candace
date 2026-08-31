@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:19:24](/episodes/ep-d7VsbEIWkP8.md#t-00-19-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1164);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe those are two different people that we're seeing the maroon and then later in the day in the black I think those are two different individuals
 

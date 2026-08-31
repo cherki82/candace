@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:42:13](/episodes/ep-SKNJPul29zU.md#t-00-42-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2533);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2533s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was making all sorts of international deals on behalf of Israel, ... including the arms deals you're referring to, you know, cyber weapons, things like that. Why do you think the UAE has such a friendly relationship with Israel?
 

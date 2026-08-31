@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:42:34](/episodes/ep-5-HUyv9LyMg.md#t-00-42-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2554);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=2554s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And one of the members of that new church committee is one of my favorite members of Congress. ... He loves the Constitution. He loves liberty. He's honest and he's tough and he's going to really go after the intel agencies. ... It's Thomas Massie, who's just terrific from Kentucky.
 

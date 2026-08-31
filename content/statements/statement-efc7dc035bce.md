@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:01:27](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(87);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=87s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > some people noticed that he wasn't on the AmFest list for years and all of a sudden he's back on the speaker list beginning in 2024
 

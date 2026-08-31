@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:43:13](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2593);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=2593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They're shouting out Thomas Massie as being a RINO because he won't vote for more funding to go to Ukraine and Israel.
 

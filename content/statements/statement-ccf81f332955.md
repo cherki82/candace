@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:51:21](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3081);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=3081s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > came to fruition when a man named John T. ... Golle incorporated educational alternatives up in Minnesota. ... It was called Educational Alternatives Incorporated. ... John T. Golle and Jeb Bush went on to Good Morning America to announce the project the schools would come to be known as Tesseract Schools,
 

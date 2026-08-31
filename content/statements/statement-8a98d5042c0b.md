@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-28-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1680);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1680s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends
 

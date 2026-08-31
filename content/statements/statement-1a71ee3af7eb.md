@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:15:42](/episodes/ep-X92MllIHDzw.md#t-00-15-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By the way, I think on that episode I said he was on the board. I meant to say he's on the advisory board. There is a difference, an important difference, so I do want to correct that.
 

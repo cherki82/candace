@@ -1,17 +1,18 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 394 mentions"
+description: "Utah (Places) - 398 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
   - "Utah"
+  - "Beehive State"
 categories:
   - "United States"
 ---
 
 _Type: Places_
 
-**Also known as:** Utah
+**Also known as:** Utah, Beehive State
 
 **Categories:** United States
 
@@ -22,139 +23,143 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31">2026-08-21 · 00:05:56</a></strong></div>
-<div><span>Episodes</span><strong>87</strong></div>
-<div><span>Mentions</span><strong>394</strong></div>
+<div><span>Episodes</span><strong>89</strong></div>
+<div><span>Mentions</span><strong>398</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (18 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31" style="--pulse-height:11%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-07-18" style="--pulse-height:22%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-utah-t-00-12-30" style="--pulse-height:22%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31" style="--pulse-height:12%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-07-26" style="--pulse-height:24%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-utah-t-00-12-30" style="--pulse-height:24%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-aDlhjfW6hz8.md#t-00-18-15" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-utah-t-00-14-37" style="--pulse-height:11%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-01-30" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 6 mentions" title="2025-09-24 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-utah-t-00-14-37" style="--pulse-height:12%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-01-30" style="--pulse-height:53%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 9 mentions" title="2025-09-24 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-utah-t-00-31-37" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-utah-t-00-29-45" style="--pulse-height:44%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 8 mentions" title="2025-09-29 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-utah-t-00-02-13" style="--pulse-height:67%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 12 mentions" title="2025-09-30 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-37" style="--pulse-height:56%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 10 mentions" title="2025-10-01 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-21-03" style="--pulse-height:39%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 7 mentions" title="2025-10-02 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-utah-t-00-15-44" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-00-29-48" style="--pulse-height:11%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-10-01" style="--pulse-height:56%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 10 mentions" title="2025-10-09 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-39-20" style="--pulse-height:11%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 18 mentions" title="2025-10-30 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-utah-t-00-04-11" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-04" style="--pulse-height:56%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 10 mentions" title="2025-11-04 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-38" style="--pulse-height:22%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-utah-t-00-29-45" style="--pulse-height:47%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 8 mentions" title="2025-09-29 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-utah-t-00-02-13" style="--pulse-height:71%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 12 mentions" title="2025-09-30 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-13" style="--pulse-height:53%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 9 mentions" title="2025-10-01 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-20-55" style="--pulse-height:35%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 6 mentions" title="2025-10-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-utah-t-00-16-13" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-00-30-14" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-09-53" style="--pulse-height:53%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 9 mentions" title="2025-10-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-39-20" style="--pulse-height:12%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 17 mentions" title="2025-10-30 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-utah-t-00-04-11" style="--pulse-height:35%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-13" style="--pulse-height:65%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 11 mentions" title="2025-11-04 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-49" style="--pulse-height:24%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54" style="--pulse-height:35%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-utah-t-00-46-25" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-utah-t-00-16-57" style="--pulse-height:28%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 5 mentions" title="2025-11-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-33" style="--pulse-height:61%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 11 mentions" title="2025-11-18 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-23" style="--pulse-height:22%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-33-57" style="--pulse-height:22%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-utah-t-00-16-27" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-utah-t-00-14-39" style="--pulse-height:17%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-utah-t-00-49-40" style="--pulse-height:28%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 5 mentions" title="2025-12-03 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-utah-t-00-10-40" style="--pulse-height:11%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-02-25" style="--pulse-height:44%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-utah-t-00-19-58" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#t-00-53-20" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-utah-t-00-16-57" style="--pulse-height:29%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 5 mentions" title="2025-11-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-14" style="--pulse-height:65%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 11 mentions" title="2025-11-18 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-50" style="--pulse-height:24%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-39-36" style="--pulse-height:24%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-utah-t-00-16-27" style="--pulse-height:12%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-utah-t-00-14-39" style="--pulse-height:18%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-utah-t-00-49-40" style="--pulse-height:29%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 5 mentions" title="2025-12-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-utah-t-00-10-40" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-gpe-utah-t-00-21-09" style="--pulse-height:12%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-utah-t-00-08-21" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-02-25" style="--pulse-height:47%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-utah-t-00-19-58" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#t-00-53-20" style="--pulse-height:18%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-07-14" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-utah-t-00-12-40" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-utah-t-00-17-57" style="--pulse-height:11%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-utah-t-00-12-40" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-utah-t-00-17-57" style="--pulse-height:12%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-utah-t-00-27-58" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-utah-t-00-24-40" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-utah-t-00-19-56" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-utah-t-00-43-57" style="--pulse-height:22%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-utah-t-00-43-57" style="--pulse-height:24%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-utah-t-00-54-22" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-02-56" style="--pulse-height:17%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42" style="--pulse-height:89%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 16 mentions" title="2026-03-23 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48" style="--pulse-height:44%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 8 mentions" title="2026-03-24 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58" style="--pulse-height:22%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-utah-t-00-03-31" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-22-15" style="--pulse-height:28%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 5 mentions" title="2026-03-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45" style="--pulse-height:83%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 15 mentions" title="2026-04-01 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-02-10" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-33-38" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-02-56" style="--pulse-height:18%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42" style="--pulse-height:94%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 16 mentions" title="2026-03-23 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48" style="--pulse-height:47%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 8 mentions" title="2026-03-24 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39" style="--pulse-height:12%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58" style="--pulse-height:24%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-utah-t-00-03-31" style="--pulse-height:12%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-22-15" style="--pulse-height:29%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 5 mentions" title="2026-03-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45" style="--pulse-height:88%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 15 mentions" title="2026-04-01 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-02-10" style="--pulse-height:12%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-33-38" style="--pulse-height:24%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-utah-t-00-24-40" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37" style="--pulse-height:28%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-12-41" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#t-00-08-48" style="--pulse-height:17%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-31-51" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13" style="--pulse-height:22%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-29" style="--pulse-height:39%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 7 mentions" title="2026-05-14 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-utah-t-00-22-22" style="--pulse-height:11%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37" style="--pulse-height:29%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-12-41" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#t-00-08-48" style="--pulse-height:18%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-31-51" style="--pulse-height:12%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13" style="--pulse-height:24%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-29" style="--pulse-height:41%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 7 mentions" title="2026-05-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-utah-t-00-22-22" style="--pulse-height:12%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16" style="--pulse-height:28%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-utah-t-00-27-34" style="--pulse-height:11%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16" style="--pulse-height:29%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37" style="--pulse-height:18%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-utah-t-00-27-34" style="--pulse-height:12%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-utah-t-00-26-03" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-10-25" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-10-25" style="--pulse-height:35%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-utah-t-00-59-12" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-utah-t-01-19-06" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-utah-t-01-19-06" style="--pulse-height:12%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-utah-t-00-13-56" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-utah-t-00-40-29" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-utah-t-00-06-31" style="--pulse-height:17%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-utah-t-00-22-50" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18" style="--pulse-height:28%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-utah-t-00-40-29" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-utah-t-00-06-31" style="--pulse-height:18%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-utah-t-00-22-50" style="--pulse-height:35%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18" style="--pulse-height:29%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-utah-t-00-28-01" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-41-47" style="--pulse-height:22%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 4 mentions" title="2026-07-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-06-35" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-14-42" style="--pulse-height:22%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-02-12" style="--pulse-height:67%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 12 mentions" title="2026-07-31 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-20-04" style="--pulse-height:28%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-08-45" style="--pulse-height:28%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-utah-t-00-08-53" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28" style="--pulse-height:18%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-41-47" style="--pulse-height:24%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 4 mentions" title="2026-07-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-06-35" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-14-42" style="--pulse-height:24%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-02-12" style="--pulse-height:71%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 12 mentions" title="2026-07-31 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-20-04" style="--pulse-height:29%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-08-45" style="--pulse-height:29%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-utah-t-00-08-53" style="--pulse-height:18%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-utah-t-00-20-42" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-28-06" style="--pulse-height:94%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-27-15" style="--pulse-height:22%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37" style="--pulse-height:28%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 5 mentions" title="2026-08-18 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16" style="--pulse-height:28%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-28-06" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-27-15" style="--pulse-height:24%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37" style="--pulse-height:29%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 5 mentions" title="2026-08-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31" style="--pulse-height:12%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31) | 2 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-07-18) | 4 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-07-26) | 4 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-utah-t-00-12-30) | 4 |
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15) | 1 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-utah-t-00-14-37) | 2 |
-| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-01-30) | 6 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-01-30) | 9 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-utah-t-00-31-37) | 1 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-utah-t-00-29-45) | 8 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-utah-t-00-02-13) | 12 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-37) | 10 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-21-03) | 7 |
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-utah-t-00-15-44) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-00-29-48) | 2 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-10-01) | 10 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-13) | 9 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-20-55) | 6 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-utah-t-00-16-13) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-00-30-14) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-09-53) | 9 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-39-20) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00) | 18 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00) | 17 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-utah-t-00-04-11) | 6 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-04) | 10 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-38) | 4 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-13) | 11 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-49) | 4 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54) | 6 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-utah-t-00-46-25) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-utah-t-00-16-57) | 5 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-33) | 11 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-23) | 4 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-33-57) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-14) | 11 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-50) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-39-36) | 4 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-utah-t-00-16-27) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-utah-t-00-14-39) | 3 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-utah-t-00-49-40) | 5 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-utah-t-00-10-40) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-utah-t-00-10-40) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-gpe-utah-t-00-21-09) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-utah-t-00-08-21) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-02-25) | 8 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-utah-t-00-19-58) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-53-20) | 3 |
@@ -220,7 +225,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (394)</strong></summary>
+<summary><strong class="section-title">Raw mentions (398)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -1236,13 +1241,29 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:08:40](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-utah-t-00-08-21)**
+> "...is missing according to local Utah news that they didn't say FOIA."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+
+**[00:21:29](/episodes/ep-es7PWdFGoFI.md#ent-gpe-utah-t-00-21-09)**
+> "It's the state of Utah that's investigating. They have not called the on..."
+
+**[00:50:28](/episodes/ep-es7PWdFGoFI.md#ent-gpe-utah-t-00-50-07)**
+> "...eing proposed by the state of Utah and the FBI in the charging documents."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:10:40](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-utah-t-00-10-40)**
 > "...ing up and we're looking into Utah and all of these things."
-
-**[00:11:01](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-utah-t-00-10-40)**
-> "Utah mentioned as first stop on campus tour"
 
 </details>
 
@@ -1294,10 +1315,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
 
-**[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-33-57)**
+**[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-39-36)**
 > "...om the student group. There is a student roof access pretty close to where CK will be set up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walkways on the roofs." He..."
 
-**[00:40:06](/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-39-41)**
+**[00:40:06](/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-39-36)**
 > "...view. We are still being told lies by Turning Point. Now, beyond that, this is crazy. This broke in Utah. So, the story goes—and I told you that the story was BS—but what the feds told us was that, you kn..."
 
 **[00:41:20](/episodes/ep-sImMM04XdWY.md#ent-gpe-utah-t-00-41-20)**
@@ -1311,54 +1332,54 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
 
-**[00:03:23](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-23)**
+**[00:03:12](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-50)**
 > "...s earlier—that plane, the yellow plane, departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern...."
 
-**[00:03:50](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-23)**
+**[00:03:50](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-03-50)**
 > "..., Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern. So that's at around 9:51 a.m. Utah time. Charlie (Charlie Kirk)'s gonna get shot at 12:23. This plane has landed into Wilmington at wh..."
 
-**[00:29:23](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-29-09)**
+**[00:29:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-29-05)**
 > "...tention to that. That's a smaller airplane and it's quite late because that's going to be 3:19 p.m. Utah time. That's three hours after Charlie (Charlie Kirk) got shot. That person is just leaving Santa B..."
 
-**[00:34:53](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-34-52)**
-> "...autopsy report is Erika (Erika Kirk), next of kin. That's given to the next of kin. That's like the Utah state policy. If he's suggesting that the feds are blocking her from doing that, I mean, he's in th..."
+**[00:34:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-utah-t-00-34-52)**
+> "That's given to the next of kin. That's like the Utah state policy. If he's suggesting that the feds are blocking her from doing that, I mean, he's in that statement, why not just release it?"
 
 </details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (11 mentions)</summary>
 
-**[00:03:40](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-33)**
+**[00:03:33](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-14)**
 > "...is flight thus far, I want to remind you that we have confirmed that this was a full flight over to Utah. This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie K..."
 
-**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-33)**
+**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-03-51)**
 > "...hat this was a full flight over to Utah. This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination. So we are looking at anywhere between 12 to..."
 
-**[00:07:31](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-07-02)**
+**[00:07:23](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-06-55)**
 > "... that number is CWN—like Nancy—9872, okay? Our second plate is a silver 2025 Toyota RAV4. That is a Utah license plate, and that number is T092ZS. Okay. Third vehicle that we have here is a white 2023 Toy..."
 
-**[00:07:41](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-07-41)**
+**[00:07:40](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-07-40)**
 > "...d that number is T092ZS. Okay. Third vehicle that we have here is a white 2023 Toyota RAV4, another Utah license plate. The number is T912KM. And we have a black 2025 Toyota 4Runner, Utah license plate. A..."
 
-**[00:07:58](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-07-41)**
+**[00:07:51](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-07-40)**
 > "...ta RAV4, another Utah license plate. The number is T912KM. And we have a black 2025 Toyota 4Runner, Utah license plate. And that plate is Z923DA. And we can now present to you guys a fifth car, which we k..."
 
-**[00:08:20](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-20)**
+**[00:08:13](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-13)**
 > "...nt to you guys a fifth car, which we know was rented. That is a gray or silver 2025 Toyota 4Runner, Utah license plate number Z349AA. Five vehicles which were secured by Duncan Aviation. Now, since I wasn..."
 
-**[00:08:41](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-20)**
+**[00:08:36](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-13)**
 > "...yesterday, I feel pretty confident concluding that these 12 to 14 Egyptians didn't drop into Provo, Utah, in the six days leading up to Charlie (Charlie Kirk)'s assassination to fix like a broken light on..."
 
-**[00:12:18](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-20)**
-> "...t here is the article. You can see it was published the day after the assassination, and it reads, "Utah Valley University student recalls seeing man walking on or near the Lozier Center roof twice in two..."
+**[00:12:18](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-13)**
+> "You can see it was published the day after the assassination, and it reads, "Utah Valley University student recalls seeing man walking on or near the Losee Center roof twice in two weeks.""
 
-**[00:25:18](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-25-08)**
+**[00:25:18](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-13)**
 > "... the student group." "There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center." "It has a couple of staircases that go up to walkways on the roofs." H..."
 
-**[00:29:39](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-25-08)**
+**[00:29:39](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-08-13)**
 > "...usands of dollars on drones last year and got the guy's license. But if the area lies in the Provo, Utah airspace, I can't fly it. That's a 107B. We can't break the rules, right? And then you had secondar..."
 
-**[00:36:32](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-36-17)**
+**[00:36:29](/episodes/ep-581dILVcEE4.md#ent-gpe-utah-t-00-36-17)**
 > "...member, Blake is in Arizona now, so this is going to say 11:24. It's supposed to be obviously 12:24 Utah time. We can show you that. You can see he calls his mom, and the call is 45 seconds long, and the ..."
 
 </details>
@@ -1386,7 +1407,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:46:49](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-utah-t-00-46-25)**
+**[00:46:46](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-utah-t-00-46-25)**
 > "...like a cherry bomb." Unbelievable. Wow. Wow. I'm in shock. I am too. I can't believe it happened in Utah of all places where he has so much support, but obviously the opposition was here. And now we're lo..."
 
 </details>
@@ -1394,22 +1415,22 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (6 mentions)</summary>
 
-**[00:19:08](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54)**
+**[00:19:04](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54)**
 > "...credible. So going back to our timeline, I will remind you: it was July 18th—according to the local Utah news, they found this out. It was July 18th that UVU Turning Point chapter requested to have Charli..."
 
 **[00:29:33](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54)**
 > "...nized in the background here. And it was regarding why Charlie (Charlie Kirk) had a medical file at Utah Valley Hospital despite the fact that he went to Timpanogos, right? I think you guys have emailed m..."
 
-**[00:30:12](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-30-12)**
+**[00:30:12](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54)**
 > "...ot share information. Timpanogos Hospital is owned by HCA, which uses a charting system called VDI. Utah Valley Hospital is owned by IHC, and they run on a system called Epic—which many of you guys emaile..."
 
-**[00:30:27](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-30-12)**
+**[00:30:27](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-18-54)**
 > "...o not speak to each other. If a patient has never been to Timpanogos Hospital but they have been to Utah Valley, their info would not come up at all in Timpanogos' system. So we don't know why that is. We..."
 
-**[00:33:02](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-33-02)**
+**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-32-55)**
 > "... Jack Hibbs leads one. Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah. And later, what's interesting is he's behind Charlie (Charlie Kirk) when he gets out of the car. L..."
 
-**[00:34:30](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-34-22)**
+**[00:34:30](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-utah-t-00-34-09)**
 > "...so, something that I'm just gonna say on the side here is too many people that are involved in this Utah story I met through PragerU. Like, Jack Hibbs was somebody that Marissa flagged for me that she wan..."
 
 </details>
@@ -1417,52 +1438,55 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
 
-**[00:05:49](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-38)**
+**[00:05:49](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-49)**
 > "...s well—which was completely atypical—is the fact that Charlie (Charlie Kirk) was slated to speak in Utah on September 10th and then was... due to return just 10 days later to a different campus in Utah th..."
 
-**[00:05:59](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-38)**
+**[00:05:59](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-49)**
 > "...in Utah on September 10th and then was... due to return just 10 days later to a different campus in Utah that's under two hours away. That's not how they plan events. Okay, the idea is if you're going to ..."
 
-**[00:06:20](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-06-20)**
+**[00:06:14](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-49)**
 > "...d UCLA, we did Berkeley, we did Stanford. You do a sweep overnight, over two days. You don't fly to Utah and then go back home to Arizona and then fly to Utah 10 days later. Nothing is making sense, and w..."
 
-**[00:56:49](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-56-42)**
-> "...e (Charlie Kirk) Kirk's entire answer to the first question that he was asked about Jesus Christ at Utah Valley. I had no luck finding the entire 8-to-10-minute clip. Only 20-to-60-second videos come up. ..."
+**[00:56:49](/episodes/ep-LATnak75Si0.md#ent-gpe-utah-t-00-05-49)**
+> "Andrea writes: "Please help us locate the video of Charlie Kirk's entire answer to the first question that he was asked about Jesus Christ at Utah Valley."
 
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (10 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (11 mentions)</summary>
 
-**[00:10:14](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-04)**
-> "... driver's seat. The floor is yours. Yeah. It's crazy to think that was just three, four days before Utah. And it was Charlie (Charlie Kirk)'s dream to always go to Asia. And Blake and I got the gift of be..."
+**[00:10:13](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-13)**
+> "Yeah. It's crazy to think that was just three, four days before Utah. And it was Charlie Kirk's dream to always go to Asia."
 
-**[00:17:15](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-04)**
-> "...s when Turning Point USA receives a request from UVU for Charlie (Charlie Kirk) to hold an event at Utah Valley. Not only do they instantly accept this request, but they also make it his first stop, which..."
+**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-13)**
+> "And this came from—this is a great find from Sam Parker— that is when Turning Point USA receives a request from UVU for Charlie Kirk to hold an event at Utah Valley."
 
-**[00:17:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-04)**
-> "...City describe exactly when that request went out—as we're telling you, on July 18th. Take a listen. Utah Valley University has provided the document that created the rally at which conservative activist C..."
+**[00:17:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-13)**
+> "Utah Valley University has provided the document that created the rally at which conservative activist Charlie Kirk was shot to death."
 
-**[00:18:24](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-18-24)**
+**[00:18:24](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-10-13)**
 > "...her organizers need any police protection. That's a standard inquiry at, for example, University of Utah events. Speaking of police, UVU has denied FOX 13 News' request for a copy of the Kirk Rally securi..."
 
-**[00:19:41](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-19-04)**
+**[00:19:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-19-04)**
 > "...otocols are because as everybody has noticed, there was no ambulance on standby, and that's against Utah law. And so it's interesting that they don't want to release the security plan because I'm pretty s..."
 
-**[00:21:51](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-19-04)**
-> "... real. Ladies and gentlemen, there were—for whatever reason—12 Israeli cell phones on the ground at Utah Valley University the day that Charlie (Charlie Kirk) was assassinated. This has completely spooked..."
+**[00:21:51](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-21-39)**
+> "Ladies and gentlemen, there were—for whatever reason—12 Israeli cell phones on the ground at Utah Valley University the day that Charlie Kirk was assassinated."
 
-**[00:22:30](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-19-04)**
-> "...ed their phones in Israel—those accounts in Israel—and they were on the ground on September 10th at Utah Valley University when Charlie (Charlie Kirk) was shot. Now, the NSA knows this. Kash Patel knows t..."
+**[00:22:17](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-21-39)**
+> "I mean that there were 12 personal cell phone accounts that were opened in Israel, okay? Like you go into Verizon in Tennessee or in Connecticut and you open your phone— I am saying that they opened their phones in Israel—those accounts in Israel—and they were on the ground on September 10th at Utah Valley University when Charlie Kirk was shot."
 
-**[00:23:54](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-23-43)**
+**[00:23:48](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-23-41)**
 > "...change students. It's possible. Maybe 12 Israelis were touring UVU on that day because—I don't know—Utah Valley University is a place where they maybe wanted to attend in the future. Maybe 12 American stu..."
 
-**[00:24:19](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-23-43)**
+**[00:24:05](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-23-41)**
 > "...abroad program and they wanted to keep their Israeli cell phones running when they got back home to Utah. I don't know, but I'd like to know. In fact, we need to know the answer to this question: Why are ..."
 
-**[00:42:41](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-23-43)**
+**[00:42:41](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-23-41)**
 > "...hesitation." I told you guys that we had a source leaked to us. He went to the hospital. He went to Utah Valley Hospital after this event to treat some of his like mild injuries from being dragged. And he..."
+
+**[00:19:31](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-utah-t-00-19-04)**
+> "...n standby, and that's against Utah law."
 
 </details>
 
@@ -1490,61 +1514,58 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (18 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (17 mentions)</summary>
 
-**[00:00:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00)**
+**[00:00:08](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-00-00)**
 > "Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination."
 
-**[00:01:57](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-01-22)**
+**[00:01:57](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-01-57)**
 > "And despite the fact that they were heading to Montana, they decided to make an unusual dip at 9:16 a.m. Again, this is in Utah time."
 
-**[00:03:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-02-48)**
+**[00:03:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-02-40)**
 > "So you go back minus six hours to give you Utah time."
 
-**[00:04:51](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-12)**
+**[00:04:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-28)**
 > "from Utah. They run—now they run—a human sex trafficking charity."
 
-**[00:04:55](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-55)**
+**[00:04:55](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-28)**
 > "There's a lot of human sex trafficking charities in Utah."
 
-**[00:05:46](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-55)**
+**[00:05:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-28)**
 > "But I will say that the Baugh-Maxfield plane—I'm gonna take you through what that was doing. It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m. local time."
 
-**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-55)**
+**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-04-28)**
 > "...the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptian military plane had previously only ever ..."
 
-**[00:12:53](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-12-53)**
+**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-12-46)**
 > "...ointed out that this foreign military plane arrived on September 4th—so six days before—into Provo, Utah, and departed six days later on September 10th, they ignored the huge substance of this, which is w..."
 
-**[00:13:14](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-12-53)**
+**[00:13:14](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-12-46)**
 > "...ored the huge substance of this, which is why is this Egyptian military plane here in the middle of Utah. Instead, they said, oh, she made a time zone mistake. Like as if I'm on FlightRadar every day, acc..."
 
-**[00:15:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-15-02)**
+**[00:15:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-15-23)**
 > "...his flight. I can now report to you that it is a fact that on 9/4, this was not some dropping by in Utah as they were trying to claim because the plane needed to be serviced. That's what they ran with. Th..."
 
-**[00:15:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-15-42)**
+**[00:15:38](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-15-23)**
 > "..., this could have been a routine servicing. I guess there's just no place from Egypt all the way to Utah that an Egyptian military plane can like get a tire changed. This is totally routine—nothing to see..."
 
-**[00:16:37](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-15-42)**
+**[00:16:37](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-16-37)**
 > "...ian military subcontractors—what are Egyptian military subcontractors doing in the middle of Provo, Utah on the day that Charlie (Charlie Kirk) was assassinated? Okay. Again, I am saying as a fact, Kash P..."
 
-**[00:17:06](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-17-06)**
+**[00:17:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-16-37)**
 > "...been saying everybody's conspiracies are dangerous. Thinking is dangerous. That aircraft was not in Utah for any routine servicing, okay? Rather extraordinarily, this person told me that it was there on s..."
 
-**[00:19:24](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-17-06)**
+**[00:19:19](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-16-37)**
 > "...issing one here, right? It didn't—no, it departed. That's right: September 10th, it departed Provo, Utah at 7:14 a.m. local time. Okay? And I am telling you that aboard that plane, it was not the same peo..."
 
-**[00:21:04](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-21-04)**
+**[00:20:58](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-16-37)**
 > "...ecause, look— joint military exercise between Egypt and America for some unknown reason, and Provo, Utah was the place they had to do this. And they decided to leave this plane, and maybe the people are s..."
 
-**[00:21:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-21-04)**
+**[00:21:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-21-13)**
 > "... place they had to do this. And they decided to leave this plane, and maybe the people are still in Utah. I don't know. But I'm demanding that we find out, okay? And when you couple that information with ..."
 
-**[00:28:43](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-28-43)**
+**[00:28:43](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-28-33)**
 > "...Maybe they're staying with certain friends. Let me know: did you see some Egyptian-looking dudes in Utah? I feel like that way they would stand out in Utah, maybe, right? I think they definitely would. Pl..."
-
-**[00:28:49](/episodes/ep-iHav0PPzUz8.md#ent-gpe-utah-t-00-28-43)**
-> "...know: did you see some Egyptian-looking dudes in Utah? I feel like that way they would stand out in Utah, maybe, right? I think they definitely would. Please let us know: more tips at CandaceOwens.com. It..."
 
 </details>
 
@@ -1560,36 +1581,33 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (10 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (9 mentions)</summary>
 
-**[00:10:10](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-10-01)**
+**[00:10:06](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-09-53)**
 > "...ding under a hat?" It is not true. I spoke to Andrew on this actual day. He definitively flew in to Utah after the shooting took place. He was not therefore on the ground. But the person that is in that v..."
 
-**[00:13:37](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-13-12)**
-> "...uses: the Young Americans for Liberty, the Students for Life, and the Turning Point USAs. And so at Utah Valley, we had been really, really excited to be able to host Charlie Kirk (Charlie Kirk) this seme..."
+**[00:13:37](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-09-53)**
+> "And so at Utah Valley, we had been really, really excited to be able to host Charlie Kirk this semester."
 
-**[00:16:39](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-16-39)**
+**[00:16:34](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-16-34)**
 > "...id. And the number that she gives me—which is the first thing that registers to me as odd—is it's a Utah. I mean, sorry, it's a Phoenix-based number. So I'm going, who is this person? And why is it linkin..."
 
-**[00:17:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-16-39)**
+**[00:17:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-16-34)**
 > "...re—they decided to allow him to hold the microphone. That's supposed to be like kind of an honor at Utah events. Turning Point USA kids work really hard to put these events on. They decide who's gonna hol..."
 
-**[00:19:15](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-18-51)**
+**[00:19:13](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-19-13)**
 > "...rom Missouri. I think she also worked at some point in California, and she was announced as the new Utah medical examiner, state Utah medical examiner, in May of 2024. So I'm interested in learning as muc..."
 
-**[00:22:17](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-18-51)**
-> "...s a former politician and a Fox News contributor who was a witness to this event because he is from Utah. He attended this event. He apparently was in communication with Charlie (Charlie Kirk) ahead of th..."
-
-**[00:33:06](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-32-53)**
+**[00:33:05](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-32-53)**
 > "...A. I've worked with this lawyer. I paid this lawyer. This is crazy. So what is the pipeline between Utah and Phoenix? I don't know. You can use a lawyer anywhere, but usually when you're formulating your ..."
 
-**[00:37:30](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-37-12)**
+**[00:37:23](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-37-01)**
 > "...have recognized is military. That's tail number N1098L. So this plane left from Texas, went over to Utah right about the time that Charlie (Charlie Kirk) got assassinated. It dipped real low. It seemed li..."
 
-**[00:38:52](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-38-41)**
+**[00:38:51](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-38-18)**
 > "...dence." "You know, just a coincidence." "Somebody decided to take a vacation flight from Texas over Utah to do a little circle and return back home." "It happens all the time." "You know, when you're bore..."
 
-**[00:39:20](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-38-41)**
+**[00:39:20](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-utah-t-00-38-59)**
 > "...auty company for billions, I believe. And they now just run a human sex trafficking organization in Utah. That was that plane. I can't remember. 888 is what I actually remember. And it seemed as though th..."
 
 </details>
@@ -1597,10 +1615,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:30:14](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-00-29-48)**
+**[00:30:14](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-00-30-14)**
 > "...this meeting, and it was on our schedule for weeks, and was that he was going out on a campus tour. Utah was the first stop on his new campus tour. And what a lot of people in Israel do not realize—or in ..."
 
-**[01:10:04](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-01-09-29)**
+**[01:10:00](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-utah-t-01-09-48)**
 > "...Yes, I do want to say shout-out to the Mormon community for never accusing me of being antisemitic— Utah or anti-Mormon—I don't know what—anti-Latter-day Saints. Sorry, I know nothing about your faith—but..."
 
 </details>
@@ -1608,68 +1626,62 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
-**[00:16:18](/episodes/ep-5autG89PW6w.md#ent-gpe-utah-t-00-15-44)**
+**[00:16:18](/episodes/ep-5autG89PW6w.md#ent-gpe-utah-t-00-16-13)**
 > "...That's a thousand percent right. And I will say, I wasn't an eyewitness. I was not there. I flew to Utah immediately to be with the family and the team, but I was not an eyewitness. So there's that. But I..."
 
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (7 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
 
-**[00:21:17](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-21-03)**
+**[00:21:17](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-20-55)**
 > "... all. He wants me to know that he thinks I'm shady, that I'm an accomplice to something. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox New..."
 
-**[00:24:15](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-24-03)**
+**[00:24:15](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-23-57)**
 > "...saw looking like a college kid. Well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024. Nobody mentioned this, I guess; all of these USA Today or AP, nobody asked them like who t..."
 
 **[00:29:10](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-29-07)**
 > "...Investigative journalist Elizabeth Lane is not giving up on this story. She's been on the ground in Utah connecting the CIA dots, the three-letter agency dots and connections, and she joins us now. Elizab..."
 
-**[00:29:39](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-29-07)**
+**[00:29:39](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-29-18)**
 > "...g around to figure out who was going to be his lawyer. And I started approaching different firms in Utah, trying to get him a lawyer for pro bono. So I walked up to one of the most reputable firms in Utah..."
 
-**[00:29:45](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-29-45)**
-> "...Utah, trying to get him a lawyer for pro bono. So I walked up to one of the most reputable firms in Utah, and I asked them if they were willing to represent Tyler Robinson for pro bono case, and I was ext..."
-
-**[00:31:09](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-31-09)**
+**[00:31:09](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-30-43)**
 > "...to get on the case.” So he said, “Whatever you do, Elizabeth, do not get in touch with the firms in Utah that are the most powerful because they are in on it with the state. No matter what happens, they w..."
 
-**[00:31:22](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-31-09)**
+**[00:31:22](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-utah-t-00-31-22)**
 > "...the side of the state.” I did not listen to him. And I ended up calling one of the biggest firms in Utah, just to ask for advice. Like what, what is the situation here? What can we do? They started scream..."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (10 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (9 mentions)</summary>
 
-**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-37)**
+**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-13)**
 > "...see that here. George Zin writes, "Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge o..."
 
-**[00:03:48](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-37)**
+**[00:03:48](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-13)**
 > "...ions than Phil Lyman, not a politician who can be pampered. Phil has a knowledge of urban and rural Utah from every corner and community. Utah is in desperate need of true leadership and representation an..."
 
-**[00:03:52](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-03-37)**
-> "... who can be pampered. Phil has a knowledge of urban and rural Utah from every corner and community. Utah is in desperate need of true leadership and representation and Phil has the passion and the values ..."
-
-**[00:05:01](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-05-01)**
+**[00:05:01](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-04-34)**
 > "...rybody's first day on the job, meaning that there were a lot of these recent and brand new hires in Utah that would all kind of come across and have to deal with this case. Kash Patel, I told you, cleaned..."
 
-**[00:05:24](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-05-01)**
+**[00:05:24](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-05-13)**
 > "...st case is Charlie (Charlie Kirk)'s assassination. Why would he wanna uproot and move his family to Utah after having roots in Virginia for so long? I don't know, but that's the circumstance. Also, I told..."
 
-**[00:07:08](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-06-59)**
+**[00:07:08](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-07-04)**
 > "...hat has been confirmed. An autopsy did take place. By the way, you should know that in the state of Utah, in case you, like me, are maybe holding your breath that we're going to see that report, those rep..."
 
-**[00:18:19](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-18-19)**
+**[00:18:19](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-17-58)**
 > "...e identity, okay? Because if this was just some kid who grew up in Washington and went to school in Utah, my inbox would be flooded with that name, and it's not. It's simply not. Oddly, no one has come fo..."
 
-**[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-18-55)**
+**[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-18-36)**
 > "...sending those clues about the Azov Battalion, about Ukrainian, Russian people that were coming into Utah. There seems to be some organized movement, people that are being given new identities. Actually, o..."
 
-**[00:41:54](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-41-25)**
+**[00:41:54](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-41-15)**
 > "... read this email that came in because Turning Point had the USU event last night. They went back to Utah and returned, made a big splash about that. And this person attended and wrote this to me. It reads..."
 
-**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-41-25)**
+**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-gpe-utah-t-00-41-15)**
 > "...ns), tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agreement that all were disappointed. The event was scripted. Th..."
 
 </details>
@@ -1753,7 +1765,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (9 mentions)</summary>
 
 **[00:01:35](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-01-30)**
 > "...itative source that the FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is close..."
@@ -1772,6 +1784,15 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[00:17:09](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-17-09)**
 > "...tonished—that Utah recently, extraordinarily, modernized their beehive flag. I had no idea that the Utah state flag is a hexagonal beehive, right? And I mean, notice to me that it has always been the Beeh..."
+
+**[00:17:17](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-17-09)**
+> "...e that it has always been the Beehive State."
+
+**[00:17:21](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-17-09)**
+> "...y've always been known as the Beehive State."
+
+**[00:17:34](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-utah-t-00-17-09)**
+> "It's actually the Beehive State."
 
 </details>
 
@@ -1807,23 +1828,23 @@ Source: [State of Utah official website](https://utah.gov/)
 > "... I got curious about whose family manufactures valves. I don't know if that's a big business out in Utah, also in Canada. When I was looking into Harley Pasternak, that's exactly what his family did. They..."
 
 **[00:56:43](/episodes/ep-sreYYcID-QY.md#ent-gpe-utah-t-00-56-28)**
-> "... we are looking into everything. There was also some artist who posted a song—he happens to be from Utah—and it was called, like, “Charlie Kirk, Dead at 31.” And right when people started going, "This guy..."
+> "There was also some artist who posted a song—he happens to be from Utah—and it was called, like, “Charlie (Charlie Kirk), Dead at 31.”"
 
 </details>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
 
-**[00:07:35](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-07-18)**
+**[00:07:33](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-07-26)**
 > "...r that. George Zinn, the decoy boy—that's when it's announced that he's a suspect in custody by the Utah police. But it's not until, by the way, 5:30 p.m.—because he mentioned that second suspect— and he ..."
 
-**[00:18:40](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-18-10)**
+**[00:18:38](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-18-10)**
 > "...ng to make this seem like this is organic, I wouldn't give it to the New York Post because we're in Utah. And so cops are probably not leaking to a New York-based publication. But whatever, they have the ..."
 
 **[00:28:17](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-18-10)**
 > "...onfessed to them or implied that he had committed the incident. This information was relayed to the Utah County Sheriff's Office and scene investigators at Utah Valley University. This information was als..."
 
-**[00:31:18](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-31-15)**
+**[00:31:15](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-utah-t-00-31-15)**
 > "...gentlemen. We got him. This is a very sad day again for our country—a terrible day for the state of Utah. But I'm grateful that at this moment we have an opportunity to bring closure to this very dark cha..."
 
 </details>
@@ -1834,7 +1855,7 @@ Source: [State of Utah official website](https://utah.gov/)
 **[00:05:52](/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31)**
 > "...gure out that in the past, he has given interviews related to September 11th and Al Qaeda. He is in Utah and he is obstructing justice. And he also happens to have this totally disgusting addiction of som..."
 
-**[00:43:55](/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-43-40)**
+**[00:43:55](/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-43-25)**
 > "...okay? I am in no way attacking that narrative and associating it with the events that took place on Utah's campus, but I don't like little lies. So let's attack this lead up. Okay, let's attack this lead ..."
 
 </details>
@@ -1894,14 +1915,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Residence Of (4)</summary>
-
-- **[Jason Chaffetz](/entities/person-jason-chavitz.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13): “Jason Chavitz is a former politician and a Fox News contributor who was a witness to this event because he is from Utah.”
-
-</details>
+<summary>Residence Of (3)</summary>
 
 - **[Gernot Omer](/entities/person-gernot-omer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1928,7 +1942,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** formerly lived in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1949,13 +1963,6 @@ Source: [State of Utah official website](https://utah.gov/)
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
-
-</details>
-
-- **[Jason Chaffetz](/entities/person-jason-chavitz.md)** lives in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13): “Jason Chavitz is a former politician and a Fox News contributor who was a witness to this event because he is from Utah.”
 
 </details>
 
@@ -1993,7 +2000,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (24)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (25)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2106,19 +2113,12 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
-
-- [00:22:01](/episodes/ep-es7PWdFGoFI.md#t-00-21-57) (Claim) **Candace Owens**: ["Investigators have not called the eyewitness who filmed the person on ..."](/statements/statement-52525852dff1.md)
-
-</details>
-
-<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
-- [00:03:57](/episodes/ep-581dILVcEE4.md#t-00-03-33) (Claim) **Candace Owens**: ["The Egyptian flight SU-BTT landed in Utah six days before Charlie Kirk..."](/statements/statement-ffe2022e7c7f.md)
+- [00:03:57](/episodes/ep-581dILVcEE4.md#t-00-03-51) (Claim) **Candace Owens**: ["The Egyptian flight SU-BTT landed in Utah six days before Charlie Kirk..."](/statements/statement-ffe2022e7c7f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:04:04](/episodes/ep-581dILVcEE4.md#t-00-03-33) (Claim) **Candace Owens**: ["There were 12 to 14 Egyptians on the SU-BTT flight that deplaned on Se..."](/statements/statement-909b6fb76edc.md)
+- [00:04:04](/episodes/ep-581dILVcEE4.md#t-00-03-51) (Claim) **Candace Owens**: ["There were 12 to 14 Egyptians on the SU-BTT flight that deplaned on Se..."](/statements/statement-909b6fb76edc.md)
 
 </details>
 
@@ -2127,6 +2127,14 @@ Source: [State of Utah official website](https://utah.gov/)
 
 - [00:17:22](/episodes/ep-JQjCAsfoXEE.md#t-00-16-57) (Claim) **Candace Owens**: ["The flights were majority clustered within five states: Kansas, Missou..."](/statements/statement-e1f4318d83fd.md)
   - Also about: [Delaware](/entities/gpe-delaware.md), [Kansas](/entities/gpe-kansas.md), [Missouri](/entities/gpe-missouri.md)
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:39:09](/episodes/ep-pc3pxRyNFZk.md#t-00-38-59) (Accusation) **Candace Owens**: ["Owens accused Derek Maxfield and Shelaine Maxfield of running a human ..."](/statements/statement-5dacb848a551.md)
+  - Also about: [Derek Maxfield](/entities/person-derek-maxfield.md), [Shelaine Maxfield](/entities/person-shelaine-maxfield.md)
 
 </details>
 
@@ -2140,6 +2148,14 @@ Source: [State of Utah official website](https://utah.gov/)
 
 - [00:17:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-16-32) (Claim) **Candace Owens**: ["Utah recently modernized their beehive flag, and Utah has always been ..."](/statements/statement-8d437af36e74.md)
   - Also about: [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:15:07](/episodes/ep-UBkFkg4UNY8.md#t-00-14-37) (Claim) **Candace Owens**: ["Owens said the viral photo of George Zinn in handcuffs was shared by a..."](/statements/statement-347a2e20ad26.md)
+  - Also about: [George Zinn](/entities/person-george-zinn.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

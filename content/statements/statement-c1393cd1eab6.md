@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:09:58](/episodes/ep-3QJqtW_NOSI.md#t-00-09-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(598);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=598s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also of interest to us is whether or not Bradley Hansell may have stayed the night on the base in the same hotel that Mitch Snow believes that he saw Erika Kirk. ... He said it was her eyes that were unmistakable. They saw her in that lobby on the 8th leaving, jumping into a green pickup truck, and her eyes reminded him of an ex-girlfriend's eyes and that's why he clocked her. ... He didn't know her, obviously, right when he saw her, but remembered her eyes when he then saw her on stage at the Charlie Kirk memorial event.
 

@@ -3,9 +3,21 @@ title: "Rehoboth Beach"
 description: "Rehoboth Beach (Places) - 1 mention"
 id: "gpe-rehoboth-beach"
 type: "GPE"
+aliases:
+  - "Rehoboth Beach, Delaware"
+categories:
+  - "Delaware coastal city"
 ---
 
 _Type: Places_
+
+**Also known as:** Rehoboth Beach, Delaware
+
+**Categories:** Delaware coastal city
+
+**Entity verification:** verified
+> The City of Rehoboth Beach official website identifies Rehoboth Beach, Delaware, matching the episode's North Shores location context.
+Source: [City of Rehoboth Beach – Official Website](https://www.rehobothbeachde.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-rehoboth-beach-t-00-07-45">2025-12-02 · 00:08:16</a></strong></div>

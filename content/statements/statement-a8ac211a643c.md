@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:39:39](/episodes/ep-BxN2-aeMYIs.md#t-00-39-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2379);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2379s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet, didn't you call our office a few months ago on March 12, 2026, to be exact, profusely apologizing for TPUSA posting a video of Thomas Massie labeling him a rhino that you blamed on some 20-year-old TPUSA intern that was excited about Jake Paul and that you would have never allowed it? ... Didn't you ask us to express your sincerest apologies to Massie, and that TPUSA was not going to get involved with the race, but that you personally wanted Massie to win?
 

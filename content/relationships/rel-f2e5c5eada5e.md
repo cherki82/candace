@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Sigmund Freud](/entities/person-sigmund-freud) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM)**
 
 - [00:12:46](/episodes/ep-DYD_QHMPwqM#t-00-12-46): _It's everything that I have learned studying Sigmund Freud. ... I told you Sigmund Freud was a Satanist._
+
+**[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
+
+- [01:03:29](/episodes/ep-pc3pxRyNFZk#t-01-03-29): _How the hell have our public school systems across the world been telling us that Sigmund Freud was like a wonderful man?_
 
 ### Related
 

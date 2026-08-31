@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:43:53](/episodes/ep-a-e7HC6SeK8.md#t-00-43-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2633);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=2633s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > False flag attack—get the media going—"We have to respond"—and then we just sort of take land
 

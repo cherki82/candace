@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3256);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3256s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What it's looking like is at that Calvary Chapel. has been accused of tons in the past and also accused of hostilely taking over well-meaning faith organizations and ministries with Rob McCoy at the center of some of these scandals, it's looking to me like turning point apparatus provided an opportunity.
 

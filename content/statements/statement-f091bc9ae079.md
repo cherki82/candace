@@ -29,7 +29,7 @@ type: "citation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:05:57](/episodes/ep-SKNJPul29zU.md#t-01-05-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3957);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=3957s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that he the night before texted and said that he thought they were going to kill him and not only that but she explicitly denied that
 

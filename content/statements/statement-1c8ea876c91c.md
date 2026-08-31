@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:14:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-14-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(873);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=873s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm a key witness to Charlie's life. I'm not a particularly important witness to the murder.
 

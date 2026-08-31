@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “that day; after 6 o'clock p.m.”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:09:29](/episodes/ep-HYn0P-P1wUw.md#event-event-2025-09-10-candace-owens-estimated-that-tyler-robin-t-00-08-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(569);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=569s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > after 6 o'clock p.m. is when we are gauging the first correspondence to have taken place

@@ -1,8 +1,8 @@
 ---
 title: "Suspect crossed railing onto roof at approximately 12:15 p.m..."
-description: "\"Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk was shot at 12:23 p.m.\" — Candace Owens"
+description: "\"Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk was shot at 12:23 p.m.\" — Utah County Attorney's Office"
 statement_id: "statement-aebd5ec91482"
-speaker: "Candace Owens"
+speaker: "Utah County Attorney's Office"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,16 +15,17 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Utah County probable cause statement
 
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(508);return false;">Play</a>
+**Timestamp:** [00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-06) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=508s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Police reviewed surveillance from the camera that was covering the roof and discovered that it recorded an individual that was dressed in dark clothing who had crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m
 

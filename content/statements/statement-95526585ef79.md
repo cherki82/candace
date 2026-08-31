@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2954);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2954s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's a Trojan horse. He has completely let people in to destroy America.
 

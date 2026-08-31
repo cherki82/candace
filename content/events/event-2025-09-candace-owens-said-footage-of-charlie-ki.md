@@ -6,6 +6,11 @@ date: "2025-09"
 ---
 
 **Date:** 2025-09
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “less than 24 hours after he was murdered”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:10:13](/episodes/ep-HZvwbfePe7o.md#t-00-09-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(613);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=613s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie's dead body in a casket less than 24 hours after he was murdered

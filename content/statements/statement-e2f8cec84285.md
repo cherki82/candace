@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:00:33](/episodes/ep-SKGUzGHymcI.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(33);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=33s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What was the Egyptian military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware?
 

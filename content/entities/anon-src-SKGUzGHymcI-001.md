@@ -1,6 +1,6 @@
 ---
 title: "Anonymous Source #1 (Ep SKGUzGHymcI)"
-description: "Anonymous Source #1 (Ep SKGUzGHymcI) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #1 (Ep SKGUzGHymcI) (Anonymous Sources) - 1 mention"
 id: "anon-src-SKGUzGHymcI-001"
 type: "ANONYMOUS_SOURCE"
 ---
@@ -9,7 +9,7 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +19,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -38,13 +36,13 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3)</summary>
 
-- [00:07:03](/episodes/ep-SKGUzGHymcI.md#t-00-06-58) [○] (Claim) ["SUBTT's arrival in Wilmington was processed under a diplomatic and dignitary cat..."](/statements/statement-9170d006228d.md)
+- [00:07:03](/episodes/ep-SKGUzGHymcI.md#t-00-06-33) [○] (Claim) ["SUBTT's arrival in Wilmington was processed under a diplomatic and dignitary cat..."](/statements/statement-9170d006228d.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
 
-- [00:08:02](/episodes/ep-SKGUzGHymcI.md#t-00-07-37) [○] (Claim) ["Federal vehicles arrived at and left Wilmington airport in the same window as th..."](/statements/statement-995d8794864a.md)
+- [00:08:02](/episodes/ep-SKGUzGHymcI.md#t-00-07-52) [○] (Claim) ["Federal vehicles arrived at and left Wilmington airport in the same window as th..."](/statements/statement-995d8794864a.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
 
-- [00:14:22](/episodes/ep-SKGUzGHymcI.md#t-00-14-09) [○] (Accusation) ["If SUBTT has been making maintenance runs to Wilmington for decades, it could no..."](/statements/statement-10fa7ba55d22.md)
+- [00:14:22](/episodes/ep-SKGUzGHymcI.md#t-00-14-04) [○] (Accusation) ["If SUBTT has been making maintenance runs to Wilmington for decades, it could no..."](/statements/statement-10fa7ba55d22.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
 
 </details>

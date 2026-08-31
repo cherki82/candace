@@ -5,11 +5,19 @@ id: "person-irenee-du-pont"
 type: "PERSON"
 aliases:
   - "Irénée du Pont"
+categories:
+  - "du Pont family industrialist"
 ---
 
 _Type: People_
 
 **Also known as:** Irénée du Pont
+
+**Categories:** du Pont family industrialist
+
+**Entity verification:** verified
+> Vanity Fair's quotation from The News Journal identifies Irénée du Pont as Robert Richards IV's great-grandfather and du Pont family patriarch.
+Source: [Du Pont Heir Gets No Prison Time for Raping 3-Year-Old Daughter](https://www.vanityfair.com/news/business/2014/03/du-pont-heir-gets-probation-for-raping-3-year-old-daughter)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-irenee-du-pont-t-00-08-27">2025-12-02 · 00:08:27</a></strong></div>

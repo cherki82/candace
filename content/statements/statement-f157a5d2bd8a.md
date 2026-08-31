@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:18:36](/episodes/ep-4JxgOclKzqg.md#t-00-18-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1116);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=1116s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's the question. Okay. So what we can discern from this is that for whatever reason of all the camera footage that was provided across four cameras, only one of the four cameras that had footage, they felt they needed to turn into a clip. Like I said, we're not sure if Terrell (Terrell Farnsworth) clipped it or if it was SBI that clipped it.
 

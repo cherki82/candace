@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:18:09](/episodes/ep-i8m_6D4QGmk.md#t-00-17-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1089);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kash Patel continually stressing 33 hours was not random. It did not feel subtle. It seemed to me and to many others that was some sort of signaling.
 

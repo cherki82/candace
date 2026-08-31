@@ -23,8 +23,8 @@ _Type: People_
 Source: [The battle over who governs online speech — The Jerusalem Post](https://www.jpost.com/diaspora/article-862765)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06">2025-10-01 · 00:44:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06">2025-10-01 · 00:44:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-02">2025-10-01 · 00:44:06</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-02">2025-10-01 · 00:44:06</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -35,15 +35,15 @@ Source: [The battle over who governs online speech — The Jerusalem Post](https
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-02">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-02" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-02) | 1 |
 
 </details>
 </section>
@@ -56,7 +56,7 @@ Source: [The battle over who governs online speech — The Jerusalem Post](https
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:44:06](/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06)**
+**[00:44:06](/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-02)**
 > "There is a note here for my producer from Erica Mindel, who is an American-Israeli Jewish former IDF soldier currently serving as the—oh, that's her name, right? Erica Mindel."
 
 </details>
@@ -72,7 +72,7 @@ Source: [The battle over who governs online speech — The Jerusalem Post](https
 - **[TikTok](/entities/org-tiktok.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#t-00-44-02): “And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier”
 
 </details>
 
@@ -84,7 +84,7 @@ Source: [The battle over who governs online speech — The Jerusalem Post](https
 - **[TikTok](/entities/org-tiktok.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#t-00-44-02): “And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier”
 
 </details>
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:03:54](/episodes/ep-X3VKJVJ7cN4.md#t-00-03-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(234);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=234s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This piece is a collar from the T-shirt. The black would more than likely be from the burning of the explosion, but the thick folded and end that's facing the camera most surely the bias band, the seam of the T-shirt that looks clearly cut off.
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1238);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1238s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination. On August 18th, 2025.
 

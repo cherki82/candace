@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:48:15](/episodes/ep-SgVcnx4Oh30.md#t-00-47-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2895);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2895s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's so overwhelming. He hasn't even been arraigned yet. He hasn't even pled guilty. They keep telling us he confessed, but they lost the tape.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:47:02](/episodes/ep-nPhCKwJ6ye8.md#t-00-47-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2822);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2822s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > tyler robinson's dna was on there you made the claim that lance Lance Twigg's DNA was on there, and it was not.
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:22:24](/episodes/ep-aPOyk1i2LOc.md#t-00-22-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1344);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=1344s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson's DNA was on there. You made the claim that Lance Lance Twig's DNA was on there and it was not.
 

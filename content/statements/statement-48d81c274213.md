@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:26:21](/episodes/ep-BxN2-aeMYIs.md#t-00-26-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1581);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1581s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what Trump is doing right now, what this administration is doing, is they are squeezing our rights. ... because they are stripping so much of our power, our power in the process. And it seems obvious to me they have a stranglehold over Trump.
 

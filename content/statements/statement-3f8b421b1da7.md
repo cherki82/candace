@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:38:13](/episodes/ep-qZ8RWfyuewQ.md#t-00-37-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2293);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=2293s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > First is that it was nine minutes and then they just played Charlie Kirk clips for the rest, the remaining almost two hours. ... The second thing is that it was pre-recorded. Okay. It was straight from the teleprompter and it was very clearly not written by her.
 

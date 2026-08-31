@@ -6,6 +6,11 @@ date: "2025-11"
 ---
 
 **Date:** 2025-11
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “upon its opening that November”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-11"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:26:04](/episodes/ep-X92MllIHDzw.md#event-event-2025-11-courage-house-nevada-opened-at-the-washo-t-00-25-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1564);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1564s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and that's immediately upon its opening that November, this is the goal, a 40-acre property

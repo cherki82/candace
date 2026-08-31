@@ -6,6 +6,11 @@ date: "2025"
 ---
 
 **Date:** 2025
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “last year”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [01:05:45](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3945);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3945s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Aubrey approached several conservatives last year in an effort to recruit them

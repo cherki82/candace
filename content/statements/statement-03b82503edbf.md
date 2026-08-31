@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [01:08:21](/episodes/ep-E7P2ShoYDUA.md#t-01-07-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=4101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So she writes this long tweet and it's right there in yellow. She says, of course, Candace (Candace Owens) would know the details better. ... She's been covering this day in and day out for 11 months and doing practically nothing else. ... Andrew (Andrew Wilson) had about six days to prepare. There's no way he was going to beat her on having more knowledge of the details.
 

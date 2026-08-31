@@ -1,6 +1,6 @@
 ---
 title: "Anonymous Source #2 (Ep 9k2xrAC0H88)"
-description: "Anonymous Source #2 (Ep 9k2xrAC0H88) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #2 (Ep 9k2xrAC0H88) (Anonymous Sources) - 1 mention"
 id: "anon-src-9k2xrAC0H88-002"
 type: "ANONYMOUS_SOURCE"
 ---
@@ -9,7 +9,7 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +19,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -41,13 +39,13 @@ _No relationships extracted yet._
 - [00:12:06](/episodes/ep-9k2xrAC0H88.md#t-00-11-48) [○] (Claim) ["The area where the gun was found had already been searched by veteran police off..."](/statements/statement-d73a94a9bf4b.md)
   - About: [FBI](/entities/org-fbi.md)
 
-- [00:15:03](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] (Claim) ["Federal officers were going around asking police officers questions like how lon..."](/statements/statement-2114254e6814.md)
+- [00:15:03](/episodes/ep-9k2xrAC0H88.md#t-00-14-43) [○] (Claim) ["Federal officers were going around asking police officers questions like how lon..."](/statements/statement-2114254e6814.md)
   - About: [FBI](/entities/org-fbi.md)
 
-- [00:15:08](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] (Claim) ["Federal officers directed three police officers with less than 18 months total e..."](/statements/statement-03f282530be9.md)
+- [00:15:08](/episodes/ep-9k2xrAC0H88.md#t-00-14-43) [○] (Claim) ["Federal officers directed three police officers with less than 18 months total e..."](/statements/statement-03f282530be9.md)
   - About: [FBI](/entities/org-fbi.md)
 
-- [00:18:25](/episodes/ep-9k2xrAC0H88.md#t-00-18-06) [○] (Accusation) ["Police officers involved in the Charlie Kirk investigation felt they were being ..."](/statements/statement-432740bb95f5.md)
+- [00:18:25](/episodes/ep-9k2xrAC0H88.md#t-00-18-03) [○] (Accusation) ["Police officers involved in the Charlie Kirk investigation felt they were being ..."](/statements/statement-432740bb95f5.md)
   - About: [FBI](/entities/org-fbi.md)
 
 - [00:20:19](/episodes/ep-9k2xrAC0H88.md#t-00-20-09) [○] (Claim) ["A white Toyota RAV4 was pulled over shortly after the shot was fired and the dri..."](/statements/statement-a8014ace8744.md)

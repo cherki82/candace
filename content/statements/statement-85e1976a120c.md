@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:02:28](/episodes/ep-iB-YtO3UZOg.md#t-00-02-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(148);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=148s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2024, when our chief medical examiner, Dr. Deidre Amaro, began to rule the roost, she decided to select him as her deputy. So he was promoted in 2024 when she got there to the role of deputy chief examiner.
 

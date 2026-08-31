@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:36:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2196);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2196s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so in conclusion, what we're going to do is we're going to punish Carrie Prejean Boller for her faith, being a Catholic
 

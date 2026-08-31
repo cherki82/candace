@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:11:21](/episodes/ep-Dkxa9OUA9K8.md#t-00-11-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(681);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe that he's the trafficker himself.
 

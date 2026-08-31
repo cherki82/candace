@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:00:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(20);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=20s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, Ben Shapiro watches every single minute of this show. Trust me, he directly quotes it all the time everywhere he goes.
 

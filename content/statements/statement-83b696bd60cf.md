@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:36:08](/episodes/ep-1IY2oD-_xVA.md#t-00-36-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2168);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2168s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > John Money. The notorious psychologist who like was one of the fathers of transgenderism who then it turned out notoriously abused children.
 

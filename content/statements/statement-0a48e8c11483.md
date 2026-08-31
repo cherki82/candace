@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:16:23](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(983);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=983s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We all know we went into Iraq under false pretenses, right? They told us weapons of mass destruction, right? They said that we didn't find weapons of mass destruction, but I have a feeling we found the weapon of mass destruction and we set up shop there immediately after that and established 500 military bases in the largest embassy of any other embassy on the entire planet in Babylon.
 

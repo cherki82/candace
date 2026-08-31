@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk"
-description: "Elon Musk (People) - 31 mentions"
+description: "Elon Musk (People) - 32 mentions"
 id: "person-elon-musk"
 type: "PERSON"
 aliases:
@@ -21,13 +21,13 @@ _Type: People_
 Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-45">2025-09-25 · 00:20:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-58">2025-09-25 · 00:20:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-elon-musk-t-00-22-29">2026-05-13 · 00:22:56</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,16 +35,17 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-person-elon-musk-t-00-00-00">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-45" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#t-00-29-54" style="--pulse-height:25%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elon-musk-t-00-08-20" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-58" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#t-00-29-53" style="--pulse-height:25%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elon-musk-t-00-08-38" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-elon-musk-t-00-41-32" style="--pulse-height:25%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-elon-musk-t-00-00-00" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 4 mentions" title="2025-10-07 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-elon-musk-t-00-13-36" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-elon-musk-t-00-50-24" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#t-01-01-12" style="--pulse-height:25%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-elon-musk-t-00-13-24" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-elon-musk-t-00-50-32" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-elon-musk-t-00-16-26" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-elon-musk-t-00-11-55" style="--pulse-height:50%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-51-55" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-52-07" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-elon-musk-t-00-14-14" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-elon-musk-t-00-05-45" style="--pulse-height:50%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-elon-musk-t-00-36-50" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -58,16 +59,17 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-45) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-29-54) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elon-musk-t-00-08-20) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-58) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-29-53) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elon-musk-t-00-08-38) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-elon-musk-t-00-41-32) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-elon-musk-t-00-00-00) | 4 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-elon-musk-t-00-13-36) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-elon-musk-t-00-50-24) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#t-01-01-12) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-elon-musk-t-00-13-24) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-elon-musk-t-00-50-32) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-elon-musk-t-00-16-26) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-elon-musk-t-00-11-55) | 2 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-51-55) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-52-07) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-elon-musk-t-00-14-14) | 4 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-elon-musk-t-00-05-45) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-elon-musk-t-00-36-50) | 1 |
@@ -83,7 +85,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (4 mentions)</summary>
@@ -176,10 +178,10 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:52:31](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-51-55)**
+**[00:52:31](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-52-07)**
 > "I said, Elon Musk handed over X to the military"
 
-**[00:52:29](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-51-55)**
+**[00:52:26](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-52-07)**
 > "Well, everybody was loving Elon Musk."
 
 </details>
@@ -206,7 +208,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:50:46](/episodes/ep-vwG1juDCQZQ.md#ent-person-elon-musk-t-00-50-24)**
+**[00:50:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-elon-musk-t-00-50-32)**
 > "...y—" No: you don't do a Doge every year. Do I know how I know that? Because Doge didn't exist before Elon Musk. So it's like: what are you saying? They want us to pretend we're really dumb, and it's emotionally..."
 
 </details>
@@ -214,8 +216,16 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:13:47](/episodes/ep-iHav0PPzUz8.md#ent-person-elon-musk-t-00-13-36)**
+**[00:13:44](/episodes/ep-iHav0PPzUz8.md#ent-person-elon-musk-t-00-13-24)**
 > "... debunked. And I was like, ah, I've been telling you guys for a while, the military runs X—like not Elon Musk, the military. These are military bots that you're seeing on X. But that was essentially the vibe. ..."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
+
+**[01:01:12](/episodes/ep-pc3pxRyNFZk.md#t-01-01-12)**
+> "...haven't been investigating on Elon's platform enough." I can tell you definitively—d..."
 
 </details>
 
@@ -247,7 +257,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:08:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elon-musk-t-00-08-20)**
+**[00:08:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elon-musk-t-00-08-38)**
 > "...ing that. He's acting right now. He's pretending that he's delivering some form of justice. I think Elon Musk tweeted about Charlie (Charlie Kirk) and TPUSA being on the list, and then it kind of caught fire. ..."
 
 </details>
@@ -255,7 +265,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:30:08](/episodes/ep-adJ4LNGp84I.md#t-00-29-54)**
+**[00:30:08](/episodes/ep-adJ4LNGp84I.md#t-00-29-53)**
 > "...u know, so we have to talk to Elon."
 
 </details>
@@ -263,7 +273,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:20:21](/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-45)**
+**[00:20:21](/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-58)**
 > "...ing that he was putting together a DOGE department. Yes, a Department of Government Efficiency like Elon Musk and Vivek Ramaswamy had set out to do. Trump (Donald Trump) won. They got behind him, right? They s..."
 
 </details>
@@ -273,29 +283,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Owns (1)</summary>
-
-- **[Twitter](/entities/org-twitter.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:52:34](/episodes/ep-9k2xrAC0H88.md#t-00-51-55): “Elon Musk handed over X to the military.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Twitter](/entities/org-twitter.md)** owned by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:52:34](/episodes/ep-9k2xrAC0H88.md#t-00-51-55): “Elon Musk handed over X to the military.”
-
-</details>
-
-</details>
+_No relationships extracted yet._
 
 </details>
 
@@ -313,7 +301,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-39) (Accusation) **Candace Owens**: ["Elon Musk handed over X to the military and military bots operate on t..."](/statements/statement-75ff8a7c45e0.md)
+- [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-46) (Accusation) **Candace Owens**: ["Elon Musk handed over X to the military and military bots operate on t..."](/statements/statement-75ff8a7c45e0.md)
   - Also about: [Twitter](/entities/org-twitter.md)
 
 </details>

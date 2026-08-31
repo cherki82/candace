@@ -1,6 +1,6 @@
 ---
-title: "Erika Kirk flew to DC to attend Sergio Gor's swearing in as ..."
-description: "\"Erika Kirk flew to DC to attend Sergio Gor's swearing in as Ambassador to India\" — Candace Owens"
+title: "Owens said Erika Kirk flew to Washington, D.C., for Sergio G..."
+description: "\"Owens said Erika Kirk flew to Washington, D.C., for Sergio Gor's swearing-in as ambassador to India\" — Candace Owens"
 statement_id: "statement-8c08ccef4942"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Erika Kirk flew to DC to attend Sergio Gor's swearing in as Ambassador to India
+> Owens said Erika Kirk flew to Washington, D.C., for Sergio Gor's swearing-in as ambassador to India
 
 ## Attribution
 
@@ -29,16 +29,16 @@ veracity: "mixed"
 ### 1. UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Cand...
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(605);return false;">Play</a>
+**Timestamp:** [00:10:04](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=604s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> She made time, by the way, in case you don't remember, to fly to DC for Sergio (Sergio Gore) to be sworn into the ambassador
+> She sat down with the New York Times. She made time, by the way, in case you don't remember, to fly to DC for Sergio (Sergio Gor) to be sworn into the ambassador to India as the ambassador to India, which feels kind of obscure and not necessarily related turning point USA affairs, building affairs or whatever it is.
 
 ### 2. BREAKING! The White House Attempted To Rescind This E-mail. ...
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:23:30](/episodes/ep-7FS1tUeSfdE.md#t-00-23-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1410);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=1410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like, she flew to Washington, D.C., so to the other side of the country, leaving your kids in such an emotionally critical time. You would not be able to wedge me away from my children just to watch this guy, Sergio Gor, be named ambassador to India.
 

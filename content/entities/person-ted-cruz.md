@@ -3,17 +3,26 @@ title: "Ted Cruz"
 description: "Ted Cruz (People) - 12 mentions"
 id: "person-ted-cruz"
 type: "PERSON"
+categories:
+  - "United States politics"
+  - "U.S. Senate"
 ---
 
 _Type: People_
+
+**Categories:** United States politics, U.S. Senate
+
+**Entity verification:** verified
+> Official Senate biography confirms the canonical name Ted Cruz and his service as U.S. Senator for Texas.
+Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-ted-cruz-t-00-38-09">2025-09-22 · 00:38:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41">2026-03-26 · 00:30:41</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>12</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -66,16 +75,16 @@ _Type: People_
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
 
 **[00:19:15](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-19-15)**
-> "...this country Israel, why don't you just go live in Israel? And here's what she had to say regarding Ted Cruz. (Clip of Brett Cooper on Ted Cruz) Take a listen. You are so blinded by your ridiculous, insane ha..."
+> "And here's what she had to say regarding Ted Cruz. (Clip of Brett Cooper on Ted Cruz) Take a listen."
 
 **[00:19:26](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-19-19)**
 > "... that you could not see how irresponsible and hypocritical you are being. I mean, these tweets from Ted Cruz—I'm going to read you next—are a great example of this. So just a month ago, he tweeted this. He sa..."
 
-**[00:21:40](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-21-38)**
+**[00:21:38](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-21-32)**
 > "...don't even have the same ideas. It's completely—she's saying something sensible, but it gets worse. Ted Cruz—who's a pretty sensible guy—comes out and tries to big-time her. I don't know how we thought that w..."
 
-**[00:21:52](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-21-38)**
-> "... loserish. Tried to big-time a 23-year-old with, "Who are you?" Here's what he had to say. (Clip of Ted Cruz) I don't know who this angry lady is, but she's missing a key distinction. Fuentes calls himself a ..."
+**[00:21:52](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-21-32)**
+> "Here's what he had to say. (Clip of Ted Cruz)"
 
 </details>
 
@@ -99,11 +108,11 @@ _Type: People_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
-**[00:38:09](/episodes/ep-ja26iltROkM.md#ent-person-ted-cruz-t-00-38-09)**
-> "... (Charlie Kirk clip continued) "How many of you guys think when a lawmaker—and a man I respect like Ted Cruz—uses the Bible to justify aid to Israel, doesn't even know the verse, do you guys think that's like..."
-
 **[00:38:24](/episodes/ep-ja26iltROkM.md#ent-person-ted-cruz-t-00-38-09)**
 > "...erse, do you guys think that's like not the best way to approach this? Raise your hand. OK. I think Ted Cruz is Genesis 12:3. I think a lot of people see those as off-putting when you look at the New Test—" "..."
+
+**[00:38:09](/episodes/ep-ja26iltROkM.md#ent-person-ted-cruz-t-00-38-09)**
+> ""How many of you guys think when a lawmaker—and a man I respect like Ted Cruz—uses the Bible to justify aid to Israel, doesn't even know the verse,"
 
 </details>
 
@@ -130,7 +139,7 @@ _Type: People_
 - **[Brett Cooper](/entities/person-brett-cooper.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15): “You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-19): “You are so blinded by your ridiculous, insane hatred of Tucker Carlson that you could not see how irresponsible and hypocritical you are being. ... I mean, these tweets from Ted Cruz—I'm going to read you next—are a great example of this.”
 
 </details>
 
@@ -142,7 +151,7 @@ _Type: People_
 - **[Brett Cooper](/entities/person-brett-cooper.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15): “You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-19): “You are so blinded by your ridiculous, insane hatred of Tucker Carlson that you could not see how irresponsible and hypocritical you are being. ... I mean, these tweets from Ted Cruz—I'm going to read you next—are a great example of this.”
 
 </details>
 
@@ -158,28 +167,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ted Cruz (2)</strong></summary>
+<summary><strong class="section-title">Statements by Ted Cruz (3)</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3)</summary>
 
-- [00:19:51](/episodes/ep-LATnak75Si0.md#t-00-19-19) [○] (Opinion) ["They don't kill you because you're a Nazi. They call you a Nazi so they can kill..."](/statements/statement-5e9a3bd3c3eb.md)
-  - About: [Ted Cruz](/entities/person-ted-cruz.md)
+- [00:19:51](/episodes/ep-LATnak75Si0.md#t-00-19-19) [✓] (Opinion) ["They don't kill you because you're a Nazi. They call you a Nazi so they can kill..."](/statements/statement-5e9a3bd3c3eb.md)
 
-- [00:20:09](/episodes/ep-LATnak75Si0.md#t-00-20-02) [○] (Accusation) ["Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad"](/statements/statement-ff670def82b5.md)
+- [00:20:09](/episodes/ep-LATnak75Si0.md#t-00-20-02) [◐] (Accusation) ["Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad"](/statements/statement-ff670def82b5.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
 
-</details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about Ted Cruz (1)</strong></summary>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
-
-- [00:19:51](/episodes/ep-LATnak75Si0.md#t-00-19-19) (Opinion) **Ted Cruz** (via quoted tweet): ["They don't kill you because you're a Nazi. They call you a Nazi so the..."](/statements/statement-5e9a3bd3c3eb.md)
+- [00:21:53](/episodes/ep-LATnak75Si0.md#t-00-21-53) [✓] (Accusation) ["Ted Cruz said Nick Fuentes calls himself a Nazi and has said Hitler was very coo..."](/statements/statement-1fcea6a986b9.md)
+  - About: [Nick Fuentes](/entities/person-nick-fuentes.md)
 
 </details>
 

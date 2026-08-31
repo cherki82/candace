@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:03:39](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(219);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=219s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pastor Rob McCoy, who had previously never been featured on their Wikipedia page, somehow got his own heading. ... It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together."
 
@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:03:21](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(201);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Is the fact that less than 36 hours after Charlie died—less than 36 hours, exact time, at 10:34 p.m
 

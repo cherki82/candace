@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:32:26](/episodes/ep-I0OaY6Gryqk.md#t-00-32-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1946);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He writes, we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one. ... We are generally put off by how Charlie Kirk has been used by Turning Point USA since its assassination. ... Statements like, quote, Charlie (Charlie Kirk) would have said and, quote. Charlie (Charlie Kirk) would have wanted have felt in many instances disingenuous and manipulative. ... Charlie Kirk cannot speak for himself anymore. And we do not recognize the way others have attempted to speak for him.
 

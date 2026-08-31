@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:25:15](/episodes/ep-1IY2oD-_xVA.md#t-00-24-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1515);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1515s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > psychological methods with students. Yeah, you know where this is going. Dr. Jerri Frantzve is going to be the person that helps develop the Tesseract way.
 

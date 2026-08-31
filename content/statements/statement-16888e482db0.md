@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:04:21](/episodes/ep-YeEtS7nix3o.md#t-00-04-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(261);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=261s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the latest is Putin himself has just asked Candace Owens to speak today at this convention.
 

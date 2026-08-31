@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:08:49](/episodes/ep-sKuYLNx3iRo.md#t-00-08-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(529);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=529s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have to then logically consider that Brian (Brian Harpole) removed Charlie (Charlie Kirk)'s shirt somewhere else, right? And the only other option would be in the car on the way over to the hospital. Now, beyond anything else, the story that Brian (Brian Harpole) tells us about what did happen in the car does not match the evidence of what we see in the photos that we were never supposed to have in our possession. These photos were never supposed to see the light.
 

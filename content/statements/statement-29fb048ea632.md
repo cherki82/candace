@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:12:52](/episodes/ep-MhakwJxK-Zk.md#t-00-12-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(772);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=772s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > SAM 702 was leaving Fort Huachuca and heading for El Paso, Texas, in a time frame that would work with this alleged meeting on the morning of September 9th. ... And now we can reveal the name of one of those VIPs who was aboard the plane, apparently with four other people. ... His name is Bradley Hansell.
 

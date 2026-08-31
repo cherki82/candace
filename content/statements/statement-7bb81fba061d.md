@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:46:17](/episodes/ep-19vHhjF7-NA.md#t-00-46-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2777);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2777s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We filed an FOIA request. Oh, and we also have book club tomorrow, but we filed an FOIA request for Brad Hansell, the undersecretary of war.
 

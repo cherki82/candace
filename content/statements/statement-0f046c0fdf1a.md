@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk.
 

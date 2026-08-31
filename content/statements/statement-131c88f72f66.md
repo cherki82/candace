@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:10:55](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(655);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=655s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lori Frantzve established the Everyday Heroes Foundation, which was supposed to help children in need. ... what spun out from Lori's charity was the Romanian Angels Project ... they worked with the military in Romania to help orphans.
 

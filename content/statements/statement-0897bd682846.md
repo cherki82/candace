@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:15:30](/episodes/ep-KpxIBWkNsSs.md#t-00-15-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(930);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She went to Michigan to Hillsdale College to deliver a commencement address. ... And simultaneously she accepted a posthumous doctorate degree for Charlie (Charlie Kirk). honorary doctorate and also an honorary doctorate for herself.
 

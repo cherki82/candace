@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:06:36](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(396);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=396s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears.
 

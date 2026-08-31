@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md)
 **Timestamp:** [00:15:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(907);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=907s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > speaks about, as I told you yesterday, how Turning Point will be hosting a Shabbat dinner
 

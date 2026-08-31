@@ -28,7 +28,7 @@ type: "promise"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:30:40](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1840);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1840s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Hamas is not in the West Bank, and that is what she wanted in exchange. After she said this to Trump, Trump went, it was wherever Charlie (Charlie Kirk) was, Trump was adjusting his tie and looking in the mirror and he said, I'm going to take her money and then I'll F her over.
 

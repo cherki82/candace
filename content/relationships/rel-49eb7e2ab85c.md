@@ -1,15 +1,15 @@
 ---
-title: "Lou Taylor owns Tristar"
-description: "Evidence for the relationship: Lou Taylor owns Tristar"
+title: "Lou Taylor owns Tri Star Sports and Entertainment Group"
+description: "Evidence for the relationship: Lou Taylor owns Tri Star Sports and Entertainment Group"
 relationship_id: "rel-49eb7e2ab85c"
 subject: "person-lou-taylor"
 predicate: "owns"
-object: "org-tristar"
+object: "org-tri-star-sports-and-entertainment-group"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Lou Taylor](/entities/person-lou-taylor) owns [Tristar](/entities/org-tristar)
+## [Lou Taylor](/entities/person-lou-taylor) owns [Tri Star Sports and Entertainment Group](/entities/org-tri-star-sports-and-entertainment-group)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-tristar"
 ### Related
 
 - [Lou Taylor](/entities/person-lou-taylor)
-- [Tristar](/entities/org-tristar)
+- [Tri Star Sports and Entertainment Group](/entities/org-tri-star-sports-and-entertainment-group)

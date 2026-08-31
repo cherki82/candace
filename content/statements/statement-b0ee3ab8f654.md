@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:42:57](/episodes/ep-k8ueJdPFel4.md#t-00-42-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2577);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=2577s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But the main reason they do it is to leak the existence of the investigation, such as it is, to the media, and then humiliate and terrify the subjects of this op.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:15:19](/episodes/ep-eMtjzXkQrsU.md#t-00-15-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(919);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=919s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But they also contracted on that same date, September 18th, Clocktower LLC, okay? Clocktower LLC, don't worry, we're going to show you a map and a timeline.
 

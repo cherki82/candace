@@ -16,7 +16,7 @@ _Type: Works & Media_
 
 **Categories:** reality television series
 
-> **Possibly overlapping entity records:** [Real Housewives](/entities/work-real-housewives). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [The Real Housewives](/entities/work-the-real-housewives). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Official network page confirms the full canonical series title.

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:05:44](/episodes/ep-ZGxnf5cj4Uw.md#t-00-05-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(344);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=344s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That quote-unquote family friend, who we learned was a former detective with the police force—and so therefore has strong ties with the police station—informed the family.
 

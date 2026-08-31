@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:54:53](/episodes/ep-tB5SXXmd9vU.md#t-00-54-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3293);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=3293s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brigitte Macron's true origins, what Brigitte Macron was involved in in the United States while living as Jean-Michel Trogneux
 

@@ -6,6 +6,11 @@ date: "2025-10-04"
 ---
 
 **Date:** 2025-10-04
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “October 4th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-10-04"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:36:10](/episodes/ep-DEtFh2Ff-58.md#event-event-2025-10-04-a-plane-described-as-frequently-used-by--t-00-33-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=2170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The new plane went to Fort Huachuca on October 4th and then went to Kalispell.
 
@@ -25,6 +30,6 @@ date: "2025-10-04"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:33:55](/episodes/ep-DEtFh2Ff-58.md#event-event-2025-10-04-a-plane-described-as-frequently-used-by--t-00-33-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2035);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=2035s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > after Charlie's assassination on October 4th, that plane was in Fort Huachuca all day

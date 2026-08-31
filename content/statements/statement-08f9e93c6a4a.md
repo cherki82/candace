@@ -1,6 +1,6 @@
 ---
-title: "Mikey was promised or told or encouraged that he would becom..."
-description: "\"Mikey was promised or told or encouraged that he would become the new Charlie Kirk\" — Candace Owens"
+title: "I think Mikey McCoy was promised, told, or encouraged that h..."
+description: "\"I think Mikey McCoy was promised, told, or encouraged that he would become the new Charlie Kirk.\" — Candace Owens"
 statement_id: "statement-08f9e93c6a4a"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Mikey was promised or told or encouraged that he would become the new Charlie Kirk
+> I think Mikey McCoy was promised, told, or encouraged that he would become the new Charlie Kirk.
 
 ## Attribution
 
@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:08:29](/episodes/ep-Qfwr08Ebczo.md#t-00-08-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(509);return false;">Play</a>
+**Timestamp:** [00:08:29](/episodes/ep-Qfwr08Ebczo.md#t-00-08-16) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=509s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think Mikey was promised or told or encouraged that he would become the new Charlie Kirk
 

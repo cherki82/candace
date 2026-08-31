@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:45:26](/episodes/ep-ja26iltROkM.md#t-00-45-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2726);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=2726s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I think it is amazing that Erika found it in her heart to forgive, but it is also my belief that there are more people involved that are in need of forgiveness.
 

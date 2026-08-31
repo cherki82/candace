@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:46:33](/episodes/ep-ds6umq1rHAw.md#t-00-46-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2793);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=2793s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mikey (Michael McCoy) may have had two phones. That is a plausibility, but it is also a plausibility that Charlie (Charlie Kirk) gave his phone to Mikey (Michael McCoy) just ahead of the event because I did that a lot with Charlie (Charlie Kirk). We would hand our phones to our assistants.
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:32:26](/episodes/ep-jTj9Ip46r4w.md#t-00-31-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1946);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The assassination of President McKinley done by a Polish man named Leon Czolgosz, who was radicalized by a Jewish Russian immigrant named Emma Goldman.
 

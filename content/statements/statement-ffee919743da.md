@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:00:49](/episodes/ep-a-e7HC6SeK8.md#t-00-00-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(49);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=49s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They came over and they helped us win our big independence from the big bad Brits
 

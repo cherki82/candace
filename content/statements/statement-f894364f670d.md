@@ -19,23 +19,18 @@ veracity: "true"
 
 **Delivery:** Made directly
 
-## Appearances (2)
+## About
 
-### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+- [New York City](/entities/gpe-new-york-city.md) (gpe)
+- [Israel](/entities/gpe-israel.md) (gpe)
+
+## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:14:26](/episodes/ep-LATnak75Si0.md#t-00-13-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(866);return false;">Play</a>
+**Timestamp:** [00:14:26](/episodes/ep-LATnak75Si0.md#t-00-14-25) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=866s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Keep in mind, by the way, Mamdani won—and New York has the largest population of Jewish people of any city in the world next to Israel.
-
-### 2. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
-
-**Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:14:12](/episodes/ep-LATnak75Si0.md#t-00-13-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(852);return false;">Play</a>
-
-> What are you doing wearing the Israeli flag as a pin on your jacket?" No one can answer these questions, and they do the same thing: "I love Israel more." "No, I love Israel more." "No, I love Israel more." Keep in mind, by the way, Mamdani won—and New York...
 
 ## Verification
 

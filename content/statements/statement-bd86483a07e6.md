@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:02:11](/episodes/ep-YaZfwLQ7vrI.md#t-00-02-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(131);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=131s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was like UV was a trauma one, and Timpanogos was trauma three, and a bunch of people said, "Very strange that they took him here." And then it got strange because we started hearing from other people that he was definitely at UV Hospital
 

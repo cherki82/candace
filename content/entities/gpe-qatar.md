@@ -1,6 +1,6 @@
 ---
 title: "Qatar"
-description: "Qatar (Places) - 23 mentions"
+description: "Qatar (Places) - 32 mentions"
 id: "gpe-qatar"
 type: "GPE"
 categories:
@@ -17,45 +17,47 @@ _Type: Places_
 Source: [Government Communications Office | State of Qatar](https://www.gco.gov.qa/en/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-45">2025-09-17 · 01:06:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-16">2025-09-17 · 01:06:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-qatar-t-00-49-18">2026-05-27 · 00:49:34</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-qatar-t-00-35-45">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-00-40-22">Erika And I Sat Down. Here’s What Happened. | Candace Ep 280</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-45" style="--pulse-height:25%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-qatar-t-00-35-45" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-qatar-t-00-37-27" style="--pulse-height:25%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-qatar-t-00-36-02" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-05" style="--pulse-height:75%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-qatar-t-00-47-32" style="--pulse-height:25%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-53-44" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-qatar-t-00-39-23" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-qatar-t-00-39-08" style="--pulse-height:50%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-qatar-t-00-34-36" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-qatar-t-01-05-04" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-qatar-t-00-49-18" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-16" style="--pulse-height:11%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-qatar-t-00-35-45" style="--pulse-height:44%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-qatar-t-00-37-27" style="--pulse-height:11%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-qatar-t-00-36-02" style="--pulse-height:11%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-02" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-qatar-t-00-47-28" style="--pulse-height:11%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-53-24" style="--pulse-height:22%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-qatar-t-00-39-23" style="--pulse-height:11%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-00-40-22" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 9 mentions" title="2025-12-16 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-qatar-t-00-39-08" style="--pulse-height:22%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-qatar-t-00-34-36" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-qatar-t-01-05-04" style="--pulse-height:22%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-qatar-t-00-49-18" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-45) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-16) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-qatar-t-00-35-45) | 4 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-qatar-t-00-37-27) | 1 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-qatar-t-00-36-02) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-05) | 3 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-qatar-t-00-47-32) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-53-44) | 2 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-qatar-t-00-39-23) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-02) | 3 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-qatar-t-00-47-28) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-53-24) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-qatar-t-00-39-23) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-00-40-22) | 9 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-qatar-t-00-39-08) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-qatar-t-00-34-36) | 3 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-qatar-t-01-05-04) | 2 |
@@ -67,7 +69,7 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -114,23 +116,52 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (9 mentions)</summary>
+
+**[00:40:22](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-00-40-22)**
+> "...usband's ever even flown over Qatar. I could be wrong, but I don't think he's there."
+
+**[00:40:26](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-00-40-22)**
+> "I know he's never been to Qatar. I don't think he's ever flown over Qatar and the..."
+
+**[00:42:46](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-00-42-18)**
+> "Why are we talking about Qatar? Why are they making these things up? And I have ..."
+
+**[01:12:11](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-01-11-57)**
+> "...Lastly, Lamp writes, how come Qatar is always used as the go-to punching bag by the m..."
+
+**[01:12:21](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-01-11-57)**
+> "Why does Qatar never even push back and Qatar seems to never att..."
+
+**[01:12:27](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-01-11-57)**
+> "...negative toward Israel? Well, Qatar recently came out and said, yeah, we work with Ha..."
+
+**[01:12:51](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-01-12-36)**
+> "... I don't understand the weird Qatar thing. Like I said, I would take Qatari money."
+
+**[01:13:21](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-01-13-21)**
+> "I am open to being paid by Qatar. So, I don't get it. I don't know why Jared Kushn..."
+
+**[01:13:36](/episodes/ep-es7PWdFGoFI.md#ent-gpe-qatar-t-01-13-21)**
+> "...do I have to do to be seen by Qatar? I guess it's a question for another day."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:39:33](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-qatar-t-00-39-23)**
-> "...ealed, am I correct that, oh, Qatar came out, tuck across in an interview,"
-
-**[00:39:42](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-qatar-t-00-39-23)**
-> "Qatar revealed in Tucker Carlson interview that US asked them to have relationship with Hamas"
+> "I think, actually, just this past weekend, it was revealed—am I correct?—that, oh, Qatar came out, Tucker (Tucker Carlson) did an interview,"
 
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:54:02](/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-53-44)**
+**[00:54:00](/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-53-24)**
 > "...kehimasandwich.com. If you would like to support my work—my independent work—I am not yet funded by Qatar. I'm desperate to be funded by Qatar. I don't know why they won't call me. Anyways, makehimasandwic..."
 
-**[00:54:05](/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-53-44)**
+**[00:54:05](/episodes/ep-iHav0PPzUz8.md#ent-gpe-qatar-t-00-54-05)**
 > "... to support my work—my independent work—I am not yet funded by Qatar. I'm desperate to be funded by Qatar. I don't know why they won't call me. Anyways, makehimasandwich.com. If you would like to read the ..."
 
 </details>
@@ -138,7 +169,7 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
 
-**[00:47:32](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-qatar-t-00-47-32)**
+**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-qatar-t-00-47-28)**
 > "... on Wednesday morning to represent the US negotiators from Israel and Hamas, and the mediators from Qatar and Egypt and Turkey also participated, and were supposed to go, "Wow, that's amazing." Trump (Dona..."
 
 </details>
@@ -146,13 +177,13 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
 
-**[00:11:22](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-05)**
+**[00:11:22](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-02)**
 > "...n get on with his day. 9:29 a.m., he tweets in favor of Israel and throws shade at Donald Trump and Qatar, and all of this is related to what went on on September 9th, which is that Israel bombed Qatar for..."
 
-**[00:11:41](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-41)**
+**[00:11:38](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-00-11-38)**
 > "...f what they were doing. And so he throws shade at Donald Trump and Donald Trump's relationship with Qatar, because I guess it would be okay for them to violate international law if Donald Trump wasn't frie..."
 
-**[01:05:33](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-01-05-12)**
+**[01:05:24](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-qatar-t-01-05-06)**
 > "...hich was really the focus of his tweets seemed to be talking about Israel—as always—and going after Qatar and Tucker (Tucker Carlson), as always. What are you guys thinking? Corey Henry, thank you for that..."
 
 </details>
@@ -160,7 +191,7 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-gpe-qatar-t-00-36-02)**
+**[00:36:15](/episodes/ep-K5GjF53bfN4.md#ent-gpe-qatar-t-00-36-02)**
 > "...I read that our marriage is fake and staged, and I've read that I'm funded by Russia, I'm funded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my husband knew him before..."
 
 </details>
@@ -169,7 +200,7 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
 
 **[00:37:27](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-qatar-t-00-37-27)**
-> "...o there is this thing called FARA. And every country—if they're going to influence people—if you're Qatar, if you're Iran and you want to lobby on behalf of those countries—you have to be registered under ..."
+> "And every country—if they're going to influence people—if you're Qatar, if you're Iran and you want to lobby on behalf of those countries—you have to be registered under FARA so we know where that money is going into."
 
 </details>
 
@@ -193,7 +224,7 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[01:06:55](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-45)**
+**[01:06:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-qatar-t-01-06-16)**
 > "...rt us because that's it. That's who I am funded by. That is the big—you know—they say I'm funded by Qatar and Saudi Arabia. They make up things every week. I'm literally funded by the people that are watch..."
 
 </details>
@@ -203,12 +234,22 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Affiliated With (1)</summary>
+
+- **[Hamas](/entities/org-hamas.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:39:42](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23): “And they said, the reason why we have a relationship with Hamas is because the U.S. government asked us to establish one.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Qatar (12)</strong></summary>
+<summary><strong class="section-title">Statements about Qatar (9)</strong></summary>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
@@ -238,40 +279,31 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
 
-- [00:40:02](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was changed to say he had a Qatari passport ..."](/statements/statement-b41d294a7b1f.md)
+- [00:40:14](/episodes/ep-es7PWdFGoFI.md#t-00-39-39) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was changed to say he had a Qatari passport ..."](/statements/statement-b41d294a7b1f.md)
   - Also about: [George Farmer](/entities/person-george-farmer.md)
 
-- [00:40:07](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-e264867657b2.md)
+- [00:40:26](/episodes/ep-es7PWdFGoFI.md#t-00-40-22) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-e264867657b2.md)
   - Also about: [George Farmer](/entities/person-george-farmer.md)
 
-- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens**: ["Qatar said they work with Hamas because Israel and the US asked them t..."](/statements/statement-f49618df9e54.md)
-  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Hamas](/entities/org-hamas.md)
-
-- [01:12:54](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently said they work with Hamas because Israel and the United..."](/statements/statement-e85ac201b956.md)
-  - Also about: [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
-
-- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently came out and said we work with Hamas because Israel and..."](/statements/statement-37092c5c9482.md)
+- [01:12:27](/episodes/ep-es7PWdFGoFI.md#t-01-11-57) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens paraphrased Qatar as saying it worked with Hamas because..."](/statements/statement-37092c5c9482.md)
   - Also about: [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:39:48](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Qatar said they have a relationship with Hamas because the U.S. govern..."](/statements/statement-b9887fea08a7.md)
-  - Also about: [Hamas](/entities/org-hamas.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
-
-- [00:39:49](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Mohammed bin Abdulrahman Al Thani** (via paraphrase): ["Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Qatar's rel..."](/statements/statement-7e8f3a0ab35e.md)
-  - Also about: [Hamas](/entities/org-hamas.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+- [00:39:42](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Owens said Qatar stated that it had a relationship with Hamas because ..."](/statements/statement-b9887fea08a7.md)
+  - Also about: [Hamas](/entities/org-hamas.md), [the federal government](/entities/org-the-federal-government.md)
 
 </details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
-- [00:11:23](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-05) (Accusation) **Candace Owens**: ["On September 9th, Israel bombed Qatar for no reason, violating interna..."](/statements/statement-22525ed3d536.md)
+- [00:11:23](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-02) (Accusation) **Candace Owens**: ["On September 9th, Israel bombed Qatar for no reason, violating interna..."](/statements/statement-22525ed3d536.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>

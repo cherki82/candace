@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:17:48](/episodes/ep-cZxHqYsWRYg.md#t-00-17-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1068);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1068s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, why is this relevant? Why is this story relevant? Because it just seems to be the case that fraud surrounds Lori (Lori Frantzve). ... Fraud just seems to surround her from her parents to her grandparents to the person that's doing her documents. ... It's just always around her to her very many businesses and nobody knows what they do.
 

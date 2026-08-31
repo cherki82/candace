@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:02:59](/episodes/ep-WoXd4oLwd3w.md#t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=179s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and dan bongino became hysterical with me on the phone i've known dan a long time for many years and always got along with him you know whatever his faults say you know nice guy nice certainly very nice to me i never had a problem with dan ever and that problem began when i brought this information to his attention and he he became a different person he was clearly terrified i didn't get it at first but he was he was hysterical And ultimately, after a long series of text exchanges,
 

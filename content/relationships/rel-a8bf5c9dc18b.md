@@ -11,7 +11,7 @@ object: "person-donald-trump"
 
 ## [Miriam Adelson](/entities/person-miriam-adelson) funded [Donald J. Trump](/entities/person-donald-trump)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -20,6 +20,10 @@ object: "person-donald-trump"
 **[BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE)**
 
 - [00:21:12](/episodes/ep-CEF7gQRWYCE#t-00-21-12): _miriam adel said ... she's doing her thing and just giving trump 200 million dollars_
+
+**[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
+
+- [01:07:05](/episodes/ep-Cq7nj9rxPdo#t-01-07-05): _And I don't believe he's reconsidering his love for Israel. Miriam Adelson gave him $100 million, and she was explicit._
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 

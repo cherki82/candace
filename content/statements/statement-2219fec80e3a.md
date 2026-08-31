@@ -26,8 +26,8 @@ type: "citation"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:15:54](/episodes/ep-aDlhjfW6hz8.md#t-00-15-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(954);return false;">Play</a>
+**Timestamp:** [00:15:54](/episodes/ep-aDlhjfW6hz8.md#t-00-15-36) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=954s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by niche, I mean that you asserted that it implies major government contracts, likely the CIA. Those of you who have worked at those industries telling me that there are even certain valves that are exclusively manufactured in Israel, and that they tend to be involved in this.
 

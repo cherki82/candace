@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:03:12](/episodes/ep-mLvJqdxS-FY.md#t-00-03-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(192);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By that time, of course, they had also announced that they found the gun and a screwdriver which had his DNA on it.
 

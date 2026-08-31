@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(457);return false;">Play</a>
+**Timestamp:** [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=457s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have that the vehicle in which Charlie (Charlie Kirk) was transported to Timpanogos or Timpanogos Hospital was not impounded by law enforcement.
 

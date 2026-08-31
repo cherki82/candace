@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:12:22](/episodes/ep-DYD_QHMPwqM.md#t-00-11-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(742);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=742s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I showed you guys the video of what they were doing, this ritual. These are quote-unquote scientists that are dressed up in robes stabbing someone and they never gave an answer for this. Somebody caught them, recorded this, and they're like, oh, that was a joke. No further questions, no further answers.
 

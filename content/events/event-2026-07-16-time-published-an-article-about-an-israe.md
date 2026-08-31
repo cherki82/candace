@@ -6,6 +6,11 @@ date: "2026-07-16"
 ---
 
 **Date:** 2026-07-16
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “today”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-07-16"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:35:14](/episodes/ep-puuMVxEu5NU.md#event-event-2026-07-16-time-published-an-article-about-an-israe-t-00-35-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2114);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, Time did an article today and they're angry. They are angry with Brad Karkar Scal

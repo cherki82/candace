@@ -6,6 +6,11 @@ date: "2026-06-10"
 ---
 
 **Date:** 2026-06-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “this morning”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-06-10"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:16:13](/episodes/ep-tXoI0TTKVrs.md#event-event-2026-06-10-candace-owens-followed-up-again-with-tur-t-00-16-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(973);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=973s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I followed up again this morning, again, to Charlie Kirk and Andrew Kolvet

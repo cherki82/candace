@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:04:11](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(251);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=251s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who's going to run the country exactly, Lindsey Graham? This sounds like Hillary Rodham Clinton in Libya. So I'm pointing to the first extreme right now, the neoconservative extreme, the we must go take off the head of the snake right now. And Donald Trump is doing a phenomenal job of resisting these calls for regime change.
 

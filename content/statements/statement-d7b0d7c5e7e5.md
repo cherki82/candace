@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:30:16](/episodes/ep-1mYNOqzAdXs.md#t-00-30-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1816);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1816s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Colorado Springs where he lives you will find he has an FFL class one license what that means is he is a fire a licensed firearm dealer he is a licensed firearm dealer now I don't know about your preachers I've had a few over my years I don't believe any of them have been licensed firearms dealers
 

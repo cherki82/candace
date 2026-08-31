@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:34:33](/episodes/ep-mKXdKV-OBog.md#t-00-34-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2073);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=2073s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > knows it. We know it. Larry Ellison hired her to do it. That's okay. They've already got a
 

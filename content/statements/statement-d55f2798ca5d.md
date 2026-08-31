@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:33:15](/episodes/ep-wcD2khO3rOA.md#t-00-32-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1995);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1995s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > two years later, she gets an invite to join Trump pageant world. But she doesn't know how to get her picture. She doesn't know how they got her picture.
 

@@ -1,8 +1,8 @@
 ---
-title: "On September 9th at Fort Huachuca, I walked into a JTF headq..."
-description: "\"On September 9th at Fort Huachuca, I walked into a JTF headquarters building and saw a person who looked like a congressman with a flag pin in congres...\" — Anonymous Source #4 (Ep ewBzjVe3LNQ)"
+title: "At the Fort Huachuca JTF headquarters, I saw a civilian who ..."
+description: "\"At the Fort Huachuca JTF headquarters, I saw a civilian who looked like a congressman, with a flag pin and suit, escorted out by military lieutenant c...\" — Mitch Snow"
 statement_id: "statement-1ac2526e812d"
-speaker: "Anonymous Source #4 (Ep ewBzjVe3LNQ)"
+speaker: "Mitch Snow"
 type: "factual_claim"
 ---
 
@@ -10,11 +10,11 @@ type: "factual_claim"
 
 ## Statement
 
-> On September 9th at Fort Huachuca, I walked into a JTF headquarters building and saw a person who looked like a congressman with a flag pin in congressman suit, along with other civilians and military lieutenant colonels
+> At the Fort Huachuca JTF headquarters, I saw a civilian who looked like a congressman, with a flag pin and suit, escorted out by military lieutenant colonels and a unit sergeant major
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #4 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-004.md) (Guest)
+**Speaker:** [Mitch Snow](/entities/person-mitch-snow.md) (Guest)
 
 **Delivery:** Made directly
 
@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2790);return false;">Play</a>
+**Timestamp:** [00:46:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-06) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=2788s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> There were a couple of people next to him and obviously they were trying to talk to him. They were sort of palling around, but it was also sort of serious. Some of the military lieutenant colonels there and the unit sergeant major escorted him out.
+> And then, uh, three more people came, came around civilian dress and one He looked like a congressman, had the pin, had the flag, congressman suit. There were a couple of people next to him and obviously they were trying to talk to him. They were sort of palling around, but it was also sort of serious. Some of the military lieutenant colonels there and the unit sergeant major escorted him out.
 
 ## Verification
 

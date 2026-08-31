@@ -23,23 +23,13 @@ type: "factual_claim"
 - [George Farmer](/entities/person-george-farmer.md) (person)
 - [Qatar](/entities/gpe-qatar.md) (gpe)
 
-## Appearances (2)
-
-### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:40:02](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2402);return false;">Play</a>
+**Timestamp:** [00:40:14](/episodes/ep-es7PWdFGoFI.md#t-00-39-39) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=2414s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is after, by the way, they changed my husband's Wikipedia and said that he was a Qatari, like he had a Qatari passport or citizenship.
-
-### 2. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
-
-**Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:40:23](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2423);return false;">Play</a>
-
-> they changed my husband's Wikipedia and said that he was a Qatari, like he had a Qatari passport or citizenship
 
 ## Verification
 

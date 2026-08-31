@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3587);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3587s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Everybody is telling you that you've lost a large portion of your base. You have lost MAHA. You've lost Megyn Kelly. ... You've lost [unintelligible name]. You've lost Alex Jones. You've lost—and that's just in terms of the commentariat, if you will.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:40:13](/episodes/ep-A39g5oqB_eM.md#t-00-39-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2413);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2413s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then Charlie Kirk. ... Does he get up and condemn Tucker (Tucker Carlson) or correct Tucker (Tucker Carlson) for what he said about Israel and how dangerous Qatar is to us? No. ... Did Charlie (Charlie Kirk) get up and defend Michelle Bachmann? ... No, ... he didn't.
 

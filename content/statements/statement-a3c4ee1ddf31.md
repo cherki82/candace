@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2814);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I really want people to understand, Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship, and ... You both had each other's back in an incredible way.
 

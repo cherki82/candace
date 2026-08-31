@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:20:44](/episodes/ep-eMtjzXkQrsU.md#t-00-20-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just can't quite shake this feeling that actually Israel was planning to bury the truth. regarding Charlie (Charlie Kirk)'s shifting opinion as it pertains to their involvement with the United States, as it pertains to the nation state of Israel, his opinions were changing and they wanted that to never get out. And I think that's what they were preparing for, right?
 

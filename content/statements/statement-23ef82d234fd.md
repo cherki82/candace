@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:48:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2910);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2910s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Something's not right about Frank Turek's story as well. And he's changed it. He keeps getting caught, and then, 'Oh, I misspoke, and this—I didn't mean that,' and, 'Oh, people are taking me out of context. I said I was on the FaceTime call forever, and now I say I'm not.' It's me versus me. Frank Turek is messy. He is messy. And so I do wonder, while he was live streaming and accidentally left it in the pocket, if that's like a limited hangout. He's telling us a little bit there.
 

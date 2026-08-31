@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:32:16](/episodes/ep-3QJqtW_NOSI.md#t-00-32-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1936);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1936s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just. I don't believe that Trump (Donald Trump) is surrounded by all of these people and he's just like a victim of it. There's just something not right about the timing of the Epstein (Jeffrey Epstein) files, Trump (Donald Trump)'s response to the Epstein (Jeffrey Epstein) files, the speed at which Charlie (Charlie Kirk) was suddenly dead.
 

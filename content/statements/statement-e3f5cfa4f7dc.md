@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:51:04](/episodes/ep-_cNtgris8Ik.md#t-00-51-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3064);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3064s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We talked about that extensively. You were the one that told me about the text messages, notice I'm saying plural text messages, to Dan Flood and to yourself the night before that Charlie thought that he was going to be killed and you never, ever, ever once said, and when I spoke to other people who confirmed this, that it was the left.
 

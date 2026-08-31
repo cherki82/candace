@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:11:30](/episodes/ep-IqHsl7d2dos.md#t-00-11-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(690);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=690s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, in order to become a green beret, 19th Special Forces, you have to have already earned the maroon beret. You have to have worn, I guess, at some point the maroon beret because that's really a parachutist qualification. ... And so basically you would be a maroon beret on your way to becoming a green beret. I think I understand that correctly.
 

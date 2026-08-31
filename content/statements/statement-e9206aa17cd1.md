@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:30:55](/episodes/ep-9naMwS0kMBE.md#t-00-30-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1855);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=1855s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He tweets that he has been holding onto this for a very long time. But that one time I went to his house for dinner and I told him that I hated Charlie Kirk. ... I ranted not just about Charlie Kirk, but I also ranted about Jared Ivanka.
 

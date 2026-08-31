@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:24:10](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Giving even more credence to the claim that Andrew was unavailable because he was on a plane during that time is the fact that Marina Minas, the chief marketing officer, personally called Aubrey at 2.05 p.m. Utah time and asked her to draft the death statement, which was going to go out to the entire staff because.
 

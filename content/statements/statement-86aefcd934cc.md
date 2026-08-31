@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:08:03](/episodes/ep-FFQ9675oqRI.md#t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(483);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=483s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't want to share the video of Erika Kirk last night, but that is what PTSD looks like. Heartbreaking. The mockery it triggered just strengthens my faith in God.
 

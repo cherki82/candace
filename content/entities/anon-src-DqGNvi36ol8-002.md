@@ -1,18 +1,22 @@
 ---
 title: "Anonymous Source #2 (Ep DqGNvi36ol8)"
-description: "Anonymous Source #2 (Ep DqGNvi36ol8) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #2 (Ep DqGNvi36ol8) (Anonymous Sources) - 1 mention"
 id: "anon-src-DqGNvi36ol8-002"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "viewer email source"
 ---
 
 _Type: Anonymous Sources_
+
+**Categories:** viewer email source
 
 **Entity verification:** verified
 > Unidentified email correspondent whose message Candace Owens read at 21:50 in episode DqGNvi36ol8.
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -22,9 +26,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 

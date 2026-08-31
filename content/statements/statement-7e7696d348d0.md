@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [01:01:46](/episodes/ep-_cNtgris8Ik.md#t-01-01-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3706);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3706s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > From the beginning that I think he's got mixed up in something. I know that he was around campus that day because of a source. ... I am open to thinking that there are multiple people that are wearing maroon shirts. Like maybe Tyler is the one that's walking down the street. ... Maybe he dropped Lance. So I don't know. We were the ones that obviously revealed the Dairy Queen photo. ... So we know he was around campus that day. And I told you that the story that I got was that he was dumping clothes in the cemetery.
 

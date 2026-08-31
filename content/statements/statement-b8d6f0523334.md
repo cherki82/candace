@@ -4,9 +4,10 @@ description: "\"The Uvalde shooter is apparently dead, but just as with the Buff
 statement_id: "statement-b8d6f0523334"
 speaker: "Josh Hammer"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -22,20 +23,33 @@ type: "opinion"
 
 ## About
 
-- [Uvalde Shooter](/entities/person-uvalde-shooter.md) (person)
+- [Salvador Ramos](/entities/person-salvador-ramos.md) (person)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:14:54](/episodes/ep-2Riv3I7D0Yk.md#t-00-14-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(894);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Uvalde shooter is apparently dead, but just as with the Buffalo shooter, this level of pure evil would have been another ideal time for a public execution
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+This is an occurrence-and-wording verification of a quoted Josh Hammer post. The source transcript shows Owens reading the post and preserves its Uvalde and Buffalo context. No original post URL or independent archive was located, so the wording is confirmed from the recorded display/readout with medium rather than high confidence.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 - Transcript](https://www.cockatoo.com/content/charlies-final-hours-what-else-is-josh-hammer-lying-about-candace-ep-250)
+
+*Verified: 2026-08-30T07:09:18.667177*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

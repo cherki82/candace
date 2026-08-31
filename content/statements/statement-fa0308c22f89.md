@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2043);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2043s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.
 

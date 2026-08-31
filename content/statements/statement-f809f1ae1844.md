@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:14:10](/episodes/ep-mLvJqdxS-FY.md#t-00-13-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(850);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=850s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know what I think? I don't think there ever was a screwdriver up there. I think... that that screwdriver was planted there at a different time.
 

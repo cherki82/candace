@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:14:25](/episodes/ep-BxN2-aeMYIs.md#t-00-13-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She wrote at the time, quote, let's call this what it is. They are limiting freedom of movement in the name of national security.
 

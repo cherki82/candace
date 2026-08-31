@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:20:54](/episodes/ep-Qt0VHV-POCg.md#t-00-20-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1254);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=1254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > New York Times yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's office—Tulsi Gabbard's office. ... They lead the National Counterterrorism Center—Joe Kent does—and him inquiring about details into this apparently alarmed Kash Patel
 

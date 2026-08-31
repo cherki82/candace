@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-08-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(509);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=509s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel. You brag about how you convinced all these young voters to vote for Trump (Donald J. Trump), but you can't convince them to stand with our Jewish brethren?
 

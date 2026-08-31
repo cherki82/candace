@@ -1,10 +1,11 @@
 ---
 title: "Sergio Gor"
-description: "Sergio Gor (People) - 14 mentions"
+description: "Sergio Gor (People) - 17 mentions"
 id: "person-sergio-gor"
 type: "PERSON"
 aliases:
   - "Sergio"
+  - "Sergio Gore"
 categories:
   - "United States diplomacy"
   - "publishing"
@@ -12,24 +13,22 @@ categories:
 
 _Type: People_
 
-**Also known as:** Sergio
+**Also known as:** Sergio, Sergio Gore
 
 **Categories:** United States diplomacy, publishing
-
-> **Possibly overlapping entity records:** [Sergio Gore](/entities/person-sergio-gore). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > The U.S. Senate Foreign Relations Committee nomination record confirms the canonical name Sergio Gor.
 Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.foreign.senate.gov/hearings/nominations-09-11-2025)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-26">2025-11-20 · 00:12:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-19">2025-11-20 · 00:12:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-sergio-gor-t-00-25-00">2026-05-13 · 00:25:00</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,14 +36,16 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-sergio-gor-t-00-20-24">BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-26" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-19" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gor-t-00-09-46" style="--pulse-height:15%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-sergio-gor-t-00-20-24" style="--pulse-height:100%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 13 mentions" title="2026-05-13 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-26) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-19) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gor-t-00-09-46) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-sergio-gor-t-00-20-24) | 13 |
 
 </details>
@@ -53,7 +54,7 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (13 mentions)</summary>
@@ -100,9 +101,20 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 </details>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:10:04](/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gor-t-00-09-46)**
+> "She sat down with the New York Times. She made time, by the way, in case you don't remember, to fly to DC for Sergio (Sergio Gor) to be sworn into the ambassador to India as the ambassador to India, which feels kind of obscure and not necessarily related turning point USA affairs, building affairs or whatever it is."
+
+**[00:11:10](/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gor-t-00-11-00)**
+> "...d sir, thank you for Allowing Sergio to have this beautiful."
+
+</details>
+
+<details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:12:49](/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-26)**
+**[00:12:49](/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-19)**
 > "...mber, FYI. I think POTUS might call you." And that's not what happened. On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte. And it felt more like an order than a reque..."
 
 </details>
@@ -149,6 +161,18 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 </details>
 
 <details>
+<summary>Warned (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:12:47](/episodes/ep-sImMM04XdWY.md#t-00-12-19): “On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -161,7 +185,7 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[White House](/entities/org-white-house.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -184,12 +208,32 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** warned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:12:47](/episodes/ep-sImMM04XdWY.md#t-00-12-19): “On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sergio Gor (5)</strong></summary>
+<summary><strong class="section-title">Statements by Sergio Gor (1)</strong></summary>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:12:47](/episodes/ep-sImMM04XdWY.md#t-00-12-19) [○] (Claim) ["Sergio Gor asked Candace Owens on February 25 to stop speaking about Brigitte Ma..."](/statements/statement-b6d08fce7397.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Sergio Gor (4)</strong></summary>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3)</summary>
@@ -208,15 +252,8 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
-- [00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) (Claim) **Candace Owens**: ["Erika Kirk flew to DC to attend Sergio Gor's swearing in as Ambassador..."](/statements/statement-8c08ccef4942.md)
+- [00:10:04](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) (Claim) **Candace Owens**: ["Owens said Erika Kirk flew to Washington, D.C., for Sergio Gor's swear..."](/statements/statement-8c08ccef4942.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
-
-- [00:14:29](/episodes/ep-sImMM04XdWY.md#t-00-14-01) (Claim) **Candace Owens**: ["On February 25th, Sergio Gor called Candace and asked her to stop spea..."](/statements/statement-f0470f5fa7e8.md)
 
 </details>
 

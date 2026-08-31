@@ -19,13 +19,18 @@ veracity: "false"
 
 **Delivery:** Made directly
 
+## About
+
+- [Jason Chaffetz](/entities/person-jason-chavitz.md) (person)
+- [FBI](/entities/org-fbi.md) (org)
+
 ## Source
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:24:24](/episodes/ep-pc3pxRyNFZk.md#t-00-24-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1464);return false;">Play</a>
+**Timestamp:** [00:24:23](/episodes/ep-pc3pxRyNFZk.md#t-00-24-13) 
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=1463s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> By the way, Jason Chaffetz (Jason Chaffetz), he's been honest about his background. His parents are in the government. They're literally in the FBI.
+> He doesn't believe that. By the way, Jason Chaffetz, he's been honest about his background. His parents are in the government. They're literally in the FBI. So he's telling you that shot was closer. So what gives? Also, why is everybody telling lies?
 
 ## Verification
 

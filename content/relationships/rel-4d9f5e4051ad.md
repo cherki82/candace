@@ -15,7 +15,7 @@ object: "org-turning-point-usa"
 
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
-- [00:14:13](/episodes/ep-es7PWdFGoFI#t-00-14-13): _I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation._
+- [00:15:13](/episodes/ep-es7PWdFGoFI#t-00-15-13): _Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan). And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean (Shawn Ryan). I think that's pretty clear. I don't believe he works there anymore._
 
 ### Related
 

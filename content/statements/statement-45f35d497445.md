@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:52:28](/episodes/ep-c5BcKF91iec.md#t-00-52-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3148);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=3148s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think handlers were sent out to manage—to first and foremost break apart me and Charlie and then to manage us. And I'll speak more about that this week, but I spoke to my husband about it, and I see it so clearly now what happened
 

@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:11:05](/episodes/ep-k8ueJdPFel4.md#t-00-10-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(665);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=665s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brett (Brett Weinstein) opens this up. By saying on June 18th, I had a text exchange with Charlie Kirk. He said he was spending two full days at the White House trying to persuade President Trump (Donald J. Trump) not to initiate a war with Iran.
 

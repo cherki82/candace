@@ -6,6 +6,11 @@ date: "1979"
 ---
 
 **Date:** 1979
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1979”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1979"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:46:23](/episodes/ep-ZAsV0fHGBiM.md#event-event-1979-advanced-patent-technology-announces-pla-t-00-46-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2783);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2783s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 1979, they announced plans for the Colorado Bell Hotel and Casino in Laughlin, Nevada,

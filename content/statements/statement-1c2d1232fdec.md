@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:17:40](/episodes/ep-hWTdXHGQ8R4.md#t-00-17-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1060);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1060s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk)'s mom was dealing with a medical issue, so she stayed in Phoenix to care for her. She planned to join Charlie (Charlie Kirk) at the next scheduled turning point event at Colorado State just a few days later.
 

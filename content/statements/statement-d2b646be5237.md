@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:00:25](/episodes/ep-DqGNvi36ol8.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(25);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=25s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > TPUSA confirmed that the debate request and the sit down request to respond to all of our very many questions actually came from Erika Kirk.
 

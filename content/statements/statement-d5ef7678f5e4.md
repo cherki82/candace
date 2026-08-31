@@ -20,31 +20,31 @@ type: "factual_claim"
 
 ## About
 
-- [Irina Zarutska](/entities/person-irina-zarutska.md) (person)
+- [Iryna Zarutska](/entities/person-iryna-zarutska.md) (person)
 
 ## Appearances (3)
 
 ### 1. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:08:46](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(526);return false;">Play</a>
+**Timestamp:** [00:08:46](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-12) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=526s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Irina was murdered on August 22nd. Her perpetrator was arrested that same day, and the footage was released and trended on X on September 5th
 
 ### 2. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:08:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(524);return false;">Play</a>
+**Timestamp:** [00:08:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-12) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=524s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Irina was murdered on August 22nd. Her perpetrator was arrested that same day, and the footage was released and trended on X on September 5th
 
 ### 3. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:08:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(521);return false;">Play</a>
+**Timestamp:** [00:08:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-12) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=521s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Her perpetrator was arrested that same day, and the footage was released and trended on X on September 5th
 

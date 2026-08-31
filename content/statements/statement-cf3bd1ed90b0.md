@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:19:47](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1187);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By way of background, Paul E. Vallely was a military commander. He was the military commander for none other than the 7th Psychological Operations Group.
 

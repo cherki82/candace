@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:14:21](/episodes/ep-7RLtGgkTh9o.md#t-00-14-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(861);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=861s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Sean "Chapman" Holly, Sean and Lou Taylor leaked that to the press because they wanted Lindsay to get out sooner and have her in UCLA so she wouldn't spend much time in the rehab.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2878);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2878s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.
 

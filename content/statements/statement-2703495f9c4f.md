@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:01:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(89);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=89s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was detained. Kash Patel shut down the investigation for an hour and a half, and then he was released and we weren't told much more.
 

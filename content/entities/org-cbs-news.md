@@ -1,6 +1,6 @@
 ---
 title: "CBS News"
-description: "CBS News (Organizations) - 23 mentions"
+description: "CBS News (Organizations) - 28 mentions"
 id: "org-cbs-news"
 type: "ORG"
 aliases:
@@ -23,32 +23,34 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-org-cbs-news-t-00-15-24">2025-11-20 · 00:15:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-cbs-news-t-00-43-38">2026-07-23 · 00:44:07</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-cbs-news-t-00-15-24" style="--pulse-height:67%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-cbs-news-t-00-51-00" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-cbs-news-t-00-24-01" style="--pulse-height:33%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-cbs-news-t-00-25-00" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-cbs-news-t-00-36-51" style="--pulse-height:33%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-cbs-news-t-00-52-42" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-org-cbs-news-t-00-43-38" style="--pulse-height:67%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-cbs-news-t-00-15-24" style="--pulse-height:33%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48" style="--pulse-height:50%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-cbs-news-t-00-51-00" style="--pulse-height:17%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-cbs-news-t-00-11-42" style="--pulse-height:17%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 6 mentions" title="2025-12-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-cbs-news-t-00-08-38" style="--pulse-height:17%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12" style="--pulse-height:17%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-cbs-news-t-00-24-01" style="--pulse-height:17%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-cbs-news-t-00-25-00" style="--pulse-height:17%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-cbs-news-t-00-36-51" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-cbs-news-t-00-52-42" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-cbs-news-t-00-43-38" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,7 +59,9 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-cbs-news-t-00-15-24) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48) | 3 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-cbs-news-t-00-51-00) | 1 |
-| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-cbs-news-t-00-11-42) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08) | 6 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-cbs-news-t-00-08-38) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 1 |
@@ -75,7 +79,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -170,7 +174,15 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-org-cbs-news-t-00-08-38)**
+> "...'s the reason they put her at CBS is because she's just committed to stacking the a..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
 
 **[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08)**
 > "She somehow becomes a chief over at CBS News"
@@ -180,6 +192,23 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 
 **[00:08:24](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-08-15)**
 > "...have sources just everywhere, CBS News, the people that were in the audience I showed yo..."
+
+**[00:15:17](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-14-48)**
+> "...e the direction of travel for CBS under the stewardship of Bari Weiss is not clear,..."
+
+**[00:15:41](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-15-32)**
+> "...ience with people selected by CBS, college Republicans, with questions selected by ..."
+
+**[00:28:11](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-28-00)**
+> "I'm on CBS stage with prepackaged questions and Bari Weiss a..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:11:56](/episodes/ep-6DhWawD4ZiM.md#ent-org-cbs-news-t-00-11-42)**
+> "...lso made time for an upcoming CBS News town hall sit down with Barry (Bari Weiss), which..."
 
 </details>
 
@@ -225,23 +254,12 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <summary>Employs (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24): “Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS.”
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
-
-</details>
-
-</details>
-
-<details>
-<summary>Formerly Employed (1)</summary>
-
-- **[Bari Weiss](/entities/person-bari-weiss.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “She somehow becomes a chief over at CBS News.”
 
 </details>
@@ -249,22 +267,16 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Bari Weiss](/entities/person-bari-weiss.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “She somehow becomes a chief over at CBS News.”
-
-</details>
+<summary>Referenced By (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24): “Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS.”
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “She somehow becomes a chief over at CBS News.”
 
 </details>
 
@@ -307,7 +319,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3)</summary>
 
-- [00:08:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) (Claim) **Candace Owens** (via paraphrase): ["The CBS News town hall with Erika Kirk and Bari Weiss was pre-recorded..."](/statements/statement-c065dd4ce272.md)
+- [00:08:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) (Claim) **CBS town hall audience sources (identities unverified)** (via read message): ["Anonymous CBS town hall audience sources told Owens that questions wer..."](/statements/statement-c065dd4ce272.md)
   - Also about: [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:15:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32) (Claim) **Candace Owens**: ["The CBS town hall brought in Hunter Kozak, who asked the last question..."](/statements/statement-d25303ee27b7.md)

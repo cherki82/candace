@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -21,7 +21,7 @@ veracity: "true"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Deoxyribonucleic acid](/entities/concept-dna.md) (concept)
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:11:28](/episodes/ep-N4uM8Jdr410.md#t-00-10-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(688);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=688s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Did they not think that part through? Did they already plant the evidence and they had to just sort of make it work after that because it had Tyler Robinson's DNA on it?
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:16:03](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(963);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=963s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And here's a tweet from Taylor Budowick, who was the former deputy White House chief who called him a crazed egomaniac who was often at the center of national security leaks.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:46:40](/episodes/ep-WoXd4oLwd3w.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2800);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2800s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He works for the Department of War and it was the flight was booked from his office. I've confirmed that.
 

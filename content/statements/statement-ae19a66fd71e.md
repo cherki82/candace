@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1967);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1967s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Chief among people who were very critical of this report was Charlie Kirk himself. And Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, Johnnie Moore on the board of NCRI when the Christ is King report was published.
 

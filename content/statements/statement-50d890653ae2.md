@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:12:32](/episodes/ep-his-JBjlkh8.md#t-00-12-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(752);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=752s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People at Turning Point USA are in possession of text messages the day before Charlie (Charlie Kirk) died, in which he wrote out to you—and not just to people that work at Turning Point USA, but also security guards—that he thought that they were going to kill him tomorrow, e
 

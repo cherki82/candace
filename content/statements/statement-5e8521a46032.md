@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:04:44](/episodes/ep-czVBmqZP6Ss.md#t-00-04-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(284);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=284s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, I told you guys that Charlie was going through a spiritual transformation at the end and all of the usual suspects were really angry that I hinted towards that
 

@@ -1,6 +1,6 @@
 ---
 title: "Allie Beth Stuckey"
-description: "Allie Beth Stuckey (People) - 45 mentions"
+description: "Allie Beth Stuckey (People) - 50 mentions"
 id: "person-allie-beth-stuckey"
 type: "PERSON"
 aliases:
@@ -22,32 +22,32 @@ _Type: People_
 Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47">2025-11-06 · 00:29:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01">2025-11-06 · 00:29:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-allie-beth-stuckey-t-00-21-55">2026-07-21 · 00:22:14</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (15 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 15 mentions" title="2025-11-06 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33" style="--pulse-height:60%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 9 mentions" title="2025-11-10 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-09" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24" style="--pulse-height:20%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36" style="--pulse-height:27%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44" style="--pulse-height:13%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-20-39" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 14 mentions" title="2025-11-06 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33" style="--pulse-height:64%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 9 mentions" title="2025-11-10 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-18" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24" style="--pulse-height:21%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-23" style="--pulse-height:29%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44" style="--pulse-height:14%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-allie-beth-stuckey-t-00-20-39" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50" style="--pulse-height:43%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 6 mentions" title="2025-12-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-13" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45" style="--pulse-height:20%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-allie-beth-stuckey-t-00-04-44" style="--pulse-height:13%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45" style="--pulse-height:21%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-allie-beth-stuckey-t-00-04-44" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-allie-beth-stuckey-t-00-50-05" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-allie-beth-stuckey-t-00-21-55" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
@@ -55,14 +55,14 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47) | 15 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01) | 14 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33) | 9 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-09) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-18) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24) | 3 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36) | 4 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-23) | 4 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44) | 2 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-20-39) | 1 |
-| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-allie-beth-stuckey-t-00-20-39) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) | 6 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-13) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45) | 3 |
@@ -76,7 +76,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -136,18 +136,33 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
 
 **[00:35:08](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50)**
 > "chief among them is Ali Beth Stuckey"
+
+**[00:36:31](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-16)**
+> "And chief among them is Ali Beth Stuckey, okay?"
+
+**[00:36:46](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46)**
+> "There's not a single daily wire host, Matt Walsh, Michael Nose, nicest people ever, Brett Cooper, nicest person that will defend Ali Beth Stuckey's current PR agent who is just literally hell bent on advancing Israel's cause by any means necessary."
+
+**[00:37:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46)**
+> "I mean, this is a bad person who Ali Beth has hired, but we're supposed to believe Ali Beth is Christian."
+
+**[00:41:33](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-04)**
+> "Ali Beth Stuckey does the same like tactic of attacking people, sniping them."
+
+**[00:41:55](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45)**
+> "I believe that if I have a question about the Bible, I should go to my priest, not to Ali Beth Suckey on Instagram."
 
 </details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
 
-**[00:21:06](/episodes/ep-6DhWawD4ZiM.md#t-00-20-39)**
-> "you got Ali Stuckey from the HOA"
+**[00:21:05](/episodes/ep-6DhWawD4ZiM.md#ent-person-allie-beth-stuckey-t-00-20-39)**
+> "It was, I think it was about money. All of a sudden, next thing you know, you got Allie (Allie Beth Stuckey) from the HOA."
 
 </details>
 
@@ -165,16 +180,16 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
-**[00:37:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
+**[00:37:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-23)**
 > "...you would want to do and what allies you want to have when bullets are flying."
 
-**[00:38:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
+**[00:38:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-23)**
 > "We definitely know who our allies are."
 
-**[00:56:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
-> "...orter, Victoria Churchill— publishes an article—the most bizarre headline I've—what? All respect to Allie and the work she's done. "Charlie (Charlie Kirk) Kirk's TPUSA heiress" is how we're describing her—..."
+**[00:56:31](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-23)**
+> "Yeah, of course it's not genuine. Even yesterday—the Daily Mail—their AIPAC reporter, Victoria Churchill— publishes an article—the most bizarre headline I've—what? All respect to Allie and the work she's done. "Charlie Kirk's TPUSA heiress" is how we're describing her—like—"
 
-**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
+**[00:56:53](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-23)**
 > "...rry. What is that? Actually, what op are we in right now? Where the heiress to Turning Point USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Street Journal. That..."
 
 </details>
@@ -196,7 +211,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:18:47](/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-09)**
+**[00:18:47](/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-18)**
 > "...June of 2024, okay? And they were mass-panicking about this. They were all coming out of the gates. Allie Stuckey debunking. I was like, totally bizarre—as if I didn't work for Turning Point and go on these tours ..."
 
 </details>
@@ -234,51 +249,48 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (15 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (14 mentions)</summary>
 
-**[00:29:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47)**
+**[00:29:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01)**
 > "...ce. Again, pdsdebt.com/candace. All right, let's start with a little back-and-forth that I had with Allie Beth Stuckey online. I'll start actually by saying some nice things about Allie Beth Stuckey because one of the ..."
 
-**[00:29:15](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47)**
+**[00:29:15](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01)**
 > "...rth that I had with Allie Beth Stuckey online. I'll start actually by saying some nice things about Allie Beth Stuckey because one of the things that I am working on is being a lot more measured when I'm ticked off abo..."
 
-**[00:29:20](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
+**[00:29:20](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01)**
 > "...ular subject is just—I just instantly want to go claws out. And there's a lot of great things about Allie Stuckey. I've actually worked with Allie Stuckey at various events. I've spoken with Allie Stuckey. She's b..."
 
-**[00:29:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
+**[00:29:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01)**
 > "...t to go claws out. And there's a lot of great things about Allie Stuckey. I've actually worked with Allie Stuckey at various events. I've spoken with Allie Stuckey. She's been on my podcast multiple times. She's b..."
 
-**[00:29:38](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
-> "...gs about Allie Stuckey. I've actually worked with Allie Stuckey at various events. I've spoken with Allie Stuckey. She's been on my podcast multiple times. She's been a panelist back when I was on the Daily Wire—I..."
-
-**[00:29:50](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
+**[00:29:48](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-43)**
 > "...ery kind. Behind the scenes, I will always tell you guys if there's tea—there actually isn't any on Allie Stuckey. She's always been a very lovely person. And especially because when I was first coming into the in..."
 
-**[00:30:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-05)**
+**[00:30:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-43)**
 > "...conversation rather than just kind of joining the choir. So, yeah: I am not addressing this because Allie is a bad human being. I'm addressing this because she has been addressing me—actually subtly, subtw..."
 
-**[00:31:03](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-42)**
+**[00:31:03](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-51)**
 > ".... It was this weird need to assert his legacy as a Christian Zionist. By the way, I'm not including Allie in the downright nasty category whatsoever, but she was one of the voices who cast unnecessary shad..."
 
-**[00:31:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-42)**
+**[00:31:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-51)**
 > "We are natural allies because we are committed to wanting there to be j..."
 
-**[00:35:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-35-26)**
+**[00:35:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-35-15)**
 > "...ultiple locations—and I'm telling you this as someone who did that; I worked for this organization, Allie, okay? It's probably because these are the— this is already approved. They're doing these campuses ..."
 
-**[00:37:33](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-37-33)**
+**[00:37:33](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-37-18)**
 > "...at she's a committed Christian Zionist. And she says something that's so far off the mark. At least Allie's showing something relevant to Turning Point USA—even though she maybe didn't watch what I said or..."
 
-**[00:43:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-42-32)**
+**[00:43:04](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-42-43)**
 > "...going to make a video about a glaring obvious hole and then just pooh-pooh it—which is kind of what Allie did regarding the fed Discord messages. I watched a clip. She like softens it and says, "Well, even..."
 
-**[00:44:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-44-37)**
+**[00:44:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-44-06)**
 > "...ether, okay? Yeah, that's that. I don't love the crickets of these things. I will also mention that Allie has strangely hired Alyssa Cordova. And this is just not a match for me. Alyssa Cordova was formerl..."
 
-**[00:45:26](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-45-21)**
+**[00:45:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-45-17)**
 > "... to truth. We are obviously able to debate, and I'm happy—by the way; I'll add this as well—to have Allie or Lila Rose on this show tomorrow if you guys would like to—to debate what I have presented thus f..."
 
-**[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-48-55)**
+**[00:49:06](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-49-06)**
 > "...y podcast, and we're investigating this murder. And every person who is doing podcasts—whether it's Allie speaking about his Catholic journey, Lila speaking about what happens, whatever context they're put..."
 
 </details>
@@ -295,7 +307,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41): “Allie Stuckey just did this—shot a video and was like, "I don't have these dreams."”
-- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Ali Beth Stuckey does the same like tactic of attacking people, sniping them.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:38:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-37-31): “BLM uses this tactic repeatedly, and now Candace has taken a page out of their book.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:59:45](/episodes/ep-kaWtDuoY_ns.md#t-00-59-45): “I cannot with Allie Beth Stuckey. She is late and wrong often. I remember way before COVID, she went after the anti-vaxxers, aka yours truly, with her mean girl BS.”
 
 </details>
@@ -313,9 +325,10 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:22:14](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “So after 10 months of the Christian grift, the Allie Stuckeys (Allie Beth Stuckey), the Dana Loesches (Dana Loesch), the honor the widow presentations, Erika (Erika Kirk) is apparently done playing the role.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:41:33](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-04): “Ali Beth Stuckey does the same like tactic of attacking people, sniping them.”
 
 </details>
 
@@ -327,19 +340,51 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “She says she's a good friend to Charlie”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:40:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-40-20): “Charlie was my good friend.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Hired (1)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+- **[Alyssa Cordova](/entities/person-alyssa-cordova.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:44:36](/episodes/ep-vwG1juDCQZQ.md#t-00-44-06): “I will also mention that Allie has strangely hired Alyssa Cordova.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:29:36](/episodes/ep-vwG1juDCQZQ.md#t-00-29-01): “I've actually worked with Allie Stuckey at various events.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:31:51](/episodes/ep-vwG1juDCQZQ.md#t-00-31-23): “She certainly has worked with Charlie Kirk for years.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:22:14](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “So after 10 months of the Christian grift, the Allie Stuckeys (Allie Beth Stuckey), the Dana Loesches (Dana Loesch), the honor the widow presentations, Erika (Erika Kirk) is apparently done playing the role.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:41:33](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-04): “Ali Beth Stuckey does the same like tactic of attacking people, sniping them.”
 
 </details>
 
@@ -361,7 +406,14 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “She says she's a good friend to Charlie”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:40:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-40-20): “Charlie was my good friend.”
+
+</details>
+
+- **[Alyssa Cordova](/entities/person-alyssa-cordova.md)** hired by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:44:36](/episodes/ep-vwG1juDCQZQ.md#t-00-44-06): “I will also mention that Allie has strangely hired Alyssa Cordova.”
 
 </details>
 
@@ -370,7 +422,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Allie Beth Stuckey (1)</strong></summary>
+<summary><strong class="section-title">Statements by Allie Beth Stuckey (3)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -380,10 +432,26 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 </details>
 
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:37:52](/episodes/ep-6J6lRZPQ4jk.md#t-00-37-31) [✓] (Accusation) ["Allie Beth Stuckey accused Owens of using a Kafka-trap tactic like Black Lives M..."](/statements/statement-403f64fe4655.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Black Lives Matter](/entities/org-black-lives-matter.md)
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
+
+- [00:34:54](/episodes/ep-vwG1juDCQZQ.md#t-00-34-33) [◐] (Claim) ["Allie Beth Stuckey said a late-August invitation from Charlie Kirk for an early-..."](/statements/statement-5b1130adafa4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Allie Beth Stuckey (3)</strong></summary>
+<summary><strong class="section-title">Statements about Allie Beth Stuckey (4)</strong></summary>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3)</summary>
@@ -394,6 +462,14 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:37:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) (Accusation) **Candace Owens**: ["Allie Beth Stuckey's PR agent keeps files and cuts people out of conte..."](/statements/statement-6b644cbab8ce.md)
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
+
+- [00:35:49](/episodes/ep-vwG1juDCQZQ.md#t-00-35-15) (Claim) **Candace Owens**: ["Owens said Stuckey's message probably showed that Charlie Kirk invited..."](/statements/statement-9e7754533e0a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

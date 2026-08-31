@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:39:59](/episodes/ep-SKNJPul29zU.md#t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2399);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2399s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so at that time, what my research showed me was that the Irgun, which is one of the three terrorist groups that formed Israel, was attacking the local communities there in Haifa, ... bombings and all sorts of crazy things. They fled genocide, went to Haifa and then have had to flee again.
 

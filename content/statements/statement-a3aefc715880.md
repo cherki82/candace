@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:13:22](/episodes/ep-t4U7NjnUEgc.md#t-00-13-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(802);return false;">Play</a>
+**Timestamp:** [00:13:29](/episodes/ep-t4U7NjnUEgc.md#t-00-13-08) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=809s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I was also put under an NDA gag order, which was dated out, look it says 1990, to May of 2025 to prevent me from mentioning this entire ordeal
+> Also, to protect me the mission and the prosecutions, I was also put under an NDA gag order, which was dated out, look it says 1990, to May of 2025 to prevent me from mentioning this entire ordeal.
 
 ## Verification
 

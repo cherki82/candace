@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1798);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1798s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was told by Charlie (Charlie Kirk) that he and Andrew Kolvet were present for that meeting with Donald Trump.
 

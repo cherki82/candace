@@ -6,6 +6,15 @@ date: "2024-11-25"
 ---
 
 **Date:** 2024-11-25
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “2024”
+
+**Normalization note:** Publication date confirms the nomination was public by 2024-11-25.
+
+**Date source:** [https://lovin.co/cairo/en/latest/bassem-youssef-is-nominated-for-antisemite-of-the-year/](https://lovin.co/cairo/en/latest/bassem-youssef-is-nominated-for-antisemite-of-the-year/)
 
 ## Event
 
@@ -15,6 +24,6 @@ date: "2024-11-25"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:00:13](/episodes/ep-xjzb_t5Tk9o.md#event-event-2024-11-25-bassem-youssef-was-nominated-for-stopant-t-00-00-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(13);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=13s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I was even nominated to be anti-Semite of the year 2024.

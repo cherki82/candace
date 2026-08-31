@@ -3,9 +3,17 @@ title: "Jason James Taylor"
 description: "Jason James Taylor (People) - 1 mention"
 id: "person-jason-james-taylor"
 type: "PERSON"
+categories:
+  - "former Calvary Chapel Solid Rock pastor"
 ---
 
 _Type: People_
+
+**Categories:** former Calvary Chapel Solid Rock pastor
+
+**Entity verification:** verified
+> Published reporting identifies Jason James Taylor as the former Calvary Chapel Solid Rock pastor in New Richmond, Wisconsin.
+Source: [The Roys Report: Wisconsin Pastor Arrested in Sting Operation](https://julieroys.com/wisconsin-pastor-arrested-attempted-solicitation-minor-sting-operation/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jason-james-taylor-t-00-19-42">2025-11-13 · 00:20:03</a></strong></div>

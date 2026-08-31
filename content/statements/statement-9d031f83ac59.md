@@ -22,8 +22,8 @@ type: "promise"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:37:41](/episodes/ep-aDlhjfW6hz8.md#t-00-36-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2261);return false;">Play</a>
+**Timestamp:** [00:37:41](/episodes/ep-aDlhjfW6hz8.md#t-00-37-37) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2261s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we can show you next week clips of him hosting the debate about speech and Israel and whether or not everything was antisemitism.
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(762);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=762s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 300 employees, Ben joined electronically, he was up on the screen too, and just enjoyed watching me be humiliated, where 300 employees are invited down and shown a production of what this person did wrong
 

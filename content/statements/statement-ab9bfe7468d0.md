@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:11:58](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(718);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I would like to reach out to Jamie. Does anybody know more information about who Jamie the pilot is? I think this would be crucial information—a crucial person for me to learn more about and to be able to reach out to. ... I will leave no stone left unturned. Will he talk to me? Probably not, but I'm going to try.
 

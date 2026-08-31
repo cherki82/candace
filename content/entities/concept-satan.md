@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-description: "Satan (Concepts) - 70 mentions"
+description: "Satan (Concepts) - 83 mentions"
 id: "concept-satan"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39">2026-01-14 · 00:31:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-satan-t-00-35-07">2025-09-24 · 00:35:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-54-39">2026-08-07 · 00:55:15</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>70</strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>83</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,14 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00">Candace x Bassem Youssef | Candace Ep 298</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-satan-t-00-35-07" style="--pulse-height:10%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-satan-t-00-44-32" style="--pulse-height:10%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-satan-t-00-47-45" style="--pulse-height:30%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-satan-t-01-03-11" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-satan-t-00-56-33" style="--pulse-height:20%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-concept-satan-t-00-01-24" style="--pulse-height:10%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-satan-t-00-41-32" style="--pulse-height:30%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-satan-t-00-55-02" style="--pulse-height:10%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
@@ -67,6 +75,14 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-satan-t-00-35-07) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-satan-t-00-44-32) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-satan-t-00-47-45) | 3 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-satan-t-01-03-11) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-satan-t-00-56-33) | 2 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-concept-satan-t-00-01-24) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-satan-t-00-41-32) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-satan-t-00-55-02) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38) | 5 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22) | 2 |
@@ -100,7 +116,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+<summary><strong class="section-title">Raw mentions (83)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
@@ -439,6 +455,85 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 **[00:51:37](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-51-12)**
 > "Satan loves the dark,"
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:55:34](/episodes/ep-w1oqQbR_bYs.md#ent-concept-satan-t-00-55-02)**
+> "...xcept within the synagogue of Satan."
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
+
+**[00:41:46](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-satan-t-00-41-32)**
+> "These are Satan's children."
+
+**[00:41:47](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-satan-t-00-41-32)**
+> "Obviously, these are Satan's children, and they work by making you feel fearfu..."
+
+**[00:44:00](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-satan-t-00-43-39)**
+> "...it to heaven if you side with the devil, and the devil is always lying and hiding and obs..."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+
+**[00:01:24](/episodes/ep-JQjCAsfoXEE.md#ent-concept-satan-t-00-01-24)**
+> "...ctions, and that is just like Satan who comes to steal, kill, and destroy."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
+
+**[00:56:38](/episodes/ep-vwG1juDCQZQ.md#ent-concept-satan-t-00-56-33)**
+> "...longer allowed to behave like Satan's children and then make little legal threats, okay..."
+
+**[00:56:51](/episodes/ep-vwG1juDCQZQ.md#ent-concept-satan-t-00-56-33)**
+> "...you send to me is now public. Satan's time is done."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[01:03:25](/episodes/ep-YFmRH8p5lt0.md#ent-concept-satan-t-01-03-11)**
+> "In fact, only Satan's chosen people could."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (3 mentions)</summary>
+
+**[00:48:09](/episodes/ep-Qt0VHV-POCg.md#ent-concept-satan-t-00-47-45)**
+> "Satan"
+
+**[00:48:39](/episodes/ep-Qt0VHV-POCg.md#ent-concept-satan-t-00-48-28)**
+> "... wickedness and the snares of the devil.""
+
+**[00:48:48](/episodes/ep-Qt0VHV-POCg.md#ent-concept-satan-t-00-48-28)**
+> "...e power of God cast into hell Satan and all the evil spirits who prowl about the worl..."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:44:56](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-satan-t-00-44-32)**
+> "Satan runs the world"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
+
+**[00:35:23](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-satan-t-00-35-07)**
+> "...l form but not prosper," that Satan and those witches have no power."
 
 </details>
 

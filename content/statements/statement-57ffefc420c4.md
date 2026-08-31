@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:38:00](/episodes/ep-xjzb_t5Tk9o.md#t-00-37-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > about world war ii and the things and they panicked and it was hilarious because in a couple of months later auschwitz museum comes out and says the stuff that was said about joseph Dr. Josef Mengele a lot of it was made up he never did these things he was actually a before all of this respected doctor auschwitz museum puts on their website and
 

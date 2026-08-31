@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:19:28](/episodes/ep-_cNtgris8Ik.md#t-00-19-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1168);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1168s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did not. ... Uh the Utah County Attorney's Office.
 

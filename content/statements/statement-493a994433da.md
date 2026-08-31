@@ -1,6 +1,6 @@
 ---
-title: "Trump (Donald Trump) is controlled by Zionists"
-description: "\"Trump (Donald Trump) is controlled by Zionists\" — Candace Owens"
+title: "Owens said Donald Trump is controlled by Zionists."
+description: "\"Owens said Donald Trump is controlled by Zionists.\" — Candace Owens"
 statement_id: "statement-493a994433da"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Trump (Donald Trump) is controlled by Zionists
+> Owens said Donald Trump is controlled by Zionists.
 
 ## Attribution
 
@@ -22,10 +22,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:53:15](/episodes/ep-sreYYcID-QY.md#t-00-52-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3195);return false;">Play</a>
+**Timestamp:** [00:53:07](/episodes/ep-sreYYcID-QY.md#t-00-52-52) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=3187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Donald Trump (Donald Trump) is controlled by Zionists, so they're baiting me here
+> Donald Trump is controlled by Zionists, so they're baiting me here.
 
 ## Verification
 

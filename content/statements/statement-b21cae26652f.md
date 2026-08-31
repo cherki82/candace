@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:12:50](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(770);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=770s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, I do know there are people at Turning Point USA who are not good people. I stand by that. It's the truth.
 

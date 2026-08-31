@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:03:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-03-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(222);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=222s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is Jeffrey Epstein to Peter (Peter Thiel). He says, as you probably know, I represent the Rothschilds. I was hoping to figure out a way for the bank that has 160 billion in management to do something in tech.
 

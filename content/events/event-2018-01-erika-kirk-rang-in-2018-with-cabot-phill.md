@@ -6,6 +6,11 @@ date: "2018-01"
 ---
 
 **Date:** 2018-01
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “2018 begins”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2018-01"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:18:50](/episodes/ep-_vg7ucP1E0g.md#t-00-18-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1130);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1130s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 2018 begins with Erika ringing in the new year with Cabot Phillips, her boyfriend

@@ -6,6 +6,11 @@ date: "2024-09-10"
 ---
 
 **Date:** 2024-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “a year from the date that Charlie was murdered on September 10th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2024-09-10"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:35:58](/episodes/ep-CMcktj3Egfo.md#event-event-2024-09-10-candace-owens-said-a-murder-plot-targeti-t-00-35-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2158);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and I was quite literally someone who's plotting my murder, actually a year from the date that

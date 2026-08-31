@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:02:02](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(122);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=122s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It has made me fully lose faith in Trump (Donald Trump).
 

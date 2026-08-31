@@ -97,7 +97,7 @@ Source: [Police | Provo, UT](https://www.provo.gov/283/Police)
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
 - [00:22:06](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) (Citation) **Candace Owens**: ["Candace Owens said Robert Bohls began his policing career at the Provo..."](/statements/statement-c373b79f6714.md)
-  - Also about: [Robert Bohls](/entities/person-robert-bohls.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Robert Bohls](/entities/person-robert-bohls.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

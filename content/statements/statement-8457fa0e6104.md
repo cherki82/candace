@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -23,7 +23,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:30:03](/episodes/ep-X92MllIHDzw.md#t-00-29-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1803);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1803s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm getting a sense that some of them are involved.
 

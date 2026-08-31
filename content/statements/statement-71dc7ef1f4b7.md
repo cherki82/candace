@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:05:19](/episodes/ep-YeEtS7nix3o.md#t-01-05-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3919);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3919s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.
 

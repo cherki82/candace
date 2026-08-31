@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:19:36](/episodes/ep-yAIb-NuUh_U.md#t-00-18-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1176);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=1176s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2024, the lead pastor was arrested after a sting operation into online sex abuse against children
 

@@ -6,6 +6,11 @@ date: "2006"
 ---
 
 **Date:** 2006
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2006”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2006"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:05:54](/episodes/ep-X92MllIHDzw.md#event-event-2006-peyton-mccormick-was-miss-teen-usa-in-20-t-00-05-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(354);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=354s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Peyton was also, by the way, Miss Teen USA in 2006,

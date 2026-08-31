@@ -19,11 +19,11 @@ object: "person-glenn-beck"
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
-- [00:17:14](/episodes/ep-6J6lRZPQ4jk#t-00-17-14): _Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV._
+- [00:16:30](/episodes/ep-6J6lRZPQ4jk#t-00-16-30): _We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV._
 
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
-- [00:05:48](/episodes/ep-es7PWdFGoFI#t-00-05-48): _We, Erika sat down with Glenn. I actually missed this portion because I didn't get to watch the interview in its entirety._
+- [00:05:40](/episodes/ep-es7PWdFGoFI#t-00-05-40): _But they owned right away, which felt great, that if you guys recall, We, Erika (Erika Kirk) sat down with Glenn (Glenn Beck)._
 
 **[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
 

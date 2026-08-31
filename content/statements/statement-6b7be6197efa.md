@@ -23,9 +23,9 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:41:35](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2495);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2495s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> We're supposed to gather that again on a doorbell cam, and he's in a different outfit
+> Then we're back to TMZ and they release that at 11:49 a.m. they have footage of the shooter, who has now changed his outfit. We're supposed to gather that again on a doorbell cam, and he's in a different outfit.
 
 ## Verification
 

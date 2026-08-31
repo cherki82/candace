@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:43:35](/episodes/ep-9naMwS0kMBE.md#t-00-43-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2615);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2615s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, the crowd, the populist movement is not being represented by Trump anymore. This is everyone who was a part of the Never Trump movement is now supporting Trump. I say Trump became Never Trump.
 

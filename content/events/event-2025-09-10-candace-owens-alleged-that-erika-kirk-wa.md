@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:27:48](/episodes/ep-DYD_QHMPwqM.md#t-00-27-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1668);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1668s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she was with Erika when Mikey and Elizabeth called.

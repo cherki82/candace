@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(806);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=806s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show. It appeared as though Kash (Kash Patel) phoned into the show live, but he did not. Andrew Kolvet was actually in the West Wing in D.C. that day taking a meeting with top brass. The episode was pre-recorded. People in the White House and all around the world think Andrew (Andrew Kolvet) is shady and intentionally wanted the public to think that he was in Arizona for some reason.
 

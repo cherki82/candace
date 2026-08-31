@@ -27,8 +27,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:03:09](/episodes/ep-581dILVcEE4.md#t-00-02-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(189);return false;">Play</a>
+**Timestamp:** [00:03:09](/episodes/ep-581dILVcEE4.md#t-00-02-41) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=189s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Candace Owens) started her career by doxing teenagers." "Old habits die hard."
 

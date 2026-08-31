@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:08:42](/episodes/ep-19vHhjF7-NA.md#t-00-08-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(522);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=522s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So like all things in life, it always just kind of takes its course. I was on a vacation after we left government in the summer of 2021. We were on our friend Nat Rothschild's boat. We got picked up in Montenegro and then we started sailing over to Corfu and we spent a couple of days in Albania.
 

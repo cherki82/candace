@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2037);return false;">Play</a>
+**Timestamp:** [00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-38) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2037s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, Stop Antisemitism actually tweeted this: "CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how the Holocaust started. Jew hatred normalized."
 

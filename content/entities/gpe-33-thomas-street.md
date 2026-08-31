@@ -5,15 +5,25 @@ id: "gpe-33-thomas-street"
 type: "GPE"
 aliases:
   - "33 Thomas St"
+categories:
+  - "New York City address"
+  - "telecommunications building"
+  - "built environment"
 ---
 
 _Type: Places_
 
 **Also known as:** 33 Thomas St
 
+**Categories:** New York City address, telecommunications building, built environment
+
+**Entity verification:** verified
+> A New York City Landmarks Preservation Commission designation report identifies the Long Lines Building at 33 Thomas Street and confirms its New York City built-place context.
+Source: [NYC Landmarks Preservation Commission Designation Report](https://a860-gpp.nyc.gov/downloads/0g354g84k?locale=en)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-40">2025-11-19 · 00:11:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-40">2025-11-19 · 00:11:52</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-38">2025-11-19 · 00:11:38</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-38">2025-11-19 · 00:11:52</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -24,15 +34,15 @@ _Type: Places_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-40">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-38">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-40" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-38" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-40) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-38) | 2 |
 
 </details>
 </section>
@@ -45,10 +55,10 @@ _Type: Places_
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:11:46](/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-40)**
+**[00:11:38](/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-38)**
 > "...to a multi-agency space in a commercial building. The building looks like if you decided to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the buil..."
 
-**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-40)**
+**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-33-thomas-street-t-00-11-38)**
 > "...ks like if you decided to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that makes it look brown and th..."
 
 </details>
@@ -64,7 +74,7 @@ _Type: Places_
 - **[New York City](/entities/gpe-new-york-city.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-38): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
 
 </details>
 
@@ -76,7 +86,7 @@ _Type: Places_
 - **[New York City](/entities/gpe-new-york-city.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-38): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
 
 </details>
 

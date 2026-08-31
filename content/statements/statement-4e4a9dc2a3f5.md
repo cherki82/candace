@@ -1,16 +1,16 @@
 ---
-title: "Rabbi Pesach Wolicki was on the infamous text chain, meaning..."
-description: "\"Rabbi Pesach Wolicki was on the infamous text chain, meaning both he and Josh Hammer knew exactly where Charlie Kirk was at on the topic of Israel and...\" — Candace Owens"
+title: "Candace Owens inferred that because Rabbi Pesach Wolicki was..."
+description: "\"Candace Owens inferred that because Rabbi Pesach Wolicki was on the text chain, he and Josh Hammer knew exactly where Charlie Kirk stood on Israel bef...\" — Candace Owens"
 statement_id: "statement-4e4a9dc2a3f5"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Rabbi Pesach Wolicki was on the infamous text chain, meaning both he and Josh Hammer knew exactly where Charlie Kirk was at on the topic of Israel and how he felt leading up to his death
+> Candace Owens inferred that because Rabbi Pesach Wolicki was on the text chain, he and Josh Hammer knew exactly where Charlie Kirk stood on Israel before his death.
 
 ## Attribution
 
@@ -20,22 +20,23 @@ type: "factual_claim"
 
 ## About
 
-- [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md) (person)
+- [Pesach Wolicki](/entities/person-pesach-wolicki.md) (person)
 - [Josh Hammer](/entities/person-josh-hammer.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:27:33](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1653);return false;">Play</a>
+**Timestamp:** [00:27:21](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-00) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=1641s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> that rabbi, Rabbi Pesach Wolicki, was also on the now infamous text chain. So this means that both of those individuals knew exactly where Charlie (Charlie Kirk) was at on the topic of Israel and how he felt leading up to that moment of his death
+> This is probably also a great time—referring to that little conference call they had, whatever, a Zoom call—to tell you that that rabbi, Rabbi Pesach Wolicki, was also on the now infamous text chain. So this means that both of those individuals knew exactly where Charlie (Charlie Kirk) was at on the topic of Israel and how he felt leading up to that moment of his death.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

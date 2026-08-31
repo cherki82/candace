@@ -1,16 +1,16 @@
 ---
-title: "having people that are outwardly lying"
-description: "\"having people that are outwardly lying\" — Candace Owens"
+title: "Owens accused unspecified people of openly lying while Erika..."
+description: "\"Owens accused unspecified people of openly lying while Erika Kirk was coping with her husband's death.\" — Candace Owens"
 statement_id: "statement-31fba74f093c"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> having people that are outwardly lying
+> Owens accused unspecified people of openly lying while Erika Kirk was coping with her husband's death.
 
 ## Attribution
 
@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [01:08:11](/episodes/ep-2WEHTk0Xewg.md#t-01-07-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4091);return false;">Play</a>
+**Timestamp:** [01:08:11](/episodes/ep-2WEHTk0Xewg.md#t-01-07-40) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=4091s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I can't even imagine what it feels like experiencing this tragedy, having to come to terms with this tragedy, and then on top of it having people that are outwardly lying
 
@@ -33,4 +33,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:00:51](/episodes/ep-2T39-oADLj0.md#t-00-00-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(51);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=51s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I do, I did want to tell you this on camera. One of the girls that you spoke to actually quit OnlyFans on that day.
 

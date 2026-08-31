@@ -1,6 +1,6 @@
 ---
 title: "Croatia"
-description: "Croatia (Places) - 10 mentions"
+description: "Croatia (Places) - 9 mentions"
 id: "gpe-croatia"
 type: "GPE"
 categories:
@@ -17,10 +17,10 @@ _Type: Places_
 Source: [United Nations Member States](https://www.un.org/about-us/member-states)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55">2025-10-08 · 00:01:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-11-10">2025-10-08 · 00:01:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30">2026-08-19 · 00:47:50</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,9 +29,9 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55">Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30">EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-11-10" style="--pulse-height:67%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-croatia-t-00-12-10" style="--pulse-height:33%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-croatia-t-00-45-22" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-croatia-t-00-11-42" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
@@ -42,7 +42,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55) | 3 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-11-10) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-croatia-t-00-12-10) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-croatia-t-00-45-22) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-croatia-t-00-11-42) | 1 |
@@ -55,7 +55,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (3 mentions)</summary>
@@ -104,15 +104,12 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:01:11](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55)**
+**[00:01:08](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-11-10)**
 > "Greetings from Croatia."
 
-**[01:11:10](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55)**
-> "Greetings from Croatia."
-
-**[01:11:13](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55)**
+**[01:11:10](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-11-10)**
 > "I used to live in Croatia for a couple of months—about three months—working..."
 
 </details>
@@ -126,9 +123,10 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <summary>Former Residence Of (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:47:43](/episodes/ep-9hRcfSrri70.md#t-00-47-30): “I've been to Croatia, actually lived there for a couple of months randomly in Dubrovnik back when I worked in private equity.”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 01:11:10](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-10): “I used to live in Croatia for a couple of months—about three months—working on a wedding in Dubrovnik.”
 
 </details>
 
@@ -138,9 +136,10 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly lived in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:47:43](/episodes/ep-9hRcfSrri70.md#t-00-47-30): “I've been to Croatia, actually lived there for a couple of months randomly in Dubrovnik back when I worked in private equity.”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 01:11:10](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-10): “I used to live in Croatia for a couple of months—about three months—working on a wedding in Dubrovnik.”
 
 </details>
 

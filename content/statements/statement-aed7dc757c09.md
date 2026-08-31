@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 **Timestamp:** [00:01:24](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(84);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=84s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They announced that they were going to cut ties with the ADL, right
 

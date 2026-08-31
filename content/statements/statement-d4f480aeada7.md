@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(231);return false;">Play</a>
+**Timestamp:** [00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-51) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=231s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.
 

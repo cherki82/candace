@@ -23,8 +23,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:30:38](/episodes/ep-7RLtGgkTh9o.md#t-00-30-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1838);return false;">Play</a>
+**Timestamp:** [00:30:38](/episodes/ep-7RLtGgkTh9o.md#t-00-29-53) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1838s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, the hippie movement was not organic
 

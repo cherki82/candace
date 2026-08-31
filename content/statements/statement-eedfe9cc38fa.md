@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:31:35](/episodes/ep-k1b1NDCrNFs.md#t-00-31-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1895);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1895s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's not true. Every single year that I led the Daily Wire, we grew revenue. Every year, year over year for 10 straight years.
 

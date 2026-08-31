@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:05:20](/episodes/ep-iHav0PPzUz8.md#t-00-04-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(320);return false;">Play</a>
+**Timestamp:** [00:05:20](/episodes/ep-iHav0PPzUz8.md#t-00-05-03) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=320s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Casey Baugh has his name on an institute at UVU, the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building.
 

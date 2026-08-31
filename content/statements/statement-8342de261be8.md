@@ -1,6 +1,6 @@
 ---
-title: "Kash Patel... flew down in his FBI plane to go see her [Alex..."
-description: "\"Kash Patel... flew down in his FBI plane to go see her [Alexis] down in Nashville.\" — Candace Owens"
+title: "Candace Owens said she guessed that Kash Patel flew in his F..."
+description: "\"Candace Owens said she guessed that Kash Patel flew in his FBI plane to see Alexis in Nashville.\" — Candace Owens"
 statement_id: "statement-8342de261be8"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,27 @@ veracity: "true"
 
 ## Statement
 
-> Kash Patel... flew down in his FBI plane to go see her [Alexis] down in Nashville.
+> Candace Owens said she guessed that Kash Patel flew in his FBI plane to see Alexis in Nashville.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Kash Patel](/entities/person-kash-patel.md) (person)
+- [FBI](/entities/org-fbi.md) (org)
+- [Nashville](/entities/gpe-nashville.md) (gpe)
 
 ## Source
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:36:52](/episodes/ep-K1tFD7FfoCU.md#t-00-36-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2212);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=2212s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I guess he flew down in his FBI plane to go see her down in Nashville
+> I guess he flew down in his FBI plane to go see her down in Nashville.
 
 ## Verification
 

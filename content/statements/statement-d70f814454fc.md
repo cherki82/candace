@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:42:27](/episodes/ep-i8m_6D4QGmk.md#t-00-42-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2547);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2547s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The assessment that was made that if we stood and waited for that attack to come first, before we hit them, we would suffer much higher casualties. ... And so the president made the very wise decision. We knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces. And we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties and perhaps even higher. ... those killed. And then we would all be here answering questions about why we knew that and didn't act.
 

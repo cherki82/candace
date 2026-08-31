@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1229);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1229s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We had mentioned to you this desert spirit tech company that she was running, Lori (Erika Kirk's mother; surname unverified) was running on a Native American reservation. ... Because somebody went and this address does not exist.
 

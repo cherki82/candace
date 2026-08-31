@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:27:57](/episodes/ep-cZxHqYsWRYg.md#t-00-27-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1677);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1677s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But they were able to pull up some deeds where Lori (Lori Frantzve) and Kent (Kent Frantzve) had signed the deeds over and when they had first received the deed to their home in Marblehead, Massachusetts. ... And there's a little interesting tidbit here where Lori (Lori Frantzve) and Kent (Kent Frantzve) are listing as having been a couple from Rhode Island, from North Kingstown. ... Apparently they lived there, except I can't find a trace of Lori (Lori Frantzve) and Kent (Kent Frantzve) having lived in Rhode Island.
 

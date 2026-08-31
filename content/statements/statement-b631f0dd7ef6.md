@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:39:33](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2373);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace Owens sees on this totally out of context screenshot of Charlie Kirk being very upset that a Jewish donor was withholding his $2 million donation.
 

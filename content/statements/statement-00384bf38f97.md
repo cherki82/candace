@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:15:54](/episodes/ep-3QJqtW_NOSI.md#t-00-15-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(954);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=954s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So a terrible massacre took place in Iraq, which landed four of their men in prison. They killed 17 Iraqi civilians and injured 14, pardon, 14 Iraqi civilians and injured 20 others while escorting a U.S. embassy convoy. Again, we just asked them to escort us. ... Like I said, four men were convicted, one of murder, three others of manslaughter charges. But no worries, because when Trump (Donald Trump) got into office the first time around, he pardoned all of them. Very controversial, but all of them got pardoned, so they're free.
 

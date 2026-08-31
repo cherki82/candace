@@ -71,7 +71,7 @@ Source: [Pepperdine Dispute Resolution Law Journal | Kenneth Starr](https://law.
 <details>
 <summary>Formerly Employed (1)</summary>
 
-- **[Stacey Sheridan](/entities/person-stacey-sheridan.md)**
+- **[Stacy Sheridan](/entities/person-stacy-sheridan.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?”
@@ -95,7 +95,7 @@ Source: [Pepperdine Dispute Resolution Law Journal | Kenneth Starr](https://law.
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Stacey Sheridan](/entities/person-stacey-sheridan.md)** formerly worked for this
+- **[Stacy Sheridan](/entities/person-stacy-sheridan.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?”
@@ -113,7 +113,7 @@ Source: [Pepperdine Dispute Resolution Law Journal | Kenneth Starr](https://law.
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
 
 - [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) (Claim) **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine..."](/statements/statement-768813e26649.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Pepperdine University](/entities/org-pepperdine-university.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+  - Also about: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Pepperdine University](/entities/org-pepperdine-university.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>
 

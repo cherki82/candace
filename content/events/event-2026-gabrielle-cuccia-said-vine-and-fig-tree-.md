@@ -6,6 +6,11 @@ date: "2026"
 ---
 
 **Date:** 2026
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “Earlier this year”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:15:49](/episodes/ep-BxN2-aeMYIs.md#event-event-2026-gabrielle-cuccia-said-vine-and-fig-tree--t-00-15-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(949);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=949s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Earlier this year, VFT was at the White House meeting with Sebastian Gorka.

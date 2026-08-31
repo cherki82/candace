@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:22:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1337);return false;">Play</a>
+**Timestamp:** [00:21:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1279s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> almost the way it feels to me was like, "We can save you, but here's what you have to do"—was Marissa took me to the Simon Wiesenthal Center
+> almost the way it feels to me was like, "We can save you, but here's what you have to do"—was Marissa (Marissa Streit) took me to the Simon Wiesenthal Center. ... And there was like some chief rabbi-looking character, and him and her spoke in Hebrew. I didn't understand a word of what was said in front of me. And then we left, and everything was fine.
 
 ## Verification
 

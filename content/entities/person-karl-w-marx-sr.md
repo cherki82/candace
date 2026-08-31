@@ -4,7 +4,6 @@ description: "Karl W. Marx Sr. (People) - 4 mentions"
 id: "person-karl-w-marx-sr"
 type: "PERSON"
 aliases:
-  - "Karl Marx"
   - "Carl Marx"
 categories:
   - "martial artist"
@@ -13,7 +12,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Karl Marx, Carl Marx
+**Also known as:** Carl Marx
 
 **Categories:** martial artist, Keichu-Do founder
 

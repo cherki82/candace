@@ -15,7 +15,7 @@ object: "person-candace-owens"
 
 **[Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc)**
 
-- [00:45:49](/episodes/ep-t4U7NjnUEgc#t-00-45-49): _Milo defended me and explained that I am not to blame for the lame excuses that the feds have given us regarding Charlie Kirk's assassination_
+- [00:44:49](/episodes/ep-t4U7NjnUEgc#t-00-44-49): _Milo (Milo Yiannopoulos) defended me and explained that I am not to blame_
 
 ### Related
 

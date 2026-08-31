@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:49:24](/episodes/ep-zSKrxIUMNqw.md#t-00-48-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2964);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2964s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He had acknowledged trying to use petitions with forged signatures that he knew were false plus forging a dead woman's signature on a nominating petition.
 

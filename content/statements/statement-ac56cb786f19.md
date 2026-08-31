@@ -1,6 +1,6 @@
 ---
-title: "They are going to kill me"
-description: "\"They are going to kill me\" — Charlie Kirk"
+title: "Charlie Kirk reportedly messaged people the day before his d..."
+description: "\"Charlie Kirk reportedly messaged people the day before his death, 'They are going to kill me.'\" — Charlie Kirk"
 statement_id: "statement-ac56cb786f19"
 speaker: "Charlie Kirk"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> They are going to kill me
+> Charlie Kirk reportedly messaged people the day before his death, 'They are going to kill me.'
 
 ## Attribution
 
@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:53:47](/episodes/ep-t4U7NjnUEgc.md#t-00-53-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3227);return false;">Play</a>
+**Timestamp:** [00:53:40](/episodes/ep-t4U7NjnUEgc.md#t-00-53-08) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=3220s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> he was fearful the day before when he messaged people and said, they are going to kill me
+> And I wonder if that was presented to Charlie. I wonder if that's why he was fearful the day before when he messaged people and said, they are going to kill me.
 
 ## Verification
 

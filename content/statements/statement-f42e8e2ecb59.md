@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:06:51](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(411);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look, Elon Musk seems like a nice guy, but do I believe he's running 17 trillion air dollar companies at the same time while also having 49 baby mamas? No, I don't. I don't accept that. Bill Gates, that one bothers me the most. Oh my God, shocker. He's in the Epstein files.
 

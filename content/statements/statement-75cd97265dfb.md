@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:29:31](/episodes/ep-A39g5oqB_eM.md#t-00-29-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1771);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1771s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was actually called Creative Children's Academy. ... It opened in 1982 for the academically gifted from preschool up into the eighth grade. ... In 1999, ... it changed its name officially to Quest Academy.
 

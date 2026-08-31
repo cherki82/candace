@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:51:46](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3106);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=3106s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She wrote, FYI, the Long Beach Airport is a quick 10 to 15 minute drive to a small military base in Los Alamitos. ... It is the Joint Forces Air Base. ... Um, she continued, it is common for U.S. government officials to fly in and out of that base when coming to Southern California and then driving to fundraising events, etc.
 

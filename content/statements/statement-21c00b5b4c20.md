@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:04:11](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(251);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=251s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Something is not right with Erika Kirk.
 

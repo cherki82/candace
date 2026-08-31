@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:13:11](/episodes/ep-czVBmqZP6Ss.md#t-00-12-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie was getting a lot of really nasty text messages, and many of them pertaining to Tucker and Candace, but Tucker was really the focus when it came to AmericaFest
 

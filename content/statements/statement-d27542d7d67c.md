@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:31:23](/episodes/ep-9hRcfSrri70.md#t-00-31-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1883);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=1883s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty, that Mike Mitchell was the person who quarterbacked a lot of this and that things were being intentionally misrepresented in the media.
 

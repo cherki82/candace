@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:31:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1915);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1915s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere. So how it actually would have worked is that you would have paid a $25 fee for that specialty plate, $17 of which would have been an annual donation deposited into a conservative grassroots network special plate fund, according to the legislation.
 

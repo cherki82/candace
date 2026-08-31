@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:05:04](/episodes/ep-1IY2oD-_xVA.md#t-00-04-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(304);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=304s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mr. Crowley, eight and a half months later, she gives birth to Barbara Bush, okay? This is just, again, a little over eight and a half months after hanging out with Aleister Crowley.
 

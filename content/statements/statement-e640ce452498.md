@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:34:17](/episodes/ep-eMtjzXkQrsU.md#t-00-33-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2057);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2057s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The change specifically limits DOJ prosecutors from criminally charging those involved in public relations work and policy advocacy on behalf of foreign businesses and nonprofits.
 

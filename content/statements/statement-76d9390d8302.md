@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:54:57](/episodes/ep-2tFYJf1klgY.md#t-00-54-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3297);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=3297s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I do think, well, I know for a fact he didn't know a lot of these things about Erica (Erika Kirk) because I was there and I'm finding this stuff out. ... He definitively did not know. He thought it was all organic and I have my questions about that.
 

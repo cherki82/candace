@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:16:00](/episodes/ep-wcD2khO3rOA.md#t-00-15-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(960);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=960s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Piscadlo... ended up being that he was photographing... not hired by Turning Point USA but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.
 

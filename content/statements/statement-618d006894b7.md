@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:20:44](/episodes/ep-7FS1tUeSfdE.md#t-00-20-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's not just the COO of Turning Point USA. ... He's also running Winning Team Publishing. If that sounds familiar to you, that's that book publishing conservative book publishing company that was started by Sergio Gor. ... And Donald Trump Jr.
 

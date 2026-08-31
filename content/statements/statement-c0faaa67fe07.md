@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:36:45](/episodes/ep-Ux1kzgQxkws.md#t-01-36-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5805);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=5805s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But if I could do that, you know, I work with an organization called BASTA Universal. I'm the development director there, and they do tenants' rights and... ... and homeless prevention like i know what we all can agree on we can all agree on that you know uh that people can't afford to pay the rent and they'd be able to figure out a way to stay um stay in their houses before it becomes a mother with three kids that are homeless we know where that leads but these kinds of things is what i want to use what i'm doing what like i want like i want to do that i also want to make a living
 

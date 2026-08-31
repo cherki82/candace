@@ -27,7 +27,7 @@ Source: [TAU - Israel's Global University | Tel Aviv University](https://english
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -67,7 +67,7 @@ Source: [TAU - Israel's Global University | Tel Aviv University](https://english
 **[01:03:09](/episodes/ep-czVBmqZP6Ss.md#ent-org-tel-aviv-university-t-01-02-48)**
 > "... a professor, a historian, at Tel Aviv University."
 
-**[01:03:24](/episodes/ep-czVBmqZP6Ss.md#ent-org-tel-aviv-university-t-01-02-48)**
+**[01:03:15](/episodes/ep-czVBmqZP6Ss.md#ent-org-tel-aviv-university-t-01-02-48)**
 > "He was, I believe, a professor, a historian, at Tel Aviv University"
 
 </details>
@@ -77,7 +77,29 @@ Source: [TAU - Israel's Global University | Tel Aviv University](https://english
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Shlomo Sand](/entities/person-shlomo-sand.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 01:03:09](/episodes/ep-czVBmqZP6Ss.md#t-01-02-48): “He was, I believe, a professor, a historian, at Tel Aviv University.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Shlomo Sand](/entities/person-shlomo-sand.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 01:03:09](/episodes/ep-czVBmqZP6Ss.md#t-01-02-48): “He was, I believe, a professor, a historian, at Tel Aviv University.”
+
+</details>
+
+</details>
 
 </details>
 

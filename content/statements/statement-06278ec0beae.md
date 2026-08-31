@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:41:08](/episodes/ep-1hcjQGgvxUY.md#t-00-40-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2468);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2468s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm actually not even a Republican. ... I retired from politics the day they took out Charlie Kirk and lied to us about it.
 

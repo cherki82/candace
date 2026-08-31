@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:07:25](/episodes/ep-puuMVxEu5NU.md#t-00-07-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(445);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=445s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Check out this headline following Frank Turek's ouster tells us this is the Christian Post reporting back in 2011 that he was the Christian consultant and was fired over his book on gay marriage. The article tells us that just months after being fired from Cisco Systems in California over an anti-gay marriage book, Christian consultant. ... And Dr. Frank Turek was also given the boot from Bank of America. Turek (Frank Turek) was doing work on and off for Bank of America for about 15 years, mainly conducting leadership and team building programs.
 

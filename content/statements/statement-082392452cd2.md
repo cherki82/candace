@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:48:57](/episodes/ep-1CFDtD0IgEg.md#t-00-48-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2937);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2937s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There is there are Catholic funeral homes that do offer cremation services. It is positively wild to me, but we were able to confirm that and I don't have an answer for as to why that is, but you are correct on the doctrine.
 

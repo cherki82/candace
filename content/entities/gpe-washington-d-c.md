@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 86 mentions"
+description: "Washington, D.C. (Places) - 108 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -8,6 +8,7 @@ aliases:
   - "Washington D.C."
   - "DC"
   - "Washington, DC"
+  - "Washington DC"
 categories:
   - "United States"
   - "United States capital"
@@ -16,11 +17,11 @@ categories:
 
 _Type: Places_
 
-**Also known as:** D.C., Washington D.C., DC, Washington, DC
+**Also known as:** D.C., Washington D.C., DC, Washington, DC, Washington DC
 
 **Categories:** United States, United States capital, District of Columbia
 
-> **Possibly overlapping entity records:** [Washington, D.C.](/entities/gpe-washington-dc). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [DC Comics](/entities/org-dc-comics). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Official District of Columbia government site confirms Washington, DC; source passages concern Washington institutions and RFK Stadium, not Washington state.
@@ -29,8 +30,8 @@ Source: [Washington, DC](https://dc.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-washington-d-c-t-00-53-02">2026-08-04 · 00:53:02</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,11 +43,15 @@ Source: [Washington, DC](https://dc.gov/)
 <p>Highest activity: <a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-washington-d-c-t-00-32-20">BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10" style="--pulse-height:12%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45" style="--pulse-height:12%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-21" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-06" style="--pulse-height:12%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-09-46" style="--pulse-height:38%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58" style="--pulse-height:62%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#t-00-05-13" style="--pulse-height:12%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-16" style="--pulse-height:25%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-06" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 4 mentions" title="2025-11-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-09-46" style="--pulse-height:25%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48" style="--pulse-height:12%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-34-15" style="--pulse-height:88%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-washington-d-c-t-00-14-53" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-washington-d-c-t-00-19-13" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
@@ -64,6 +69,7 @@ Source: [Washington, DC](https://dc.gov/)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-washington-d-c-t-00-11-54" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-34-36" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-08-54" style="--pulse-height:38%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-washington-d-c-t-00-09-26" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-39-00" style="--pulse-height:12%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-washington-d-c-t-00-44-11" style="--pulse-height:12%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-washington-d-c-t-00-37-20" style="--pulse-height:12%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
@@ -74,7 +80,9 @@ Source: [Washington, DC](https://dc.gov/)
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30" style="--pulse-height:12%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-washington-d-c-t-00-06-44" style="--pulse-height:12%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-washington-d-c-t-00-19-47" style="--pulse-height:75%" aria-label="Candace x Hunter Biden: The Interview: 6 mentions" title="2026-05-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-washington-d-c-t-00-10-39" style="--pulse-height:38%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#t-00-42-24" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-washington-d-c-t-00-01-18" style="--pulse-height:12%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23" style="--pulse-height:12%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-washington-d-c-t-00-38-49" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-washington-d-c-t-00-32-20" style="--pulse-height:100%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 8 mentions" title="2026-07-27 · 8 mentions"><span></span></a>
@@ -86,11 +94,15 @@ Source: [Washington, DC](https://dc.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10) | 1 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-21) | 1 |
-| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-06) | 1 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) | 3 |
-| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58) | 5 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-05-13) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-16) | 2 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-06) | 4 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-34-15) | 7 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58) | 6 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-washington-d-c-t-00-14-53) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-washington-d-c-t-00-19-13) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50) | 2 |
@@ -108,6 +120,7 @@ Source: [Washington, DC](https://dc.gov/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-washington-d-c-t-00-11-54) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-34-36) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-08-54) | 3 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-washington-d-c-t-00-09-26) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-39-00) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-washington-d-c-t-00-44-11) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-washington-d-c-t-00-37-20) | 1 |
@@ -118,7 +131,9 @@ Source: [Washington, DC](https://dc.gov/)
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-washington-d-c-t-00-06-44) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-washington-d-c-t-00-19-47) | 6 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-washington-d-c-t-00-10-39) | 3 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-washington-d-c-t-00-01-18) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-washington-d-c-t-00-38-49) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-washington-d-c-t-00-32-20) | 8 |
@@ -131,7 +146,7 @@ Source: [Washington, DC](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
@@ -204,6 +219,14 @@ Source: [Washington, DC](https://dc.gov/)
 </details>
 
 <details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:01:36](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-washington-d-c-t-00-01-18)**
+> "Andrew Kolvet was in Washington, D.C."
+
+</details>
+
+<details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
 
 **[00:42:24](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24)**
@@ -211,6 +234,20 @@ Source: [Washington, DC](https://dc.gov/)
 
 **[00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32)**
 > "... Base Andrews just outside of DC um who did he drop off in Texas that's another qu..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3 mentions)</summary>
+
+**[00:10:53](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-washington-d-c-t-00-10-39)**
+> "Andrews Air Force Base in Washington, D.C."
+
+**[00:12:02](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-washington-d-c-t-00-11-52)**
+> "...e on September 9th. He was in Washington, D.C. at 3 p.m. greeting Singapore's Minister of Defens..."
+
+**[00:12:32](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-washington-d-c-t-00-12-32)**
+> "He wouldn't be back in D.C. in time. Kash Patel, however, we have absolutely ..."
 
 </details>
 
@@ -324,6 +361,14 @@ Source: [Washington, DC](https://dc.gov/)
 
 **[00:39:00](/episodes/ep-DEtFh2Ff-58.md#t-00-39-00)**
 > "In DC"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:09:26](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-washington-d-c-t-00-09-26)**
+> "when Charlie would visit Washington DC he would talk to Joe"
 
 </details>
 
@@ -512,7 +557,7 @@ Source: [Washington, DC](https://dc.gov/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
 
 **[00:35:25](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58)**
 > "...I was returning to Washington DC from my district and voting on the floor of the H..."
@@ -529,16 +574,58 @@ Source: [Washington, DC](https://dc.gov/)
 **[01:00:32](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58)**
 > "I hate everybody that's in DC."
 
+**[00:34:58](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58)**
+> "... meeting, you can get back to D.C. You just can, obviously, in that time frame."
+
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46)**
-> "...you don't remember, to fly to DC for Sergio (Sergio Gore) to be sworn into the amb..."
+**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55)**
+> "... placed a call, presumably to DC, to make them move because he wanted, obviously, ..."
 
-**[00:11:42](/episodes/ep-6DhWawD4ZiM.md#t-00-11-39)**
-> "she made to fly to DC for Sergio"
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (7 mentions)</summary>
+
+**[00:08:09](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-34-15)**
+> "...y said a call was placed to a DC at the hospital and this had something to do with..."
+
+**[00:09:50](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-34-15)**
+> "...ot say it was a phone call to DC, but said it was likely a phone call to someone p..."
+
+**[00:34:15](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-34-15)**
+> "...larly from Andrews outside of D.C. And I'm going to play this longer clip of Baron C..."
+
+**[00:37:47](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-37-19)**
+> "...was a flight on this jet from D.C. to Colorado Springs with that important and rarel..."
+
+**[00:38:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-37-19)**
+> "... lot and find JD Vance was in DC."
+
+**[00:40:05](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-00-37-19)**
+> "...back to Joint Base Andrews in DC."
+
+**[01:01:46](/episodes/ep-9k2xrAC0H88.md#ent-gpe-washington-d-c-t-01-01-46)**
+> "... a restaurant that evening in D.C."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:15:29](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48)**
+> "who was shot in DC at the Jewish Museum."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:10:04](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46)**
+> "She sat down with the New York Times. She made time, by the way, in case you don't remember, to fly to DC for Sergio (Sergio Gor) to be sworn into the ambassador to India as the ambassador to India, which feels kind of obscure and not necessarily related turning point USA affairs, building affairs or whatever it is."
 
 **[00:47:20](/episodes/ep-6DhWawD4ZiM.md#t-00-46-55)**
 > "...s ago from Tampa area back to DC."
@@ -546,26 +633,49 @@ Source: [Washington, DC](https://dc.gov/)
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
 
 **[00:06:26](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-06)**
 > "... was just too pregnant to go. And I was living in D.C., so it was just down the street from me. And I reflect on that, and I think, "Wow, that saved me," because I co..."
 
+**[00:06:50](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-50)**
+> "...he road, and as a resident of D.C.—literally living there."
+
+**[00:07:10](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-50)**
+> "... time that there was peace in D.C., meaning it was the summer of BLM riots."
+
+**[00:07:31](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-07-31)**
+> "Now, I knew instantly as a D.C. resident that the feds were involved because of t..."
+
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:59:42](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-21)**
+**[00:59:42](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-16)**
 > "...ion. And I always say if you look at any lobby in D.C., it'll make you hate someone, right? Pharmaceutical lobby will make you hate the pharmaceutical companies. The ..."
 
+**[00:59:53](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-53)**
+> "And so people that go to D.C. are incredibly corrupt. Money rules them, and the..."
+
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:33:23](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45)**
+**[00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-13)**
+> "a long tenure in DC"
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+
+**[00:33:22](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45)**
 > "the assassination of Sarah Milgram and Yaron Lechinsky in D.C."
+
+**[00:30:34](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-30-01)**
+> "...e she is starting off 2018 in D.C., and she's got a picture of herself—if you can sc..."
 
 </details>
 
@@ -610,6 +720,14 @@ Source: [Washington, DC](https://dc.gov/)
 
 <details open>
 <summary><strong class="section-title">Statements about Washington, D.C. (14)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:12:02](/episodes/ep-BxN2-aeMYIs.md#t-00-11-52) (Claim) **Candace Owens**: ["Pete Hegseth was photographed in Washington, D.C., at 3 p.m. on Septem..."](/statements/statement-be73fd658149.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Singapore](/entities/gpe-singapore.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
@@ -682,15 +800,12 @@ Source: [Washington, DC](https://dc.gov/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
-- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and ..."](/statements/statement-1708c00a71da.md)
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei mi..."](/statements/statement-14390b402a8a.md)
   - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
 
-- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Official committee records omit Mark Amodei from roll calls 1 and 2 on..."](/statements/statement-14390b402a8a.md)
-  - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
-
-- [00:36:52](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Candace Owens**: ["According to official committee records, Mark Amodei first appears in ..."](/statements/statement-b9a86ad8ed2a.md)
+- [00:36:24](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Diligent Denison (X account; identity unverified)** (via quoted post): ["Diligent Denison claimed that Mark Amodei was absent from the first tw..."](/statements/statement-b9a86ad8ed2a.md)
   - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
 
 </details>
@@ -698,7 +813,7 @@ Source: [Washington, DC](https://dc.gov/)
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-03) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
   - Also about: [JD Vance](/entities/person-jd-vance.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>

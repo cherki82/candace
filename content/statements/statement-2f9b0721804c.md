@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:10:22](/episodes/ep-his-JBjlkh8.md#t-00-10-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(622);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=622s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm just saying they're a lot younger than him.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:15:00](/episodes/ep-xjzb_t5Tk9o.md#t-00-15-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(900);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=900s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > yeah and then 1994 the bombing of the israeli embassy in london it was done by mossad and then they nailed they kind of nailed two palestinians for it uh one month after 9-11 which is the biggest full flag operation in october 2001 there was an attack of the mexican parliament ... By two Mossad individuals and they were also like being they pretended to be Palestinians, but they were discovered before the morning
 

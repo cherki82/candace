@@ -6,6 +6,11 @@ date: "2008"
 ---
 
 **Date:** 2008
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “In 2008”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2008"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:20:44](/episodes/ep-G3zdOeHpvS0.md#event-event-2008-the-organization-later-known-as-sodor-gl-t-00-20-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2008, with this one I just think is weird, they taught basic hygiene and self-care techniques

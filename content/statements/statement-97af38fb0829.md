@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:32:22](/episodes/ep-Ux1kzgQxkws.md#t-01-32-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5542);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=5542s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I feel like I have to say like, I'm really sorry that I contributed to that. ... When they're an idiot they wrote the n-word once and they like want to hang them when they're 40 and I just I just saw you as a caricature and it was it was definitely like I said like feeling gaslit by the political machine convinced that it was just the left that took in this political machine and I just like really want to say like genuinely like I'm so sorry that I just didn't even consider he's a crackhead and like you know like that's actually a very relatable thing and he shouldn't be
 

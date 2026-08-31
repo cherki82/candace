@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:15:53](/episodes/ep-DdPjoy5W-wY.md#t-00-15-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(953);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=953s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rather, she was giddy talking about merch and talking about hats. And this was 11 days after Charlie (Charlie Kirk) had been assassinated. The first one was six days after she had been assassinated. And so this time now in February, which is when this call was dated.
 

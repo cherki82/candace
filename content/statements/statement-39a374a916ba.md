@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:34:08](/episodes/ep-19vHhjF7-NA.md#t-00-34-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2048);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2048s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But as I have said, the video is doctored and they won't answer that. They won't say anything about the video further, especially not Andrew (Andrew Kolvet). ... we are still waiting for Andrew Kolvet to simply say that this video has not been doctored or enhanced by any ai tools
 

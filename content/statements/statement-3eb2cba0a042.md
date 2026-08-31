@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:07:32](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(452);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=452s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century.
 

@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:21:47](/episodes/ep-Vu6Y24pqhZs.md#t-00-21-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1307);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1307s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His father's name is Foster Curtiss. ... Foster (Foster Curtiss) spent 21 years. ... With NCIS starting as a special agent and working his way up the ladder, ending up as the division chief in the Office of Inspector General.
 

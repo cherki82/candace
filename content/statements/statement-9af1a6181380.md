@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:41:37](/episodes/ep-iB-YtO3UZOg.md#t-00-41-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2497);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2497s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So there's somebody on the roof right there? ... Just saying. ... He just ran from uh I gotta like over ... where's my finger? Whoa, from over there, ran in. And now he's right there. ... Just saying.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:07:12](/episodes/ep-IqHsl7d2dos.md#t-00-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(432);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=432s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The third point about him probably registered to me as the oddest. Okay, David Sprague is not his original name, like, at all. We learned that his actual birth name is James Norman Rawlinson Jr.
 

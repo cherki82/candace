@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 357 mentions"
+description: "France (Places) - 349 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -24,10 +24,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
 <div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>357</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>40</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>349</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>42</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,20 +37,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27" style="--pulse-height:10%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 7 mentions" title="2025-10-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-france-t-00-56-19" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-19-07" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-02-10" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-55-02" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-18-37" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-01-57" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-54-47" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-france-t-00-49-18" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-12-23" style="--pulse-height:14%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 10 mentions" title="2025-11-19 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-01" style="--pulse-height:22%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 16 mentions" title="2025-11-20 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-34" style="--pulse-height:19%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 14 mentions" title="2025-11-20 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-france-t-00-00-00" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 7 mentions" title="2025-11-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-france-t-00-00-57" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 72 mentions" title="2025-12-01 · 72 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-france-t-00-00-00" style="--pulse-height:38%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 27 mentions" title="2025-12-02 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-france-t-00-16-49" style="--pulse-height:11%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 8 mentions" title="2025-12-03 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-france-t-00-21-34" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-france-t-00-02-11" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 9 mentions" title="2025-12-05 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00" style="--pulse-height:28%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 20 mentions" title="2025-12-08 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32" style="--pulse-height:11%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 8 mentions" title="2025-12-09 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00" style="--pulse-height:26%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 19 mentions" title="2025-12-08 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-54" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-35" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
@@ -98,20 +98,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27) | 7 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-france-t-00-56-19) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-19-07) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-02-10) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-55-02) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-18-37) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-01-57) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-54-47) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-france-t-00-49-18) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-12-23) | 10 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-01) | 16 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-34) | 14 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-france-t-00-00-00) | 7 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-france-t-00-00-57) | 72 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-france-t-00-00-00) | 27 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-france-t-00-16-49) | 8 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-france-t-00-21-34) | 3 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-france-t-00-02-11) | 9 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00) | 20 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32) | 8 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00) | 19 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-54) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48) | 4 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-35) | 4 |
@@ -159,7 +159,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (357)</strong></summary>
+<summary><strong class="section-title">Raw mentions (349)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -848,45 +848,24 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (8 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
 
-**[00:06:54](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32)**
-> "involved Israel and French intelligence agencies"
-
-**[00:36:14](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32)**
-> "...ou can see in this article, a French intelligence agent."
-
-**[00:37:58](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32)**
+**[00:37:54](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-54)**
 > "...have said Israel, I have said France, and now I have dealt with, I have these emails, ..."
 
-**[00:38:49](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32)**
-> "...at I've been saying about the French intelligence agencies working with Israel."
-
-**[00:40:34](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32)**
-> "any Israeli intelligence and French intelligence officers to be here in Nashville."
-
-**[00:41:36](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32)**
-> "...pt, which involved Israel and French intelligence agencies."
-
-**[00:51:52](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-51-47)**
+**[00:51:47](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-51-47)**
 > "...t they didn't know about this French angle and the Charlie Kirk assassination."
-
-**[00:56:05](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-51-47)**
-> "...ng has really scared me, this French intelligence thing and the lack of commentary fro..."
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (20 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (19 mentions)</summary>
 
 **[00:00:29](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00)**
 > "...me in regarding the potential French connection, regarding which I should mention that..."
 
 **[00:06:27](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-06-27)**
 > "Yes, we have mentioned France."
-
-**[00:06:54](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-06-27)**
-> "France mentioned re: Macron connection"
 
 **[00:07:40](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-07-40)**
 > "...redible death threat from the French, that a threat has been made on her life, and tha..."
@@ -928,7 +907,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "..., as in like the president of France at that time was implicated via his son who was i..."
 
 **[00:16:23](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-16-13)**
-> "...ote, known as Angola Gate, in France, the scandal involves arms for oil deals between ..."
+> "I'm reading this Bush component from a website that's known as CorpWatch, and it tells us that, quote, known as Angolagate, in France, the scandal involves arms for oil deals between French businessman Pierre Falcone, the head of a firm,"
 
 **[00:16:39](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-16-13)**
 > "...errand, the son of the former French president, and a Russian-born Israeli named Arkad..."
@@ -1350,55 +1329,49 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (16 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (14 mentions)</summary>
 
-**[00:00:34](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-01)**
+**[00:00:34](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-34)**
 > "...an reasonably ignore that odd French company in Delaware."
 
-**[00:05:36](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-05-36)**
+**[00:05:36](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-05-28)**
 > "Suddenly this French company comes in and purchases, leases a hangar f..."
 
-**[00:06:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-06-16)**
+**[00:06:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-06-02)**
 > "...or the Department of Justice to be coming together with the DEA. I mean, that's weird. So what does France have to do with it, right? What does Tucker (Tucker Carlson) have to do with it? Rationally, when I..."
 
-**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-09-03)**
+**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-08-58)**
 > "...ly announced that Satis, that French company, has inked a deal in Wilmington, Delaware..."
 
-**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-09-03)**
+**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-08-58)**
 > "Okay, there's suddenly a French company, and the CEO who knows Emmanuel Macron—we..."
 
-**[00:09:38](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-09-03)**
+**[00:09:38](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-08-58)**
 > "...icle, it tells us that it's a French multinational company that specializes in the pai..."
 
 **[00:10:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-10-19)**
 > "...e season because who are you, French first man, to tell us that we can't speak about t..."
 
-**[00:17:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-17-29)**
+**[00:17:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-17-12)**
 > "...tary that was on this plane—a French dignitary that was on this plane?"
 
-**[00:17:47](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-17-29)**
-> "A French company, okay?"
-
-**[00:17:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-17-29)**
+**[00:17:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-17-44)**
 > "A French company owns the hangar."
 
-**[00:23:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-23-52)**
+**[00:23:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-23-42)**
 > "...ow strangely, trying to figure out what happened to Charlie (Charlie Kirk) has brought us back to a France question, right? Why on earth did France move? I mean, who wants to lease a hangar in Wilmington, D..."
 
-**[00:23:54](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-23-52)**
+**[00:23:54](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-23-42)**
 > "...appened to Charlie (Charlie Kirk) has brought us back to a France question, right? Why on earth did France move? I mean, who wants to lease a hangar in Wilmington, Delaware, for two years to paint planes os..."
 
-**[00:25:36](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-25-07)**
+**[00:25:36](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-25-31)**
 > "...is something deep there. I see it in the eyes, in the performance of this all, that the response in France has been to start to harass people who came out and tried to tell the story— to effectively ruin th..."
 
-**[00:29:17](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-29-11)**
+**[00:29:17](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-28-45)**
 > "...n those leads because it's very difficult—once I put that in a timeline for me—to simply ignore the France angle. Obviously, France would know. They should be able to just help us out. I'm sure they should ..."
 
-**[00:29:24](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-29-11)**
+**[00:29:24](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-29-24)**
 > "...s very difficult—once I put that in a timeline for me—to simply ignore the France angle. Obviously, France would know. They should be able to just help us out. I'm sure they should be able to reach out to F..."
-
-**[00:29:31](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-29-11)**
-> "...e would know. They should be able to just help us out. I'm sure they should be able to reach out to France and say, "Hey, you purchased this hangar." I mean, you decided to lease this hangar for two years—a..."
 
 </details>
 
@@ -1408,28 +1381,28 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:12:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-12-23)**
 > "...iable, in December of 2024, a French aircraft finishing company called Satys, S-A-T-Y-..."
 
-**[00:13:16](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-13-08)**
+**[00:13:13](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-13-05)**
 > "This is a French company that said they were going to take over th..."
 
-**[00:14:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-14-53)**
+**[00:14:57](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-14-44)**
 > "...ld not have been using a 2024 French finishing lease as its maintenance justification."
 
-**[00:15:09](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-14-53)**
+**[00:15:09](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-14-44)**
 > "...shing lease as its maintenance justification. In fact, your own timeline shows how they traveled to France before the deal was even made. It proves that the maintenance story is nothing but a cover. That ha..."
 
-**[00:18:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-18-04)**
+**[00:18:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-18-01)**
 > "...t's recap these facts. On September 10, an Egyptian government aircraft with a history of flying to France and the United States lands at a small Delaware airport under a French company maintenance pretext ..."
 
-**[00:39:25](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-39-11)**
+**[00:39:23](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-39-11)**
 > "... think she's right about that French president?"
 
-**[00:40:07](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-39-52)**
+**[00:40:05](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-39-49)**
 > "...was like 40 and the kid was 15. Or she was 40, even if it was a she. Like, what? And again, this is France. They're very different over there. Yeah. Pedophilia's just like, oh, get your weed out of that chi..."
 
 **[00:40:29](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-40-29)**
 > "...e to have a real fucking hog on her and that. If they release, the last thing needs, the last thing France needs is to release like a wiener that looks like it's retreating kind of. It will just go down in ..."
 
-**[00:53:55](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-53-19)**
+**[00:53:54](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-53-18)**
 > "...uld be a connection, but this French angle is weird."
 
 **[00:54:00](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-54-00)**
@@ -1448,21 +1421,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
 
-**[00:10:40](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-55-02)**
+**[00:10:31](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-54-47)**
 > "...and American intelligence and French intelligence. But the only one you're not allowed..."
 
-**[00:55:06](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-55-02)**
-> "...e in Spanish, Portuguese, and French."
-
-**[00:55:13](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-55-02)**
+**[00:55:07](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-54-47)**
 > "...ld prefer to hear me speak in French, in Spanish, and Portuguese, AI tools now allow u..."
+
+**[00:55:04](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-54-47)**
+> "...e in Spanish, Portuguese, and French."
 
 </details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:02:10](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-02-10)**
+**[00:02:10](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-01-57)**
 > "...ing a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte..."
 
 </details>
@@ -1470,7 +1443,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-19-07)**
+**[00:19:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-18-37)**
 > "...r 2025, you will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? I..."
 
 </details>
@@ -1542,6 +1515,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Pierre Falcone](/entities/person-pierre-falcone.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:33](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): “He moves to France after the Algerian Civil War.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has President (1)</summary>
 
 - **[Emmanuel Macron](/entities/person-emmanuel-macron.md)**
@@ -1585,7 +1570,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1615,6 +1600,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Pierre Falcone](/entities/person-pierre-falcone.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:33](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): “He moves to France after the Algerian Civil War.”
+
+</details>
+
 - **[Safari Club](/entities/org-safari-club.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1634,7 +1626,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (40)</strong></summary>
+<summary><strong class="section-title">Statements by France (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:44:03](/episodes/ep-a-e7HC6SeK8.md#t-00-43-56) [✓] (Citation) ["France said in an April 14 statement that "France's red line had been crossed.""](/statements/statement-86036759ce02.md)
+  - About: [France](/entities/gpe-france.md), [Syria](/entities/gpe-syria.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about France (42)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -1802,31 +1807,28 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
-- [00:57:17](/episodes/ep-6DhWawD4ZiM.md#t-00-56-52) (Claim) **Candace Owens**: ["The FBI has not contacted Candace Owens about information regarding th..."](/statements/statement-61a1f69e6c94.md)
+- [00:57:05](/episodes/ep-6DhWawD4ZiM.md#t-00-57-05) (Claim) **Candace Owens**: ["Owens said the FBI had not contacted her about information she said sh..."](/statements/statement-61a1f69e6c94.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5)</summary>
 
-- [00:07:43](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) (Claim) **Megyn Kelly**: ["Candace Owens received a credible death threat from the French, and th..."](/statements/statement-0629fdc132de.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:07:40](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly relayed Owens's allegation that she had received a credibl..."](/statements/statement-0629fdc132de.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 
-- [00:09:15](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Claim) **Candace Owens**: ["I had proof that the government of France was involved in Charlie Kirk..."](/statements/statement-d529dcc242c3.md)
+- [00:09:15](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Accusation) **Candace Owens**: ["Owens said she had proof that the government of France was involved in..."](/statements/statement-e726f9ee561e.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:09:15](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Accusation) **Candace Owens**: ["I have proof that the government of France was involved in Charlie Kir..."](/statements/statement-e726f9ee561e.md)
-  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:09:57](/episodes/ep-Kmt6HgRjckU.md#t-00-09-57) (Opinion) **Candace Owens**: ["Owens asserted that Kash Patel knew she was telling the truth about al..."](/statements/statement-183d0d63d3e0.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the ..."](/statements/statement-8a28c81ab028.md)
-  - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md)
-
-- [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Angola Gate involved Africa, Angola, Israel, France, the United States..."](/statements/statement-38658967ebf0.md)
+- [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Owens said Angolagate involved Angola, Israel, France, the United Stat..."](/statements/statement-38658967ebf0.md)
   - Also about: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md)
 
-- [00:13:46](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["During the French elections dating back to 1999, it was discovered tha..."](/statements/statement-60d7c6a114d4.md)
-  - Also about: [Angola](/entities/gpe-angola.md), [Branko International](/entities/org-branko-international.md), [Angolagate scandal](/entities/event-angola-gate.md)
+- [00:13:31](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["Owens said that during French elections dating to 1999, it emerged tha..."](/statements/statement-60d7c6a114d4.md)
+  - Also about: [Angola](/entities/gpe-angola.md), [Brenco International](/entities/org-brenco-international.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </details>
 
@@ -1838,6 +1840,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pe..."](/statements/statement-762a0183a31f.md)
   - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3)</summary>
+
+- [00:01:08](/episodes/ep-a-e7HC6SeK8.md#t-00-00-46) (Claim) **Candace Owens**: ["our FBI was founded by the French"](/statements/statement-8546df7dc282.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:04:57](/episodes/ep-a-e7HC6SeK8.md#t-00-04-57) (Accusation) **Anonymous Source #3 (Ep a-e7HC6SeK8)** (via read message): ["A Wilmington tipster asserted that the FBI had hidden offices, maybe i..."](/statements/statement-d9b84d5a93e8.md)
+  - Also about: [FBI](/entities/org-fbi.md), [DuPont family](/entities/org-dupont-family.md)
+
+- [00:44:03](/episodes/ep-a-e7HC6SeK8.md#t-00-43-56) (Citation) **France** (via quoted document): ["France said in an April 14 statement that "France's red line had been ..."](/statements/statement-86036759ce02.md)
+  - Also about: [Syria](/entities/gpe-syria.md)
 
 </details>
 

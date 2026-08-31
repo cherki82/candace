@@ -20,7 +20,7 @@ _Type: Places_
 Source: [Constitution of Ireland](https://www.irishstatutebook.ie/eli/cons/en/html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-46">2025-09-25 · 00:40:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-43">2025-09-25 · 00:40:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-ireland-t-00-58-23">2026-07-16 · 00:58:48</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -34,9 +34,9 @@ Source: [Constitution of Ireland](https://www.irishstatutebook.ie/eli/cons/en/ht
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-ireland-t-00-59-08">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-46" style="--pulse-height:33%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-ireland-t-00-18-54" style="--pulse-height:33%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-ireland-t-00-50-14" style="--pulse-height:33%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-43" style="--pulse-height:33%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#t-00-18-54" style="--pulse-height:33%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-50-14" style="--pulse-height:33%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-ireland-t-00-59-08" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-ireland-t-00-13-16" style="--pulse-height:67%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-ireland-t-00-38-37" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
@@ -46,9 +46,9 @@ Source: [Constitution of Ireland](https://www.irishstatutebook.ie/eli/cons/en/ht
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-46) | 1 |
-| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-ireland-t-00-18-54) | 1 |
-| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-ireland-t-00-50-14) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-43) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-18-54) | 1 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-50-14) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-ireland-t-00-59-08) | 3 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-ireland-t-00-13-16) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-ireland-t-00-38-37) | 1 |
@@ -106,7 +106,7 @@ Source: [Constitution of Ireland](https://www.irishstatutebook.ie/eli/cons/en/ht
 <details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
 
-**[00:50:14](/episodes/ep-c5BcKF91iec.md#ent-gpe-ireland-t-00-50-14)**
+**[00:50:14](/episodes/ep-c5BcKF91iec.md#t-00-50-14)**
 > "... you." This is a review of my character over the years. "Candace Owens is a fraud"—from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human being I've ever come across." And tha..."
 
 </details>
@@ -114,7 +114,7 @@ Source: [Constitution of Ireland](https://www.irishstatutebook.ie/eli/cons/en/ht
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
-**[00:19:09](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-ireland-t-00-18-54)**
+**[00:19:09](/episodes/ep-YA1FxrDWNIo.md#t-00-18-54)**
 > "... you want to call him. And we got just one hit. And it was, honestly, it was from Belfast, Northern Ireland, no less. Somebody sent us an email, and he said, "Look, I conducted an interview—an internet-wide ..."
 
 </details>
@@ -122,7 +122,7 @@ Source: [Constitution of Ireland](https://www.irishstatutebook.ie/eli/cons/en/ht
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:40:53](/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-46)**
+**[00:40:53](/episodes/ep-K5GjF53bfN4.md#ent-gpe-ireland-t-00-40-43)**
 > "... I know I will get to that stage eventually. James Moran writes, "Greetings from across the pond in Ireland, Candace (Candace Owens), and keep up the great work. God bless." Thank you, James (James Moran). R..."
 
 </details>

@@ -1,6 +1,6 @@
 ---
-title: "Mikey McCoy called Erika Kirk after Blake Neff ended his cal..."
-description: "\"Mikey McCoy called Erika Kirk after Blake Neff ended his call with his mother\" — Candace Owens"
+title: "Candace Owens said Mikey McCoy added Erika Kirk to his call ..."
+description: "\"Candace Owens said Mikey McCoy added Erika Kirk to his call after Blake Neff's call with his mother ended.\" — Candace Owens"
 statement_id: "statement-20ddd092b3d2"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Mikey McCoy called Erika Kirk after Blake Neff ended his call with his mother
+> Candace Owens said Mikey McCoy added Erika Kirk to his call after Blake Neff's call with his mother ended.
 
 ## Attribution
 
@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1706);return false;">Play</a>
+**Timestamp:** [00:28:02](/episodes/ep-es7PWdFGoFI.md#t-00-28-02) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1682s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Okay, Mikey called Erika (Erika Kirk) after Blake and I ended that phone call with his mother.
+> Blake Neff ends that phone call with his mother. Mikey (Mikey McCoy), after the phone call with his mother ends, adds Erika (Erika Kirk) to the phone.
 
 ## Verification
 

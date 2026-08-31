@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:07:16](/episodes/ep-DYD_QHMPwqM.md#t-00-07-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(436);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=436s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To the Paris Prime Meridian, we go by Greenwich today, but originally it was the Paris was kind of the standard for a long time there. And that is in the occult is referred to as the devil's line.
 

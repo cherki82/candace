@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:24:58](/episodes/ep-HZvwbfePe7o.md#t-00-24-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1498);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=1498s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I refuse to allow the conservative movement to be taken over by vitriolic Jew haters, white nationalists, anti-Semites, or Muslim-funded ex-Fox News personalities.
 

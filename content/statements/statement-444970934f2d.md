@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:54:52](/episodes/ep-UYkXV9mYbT4.md#t-00-54-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3292);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=3292s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It very well be that deep sense of knowing came from the fact that he had so carefully explained to me that he was going to die, but it also woke something up in me that had been dormant and it's like, it's just a God mission.
 

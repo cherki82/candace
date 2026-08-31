@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:04:30](/episodes/ep-Qt0VHV-POCg.md#t-00-04-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(270);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=270s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, Rob McCoy was not the person who inspired Turning Point USA Faith. Actually, if anybody could be credited with that, that was like way back in the day at Liberty University, actually.
 

@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:23:42](/episodes/ep-QRS_hR7NXaQ.md#t-00-23-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Fast forward to 2025 and she moves on September 7th, just three days before Charlie (Charlie Kirk) dies. She doesn't just post her mother. She posts her mother in an incredibly vulnerable position. Her mother looks to be very sick and she posts, I wanted to make sure that you were the first. first. And if you're looking at this, you're glancing at this, it's a countdown of some description. And she says 10 days until September 16th.
 

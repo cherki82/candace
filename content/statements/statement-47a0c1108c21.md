@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,13 +24,13 @@ veracity: "mixed"
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Seth Dillon](/entities/person-seth-dillon.md) (person)
-- [The Hamptons](/entities/gpe-the-hamptons.md) (gpe)
+- [Hamptons](/entities/gpe-hamptons.md) (gpe)
 
 ## Source
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:35:56](/episodes/ep-4YgrOhhy708.md#t-00-35-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2156);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2156s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > greatly mischaracterized, and that was really evil what she did, you know, to lie about a situation like that and try to portray it as though the Jews were trying to blackmail Charlie (Charlie Kirk). ... That resulted ... in ... death ... threats.
 

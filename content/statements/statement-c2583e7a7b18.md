@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:45:30](/episodes/ep-h76ZN-xXC6c.md#t-00-45-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2730);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=2730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, it could be because something went wrong, it's an explosives factory, or it could be a way to hide evidence. ... evidence that these are our two theories we don't know
 

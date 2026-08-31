@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:06:10](/episodes/ep-QRS_hR7NXaQ.md#t-00-05-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(370);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=370s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, we invaded just after he was found.
 

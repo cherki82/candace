@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [01:00:10](/episodes/ep-SubDoZWHARo.md#t-00-59-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3610);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=3610s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She lied to my face. She has lied multiple times and the lies are inexplicable. They won't clarify any of these lies.
 

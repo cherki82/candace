@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:29:32](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1772);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1772s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the officials confirmed that he had tendered his resignation on Friday and that he announced his retirement, noting that he had served in law enforcement for more than 30 years.
 

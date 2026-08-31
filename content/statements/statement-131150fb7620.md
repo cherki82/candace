@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said Pope Leo is weak on crime. ... Pope Leo is weak on crime, terrible for foreign policy. ... I don't want a pope who thinks it's OK for Iran to have a nuclear weapon.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:58:47](/episodes/ep-eLgD5yUVbko.md#t-00-58-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3527);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3527s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't think he's doing a very good job. He likes crime, I guess. ... We don't like a pope that's going to say that it's okay to have a nuclear weapon. ... We don't want a pope that says crime is okay in our cities. I don't like it. I'm not a big fan of Pope Leo.
 

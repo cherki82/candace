@@ -7,6 +7,11 @@ time: "15:49"
 ---
 
 **Date:** 2025-09-10 at 15:49
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "15:49"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:27:36](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-aubrey-asked-whether-to-confirm-or-deny--t-00-27-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1656);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But 349 Utah time, she's going to ask her boss, he's been unavailable, should I confirm or deny
 
@@ -26,6 +31,6 @@ time: "15:49"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:19:55](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-10-aubrey-asked-whether-to-confirm-or-deny--t-00-19-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1195);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1195s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > whether or not she should confirm or deny that the email that was sent

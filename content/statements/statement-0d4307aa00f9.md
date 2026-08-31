@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:55:53](/episodes/ep--9MOUvgGyi4.md#t-01-55-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6953);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=6953s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the ATF trace on September the 10th, ... 25.
 

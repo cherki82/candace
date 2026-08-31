@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(24);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=24s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We also have Bill Ackman, who is sending his press hounds after me.
 

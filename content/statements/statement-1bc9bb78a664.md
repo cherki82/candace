@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:49:25](/episodes/ep-YeEtS7nix3o.md#t-00-48-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2965);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=2965s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > purporting that you're a free-market ... capitalist-focused organization while making secret phone calls and telling people you shouldn't do ads with Candace, you know, because if you want to work with us, you can't work with Candace.
 

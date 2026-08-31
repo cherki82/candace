@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [01:06:30](/episodes/ep-2T39-oADLj0.md#t-01-06-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3990);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3990s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > done i know that he his prints were not the only prints that were on the gun which is something that they haven't been honest about
 
@@ -36,7 +36,7 @@ type: "accusation"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:37:31](/episodes/ep-DYD_QHMPwqM.md#t-00-37-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2251);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=2251s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they've had to admit something that i already told you on the show that there are multiple sets of prints on the gun
 

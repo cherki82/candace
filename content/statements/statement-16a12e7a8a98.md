@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:01:33](/episodes/ep-HZvwbfePe7o.md#t-00-01-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(93);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=93s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Her tenure began July 1st of 2024, and now we can exclusively report that Dr. Deidre Amaro has resigned from her position. She's no longer the chief medical examiner of Utah.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:39:58](/episodes/ep-9hRcfSrri70.md#t-00-39-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2398);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=2398s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In particular, I feel the federal government is lying to us and I refuse to accept that is my duty to blame it on the left if the left didn't do it. Left does plenty of things that they've been caught doing and I use my platform to go after them.
 

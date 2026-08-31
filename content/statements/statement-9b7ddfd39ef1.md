@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:32:46](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1966);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1966s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was personally approached more than once by people asking me if I would speak out about the charges. In every instance, I refused, not because I thought Candace's conduct was defensible, far from it, but because I believed then and still believe that families should generally be off limits.
 

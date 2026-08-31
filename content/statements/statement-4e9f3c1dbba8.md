@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:41:38](/episodes/ep-5NQyGuRYbU8.md#t-00-41-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2498);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2498s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's playing both sides and pushing her husband to be anti-Israel, the thing that the majority of rational people believe killed him.
 

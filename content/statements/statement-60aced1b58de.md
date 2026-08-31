@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:44:44](/episodes/ep-ozWJz2spBcI.md#t-00-44-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2684);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=2684s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They've got the CIA in their own congregation, and people are going, "And I stopped attending that day because I realized something's not right here."
 

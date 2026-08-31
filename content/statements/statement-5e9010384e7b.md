@@ -1,6 +1,6 @@
 ---
-title: "on December 3rd, before I interview him, I receive the first..."
-description: "\"on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers\" — Candace Owens"
+title: "Candace Owens said she received the first cease-and-desist l..."
+description: "\"Candace Owens said she received the first cease-and-desist letter from Brigitte Macron and her lawyers on December 3 before interviewing Xavier Poussa...\" — Candace Owens"
 statement_id: "statement-5e9010384e7b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers
+> Candace Owens said she received the first cease-and-desist letter from Brigitte Macron and her lawyers on December 3 before interviewing Xavier Poussard
 
 ## Attribution
 
@@ -20,13 +20,18 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Xavier Poussard](/entities/person-xavier-poussard.md) (person)
+
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:08:25](/episodes/ep-sImMM04XdWY.md#t-00-08-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(505);return false;">Play</a>
+**Timestamp:** [00:08:25](/episodes/ep-sImMM04XdWY.md#t-00-08-14) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=505s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers
+> Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers.
 
 ## Verification
 

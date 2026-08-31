@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:37:10](/episodes/ep-1hcjQGgvxUY.md#t-00-36-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2230);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2230s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And even though they are lying about Gigi (daughter of Charlie and Erika Kirk; full name unverified), we can now debunk my earlier suspicion that Charlie (Charlie Kirk) himself moved the photo because he did not. ... It is likely that he did not, he could not have moved the photo himself.
 

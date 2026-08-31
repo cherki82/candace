@@ -1,16 +1,16 @@
 ---
-title: "I have never said, throughout discussing this case which I c..."
-description: "\"I have never said, throughout discussing this case which I care very much about, that Benjamin Netanyahu murdered Charlie Kirk. Tucker Carlson never s...\" — Candace Owens"
+title: "Owens said that neither she, Tucker Carlson, Megyn Kelly, no..."
+description: "\"Owens said that neither she, Tucker Carlson, Megyn Kelly, nor Dave Smith had accused Benjamin Netanyahu of murdering Charlie Kirk.\" — Candace Owens"
 statement_id: "statement-9cbf4e1edf6d"
 speaker: "Candace Owens"
-type: "accusation"
+type: "factual_claim"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> I have never said, throughout discussing this case which I care very much about, that Benjamin Netanyahu murdered Charlie Kirk. Tucker Carlson never said that. Megyn Kelly never said that. Dave Smith never said that.
+> Owens said that neither she, Tucker Carlson, Megyn Kelly, nor Dave Smith had accused Benjamin Netanyahu of murdering Charlie Kirk.
 
 ## Attribution
 
@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:32:06](/episodes/ep-sreYYcID-QY.md#t-00-31-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1926);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1926s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's a little weird that I have never said—throughout discussing this case, which I care very much about—that Benjamin Netanyahu (Bibi) murdered Charlie (Charlie Kirk)
 
@@ -33,4 +33,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** Yes

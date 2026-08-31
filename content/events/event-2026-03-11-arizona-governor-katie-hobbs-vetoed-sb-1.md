@@ -6,6 +6,11 @@ date: "2026-03-11"
 ---
 
 **Date:** 2026-03-11
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “today”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-03-11"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:33:32](/episodes/ep-H9p2ZGHAs9A.md#event-event-2026-03-11-arizona-governor-katie-hobbs-vetoed-sb-1-t-00-33-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2012);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=2012s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She said, today I vetoed SB 1439. Charlie Kirk's assassination is tragic

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:47:02](/episodes/ep-ChuWo-n49B8.md#t-00-47-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2822);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2822s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, I studied and the answer is possible. I mean, I studied false memories and had 123 visits to a trauma specialist.
 

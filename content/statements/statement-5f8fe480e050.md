@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:28:19](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1699);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1699s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that Charlie (Charlie Kirk) was going to be assassinated as we were sitting here in Maine talking about Israel and Epstein and what the pressure that Charlie (Charlie Kirk) was under Tucker (Tucker Carlson) was like I absolutely love Erika (Erika Kirk) he said this publicly a thousand times so I'm not revealing anything here and he was like she is like hardcore on the anti-Israel train
 

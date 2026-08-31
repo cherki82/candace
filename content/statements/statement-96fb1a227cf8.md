@@ -1,6 +1,6 @@
 ---
-title: "Candace Owens was fired from Daily Wire six days after her f..."
-description: "\"Candace Owens was fired from Daily Wire six days after her first Brigitte Macron episode aired on March 13, 2024\" — Candace Owens"
+title: "Candace Owens corrected her recollection of the interval bet..."
+description: "\"Candace Owens corrected her recollection of the interval between her first Brigitte Macron episode and her Daily Wire firing from ten days to six\" — Candace Owens"
 statement_id: "statement-96fb1a227cf8"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "false"
 
 ## Statement
 
-> Candace Owens was fired from Daily Wire six days after her first Brigitte Macron episode aired on March 13, 2024
+> Candace Owens corrected her recollection of the interval between her first Brigitte Macron episode and her Daily Wire firing from ten days to six
 
 ## Attribution
 
@@ -23,14 +23,15 @@ veracity: "false"
 ## About
 
 - [Brigitte Macron](/entities/person-brigitte-macron.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:07:49](/episodes/ep-sImMM04XdWY.md#t-00-07-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(469);return false;">Play</a>
+**Timestamp:** [00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=467s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.
+> March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire. ... I thought it was 10; it's actually six days later I get fired from the Daily Wire.
 
 ## Verification
 

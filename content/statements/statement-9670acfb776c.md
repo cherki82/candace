@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:12:20](/episodes/ep-B9TyCs-6o_0.md#t-00-12-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the topic of charlie's support for israel instead allowed a force of zionists who were harassing him in his last days zionists like josh hammer to lie about what charlie was going through right so i came out and told the truth uh Megyn Kelly came out and told the truth Tucker Carlson told the truth he was having changing opinions on israel
 

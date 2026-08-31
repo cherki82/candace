@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:55:26](/episodes/ep-Ux1kzgQxkws.md#t-00-55-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3326);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=3326s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they literally showed up at my door with bullhorns and mega hats. And on the direct, and the way that they got there is the New York Post published on the front page on its cover. ... an aerial view of my home with ... the address and then in the thing said and you if you stand here at this uh you know on this part of the street you can see and they're floor-to-ceiling windows and you know until they they showed up
 

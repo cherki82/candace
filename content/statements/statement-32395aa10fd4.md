@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:34:48](/episodes/ep-H9p2ZGHAs9A.md#t-00-34-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2088);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=2088s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk was an incredible man. He was a friend of mine for 11 years. And when he passed, the memorial we held—it's the only time in Arizona history that we filled two professional sports stadiums to honor and pay tribute to the life of an Arizona citizen. He built a national organization.
 

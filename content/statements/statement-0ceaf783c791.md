@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:09:26](/episodes/ep-5autG89PW6w.md#t-00-09-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(566);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=566s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Laura Loomer, who is legally just—you know—not allowed to own a gun because she's a literal lunatic, had the nerve to post this about me.
 

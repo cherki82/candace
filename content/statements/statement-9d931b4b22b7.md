@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:09:41](/episodes/ep-7FS1tUeSfdE.md#t-00-09-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(581);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=581s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I told you I am told that this was not a video recorded by Sara Sidner and that instead it was distributed to Sara Sidner and that they had operatives record that moment.
 

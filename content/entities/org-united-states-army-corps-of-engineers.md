@@ -1,6 +1,6 @@
 ---
 title: "United States Army Corps of Engineers"
-description: "United States Army Corps of Engineers (Organizations) - 2 mentions"
+description: "United States Army Corps of Engineers (Organizations) - 3 mentions"
 id: "org-united-states-army-corps-of-engineers"
 type: "ORG"
 aliases:
@@ -24,10 +24,10 @@ _Type: Organizations_
 Source: [About the U.S. Army Corps of Engineers](https://www.usace.army.mil/About/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-army-corps-of-engineers-t-00-10-41">2026-02-27 · 00:10:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-army-corps-of-engineers-t-00-14-04">2025-11-19 · 00:14:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-army-corps-of-engineers-t-00-10-41">2026-02-27 · 00:10:51</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,12 +38,14 @@ Source: [About the U.S. Army Corps of Engineers](https://www.usace.army.mil/Abou
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-army-corps-of-engineers-t-00-10-41">Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-army-corps-of-engineers-t-00-14-04" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-army-corps-of-engineers-t-00-10-41" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-army-corps-of-engineers-t-00-14-04) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-army-corps-of-engineers-t-00-10-41) | 2 |
 
 </details>
@@ -52,7 +54,7 @@ Source: [About the U.S. Army Corps of Engineers](https://www.usace.army.mil/Abou
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2 mentions)</summary>
@@ -62,6 +64,14 @@ Source: [About the U.S. Army Corps of Engineers](https://www.usace.army.mil/Abou
 
 **[00:10:51](/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-army-corps-of-engineers-t-00-10-41)**
 > "...tories, I do believe that the Army Corps of Engineers is a very important organization."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+
+**[00:14:04](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-army-corps-of-engineers-t-00-14-04)**
+> "...e rivers would be DRBA to the Army Corps of Engineers, the Secretary of the Army and the Secretary of D..."
 
 </details>
 

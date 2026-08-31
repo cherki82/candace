@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:53:17](/episodes/ep-cZxHqYsWRYg.md#t-00-53-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=3197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I now reflect on her telling me during our sit-down that she received the questions ahead of time for her interview with Bari Weiss. Like, she knew that Bari Weiss was going to ask a question about me.
 

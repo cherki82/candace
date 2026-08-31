@@ -1,8 +1,8 @@
 ---
-title: "According to official committee records, Mark Amodei first a..."
-description: "\"According to official committee records, Mark Amodei first appears in the September 9, 2025 roll-call record on roll call 3\" — Candace Owens"
+title: "Diligent Denison claimed that Mark Amodei was absent from th..."
+description: "\"Diligent Denison claimed that Mark Amodei was absent from the first two September 9 roll calls and first appeared at the third roll call in mid-aftern...\" — Diligent Denison (X account; identity unverified)"
 statement_id: "statement-b9a86ad8ed2a"
-speaker: "Candace Owens"
+speaker: "Diligent Denison (X account; identity unverified)"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,14 +11,15 @@ veracity: "true"
 
 ## Statement
 
-> According to official committee records, Mark Amodei first appears in the September 9, 2025 roll-call record on roll call 3
+> Diligent Denison claimed that Mark Amodei was absent from the first two September 9 roll calls and first appeared at the third roll call in mid-afternoon
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Diligent Denison (X account; identity unverified)](/entities/anon-src-w1oqQbR_bYs-002.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from social media post
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** X
 
 ## About
 
@@ -28,10 +29,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:36:52](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2212);return false;">Play</a>
+**Timestamp:** [00:36:24](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) 
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> he was not present for roll call until the third meeting in mid afternoon on the 9th in DC
+> Diligent Denison on X Road exposed rep Mark Amodei tries and fails to give a solid alibi for the alleged September 9th meeting with Charlie Kirk's security Brian Harpole. ... However, he was not present for roll call until the third meeting in mid afternoon on the 9th in DC.
 
 ## Verification
 

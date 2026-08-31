@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:04:37](/episodes/ep-ds6umq1rHAw.md#t-00-04-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(277);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It reads, letter bombs mailed to Truman. And it tells us that the so-called stern gang of the Zionist terrorists tried to assassinate President Truman by letter bomb in 1947, according to a new biography written by Mr.
 

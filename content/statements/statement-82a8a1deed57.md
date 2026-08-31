@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:49:48](/episodes/ep-i8m_6D4QGmk.md#t-00-49-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2988);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2988s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's right. He only allows Israel to do that. Only Israel is allowed to attack America. Only Israel got to get away with the Lavon Affair. ... Only Israel is allowed to get away with what they did at the USS Liberty. That is a right reserved for Israel to attack and use Americans to maim and caricature people.
 

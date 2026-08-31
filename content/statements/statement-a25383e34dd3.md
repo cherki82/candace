@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:13:20](/episodes/ep-9naMwS0kMBE.md#t-00-13-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(800);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=800s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she used to live in New Braunfels Texas of all places
 

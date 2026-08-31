@@ -1,6 +1,6 @@
 ---
 title: "Deoxyribonucleic acid"
-description: "Deoxyribonucleic acid (Concepts) - 106 mentions"
+description: "Deoxyribonucleic acid (Concepts) - 111 mentions"
 id: "concept-dna"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59">2026-02-04 · 00:03:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-dna-t-00-06-50">2025-09-16 · 00:07:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00">2026-08-19 · 00:19:08</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>106</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>111</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,8 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-09-56">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (26 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-dna-t-00-06-50" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-dna-t-00-16-27" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59" style="--pulse-height:19%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 5 mentions" title="2026-02-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-dna-t-00-58-52" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-dna-t-00-45-39" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
@@ -60,6 +62,8 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-dna-t-00-06-50) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-dna-t-00-16-27) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59) | 5 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-dna-t-00-58-52) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-dna-t-00-45-39) | 1 |
@@ -87,7 +91,7 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+<summary><strong class="section-title">Raw mentions (111)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -507,6 +511,31 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 
 </details>
 
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
+
+**[00:16:55](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-dna-t-00-16-27)**
+> "...d is inherent in the European DNA.""
+
+**[00:17:11](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-dna-t-00-17-11)**
+> "It's just in your DNA. It's credible that he said that. And in response..."
+
+**[00:17:26](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-dna-t-00-17-11)**
+> "...atred is inherent in European DNA.""
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+
+**[00:07:12](/episodes/ep-q7f8r-THr84.md#ent-concept-dna-t-00-06-50)**
+> "... when it happened. They found DNA consistent with Robinson on the rifle trigger. Af..."
+
+**[00:12:54](/episodes/ep-q7f8r-THr84.md#ent-concept-dna-t-00-12-54)**
+> "...nsic processing, and that the DNA was consistent with Robinson that was found on th..."
+
+</details>
+
 </details>
 
 <details open>
@@ -523,7 +552,7 @@ _No relationships extracted yet._
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
 - [00:11:28](/episodes/ep-N4uM8Jdr410.md#t-00-10-57) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether officials had already planted..."](/statements/statement-204835c0e1f6.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

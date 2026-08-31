@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:12:03](/episodes/ep-4YgrOhhy708.md#t-00-11-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(723);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=723s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is the highest live concurrent viewers on YouTube. ... Number one was in India. That is a nation of ... They had a moon mission and 8 million people in India tuned into it. That is believable. Okay.
 

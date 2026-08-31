@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(325);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=325s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Wonder why they were interested. Who knows? Anyway, is it fair, at least after listening to that, to suggest that Corby Hall might have been telling the truth about Victor Marx potentially doing some work trying to secure weaponry on behalf of Israel, on behalf of the IDF, allegedly, maybe?
 

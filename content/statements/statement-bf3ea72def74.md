@@ -22,8 +22,8 @@ type: "promise"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [01:12:37](/episodes/ep-q7f8r-THr84.md#t-01-11-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4357);return false;">Play</a>
+**Timestamp:** [01:12:37](/episodes/ep-q7f8r-THr84.md#t-01-12-00) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=4357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Eric Moutsos was the LEO and has dealt with Zinn in the past." That's an interesting tidbit, and I will look into all of those things
 

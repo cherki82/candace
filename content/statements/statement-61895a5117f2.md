@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:41:49](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2509);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2509s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If people did not like their government and then you started murdering their kids and bombing their bridges and striking their water so they can't drink water, they're going to go, OK, actually, maybe Americans aren't the good guys anymore. ... You're actually unifying Iran in this moment because of what we're doing and we have no business doing.
 

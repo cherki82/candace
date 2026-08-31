@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:01:26](/episodes/ep-581dILVcEE4.md#t-00-01-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(86);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=86s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So their filing would have been due on Saturday, this last Saturday, for Turning Point USA. And it is possible that they did file it on Saturday
 

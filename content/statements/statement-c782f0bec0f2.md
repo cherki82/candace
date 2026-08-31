@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:02:44](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(164);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The more we learn about Trump (Donald Trump) getting shot in the assassination attempt, the less it makes sense. This is one of the largest scandals in American history.
 

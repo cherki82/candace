@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
 **Timestamp:** [00:06:35](/episodes/ep-9k2xrAC0H88.md#t-00-06-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(395);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=395s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What he communicated is that it was likely a frangible bullet that was used
 

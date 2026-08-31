@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:18:21](/episodes/ep-2tFYJf1klgY.md#t-00-18-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2009, Lori Frantzve is going to establish Everyday Heroes Like You in April. ... In her filing, she will claim that it is a faith-based organization that is raising funds and developing programs for vulnerable children.
 

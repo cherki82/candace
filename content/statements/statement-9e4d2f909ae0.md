@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:15:16](/episodes/ep-k8ueJdPFel4.md#t-00-15-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(916);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=916s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They should have been natural allies. But then Ben (Ben Shapiro) had to be Ben (Ben Shapiro). He got jealous as... Charlie (Charlie Kirk) got bigger and he went behind the scenes with his connections to the donors and started squeezing Charlie (Charlie Kirk) and trying to control who he could speak to. You're a liar, Blake (Blake Neff).
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:07:03](/episodes/ep-wcD2khO3rOA.md#t-01-06-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4023);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4023s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point USA has become, a very complex financial web where money is coming in and money is going out and every dollar is being spent and money is going back to certain people and there are kickbacks and it feels like very sophisticated money laundering.
 

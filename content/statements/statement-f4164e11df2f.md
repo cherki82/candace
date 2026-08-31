@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:50:51](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3051);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=3051s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The picture of what Turning Point became in my view is very bleak and I think it was intentional. Like I said to you, I said in the beginning, they intentionally pulled the internal part because I was the only person that Charlie hired organically with Tyler not being present on the spot.
 

@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:40:41](/episodes/ep-EtLHqDbxqks.md#t-00-40-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2441);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2441s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reason why that matters is because it's too small for Tyler (Tyler Robinson)'s 30-06. That's why he was going through great lengths to get her saying that on record, because a 30-06 would begin at 0.308 and then it goes upward. The cartridge diameter goes upward to 0.471. So she's basically admitting it's not Tyler Robinson's gun.
 

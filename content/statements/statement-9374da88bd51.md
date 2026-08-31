@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:20:38](/episodes/ep-SgVcnx4Oh30.md#t-00-20-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1238);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1238s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, that means we can rule out Barbara. We can rule out Barbara because Barbara has Wi-Fi. Again, I called this morning. The company that handles that plane charter said to me, and I quote, all of our planes have Wi-Fi.
 

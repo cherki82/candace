@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:55:47](/episodes/ep-VMNWMXX1vO8.md#t-00-55-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3347);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But nothing went into evidence. The microphone didn't go into evidence. It went, you know, for a photo op with Erika (Erika Kirk) in front of donors as she raised $40 million at Mar-a-Lago.
 

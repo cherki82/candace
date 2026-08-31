@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:25:10](/episodes/ep-2tFYJf1klgY.md#t-00-24-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1510);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1510s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Arizona, which begins with Tesseract and now it continues to move. It's an interesting story. In November of 2010, this is where we find Erica (Erika Kirk) filming November Renaissance and they eventually put up a trailer on Kickstarter.
 

@@ -6,6 +6,11 @@ date: "2025-12-08"
 ---
 
 **Date:** 2025-12-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Yesterday”
 
 ## Event
 
@@ -14,7 +19,7 @@ date: "2025-12-08"
 ## Mentioned In
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:01:26](/episodes/ep-t4U7NjnUEgc.md#event-event-2025-12-08-candace-owens-attends-mass-on-feast-of-t-t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(86);return false;">▶️ Play</a>
+**Timestamp:** [00:01:22](/episodes/ep-t4U7NjnUEgc.md#event-event-2025-12-08-candace-owens-attends-mass-on-feast-of-t-t-00-01-16) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=82s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Yesterday was a holy day of obligation in the Catholic church. It was the feast of the Immaculate Conception.
+> Yesterday was a holy day of obligation in the Catholic church.

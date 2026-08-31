@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:20:40](/episodes/ep-yAIb-NuUh_U.md#t-00-20-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1240);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=1240s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They hired him anyways—Anthony Iglesias—and he's currently serving time. ... He was found guilty in Idaho State Correctional Facility for his crimes.
 

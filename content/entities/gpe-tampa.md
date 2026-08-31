@@ -3,14 +3,23 @@ title: "Tampa"
 description: "Tampa (Places) - 2 mentions"
 id: "gpe-tampa"
 type: "GPE"
+categories:
+  - "Florida city"
+  - "geography"
 ---
 
 _Type: Places_
 
+**Categories:** Florida city, geography
+
 > **Possibly overlapping entity records:** [Tampa, Florida](/entities/gpe-tampa-florida). These records share a name or alias; compare their histories before treating either count as complete.
 
+**Entity verification:** verified
+> The official City of Tampa page confirms the canonical city name and Florida location.
+Source: [About Us | City of Tampa](https://www.tampa.gov/about-us)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tampa-t-00-46-55">2025-12-10 · 00:46:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tampa-t-00-46-55">2025-12-10 · 00:46:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tampa-t-00-46-55">2025-12-10 · 00:47:20</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -43,7 +52,7 @@ _Type: Places_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:46:54](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tampa-t-00-46-55)**
+**[00:46:50](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tampa-t-00-46-55)**
 > "Pam Bondi flew on this plane approximately five months ago from Tampa area"
 
 **[00:47:20](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tampa-t-00-46-55)**

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:21:50](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1310);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1310s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was an internal war that waged about what the direction of this healthy conservative company would be.
 

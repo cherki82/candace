@@ -1,6 +1,6 @@
 ---
-title: "March 13th, I do that first episode regarding Brigitte Macro..."
-description: "\"March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire\" — Candace Owens"
+title: "Candace Owens said she aired her first Brigitte Macron episo..."
+description: "\"Candace Owens said she aired her first Brigitte Macron episode on March 13 and was fired from The Daily Wire on March 19\" — Candace Owens"
 statement_id: "statement-0cdb393f5dfd"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "false"
 
 ## Statement
 
-> March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire
+> Candace Owens said she aired her first Brigitte Macron episode on March 13 and was fired from The Daily Wire on March 19
 
 ## Attribution
 
@@ -20,13 +20,19 @@ veracity: "false"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Brigitte Macron](/entities/person-brigitte-macron.md) (person)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
+
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:07:51](/episodes/ep-sImMM04XdWY.md#t-00-07-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(471);return false;">Play</a>
+**Timestamp:** [00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=467s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> March 19th, just six days later, I'm fired from the Daily Wire
+> March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.
 
 ## Verification
 

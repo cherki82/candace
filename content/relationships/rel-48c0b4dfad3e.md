@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [FBI](/entities/org-fbi) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
 - [00:31:29](/episodes/ep-4JxgOclKzqg#t-00-31-29): _So why the FBI interjected so quickly is in and of itself kind of a conspiracy._
+
+**[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
+
+- [01:11:29](/episodes/ep-EtLHqDbxqks#t-01-11-29): _The FBI then kept the bomb dogs away from the courtyard. The FBI is evident evidently to me, in my opinion, engaged in a massive cover up._
 
 **[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:10:19](/episodes/ep-puuMVxEu5NU.md#t-00-10-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(619);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Uh those whatever was seized was sent to the FBI lab for processing? ... Yes. ... I just want to be clear that those items eventually you determined were not related to this case. ... Would that be fair? ... Yeah, that would be fair.
 

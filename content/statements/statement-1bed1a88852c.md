@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2807);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This administration released over 3 million pages of documents, ... over 3 million, and Donald Trump signed that law to release all of those documents.
 

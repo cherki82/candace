@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:43:44](/episodes/ep-SKGUzGHymcI.md#t-00-43-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2624);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2624s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've not said anything particularly disparaging about AmFest, but they told me I couldn't come. Why? Maybe it's because I said we should stop funding Israel.
 

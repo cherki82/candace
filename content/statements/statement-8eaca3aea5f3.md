@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with podcasters. He did the Nelk Boys. ... That was released on July 21st. He did Triggernometry. That was released on August 20th. He also did the Patrick Bet-David show. ... That was recorded and then released on August 26th. He did the Officer Tatum show. That interview was released on September 4th. Also on September 4th, he sat down. ... He sat down with Erick Stakelbeck of TBN.
 

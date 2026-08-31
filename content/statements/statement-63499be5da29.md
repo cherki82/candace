@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:39:59](/episodes/ep-Ux1kzgQxkws.md#t-00-39-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2399);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2399s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > while they say i was addicted and check that box that's it everybody has all the information it's not like the department of justice has the digital my digital footprint and every text message every email and there's not a single one in which you find that that that would in any way supports The really serious accusations of enriching my father, enriching himself somehow, or none of it, none of it's there.
 

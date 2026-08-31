@@ -3,9 +3,17 @@ title: "Baker Tilly"
 description: "Baker Tilly (Organizations) - 7 mentions"
 id: "org-baker-tilly"
 type: "ORG"
+categories:
+  - "accounting and assurance"
 ---
 
 _Type: Organizations_
+
+**Categories:** accounting and assurance
+
+**Entity verification:** verified
+> Baker Tilly official About page confirms the canonical name and identifies the U.S. firm as an advisory, tax, and assurance firm, matching the transcript context.
+Source: [About Us | Baker Tilly](https://www.bakertilly.com/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-41-13">2025-11-17 · 00:41:13</a></strong></div>
@@ -14,7 +22,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -69,7 +77,85 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Audited (5)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Turning Point Endowment](/entities/org-turning-point-endowment.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[TPUSA Merch](/entities/org-tpusa-merch.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[America's Turning Point](/entities/org-americas-turning-point.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** audited by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)** audited by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Turning Point Endowment](/entities/org-turning-point-endowment.md)** audited by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[TPUSA Merch](/entities/org-tpusa-merch.md)** audited by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[America's Turning Point](/entities/org-americas-turning-point.md)** audited by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -15,6 +15,10 @@ _Type: Places_
 
 **Categories:** New Jersey township
 
+**Entity verification:** verified
+> Official township website confirms Bedminster Township, New Jersey, matching the transcript context.
+Source: [Township of Bedminster — Official Website](https://www.bedminsternj.gov/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-bedminster-t-00-36-07">2025-12-17 · 00:36:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-bedminster-t-00-41-38">2026-04-20 · 00:41:53</a></strong></div>

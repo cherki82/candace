@@ -1,16 +1,16 @@
 ---
-title: "Kash Patel knows that I am telling the truth about the Frenc..."
-description: "\"Kash Patel knows that I am telling the truth about the French involvement in Charlie Kirk's assassination\" — Candace Owens"
+title: "Owens asserted that Kash Patel knew she was telling the trut..."
+description: "\"Owens asserted that Kash Patel knew she was telling the truth about alleged French involvement in Charlie Kirk's assassination.\" — Candace Owens"
 statement_id: "statement-183d0d63d3e0"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Kash Patel knows that I am telling the truth about the French involvement in Charlie Kirk's assassination
+> Owens asserted that Kash Patel knew she was telling the truth about alleged French involvement in Charlie Kirk's assassination.
 
 ## Attribution
 
@@ -21,12 +21,14 @@ type: "accusation"
 ## About
 
 - [Kash Patel](/entities/person-kash-patel.md) (person)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+- [France](/entities/gpe-france.md) (gpe)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:09:57](/episodes/ep-Kmt6HgRjckU.md#t-00-09-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">Play</a>
+**Timestamp:** [00:09:57](/episodes/ep-Kmt6HgRjckU.md#t-00-09-57) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=597s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kash (Kash Patel) knows that I am telling the truth.
 
@@ -36,4 +38,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

@@ -11,11 +11,7 @@ object: "org-the-daily-wire"
 
 ## [Ben Shapiro](/entities/person-ben-shapiro) founded [The Daily Wire](/entities/org-the-daily-wire)
 
-### Evidence (2 mentions)
-
-**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
-
-- [00:01:35](/episodes/ep-w1oqQbR_bYs#t-00-01-35): _Ben would say management fired me... He wanted to make sure my reputation and livelihood was also destroyed_
+### Evidence (1 mentions)
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

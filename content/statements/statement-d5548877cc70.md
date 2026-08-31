@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:44:32](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2672);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2672s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, so like we said, Pastor Terry Crist and his wife, Pastor Judith Crist, they were very close with Erika (Erika Kirk) at this time from 2011 to around 2016 is where we can track their relationship.
 

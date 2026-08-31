@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:06:20](/episodes/ep-N4uM8Jdr410.md#t-00-06-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(380);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=380s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm a pilot, but we have enough training to know better than the garbage that was foisted upon us from the Justice Department. That day, where they seemingly solved the case in about eight hot seconds. And we know better.
 

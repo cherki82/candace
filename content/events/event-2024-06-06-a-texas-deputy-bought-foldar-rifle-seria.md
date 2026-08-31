@@ -6,6 +6,11 @@ date: "2024-06-06"
 ---
 
 **Date:** 2024-06-06
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “on June 6th of 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024-06-06"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:36:33](/episodes/ep-jsqUIkszZd0.md#event-event-2024-06-06-a-texas-deputy-bought-foldar-rifle-seria-t-00-36-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2193);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2193s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > mysterious transaction that took place in the midst of all of this on June 6th of 2024.
 
@@ -25,6 +30,6 @@ date: "2024-06-06"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:54:16](/episodes/ep--9MOUvgGyi4.md#event-event-2024-06-06-a-texas-deputy-bought-foldar-rifle-seria-t-01-54-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6856);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=6856s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That was an online purchase that we shipped to a gun store in Texas.

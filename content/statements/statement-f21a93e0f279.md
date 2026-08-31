@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:16:39](/episodes/ep-Dkxa9OUA9K8.md#t-01-16-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4599);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=4599s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The FBI has contacted us. It's an open investigation and El Paso County Sheriff's Department, they are looking for Corby (Corby Hall). ... Plain and simple, he should stop what he's doing and contact them or turn himself in to local authorities, wherever he is, so he can be questioned
 

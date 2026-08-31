@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:40:46](/episodes/ep-GY6GWceEqtQ.md#t-00-40-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2446);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=2446s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My mom hijacked my first dance with my wife, ... which had been planned weeks in advance to a romantic love song. ... In front of our 500 wedding guests, ... Marc Anthony called me to the stage wherein the schedule was planned to be my romantic dance with my wife, but instead my mom was waiting to dance with me and she danced very inappropriately on me in front of everyone. I have never felt more uncomfortable or humiliated in my entire life. We wanted to renew our vows so that we could create new memories of our wedding day that bring us joy and happiness and not anxiety and embarrassment.
 

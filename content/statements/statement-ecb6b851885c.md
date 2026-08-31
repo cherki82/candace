@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3401);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3401s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But what she said was wrong. And it was blasphemous. ... He is he is nothing like Jesus Christ. In fact, Trump is not even a Christian. And so there is a role here that I think the Catholic Church should step in a really big way.
 

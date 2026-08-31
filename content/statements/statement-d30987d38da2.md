@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [01:04:52](/episodes/ep-i8m_6D4QGmk.md#t-01-04-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3892);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3892s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, obviously, I think that the thing that does let me down the most that has been so shocking to me is for him to have survived the assassination attempt and what he is dedicating the rest of his time to is destroying America for Israel.
 

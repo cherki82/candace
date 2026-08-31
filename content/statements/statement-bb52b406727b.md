@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:40:18](/episodes/ep-1hcjQGgvxUY.md#t-00-40-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2418);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2418s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I still feel very strongly they had a fight on the 9th.
 

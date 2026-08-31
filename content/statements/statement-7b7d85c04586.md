@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:16:02](/episodes/ep-YeEtS7nix3o.md#t-00-15-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(962);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=962s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At the same time, I'm looking at my ex feed and I am seeing this entire scenario with news that they're now voting to effectively merge our military with Israel's military, right? ... I think you guys saw the headlines of this. Congress discreetly moves to merge U.S. military even closer to Israel's.
 

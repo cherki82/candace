@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4338);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4338s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign. She is the gatekeeper to the president of the United States.
 

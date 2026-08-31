@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(195);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=195s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They wrote, dear Candace and team, I'm watching your show from earlier today. I'm in France and I had to stop watching when you showed the shards after reading that email. I quickly spotted the USB logo on the shard at the 15 minute, 30 second mark. The one. ... I think there's no room for doubt here. It's clearly the USB logo and or icon game over.
 

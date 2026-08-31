@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:19:49](/episodes/ep-y8lak3CRwDw.md#t-00-19-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1189);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1189s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And just like the Facebook caption is going to say, he wasn't the only Colbert that was there. He was also serving with his first cousin, Robert Kolvet. ... That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:15:02](/episodes/ep-DqGNvi36ol8.md#t-00-14-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(902);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do not think he's shot. Charlie Kirk because it's really fashionable for people to say that we are accusing everyone of shooting Charlie Kirk. No, I am observing some things that strike me as unusual.
 

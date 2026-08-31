@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:30:11](/episodes/ep-ti5Fxrvegno.md#t-00-30-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1811);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1811s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I can tell you going back in my text messages with Charlie (Charlie Kirk) that this date thing happened September of 2018. ... So October 2018 is when they began dating in earnest.
 

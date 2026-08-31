@@ -12,6 +12,8 @@ _Type: People_
 
 **Categories:** security consultant, former FBI agent
 
+> **Possibly overlapping entity records:** [Gregory Shaffer](/entities/person-gregory-shaffer). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official biography confirms the spelling Greg Shaffer, former FBI service, Hostage Rescue Team work, Budapest legal attaché role, and founding of Shaffer Security Group.
 Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
@@ -69,7 +71,7 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 <details>
 <summary>Formerly Worked For (3)</summary>
 
-- **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)**
+- **[FBI](/entities/org-fbi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”
@@ -119,7 +121,7 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 <details>
 <summary>Referenced By (5)</summary>
 
-- **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)** formerly employed this
+- **[FBI](/entities/org-fbi.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”

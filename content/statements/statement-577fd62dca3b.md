@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:23:54](/episodes/ep-iB-YtO3UZOg.md#t-00-23-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1434);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1434s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So there's effectively no trail, outside of hospital cameras which have been conveniently seized by Kash Patel's office, of these patients ever having been at Timpanogos Hospital.
 

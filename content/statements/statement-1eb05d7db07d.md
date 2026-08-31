@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2578);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2578s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You guys didn't release the files. ... You were forced by Congress. ... Every member of the House except one and the entire Senate. ... The reason the president signed it is because it was a veto-proof majority. ... and yet the entire House but one member and the whole Senate forced the administration to release the files.
 

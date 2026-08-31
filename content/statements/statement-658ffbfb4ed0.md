@@ -7,7 +7,7 @@ type: "citation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:10:12](/episodes/ep-ChuWo-n49B8.md#t-00-10-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(612);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=612s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were told that Tyler Robinson's gun was officially tied to the bullet fragment that was recovered in Charlie's (Charlie Kirk) autopsy. That's a lie. The ATF was very clear. That's why they influence or started pretending they were kind of trying to shroud the ATF testimony. That's my that's my belief of why they went so hard in on the last day because that ATF testimony was so crucial and very carefully explained. that they know they uh they gave a range she gave a range of what these metal fragments of which really only one of them could be tested a range of what sort of weapons it could fit into and in fact it didn't cover a .30-06 it didn't cover .30-06 if you pay attention to that testimony she almost debunked the idea entirely in my view That this was tied to Tyler Robinson's gun whatsoever.
 

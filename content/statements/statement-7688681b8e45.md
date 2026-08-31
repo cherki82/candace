@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:49:30](/episodes/ep-E7P2ShoYDUA.md#t-00-49-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2970);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=2970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know what he was getting at. He just wanted to know. Oh, I'm like, I spoke to the owner. ... The owner told me that he pulled the receipts, that it was Tyler Robinson's receipt. And so I included this on my timeline. ... And then the receipt that was shared was the real receipt. And then he's like, well, why didn't you ask the merchant? ... That's where it's going to stay. And if it gets debunked, I'm happy to take it off.
 

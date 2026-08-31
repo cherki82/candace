@@ -3,9 +3,17 @@ title: "Ken Burns"
 description: "Ken Burns (People) - 1 mention"
 id: "person-ken-burns"
 type: "PERSON"
+categories:
+  - "documentary filmmaker"
 ---
 
 _Type: People_
+
+**Categories:** documentary filmmaker
+
+**Entity verification:** verified
+> PBS identifies Ken Burns as a director of The American Revolution, matching the episode's reference to Ken Burns and the documentary.
+Source: [Ken Burns's Film The American Revolution – PBS](https://www.pbs.org/about/about-pbs/blogs/news/ken-burnss-film-the-american-revolution-to-stream-for-free-on-pbs-in-lead-up-to-250th-anniversary/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#t-00-58-42">2025-12-02 · 00:58:49</a></strong></div>

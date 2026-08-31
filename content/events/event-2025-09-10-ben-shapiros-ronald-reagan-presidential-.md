@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “that September day (episode title: 9/10)”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:20:49](/episodes/ep-amqTMimDr0A.md#t-00-20-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1249);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That event was eventually canceled because Charlie was shot.

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:10:42](/episodes/ep-IqHsl7d2dos.md#t-00-10-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(642);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=642s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Foremost, the 19 special forces group you should know is in the National Guard. ... Plus, they are headquartered in Lehigh, Utah at Camp Williams. ... Camp Williams is 20 minutes down the road from where Charlie (Charlie Kirk) was murdered.
 

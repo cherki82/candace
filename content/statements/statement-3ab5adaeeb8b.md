@@ -24,13 +24,13 @@ veracity: "mixed"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 - [Megyn Kelly](/entities/person-megyn-kelly.md) (person)
-- [The Hamptons](/entities/gpe-the-hamptons.md) (gpe)
+- [Hamptons](/entities/gpe-hamptons.md) (gpe)
 
 ## Source
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:37:44](/episodes/ep-4YgrOhhy708.md#t-00-37-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2264);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > legal type statements to be like, oh, nothing happened in the Hamptons. No one even wanted to touch the fact that Bibi (Benjamin Netanyahu) called. ... Everything I said was true. ... It got heated. ... Charlie (Charlie Kirk) was being pressed. He was so stressed about what happened in the Hamptons and spilled over into his conversation with Megyn Kelly.
 

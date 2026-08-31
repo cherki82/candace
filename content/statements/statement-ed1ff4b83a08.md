@@ -23,8 +23,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(930);return false;">Play</a>
+**Timestamp:** [00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-15-25) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When you Google FBI Wilmington Resident Agency, you should check the address in the Google info panel
 

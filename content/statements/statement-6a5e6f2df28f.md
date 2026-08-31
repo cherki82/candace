@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:33:04](/episodes/ep-9hRcfSrri70.md#t-00-33-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1984);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=1984s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's describing Mike Mitchell. Mike Mitchell is not just his Boy Scout leader. He's not just the former police officer, undercover police officer, and all the evidence points to the fact that he did work undercover in sex crimes, which is a running theme in this story, but he is also a minister at the Mormon church.
 

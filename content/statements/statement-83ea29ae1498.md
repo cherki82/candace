@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:12:25](/episodes/ep-_cNtgris8Ik.md#t-00-12-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(745);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=745s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he also offered that as his excuse and reason for jumping immediately to grab the footage. My understanding was that it was out of his own volition because he did not want Erica to have to see Charlie die in 4K.
 

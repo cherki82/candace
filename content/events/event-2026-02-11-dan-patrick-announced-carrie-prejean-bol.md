@@ -6,6 +6,15 @@ date: "2026-02-11"
 ---
 
 **Date:** 2026-02-11
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “did just go ahead and fire”
+
+**Normalization note:** JTA reports Dan Patrick announced Carrie Prejean Boller's removal on February 11, 2026.
+
+**Date source:** [https://www.jta.org/2026/02/11/united-states/carrie-prejean-boller-ousted-from-white-house-religious-liberty-commission-following-antisemitism-row](https://www.jta.org/2026/02/11/united-states/carrie-prejean-boller-ousted-from-white-house-religious-liberty-commission-following-antisemitism-row)
 
 ## Event
 
@@ -15,6 +24,6 @@ date: "2026-02-11"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2141);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2141s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > has been removed from President Trump's Religious Liberty Commission.

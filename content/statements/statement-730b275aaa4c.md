@@ -1,6 +1,6 @@
 ---
 title: "Owens alleged that Daily Wire writer Hank Berrien is Ben Sha..."
-description: "\"Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro father writing under a pen name\" — Candace Owens"
+description: "\"Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro's father writing under a pen name\" — Candace Owens"
 statement_id: "statement-730b275aaa4c"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro father writing under a pen name
+> Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro's father writing under a pen name
 
 ## Attribution
 
@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:23:42](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=1422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his father going to write under a pen name? Hank Berrien of A Daily Wire under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart
 

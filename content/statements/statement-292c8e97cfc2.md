@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:12:47](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(767);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=767s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is what I believe happened. I'm putting this out as my theory: that Andrew departed from Santa Barbara, headed for Scottsdale, at approximately 1:03, according to his memory.
 

@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:09:07](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(547);return false;">Play</a>
+**Timestamp:** [00:09:07](/episodes/ep-t1YtLS1n8Vs.md#t-00-08-38) 
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=547s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And sure enough, the FBI director, Kash Patel, announced yesterday that he ended—he has—this is over
 

@@ -6,6 +6,11 @@ date: "2019"
 ---
 
 **Date:** 2019
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “way back in 2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:13:33](/episodes/ep-rupRLXmSndU.md#event-event-2019-bilt-received-its-first-federal-contract-t-00-13-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(813);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=813s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They get their first little contract is a $50,000 contract way back in 2019.

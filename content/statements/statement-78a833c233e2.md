@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:52:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-51-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3125);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=3125s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the schools would come to be known as Tesseract Schools, ... named after the children's book A Wrinkle in Time,
 

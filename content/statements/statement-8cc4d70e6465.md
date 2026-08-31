@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:17:53](/episodes/ep-mLvJqdxS-FY.md#t-00-17-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1073);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=1073s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just want to be clear that those items eventually you determined were not related to this case. ... Yep, that would be fair.
 

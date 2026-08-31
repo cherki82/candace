@@ -6,6 +6,7 @@ date: "1990-01-01"
 ---
 
 **Date:** 1990-01-01
+**Date precision:** Day
 
 ## Event
 
@@ -15,6 +16,6 @@ date: "1990-01-01"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:08:35](/episodes/ep-yAIb-NuUh_U.md#event-event-1990-01-01-thomas-michael-camino-placed-on-probation-for-lewd-t-00-08-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(515);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=515s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "He molested multiple girls between 1990 and 1995."

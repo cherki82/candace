@@ -1,17 +1,17 @@
 ---
-title: "Jean-Christophe Mitterrand, son of French President François..."
-description: "\"Jean-Christophe Mitterrand, son of French President François Mitterrand, was implicated in the Angola Gate scandal\" — Candace Owens"
+title: "Owens read a CorpWatch account saying Angolagate involved ar..."
+description: "\"Owens read a CorpWatch account saying Angolagate involved arms-for-oil deals among Pierre Falcone, Jean-Christophe Mitterrand, and Arkadi Gaydamak.\" — Candace Owens"
 statement_id: "statement-72b6f48a1049"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Jean-Christophe Mitterrand, son of French President François Mitterrand, was implicated in the Angola Gate scandal
+> Owens read a CorpWatch account saying Angolagate involved arms-for-oil deals among Pierre Falcone, Jean-Christophe Mitterrand, and Arkadi Gaydamak.
 
 ## Attribution
 
@@ -23,16 +23,17 @@ veracity: "true"
 ## About
 
 - [Angolagate scandal](/entities/event-angola-gate.md) (event)
-- [François Mitterrand](/entities/person-francois-mitterrand.md) (person)
 - [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md) (person)
+- [Pierre Falcone](/entities/person-pierre-falcone.md) (person)
+- [Arkadi Gaydamak](/entities/person-arkadi-gaydamak.md) (person)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:16:49](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1009);return false;">Play</a>
+**Timestamp:** [00:16:23](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=983s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I'm reading this Bush component from a website that's known as CorpWatch, and it tells us that, quote, known as Angola Gate, in France, the scandal involves arms for oil deals between French businessman Pierre Falcone, the head of a firm, that was called Branko International, his colleague Jean-Christophe Mitterrand,...
+> I'm reading this Bush component from a website that's known as CorpWatch, and it tells us that, quote, known as Angolagate, in France, the scandal involves arms for oil deals between French businessman Pierre Falcone, the head of a firm, ... that was called Brenco International, his colleague Jean-Christophe Mitterrand, the son of the former French president, and a Russian-born Israeli named Arkadi Gaydamak.
 
 ## Verification
 
@@ -54,4 +55,4 @@ Contemporaneous and case-history sources confirm that Jean-Christophe Mitterrand
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Citation | **Verifiable:** Yes

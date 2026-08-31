@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:00:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(35);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=35s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed
 

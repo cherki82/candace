@@ -1,6 +1,6 @@
 ---
-title: "he told me over the past couple of months he was losing a lo..."
-description: "\"he told me over the past couple of months he was losing a lot of donations over that pledge\" — Tucker Carlson"
+title: "Tucker Carlson said Charlie Kirk had told him over the prece..."
+description: "\"Tucker Carlson said Charlie Kirk had told him over the preceding months that Kirk was losing many donations because he pledged to bring Carlson to the...\" — Tucker Carlson"
 statement_id: "statement-21525e203f99"
 speaker: "Tucker Carlson"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> he told me over the past couple of months he was losing a lot of donations over that pledge
+> Tucker Carlson said Charlie Kirk had told him over the preceding months that Kirk was losing many donations because he pledged to bring Carlson to the next Turning Point conference.
 
 ## Attribution
 
@@ -24,8 +24,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:45:53](/episodes/ep-2WEHTk0Xewg.md#t-00-45-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2753);return false;">Play</a>
+**Timestamp:** [00:45:53](/episodes/ep-2WEHTk0Xewg.md#t-00-45-29) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2753s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he told me over the past couple of months he was losing a lot of donations over that pledge
 

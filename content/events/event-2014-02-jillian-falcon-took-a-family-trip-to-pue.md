@@ -6,6 +6,11 @@ date: "2014-02"
 ---
 
 **Date:** 2014-02
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “February of 2014”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2014-02"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:08:07](/episodes/ep-1hcjQGgvxUY.md#t-00-07-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=487s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in February of 2014 Jillian went on a family trip to Puerto Rico

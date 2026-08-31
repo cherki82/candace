@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:23:48](/episodes/ep-4DvYXBn_5JI.md#t-00-23-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1428);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1428s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they said, no, actually what happened was the sheriff's office revised this. The deputy had actually started his morning at Conifer. ... Then he made the drive to Evergreen. He stayed at Evergreen for about an hour. Then he drove back to Conifer. ... Then he was dispatched from Conifer High School to a car crash. And while en route to that car crash, that's when the call came in about the Evergreen shooting. ... Location of the crash he was originally dispatched to was never publicly released. Anything confirming that information has not been found by people who are around the clock working to confirm these details. ... no location, no other parties involved. It was reported but never independently corroborated.
 

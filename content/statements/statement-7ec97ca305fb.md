@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:42:10](/episodes/ep-sreYYcID-QY.md#t-00-41-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2530);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm going to focus on trying to rebuild my life, because they also had me canceled from YouTube
 
@@ -48,4 +48,4 @@ YouTube suspended Owens for one week, removed the interview, and demonetized the
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

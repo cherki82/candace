@@ -3,9 +3,18 @@ title: "Ashton Forbes"
 description: "Ashton Forbes (People) - 3 mentions"
 id: "person-ashton-forbes"
 type: "PERSON"
+categories:
+  - "online commentator"
+  - "podcast host"
 ---
 
 _Type: People_
+
+**Categories:** online commentator, podcast host
+
+**Entity verification:** verified
+> Ashton Forbes official site confirms his canonical name and identifies him as the host of Hard Truths and related livestreams, matching the episode reference.
+Source: [Ashton Forbes official site](https://ashton-forbes.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-ashton-forbes-t-00-07-35">2025-10-07 · 00:07:40</a></strong></div>

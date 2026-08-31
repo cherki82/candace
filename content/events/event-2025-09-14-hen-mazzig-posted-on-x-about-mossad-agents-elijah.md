@@ -1,62 +1,27 @@
 ---
-title: "2025-09-14: Hen Mazzig posted on X about Mossad agents; Elijah..."
-description: "2025-09-14 - Hen Mazzig posted on X about Mossad agents; Elijah Schaffer replied with Patel-Wilkins photo."
+title: "2025-09-14: Hen Mazzig published an X post about female Mossad..."
+description: "2025-09-14 - Hen Mazzig published an X post about female Mossad agents."
 event_id: "event-2025-09-14-hen-mazzig-posted-on-x-about-mossad-agents-elijah"
 date: "2025-09-14"
 ---
 
 **Date:** 2025-09-14
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 14, 2025”
+
+**Normalization note:** Normalized a legacy event record to day precision from the exact transcript date; no external date enrichment was needed.
 
 ## Event
 
-> Hen Mazzig posted on X about Mossad agents; Elijah Schaffer replied with Patel-Wilkins photo.
+> Hen Mazzig published an X post about female Mossad agents.
 
-## Mentioned In (6 times)
-
-### 1. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+## Mentioned In
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:38:22](/episodes/ep-MUA9ebCF4Ow.md#event-event-2025-09-14-hen-mazzig-posted-on-x-about-mossad-agents-elijah-t-00-37-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2302);return false;">▶️ Play</a>
+**Timestamp:** [00:37:58](/episodes/ep-MUA9ebCF4Ow.md#event-event-2025-09-14-hen-mazzig-posted-on-x-about-mossad-agents-elijah-t-00-37-58) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=2278s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> ey would very quickly bury him in a yarmulke and then convince the world that he was actually besties with Ben Shapiro and Josh Hammer. He didn't even know Candace. His last words befo
-
-### 2. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
-
-**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:38:29](/episodes/ep-MUA9ebCF4Ow.md#event-event-2025-09-14-hen-mazzig-posted-on-x-about-mossad-agents-elijah-t-00-37-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2309);return false;">▶️ Play</a>
-
-> h-ranking enemy officials. Now, in response to the comments on that same day, Elijah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel. So this is what they're suing over, right her
-
-### 3. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
-
-**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:38:45](/episodes/ep-MUA9ebCF4Ow.md#event-event-2025-09-14-hen-mazzig-posted-on-x-about-mossad-agents-elijah-t-00-37-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2325);return false;">▶️ Play</a>
-
-> re on the internet. LOL. Elijah Schaffer posts a photo, and the lawsuit goes on and says, "Ever since Kash Patel was appointed as director of the FBI in February of 2025, the conspiratorial corners of
-
-### 4. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
-
-**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:37:22](/episodes/ep-MUA9ebCF4Ow.md#event-event-2025-09-14-hen-mazzig-posted-on-x-about-mossad-agents-elijah-t-00-37-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2242);return false;">▶️ Play</a>
-
-> st calm down. Like a teenager in love—it's ridiculous. Well, now his girlfriend turns out is suing Elijah Schaffer and other content creators for $5 million. For $5 million. For her hurt feelings, oka
-
-### 5. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
-
-**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:42:13](/episodes/ep-MUA9ebCF4Ow.md#event-event-2025-09-14-hen-mazzig-posted-on-x-about-mossad-agents-elijah-t-00-37-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2533);return false;">▶️ Play</a>
-
-> onal anthem for Turning Point USA. Get off of the internet if you do not have it within you the courage to withstand Elijah Schaffer making a joke, okay? All of these people have said things about me.
-
-### 6. From Britney To Charlie. With Pastors Like These, Who Needs ...
-
-**Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:23:43](/episodes/ep-7RLtGgkTh9o.md#t-00-23-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1423);return false;">▶️ Play</a>
-
-> complish this is via lawfare. They will bankrupt you, okay? This is why what's happening to Elijah Schaffer—this is relevant. This is one of their strategies. When they want you to shut up, they will
+> September 14, 2025, an X user that goes by Hen Mazzig published a lengthy and detailed post

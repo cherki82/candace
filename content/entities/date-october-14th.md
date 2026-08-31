@@ -12,7 +12,7 @@ _Type: Dates_
 **Also known as:** October 14th
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-date-october-14th-t-00-00-55">2025-09-19 · 00:01:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-date-october-14th-t-00-00-55">2025-09-19 · 00:01:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-date-october-14th-t-00-14-01">2025-10-29 · 00:14:01</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -55,8 +55,8 @@ _Type: Dates_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:01:09](/episodes/ep-aDlhjfW6hz8.md#ent-date-october-14th-t-00-00-55)**
-> "...t let you know that the Senate has voted, and they have passed a bipartisan resolution to designate October 14th, which is Charlie (Charlie Kirk)'s birthday, as Charlie Kirk Remembrance Day. And I have to say, th..."
+**[00:01:04](/episodes/ep-aDlhjfW6hz8.md#ent-date-october-14th-t-00-00-55)**
+> "They are definitely insisting that we stop investigating this. I should first let you know that the Senate has voted, and they have passed a bipartisan resolution to designate October 14th, which is Charlie Kirk's birthday, as Charlie Kirk Remembrance Day."
 
 </details>
 

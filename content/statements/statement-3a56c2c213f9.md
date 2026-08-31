@@ -1,6 +1,6 @@
 ---
-title: "there is very clearly... a government-level conspiracy that ..."
-description: "\"there is very clearly... a government-level conspiracy that is involved\" — Candace Owens"
+title: "I do believe—and we all believe—there is very clearly a gove..."
+description: "\"I do believe—and we all believe—there is very clearly a government-level conspiracy involved\" — Candace Owens"
 statement_id: "statement-3a56c2c213f9"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> there is very clearly... a government-level conspiracy that is involved
+> I do believe—and we all believe—there is very clearly a government-level conspiracy involved
 
 ## Attribution
 
@@ -22,8 +22,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(894);return false;">Play</a>
+**Timestamp:** [00:14:33](/episodes/ep-aDlhjfW6hz8.md#t-00-14-22) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=873s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do believe that there is very clearly—we all believe there's very clearly—a government-level conspiracy that is involved.
 

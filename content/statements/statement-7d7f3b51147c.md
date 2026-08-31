@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(615);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=615s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > May 27th is when that follow-up plane comes in. ... But this tail number SU-BTU is going to fly into Provo and this Walid Mahmoud is going to be aboard.
 

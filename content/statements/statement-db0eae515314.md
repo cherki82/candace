@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:55:50](/episodes/ep-QdM9jLwjwLw.md#t-00-55-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3350);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=3350s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, probably not, right? Probably not because you are just a malignant narcissist. You admitted to me that you had a mental break in Hungary. ... They didn't sleep for days and you never. Really, Jeremy (Jeremy Boreing), have admitted to yourself that you haven't come back from it.
 

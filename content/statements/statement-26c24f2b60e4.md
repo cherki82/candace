@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:41:57](/episodes/ep-sreYYcID-QY.md#t-00-41-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2517);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2517s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's a... they're even involved. There's a—no question—proof that Candace (Candace Owens) is nothing... has nothing to do... she would be—in a perfect world, if they didn't have this, what I already know was a very quiet breakup, where she got too rabbit-hole for him
 

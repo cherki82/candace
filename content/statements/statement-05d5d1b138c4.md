@@ -22,8 +22,8 @@ type: "prediction"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:37:28](/episodes/ep-aDlhjfW6hz8.md#t-00-36-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2248);return false;">Play</a>
+**Timestamp:** [00:37:28](/episodes/ep-aDlhjfW6hz8.md#t-00-36-52) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2248s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So what they're going to try to do is to pass speech laws—Bolshevik speech laws.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:09:36](/episodes/ep-a2bZf4fic10.md#t-00-09-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(576);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=576s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's not a conspiracy at all that there is tempered shattered glass with white bits all over the center of this car and into the back seat. ... The stories Frank Turek and Brian Harpole have told to the public, for some reason, don't include this. We were told only his neck was being addressed.
 

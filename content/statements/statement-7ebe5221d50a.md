@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:11:11](/episodes/ep-wcD2khO3rOA.md#t-01-10-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4271);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4271s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he was accused of violating the Public Official Election Act and the Local Education Autonomy Act... The conservative pastor participated in a protest... he shouted the words that Lee Jae-myung has to die for Korea to live.
 

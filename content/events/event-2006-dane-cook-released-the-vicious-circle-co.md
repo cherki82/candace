@@ -6,6 +6,11 @@ date: "2006"
 ---
 
 **Date:** 2006
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2006”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2006"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:01:59](/episodes/ep-5zgkrOaCCj4.md#event-event-2006-dane-cook-released-the-vicious-circle-co-t-00-01-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(119);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=119s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The year was 2006 and he dropped his vicious cycle special on HBO.

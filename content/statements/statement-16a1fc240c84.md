@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:43:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-43-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2632);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=2632s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was this falling out period that you and Charlie (Charlie Kirk) did have a little bit of a falling out. ... No. ... You never had a falling out with Charlie (Charlie Kirk)? ... No.
 

@@ -5,11 +5,19 @@ id: "person-hank-berrien"
 type: "PERSON"
 aliases:
   - "Berrien"
+categories:
+  - "Daily Wire news reporting"
 ---
 
 _Type: People_
 
 **Also known as:** Berrien
+
+**Categories:** Daily Wire news reporting
+
+**Entity verification:** verified
+> The Daily Wire's official author directory and author page identify Hank Berrien as a news reporter and use this canonical spelling.
+Source: [Hank Berrien | The Daily Wire](https://www.dailywire.com/author/hank-berrien)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-hank-berrien-t-00-23-20">2025-12-20 · 00:23:32</a></strong></div>
@@ -17,8 +25,8 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,20 +63,58 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Parent Of (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:27](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20): “How many more articles is his father going to write under a pen name? ... Hank Berrien of A Daily Wire under the pen name, Hank Berrien”
+
+</details>
+
+</details>
+
+<details>
+<summary>Works For (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:32](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20): “Hank Berrien of A Daily Wire under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart before he turned his back and betrayed them too, because that is his nature.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** child of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:27](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20): “How many more articles is his father going to write under a pen name? ... Hank Berrien of A Daily Wire under the pen name, Hank Berrien”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:32](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20): “Hank Berrien of A Daily Wire under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart before he turned his back and betrayed them too, because that is his nature.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hank Berrien (2)</strong></summary>
+<summary><strong class="section-title">Statements about Hank Berrien (1)</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
-- [00:23:31](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Claim) **Candace Owens**: ["Ben Shapiro's father writes under the pen name Hank Berrien at The Dai..."](/statements/statement-7de014dde600.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
-
-- [00:23:42](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Accusation) **Candace Owens**: ["Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro fathe..."](/statements/statement-730b275aaa4c.md)
+- [00:23:42](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Accusation) **Candace Owens**: ["Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro's fat..."](/statements/statement-730b275aaa4c.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </details>

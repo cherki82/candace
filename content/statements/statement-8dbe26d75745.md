@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:03:19](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(199);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=199s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > climbed the ladder with a rifle, set himself up. People saw him, Trump (Donald Trump) supporters. Police did nothing. Secret Service did nothing.
 

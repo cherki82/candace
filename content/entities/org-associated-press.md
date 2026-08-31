@@ -1,10 +1,12 @@
 ---
 title: "The Associated Press"
-description: "The Associated Press (Organizations) - 3 mentions"
+description: "The Associated Press (Organizations) - 5 mentions"
 id: "org-associated-press"
 type: "ORG"
 aliases:
   - "Associated Press"
+  - "AP"
+  - "AP News"
 categories:
   - "news agency"
   - "journalism"
@@ -12,7 +14,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Associated Press
+**Also known as:** Associated Press, AP, AP News
 
 **Categories:** news agency, journalism
 
@@ -21,18 +23,63 @@ _Type: Organizations_
 Source: [About Us | The Associated Press](https://www.ap.org/about/)
 
 <div class="entity-summary-grid">
-<div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57">2025-10-02 · 00:24:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-org-associated-press-t-00-34-18">2026-05-20 · 00:34:44</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-associated-press-t-00-17-32" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-associated-press-t-00-34-18" style="--pulse-height:100%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-associated-press-t-00-17-32) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-associated-press-t-00-34-18) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:34:44](/episodes/ep-cPidFQDJLbo.md#ent-org-associated-press-t-00-34-18)**
+> "AP News, lawyers for the... A man accused of killing Charlie Kirk"
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:17:59](/episodes/ep-DqGNvi36ol8.md#ent-org-associated-press-t-00-17-32)**
+> "...ew York Times, when they read AP News or Reuters, that all of this just happened."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:24:13](/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57)**
+> "all of these USA Today or AP"
+
+</details>
 
 </details>
 

@@ -1,8 +1,8 @@
 ---
-title: "I have a first-person account that Charlie Kirk presented at..."
-description: "\"I have a first-person account that Charlie Kirk presented at the retreat and said it was wrong that he could not publicly criticize Israel.\" — Candace Owens"
+title: "Charlie Kirk reportedly said at the Hamptons retreat that it..."
+description: "\"Charlie Kirk reportedly said at the Hamptons retreat that it was wrong that he could not publicly criticize Israel.\" — Charlie Kirk"
 statement_id: "statement-6bcca0d299cb"
-speaker: "Candace Owens"
+speaker: "Charlie Kirk"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,22 +11,27 @@ veracity: "true"
 
 ## Statement
 
-> I have a first-person account that Charlie Kirk presented at the retreat and said it was wrong that he could not publicly criticize Israel.
+> Charlie Kirk reportedly said at the Hamptons retreat that it was wrong that he could not publicly criticize Israel.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Private first-person attendee account relayed by Candace Owens
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:42:09](/episodes/ep-q7f8r-THr84.md#t-00-41-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2529);return false;">Play</a>
+**Timestamp:** [00:42:01](/episodes/ep-q7f8r-THr84.md#t-00-42-01) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2521s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I have it on first-person account that on the first day of the retreat, of which there were smaller meetings that took place, and then like, you know, ... the retreat itself, Charlie (Charlie Kirk) presented and he explained that he felt that it was wrong that he couldn't publicly criticize Israel.
+> I have it on first-person account that on the first day of the retreat, of which there were smaller meetings that took place, and then like, you know, the retreat itself, Charlie (Charlie Kirk) presented and he explained that he felt that it was wrong that he couldn't publicly criticize Israel.
 
 ## Verification
 
@@ -48,4 +53,4 @@ A retreat participant independently described Kirk expressing this concern, and 
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** No

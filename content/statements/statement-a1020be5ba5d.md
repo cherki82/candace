@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:17:19](/episodes/ep-EtLHqDbxqks.md#t-00-17-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I wouldn't say with 100% certainty just because of camera quality, but that looks like him in terms of the shoes he's wearing, the sunglasses.
 

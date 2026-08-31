@@ -27,7 +27,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -78,6 +78,18 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:34:54](/episodes/ep-JQjCAsfoXEE.md#t-00-34-50): “This is a massive red flag. So Tyler Bowyer is being snarky on X.com and telling people to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Contributor (1)</summary>
 
 - **[Zach De Gregorio](/entities/person-zach-de-gregorio.md)**
@@ -90,12 +102,19 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Zach De Gregorio](/entities/person-zach-de-gregorio.md)** contributor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:20:39](/episodes/ep-NIEbqsLAK8g.md#t-00-20-06): “It's Wolves in Finance. And I'm referring to the presenter, Zach De Gregorio.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:34:54](/episodes/ep-JQjCAsfoXEE.md#t-00-34-50): “This is a massive red flag. So Tyler Bowyer is being snarky on X.com and telling people to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.”
 
 </details>
 

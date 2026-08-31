@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:47:38](/episodes/ep-Vu6Y24pqhZs.md#t-00-47-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2858);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=2858s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Every police division that I've spoken to said that the feds were sending everybody on wild goose hunts and telling them to look in buildings and SWAT team looking in buildings that had nothing to do with anything. ... marshals being sent places that had nothing to do with anything. Dogs being sent to chase sense that had nothing to do with anything.
 

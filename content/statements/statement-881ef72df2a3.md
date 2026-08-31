@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2605);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=2605s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he is sitting down and discussing how in the future they're just going to have to edit out of textbooks for kids that are in school. The part about how they murdered tens and thousands of Palestinian women and children and innocent men because it's just not good for their aims.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:37:32](/episodes/ep-VMNWMXX1vO8.md#t-00-37-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2252);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2252s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace doesn't have any receipts, and it's a carnal Christian soap opera. And you're suckered into it. She's making $800,000 a week. ... And you're attacking a widow on ... innuendo, supposition, vain speculation, and it's shameful. When you should be caring for a widow.
 

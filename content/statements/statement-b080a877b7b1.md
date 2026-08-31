@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(733);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=733s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They conceded. ... And Erika (Erika Kirk) came out and said, Charlie (Charlie Kirk), ... I had his phone. He never said the night before that he was afraid he was going to die. She said that on Glenn Beck. They then get in front of me. They say, ... yeah, no, he did. ... I didn't know because it was in a special, you know, app. ... he also messaged Dan Flood. I didn't know because we're not talking to Dan Flood.
 
@@ -40,7 +40,7 @@ veracity: "mixed"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:23:11](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1391);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1391s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Number two, she told us that Charlie (Charlie Kirk) did not text anyone the night before in fear for his life. That's what she told Glenn Beck. ... Number three, even builds upon that lie because then we were told, well, the reason for that is because Dan Flood and Andrew Kolvet messaged him on a third party app and that's why I didn't know that was set for deletion.
 

@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 124 mentions"
+description: "MAGA movement (Concepts) - 123 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-maga-movement-t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-25-16">2026-08-11 · 00:25:35</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>124</strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>123</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,74 +34,76 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (12 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-26-08" style="--pulse-height:17%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38" style="--pulse-height:25%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14" style="--pulse-height:33%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#t-00-39-12" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-concept-maga-movement-t-00-13-55" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-04" style="--pulse-height:42%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-maga-movement-t-00-07-30" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-10" style="--pulse-height:42%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 5 mentions" title="2025-10-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-10-33" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26" style="--pulse-height:67%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 8 mentions" title="2025-10-30 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00" style="--pulse-height:92%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 11 mentions" title="2025-11-03 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 12 mentions" title="2025-11-05 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-maga-movement-t-00-41-57" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21" style="--pulse-height:42%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-34" style="--pulse-height:17%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-maga-movement-t-00-11-11" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-maga-movement-t-00-26-58" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-maga-movement-t-00-52-11" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-maga-movement-t-00-32-49" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-maga-movement-t-00-48-42" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-maga-movement-t-00-42-56" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10" style="--pulse-height:42%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-maga-movement-t-00-49-02" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35" style="--pulse-height:92%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 11 mentions" title="2026-04-10 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-maga-movement-t-00-12-49" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-maga-movement-t-00-15-03" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-23-41" style="--pulse-height:33%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-maga-movement-t-00-43-09" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-maga-movement-t-01-31-27" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-maga-movement-t-00-00-44" style="--pulse-height:17%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-00-35-04" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-maga-movement-t-00-40-31" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-24-42" style="--pulse-height:17%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-maga-movement-t-00-36-23" style="--pulse-height:9%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-26-08" style="--pulse-height:18%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-32" style="--pulse-height:27%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14" style="--pulse-height:36%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-maga-movement-t-00-39-12" style="--pulse-height:9%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-maga-movement-t-00-13-55" style="--pulse-height:18%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-04" style="--pulse-height:45%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-maga-movement-t-00-07-30" style="--pulse-height:9%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-10" style="--pulse-height:45%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 5 mentions" title="2025-10-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-maga-movement-t-00-14-16" style="--pulse-height:9%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-maga-movement-t-00-10-33" style="--pulse-height:9%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-43" style="--pulse-height:73%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 8 mentions" title="2025-10-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 11 mentions" title="2025-11-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-06" style="--pulse-height:91%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 10 mentions" title="2025-11-05 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-maga-movement-t-00-41-57" style="--pulse-height:9%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21" style="--pulse-height:45%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32" style="--pulse-height:9%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52" style="--pulse-height:9%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-maga-movement-t-00-26-07" style="--pulse-height:9%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-34" style="--pulse-height:18%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50" style="--pulse-height:9%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-maga-movement-t-00-11-11" style="--pulse-height:18%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-maga-movement-t-00-26-58" style="--pulse-height:27%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-maga-movement-t-00-52-11" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-maga-movement-t-00-32-49" style="--pulse-height:18%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-maga-movement-t-00-48-42" style="--pulse-height:27%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-maga-movement-t-00-42-56" style="--pulse-height:9%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10" style="--pulse-height:45%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-maga-movement-t-00-49-02" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 11 mentions" title="2026-04-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07" style="--pulse-height:18%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-maga-movement-t-00-12-49" style="--pulse-height:18%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24" style="--pulse-height:18%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-maga-movement-t-00-15-03" style="--pulse-height:9%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-23-41" style="--pulse-height:36%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-maga-movement-t-00-43-09" style="--pulse-height:9%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-maga-movement-t-01-31-27" style="--pulse-height:9%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-maga-movement-t-00-00-44" style="--pulse-height:18%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-00-35-04" style="--pulse-height:36%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00" style="--pulse-height:27%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-maga-movement-t-00-40-31" style="--pulse-height:9%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57" style="--pulse-height:9%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-24-42" style="--pulse-height:18%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-36-23) | 1 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-concept-maga-movement-t-00-36-23) | 1 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-26-08) | 2 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38) | 3 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-32) | 3 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14) | 4 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#t-00-39-12) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-maga-movement-t-00-39-12) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-maga-movement-t-00-13-55) | 2 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-04) | 5 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-maga-movement-t-00-07-30) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-10) | 5 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) | 1 |
-| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-10-33) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26) | 8 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-maga-movement-t-00-14-16) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-maga-movement-t-00-10-33) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-43) | 8 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00) | 11 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11) | 12 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-06) | 10 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-maga-movement-t-00-41-57) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21) | 5 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-maga-movement-t-00-26-07) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-34) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-maga-movement-t-00-11-11) | 2 |
@@ -134,7 +136,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+<summary><strong class="section-title">Raw mentions (123)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
@@ -439,6 +441,14 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:26:20](/episodes/ep-Kmt6HgRjckU.md#ent-concept-maga-movement-t-00-26-07)**
+> "...central ideological planks of MAGA teleology."
+
+</details>
+
+<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:39:11](/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52)**
@@ -483,42 +493,36 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (12 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (10 mentions)</summary>
 
-**[00:15:24](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11)**
+**[00:15:22](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-06)**
 > "... going to go away. This is sticking around. But I guess the bigger, broader question is: why didn't MAGA MAGA? Why didn't MAGA MAGA? Why didn't MAGA do the thing? We've infiltrated MAGA, and we told them ..."
 
-**[00:15:28](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11)**
+**[00:15:28](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-06)**
 > "...s is sticking around. But I guess the bigger, broader question is: why didn't MAGA MAGA? Why didn't MAGA MAGA? Why didn't MAGA do the thing? We've infiltrated MAGA, and we told them to do what we want—and..."
 
-**[00:15:29](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11)**
-> "...But I guess the bigger, broader question is: why didn't MAGA MAGA? Why didn't MAGA MAGA? Why didn't MAGA do the thing? We've infiltrated MAGA, and we told them to do what we want—and we wanted them to all..."
-
-**[00:15:31](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11)**
-> "...ion is: why didn't MAGA MAGA? Why didn't MAGA MAGA? Why didn't MAGA do the thing? We've infiltrated MAGA, and we told them to do what we want—and we wanted them to all make posts, anti-Mamdani posts. Just..."
-
-**[00:16:01](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-44)**
+**[00:16:01](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-38)**
 > "...nd one message about investigating Charlie (Charlie Kirk)'s murder. But the question is: why didn't MAGA listen even to Trump (Donald Trump)? Why didn't we all get on our platforms and say something? Beca..."
 
-**[00:16:16](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-44)**
+**[00:16:14](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-38)**
 > "...platforms and encourage people to vote? Well, the answer is pretty obvious. We don't recognize this MAGA because the fact that you're in it makes no sense. You were never Trump (Donald Trump). If you're t..."
 
-**[00:16:22](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-44)**
+**[00:16:21](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-16-21)**
 > "...ct that you're in it makes no sense. You were never Trump (Donald Trump). If you're telling us that MAGA is now Josh Hammer, then MAGA is not MAGA, okay? MAGA needs a new leader. And it's pretty obvious t..."
 
-**[00:16:26](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-44)**
+**[00:16:26](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-16-21)**
 > "...ump (Donald Trump). If you're telling us that MAGA is now Josh Hammer, then MAGA is not MAGA, okay? MAGA needs a new leader. And it's pretty obvious that you guys recognize that—we have never been with yo..."
 
-**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-16-27)**
-> "... same party while we get gaslit about everything that's happening— like I said, you lost the party. MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald (Donald Tru..."
+**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-16-21)**
+> "MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald Trump looked at us in our faces and said, "Epstein who?""
 
-**[00:17:51](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-17-51)**
+**[00:17:51](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-17-42)**
 > "...want to do to Brett Cooper because she watched the totally deranged "Tucker (Tucker Carlson) is not MAGA" Republican Jewish coalition event. And she agreed with the majority of sensible people that demand..."
 
 **[00:51:57](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-51-39)**
 > "...at came down the escalator. I will not support it. You're not going to convince me that this is the MAGA movement. It's not. And the reason I know it's not is because all the Never Trumpers are praising it—and I'v..."
 
-**[01:02:14](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-01-02-14)**
+**[01:02:14](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-01-01-54)**
 > "...ocialism, but part of me is glad that Mamdani won because it sends a message. It was supposed to be MAGA, not MIGA." Exactly right. And when you see that skit, it reminds us of early Trump (Donald Trump)...."
 
 </details>
@@ -530,62 +534,62 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > "All right, you guys. Happy Monday. MAGA civil war—at least that's what they are trying to brand it as. They say that's what's going on. But..."
 
 **[00:00:08](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00)**
-> "...t's what's going on. But really, we all know it's more like Never Trumpers have now infiltrated the MAGA movement, and they're trying to dictate the terms like we didn't notice. Randomly, Ben Shapiro (Ben Shapiro)..."
+> "But really, we all know it's more like Never Trumpers have now infiltrated the MAGA movement, and they're trying to dictate the terms like we didn't notice."
 
 **[00:03:29](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-02-58)**
-> "...o take a couple of days off, we get it." But the sign said, "Tucker Carlson (Tucker Carlson) is not MAGA." There's something about it that's so dorky. Sick burn. Tucker Carlson (Tucker Carlson) is not MAG..."
+> "But the sign said, "Tucker Carlson is not MAGA.""
 
 **[00:03:39](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-02-58)**
-> "...AGA." There's something about it that's so dorky. Sick burn. Tucker Carlson (Tucker Carlson) is not MAGA. And it sounds so inauthentic that you know it didn't come from anybody that was originally MAGA. T..."
+> "Tucker Carlson is not MAGA."
 
 **[00:03:41](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
-> "...ot MAGA. And it sounds so inauthentic that you know it didn't come from anybody that was originally MAGA. This is like when Homeboy—who was the guy?—Jussie Smollett (Jussie Smollett) went out and he was l..."
+> "And it sounds so inauthentic that you know it didn't come from anybody that was originally MAGA."
 
 **[00:03:46](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
-> "...was the guy?—Jussie Smollett (Jussie Smollett) went out and he was like, "They said to me, 'This is MAGA country.'" And we were like, nobody in MAGA says "this is MAGA country." No one in MAGA would say "..."
+> "This is like when Homeboy—who was the guy?—Jussie Smollett went out and he was like, "They said to me, 'This is MAGA country.'""
 
 **[00:03:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
-> "...t) went out and he was like, "They said to me, 'This is MAGA country.'" And we were like, nobody in MAGA says "this is MAGA country." No one in MAGA would say "Tucker Carlson (Tucker Carlson) is not MAGA...."
+> "And we were like, nobody in MAGA says "this is MAGA country.""
 
 **[00:03:57](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
-> "...e, 'This is MAGA country.'" And we were like, nobody in MAGA says "this is MAGA country." No one in MAGA would say "Tucker Carlson (Tucker Carlson) is not MAGA." It's just strange. It's a very strange thi..."
+> "No one in MAGA would say "Tucker Carlson is not MAGA.""
 
 **[00:04:24](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-04-24)**
-> "...ple spoke. Like he was the Spice Girls going back on stage. "Tucker Carlson (Tucker Carlson) is not MAGA." "You go, Randy Fine (Randy Fine)." And Randy Fine (Randy Fine) was getting them all fired up. And..."
+> ""Tucker Carlson is not MAGA.""
 
 **[00:05:18](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-04-45)**
-> "...ons. Randy Fine (clip): Friends, make no mistake. Randy Fine (clip): Tucker (Tucker Carlson) is not MAGA. It is so over for Tucker Carlson (Tucker Carlson). I mean, he must be shaking. I'm literally shaki..."
+> "Randy Fine (clip): Tucker (Tucker Carlson) is not MAGA."
 
 **[00:49:00](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-48-38)**
-> "...r-printed signs and do a dance in front of Randy Fine (Randy Fine). "Tucker (Tucker Carlson) is not MAGA." People can see which way the wind is blowing, and it's against Israel because everything they do ..."
+> ""Tucker (Tucker Carlson) is not MAGA.""
 
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (8 mentions)</summary>
 
-**[00:31:56](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26)**
+**[00:31:55](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-43)**
 > "...? Yes, he's doing that. This is a direct quote from that op-ed. He wrote, "This looks like a war on MAGA and the modern American right. If this looks like a war on MAGA and the modern American right, that..."
 
-**[00:32:01](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26)**
+**[00:32:01](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-43)**
 > "...He wrote, "This looks like a war on MAGA and the modern American right. If this looks like a war on MAGA and the modern American right, that's because that is exactly what it is. Carlson and his clan had ..."
 
-**[00:32:06](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-06)**
+**[00:32:06](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-43)**
 > "...of civilizational arson on the adult-brained left—but on the forces of civilizational sanity on the MAGA right. They hope to burn down MAGA and build a neo-pagan, anti-Western, anti-biblical movement in i..."
 
-**[00:32:18](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-06)**
+**[00:32:18](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-18)**
 > "...t-brained left—but on the forces of civilizational sanity on the MAGA right. They hope to burn down MAGA and build a neo-pagan, anti-Western, anti-biblical movement in its stead. The Fox is now comfortabl..."
 
-**[00:32:42](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-06)**
+**[00:32:36](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-18)**
 > "...cause you will notice this thing: that all of the people who are now saying that they represent the MAGA movement weren't in it. They are literally people that were the Never Trump movement in 2015. None of them—t..."
 
-**[00:32:55](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-49)**
+**[00:32:49](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-18)**
 > "...e the Never Trump movement in 2015. None of them—they're just like, they're like, we've infiltrated MAGA, and now we're gonna tell you how to turn it into the losing movements that we all represented. Her..."
 
-**[00:33:03](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-49)**
+**[00:33:01](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-33-01)**
 > "...e losing movements that we all represented. Here's how you do it: censorship, right? We infiltrated MAGA. We hated Trump (Donald Trump) forever. In fact, these people were all pro-DeSantis even when Trump..."
 
-**[00:33:14](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-32-49)**
+**[00:33:10](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-33-01)**
 > "...onna be re-elected—they're pretending that they support Trump (Donald Trump) and that they're super MAGA by demanding that MAGA cancels Tucker (Tucker Carlson), who is adored and loved by the MAGA base, o..."
 
 </details>
@@ -593,7 +597,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
 
-**[00:10:33](/episodes/ep-Qt0VHV-POCg.md#t-00-10-33)**
+**[00:10:33](/episodes/ep-Qt0VHV-POCg.md#ent-concept-maga-movement-t-00-10-33)**
 > "...wanting to ensure that he got elected, re-elected, midterm elections, hitting the ground, wearing a MAGA hat. We were everywhere. I was on fire for Trump, too. I really believed in Trump. I really believe..."
 
 </details>
@@ -601,7 +605,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
-**[00:14:21](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16)**
+**[00:14:21](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-maga-movement-t-00-14-16)**
 > "..., this, that—if he didn't abstain from politics after he notoriously went to the White House in the MAGA hat. And he needed to distance from us and, of course, Blexit, and he cracked. I mean, you guys rem..."
 
 </details>
@@ -668,8 +672,8 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:39:12](/episodes/ep-aDlhjfW6hz8.md#t-00-39-12)**
-> "...ake a listen to what Jimmy Kimmel said on his show. "We hit some new lows over the weekend with the MAGA gang desperately trying to characterize this kid who murdered Charlie Kirk as anything other than o..."
+**[00:39:12](/episodes/ep-aDlhjfW6hz8.md#ent-concept-maga-movement-t-00-39-12)**
+> ""We hit some new lows over the weekend with the MAGA gang desperately trying to characterize this kid who murdered Charlie Kirk as anything other than one of them and doing everything they can to score political points from it."
 
 </details>
 
@@ -683,23 +687,23 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > "...'s been more MAGA than ever.” One of the commenters pointed out, why would the dad suddenly be more MAGA than ever? Like, what happened recently? Like, we're in September. Like, what happened that someone..."
 
 **[00:48:10](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-55)**
-> "...ke, what happened that someone would commit themselves further to Donald Trump (Donald Trump)? More MAGA than ever. In fact, it's been kind of the opposite. People think we're occupied by Zionists. More M..."
+> "More MAGA than ever."
 
 **[00:48:18](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-55)**
-> "...A than ever. In fact, it's been kind of the opposite. People think we're occupied by Zionists. More MAGA people are going, like, it seems like Donald Trump (Donald Trump) has kind of given up on free spee..."
+> "More MAGA people are going, like, it seems like Donald Trump has kind of given up on free speech,"
 
 </details>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
 
-**[00:21:43](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38)**
+**[00:21:42](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-32)**
 > "... answering. He writes, "Since Trump (Donald Trump) got into office, my dad has been pretty die-hard MAGA." There's something here for everyone if you want to take the low-hanging fruit and think of this a..."
 
-**[00:22:01](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38)**
+**[00:21:59](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-32)**
 > "...ing is here." But if you're on the left that you need to blame the right— well, "Dad was a die-hard MAGA." It's like—it's so fed. You know, it's just so federally written. It's amazing. So chaos right her..."
 
-**[00:22:12](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38)**
+**[00:22:06](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-32)**
 > "... here. Anyways, I guess maybe if you're suicidal, that's what you said: "Dad's been pretty die-hard MAGA." And then we don't know again when these messages took place, but it all had to happen in these se..."
 
 </details>
@@ -707,18 +711,18 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:26:32](/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-26-08)**
+**[00:26:30](/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-26-08)**
 > "..., not answering." Robinson says, "Well, since Trump got into office, my dad has been pretty diehard MAGA. I'm gonna turn myself in willingly. One of my neighbors is here. He is a deputy for the sheriff." ..."
 
-**[00:27:36](/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-27-31)**
-> "...closely. Yeah. And it looks like they're cherry picking certain exchanges. So that "my dad is super MAGA" just comes out of nowhere, because they picked it from a totally different part of the conversatio..."
+**[00:27:31](/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-27-31)**
+> "And it looks like they're cherry picking certain exchanges. So that "my dad is super MAGA" just comes out of nowhere, because they picked it from a totally different part of the conversation."
 
 </details>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
 
-**[00:36:29](/episodes/ep-czVBmqZP6Ss.md#t-00-36-23)**
+**[00:36:29](/episodes/ep-czVBmqZP6Ss.md#ent-concept-maga-movement-t-00-36-23)**
 > "...ething's wrong. I know I shouldn't do this. I'm risking an awful lot to go up against this FBI, the MAGA FBI. Something's very wrong with what I just heard. I mean, I watched it. I was hoping that they ha..."
 
 </details>

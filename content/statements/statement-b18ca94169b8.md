@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:29:22](/episodes/ep-X92MllIHDzw.md#t-00-29-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1762);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1762s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > right that's where they go for their vices and now we're gonna have a 40 acre farm and we're not allowed to know where it is we're not allowed to know who's in there we're being told it's for their protection i don't feel great about that i don't feel great about that at all actually i think we need to revisit the topic of these child sex trafficking charities full stop full stop okay because i'm getting a sense i'm going to tell you this is my sense
 

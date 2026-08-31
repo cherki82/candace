@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (12 mentions)
+### Evidence (13 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
@@ -60,6 +60,10 @@ object: "person-candace-owens"
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
 - [00:34:02](/episodes/ep-ds6umq1rHAw#t-00-34-02): _Andrew (Andrew Kolvet) just told that lie and it was so crazy._
+
+**[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
+
+- [00:06:47](/episodes/ep-pc3pxRyNFZk#t-00-06-47): _the part that is now extraordinarily suspicious is that Andrew has claimed that he had a conversation with the surgeon_
 
 ### Related
 

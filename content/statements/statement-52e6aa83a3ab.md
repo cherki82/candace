@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:46:54](/episodes/ep-cZxHqYsWRYg.md#t-00-46-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2814);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Otherwise, we can confirm to you guys that despite Erika (Erika Kirk)'s hiatus, eight-month hiatus, according to her, she does make it to compete for Miss USA Colorado 2009, and she places third runner-up.
 

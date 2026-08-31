@@ -19,7 +19,7 @@ object: "person-dave-smith"
 
 **[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
 
-- [00:13:35](/episodes/ep-czVBmqZP6Ss#t-00-13-35): _how could Charlie allow Dave Smith, who by the way is Jewish, how could Charlie allow this other position to meet the stage?_
+- [00:13:30](/episodes/ep-czVBmqZP6Ss#t-00-13-30): _How could he allow Dave Smith, who by the way is Jewish, how could Charlie allow this other position to meet the stage?_
 
 ### Related
 

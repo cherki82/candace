@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2915);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2915s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's interesting. The TPUSA advisor, Paul E. Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aquino, a Satanist and founder of the Temple of Set.
 

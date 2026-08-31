@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA is involved in the Charlie Kirk assassinat..."
-description: "\"Turning Point USA is involved in the Charlie Kirk assassination at some layer or stage\" — Candace Owens"
+title: "Candace Owens said it was becoming clearer that, somehow, at..."
+description: "\"Candace Owens said it was becoming clearer that, somehow, at some layer or stage, Turning Point USA was involved in the Charlie Kirk assassination bec...\" — Candace Owens"
 statement_id: "statement-16edaa3ebdfe"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Turning Point USA is involved in the Charlie Kirk assassination at some layer or stage
+> Candace Owens said it was becoming clearer that, somehow, at some layer or stage, Turning Point USA was involved in the Charlie Kirk assassination because it was providing no clarity.
 
 ## Attribution
 
@@ -22,12 +22,13 @@ type: "accusation"
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:05:35](/episodes/ep-LATnak75Si0.md#t-00-04-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(335);return false;">Play</a>
+**Timestamp:** [00:05:35](/episodes/ep-LATnak75Si0.md#t-00-05-09) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Somehow, at some layer, at some stage, Turning Point USA is involved because they're giving us no clarity.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:53:20](/episodes/ep-5zgkrOaCCj4.md#t-00-52-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3200);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=3200s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I, with all of the evidence of Lance (Lance Twiggs) and his fingerprints everywhere where they say Tyler (Tyler Robinson)'s is, it doesn't make sense to me that he would suddenly get federal immunity even for a short period of time.
 

@@ -5,15 +5,23 @@ id: "org-fema"
 type: "ORG"
 aliases:
   - "Federal Emergency Management Agency"
+categories:
+  - "United States emergency management agency"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Federal Emergency Management Agency
 
+**Categories:** United States emergency management agency
+
+**Entity verification:** verified
+> FEMA official material confirms the Federal Emergency Management Agency name and FEMA abbreviation.
+Source: [Federal Emergency Management Agency (FEMA) | FEMA.gov](https://www.fema.gov/node/404557)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-02-01">2025-12-17 · 00:02:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-02-01">2025-12-17 · 00:02:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-01-58">2025-12-17 · 00:02:17</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-01-58">2025-12-17 · 00:02:25</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -24,15 +32,15 @@ _Type: Organizations_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-02-01">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-01-58">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-02-01" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-01-58" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-02-01) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-01-58) | 2 |
 
 </details>
 </section>
@@ -45,10 +53,10 @@ _Type: Organizations_
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-02-01)**
+**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-01-58)**
 > "We might even have to bring in FEMA"
 
-**[00:02:23](/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-02-01)**
+**[00:02:17](/episodes/ep-9k2xrAC0H88.md#ent-org-fema-t-00-01-58)**
 > "...e might even have to bring in FEMA."
 
 </details>

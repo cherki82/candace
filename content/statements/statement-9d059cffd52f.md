@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:52:34](/episodes/ep-i8m_6D4QGmk.md#t-00-52-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3154);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3154s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't really see that happening right now. I don't even see Trump doing that from his flagrant violations of free speech to freedom of religion, Trump recently firing Carrie Prejean Boller from the religious committee because Zionists didn't like her Catholic perspectives.
 

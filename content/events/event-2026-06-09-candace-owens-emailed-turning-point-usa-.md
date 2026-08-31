@@ -6,6 +6,11 @@ date: "2026-06-09"
 ---
 
 **Date:** 2026-06-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-06-09"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:15:39](/episodes/ep-tXoI0TTKVrs.md#event-event-2026-06-09-candace-owens-emailed-turning-point-usa--t-00-15-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(939);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=939s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yesterday I wrote just following up. As we saw the tweet response from Turning Point USA's X account

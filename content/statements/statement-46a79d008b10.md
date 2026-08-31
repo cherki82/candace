@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:08:03](/episodes/ep-FFQ9675oqRI.md#t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(483);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=483s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can hear Erika Kirk say, I just want to go home. Pray for her. Pray for her children. How much horror should one woman have to be exposed to? Absolutely horrific.
 

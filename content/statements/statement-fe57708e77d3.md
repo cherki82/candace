@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:37:25](/episodes/ep-wcD2khO3rOA.md#t-00-37-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2245);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These women should have been supported and provided with real options to keep and parent their children if that's what they wanted to do... But she says the godparent home shouldn't have ties to an adoption agency.
 

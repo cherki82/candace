@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:40:04](/episodes/ep-Wjul6YV6izo.md#t-00-39-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2404);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=2404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's what spiritual warfare is, ladies and gentlemen. And for people who are slandering Erika and others, including me, and making accusations and lies and stirring up confusion without evidence,
 

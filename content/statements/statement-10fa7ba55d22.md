@@ -27,8 +27,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:14:22](/episodes/ep-SKGUzGHymcI.md#t-00-14-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(862);return false;">Play</a>
+**Timestamp:** [00:14:22](/episodes/ep-SKGUzGHymcI.md#t-00-14-04) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=862s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If SUBTT has been doing this run for decades, it could not have been using a 2024 French finishing lease as its maintenance justification. In fact, your own timeline shows how they traveled to France before the deal was even made. It proves that the maintenance story is nothing but a cover.
 

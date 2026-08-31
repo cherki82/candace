@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:21:04](/episodes/ep-qZ8RWfyuewQ.md#t-00-20-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1264);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've never in my life actually been out in Greenwich, Connecticut.
 

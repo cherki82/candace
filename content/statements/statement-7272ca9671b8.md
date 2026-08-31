@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:36:56](/episodes/ep-ZIH5-V6UPkg.md#t-00-36-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2216);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2216s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I got to tell you, my inbox is getting pretty filled to the brim of people who are Jewish Americans, rabbis even who write me and say, you are right about Sabbateanism and Frankism and the Likud party is not at all, it's not a reflection.
 

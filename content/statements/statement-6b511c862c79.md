@@ -27,7 +27,7 @@ type: "promise"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:45:17](/episodes/ep-9naMwS0kMBE.md#t-00-45-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2717);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2717s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you give me a Christian. who pledges to be to place America's priorities first. You don't give me both of those. I'm not voting for you.
 

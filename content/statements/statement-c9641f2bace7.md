@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:44:42](/episodes/ep-wcD2khO3rOA.md#t-00-44-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2682);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2682s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His daddy, a man named Carey Hezekiah, was a drunk. And he was a bootlegger... his name was Garland and he shot him dead... he was also a smuggler and a trafficker. ... his employee stayed home sick one day, so Falwell got mad. He decided to catch the man's cat that he loved, and he killed the cat, then he cooked the cat, and then he delivered the remains of the cat. ... he also once threw a man into a bear cage after he had an argument with him
 

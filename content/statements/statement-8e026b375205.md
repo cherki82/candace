@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:03:19](/episodes/ep-AH1KVKkweUE.md#t-00-03-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(199);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=199s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turns out that the amazing Mikey McCoy, who was suddenly recording Charlie (Charlie Kirk)'s last moments in the weeks leading up as well, he recorded Charlie (Charlie Kirk) getting out of the car at the event that day, and he was sitting in that specific seat. ... So he opened his own car door, and that pocket was exposed as completely empty.
 

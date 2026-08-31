@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:20:55](/episodes/ep-I0OaY6Gryqk.md#t-00-20-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1255);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1255s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I do have a lot of uncomfort about America's relationship with Israel, the Israeli political leaders, that's what I mean. ... I just, I believe that that group is, it is, it just feels like a satanic regime. ... It doesn't seem, it feels like they just want to cause pain.
 

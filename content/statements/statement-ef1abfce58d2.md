@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:26:52](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1612);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1612s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It feels to me like all of these people know each other from another life and they sort of infiltrated Turning Point USA.
 

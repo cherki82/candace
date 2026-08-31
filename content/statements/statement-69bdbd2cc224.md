@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:10:01](/episodes/ep-OEAHy3SsIiI.md#t-00-09-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(601);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=601s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And you can see from behind me, this is a recreation of the tent where Charlie Kirk lost his life at Utah Valley University in September and people are taking selfies with it.
 

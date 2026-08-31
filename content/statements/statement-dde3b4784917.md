@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:41:28](/episodes/ep-19vHhjF7-NA.md#t-00-41-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2488);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2488s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These are the facts. This is the Khazarian Empire. they are reassembled that's what israel is they have never they are not jewish they are not the jews of the bible
 

@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:24:58](/episodes/ep-ZzAT2xijKGQ.md#t-00-24-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1498);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1498s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > With a very specific question pertaining to a modeling company that I recently discovered that she had some involvement with, 48 hours later, we have not yet heard back. ... i went out to her and i of course copied the spokesperson andrew colbat and i said you know what specifically were you doing at Next Model Management in new york city what's up what are you doing did you run into epstein like i just want to know like what what is your what is your relationship with faith (Faith Cates) how about that what give me the context of this crickets
 

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:00:14](/episodes/ep-AoYZel7_cGQ.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(14);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=14s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Do you believe that Tyler Robinson murdered your husband? Yes, I do.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:14:49](/episodes/ep-HGtMfbePDKk.md#t-00-14-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(889);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=889s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > believe that Tyler Robinson murdered your husband? ... Yes, I do.
 

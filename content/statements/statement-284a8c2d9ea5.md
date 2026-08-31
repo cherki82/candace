@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3008);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=3008s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was under the impression maybe you were too, that Erica (Erika Kirk) moved to Arizona after her parents divorced. ... That would put her in Arizona after 1998. ... her parents didn't divorce until she was 10. ... Erica (Erika Kirk) was in Cincinnati, ... Ohio for daycare in 1992. ... thereafter she moves to Arizona and she attends a school
 

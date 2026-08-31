@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:38:11](/episodes/ep-OEAHy3SsIiI.md#t-00-37-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2291);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2291s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Kirk on the 8th leaving the Candlewood Suites hotel on the base on Fort Huachuca. She was with somebody who looked similar to Cabot Phillips.
 

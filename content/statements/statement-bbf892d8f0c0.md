@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:08:27](/episodes/ep-SKGUzGHymcI.md#t-00-08-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(507);return false;">Play</a>
+**Timestamp:** [00:08:27](/episodes/ep-SKGUzGHymcI.md#t-00-07-52) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=507s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "that the plane and those vehicles are connected to 920 North King Street, which is at a place that is marketed also as one Rodney Square."
 

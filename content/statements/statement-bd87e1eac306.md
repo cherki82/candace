@@ -23,23 +23,13 @@ type: "factual_claim"
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Eric Bolling](/entities/person-eric-bolling.md) (person)
 
-## Appearances (2)
-
-### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:40:50](/episodes/ep-sreYYcID-QY.md#t-00-40-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > How could you say that I have not spoken at a Turning Point USA conference in years when I literally went on tour with Turning Point USA on college campuses last year?
-
-### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
-
-**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:40:55](/episodes/ep-sreYYcID-QY.md#t-00-40-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2455);return false;">Play</a>
-
-> How could you say that I have not spoken at a Turning Point USA conference in years when I literally went on tour with Turning Point USA on college campuses last year
 
 ## Verification
 

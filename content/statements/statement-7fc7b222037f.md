@@ -1,16 +1,16 @@
 ---
-title: "Eric Weinstein reached out to Candace Owens after the April ..."
-description: "\"Eric Weinstein reached out to Candace Owens after the April 2018 Kanye West tweet; Owens believes he only pretended to want friendship.\" — Candace Owens"
+title: "Owens accused Eric Weinstein of pretending he wanted to be h..."
+description: "\"Owens accused Eric Weinstein of pretending he wanted to be her friend after he reached out\" — Candace Owens"
 statement_id: "statement-7fc7b222037f"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Eric Weinstein reached out to Candace Owens after the April 2018 Kanye West tweet; Owens believes he only pretended to want friendship.
+> Owens accused Eric Weinstein of pretending he wanted to be her friend after he reached out
 
 ## Attribution
 
@@ -29,9 +29,9 @@ type: "factual_claim"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:12:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(722);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=722s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I tweeted back at Kanye, and I said, "Please take a meeting with us." ... Suddenly they get Eric Weinstein involved, and he reaches out and he pretends that he wants to be a friend to me. He's a bad person. I can tell you that right away, and I learned that very quickly. But at the time, Charlie and I
+> Suddenly they get Eric Weinstein involved, and he reaches out and he pretends that he wants to be a friend to me. He's a bad person. I can tell you that right away, and I learned that very quickly. But at the time, Charlie (Charlie Kirk) and I
 
 ## Verification
 
@@ -39,4 +39,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:10:42](/episodes/ep-GY6GWceEqtQ.md#t-00-10-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(642);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=642s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Since that letter turning point USA's executives have repeatedly made themselves available via phone, ... text and in-person meetings to provide information and documentation.
 

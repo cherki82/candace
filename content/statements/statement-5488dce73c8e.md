@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:09:17](/episodes/ep-k1b1NDCrNFs.md#t-00-08-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(557);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=557s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's another one. What did Brian Harpole have hidden on his person? Two things. One, the item in his front right pants pocket is what caused the audio interference. And the item under his shirt below his left armpit is what he squeezed discreetly at the moment that CK was hit. Holy smokes, But he squeezed discreetly at the moment that CK was hit.
 

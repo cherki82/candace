@@ -31,16 +31,16 @@ veracity: "mixed"
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(104);return false;">Play</a>
+**Timestamp:** [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-17) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=104s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was contracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right? ... And despite the fact that they were heading to Montana, they decided to make an unusual dip at 9:16 a.m. Again, this is in Utah time. ... They dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop.
 
 ### 2. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(104);return false;">Play</a>
+**Timestamp:** [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-17) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=104s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop.
 

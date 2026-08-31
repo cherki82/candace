@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(624);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=624s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's going to look to you like this tail number SU-BTU. is just flying around in circles in Cairo, I have been able to confirm that they are able to trick their transponders and they can leave the nation. So it is a fact. You're not going to be able to see some flight radar.
 

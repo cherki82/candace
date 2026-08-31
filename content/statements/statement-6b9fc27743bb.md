@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:43:54](/episodes/ep-Wjul6YV6izo.md#t-00-43-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2634);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=2634s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You guys are behaving like you're guilty and that you can spend it away to hide that.
 

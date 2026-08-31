@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:22:57](/episodes/ep-ZAsV0fHGBiM.md#t-00-22-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1377);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1377s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that would be news to her parents. ... Kent (Kenneth Frantzve) and Lori (Lori Frantzve), ... for whatever reason, think that Erica (Erika Kirk) was born two days later on November 22nd. We know this because of their divorce filings, which took place in 1998.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:03:01](/episodes/ep-cZxHqYsWRYg.md#t-00-02-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(181);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=181s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > An unnotarized child care agreement plus a different date for Erika (Erika Kirk)'s birthday than the one initially listed in the Cincinnati News, November 22nd, across four sets of documents. ... I'll have you know that Erika (Erika Kirk)'s birthday on all of them is November 22nd.
 

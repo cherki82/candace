@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:14:43](/episodes/ep-9naMwS0kMBE.md#t-00-14-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(883);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=883s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was the Buckley Air Force Base from the year 2000 to 2021. So there's a military presence here.
 

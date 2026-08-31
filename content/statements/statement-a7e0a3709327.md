@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:38:15](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was. OK. In April, he's transacting on behalf of the IDF. I mean, is there another way to interpret that?
 

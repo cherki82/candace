@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 551 mentions"
+description: "God (Concepts) - 564 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>105</strong></div>
-<div><span>Mentions</span><strong>551</strong></div>
+<div><span>Episodes</span><strong>108</strong></div>
+<div><span>Mentions</span><strong>564</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,16 +35,16 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32">Candace x Bassem Youssef | Candace Ep 298</a> (30 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16" style="--pulse-height:10%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 3 mentions" title="2025-09-15 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#t-00-40-20" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 6 mentions" title="2025-09-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-56-56" style="--pulse-height:27%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 8 mentions" title="2025-09-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-40-15" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 6 mentions" title="2025-09-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-56-47" style="--pulse-height:23%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 7 mentions" title="2025-09-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#t-00-55-05" style="--pulse-height:13%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#t-00-18-36" style="--pulse-height:13%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#t-00-45-23" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16" style="--pulse-height:20%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 6 mentions" title="2025-09-24 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#t-00-38-45" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-38-34" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#t-00-49-47" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#t-00-47-52" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-36-29" style="--pulse-height:13%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-36-14" style="--pulse-height:13%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#t-00-13-44" style="--pulse-height:27%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 8 mentions" title="2025-10-06 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#t-00-23-28" style="--pulse-height:27%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 8 mentions" title="2025-10-07 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-31-38" style="--pulse-height:27%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 8 mentions" title="2025-10-08 · 8 mentions"><span></span></a>
@@ -52,27 +52,30 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-c5BcKF91iec.md#t-00-24-51" style="--pulse-height:40%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 12 mentions" title="2025-10-27 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-52-11" style="--pulse-height:17%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#t-00-37-41" style="--pulse-height:17%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 5 mentions" title="2025-10-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#t-00-39-54" style="--pulse-height:17%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-39-54" style="--pulse-height:13%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#t-00-28-55" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#t-00-44-24" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#t-00-33-02" style="--pulse-height:13%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 4 mentions" title="2025-11-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#t-00-08-14" style="--pulse-height:30%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 9 mentions" title="2025-11-06 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#t-00-14-38" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-11-32" style="--pulse-height:17%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-50-06" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-50-14" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#t-00-44-34" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#t-00-06-46" style="--pulse-height:27%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#t-00-41-34" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#t-00-54-45" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#t-00-47-10" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-54-44" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#t-00-47-02" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#t-00-28-14" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-03-45" style="--pulse-height:10%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-11-12" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#t-01-04-06" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#t-00-27-39" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#t-00-42-17" style="--pulse-height:10%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-45-47" style="--pulse-height:20%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#t-00-17-49" style="--pulse-height:30%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 9 mentions" title="2025-12-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-45-35" style="--pulse-height:20%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11" style="--pulse-height:13%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#t-01-02-12" style="--pulse-height:10%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#t-00-48-04" style="--pulse-height:10%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-00-15-01" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#t-01-00-51" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#t-00-32-50" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
@@ -145,16 +148,16 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-57-16) | 3 |
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-40-20) | 6 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-56-56) | 8 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-40-15) | 6 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-56-47) | 7 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-55-05) | 4 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-18-36) | 4 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#t-00-45-23) | 2 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16) | 6 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-38-45) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-38-34) | 2 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#t-00-49-47) | 2 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-47-52) | 2 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-36-29) | 4 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-36-14) | 4 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#t-00-13-44) | 8 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-23-28) | 8 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-31-38) | 8 |
@@ -162,27 +165,30 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-24-51) | 12 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-52-11) | 5 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-37-41) | 5 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-39-54) | 5 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-39-54) | 4 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-28-55) | 10 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24) | 1 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) | 4 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14) | 9 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#t-00-14-38) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-11-32) | 5 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-50-06) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-50-14) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-44-34) | 2 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-06-46) | 8 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-41-34) | 1 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-54-45) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-47-10) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-54-44) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-47-02) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-28-14) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-03-45) | 3 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-11-12) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-01-04-06) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#t-00-27-39) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-17) | 3 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47) | 6 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#t-00-17-49) | 9 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-45-35) | 6 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11) | 4 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#t-01-02-12) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-48-04) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-00-51) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-32-50) | 3 |
@@ -256,7 +262,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (551)</strong></summary>
+<summary><strong class="section-title">Raw mentions (564)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -1744,9 +1750,37 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 </details>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:48:12](/episodes/ep-w1oqQbR_bYs.md#t-00-48-04)**
+> "Thank you for your trust and God bless America."
+
+**[00:54:20](/episodes/ep-w1oqQbR_bYs.md#t-00-54-18)**
+> "God is using you in a big way."
+
+**[01:00:18](/episodes/ep-w1oqQbR_bYs.md#t-00-59-53)**
+> "God bless and be safe."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
+
+**[01:02:22](/episodes/ep-es7PWdFGoFI.md#t-01-02-12)**
+> "I am praying that God keeps you strong, righteous, and faithful in ever..."
+
+**[01:04:00](/episodes/ep-es7PWdFGoFI.md#t-01-03-44)**
+> "...ling. Please, for the love of God, look into this."
+
+**[01:08:01](/episodes/ep-es7PWdFGoFI.md#t-01-07-49)**
+> "...truth, but please be careful. God bless you, Candace. Thank you."
+
+</details>
+
+<details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
 
-**[00:21:27](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11)**
+**[00:21:26](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11)**
 > "God bless you"
 
 **[00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)**
@@ -1763,23 +1797,55 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>
 
-**[00:46:12](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47)**
+**[00:46:12](/episodes/ep-6DhWawD4ZiM.md#t-00-45-35)**
 > "just thanking God, because they never thought their story was ever going to come out"
 
-**[00:46:23](/episodes/ep-6DhWawD4ZiM.md#t-00-46-23)**
+**[00:46:20](/episodes/ep-6DhWawD4ZiM.md#t-00-46-20)**
 > "...m and his wife, just thanking God, because they never thought their story was ever ..."
 
-**[00:46:38](/episodes/ep-6DhWawD4ZiM.md#t-00-46-23)**
+**[00:46:38](/episodes/ep-6DhWawD4ZiM.md#t-00-46-20)**
 > "...'s why I said there's so much God in this, because like he either has the best or w..."
 
-**[00:47:28](/episodes/ep-6DhWawD4ZiM.md#t-00-46-55)**
+**[00:47:26](/episodes/ep-6DhWawD4ZiM.md#t-00-46-55)**
 > "Please be safe and God bless."
 
-**[00:49:28](/episodes/ep-6DhWawD4ZiM.md#t-00-49-01)**
+**[00:49:28](/episodes/ep-6DhWawD4ZiM.md#t-00-49-23)**
 > "And I do believe that God put that man again."
 
-**[00:50:52](/episodes/ep-6DhWawD4ZiM.md#t-00-50-28)**
+**[00:50:52](/episodes/ep-6DhWawD4ZiM.md#t-00-50-46)**
 > "... thank you for your trust and God bless America."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (9 mentions)</summary>
+
+**[00:18:03](/episodes/ep-t4U7NjnUEgc.md#t-00-17-49)**
+> "...iers, again, this is just all God at this point, who happened to be wearing 10th Mo..."
+
+**[00:30:44](/episodes/ep-t4U7NjnUEgc.md#t-00-30-21)**
+> "... I just called you and I feel god moving in that and despite the"
+
+**[00:31:33](/episodes/ep-t4U7NjnUEgc.md#t-00-31-01)**
+> "I think that this is God operating. I really do. I think bless this man. T..."
+
+**[00:32:14](/episodes/ep-t4U7NjnUEgc.md#t-00-31-42)**
+> "...en so much more. I just thank God that I saw that email. We're going to pause there..."
+
+**[00:39:23](/episodes/ep-t4U7NjnUEgc.md#t-00-39-23)**
+> "...in Nashville, for the love of God, please send us an email, moretips.candiceowens.c..."
+
+**[00:52:55](/episodes/ep-t4U7NjnUEgc.md#t-00-52-30)**
+> "...t Turning Point USA who found God."
+
+**[00:53:08](/episodes/ep-t4U7NjnUEgc.md#t-00-53-08)**
+> "...er drugs, but then they found God."
+
+**[00:53:17](/episodes/ep-t4U7NjnUEgc.md#t-00-53-08)**
+> "...mebody saying that they found God, but Arizona is quite a place and I worry about w..."
+
+**[00:53:56](/episodes/ep-t4U7NjnUEgc.md#t-00-53-47)**
+> "... Coralia Montalvo writes, may God be with you and your family, Candace."
 
 </details>
 
@@ -1849,7 +1915,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:47:32](/episodes/ep-sImMM04XdWY.md#t-00-47-10)**
+**[00:47:32](/episodes/ep-sImMM04XdWY.md#t-00-47-02)**
 > "...rking in government that still have morals and are willing to leak information involving corruption—God bless you. Thank you for helping us get justice and not tormenting us." Carl writes: "Candace, than..."
 
 </details>
@@ -1857,7 +1923,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:55:01](/episodes/ep-SKGUzGHymcI.md#t-00-54-45)**
+**[00:55:01](/episodes/ep-SKGUzGHymcI.md#t-00-54-44)**
 > "...thing to know about the corruption, but when you finally know, know it, it sickens you to the core. God bless. Yeah. And we don't even... Like there's a lot more that many people are working on and we're..."
 
 </details>
@@ -1873,28 +1939,28 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
 
-**[00:07:04](/episodes/ep-7RLtGgkTh9o.md#t-00-06-46)**
+**[00:07:00](/episodes/ep-7RLtGgkTh9o.md#t-00-06-46)**
 > "...she's apart from her daughter, that she loves her daughter so much, and again, asking every day for God to give her strength and for her to continue to have hope. And her mom stated in her memoir, Throug..."
 
-**[00:08:42](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11)**
+**[00:08:40](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06)**
 > "... what we're describing here is effectively an infiltration. And instantly, Lou Taylor talking about God and prayers—that's a lot of what you start to see. And then when you look beneath that layer, you s..."
 
 **[00:08:47](/episodes/ep-7RLtGgkTh9o.md#t-00-08-47)**
-> "...n you look beneath that layer, you start to go, okay. You start to ask questions. Then suddenly the God people get upset, okay? What she's describing there is effectively an infiltration, but it's gonna ..."
+> "And then when you look beneath that layer, you start to go, okay. You start to ask questions. Then suddenly the God people get upset, okay?"
 
-**[00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13)**
+**[00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-11)**
 > "...to the church if they want to be blessed. I'm not kidding. 10% has to go to the church if they want God to bless them. This is why they should do this. And then also directing them to invest in other com..."
 
-**[00:24:10](/episodes/ep-7RLtGgkTh9o.md#t-00-23-52)**
+**[00:24:03](/episodes/ep-7RLtGgkTh9o.md#t-00-23-37)**
 > "... And the people who he was fighting owned his catalog. Actually in the news today—this is totally a God thing. I saw Paris Jackson was in the news today. She's lost in court, and she's still fighting ove..."
 
-**[00:52:46](/episodes/ep-7RLtGgkTh9o.md#t-00-52-23)**
+**[00:52:46](/episodes/ep-7RLtGgkTh9o.md#t-00-52-16)**
 > "...Beach, California?" "That is the epicenter of the Family International movement—AKA the Children of God." "Their practices are very familiar." "Also, the Brigitte jump scares keep sending me." We have no..."
 
-**[00:53:34](/episodes/ep-7RLtGgkTh9o.md#t-00-53-05)**
+**[00:53:34](/episodes/ep-7RLtGgkTh9o.md#t-00-53-00)**
 > "... (Candace Owens), for never giving up on the truth." "You are Charlie (Charlie Kirk)'s David." "May God bless you and keep you and your family safe." "I love you, sweet girl." "Christ is King." "Go, Max...."
 
-**[00:53:44](/episodes/ep-7RLtGgkTh9o.md#t-00-53-05)**
+**[00:53:44](/episodes/ep-7RLtGgkTh9o.md#t-00-53-44)**
 > "...uth Accountability writes, "Candace (Candace Owens)." "Remember, the devil is striking hard because God placed something powerful within you." "Thieves don't break into an empty house." I totally agree w..."
 
 </details>
@@ -1913,7 +1979,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:50:32](/episodes/ep-MUA9ebCF4Ow.md#t-00-50-06)**
+**[00:50:30](/episodes/ep-MUA9ebCF4Ow.md#t-00-50-14)**
 > "...ribution. SGT Socks, right? "Christ is king. I am so proud of you, Candace (Candace Owens) and Ian. God bless, and let Tucker (Tucker Carlson) know I'm carrying on Camel regulars, non-filtered." What's t..."
 
 </details>
@@ -1952,31 +2018,31 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (9 mentions)</summary>
 
-**[00:08:39](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14)**
+**[00:08:34](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14)**
 > "... because it was about grief, but because in the opening pages he talked about how angry he was with God. And I've never felt that. I'm not angry with God. Never have I. Never have I questioned, "Why, Lor..."
 
-**[00:08:52](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14)**
+**[00:08:49](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14)**
 > "...ening pages he talked about how angry he was with God. And I've never felt that. I'm not angry with God. Never have I. Never have I questioned, "Why, Lord, are you putting me through this?" "Why are you ..."
 
 **[00:09:04](/episodes/ep-vwG1juDCQZQ.md#t-00-08-58)**
 > "..., "Why, Lord, are you putting me through this?" "Why are you testing me?" "Why are you...?" Because God is so good and He's so sovereign. And I know He uses everything—everything—even what the enemy mean..."
 
-**[00:10:04](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23)**
+**[00:09:58](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23)**
 > "... And I have not even processed. I definitely, when I prayed about this, asked a ton of questions to God. And yeah, she is absolutely right in what she is saying. And she is delivering to us what the bibl..."
 
-**[00:56:19](/episodes/ep-vwG1juDCQZQ.md#t-00-55-48)**
+**[00:56:18](/episodes/ep-vwG1juDCQZQ.md#t-00-55-48)**
 > "...rd. I was like: "Girl, don't care at all. Do not care at all." We're in a new time. It literally is God time, okay? All of this stuff—and that's how she operates, by the way. She can treat you really evi..."
 
-**[01:03:41](/episodes/ep-vwG1juDCQZQ.md#t-01-03-27)**
+**[01:03:41](/episodes/ep-vwG1juDCQZQ.md#t-01-03-12)**
 > "...I don't know who I should be forgiving, I need to get there. She continues: "Everyone wrestles with God no matter how devoted they are to their faith. I hope the truth prevails. Christ is King." Maria wr..."
 
-**[01:03:56](/episodes/ep-vwG1juDCQZQ.md#t-01-03-27)**
+**[01:03:49](/episodes/ep-vwG1juDCQZQ.md#t-01-03-49)**
 > "...n your soul feels something is off, it's off." Facts. Yes: we are designed that way. Our gut is our God instinct. We're being lied to by a lot of people—and people that I feel like we shouldn't be lied t..."
 
-**[01:04:59](/episodes/ep-vwG1juDCQZQ.md#t-01-04-53)**
+**[01:04:59](/episodes/ep-vwG1juDCQZQ.md#t-01-04-31)**
 > "...in a line united, and there is like an army that's rising—and it feels to me like it is the army of God. I'd love to do work with Jimmy Dore. I have loved his videos, and he has made me laugh in his cove..."
 
-**[01:05:20](/episodes/ep-vwG1juDCQZQ.md#t-01-04-53)**
+**[01:05:20](/episodes/ep-vwG1juDCQZQ.md#t-01-05-16)**
 > "...t on my life. Today is my birthday, and it would mean so much if you said happy birthday. Love you. God bless." Happy birthday, Mina. I hope you have a fantastic day. Your birthday already has great vibe..."
 
 </details>
@@ -1984,16 +2050,16 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (4 mentions)</summary>
 
-**[00:33:22](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02)**
+**[00:33:19](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02)**
 > "...tically. There is no such thing as blood guilt. Therefore, collective punishment is always immoral. God created each person individually. He did not create communities at once—created people. And all of ..."
 
-**[00:45:27](/episodes/ep-Qfwr08Ebczo.md#t-00-45-19)**
+**[00:45:26](/episodes/ep-Qfwr08Ebczo.md#t-00-45-13)**
 > "... Lewis perspective. He writes about that in one of his books where they wanted to turn science into God. And as long as they say there's an expert—there's research, experts say that—people would fall int..."
 
-**[00:48:17](/episodes/ep-Qfwr08Ebczo.md#t-00-48-05)**
+**[00:48:15](/episodes/ep-Qfwr08Ebczo.md#t-00-47-58)**
 > "...rried. We just found out that I'm pregnant." Congratulations. "I'm nervous, but I know children are God's blessing. Do you have any advice for me as a young mother? Is it okay to be nervous?" My advice w..."
 
-**[00:48:26](/episodes/ep-Qfwr08Ebczo.md#t-00-48-05)**
+**[00:48:26](/episodes/ep-Qfwr08Ebczo.md#t-00-47-58)**
 > "...o do when you see the baby, and it will make you a better person because you will be so tapped into God's creation. You will realize that there is something more. It is one of the sins in the culture tha..."
 
 </details>
@@ -2042,21 +2108,18 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
 
-**[00:40:01](/episodes/ep-iHav0PPzUz8.md#t-00-39-54)**
+**[00:39:54](/episodes/ep-iHav0PPzUz8.md#t-00-39-54)**
 > "...could not stand your immorality. We could not stand your lies. And we could not possibly think that God's chosen people would allow it. God's chosen people don't lie. God's chosen people don't kill hundr..."
 
 **[00:40:03](/episodes/ep-iHav0PPzUz8.md#t-00-39-54)**
 > "...could not stand your lies. And we could not possibly think that God's chosen people would allow it. God's chosen people don't lie. God's chosen people don't kill hundreds of thousands of people and then ..."
 
-**[00:40:07](/episodes/ep-iHav0PPzUz8.md#t-00-39-54)**
-> "...we could not possibly think that God's chosen people would allow it. God's chosen people don't lie. God's chosen people don't kill hundreds of thousands of people and then try to tell you that they're th..."
-
-**[00:40:36](/episodes/ep-iHav0PPzUz8.md#t-00-40-36)**
+**[00:40:30](/episodes/ep-iHav0PPzUz8.md#t-00-40-30)**
 > "...these are their instructions—and manipulate people who are well-meaning and want to become close to God by telling them that they won't be saved unless they support this abomination in the Middle East. S..."
 
-**[00:58:09](/episodes/ep-iHav0PPzUz8.md#t-00-57-53)**
+**[00:58:04](/episodes/ep-iHav0PPzUz8.md#t-00-57-53)**
 > "...ace (Candace Owens) Jackson writes: just showing love and support for you, Candace (Candace Owens). God bless you in the work that you are doing. You are an amazing friend, an incredible truth teller and..."
 
 </details>
@@ -2097,7 +2160,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > "...your husband and kids a huge hug from all of us. They are the ones who support you every day. Thank God for them. They are amazing." And it is because of my family that I genuinely like—I know that I was..."
 
 **[01:08:59](/episodes/ep-Cq7nj9rxPdo.md#t-01-08-20)**
-> "... Gia writes, "Love you so much, Candace. Don't stop exposing these lies. You are a true friend. May God continue to bless you and your family. Love from Toronto." And that is all that we had today. You g..."
+> "May God continue to bless you and your family."
 
 </details>
 
@@ -2148,13 +2211,13 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 **[00:52:14](/episodes/ep-pc3pxRyNFZk.md#t-00-52-05)**
 > "...ommit that much evil in broad daylight and not think it's going to come back to haunt you. Anyways. God bless. May he get his Nobel Peace Prize. Sticking with that point, obviously I was looking to see w..."
 
-**[00:59:07](/episodes/ep-pc3pxRyNFZk.md#t-00-58-45)**
+**[00:59:03](/episodes/ep-pc3pxRyNFZk.md#t-00-58-44)**
 > "...the Quran about Jesus, who's speaking as a baby to defend Mary's honor." Said, "I am the servant of God. He has given me the scripture and made me a prophet, and he has made me blessed wherever I am. God..."
 
-**[00:59:23](/episodes/ep-pc3pxRyNFZk.md#t-00-58-45)**
+**[00:59:23](/episodes/ep-pc3pxRyNFZk.md#t-00-59-23)**
 > "...God. He has given me the scripture and made me a prophet, and he has made me blessed wherever I am. God is my Lord and your Lord, so worship him." I think all of us are realizing the tremendous need for ..."
 
-**[01:00:28](/episodes/ep-pc3pxRyNFZk.md#t-01-00-11)**
+**[01:00:28](/episodes/ep-pc3pxRyNFZk.md#t-00-59-56)**
 > "...dace Owens)." "It's people like you that are the hope for these two little girls in this picture." "God bless you and keep you safe, praying for you and your team with love from East Texas." Thank you so..."
 
 </details>
@@ -2162,28 +2225,28 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (8 mentions)</summary>
 
-**[00:32:15](/episodes/ep-2Riv3I7D0Yk.md#t-00-31-38)**
-> "...e jaw. "She was great. It was amazing by my book, right? He loved every second. He's amazing. Oh my God." He just wished he could have gone over the one thing that hurt Charlie (Charlie Kirk) the most: w..."
+**[00:32:10](/episodes/ep-2Riv3I7D0Yk.md#t-00-31-38)**
+> ""She was great. It was amazing by my book, right? He loved every second. He's amazing. Oh my God.""
 
-**[01:01:11](/episodes/ep-2Riv3I7D0Yk.md#t-01-00-29)**
+**[01:01:06](/episodes/ep-2Riv3I7D0Yk.md#t-01-00-29)**
 > "...the moment we got to the beach, she was like, 'It's like a desert out here.' And I was like, 'Oh my God. What if Jews have been exaggerating this entire fucking time? We got stuck in traffic on the way t..."
 
-**[01:06:45](/episodes/ep-2Riv3I7D0Yk.md#t-01-06-41)**
+**[01:06:45](/episodes/ep-2Riv3I7D0Yk.md#t-01-06-29)**
 > "...uch. It's such a sweet comment. Jose Cruz writes, "Candace (Candace Owens), I love you so much. May God bless you. Can you lightly? Please don't stop. A lot of love from Mexico." "I'm not associated with..."
 
-**[01:09:29](/episodes/ep-2Riv3I7D0Yk.md#t-01-09-29)**
+**[01:09:29](/episodes/ep-2Riv3I7D0Yk.md#t-01-09-05)**
 > "...now that we know now? Amazing work as always. Much love and support from Australia. And if anything—God forbid—happened to you, I promise we would all ride at dawn." Thank you. I know that you guys would..."
 
-**[01:11:18](/episodes/ep-2Riv3I7D0Yk.md#t-01-10-55)**
+**[01:11:18](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-10)**
 > "...ia for a couple of months—about three months—working on a wedding in Dubrovnik. Josie Ells writes, "God bless you. We are rooting for you from Australia." I hope you're rooting for me to get into Austral..."
 
-**[01:12:16](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-36)**
+**[01:12:12](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-56)**
 > "...eply regret. You're a brilliant, honest voice in a choir of crooks and liars. We don't deserve you. God bless." You know, Rachel, I'll apologize back because I was also partially blinded, and I thought t..."
 
-**[01:13:38](/episodes/ep-2Riv3I7D0Yk.md#t-01-13-38)**
+**[01:13:38](/episodes/ep-2Riv3I7D0Yk.md#t-01-13-25)**
 > "...ty to fight any strife that comes your way. Recite and memorize Psalms 91, 121, 23, and I guarantee God's angels will protect your footsteps, your family from these evildoers. They are protection scriptu..."
 
-**[01:13:52](/episodes/ep-2Riv3I7D0Yk.md#t-01-13-38)**
+**[01:13:52](/episodes/ep-2Riv3I7D0Yk.md#t-01-13-25)**
 > "...ures." Thank you so much for saying that, and we pray every day. We really do. But everything is in God's control. And we—I feel—are in a great period of revelation. And that is why we are also in a peri..."
 
 </details>
@@ -2192,7 +2255,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (8 mentions)</summary>
 
 **[00:23:53](/episodes/ep-5autG89PW6w.md#t-00-23-28)**
-> "...harlie (Charlie Kirk) never flinched on Israel, right? Charlie (Charlie Kirk) never flinched. Oh my God, these people like Gettys—they're lying. 48 hours before, Josh Hammer was on that text thread. And ..."
+> "Oh my God, these people like get this—they're lying."
 
 **[00:47:20](/episodes/ep-5autG89PW6w.md#t-00-47-02)**
 > "...ainst every constitutional principle that he lived, fought, and died for. Erika is in mourning. May God bless her and her family. Please give her and her family time to grieve. Any civilized culture—Chri..."
@@ -2213,7 +2276,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > "...for the truth for your friend." Amy writes: "Most Holy Theotokos, bless and protect the handmaid of God, Candace, and her family. Candace, so many of us in the Orthodox Christian community are praying fo..."
 
 **[01:03:20](/episodes/ep-5autG89PW6w.md#t-01-03-16)**
-> "...e question. And I'm glad to hear that Frank Turk shared that. Linda writes: "Girl, you made me cry. God bless you. I'm praying for you. Ave Maria." Thank you. John and Irina made me cry, so it's really t..."
+> "God bless you."
 
 </details>
 
@@ -2249,13 +2312,13 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
 
-**[00:36:49](/episodes/ep-t1YtLS1n8Vs.md#t-00-36-29)**
+**[00:36:49](/episodes/ep-t1YtLS1n8Vs.md#t-00-36-14)**
 > "...uicidal, and I'm one of the happiest and healthiest people that you will meet. I have full faith in God, and Jesus Christ is my Lord and Savior. As a sinner, I am only saved through His grace and mercy. ..."
 
-**[00:44:56](/episodes/ep-t1YtLS1n8Vs.md#t-00-44-21)**
+**[00:44:56](/episodes/ep-t1YtLS1n8Vs.md#t-00-44-32)**
 > "...ist after going down so many rabbit holes, ending at the same conclusion. Satan runs the world, but God wins in the end. Christ is King.” So well said, Bill Scott. Camille writes, “Homeschool your kids. ..."
 
-**[00:45:09](/episodes/ep-t1YtLS1n8Vs.md#t-00-45-06)**
+**[00:45:09](/episodes/ep-t1YtLS1n8Vs.md#t-00-44-32)**
 > "...ds. Two hours with you is greater than a day in a classroom. You can teach them how to learn. Thank God for my wife being determined to homeschool. Our two kids love it and have so much time to pursue th..."
 
 **[00:47:24](/episodes/ep-t1YtLS1n8Vs.md#t-00-47-10)**
@@ -2288,11 +2351,11 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:38:53](/episodes/ep-K5GjF53bfN4.md#t-00-38-45)**
+**[00:38:53](/episodes/ep-K5GjF53bfN4.md#t-00-38-34)**
 > "...ie (Charlie Kirk) and do everything that they can to turn the people against you through the media? God bless you." I just know that it's a ticking time bomb, right, before they're all exposed. And I thi..."
 
-**[00:41:06](/episodes/ep-K5GjF53bfN4.md#t-00-40-46)**
-> "...s, "Greetings from across the pond in Ireland, Candace (Candace Owens), and keep up the great work. God bless." Thank you, James (James Moran). Renee (Renee) writes, "Have you covered the Amazon listing ..."
+**[00:41:06](/episodes/ep-K5GjF53bfN4.md#t-00-40-43)**
+> "God bless." Thank you, James (James Moran)."
 
 </details>
 
@@ -2343,7 +2406,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > "... perverts run the world, and they are too powerful. The only person who can protect me from them is God. When I go to heaven, God bless everyone. Heaven will save us indeed." Rosa Marie Martinez writes: ..."
 
 **[00:57:01](/episodes/ep-ja26iltROkM.md#t-00-56-30)**
-> "...nd they are too powerful. The only person who can protect me from them is God. When I go to heaven, God bless everyone. Heaven will save us indeed." Rosa Marie Martinez writes: "On The Charlie Kirk (Char..."
+> "When I go to heaven, God bless everyone."
 
 </details>
 
@@ -2354,41 +2417,38 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > "...own. Jasmine writes, "Get justice for our brother in Christ. We are with you, and we are listening. God is with you and your family. Keep going." Jasmine, these donations are huge. I've never had donatio..."
 
 **[00:56:09](/episodes/ep-sreYYcID-QY.md#t-00-55-46)**
-> "...Candace Owens)." Thank you. It's just me, free Palestine, and the U.S. I agree. Amy Surley writes, "God bless you and keep up the search for truth." Martin, did you see the book about Charlie Kirk's assa..."
+> "Amy Surley writes, "God bless you and keep up the search for truth.""
 
 **[00:56:17](/episodes/ep-sreYYcID-QY.md#t-00-55-46)**
 > "... on Amazon that was available the day before it happened? Praying for you and your family's safety. God bless you. Christ is King. Amazon issued a response—apparently; this is my producer's note—blaming ..."
 
 **[00:58:36](/episodes/ep-sreYYcID-QY.md#t-00-57-57)**
-> "...you are divinely protected. Even more so after this horrifying loss. Charlie Kirk is smiling beside God's throne of grace." He is. You are wrapped in their protection, wisdom, and triumph. You inspire my..."
+> "Even more so after this horrifying loss. Charlie (Charlie Kirk) is smiling beside God's throne of grace.""
 
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (8 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (7 mentions)</summary>
 
-**[00:57:16](/episodes/ep-2WEHTk0Xewg.md#t-00-56-56)**
+**[00:57:16](/episodes/ep-2WEHTk0Xewg.md#t-00-56-47)**
 > "... he was to her. He would never have treated Candace (Candace Owens) or her family in such a way had—God forbid—this tragedy been hers. A friend loves at all times," and he drops a biblical proverb. Now, ..."
 
-**[01:03:01](/episodes/ep-2WEHTk0Xewg.md#t-01-03-01)**
+**[01:02:59](/episodes/ep-2WEHTk0Xewg.md#t-01-02-54)**
 > "... in the maroon. Caitlin writes: "Candace (Candace Owens), you're a force to be reckoned with. Thank God Charlie (Charlie Kirk) has you on his side. God bless Charlie (Charlie Kirk) and his family. God bl..."
 
-**[01:03:03](/episodes/ep-2WEHTk0Xewg.md#t-01-03-01)**
+**[01:03:03](/episodes/ep-2WEHTk0Xewg.md#t-01-02-54)**
 > "...e Owens), you're a force to be reckoned with. Thank God Charlie (Charlie Kirk) has you on his side. God bless Charlie (Charlie Kirk) and his family. God bless you, Candace (Candace Owens), and your famil..."
 
-**[01:03:04](/episodes/ep-2WEHTk0Xewg.md#t-01-03-01)**
-> "...nk God Charlie (Charlie Kirk) has you on his side. God bless Charlie (Charlie Kirk) and his family. God bless you, Candace (Candace Owens), and your family. God bless America. Keep Charlie (Charlie Kirk)..."
-
-**[01:03:06](/episodes/ep-2WEHTk0Xewg.md#t-01-03-01)**
+**[01:03:07](/episodes/ep-2WEHTk0Xewg.md#t-01-02-54)**
 > "...ess Charlie (Charlie Kirk) and his family. God bless you, Candace (Candace Owens), and your family. God bless America. Keep Charlie (Charlie Kirk)'s legacy alive." I know that Charlie (Charlie Kirk) made..."
 
-**[01:04:46](/episodes/ep-2WEHTk0Xewg.md#t-01-04-30)**
+**[01:04:44](/episodes/ep-2WEHTk0Xewg.md#t-01-04-09)**
 > "...ave taught me a lot. I think it's amazing what you are continuing to do for Charlie (Charlie Kirk). God bless you, and God bless Charlie (Charlie Kirk)." Love and prayers from Scotland. Also, thank you g..."
 
-**[01:07:09](/episodes/ep-2WEHTk0Xewg.md#t-01-06-45)**
+**[01:07:07](/episodes/ep-2WEHTk0Xewg.md#t-01-06-59)**
 > ".... JJ Bullard writes: "If you declare with your mouth 'Jesus is Lord' and believe in your heart that God raised him from the dead, you will be saved." Amen. Alan Paulson writes: "Thank God for you, Candac..."
 
-**[01:07:18](/episodes/ep-2WEHTk0Xewg.md#t-01-06-45)**
+**[01:07:18](/episodes/ep-2WEHTk0Xewg.md#t-01-06-59)**
 > "...your heart that God raised him from the dead, you will be saved." Amen. Alan Paulson writes: "Thank God for you, Candace (Candace Owens). I really am grateful for your shining a light on this federal cor..."
 
 </details>
@@ -2396,22 +2456,22 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (6 mentions)</summary>
 
-**[00:40:32](/episodes/ep-q7f8r-THr84.md#t-00-40-20)**
+**[00:40:32](/episodes/ep-q7f8r-THr84.md#t-00-40-15)**
 > "...under control, because they know I'm telling the truth, okay? Frantic calls from Seth Dillon, oh my God. The truth is that Charlie (Charlie Kirk) was under immense pressure and he was facing financial th..."
 
-**[01:03:33](/episodes/ep-q7f8r-THr84.md#t-01-03-19)**
+**[01:03:33](/episodes/ep-q7f8r-THr84.md#t-01-02-59)**
 > "...e monetized her video," something along those lines, like talking about yesterday's episode. "Oh my God, how can she read ads?" Oh, are you the same Bill Ackman that made an absurd amount of money while ..."
 
-**[01:07:43](/episodes/ep-q7f8r-THr84.md#t-01-07-33)**
+**[01:07:43](/episodes/ep-q7f8r-THr84.md#t-01-07-05)**
 > "...emee Skincare is one such company. They have always been unapologetic about their values. They love God, they love family, and they love country. Their products are made here in the USA, and they are com..."
 
 **[01:13:35](/episodes/ep-q7f8r-THr84.md#t-01-13-16)**
 > "...hain is telling me we need a little bit more about that text chain. Stephen Carrington writes, "May God and Jesus forever have your back." Thank you so much, Stephen. Bible with Bell writes, "Don't belie..."
 
-**[01:15:03](/episodes/ep-q7f8r-THr84.md#t-01-14-37)**
+**[01:14:56](/episodes/ep-q7f8r-THr84.md#t-01-14-37)**
 > "... of courage and unwavering truth by making him a saint. His sacrifice deserves eternal recognition. God bless you always, Candace (Candace Owens)." Well, the decision is not up to me, obviously. And what..."
 
-**[01:16:22](/episodes/ep-q7f8r-THr84.md#t-01-15-59)**
+**[01:16:18](/episodes/ep-q7f8r-THr84.md#t-01-15-59)**
 > "...writes, "Love you, Candace (Candace Owens), from Saudi Arabia. Thank you. You are my spirit animal. God bless you and keep you safe and your family. Thank you for being the source of sanity. You are abso..."
 
 </details>
@@ -2420,10 +2480,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
 
 **[00:57:42](/episodes/ep-czVBmqZP6Ss.md#t-00-57-16)**
-> "...ve and to carry forward the values that Charlie (Charlie Kirk) fought for every single day: love of God, love of family, and love of country. Neemee Skincare reached out to me because they want to encour..."
+> "love of God, love of family, and love of country."
 
 **[00:59:44](/episodes/ep-czVBmqZP6Ss.md#t-00-59-19)**
-> "...let me know she is Charlie (Charlie Kirk)’s wife, Erika. She made me feel welcome when I was alone. God be with the Kirks. If there was anything that could rile Charlie (Charlie Kirk) up, it's questionin..."
+> "God be with the Kirks."
 
 **[01:04:27](/episodes/ep-czVBmqZP6Ss.md#t-01-04-18)**
 > "...the throat. So that's why I like to say that. Amanda Moore writes, “Contributing for the fight. May God protect you and your family. By the way, these are really big donations that are coming in right no..."
@@ -2477,7 +2537,7 @@ _No relationships extracted yet._
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1)</summary>
 
-- [00:33:11](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) (Opinion) **Tucker Carlson**: ["Virtue and sin are not transmitted genetically, there is no such thing..."](/statements/statement-964024e18cdb.md)
+- [00:33:11](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) (Opinion) **Tucker Carlson** (via quoted speech): ["Virtue and sin are not transmitted genetically, there is no such thing..."](/statements/statement-964024e18cdb.md)
 
 </details>
 

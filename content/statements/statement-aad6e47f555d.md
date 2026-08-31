@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:07:35](/episodes/ep-jsqUIkszZd0.md#t-00-07-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(455);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=455s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He also claims his 20-year-old son was at one point Charlie Kirk's assistant, who, quote, spent much time with Erika (Erika Kirk) and their first baby girl.
 

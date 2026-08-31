@@ -1,26 +1,28 @@
 ---
 title: "Paul Havsgaard"
-description: "Paul Havsgaard (People) - 4 mentions"
+description: "Paul Havsgaard (People) - 5 mentions"
 id: "person-paul-havsgaard"
 type: "PERSON"
 categories:
   - "Harvest Christian Fellowship lawsuit"
   - "missionary"
+  - "former megachurch pastor"
+  - "Romania child-abuse litigation"
 ---
 
 _Type: People_
 
-**Categories:** Harvest Christian Fellowship lawsuit, missionary
+**Categories:** Harvest Christian Fellowship lawsuit, missionary, former megachurch pastor, Romania child-abuse litigation
 
 **Entity verification:** verified
-> Associated Press reporting and the federal complaints identify the former Harvest Christian Fellowship pastor and missionary as Paul Havsgaard.
+> AP reporting confirms canonical spelling Paul Havsgaard and the former pastor/missionary context; allegations are described as allegations, not established facts. The transcript spelling Hagsegard is ASR error.
 Source: [Lawsuits accuse former California megachurch pastor of child sex abuse in Bucharest | AP](https://apnews.com/article/f1a8c9e20021387e387ec4240a330f83)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28">2026-01-13 · 00:33:46</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-26-57">2025-11-10 · 00:27:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-paul-havsgaard-t-00-40-58">2026-06-09 · 00:40:58</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -31,6 +33,7 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-26-57" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-paul-havsgaard-t-00-14-50" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-paul-havsgaard-t-00-40-58" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
@@ -39,6 +42,7 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-26-57) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-paul-havsgaard-t-00-14-50) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-paul-havsgaard-t-00-40-58) | 1 |
@@ -49,7 +53,7 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -75,6 +79,14 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 
 **[00:35:05](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-34-40)**
 > "What Paul Havsgaard is being alleged to have done."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+
+**[00:27:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-26-57)**
+> "And that former megachurch pastor—I'm going to give you his name here—Paul Hagsegard, right?"
 
 </details>
 

@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:17:04](/episodes/ep-7ERqbYElOfs.md#t-00-17-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1024);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1024s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that Tyler Robinson murdered your husband? ... Yes, I do.
 

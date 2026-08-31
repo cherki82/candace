@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 66 mentions"
+description: "Shawn Ryan (People) - 67 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -21,13 +21,13 @@ _Type: People_
 Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50">2025-11-05 · 00:23:08</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41">2025-11-05 · 00:23:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-22-24">2026-08-19 · 00:22:45</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,13 +35,14 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51">BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50" style="--pulse-height:30%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41" style="--pulse-height:30%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-shawn-ryan-t-00-54-31" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#t-00-24-10" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-23-45" style="--pulse-height:10%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-shawn-ryan-t-00-33-15" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54" style="--pulse-height:30%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-shawn-ryan-t-00-15-06" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-14" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-shawn-ryan-t-00-09-30" style="--pulse-height:10%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
@@ -69,13 +70,14 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50) | 3 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41) | 3 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-shawn-ryan-t-00-54-31) | 2 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-24-10) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-23-45) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-shawn-ryan-t-00-33-15) | 1 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01) | 5 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54) | 3 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-shawn-ryan-t-00-15-06) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-14) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-shawn-ryan-t-00-09-30) | 1 |
@@ -105,7 +107,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -365,16 +367,24 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:41:17](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54)**
-> "Brian Harpole, when he sits down with Sean Ryan"
-
-**[00:41:04](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54)**
-> "...rpole, when he sits down with Sean Ryan, tells us that they began preparations"
+**[00:41:03](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54)**
+> "Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event."
 
 **[00:41:43](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-41-35)**
-> "...n Harpole in his own words on Sean Ryan."
+> "Take a listen to Brian Harpole in his own words on Shawn Ryan."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+
+**[00:15:13](/episodes/ep-es7PWdFGoFI.md#ent-person-shawn-ryan-t-00-15-06)**
+> "...e), this interview with Sean (Shawn Ryan)."
+
+**[00:15:26](/episodes/ep-es7PWdFGoFI.md#ent-person-shawn-ryan-t-00-15-06)**
+> "...no idea he was going on Sean (Shawn Ryan). I think that's pretty clear. I don't believe he..."
 
 </details>
 
@@ -392,16 +402,16 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 **[00:00:01](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01)**
 > "...ffiliates are really reaching a fever pitch because we can confirm that Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day. And I'm going to explain to y..."
 
-**[00:32:35](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-31-59)**
+**[00:32:35](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-32-04)**
 > "...longer, and these misrepresentations are, of course, lies. So Brian Harpole obviously sat down with Sean Ryan, and he tried to explain how things went wrong and how it wasn't fair and woe is them—millions of d..."
 
-**[00:33:24](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-33-24)**
+**[00:33:24](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-33-17)**
 > "...ak. And now we are certain. So foremost, jog your memory of what he said—what Brian Harpole said to Sean Ryan. He describes a communication that—and he says it in a very odd way. I can tell you right now, the ..."
 
-**[00:36:52](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-36-51)**
+**[00:36:52](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-36-34)**
 > "... what it was pertaining to—or he should have showed more, but he couldn't show more. And, you know, Sean Ryan got played. He did. And he should be upset that he got played because they're basically using him t..."
 
-**[00:39:53](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-39-41)**
+**[00:39:53](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-39-36)**
 > "...d been fired from Turning Point USA? Was this actually just a propagandist mission to sit down with Sean Ryan and to lie and misrepresent? Everybody's instincts were correct about that interview. We are still ..."
 
 </details>
@@ -410,18 +420,15 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
 **[00:33:30](/episodes/ep-SKGUzGHymcI.md#ent-person-shawn-ryan-t-00-33-15)**
-> "...r ducks in a row. By the way, elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie Kirk) ate 3,000 pounds of energy ..."
+> "By the way, elsewhere in that interview with Brian (Brian Harpole), the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie Kirk) ate 3,000 pounds of energy coming at him."
 
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:24:10](/episodes/ep-581dILVcEE4.md#t-00-24-10)**
-> "...an interview that he did with Shawn Ryan."
-
-**[00:24:58](/episodes/ep-581dILVcEE4.md#t-00-24-53)**
-> "Shawn Ryan interviews Brian Harpole about security"
+**[00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45)**
+> "First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan."
 
 </details>
 
@@ -439,13 +446,13 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
 
-**[00:23:08](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50)**
+**[00:23:01](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41)**
 > "...content, looking for ways to go after her character. And they came across a clip of her speaking to Sean Ryan last year. Now, before I give you the context of this clip, I want you to listen to it because it w..."
 
-**[00:23:39](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50)**
-> "...me about it. Here's another tweet. Here is the clip they are referring to. (Clip of Brett Cooper on Sean Ryan Show) We did all sorts of things. My mom visited mediums. Right after—I haven't done that, and I ki..."
+**[00:23:34](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41)**
+> "I don't care how hard people want to gaslight me about it. Here's another tweet. Here is the clip they are referring to. (Clip of Brett Cooper on Sean Ryan Show)"
 
-**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50)**
+**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41)**
 > "...ing and moving conversations I've ever seen Brett Cooper have. It's a very powerful episode of "The Sean Ryan Show" because she tells her backstory, and you realize how much substance she has and the things th..."
 
 </details>
@@ -471,11 +478,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <summary>Interviewed (3)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Yesterday we talked about Brian, the security guy who was not convincing at all... elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:33:30](/episodes/ep-SKGUzGHymcI.md#t-00-33-15): “By the way, elsewhere in that interview with Brian (Brian Harpole), the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie Kirk) ate 3,000 pounds of energy coming at him.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:10](/episodes/ep-69A8TzAGHlU.md#t-00-18-57): “you're saying you went on you went on Sean Ryan because of things that I was saying and that's what I was saying Again, it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing, which is he's suing me for saying that that interview was unconvincing, which made me feel weird and take a second look.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
@@ -483,6 +490,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34): “his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:05:10](/episodes/ep-9CuC1yf8-PU.md#t-00-04-55): “Brian Harpole, who joined Sean Ryan for a car crash of an interview”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:57:13](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50): “Yes, Brian (Brian Harpole) briefly discussed in that Sean Ryan interview how they caught a police tail”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 
 </details>
 
@@ -505,7 +515,19 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Spoke With (1)</summary>
+
+- **[Brett Cooper](/entities/person-brett-cooper.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:23:01](/episodes/ep-LATnak75Si0.md#t-00-22-41): “They began pouring through all of Brett's old content, looking for ways to go after her character. And they came across a clip of her speaking to Sean Ryan last year.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -515,7 +537,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -526,6 +548,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34): “his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:05:10](/episodes/ep-9CuC1yf8-PU.md#t-00-04-55): “Brian Harpole, who joined Sean Ryan for a car crash of an interview”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:57:13](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50): “Yes, Brian (Brian Harpole) briefly discussed in that Sean Ryan interview how they caught a police tail”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 
 </details>
 
@@ -545,12 +570,27 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 </details>
 
+- **[Brett Cooper](/entities/person-brett-cooper.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:23:01](/episodes/ep-LATnak75Si0.md#t-00-22-41): “They began pouring through all of Brett's old content, looking for ways to go after her character. And they came across a clip of her speaking to Sean Ryan last year.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Shawn Ryan (2)</strong></summary>
+<summary><strong class="section-title">Statements about Shawn Ryan (4)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
+
+- [00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Shawn Ryan in an interview"](/statements/statement-bf4a6840e928.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2)</summary>
@@ -560,6 +600,14 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 - [00:05:19](/episodes/ep-VMNWMXX1vO8.md#t-00-04-52) (Claim) **Anonymous Source #1 (Ep VMNWMXX1vO8)** (via paraphrase): ["Brian Harpole offered Shawn Ryan the bag bearing Charlie Kirk's blood ..."](/statements/statement-84fc47484bfd.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:33:37](/episodes/ep-sImMM04XdWY.md#t-00-33-17) (Claim) **Candace Owens**: ["Candace Owens said Brian Harpole presented a text exchange between Dan..."](/statements/statement-d3fed1ca5537.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md)
 
 </details>
 

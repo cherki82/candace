@@ -1,6 +1,6 @@
 ---
 title: "Anthony Fauci"
-description: "Anthony Fauci (People) - 8 mentions"
+description: "Anthony Fauci (People) - 7 mentions"
 id: "person-anthony-fauci"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ _Type: People_
 Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/anthony-s-fauci-md-bio)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-48">2025-10-30 · 00:22:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-55">2025-10-30 · 00:22:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-anthony-fauci-t-00-07-33">2026-05-18 · 00:07:55</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,9 +35,9 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-48">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-anthony-fauci-t-01-01-02">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-48" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-55" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-anthony-fauci-t-01-01-02" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-anthony-fauci-t-00-13-24" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-anthony-fauci-t-00-06-20" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-48) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-55) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-anthony-fauci-t-01-01-02) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-anthony-fauci-t-00-13-24) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-anthony-fauci-t-00-06-20) | 1 |
@@ -59,7 +59,7 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
@@ -100,12 +100,9 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:22:22](/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-48)**
-> "...ie has really turned into Dr. Fauci."
-
-**[00:22:25](/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-22-25)**
+**[00:22:20](/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-55)**
 > "This is like Dr. Kash Patel Fauci here, who's telling us that to look any further w..."
 
 </details>

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2982);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=2982s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that's how you know they're not a part of the government because the government always protects their own. They protected Jeffrey Epstein. If Andrew Tate and Tristan Tate were working for the government trafficking, they would be protected.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:11:22](/episodes/ep-Ux1kzgQxkws.md#t-01-11-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4282);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4282s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He didn't greenlight. To turn Gaza into a Trump golf course with the maitre d' being Jared Kushner with $4 billion in Saudi money.
 

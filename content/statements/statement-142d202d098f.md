@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:15:08](/episodes/ep-ZGxnf5cj4Uw.md#t-00-14-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(908);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=908s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, the family believes that—and this is really interesting—Tyler Robinson's apartment was staged after his arrest. Now, you will recall that I spoke to Lance's family.
 

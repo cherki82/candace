@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2932);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=2932s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so I message Brian Harpole and I'm like hey like I'm gonna have this guy Mitch (Mitch Snow) on but like we could I could also like if you want to debunk it I'm happy to do ... he doesn't answer ... I messaged him four times.
 

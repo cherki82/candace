@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:20:39](/episodes/ep-5-HUyv9LyMg.md#t-00-20-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1239);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=1239s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Berg (David Berg) claimed that incest and sex involving minors were permitted, and thus soon a series of cases appeared of mothers and fathers becoming sexually intimate with their sons and daughters, and even of young children committing sexual acts with other children or with adult members
 

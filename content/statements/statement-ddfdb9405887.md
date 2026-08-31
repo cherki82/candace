@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1501);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1501s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another. It's where the elite Mormon youth are introduced to also the Knesset, okay? ... where many of them are then approached in Jerusalem, Israel by their teachers who I should mention the director of the program is Israeli to work for the CIA.
 

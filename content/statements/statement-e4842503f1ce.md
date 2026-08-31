@@ -1,6 +1,6 @@
 ---
-title: "Charlie denied that funding."
-description: "\"Charlie denied that funding.\" — Candace Owens"
+title: "Owens said she knew for a fact that Charlie Kirk declined th..."
+description: "\"Owens said she knew for a fact that Charlie Kirk declined the offered funding\" — Candace Owens"
 statement_id: "statement-e4842503f1ce"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie denied that funding.
+> Owens said she knew for a fact that Charlie Kirk declined the offered funding
 
 ## Attribution
 
@@ -19,13 +19,17 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:17:45](/episodes/ep-czVBmqZP6Ss.md#t-00-17-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1065);return false;">Play</a>
+**Timestamp:** [00:17:40](/episodes/ep-czVBmqZP6Ss.md#t-00-17-05) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1060s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And I know for a fact that Charlie denied that funding
+> And I know for a fact that Charlie denied that funding.
 
 ## Verification
 

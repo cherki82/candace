@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:16:11](/episodes/ep-mKXdKV-OBog.md#t-00-15-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(971);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=971s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > person down—very strange. They didn't want to be involved and sent it through three people to release onto the internet. And then it
 

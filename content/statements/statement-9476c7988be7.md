@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:25:33](/episodes/ep-7FS1tUeSfdE.md#t-00-25-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1533);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=1533s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Justin Streiff, how can you fulfill both roles? Could it be a conflict of interest? ... I think it could be a conflict of interest.
 

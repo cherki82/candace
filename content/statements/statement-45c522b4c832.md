@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:20:10](/episodes/ep-wcD2khO3rOA.md#t-01-19-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4810);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4810s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Paul E. Vallely... retired army intel officer. He co-wrote the book Mind War with Michael Aquino, who was an army intel psychological operations officer... Paul Vallely is also on the advisory board of Turning Point USA.
 

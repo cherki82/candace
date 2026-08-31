@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -35,7 +35,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1533);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1533s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy. ... In order to protect Trump's bully campaign manager, Corey Lewandowski, who allegedly assaulted Michelle (Michelle Fields).
 

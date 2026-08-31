@@ -30,9 +30,9 @@ veracity: "true"
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:41:10](/episodes/ep-UBkFkg4UNY8.md#t-00-41-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2470);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=2470s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> That was because, even in the shock, there was an understanding that the proximity of those cameras were, A, going to be evidence, and they wanted to make sure they didn't get stolen out of the cameras.
+> That was because, even in the shock, there was an understanding that the proximity of those cameras were, A, going to be evidence, and they wanted to make sure they didn't get stolen out of the cameras. ... And they grabbed the SD card so that nobody could get that, ... so that law enforcement could get it.
 
 ## Verification
 

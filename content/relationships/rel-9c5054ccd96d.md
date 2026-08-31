@@ -19,7 +19,7 @@ object: "gpe-fort-huachuca"
 
 **[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
 
-- [00:12:29](/episodes/ep-ewBzjVe3LNQ#t-00-12-29): _Fort Huachuca in Arizona is, okay? It is a hub for intelligence training._
+- [00:12:13](/episodes/ep-ewBzjVe3LNQ#t-00-12-13): _But that is not what Fort Huachuca in Arizona is, okay? It is a hub for intelligence training._
 
 ### Related
 

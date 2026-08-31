@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [01:08:45](/episodes/ep-I0OaY6Gryqk.md#t-01-08-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4125);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=4125s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 'Bless us, or you won't be blessed,' which is that quiet threat—which is them interpreting the verse as, 'Oh, you know why Charlie (Charlie Kirk) wasn't blessed? He didn't stop blessing Israel.' It's like, did you murder him, man? I feel like when you're saying that verse, you might have murdered Charlie Kirk. That's how it feels. He stopped being blessed because he didn't bless Israel. We kind of all think you killed him.
 

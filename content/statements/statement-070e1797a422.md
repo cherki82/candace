@@ -1,6 +1,6 @@
 ---
-title: "People that are under 30 are anti-Israel"
-description: "\"People that are under 30 are anti-Israel\" — Candace Owens"
+title: "As Megyn Kelly said, people under 30 are anti-Israel"
+description: "\"As Megyn Kelly said, people under 30 are anti-Israel\" — Candace Owens"
 statement_id: "statement-070e1797a422"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,20 +10,24 @@ type: "factual_claim"
 
 ## Statement
 
-> People that are under 30 are anti-Israel
+> As Megyn Kelly said, people under 30 are anti-Israel
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
+**Delivery:** Paraphrased
 **Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Megyn Kelly](/entities/person-megyn-kelly.md) (person)
 
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:37:17](/episodes/ep-aDlhjfW6hz8.md#t-00-36-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2237);return false;">Play</a>
+**Timestamp:** [00:37:17](/episodes/ep-aDlhjfW6hz8.md#t-00-36-52) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2237s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People are—as Megyn said—people that are under 30 are anti-Israel.
 

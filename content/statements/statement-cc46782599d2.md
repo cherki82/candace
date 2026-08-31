@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2049);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2049s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > while Turning Point USA spokesperson told Newsweek Erica (Erika Kirk) moved it to a lower shelf. ... When her daughter asked to see it so that she could hold and look at the photo, ... it's still on the studio shelf. It's just lower down where her daughter can look at it whenever she's in there with her mom.
 

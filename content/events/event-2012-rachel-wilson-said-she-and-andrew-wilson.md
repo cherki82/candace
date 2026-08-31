@@ -6,6 +6,11 @@ date: "2012"
 ---
 
 **Date:** 2012
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “we've been married since 2012”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2012"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:40:49](/episodes/ep-5zgkrOaCCj4.md#event-event-2012-rachel-wilson-said-she-and-andrew-wilson-t-00-40-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2449);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=2449s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we're like 18 years in we've been married since 2012 prior to that I was married for four years

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:38:04](/episodes/ep-19vHhjF7-NA.md#t-00-37-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2284);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2284s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But at every turn, he had the hand of Rothschild upon him.
 

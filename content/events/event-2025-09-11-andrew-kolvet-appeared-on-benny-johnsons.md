@@ -6,6 +6,11 @@ date: "2025-09-11"
 ---
 
 **Date:** 2025-09-11
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “september 11th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-11"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:34:07](/episodes/ep-1CFDtD0IgEg.md#event-event-2025-09-11-andrew-kolvet-appeared-on-benny-johnsons-t-00-34-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2047);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2047s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > here is Andrew Kolvet on Benny Johnson's show on september 11th

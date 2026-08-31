@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:13:48](/episodes/ep-i8m_6D4QGmk.md#t-00-13-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(828);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=828s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is how you build a matrix in effect, right? That is the reason why Aleister Crowley, who was a master occultist, created an entire religion around this, put together a series of books, a series of pentacles that are meant to summon various spirits.
 

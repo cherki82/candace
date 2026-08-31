@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:49:31](/episodes/ep-i8m_6D4QGmk.md#t-00-49-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2971);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2971s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They have killed and maimed thousands of American soldiers. And President Trump was not going to allow Iran to attack our bases and our troops and our men and women in the Middle East first.
 

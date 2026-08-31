@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:37:14](/episodes/ep-ChuWo-n49B8.md#t-00-36-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2234);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2234s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he what the police said that they responded to his Miami area home of the celebrity blogger and podcaster Perez Hilton after they received reports that he engaged in self. self-harm in a live streamed video Tuesday night. A spokesperson for the Miami-Dade Sheriff's Office said in an email that the deputies responded to reports of someone who was live streaming acts of self-harm on social media. In a follow-up statement, the sheriff's office said that the person was safely recovered and taken by Miami-Dade Fire Rescue to a local hospital where he was receiving medical attention. It said the deputy spoke to the family members at the scene who confirmed the person had been alone inside the residence.
 

@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:22:19](/episodes/ep-es7PWdFGoFI.md#t-00-21-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1339);return false;">Play</a>
+**Timestamp:** [00:21:29](/episodes/ep-es7PWdFGoFI.md#t-00-21-09) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They have not called the one solitary person, as I told you guys, who filmed as he was on the roof
+> It's the state of Utah that's investigating. They have not called the one solitary person, as I told you guys, who filmed as he was on the roof. ... That's devastating. That would be devastating to the prosecution. And yet, investigators haven't reached out. Now, they offered back.
 
 ## Verification
 

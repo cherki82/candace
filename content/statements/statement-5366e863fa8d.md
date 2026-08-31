@@ -26,7 +26,7 @@ veracity: "true"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:03:02](/episodes/ep-czVBmqZP6Ss.md#t-00-02-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(182);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=182s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, I watched my friend get shot in the neck
 
@@ -34,7 +34,7 @@ veracity: "true"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:49:04](/episodes/ep-tB5SXXmd9vU.md#t-00-48-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2944);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=2944s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Secondly, my friend Charlie Kirk just got shot in the neck, hence the reason we're doing this entire podcast investigation into what actually happened on that day.
 

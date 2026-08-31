@@ -26,7 +26,7 @@ type: "prediction"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:20:21](/episodes/ep-EtLHqDbxqks.md#t-01-20-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4821);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4821s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All of that will come out in the trial if they allow the trial to go forward for the next five years. That's going to be the length of this trial, right?
 

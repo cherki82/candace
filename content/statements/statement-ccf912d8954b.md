@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:11:41](/episodes/ep-kaWtDuoY_ns.md#t-00-11-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(701);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=701s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It should have all been produced, some of it six months ago, because we have DNA reports from September 2025 that Mr. ... Gray (first name unverified) relied upon for his information.
 

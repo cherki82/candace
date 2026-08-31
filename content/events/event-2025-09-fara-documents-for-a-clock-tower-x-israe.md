@@ -6,6 +6,11 @@ date: "2025-09"
 ---
 
 **Date:** 2025-09
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “following Charlie's assassination”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:34:37](/episodes/ep-puuMVxEu5NU.md#t-00-34-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2077);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2077s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the FARA docs that were filed following Charlie's assassination

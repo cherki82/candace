@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(546);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=546s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You write, or Megyn Kelly, who nastily asked me the now famous only Rosie O'Donnell question or crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.
 

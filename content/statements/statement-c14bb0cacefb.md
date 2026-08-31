@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:25:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-25-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1533);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1533s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Once again, the marriage date is listed, ... the initial marriage date between Kent (Kenneth Frantzve) and Lori (Lori Frantzve) as November 20th, 1995 in Marblehead, Massachusetts. ... you can see that somebody just went in and tried to edit that date by hand afterward, ... adjusting the wedding date down this time to 1985,
 

@@ -1,17 +1,17 @@
 ---
-title: "They fired Tucker Carlson from Fox because he was speaking o..."
-description: "\"They fired Tucker Carlson from Fox because he was speaking out against the Ukrainian war, and that was not allowed.\" — Candace Owens"
+title: "Fox fired Tucker Carlson because he was speaking out against..."
+description: "\"Fox fired Tucker Carlson because he was speaking out against the war in Ukraine.\" — Candace Owens"
 statement_id: "statement-39a7601bc28c"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> They fired Tucker Carlson from Fox because he was speaking out against the Ukrainian war, and that was not allowed.
+> Fox fired Tucker Carlson because he was speaking out against the war in Ukraine.
 
 ## Attribution
 
@@ -22,12 +22,14 @@ veracity: "mixed"
 ## About
 
 - [Tucker Carlson](/entities/person-tucker-carlson.md) (person)
+- [Fox News](/entities/org-fox-news.md) (org)
+- [Ukraine](/entities/gpe-ukraine.md) (gpe)
 
 ## Source
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:06:29](/episodes/ep-K1tFD7FfoCU.md#t-00-06-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(389);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=389s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's also why they fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed.
 
@@ -50,4 +52,4 @@ Fox did not explicitly state Ukraine war coverage as reason for firing. Multiple
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

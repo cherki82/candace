@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:40:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's all he said. And Charlie said no. He also described how Hampton Summit was like an intervention.
 

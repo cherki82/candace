@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:34:05](/episodes/ep-eMtjzXkQrsU.md#t-00-33-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2045);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2045s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pam Bondi, on her first day, disbands the Foreign Influence Task Force, the very DOJ office responsible for enforcing FARA, the Foreign Agents Registration Act.
 

@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:12:59](/episodes/ep-9naMwS0kMBE.md#t-00-12-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(779);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=779s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she was shot six times. ... So this theater, we're told this guy just went crazy or whatever. This woman got shot six times, ... 12 victims in total, including an unborn child.
 

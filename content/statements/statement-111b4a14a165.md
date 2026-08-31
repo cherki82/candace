@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:30:39](/episodes/ep-E7P2ShoYDUA.md#t-00-30-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1839);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1839s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She had no positive evidence Israel's involved in anything. ... No positive evidence that France is involved in anything. No positive evidence TPUSA is involved in anything. ... No positive evidence that Erika Kirk is involved in anything.
 

@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">Play</a>
+**Timestamp:** [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-20-53) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And this is when the CIA was just dosing them intentionally because they wanted to understand how to control minds.
 

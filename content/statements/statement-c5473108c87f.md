@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:30:25](/episodes/ep-5-HUyv9LyMg.md#t-00-30-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1825);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=1825s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The setting of it, everything was planned down to the T. I believe he was sacrificed, okay?
 

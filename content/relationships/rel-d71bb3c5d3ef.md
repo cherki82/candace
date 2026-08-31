@@ -11,11 +11,15 @@ object: "person-charlie-kirk"
 
 ## [Bill Ackman](/entities/person-bill-ackman) met with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
-**[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
+**[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
 
-- [00:08:01](/episodes/ep-sreYYcID-QY#t-00-08-01): _We can talk about that trip to the Hamptons._
+- [00:19:14](/episodes/ep-czVBmqZP6Ss#t-00-19-14): _I sent him Bill Ackman's tweets because, you know, he tweeted, “I feel incredibly privileged to have spent a day and shared a meal with Charlie this summer. He was a giant of a man.”_
+
+**[Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84)**
+
+- [00:50:25](/episodes/ep-q7f8r-THr84#t-00-50-25): _Bill Ackman just confirmed that he hosted his meeting with Charlie (Charlie Kirk) on August 4th and 5th._
 
 ### Related
 

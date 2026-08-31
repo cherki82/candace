@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:15:09](/episodes/ep-JQjCAsfoXEE.md#t-00-14-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(909);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=909s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So you have to remember that Charlie (Charlie Kirk) landed into Salt Lake City at 9:23 a.m. local time.
 

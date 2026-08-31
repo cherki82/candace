@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2897);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2897s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Kirk says that she lived in China and worked with child sex trafficking victims, but she's mum on that now. ... Tight-lipped, does not want to talk about what charity that was. No one seems to be able to find it on the Internet.
 

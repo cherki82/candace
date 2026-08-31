@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:02:31](/episodes/ep-his-JBjlkh8.md#t-00-02-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(151);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point is going to commit to a live-streamed event where they are apparently going to answer all of these lingering questions.
 

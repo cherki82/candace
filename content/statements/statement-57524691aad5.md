@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:17:57](/episodes/ep-MhakwJxK-Zk.md#t-00-17-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1077);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1077s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It tells us that by April of 2025, BCG's senior leadership claimed that they had issued some internal guidance to halt the project because concerns began to mount internally about the nature of the client, that being Israel, the implications of the work and the potential reputational damage. ... But the firm would then say that two senior partners continued the project in defiance of their directives, maintaining an unofficial team and billing through alternative structures. ... The project continued through May of 2025 when the Financial Times story broke. In July, BCG quickly dismissed the two partners and launched an external audit.
 

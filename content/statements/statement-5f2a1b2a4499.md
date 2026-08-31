@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:20:17](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1217);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Justin (Justin Streiff) jumps in on the text and he says that it's up to Andrew (Andrew Kolvet) and Andrew (Andrew Kolvet) doesn't answer. And then he says to Aubrey (TPUSA staffer; surname unverified), you're going to have to wait until Andrew (Andrew Kolvet) is on the ground.
 

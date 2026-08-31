@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:22:37](/episodes/ep-VMNWMXX1vO8.md#t-00-22-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1357);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I didn't. I knew all of them by name. I know a vast majority of our staff by name. I know their families. I know their backgrounds. ... I know what programs they're working on.
 

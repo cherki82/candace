@@ -1,32 +1,36 @@
 ---
-title: "Irina Zarutska was murdered on August 22nd"
-description: "\"Irina Zarutska was murdered on August 22nd\" — Candace Owens"
+title: "Candace Owens said the way Israel supporters acted after Cha..."
+description: "\"Candace Owens said the way Israel supporters acted after Charlie Kirk's death had been almost the only compelling argument that Israel had anything to...\" — Candace Owens"
 statement_id: "statement-765b279a3965"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Irina Zarutska was murdered on August 22nd
+> Candace Owens said the way Israel supporters acted after Charlie Kirk's death had been almost the only compelling argument that Israel had anything to do with it.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:08:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(521);return false;">Play</a>
+**Timestamp:** [00:36:45](/episodes/ep-2Riv3I7D0Yk.md#t-00-36-29) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=2205s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Irina was murdered on August 22nd
+> But what I will say is that I am uncomfortable with how many lies people that support Israel have been telling in the wake of his death. That has been almost the only compelling argument that Israel had anything to do with it: is the way they're acting right now.
 
 ## Verification
 
@@ -47,4 +51,4 @@ Irina Zarutska (spelled Iryna in sources) was killed on August 22, 2025
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

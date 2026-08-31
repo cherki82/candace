@@ -6,6 +6,15 @@ date: "2011-11"
 ---
 
 **Date:** 2011-11
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “November 2011; 2012 was the title year”
+
+**Normalization note:** This source distinguishes the November 2011 competition win from the 2012 title year.
+
+**Date source:** [https://www.youtube.com/watch?v=y8lak3CRwDw](https://www.youtube.com/watch?v=y8lak3CRwDw)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2011-11"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:15:23](/episodes/ep-jTj9Ip46r4w.md#event-event-2011-11-erika-frantzve-won-the-miss-arizona-usa--t-00-15-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(923);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=923s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > potential pathway for her to win Miss Arizona in 2012 because, you know, NBC Universal
 
@@ -25,7 +34,7 @@ date: "2011-11"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:24:36](/episodes/ep-y8lak3CRwDw.md#event-event-2011-11-erika-frantzve-won-the-miss-arizona-usa--t-00-24-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1476);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In November, this is her come up, Erika wins the Miss Arizona competition in November.
 
@@ -33,6 +42,6 @@ date: "2011-11"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:19:45](/episodes/ep-ZzAT2xijKGQ.md#event-event-2011-11-erika-frantzve-won-the-miss-arizona-usa--t-00-19-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1185);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > after the semester began, she wins Miss Arizona USA, right, in November

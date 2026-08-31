@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:29:53](/episodes/ep-5zgkrOaCCj4.md#t-00-29-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1793);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=1793s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > group chat it was only 26 members and the same thing happened somebody in the group got radicalized because for some people they're sharing information they think it's fun they're healing and then there are people in the group that are mentally unstable and it becomes their life and this guy then started plotting my assassination because he got a little too fired up and the FBI got involved he got arrested he pled guilty his name is Haim Braverman and he is in prison you can look that up the media did not want to cover it but we did put a would-be Jewish terrorist in prison
 

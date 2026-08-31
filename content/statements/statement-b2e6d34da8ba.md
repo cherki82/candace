@@ -23,10 +23,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:05:49](/episodes/ep-aDlhjfW6hz8.md#t-00-05-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(349);return false;">Play</a>
+**Timestamp:** [00:05:39](/episodes/ep-aDlhjfW6hz8.md#t-00-05-39) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=339s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He takes down the camera that is directly above where Charlie was sitting and would be able to provide therefore a lot of insight.
+> He takes down the camera that is directly above where Charlie was sitting and would be able to provide therefore a lot of insight. And then you can see he kind of sets the camera onto the desk, and it looks like he removes the SIM card from it, or the SD card, if you will, which we're watching right here.
 
 ## Verification
 

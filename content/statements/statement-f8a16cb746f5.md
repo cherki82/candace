@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:21:20](/episodes/ep-cZxHqYsWRYg.md#t-00-20-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kari Lake's bribery scandal involves a shady GOP tech firm. Yeah, they're referring to Superfeed Technologies had its business revoked by the state of Arizona while it employed Jeff DeWitt, its former COO, and Lake, who had received more than $100,000 from the entity in the personal financial disclosure that she filed last month.
 

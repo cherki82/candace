@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5082);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5082s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they don't even they don't even i mean all of the information that we got about the hannibal directive about israeli soldiers killing their own people about the stand down operation we got this from israeli media all of this in israeli media but not a single word ... about that in New Year's Times about CNN nothing yeah
 

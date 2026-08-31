@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:23:10](/episodes/ep-3QJqtW_NOSI.md#t-00-22-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1390);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1390s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That this was their panic, figuring out how to dupe the people and try to blame Democrats or blame the SDNY for why they couldn't get the files out, all of this scheming and planning.
 

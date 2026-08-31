@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:38:00](/episodes/ep-tB5SXXmd9vU.md#t-00-37-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=2280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "Our mission with ACE is clear: to identify, invest in, and support the most promising startups that will shape the future of aerospace and defense technology
 

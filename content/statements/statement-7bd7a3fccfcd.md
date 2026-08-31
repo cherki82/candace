@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:21:46](/episodes/ep-xjzb_t5Tk9o.md#t-01-21-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4906);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4906s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > breaking the silence which is like the group of the idf soldiers who they have a movement called breaking the silence ex-idf soldiers who speaks about the atrocities that they did and then now they come up and and saying like what what happened behind the scenes of their operations in Gaza and West Bank
 

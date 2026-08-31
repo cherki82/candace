@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:56:40](/episodes/ep-d7VsbEIWkP8.md#t-00-56-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3400);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=3400s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lindsay Clancy is obviously not guilty. ... Lindsey Clancy, in my opinion, is not guilty. She was put into an intentional psychosis
 

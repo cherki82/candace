@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:01:18](/episodes/ep-ja26iltROkM.md#t-00-00-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(78);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=78s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They are so clearly lying to us about what happened on the day that Charlie (Charlie Kirk) lost his life.
 

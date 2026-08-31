@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:15:18](/episodes/ep-czVBmqZP6Ss.md#t-00-15-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(918);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=918s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie was in the Hamptons and he had more than one event, but he had essentially what was staged an intervention
 

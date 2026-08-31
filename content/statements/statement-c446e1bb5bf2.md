@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:09:44](/episodes/ep-Pb7UlpRdW6U.md#t-00-09-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(584);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=584s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So from some sources within the White House, I'm going to read this quote, the White House Communications Agency is a Department of Defense-controlled military communications entity. ... that is embedded inside of the White House itself. Its primary function is maintaining secure presidential communications, continuity infrastructure, and command and control systems during crises.
 

@@ -1,6 +1,6 @@
 ---
 title: "University of Utah"
-description: "University of Utah (Organizations) - 5 mentions"
+description: "University of Utah (Organizations) - 6 mentions"
 id: "org-university-of-utah"
 type: "ORG"
 categories:
@@ -20,8 +20,8 @@ Source: [About the U - University of Utah](https://about.utah.edu/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-university-of-utah-t-00-24-47">2025-10-31 · 00:24:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-university-of-utah-t-00-13-43">2026-07-31 · 00:13:43</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +33,7 @@ Source: [About the U - University of Utah](https://about.utah.edu/)
 <p>Highest activity: <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-university-of-utah-t-00-07-46">An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-university-of-utah-t-00-24-47" style="--pulse-height:67%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-university-of-utah-t-00-18-24" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-university-of-utah-t-00-07-46" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 3 mentions" title="2026-07-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -40,6 +41,7 @@ Source: [About the U - University of Utah](https://about.utah.edu/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-university-of-utah-t-00-24-47) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-university-of-utah-t-00-18-24) | 1 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-university-of-utah-t-00-07-46) | 3 |
 
 </details>
@@ -48,7 +50,7 @@ Source: [About the U - University of Utah](https://about.utah.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3 mentions)</summary>
@@ -61,6 +63,14 @@ Source: [About the U - University of Utah](https://about.utah.edu/)
 
 **[00:13:43](/episodes/ep-iB-YtO3UZOg.md#ent-org-university-of-utah-t-00-13-43)**
 > "But assistant professor University of Utah, she's just been around students for a very long ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:18:24](/episodes/ep-Qfwr08Ebczo.md#ent-org-university-of-utah-t-00-18-24)**
+> "...dard inquiry at, for example, University of Utah events. Speaking of police, UVU has denied FOX 13..."
 
 </details>
 

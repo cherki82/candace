@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:55:09](/episodes/ep-iHav0PPzUz8.md#t-00-54-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3309);return false;">Play</a>
+**Timestamp:** [00:55:09](/episodes/ep-iHav0PPzUz8.md#t-00-54-46) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=3309s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by the way, what I don't know—which is kind of the big point of this—I don't know actually who pulled the trigger and killed Charlie (Charlie Kirk), right?
 

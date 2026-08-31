@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:16:12](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(972);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=972s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > More specifically, Donald Trump (Donald J. Trump) was actually the 50 percent owner of Miss America alongside NBC Universal when Erika (Erika Kirk) was crowned.
 

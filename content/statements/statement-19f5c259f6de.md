@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:09:30](/episodes/ep-jTj9Ip46r4w.md#t-00-09-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(570);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=570s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By the way, I then learned that they were married, I don't even know if I'm saying this right, Baha'i Temple in Chicago.
 

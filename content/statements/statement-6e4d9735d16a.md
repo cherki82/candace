@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:43:28](/episodes/ep-Pb7UlpRdW6U.md#t-00-43-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2608);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=2608s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now has a golden statue, of course, backed not by Christians financially, but by, I believe, the Hasidic Jewish community, major donors to the statue.
 

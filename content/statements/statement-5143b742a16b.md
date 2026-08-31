@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=90s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It took him a little over two weeks, but now Benjamin Netanyahu, with maybe a little help from Turning Point USA (I'm thinking), is releasing the letter, the May love letter from Charlie Kirk to Israel, just out of nowhere.
 

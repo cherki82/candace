@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:26:42](/episodes/ep-X92MllIHDzw.md#t-00-26-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1602);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1602s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is that the Courage House is reportedly located in a confidential secure location,
 

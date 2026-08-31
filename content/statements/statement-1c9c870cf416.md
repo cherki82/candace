@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:53:29](/episodes/ep-sKuYLNx3iRo.md#t-00-53-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3209);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=3209s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes. I also had wondered, regarding the defibrillator, if he was also creating a reason for why Charlie (Charlie Kirk)'s chest might have some bruising. ... Because that was a weird thing to say: 'I set it up for them.' It implies that they did it, or they asked him to set that up for him. And I'm wondering if that's because there might be some marks that they know are a part of the autopsy report that they're going to explain as, well, that was from Charlie (Charlie Kirk) getting defibrillated. Something that was just in the back of my mind. We'll see.
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:24:00](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1440);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1440s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, Delaware, a lease that is way too short for that, whatever
 

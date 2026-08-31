@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:46:36](/episodes/ep-H9p2ZGHAs9A.md#t-00-46-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2796);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=2796s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > aspire to be the first lady. So that's just a bit of feedback; take from it what you will. I did quite enjoy Melania (Melania Trump). I did spend some time with her, and I think she's very smart. I wonder. I feel the whole family let Charlie (Charlie Kirk) down—not demanding a further investigation, just allowing all of this BS to happen, continuing not to ask questions. The entire Trump family, to me, has, in effect, betrayed the legacy of Charlie Kirk. Anyway, you guys want to let you know our show is available in Spanish, French.
 

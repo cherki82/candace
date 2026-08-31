@@ -22,23 +22,13 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:01:57](/episodes/ep-UBkFkg4UNY8.md#t-00-01-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(117);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=117s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I also want you guys to know that he was not wearing a bulletproof vest.
-
-### 2. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
-
-**Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:02:03](/episodes/ep-UBkFkg4UNY8.md#t-00-01-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(123);return false;">Play</a>
-
-> I also want you guys to know that he was not wearing a bulletproof vest
 
 ## Verification
 

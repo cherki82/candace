@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:02:59](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=179s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Two bullets went right by him, one of which hit him and he got shot. We now know that the shooter was identified by Secret Service three hours before him, that there was a roof unattended, 120 yards away from Trump (Donald Trump).
 

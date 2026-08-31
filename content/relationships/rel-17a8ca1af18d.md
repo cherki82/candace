@@ -1,15 +1,15 @@
 ---
-title: "Mitch formerly worked for 10th Mountain Division"
-description: "Evidence for the relationship: Mitch formerly worked for 10th Mountain Division"
+title: "Mitch Snow formerly worked for 10th Mountain Division"
+description: "Evidence for the relationship: Mitch Snow formerly worked for 10th Mountain Division"
 relationship_id: "rel-17a8ca1af18d"
-subject: "person-mitch-fort-huachuca-witness"
+subject: "person-mitch-snow"
 predicate: "formerly worked for"
 object: "org-10th-mountain-division"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Mitch](/entities/person-mitch-fort-huachuca-witness) formerly worked for [10th Mountain Division](/entities/org-10th-mountain-division)
+## [Mitch Snow](/entities/person-mitch-snow) formerly worked for [10th Mountain Division](/entities/org-10th-mountain-division)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-10th-mountain-division"
 
 ### Related
 
-- [Mitch](/entities/person-mitch-fort-huachuca-witness)
+- [Mitch Snow](/entities/person-mitch-snow)
 - [10th Mountain Division](/entities/org-10th-mountain-division)

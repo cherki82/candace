@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
 
-- [00:18:43](/episodes/ep-7FS1tUeSfdE.md#t-00-18-18) [○] (Claim) ["On the day Charlie Kirk died, Justin Streiff called a printer to at least double..."](/statements/statement-739c44db267e.md)
+- [00:18:43](/episodes/ep-7FS1tUeSfdE.md#t-00-18-18) [○] (Claim) ["Owens alleged that, on the day Charlie Kirk died, Justin Streiff called a printe..."](/statements/statement-739c44db267e.md)
   - About: [Justin Streiff](/entities/person-justin-streiff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

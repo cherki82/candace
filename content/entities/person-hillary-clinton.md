@@ -22,7 +22,7 @@ _Type: People_
 Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundation.org/about-the-clinton-foundation/leadership/hillary-rodham-clinton/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53">2025-12-08 · 00:27:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-27-05">2025-12-08 · 00:27:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16">2026-05-21 · 01:07:27</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
@@ -36,7 +36,7 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-hillary-clinton-t-00-35-14">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53" style="--pulse-height:33%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-27-05" style="--pulse-height:17%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-hillary-clinton-t-00-22-44" style="--pulse-height:17%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-hillary-clinton-t-00-06-19" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-hillary-clinton-t-00-33-44" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-27-05) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-hillary-clinton-t-00-22-44) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-hillary-clinton-t-00-06-19) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-hillary-clinton-t-00-33-44) | 3 |
@@ -237,13 +237,10 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
-**[00:27:05](/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53)**
+**[00:27:05](/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-27-05)**
 > "... was elected in 2016 was that Hillary Clinton was emblematic of the way that the world was goin..."
-
-**[00:27:11](/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53)**
-> "Hillary Clinton emblematic of the way the world was going wrong"
 
 </details>
 

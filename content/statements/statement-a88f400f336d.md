@@ -1,6 +1,6 @@
 ---
-title: "Candace's first episode with PragerU was in March 2019."
-description: "\"Candace's first episode with PragerU was in March 2019.\" — Candace Owens"
+title: "Owens said she thought her first PragerU episode was in Marc..."
+description: "\"Owens said she thought her first PragerU episode was in March 2019\" — Candace Owens"
 statement_id: "statement-a88f400f336d"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Candace's first episode with PragerU was in March 2019.
+> Owens said she thought her first PragerU episode was in March 2019
 
 ## Attribution
 
@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:22:44](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1364);return false;">Play</a>
+**Timestamp:** [00:22:00](/episodes/ep-Cq7nj9rxPdo.md#t-00-21-23) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1320s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I think my first episode with PragerU was in March
+> This is early 2019. ... I think my first episode with PragerU was in March. Charlie (Charlie Kirk) still climbing. Turning Point USA, as you know, became a behemoth.
 
 ## Verification
 

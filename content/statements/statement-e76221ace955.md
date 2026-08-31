@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:48:58](/episodes/ep--9MOUvgGyi4.md#t-00-48-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2938);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=2938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And again, with it being carried in a backpack. It keeps the level of anxiety down for students to watch. So we know this is a lifesaver and what we want to do is to be able to see every resource officer first starting the state of Texas have one of these and then it's spreading throughout the United States so that our children will be made safe.
 

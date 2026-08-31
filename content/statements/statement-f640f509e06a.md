@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:25:30](/episodes/ep-JQjCAsfoXEE.md#t-00-24-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1530);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, it's the Israelis. It is Israel that seems deeply upset with me and Tucker (Tucker Carlson). They are not letting it go. They are making threats on every stage, okay? People that are tied to Israel are making threats against me and Tucker (Tucker Carlson), demanding that we be canceled.
 

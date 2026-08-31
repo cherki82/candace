@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 987 mentions"
+description: "Donald J. Trump (People) - 985 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05">2026-08-19 · 00:37:05</a></strong></div>
-<div><span>Episodes</span><strong>131</strong></div>
-<div><span>Mentions</span><strong>987</strong></div>
-<div><span>Statements by</span><strong>37</strong></div>
-<div><span>Statements about</span><strong>233</strong></div>
-<div><span>Relationships</span><strong>153</strong></div>
+<div><span>Episodes</span><strong>132</strong></div>
+<div><span>Mentions</span><strong>985</strong></div>
+<div><span>Statements by</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>228</strong></div>
+<div><span>Relationships</span><strong>155</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,40 +44,41 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 4 mentions" title="2025-09-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-donald-trump-t-00-06-16" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-person-donald-trump-t-00-26-08" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-21-38" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-21-32" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-45-07" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 6 mentions" title="2025-09-18 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-36-12" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-36-10" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-donald-trump-t-00-46-51" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 4 mentions" title="2025-09-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-donald-trump-t-00-00-45" style="--pulse-height:27%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 13 mentions" title="2025-09-24 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-donald-trump-t-00-19-45" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-donald-trump-t-00-19-58" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-donald-trump-t-00-03-03" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-donald-trump-t-00-27-09" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-08-20" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-08-01" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-donald-trump-t-00-22-42" style="--pulse-height:10%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 5 mentions" title="2025-10-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-donald-trump-t-00-43-38" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:21%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 10 mentions" title="2025-10-08 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-47-32" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-47-28" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-t-00-14-16" style="--pulse-height:10%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:44%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 21 mentions" title="2025-10-29 · 21 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-04" style="--pulse-height:19%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 9 mentions" title="2025-10-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-13" style="--pulse-height:12%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 6 mentions" title="2025-10-30 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-donald-trump-t-00-04-45" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-21-03" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-07-05" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 16 mentions" title="2025-11-05 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-21-02" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-07-03" style="--pulse-height:35%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 17 mentions" title="2025-11-05 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-donald-trump-t-00-33-42" style="--pulse-height:21%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 10 mentions" title="2025-11-08 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-donald-trump-t-00-06-06" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-donald-trump-t-00-52-05" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-donald-trump-t-00-22-28" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-donald-trump-t-00-52-43" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-donald-trump-t-00-33-32" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-donald-trump-t-00-07-24" style="--pulse-height:21%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 10 mentions" title="2025-11-17 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-donald-trump-t-00-14-09" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-11-43" style="--pulse-height:15%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-donald-trump-t-00-14-04" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-11-35" style="--pulse-height:12%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-donald-trump-t-00-42-07" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-donald-trump-t-00-08-00" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-donald-trump-t-00-13-20" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-donald-trump-t-00-16-26" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-donald-trump-t-00-34-25" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-25-04" style="--pulse-height:15%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 7 mentions" title="2025-12-08 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-25-03" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-donald-trump-t-00-45-31" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-44" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-04" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-03" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56" style="--pulse-height:15%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44" style="--pulse-height:19%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 9 mentions" title="2026-01-07 · 9 mentions"><span></span></a>
@@ -180,40 +181,41 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31) | 4 |
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-donald-trump-t-00-06-16) | 4 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-donald-trump-t-00-26-08) | 1 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-21-38) | 3 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-21-32) | 3 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-45-07) | 6 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-36-12) | 3 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-36-10) | 3 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-donald-trump-t-00-46-51) | 4 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-person-donald-trump-t-00-00-45) | 13 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-donald-trump-t-00-19-45) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-donald-trump-t-00-19-58) | 1 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-donald-trump-t-00-03-03) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-donald-trump-t-00-27-09) | 3 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-08-20) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-08-01) | 3 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-donald-trump-t-00-22-42) | 5 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-donald-trump-t-00-43-38) | 3 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-00-00) | 10 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-47-32) | 4 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-47-28) | 4 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-t-00-14-16) | 5 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-t-00-00-00) | 21 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-04) | 9 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-13) | 6 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-donald-trump-t-00-04-45) | 1 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-21-03) | 2 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-07-05) | 16 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-21-02) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-07-03) | 17 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-donald-trump-t-00-33-42) | 10 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-donald-trump-t-00-06-06) | 3 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-donald-trump-t-00-52-05) | 1 |
-| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-donald-trump-t-00-22-28) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-donald-trump-t-00-52-43) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-donald-trump-t-00-33-32) | 2 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-donald-trump-t-00-07-24) | 10 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-donald-trump-t-00-14-09) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-11-43) | 7 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-donald-trump-t-00-14-04) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-11-35) | 6 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-donald-trump-t-00-42-07) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-donald-trump-t-00-08-00) | 2 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-donald-trump-t-00-13-20) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-donald-trump-t-00-16-26) | 6 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-donald-trump-t-00-34-25) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-25-04) | 7 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-25-03) | 6 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11) | 2 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-donald-trump-t-00-45-31) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-44) | 6 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-04) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-03) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56) | 7 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44) | 9 |
@@ -315,7 +317,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (987)</strong></summary>
+<summary><strong class="section-title">Raw mentions (985)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -3193,10 +3195,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
-**[01:11:08](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11)**
+**[01:11:04](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-04)**
 > "I recognize the psychological religious operation going on since Trump was elected"
 
-**[01:12:21](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11)**
+**[01:12:18](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-04)**
 > "...ious operation going on since Trump was elected."
 
 </details>
@@ -3204,10 +3206,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (6 mentions)</summary>
 
-**[00:25:03](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-25-03)**
+**[00:25:02](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-44)**
 > "Trump (Donald Trump) said that he thinks that Dan (Dan Bongino) wants..."
 
-**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-22)**
+**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-44)**
 > "... Bongino, which it looks like Trump has just confirmed is going to leave the FBI as a..."
 
 **[00:36:07](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-36-07)**
@@ -3216,11 +3218,19 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:38:42](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-38-25)**
 > "This is not Trump."
 
-**[01:01:39](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
+**[01:01:36](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-03)**
 > "...bly said, you know, where was Donald Trump?"
 
-**[01:01:47](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
+**[01:01:46](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-46)**
 > "I found JD Vance with Donald Trump at a restaurant that evening in D.C."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:45:57](/episodes/ep-t4U7NjnUEgc.md#ent-person-donald-trump-t-00-45-31)**
+> "...Like, is he gonna call Donald Trump evil in 2016?"
 
 </details>
 
@@ -3231,21 +3241,21 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > "the person to blame if Trump (Donald Trump) loses midterms, if Republicans lose midterms, mi..."
 
 **[00:25:46](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-25-04)**
-> "Milo: If Trump loses midterms it might be Republicans fault"
+> "It might be Trump (Donald Trump)."
 
-**[00:26:32](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-03)**
+**[00:26:32](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-07)**
 > "...ed by everybody who voted for Donald Trump as a central pillar of understanding."
 
-**[00:26:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-45)**
+**[00:26:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-07)**
 > "...sn't one person who voted for Donald Trump who did not want and did not expect the Epstein f..."
 
 **[00:26:52](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-50)**
-> "I did not vote for Trump for that."
+> "I did not vote for Trump (Donald Trump) for that."
 
-**[00:26:56](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-53)**
+**[00:26:56](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-54)**
 > "I voted for Trump (Donald Trump) for many other reasons other than that."
 
-**[00:27:05](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-26-53)**
+**[00:27:05](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-27-05)**
 > "...art of the reason that Trump (Donald Trump) was elected in 2016 was that Hillary Clinton was..."
 
 </details>
@@ -3285,7 +3295,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:13:35](/episodes/ep-a-e7HC6SeK8.md#ent-person-donald-trump-t-00-13-20)**
-> "maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump (Donald Trump) pardoned him. He pardoned Tyler Bowyer (Tyler Bowyer) a couple of weeks ago."
+> "maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago."
 
 **[00:39:16](/episodes/ep-a-e7HC6SeK8.md#ent-person-donald-trump-t-00-38-52)**
 > "We are going to get Trump elected, and we're going to get people to stop ta..."
@@ -3312,35 +3322,32 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (7 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
 
-**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-11-43)**
+**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-11-35)**
 > "...on. On the same day, February 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron. Do we have that, by the way, the text message between me and Charlie (C..."
 
-**[00:12:32](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-12-26)**
+**[00:12:32](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-12-19)**
 > "...The next day, you can see he starts with, "The White House just asked for your number, FYI. I think POTUS might call you." And that's not what happened. On February 25th, actually, Sergio Gor called me and..."
 
-**[00:13:03](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-12-26)**
+**[00:13:03](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-13-02)**
 > "...nd it felt more like an order than a request. And I did not respond in kind to that. February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte. Now, Charlie (Charlie Kirk)'s in the middle o..."
 
-**[00:50:40](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-50-01)**
+**[00:50:40](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-50-19)**
 > "...ination could be a message to Trump or Kash to stay in line?""
 
-**[00:50:42](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-50-42)**
+**[00:50:42](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-50-19)**
 > "...'m gonna say definitely—maybe Trump almost got assassinated."
 
-**[00:52:05](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-51-25)**
+**[00:52:05](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-51-31)**
 > "...ut I have—I do not think that Trump would have been described as a dignitary."
-
-**[00:54:10](/episodes/ep-sImMM04XdWY.md#ent-person-donald-trump-t-00-53-35)**
-> "...t I have, I do not think that Trump would have been described as a dignitary."
 
 </details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:14:36](/episodes/ep-SKGUzGHymcI.md#ent-person-donald-trump-t-00-14-09)**
+**[00:14:36](/episodes/ep-SKGUzGHymcI.md#ent-person-donald-trump-t-00-14-04)**
 > "... tells you that the influence is not there is either misinformed or lying. I'm also not saying that POTUS himself did this, but the government was undeniably involved with that hangar and the plane that yo..."
 
 </details>
@@ -3352,7 +3359,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > "... that she's saying—and people are interpreting it this way, which is also important—that the Trump (Donald Trump) administration, not whatever it was... We went from underground Jew tunnels, Mossad. The Trump (Do..."
 
 **[00:07:42](/episodes/ep-JQjCAsfoXEE.md#ent-person-donald-trump-t-00-07-24)**
-> "...mp) administration, not whatever it was... We went from underground Jew tunnels, Mossad. The Trump (Donald Trump) administration killed Charlie (Charlie Kirk). I just really needed to just take a breather and rea..."
+> "The Trump (Donald Trump) administration killed Charlie (Charlie Kirk)."
 
 **[00:08:12](/episodes/ep-JQjCAsfoXEE.md#ent-person-donald-trump-t-00-07-47)**
 > "...nk I've ever seen. It has made me lose faith in politics. It has made me fully lose faith in Trump (Donald Trump). My heart aches for the fact that he gave so much of his life to Trump (Donald Trump) and to polit..."
@@ -3383,7 +3390,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:22:56](/episodes/ep-yAIb-NuUh_U.md#ent-person-donald-trump-t-00-22-28)**
+**[00:22:56](/episodes/ep-yAIb-NuUh_U.md#ent-person-donald-trump-t-00-33-32)**
 > "Remember he shot up the Trump Miami Doral?"
 
 **[00:33:37](/episodes/ep-yAIb-NuUh_U.md#ent-person-donald-trump-t-00-33-32)**
@@ -3394,7 +3401,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:52:44](/episodes/ep-MUA9ebCF4Ow.md#ent-person-donald-trump-t-00-52-05)**
+**[00:52:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-donald-trump-t-00-52-43)**
 > "Trump needs a casino, right?"
 
 </details>
@@ -3449,33 +3456,33 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (16 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (17 mentions)</summary>
 
-**[00:07:08](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-07-05)**
+**[00:07:03](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-07-03)**
 > "... this event into an effective Trump rally.""
 
-**[00:10:59](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-10-30)**
+**[00:10:53](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-10-53)**
 > "...st, he probably won during the first mayoral debate. Okay. Just like if I reflect upon 2016, Trump (Donald Trump) kind of won in the first Republican debate because he was just kind of saying "F you" to the estab..."
 
-**[00:15:38](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-15-11)**
-> "...nted them to all make posts, anti-Mamdani posts. Just to be clear, even Donald (Donald Trump) Trump—President Trump—dedicated 900% more Truth Social posts to ensuring that Mamdani would lose than to ensuring that Ch..."
+**[00:15:38](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-15-38)**
+> "Just to be clear, even Donald Trump—President Trump—dedicated 900% more Truth Social posts to ensuring that Mamdani would lose than to ensuring that Charlie (Charlie Kirk)'s murderer was found—900% increase in messaging coming from him, since he didn't even send one message about investigating Charlie (Charlie Kirk)'s murder."
 
-**[00:16:01](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-15-44)**
+**[00:16:01](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-15-38)**
 > "...igating Charlie (Charlie Kirk)'s murder. But the question is: why didn't MAGA listen even to Trump (Donald Trump)? Why didn't we all get on our platforms and say something? Because people like Dana Loesch want to..."
 
-**[00:16:21](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-15-44)**
+**[00:16:21](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-16-21)**
 > "... don't recognize this MAGA because the fact that you're in it makes no sense. You were never Trump (Donald Trump). If you're telling us that MAGA is now Josh Hammer, then MAGA is not MAGA, okay? MAGA needs a new ..."
 
-**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-16-27)**
-> "...arty. MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald (Donald Trump) Trump looked at us in our faces and said, "Epstein who?" That's when it was game over because Isra..."
+**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-16-21)**
+> "MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald Trump looked at us in our faces and said, "Epstein who?""
 
-**[00:19:44](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-19-19)**
+**[00:19:36](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-19-19)**
 > "..." And then in response to Fuentes and Tucker (Tucker Carlson) this week, he tweeted this: "Trump's (Donald Trump's) bombing of the Ayatollah's nuclear facilities made the little Nazi mad." So now you're turning a..."
 
-**[00:46:20](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-45-37)**
+**[00:46:22](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-46-12)**
 > "...could have picked to put first, right? You could have picked JD Vance. You could have picked Trump (Donald Trump). You could have put Erika. Erika was second. You put Mikey McCoy and his wife. What's going on? An..."
 
-**[00:47:44](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-47-39)**
+**[00:47:42](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-47-36)**
 > "...not kidding. Check this out. Check out this headline. "Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass." Now, this is of interest. This should be of interes..."
 
 **[00:51:53](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-51-39)**
@@ -3484,30 +3491,33 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:52:06](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-51-39)**
 > "...se all the Never Trumpers are praising it—and I've always been against Never Trumpers. So if Trump (Donald Trump) joined the Never Trump party, then good on him—but I'm not following him there. And that's what I'..."
 
-**[00:54:50](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-54-30)**
+**[00:54:50](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-54-27)**
 > "...verything is wrong. Steven Forker writes: "Candace (Candace Owens), I've been a supporter of Trump (Donald Trump) since 2016, but after Charlie's (Charlie Kirk's) death and the complete lack of transparency—is th..."
 
-**[00:55:20](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-55-13)**
+**[00:55:20](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-55-01)**
 > "...that he was protecting some of his donors—and that's the problem. You know, that's his vice. Trump (Donald Trump) loves money, and it looks like he has sold his soul for money. That's the reality. And they're not..."
 
-**[01:02:17](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-01-02-14)**
+**[01:02:14](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-01-01-54)**
 > "...sed to be MAGA, not MIGA." Exactly right. And when you see that skit, it reminds us of early Trump (Donald Trump). Trump (Donald Trump) was on stage, and they were just hammering everything that he said, and he w..."
 
-**[01:02:20](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-01-02-14)**
+**[01:02:20](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-01-01-54)**
 > "...GA." Exactly right. And when you see that skit, it reminds us of early Trump (Donald Trump). Trump (Donald Trump) was on stage, and they were just hammering everything that he said, and he was really funny, and h..."
 
-**[01:02:40](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-01-02-14)**
+**[01:02:35](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-01-02-35)**
 > "...got some claws—is what I would say. It's got some claws. And so I feel let down—obviously—by Trump (Donald Trump), but it pales in comparison to how I feel about the entire Trump (Donald Trump) family—given every..."
+
+**[00:46:19](/episodes/ep-LATnak75Si0.md#ent-person-donald-trump-t-00-46-12)**
+> "... Vance. You could have picked Trump (Donald Trump). You could have put Erika."
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[00:21:03](/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-21-03)**
+**[00:21:02](/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-21-02)**
 > "...nge the very Zionist-occupied Trump administration—who is aware of this—to deny it."
 
-**[00:27:18](/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-27-18)**
+**[00:27:18](/episodes/ep-Qfwr08Ebczo.md#ent-person-donald-trump-t-00-27-04)**
 > "...etting the runaround from the Trump administration, the runaround from his friends—th..."
 
 </details>
@@ -3521,34 +3531,25 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (9 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (6 mentions)</summary>
 
-**[00:21:29](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-04)**
+**[00:21:29](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-13)**
 > "...obe in an explosive feud with Trump's counter-terror chief.""
 
-**[00:22:05](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-48)**
+**[00:22:05](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-55)**
 > "...wonderful friend. He did everything he could to put this administration into power. In fact, Trump (Donald Trump) would be late-night tweeting, being like, I don't accept this narrative. Trump (Donald Trump) woul..."
 
-**[00:22:09](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-48)**
+**[00:22:11](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-55)**
 > "...rump (Donald Trump) would be late-night tweeting, being like, I don't accept this narrative. Trump (Donald Trump) would be asking questions. His sons would be asking questions. Turning Point USA executives would ..."
 
-**[00:32:49](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-32-49)**
+**[00:32:49](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-21-55)**
 > "...ly people that were the Never Trump movement in 2015."
 
-**[00:33:03](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-32-49)**
+**[00:33:01](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-33-01)**
 > "...t we all represented. Here's how you do it: censorship, right? We infiltrated MAGA. We hated Trump (Donald Trump) forever. In fact, these people were all pro-DeSantis even when Trump (Donald Trump) was up against..."
 
-**[00:33:05](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-32-49)**
-> "...We hated Trump (Donald Trump) forever. In fact, these people were all pro-DeSantis even when Trump (Donald Trump) was up against Ron DeSantis, okay? They were against Trump (Donald Trump). They have held the line..."
-
-**[00:33:10](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-32-49)**
+**[00:33:10](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-33-01)**
 > "...DeSantis even when Trump (Donald Trump) was up against Ron DeSantis, okay? They were against Trump (Donald Trump). They have held the line in hating Trump (Donald Trump) forever. And now that Trump (Donald Trump)..."
-
-**[00:33:11](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-32-49)**
-> "...on DeSantis, okay? They were against Trump (Donald Trump). They have held the line in hating Trump (Donald Trump) forever. And now that Trump (Donald Trump) is inevitable—meaning he's in office and there's nothin..."
-
-**[00:33:14](/episodes/ep-iHav0PPzUz8.md#ent-person-donald-trump-t-00-32-49)**
-> "...(Donald Trump). They have held the line in hating Trump (Donald Trump) forever. And now that Trump (Donald Trump) is inevitable—meaning he's in office and there's nothing they can do about it and he's not gonna b..."
 
 </details>
 
@@ -3624,33 +3625,33 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
 
 **[00:14:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-t-00-14-16)**
-> "...ances himself from Blexit and Trump.""
+> "I mean, you guys remember this headline. I'm taking you back to 2018: "Kanye West distances himself from Blexit and Trump (Donald J. Trump).""
 
 **[01:06:03](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-t-01-05-37)**
-> "...s, "Do you hold hope that the Trump administration could come through with justice fo..."
+> "Mrs. Preppy writes, "Do you hold hope that the Trump (Donald J. Trump) administration could come through with justice for Charlie (Charlie Kirk)?"
 
 **[01:06:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-t-01-05-37)**
-> "What if Trump is considering reconsidering his love for Israel ..."
+> "What if Trump (Donald J. Trump) is considering reconsidering his love for Israel like Charlie (Charlie Kirk)?"
 
 **[01:06:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-t-01-06-20)**
-> "Trump wouldn't and couldn't do anything without getting..."
+> "Trump (Donald J. Trump) wouldn't and couldn't do anything without getting his daughter back.""
 
 **[01:06:45](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-t-01-06-20)**
-> "And the fact that Trump even invited Kash Patel to that Charlie holiday t..."
+> "And the fact that Trump (Donald J. Trump) even invited Kash Patel to that Charlie (Charlie Kirk) holiday thing—which I'll get into tomorrow—or establishing a holiday, I think is proof to me that he wants this buried."
 
 </details>
 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
 
-**[00:47:44](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-47-32)**
-> "...atar and Egypt and Turkey also participated, and were supposed to go, "Wow, that's amazing." Trump (Donald Trump) put a statement out on Truth Social: "Hero, I'm very proud to announce that Israel and Hamas have ..."
+**[00:47:44](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-47-28)**
+> "Trump (Donald Trump) put a statement out on Truth Social: "I am very proud to announce that Israel and Hamas have both signed off on the first phase of our peace plan.""
 
-**[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-48-17)**
-> "...is. You guys have it in your heart to say thank you? Thank you to Jared Kushner (Jared Kushner) and Donald Trump (Donald Trump) and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a rol..."
+**[00:48:52](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-48-52)**
+> "You guys have it in your heart to say thank you? Thank you to Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role, convinced that we're all so stupid."
 
 **[00:50:41](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-50-41)**
-> "... think that Israel has stated that they don't want the people to move back there afterwards. Trump (Donald Trump) wants a Nobel Peace Prize, by the way, for the planned ethnic cleansing so that they could profit ..."
+> "Trump (Donald Trump) wants a Nobel Peace Prize, by the way, for the planned ethnic cleansing so that they could profit on the land and turn it into a beach town."
 
 **[00:51:52](/episodes/ep-pc3pxRyNFZk.md#ent-person-donald-trump-t-00-51-24)**
 > "...sraelis in there and when the Trump Hotel gets built on there, I caution the rest of ..."
@@ -3669,25 +3670,25 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:06:41](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-06-13)**
 > "Here is that retweet. Trump wrote on April 19th, 2013:"
 
-**[00:07:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-07-35)**
+**[00:07:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-07-35)**
 > "... (Charlie Kirk)'s, elevated a Trump tweet from 2013 the day before, which called for ..."
 
 **[00:10:16](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-10-16)**
 > "...here they may. But most American people have not lost their minds. Most American people stand where Donald Trump stands, which is that they want basic, basic safety. I don't disagree that we all want basic safety..."
 
-**[00:11:22](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-11-05)**
+**[00:11:22](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-11-02)**
 > "...t feel like he can get on with his day. 9:29 a.m., he tweets in favor of Israel and throws shade at Donald Trump and Qatar, and all of this is related to what went on on September 9th, which is that Israel bombed..."
 
-**[00:11:41](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-11-41)**
+**[00:11:38](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-11-38)**
 > "...end to do a lot. But he, of course, was in favor of what they were doing. And so he throws shade at Donald Trump and Donald Trump's relationship with Qatar, because I guess it would be okay for them to violate in..."
 
-**[00:19:15](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-18-44)**
+**[00:19:15](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-18-57)**
 > "...if Josh came out and said that tweet was definitely about Irina (Irina Zarutska)? Other people pull Donald Trump tweets. Some did pull that very tweet and called for a public execution. Would you trust Josh if he..."
 
-**[00:57:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-57-17)**
+**[00:57:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-00-57-12)**
 > "...feating the Democrats with TPUSA. Got over two and a half million people to vote conservatively for Donald Trump—was moving the needle big time more than anybody with young people on colleges. So I see them as th..."
 
-**[01:05:19](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-01-05-12)**
+**[01:05:19](/episodes/ep-2Riv3I7D0Yk.md#ent-person-donald-trump-t-01-05-06)**
 > "They always say, "There's a Trump tweet for everything," and then people will pass ..."
 
 </details>
@@ -3729,13 +3730,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
-**[00:08:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-08-20)**
+**[00:08:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-08-01)**
 > "So currently you have Trump people who I guess are trying to save face for th..."
 
-**[00:50:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-50-11)**
+**[00:50:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-50-01)**
 > "...harlie Kirk) and I had in the Trump Hotel, and it was pertaining to money."
 
-**[00:50:40](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-50-11)**
+**[00:50:40](/episodes/ep-t1YtLS1n8Vs.md#ent-person-donald-trump-t-00-50-40)**
 > "...sat there, and I said to him, Trump Hotel in D.C., “You have to be very careful who y..."
 
 </details>
@@ -3746,10 +3747,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:27:09](/episodes/ep-adJ4LNGp84I.md#ent-person-donald-trump-t-00-27-09)**
 > "So something I would like to raise, which was actually my first published paper, was how you and the Likud party are cut from the same ideological cloth as Trump (Donald Trump) and the GOP in America."
 
-**[00:30:49](/episodes/ep-adJ4LNGp84I.md#ent-person-donald-trump-t-00-30-42)**
+**[00:30:49](/episodes/ep-adJ4LNGp84I.md#ent-person-donald-trump-t-00-30-38)**
 > "...hat he wants his agents, he needs the deal to go through, which, by the way, let's call out Donald (Donald Trump) right now. Okay, all of the acting. We don't want China. We don't want China to own TikTok. And I'..."
 
-**[00:31:08](/episodes/ep-adJ4LNGp84I.md#ent-person-donald-trump-t-00-30-42)**
+**[00:31:08](/episodes/ep-adJ4LNGp84I.md#ent-person-donald-trump-t-00-30-38)**
 > "...ou wanted to hand it over to your Zionist friends. It was all a mirage. It was all theater. Donald (Donald Trump) has sold us out to Israel once again. So he's saying, I want this deal to go through, and we know ..."
 
 </details>
@@ -3768,7 +3769,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:20:23](/episodes/ep-K5GjF53bfN4.md#ent-person-donald-trump-t-00-19-45)**
+**[00:20:21](/episodes/ep-K5GjF53bfN4.md#ent-person-donald-trump-t-00-19-58)**
 > "... a Department of Government Efficiency like Elon Musk and Vivek Ramaswamy had set out to do. Trump (Donald Trump) won. They got behind him, right? They said, "Hey, there's a lot of pork. We don't know where this ..."
 
 </details>
@@ -3827,7 +3828,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > "...st of things that don't need to happen—I'm like, wow, is he watching "Shot in the Dark"? Has Trump (Donald Trump) signed up to CandaceOwens.com? Is he watching? Is he wearing a CIA hat and watching? I think so. A..."
 
 **[00:47:34](/episodes/ep-UBkFkg4UNY8.md#ent-person-donald-trump-t-00-46-51)**
-> "...s he watching? Is he wearing a CIA hat and watching? I think so. And here's a statement that Trump (Donald Trump) made. We want no mercury in the vaccine. We want no aluminum in the vaccine. The MMR, I think, sho..."
+> "And here's a statement that Trump (Donald Trump) made."
 
 **[00:50:10](/episodes/ep-UBkFkg4UNY8.md#ent-person-donald-trump-t-00-49-34)**
 > "...oldly, because now they want our speech because people are waking up. But what you're seeing Trump (Donald Trump) say is a reaction to the amount of moms that are pulling their kids out of the public school syste..."
@@ -3837,13 +3838,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
 
-**[00:36:23](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-36-12)**
+**[00:36:21](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-36-10)**
 > "... that. And now what's happening when we have an occupied administration? There's no question Trump (Donald Trump) is occupied by Zionists. Okay, he's completely impotent. He's completely powerless. He cannot say ..."
 
-**[00:43:57](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-43-41)**
+**[00:43:57](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-43-29)**
 > "...k was going pro-Palestine, and a bunch of hedge fund people who are pro-Israel got involved. Trump (Donald Trump) pretended that he was going to rescue speech. No, he's handing it over to Israel. Okay. Wake up. I..."
 
-**[00:44:17](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-43-41)**
+**[00:44:17](/episodes/ep-aDlhjfW6hz8.md#ent-person-donald-trump-t-00-44-08)**
 > "If you're a Trump supporter, wake up."
 
 </details>
@@ -3852,43 +3853,43 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6 mentions)</summary>
 
 **[00:45:18](/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-45-07)**
-> "..., I didn't attend a vigil. And nope, you're right. You got me. I was not invited to speak alongside President Donald Trump (Donald Trump) and JD Vance on the stage with Tucker (Tucker Carlson) at a memorial event. What doe..."
+> "I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker (Tucker Carlson) at a memorial event."
 
 **[00:48:06](/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-47-55)**
-> "...ntly? Like, we're in September. Like, what happened that someone would commit themselves further to Donald Trump (Donald Trump)? More MAGA than ever. In fact, it's been kind of the opposite. People think we're oc..."
+> "Like, what happened that someone would commit themselves further to Donald Trump?"
 
 **[00:48:18](/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-47-55)**
-> "... opposite. People think we're occupied by Zionists. More MAGA people are going, like, it seems like Donald Trump (Donald Trump) has kind of given up on free speech, and his administration seems to be controlled b..."
+> "More MAGA people are going, like, it seems like Donald Trump has kind of given up on free speech,"
 
 **[00:53:07](/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-52-52)**
-> "...ent. That is, by the way, in large part—from what I understand—being controlled by the White House. Donald Trump (Donald Trump) is controlled by Zionists, so they're baiting me here. Why would I be invited by any..."
+> "Donald Trump is controlled by Zionists, so they're baiting me here."
 
 **[00:53:15](/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-52-52)**
-> "...d Trump) is controlled by Zionists, so they're baiting me here. Why would I be invited by anyone in Donald Trump's (Donald Trump) Zionist administration, as I am speaking about a topic—as I am speaking? It's comm..."
+> "Why would I be invited by anyone in Donald Trump's (Donald Trump) Zionist administration,"
 
 **[00:53:27](/episodes/ep-sreYYcID-QY.md#ent-person-donald-trump-t-00-52-52)**
-> "...ant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump (Donald Trump) in the first administration cannot get close to him. He's like surrounded at this mo..."
+> "When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him."
 
 </details>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
 
-**[00:21:43](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-21-38)**
+**[00:21:42](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-21-32)**
 > "...he sends this very odd thing about his dad who he says he's not answering. He writes, "Since Trump (Donald Trump) got into office, my dad has been pretty die-hard MAGA." There's something here for everyone if you..."
 
-**[00:26:50](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-26-19)**
+**[00:26:47](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-26-19)**
 > "...told that he is dropped off at his parents' home—allegedly, allegedly. And then it's at 6 a.m. that President Trump (Donald Trump) announces with a high degree of certainty that they have the suspect. Okay. So are t..."
 
-**[00:27:00](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-26-19)**
-> "...e the suspect. Okay. So are they still raiding his place? I don't know, but take a listen to Trump (Donald Trump) on Fox & Friends. (Clip of Donald Trump) Any updates on the suspect? Yeah. Can I just say? I think..."
+**[00:26:54](/episodes/ep-2WEHTk0Xewg.md#ent-person-donald-trump-t-00-26-19)**
+> "Okay. So are they still raiding his place? I don't know, but take a listen to Trump (Donald Trump) on Fox & Friends. (Clip of Donald Trump)"
 
 </details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:26:32](/episodes/ep-q7f8r-THr84.md#ent-person-donald-trump-t-00-26-08)**
+**[00:26:30](/episodes/ep-q7f8r-THr84.md#ent-person-donald-trump-t-00-26-08)**
 > "Robinson says, "Well, since Trump got into office, my dad has been pretty diehard M..."
 
 </details>
@@ -3900,13 +3901,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > "he and Trump were, but I will say"
 
 **[00:06:39](/episodes/ep-czVBmqZP6Ss.md#ent-person-donald-trump-t-00-06-16)**
-> "...lie (Charlie Kirk). You would have thought they were the best of friends, as close as he and Trump (Donald Trump) were, but I will say I don't recall Erika mentioning Benjamin Netanyahu in her speech. The way he'..."
+> "You would have thought they were the best of friends, as close as he and Trump were, but I will say I don't"
 
 **[00:08:55](/episodes/ep-czVBmqZP6Ss.md#ent-person-donald-trump-t-00-08-43)**
-> "...They speak about free speech, but they use violence to try to take down their enemies, whether it's President Trump (Donald Trump), who's been almost assassinated twice or—you know, they try to kill me here, too. Bu..."
+> "They speak about free speech, but they use violence to try to take down their enemies, whether it's President Trump, who's been almost assassinated twice or—you know, they try to kill me here, too."
 
 **[00:09:34](/episodes/ep-czVBmqZP6Ss.md#ent-person-donald-trump-t-00-09-15)**
-> "...now, Charlie (Charlie Kirk), kind of made it almost sound like he died for Israel. I mean, Trump’s (Donald Trump’s) account even tweeted out a photo of Charlie (Charlie Kirk), an American flag and also an Israeli..."
+> "I mean, Trump's account even tweeted out a photo of Charlie,"
 
 </details>
 
@@ -3923,7 +3924,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > "...ald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for hi..."
 
 **[00:19:57](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31)**
-> "... guessed it correctly when they said, “Oh, the person who probably was the intermediary when Trump (Donald Trump) called about Brigitte was Charlie Kirk.” Of course it was Charlie (Charlie Kirk). They would never..."
+> "Of course, people guessed it correctly when they said, "Oh, the person who probably was the intermediary when Trump (Donald Trump) called about Brigitte (Brigitte Gabriel) was Charlie Kirk.""
 
 </details>
 
@@ -3946,12 +3947,19 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Accused By (1)</summary>
+<summary>Accused By (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:12:56](/episodes/ep-WoXd4oLwd3w.md#t-00-12-56): “Tucker (Tucker Carlson) told him on the phone that it was Trump (Donald Trump) himself that shut down this investigation.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:48](/episodes/ep-pc3pxRyNFZk.md#t-00-48-09): “We're supposed to thank the monsters that did this. ... Thank you to Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role”
 
 </details>
 
@@ -3989,19 +3997,12 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Appeared With (10)</summary>
-
-- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
-
-</details>
+<summary>Appeared With (9)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:46](/episodes/ep-9k2xrAC0H88.md#t-01-01-46): “Where was JD Vance? I found JD Vance with Donald Trump at a restaurant that evening in D.C.”
 
 </details>
 
@@ -4245,12 +4246,12 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Michael Savage](/entities/person-michael-savage.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:53:24](/episodes/ep-sreYYcID-QY.md#t-00-52-52): “This is what... was it Michael Malice? Am I getting the name right? When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him. He's like surrounded at this moment. Michael Savage—pardon. And he's telling the truth, okay?”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4278,6 +4279,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:33:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31): “so that Trump can protect the elites. Particularly Israel, particularly Jeffrey Epstein and his entire network, it seems Trump has completely abandoned and forgotten the American people so long as he can protect the Epstein network. And by any objective metric, these videos that they are creating are fantastic depictions of how people feel. It reminds me of when Trump had an artist that was making.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:00](/episodes/ep-AH1KVKkweUE.md#t-00-36-00): “And we're losing because Trump (Donald J. Trump) is stupid, because Trump (Donald J. Trump) is listening to his advisors, has no common sense, clearly has no concept himself of just common sense foreign policy”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:11](/episodes/ep-1CFDtD0IgEg.md#t-00-35-11): “how do we have a president that was dumb enough to believe ... they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 01:02:35](/episodes/ep-LATnak75Si0.md#t-01-02-35): “And so I feel let down—obviously—by Trump (Donald Trump), but it pales in comparison to how I feel about the entire Trump (Donald Trump) family”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:50:41](/episodes/ep-pc3pxRyNFZk.md#t-00-50-41): “Trump (Donald Trump) wants a Nobel Peace Prize, by the way, for the planned ethnic cleansing so that they could profit on the land and turn it into a beach town.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:53:07](/episodes/ep-sreYYcID-QY.md#t-00-52-52): “Donald Trump is controlled by Zionists, so they're baiting me here.”
 
 </details>
 
@@ -4408,13 +4412,14 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Funded By (1)</summary>
 
 - **[Miriam Adelson](/entities/person-miriam-adelson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:07:05](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05): “And I don't believe he's reconsidering his love for Israel. Miriam Adelson gave him $100 million, and she was explicit.”
 
 </details>
 
@@ -4433,7 +4438,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Met With (4)</summary>
+<summary>Met With (5)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -4464,6 +4469,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Emmanuel Macron](/entities/person-emmanuel-macron.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:12:02](/episodes/ep-sImMM04XdWY.md#t-00-11-35): “On the same day, February 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron.”
+
+</details>
+
 </details>
 
 <details>
@@ -4484,7 +4496,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
 
 </details>
@@ -4502,16 +4514,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Ivanka Trump](/entities/person-ivanka-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Ivanka and the Middle East”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:06:20](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20): “There is Ivanka. Trump (Donald J. Trump) wouldn't and couldn't do anything without getting his daughter back.”
 
 </details>
 
 - **[Donald Trump Jr.](/entities/person-donald-trump-jr.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:50](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50): “they're playing like monopoly right they like figurines on a board they don't care okay how many do we need out here okay how many like they're like they're playing battleship it's not real it's not real because they have never had any true stake in the game right they don't have any skin in the game If does he have sons who know how to shoot? Yeah, actually, Don does.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:35:55](/episodes/ep-Qt0VHV-POCg.md#t-00-35-31): “I think Don Jr. has been probably in the shadow of his father his entire life because what he's saying when he begins to credentialize himself and said, "Oh, I was out with the Wuhan. I said this about COVID"—that's all true.”
 
 </details>
 
@@ -4535,10 +4549,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Political Ally Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03): “...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva...”
-- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00): “...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec...”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00): “...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives...”
 - [Candace x Hunter Biden: The Interview @ 01:03:57](/episodes/ep-Ux1kzgQxkws.md#t-01-03-56): “Charlie Kirk made these people, that's exactly right. He led a youth revolution to get these people elected in power.”
 
@@ -4583,7 +4596,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Spoke At (2)</summary>
+<summary>Spoke At (1)</summary>
 
 - **[Dream City Church](/entities/org-dream-city-church.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4592,21 +4605,22 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
-- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-
 </details>
 
 <details>
 <summary>Supported By (5)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56): “Charlie's (Charlie Kirk's) campus tour is publicly announced.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:30](/episodes/ep-i8m_6D4QGmk.md#t-00-33-30): “The human spirit isn't really meant to contend with that sort of deceit. You're not supposed to even fathom a scenario where someone like Charlie Kirk quite literally dedicates his entire professional career, builds up an organization meant to help Trump, to empower Trump, conservative principles one way or the other.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:12](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “Charlie (Charlie Kirk) and Ben (Ben Shapiro) deferred about the best direction for the conservative movement. Ben (Ben Shapiro) supported Ron DeSantis in the 2024 primary while Charlie (Charlie Kirk) was all in for Trump (Donald J. Trump) from the start.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:19:00](/episodes/ep-OgRyiOAVtWU.md#t-00-18-35): “Republican youth movement. President Trump (Donald Trump) called him instrumental in getting him reelected as president. There was a shooting today, and Charlie Kirk's representatives are confirming that he was shot and is being treated at this hospital.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:10:16](/episodes/ep-Qt0VHV-POCg.md#t-00-09-55): “Of course we have to arrive here because Charlie really loved Donald J. Trump, okay?”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:10:33](/episodes/ep-Qt0VHV-POCg.md#t-00-10-33): “sleepless nights, wanting to ensure that he got elected, re-elected, midterm elections, hitting the ground, wearing a MAGA hat.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:07:56](/episodes/ep-JQjCAsfoXEE.md#t-00-07-47): “And I think it is a circumstance where we all just know. We just know that he was truly betrayed in one of the most egregious ways that I think I've ever seen. It has made me lose faith in politics. It has made me fully lose faith in Trump (Donald Trump). My heart aches for the fact that he gave so much of his life to Trump (Donald Trump) and to politics.”
 
 </details>
 
@@ -4642,24 +4656,24 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Target Of Criticism From (1)</summary>
-
-- **[Michael Savage](/entities/person-michael-savage.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”
-
-</details>
-
-</details>
-
-<details>
 <summary>Threatened (1)</summary>
 
 - **[Iran](/entities/gpe-iran.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:16:10](/episodes/ep-19vHhjF7-NA.md#t-00-16-10): “President Trump said we will be hitting Iran hard”
+
+</details>
+
+</details>
+
+<details>
+<summary>Warned (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:13:02](/episodes/ep-sImMM04XdWY.md#t-00-13-02): “February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte.”
 
 </details>
 
@@ -4678,12 +4692,38 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
+<summary>Worked With (2)</summary>
+
+- **[Jared Kushner](/entities/person-jared-kushner.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:52](/episodes/ep-pc3pxRyNFZk.md#t-00-48-52): “Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role”
+
+</details>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:52](/episodes/ep-pc3pxRyNFZk.md#t-00-48-52): “Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role”
+
+</details>
+
+</details>
+
+<details>
 <summary>Referenced By (77)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:12:56](/episodes/ep-WoXd4oLwd3w.md#t-00-12-56): “Tucker (Tucker Carlson) told him on the phone that it was Trump (Donald Trump) himself that shut down this investigation.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:48](/episodes/ep-pc3pxRyNFZk.md#t-00-48-09): “We're supposed to thank the monsters that did this. ... Thank you to Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role”
 
 </details>
 
@@ -4721,17 +4761,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
-- **[Tucker Carlson](/entities/person-tucker-carlson.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
-
-</details>
-
 - **[JD Vance](/entities/person-jd-vance.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:46](/episodes/ep-9k2xrAC0H88.md#t-01-01-46): “Where was JD Vance? I found JD Vance with Donald Trump at a restaurant that evening in D.C.”
 
 </details>
 
@@ -4860,35 +4893,30 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Ivanka Trump](/entities/person-ivanka-trump.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Ivanka and the Middle East”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:06:20](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20): “There is Ivanka. Trump (Donald J. Trump) wouldn't and couldn't do anything without getting his daughter back.”
 
 </details>
 
 - **[Donald Trump Jr.](/entities/person-donald-trump-jr.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:50](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50): “they're playing like monopoly right they like figurines on a board they don't care okay how many do we need out here okay how many like they're like they're playing battleship it's not real it's not real because they have never had any true stake in the game right they don't have any skin in the game If does he have sons who know how to shoot? Yeah, actually, Don does.”
-
-</details>
-
-- **[Michael Savage](/entities/person-michael-savage.md)** critic of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:35:55](/episodes/ep-Qt0VHV-POCg.md#t-00-35-31): “I think Don Jr. has been probably in the shadow of his father his entire life because what he's saying when he begins to credentialize himself and said, "Oh, I was out with the Wuhan. I said this about COVID"—that's all true.”
 
 </details>
 
 - **[Michael Savage](/entities/person-michael-savage.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:53:24](/episodes/ep-sreYYcID-QY.md#t-00-52-52): “This is what... was it Michael Malice? Am I getting the name right? When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him. He's like surrounded at this moment. Michael Savage—pardon. And he's telling the truth, okay?”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4916,6 +4944,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:33:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31): “so that Trump can protect the elites. Particularly Israel, particularly Jeffrey Epstein and his entire network, it seems Trump has completely abandoned and forgotten the American people so long as he can protect the Epstein network. And by any objective metric, these videos that they are creating are fantastic depictions of how people feel. It reminds me of when Trump had an artist that was making.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:00](/episodes/ep-AH1KVKkweUE.md#t-00-36-00): “And we're losing because Trump (Donald J. Trump) is stupid, because Trump (Donald J. Trump) is listening to his advisors, has no common sense, clearly has no concept himself of just common sense foreign policy”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:11](/episodes/ep-1CFDtD0IgEg.md#t-00-35-11): “how do we have a president that was dumb enough to believe ... they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 01:02:35](/episodes/ep-LATnak75Si0.md#t-01-02-35): “And so I feel let down—obviously—by Trump (Donald Trump), but it pales in comparison to how I feel about the entire Trump (Donald Trump) family”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:50:41](/episodes/ep-pc3pxRyNFZk.md#t-00-50-41): “Trump (Donald Trump) wants a Nobel Peace Prize, by the way, for the planned ethnic cleansing so that they could profit on the land and turn it into a beach town.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:53:07](/episodes/ep-sreYYcID-QY.md#t-00-52-52): “Donald Trump is controlled by Zionists, so they're baiting me here.”
 
 </details>
 
@@ -5111,13 +5142,14 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Miriam Adelson](/entities/person-miriam-adelson.md)** funded this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:07:05](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05): “And I don't believe he's reconsidering his love for Israel. Miriam Adelson gave him $100 million, and she was explicit.”
 
 </details>
 
@@ -5138,8 +5170,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”
 
 </details>
-
-- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hosted speaker this
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -5170,6 +5200,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Emmanuel Macron](/entities/person-emmanuel-macron.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:12:02](/episodes/ep-sImMM04XdWY.md#t-00-11-35): “On the same day, February 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron.”
+
+</details>
+
 - **[Miss America](/entities/org-miss-america.md)** owned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -5180,16 +5217,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** pardoned by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** political ally of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03): “...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva...”
-- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00): “...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec...”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00): “...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives...”
 - [Candace x Hunter Biden: The Interview @ 01:03:57](/episodes/ep-Ux1kzgQxkws.md#t-01-03-56): “Charlie Kirk made these people, that's exactly right. He led a youth revolution to get these people elected in power.”
 
@@ -5220,13 +5256,16 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56): “Charlie's (Charlie Kirk's) campus tour is publicly announced.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:30](/episodes/ep-i8m_6D4QGmk.md#t-00-33-30): “The human spirit isn't really meant to contend with that sort of deceit. You're not supposed to even fathom a scenario where someone like Charlie Kirk quite literally dedicates his entire professional career, builds up an organization meant to help Trump, to empower Trump, conservative principles one way or the other.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:12](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “Charlie (Charlie Kirk) and Ben (Ben Shapiro) deferred about the best direction for the conservative movement. Ben (Ben Shapiro) supported Ron DeSantis in the 2024 primary while Charlie (Charlie Kirk) was all in for Trump (Donald J. Trump) from the start.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:19:00](/episodes/ep-OgRyiOAVtWU.md#t-00-18-35): “Republican youth movement. President Trump (Donald Trump) called him instrumental in getting him reelected as president. There was a shooting today, and Charlie Kirk's representatives are confirming that he was shot and is being treated at this hospital.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:10:16](/episodes/ep-Qt0VHV-POCg.md#t-00-09-55): “Of course we have to arrive here because Charlie really loved Donald J. Trump, okay?”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:10:33](/episodes/ep-Qt0VHV-POCg.md#t-00-10-33): “sleepless nights, wanting to ensure that he got elected, re-elected, midterm elections, hitting the ground, wearing a MAGA hat.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:07:56](/episodes/ep-JQjCAsfoXEE.md#t-00-07-47): “And I think it is a circumstance where we all just know. We just know that he was truly betrayed in one of the most egregious ways that I think I've ever seen. It has made me lose faith in politics. It has made me fully lose faith in Trump (Donald Trump). My heart aches for the fact that he gave so much of his life to Trump (Donald Trump) and to politics.”
 
 </details>
 
@@ -5273,6 +5312,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** warned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:13:02](/episodes/ep-sImMM04XdWY.md#t-00-13-02): “February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte.”
+
+</details>
+
 - **[Corey Lewandowski](/entities/person-corey-lewandowski.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -5292,7 +5338,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Donald J. Trump (37)</strong></summary>
+<summary><strong class="section-title">Statements by Donald J. Trump (36)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
@@ -5452,12 +5498,25 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
 
-- [00:06:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) [✓] (Claim) ["Donald Trump tweeted on April 19th, 2013 calling for public executions"](/statements/statement-b004e7f18f83.md)
-  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:13:02](/episodes/ep-sImMM04XdWY.md#t-00-13-02) [○] (Claim) ["Donald Trump asked Candace Owens on February 26 to stop speaking about Brigitte ..."](/statements/statement-83ea3697f1a3.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:06:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) [○] (Opinion) ["Should be public execution for all to see. You will end this bull fast"](/statements/statement-1dd8e1c2eb7a.md)
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:47:44](/episodes/ep-pc3pxRyNFZk.md#t-00-47-28) [✓] (Claim) ["Trump wrote that Israel and Hamas had signed off on the first phase of his peace..."](/statements/statement-3723313b2565.md)
+  - About: [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md)
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
+
+- [00:06:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) [✓] (Opinion) ["Should be public execution for all to see. You will end this bull fast"](/statements/statement-1dd8e1c2eb7a.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
@@ -5465,31 +5524,26 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (3)</summary>
 
-- [00:47:35](/episodes/ep-UBkFkg4UNY8.md#t-00-46-51) [✓] (Promise) ["We want no mercury in the vaccine. We want no aluminum in the vaccine."](/statements/statement-2e127038e3b7.md)
+- [00:47:35](/episodes/ep-UBkFkg4UNY8.md#t-00-46-51) [✓] (Opinion) ["We want no mercury in the vaccine. We want no aluminum in the vaccine."](/statements/statement-2e127038e3b7.md)
 
-- [00:47:41](/episodes/ep-UBkFkg4UNY8.md#t-00-47-35) [○] (Opinion) ["The MMR, I think, should be taken separately. ... the three should be taken sepa..."](/statements/statement-2ac02d1a3fcf.md)
+- [00:47:41](/episodes/ep-UBkFkg4UNY8.md#t-00-47-35) [✓] (Opinion) ["The MMR, I think, should be taken separately. ... the three should be taken sepa..."](/statements/statement-2ac02d1a3fcf.md)
+  - About: [MMR vaccine](/entities/concept-mmr-vaccine.md)
 
 - [00:48:37](/episodes/ep-UBkFkg4UNY8.md#t-00-48-17) [◐] (Claim) ["hepatitis B is sexually transmitted. There's no reason to give a baby that's alm..."](/statements/statement-922bb34aa10d.md)
 
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
 
-- [00:27:02](/episodes/ep-2WEHTk0Xewg.md#t-00-26-19) [○] (Claim) ["Donald Trump announced on Fox & Friends at 6am on September 12th that with a hig..."](/statements/statement-283298053299.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:27:07](/episodes/ep-2WEHTk0Xewg.md#t-00-27-02) [○] (Claim) ["I think with a high degree of certainty, we have him in custody"](/statements/statement-fa416edb0493.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:27:10](/episodes/ep-2WEHTk0Xewg.md#t-00-27-02) [✓] (Claim) ["with a high degree of certainty, we have him in custody"](/statements/statement-d06f3ebea82d.md)
+- [00:27:10](/episodes/ep-2WEHTk0Xewg.md#t-00-27-07) [✓] (Claim) ["with a high degree of certainty, we have him in custody"](/statements/statement-d06f3ebea82d.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (233)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (228)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -6343,19 +6397,16 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-03) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
   - Also about: [JD Vance](/entities/person-jd-vance.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:27:28](/episodes/ep-Kmt6HgRjckU.md#t-00-26-53) (Opinion) **Milo Yiannopoulos** (via quoted speech): ["The moment Trump said there are no Epstein files and told people to st..."](/statements/statement-ff3443878be5.md)
+- [00:27:27](/episodes/ep-Kmt6HgRjckU.md#t-00-27-05) (Opinion) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos said the moment Trump denied there were Epstein file..."](/statements/statement-ff3443878be5.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
-
-- [00:27:41](/episodes/ep-Kmt6HgRjckU.md#t-00-27-36) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos said the moment Trumpism died was when Trump dismiss..."](/statements/statement-ee6c5c698b51.md)
-  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
 
 </details>
 
@@ -6368,11 +6419,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
 
-- [00:13:02](/episodes/ep-sImMM04XdWY.md#t-00-12-26) (Claim) **Candace Owens**: ["On February 24th, the same day as Charlie Kirk's call, Donald Trump me..."](/statements/statement-a6f543e1a659.md)
-
-- [00:14:48](/episodes/ep-sImMM04XdWY.md#t-00-14-43) (Claim) **Candace Owens**: ["On February 26th, President Donald Trump called Candace and asked her ..."](/statements/statement-159af4dab4b5.md)
+- [00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) (Claim) **Candace Owens**: ["Owens said Donald Trump had pardoned Tyler Bowyer a couple of weeks ea..."](/statements/statement-31778ff478e8.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 
@@ -6398,43 +6448,53 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3)</summary>
 
-- [00:15:38](/episodes/ep-LATnak75Si0.md#t-00-15-11) (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdan..."](/statements/statement-08b3721de5cf.md)
+- [00:15:38](/episodes/ep-LATnak75Si0.md#t-00-15-38) (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdan..."](/statements/statement-08b3721de5cf.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 - [00:20:09](/episodes/ep-LATnak75Si0.md#t-00-20-02) (Accusation) **Ted Cruz** (via quoted tweet): ["Trump's bombing of the Ayatollah's nuclear facilities made the little ..."](/statements/statement-ff670def82b5.md)
   - Also about: [Nick Fuentes](/entities/person-nick-fuentes.md)
 
+- [00:55:20](/episodes/ep-LATnak75Si0.md#t-00-55-01) (Opinion) **Candace Owens**: ["Candace Owens said Donald Trump loved money and that it looked like he..."](/statements/statement-6b5f294af0f7.md)
+
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
 
-- [01:06:32](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20) (Opinion) **Candace Owens**: ["Candace Owens has no hope that Trump will seek justice for Charlie Kir..."](/statements/statement-8370a220b774.md)
+- [00:04:50](/episodes/ep-K1tFD7FfoCU.md#t-00-04-45) (Accusation) **Randy Fine** (via quoted speech): ["Tucker Carlson is the most dangerous anti-Semite in America. He has ch..."](/statements/statement-fa457366befc.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
+
+- [01:06:03](/episodes/ep-Cq7nj9rxPdo.md#t-01-05-37) (Opinion) **Candace Owens**: ["Candace Owens has no hope that Trump will seek justice for Charlie Kir..."](/statements/statement-8370a220b774.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [01:06:34](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20) (Accusation) **Candace Owens**: ["Trump invited Kash Patel to the Charlie Kirk holiday event because he ..."](/statements/statement-7b0b05f178ba.md)
+- [01:06:45](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20) (Accusation) **Candace Owens**: ["Owens said Trump's invitation of Kash Patel to the Charlie Kirk holida..."](/statements/statement-7b0b05f178ba.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Miriam Adelson gave Donald Trump 100 million dollars and was explicit ..."](/statements/statement-c5319102ec05.md)
-  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md)
-
-- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Miriam Adelson gave Trump $100 million with the explicit understanding..."](/statements/statement-794eecb6af0b.md)
+- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Owens said, as her perspective, that Miriam Adelson gave Trump 100 mil..."](/statements/statement-794eecb6af0b.md)
   - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md)
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
 
-- [00:00:18](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a..."](/statements/statement-bcc6e400e34d.md)
+- [00:50:41](/episodes/ep-pc3pxRyNFZk.md#t-00-50-41) (Accusation) **Candace Owens**: ["Owens accused Trump of seeking a Nobel Peace Prize for what she called..."](/statements/statement-2425c98d4847.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md), [Nobel Peace Prize](/entities/work-nobel-peace-prize.md)
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
+
+- [00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a..."](/statements/statement-bcc6e400e34d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
-
-- [00:06:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) (Claim) **Candace Owens**: ["Josh Hammer retweeted a 2013 Donald Trump tweet saying 'Should be publ..."](/statements/statement-b31e58c6f471.md)
-  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:06:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) (Claim) **Donald J. Trump** (via quoted tweet): ["Donald Trump tweeted on April 19th, 2013 calling for public executions"](/statements/statement-b004e7f18f83.md)
 
 - [00:06:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) (Opinion) **Donald J. Trump** (via quoted tweet): ["Should be public execution for all to see. You will end this bull fast"](/statements/statement-1dd8e1c2eb7a.md)
 
@@ -6455,35 +6515,28 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
 
-- [00:36:23](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) (Opinion) **Candace Owens**: ["Trump is occupied by Zionists and is completely powerless to say anyth..."](/statements/statement-f7180c7f382a.md)
+- [00:36:39](/episodes/ep-aDlhjfW6hz8.md#t-00-36-10) (Opinion) **Candace Owens**: ["There's no question Trump is occupied by Zionists. He's completely imp..."](/statements/statement-03d07c74ddfa.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
-- [00:36:39](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) (Opinion) **Candace Owens**: ["There's no question Trump is occupied by Zionists. He's completely imp..."](/statements/statement-03d07c74ddfa.md)
-  - Also about: [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-
-- [00:43:56](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41) (Accusation) **Candace Owens**: ["TikTok was going pro-Palestine, and a bunch of hedge fund people who a..."](/statements/statement-bd0d31f71f0b.md)
+- [00:43:56](/episodes/ep-aDlhjfW6hz8.md#t-00-43-29) (Accusation) **Candace Owens**: ["TikTok was going pro-Palestine, and a bunch of hedge fund people who a..."](/statements/statement-bd0d31f71f0b.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
-- [00:48:24](/episodes/ep-sreYYcID-QY.md#t-00-47-55) (Opinion) **Candace Owens**: ["Donald Trump is controlled by Zionists and his administration seems co..."](/statements/statement-8a5566fb01a5.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-
-- [00:48:24](/episodes/ep-sreYYcID-QY.md#t-00-47-55) (Opinion) **Candace Owens**: ["We are an occupied nation and Donald Trump's administration seems to b..."](/statements/statement-77f0fe28737e.md)
-
-- [00:53:06](/episodes/ep-sreYYcID-QY.md#t-00-52-52) (Claim) **Candace Owens**: ["The Charlie Kirk assassination memorial event in Arizona is being cont..."](/statements/statement-b66e9ce54e96.md)
+- [00:53:27](/episodes/ep-sreYYcID-QY.md#t-00-52-52) (Claim) **Candace Owens** (via paraphrase): ["Owens paraphrased Michael Savage as saying that people close to Trump ..."](/statements/statement-3538d009d6df.md)
+  - Also about: [Michael Savage](/entities/person-michael-savage.md)
 
 </details>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
-- [00:20:05](/episodes/ep-_dRaEO47-co.md#t-00-19-31) (Claim) **Candace Owens**: ["Charlie Kirk was the intermediary when Trump called about Brigitte Gab..."](/statements/statement-ec8076b5434e.md)
+- [00:19:57](/episodes/ep-_dRaEO47-co.md#t-00-19-31) (Claim) **Candace Owens**: ["Candace Owens said people correctly guessed that Charlie Kirk was prob..."](/statements/statement-3d34febf2474.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brigitte Gabriel](/entities/person-brigitte-gabriel.md)
 
 </details>

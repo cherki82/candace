@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:35:39](/episodes/ep-9naMwS0kMBE.md#t-00-35-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2139);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2139s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he said, we think he's secretly gay. And so we've been like egging him to like just like experiment and to like hook up. hook up with a guy
 

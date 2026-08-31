@@ -6,6 +6,11 @@ date: "2016-08"
 ---
 
 **Date:** 2016-08
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “In August”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2016-08"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:11:42](/episodes/ep-_vg7ucP1E0g.md#t-00-11-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(702);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=702s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In August, Lori will then go to Utah and attend an expo

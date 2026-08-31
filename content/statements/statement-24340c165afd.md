@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:29:02](/episodes/ep-Wjul6YV6izo.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1742);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=1742s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I knew that Stacy would have only done that if the girl who was writing me this email had a boatload of money. ... Erika told her to do that. Erika gave her permission to do that. ... That woman was targeted in that church,
 

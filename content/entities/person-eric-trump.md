@@ -133,7 +133,7 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for his birthday—to a fancy suit place to go get fitted.”
 
 </details>
 
@@ -157,7 +157,7 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for his birthday—to a fancy suit place to go get fitted.”
 
 </details>
 
@@ -178,7 +178,7 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
-- [00:08:30](/episodes/ep-_dRaEO47-co.md#t-00-07-52) (Claim) **Candace Owens**: ["Don Jr. and Eric Trump got Charlie Kirk a gift certificate to a fancy ..."](/statements/statement-97f789a28eaf.md)
+- [00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump Jr. and Eric Trump gave Charlie Kirk a..."](/statements/statement-43ea54efddd3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md)
 
 </details>

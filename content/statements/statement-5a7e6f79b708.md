@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:03:49](/episodes/ep-xi8SYJTUXPM.md#t-00-03-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(229);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=229s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So either that day at UVU, they had changed things up and they had zoomed in the camera so that you couldn't see the area around Charlie or Terryl (Terryl Farnsworth) had zoomed in after the fact and he was showing a cropped version.
 

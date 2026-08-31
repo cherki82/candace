@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:26:28](/episodes/ep-CEF7gQRWYCE.md#t-00-26-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1588);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1588s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I met Epstein a few times as well. ... was Reid Hoffman and Silicon Valley introduced us in 2014, ... This was 2014, it was post-arrest.
 

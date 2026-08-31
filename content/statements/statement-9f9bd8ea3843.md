@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:07:27](/episodes/ep-AoYZel7_cGQ.md#t-00-07-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(447);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=447s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Tim Pool tweeted this in response to Alex Jones. He said, none of that is true. It's just conjecture. Surprisingly, this serves as a counter to the exploding Mike claims, though.
 

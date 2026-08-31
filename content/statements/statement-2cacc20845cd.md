@@ -4,9 +4,10 @@ description: "\"If Candace Owens wasn't involved in this very quiet breakup, she
 statement_id: "statement-2cacc20845cd"
 speaker: "Patrick Bet-David"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -16,7 +17,9 @@ type: "opinion"
 
 **Speaker:** [Patrick Bet-David](/entities/person-patrick-bet-david.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Patrick Bet-David show clip
 
 ## About
 
@@ -26,15 +29,28 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:26:45](/episodes/ep-aDlhjfW6hz8.md#t-00-26-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1605);return false;">Play</a>
+**Timestamp:** [00:26:42](/episodes/ep-aDlhjfW6hz8.md#t-00-26-42) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1602s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, well, let's—you know—without even being biased, there's no question that if Candace Owens wasn't involved in this very quiet breakup, she would be the logical heir. In a perfect world, if they didn't go down this rabbit hole— she would be the logical heir to the TPUSA throne, but she's not.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an attributed opinion, not as an objective succession fact. The external transcript reproduces Patrick Bet-David's conditional statement that, absent the breakup he described, Owens would have been the logical heir to the TPUSA throne. The veracity determination confirms that he expressed the opinion in the quoted clip; it does not endorse the opinion.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 — Transcript](https://www.cockatoo.com/content/who-moved-the-camera-right-above-charlies-head-candace-ep-239)
+
+*Verified: 2026-08-30T15:30:51.464665*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

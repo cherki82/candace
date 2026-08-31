@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:08:45](/episodes/ep-ja26iltROkM.md#t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(525);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=525s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just spoke with the surgeon who worked on Charlie (Charlie Kirk) in the hospital.
 

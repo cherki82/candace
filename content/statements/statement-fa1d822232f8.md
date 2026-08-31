@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:57:58](/episodes/ep-eMtjzXkQrsU.md#t-00-57-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3478);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=3478s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was false. Charlie (Charlie Kirk) looked really good. He basically only had that entry point in the front. And the reason why it visually looked so terrible was because it hit that artery, which led to all the bleeding. But actually, Charlie (Charlie Kirk) looked really good and his neck was completely fine.
 

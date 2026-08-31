@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:37:22](/episodes/ep-iB-YtO3UZOg.md#t-00-37-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2242);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2242s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Um, the, I'm going to read one more of these comments actually from, from doctors that were writing on YouTube. One writes, I am a surgeon based on the medical examiner's report, the trajectory from the roof is not possible. Charlie was hit in the low neck. The medical examiner's report said much of his cervical spine was dramatically gone and that the left side of C2 to C7 was obliterated. To have affected up to C2, it would have had... ... to have been an upward trajectory from the point of entry on his neck.
 

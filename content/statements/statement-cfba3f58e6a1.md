@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:31:12](/episodes/ep-y8lak3CRwDw.md#t-00-31-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1872);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1872s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was formerly... uh he is also from arizona it feels like that's everyone's got to be from arizona or nevada he uh formerly worked in narcotics look at this this is in 1994 by the way he's working here um joint task force narcotics ... The amazing General Salazar, she writes. Well, look into General Salazar. And people that work with him would not say he's so amazing. ... He gets accused of being incredibly corrupt.
 

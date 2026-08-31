@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:52:54](/episodes/ep-cPidFQDJLbo.md#t-00-52-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3174);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=3174s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So that signals to me that someone in the hospital, perhaps the security team or Erika (Erika Kirk) informed him. ... And that Charlie (Charlie Kirk) was gone.
 

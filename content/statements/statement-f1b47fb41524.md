@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 **Timestamp:** [00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(130);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=130s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith
 

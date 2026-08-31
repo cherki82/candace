@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:29:35](/episodes/ep-ZAuuSq_j2_w.md#t-00-29-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1775);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=1775s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like it was—he was—they're telling us everything he said the night before, except for when he texted you guys and said that he thought they were going to kill him.
 

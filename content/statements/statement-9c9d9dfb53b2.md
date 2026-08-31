@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:57:43](/episodes/ep-y8lak3CRwDw.md#t-00-57-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3463);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=3463s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, yes, that's how Benjamin Mileikowsky, Benjamin Mileikowsky becomes Netanyahu because it just sounds more biblical despite the fact that he is a worshiper of the occult and is obviously possessed by a lot of demons.
 

@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [01:00:16](/episodes/ep-tB5SXXmd9vU.md#t-00-59-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3616);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=3616s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This seems to me to be an identity that was just created and materialized for this family and that the true family is a very powerful family, and that is why they are so obsessed with protecting this absurd state secret
 

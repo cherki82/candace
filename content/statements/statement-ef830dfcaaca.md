@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:06:56](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(416);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=416s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > December 15th does not work in person, and 2 p.m. happens to also be the literal time that I do my podcast live every day, which you knew. But we will happily cancel the daily podcast, and we'll join you guys virtually instead for the live stream on the 15th.
 

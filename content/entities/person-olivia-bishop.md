@@ -21,7 +21,7 @@ Source: [Orem woman recounts encounter — KSL](https://www.ksl.com/article/news
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-16-46">2025-10-02 · 00:17:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-21-03">2025-10-02 · 00:21:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-20-55">2025-10-02 · 00:21:28</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -59,11 +59,11 @@ Source: [Orem woman recounts encounter — KSL](https://www.ksl.com/article/news
 **[00:17:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-16-46)**
 > "Let's listen to her testimony now. [CLIP ATTRIBUTION: Olivia Bishop speaking in this clip.]"
 
-**[00:17:32](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-17-32)**
-> "I kind of realized the type of street I was on, a little bit more secluded, you know. Olivia Bishop retraces her steps where she came face to face with Charlie (Charlie Kirk)'s alleged killer."
-
-**[00:21:28](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-21-03)**
+**[00:21:28](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-20-55)**
 > "...at time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for the Orem Police, records specialist, and yeah, she works as the Orem Police records ..."
+
+**[00:17:36](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-17-36)**
+> "Olivia Bishop retraces her steps where she came face to face wi..."
 
 </details>
 

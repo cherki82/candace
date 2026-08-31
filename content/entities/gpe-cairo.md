@@ -21,7 +21,7 @@ _Type: Places_
 Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42">2025-10-30 · 00:16:07</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-16-02">2025-10-30 · 00:16:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-32-40">2026-05-27 · 00:32:56</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>38</strong></div>
@@ -35,10 +35,10 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-09-40">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42" style="--pulse-height:27%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-16-02" style="--pulse-height:27%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-09-40" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 11 mentions" title="2025-10-31 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26" style="--pulse-height:18%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53" style="--pulse-height:27%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-22" style="--pulse-height:18%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-28" style="--pulse-height:27%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47" style="--pulse-height:45%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46" style="--pulse-height:9%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23" style="--pulse-height:18%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
@@ -50,10 +50,10 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-16-02) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-09-40) | 11 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26) | 2 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53) | 3 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-22) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-28) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47) | 5 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23) | 2 |
@@ -159,10 +159,10 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
 
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53)**
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-28)**
 > "...quests, but this one's happening quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wi..."
 
-**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-18-13)**
+**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-17-44)**
 > "...e were so surprised when we got this. Yeah, they depart on the 26th from Wilmington heading back to Cairo. They released it in that period of time that they're suing me. On July 27th, I'm showing you this ..."
 
 **[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-20-22)**
@@ -173,10 +173,10 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
+**[00:19:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-22)**
 > "...hrough this logic and ask yourself how this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged ..."
 
-**[00:19:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
+**[00:19:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-59)**
 > "...ng at 8:54 a.m., and this time it stays in Wilmington until November 20th. And only then returns to Cairo. So that is two Wilmington arrivals in the same week. Nobody burns a government Falcon 7X on two se..."
 
 </details>
@@ -222,13 +222,13 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
-**[00:16:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42)**
+**[00:16:02](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-16-02)**
 > "...actors. And for a fact, they were dropped off in Provo, okay? And that they did not make it back to Cairo. They showed you—I showed you—the plane left. They left on September 10th. It then laid over in Wil..."
 
-**[00:16:16](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42)**
+**[00:16:14](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-16-02)**
 > "...left. They left on September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those people were mysteriously missi..."
 
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-19-07)**
+**[00:19:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-18-37)**
 > ".... If you look under 2025, you will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing..."
 
 </details>

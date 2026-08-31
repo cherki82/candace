@@ -6,6 +6,11 @@ date: "2025-09-20"
 ---
 
 **Date:** 2025-09-20
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “On the day of that Catholic funeral mass”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-20"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:25:44](/episodes/ep-AoYZel7_cGQ.md#event-event-2025-09-20-candace-owens-said-funeral-attendees-wer-t-00-25-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1544);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=1544s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rather, they were told, you leave and we'll handle the rest.

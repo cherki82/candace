@@ -24,7 +24,7 @@ _Type: Organizations_
 Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov/who-we-are)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43">2025-12-17 · 00:32:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08">2025-12-17 · 00:32:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-39-52">2026-08-14 · 02:39:52</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
@@ -38,7 +38,7 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-38-11">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-38-11" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
@@ -46,7 +46,7 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-38-11) | 3 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09) | 3 |
 
@@ -89,10 +89,10 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:32:25](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43)**
+**[00:32:25](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08)**
 > "including sending US marshals on a wild goose chase"
 
-**[00:32:11](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43)**
+**[00:32:08](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08)**
 > "...rything up, including sending US marshals on a wild goose chase."
 
 </details>

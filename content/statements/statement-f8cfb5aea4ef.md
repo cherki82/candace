@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:19:14](/episodes/ep-YA1FxrDWNIo.md#t-00-18-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1154);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1154s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And my goodness, you guys, I almost jumped when I learned that that website he was referring to—Buzzards & Bees—is a gothic underground in Provo, okay? So this is the website. It's a gothic underground, of all things, in Provo: the website Buzzards & Bees. And they're speaking about a gothic prom.
 

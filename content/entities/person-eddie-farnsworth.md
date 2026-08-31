@@ -27,7 +27,7 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -133,13 +133,6 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 </details>
 
 <details>
-<summary>Chairman Of (1)</summary>
-
-- **[Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee.md)**
-
-</details>
-
-<details>
 <summary>Close Associate Of (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
@@ -224,7 +217,7 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -246,8 +239,6 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth. And his first cousins are longtime Arizona congressman Eddie Farnsworth.”
 
 </details>
-
-- **[Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee.md)** has chairman this
 
 - **[Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee.md)** has former chairman this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

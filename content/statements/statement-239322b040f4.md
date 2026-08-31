@@ -1,16 +1,16 @@
 ---
-title: "Ben Shapiro had no allegiance to Charlie Kirk when he was al..."
-description: "\"Ben Shapiro had no allegiance to Charlie Kirk when he was alive\" — Candace Owens"
+title: "Owens said Ben Shapiro had no allegiance to Charlie Kirk whi..."
+description: "\"Owens said Ben Shapiro had no allegiance to Charlie Kirk while Kirk was alive\" — Candace Owens"
 statement_id: "statement-239322b040f4"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Ben Shapiro had no allegiance to Charlie Kirk when he was alive
+> Owens said Ben Shapiro had no allegiance to Charlie Kirk while Kirk was alive
 
 ## Attribution
 
@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:00:24](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(24);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=24s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's odd because Ben had no allegiance to Charlie Kirk when he was alive.
 
@@ -37,4 +37,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

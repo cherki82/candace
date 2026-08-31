@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:17:03](/episodes/ep-UYkXV9mYbT4.md#t-00-16-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1023);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=1023s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What they keep conveniently leaving out is that they found a total of six sets of prints on the gun. It is not shocking that Tyler Robinson's gun had Tyler Robinson's prints on it.
 

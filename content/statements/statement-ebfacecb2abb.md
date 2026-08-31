@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:10:19](/episodes/ep-QRS_hR7NXaQ.md#t-00-10-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(619);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can look this up yourself that we, like I told you, set up our military base Camp Alpha right on top of ancient Babylon.
 

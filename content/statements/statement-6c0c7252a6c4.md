@@ -1,8 +1,8 @@
 ---
-title: "the gun was found in the backyard of someone that I know... ..."
-description: "\"the gun was found in the backyard of someone that I know... by a chicken coop.\" — Candace Owens"
+title: "A local source told Owens that the gun was found in a backya..."
+description: "\"A local source told Owens that the gun was found in a backyard by a chicken coop.\" — Anonymous Source #4 (Ep sreYYcID-QY)"
 statement_id: "statement-6c0c7252a6c4"
-speaker: "Candace Owens"
+speaker: "Anonymous Source #4 (Ep sreYYcID-QY)"
 type: "factual_claim"
 veracity: "false"
 ---
@@ -11,22 +11,23 @@ veracity: "false"
 
 ## Statement
 
-> the gun was found in the backyard of someone that I know... by a chicken coop.
+> A local source told Owens that the gun was found in a backyard by a chicken coop.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous Source #4 (Ep sreYYcID-QY)](/entities/anon-src-sreYYcID-QY-004.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** anonymous local source
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:25:04](/episodes/ep-sreYYcID-QY.md#t-00-24-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1504);return false;">Play</a>
+**Timestamp:** [00:24:33](/episodes/ep-sreYYcID-QY.md#t-00-24-33) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1473s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The locals are theorizing— again, we have no proof of this, but this is what they are saying—is that they're not being honest about the fact that the house right next door to where the gun was found is a mysteriously vacant home that is owned by the university itself,...
+> And this person tells me: actually, the gun was found in the backyard of someone that I know. We all know each other. And it was found by a chicken coop.
 
 ## Verification
 

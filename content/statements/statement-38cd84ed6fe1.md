@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:35:12](/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2112);return false;">Play</a>
+**Timestamp:** [00:35:12](/episodes/ep-2Riv3I7D0Yk.md#t-00-35-12) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=2112s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, or the New York Post reported, I think, right, that it was at night—that at the same time, that same day, he's texting people saying they are going to kill me
+> he was texting people saying they are gonna kill me. On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, or the New York Post reported, I think, right, that it was at night—that at the same time, that same day, he's texting people saying they are going to kill me.
 
 ## Verification
 

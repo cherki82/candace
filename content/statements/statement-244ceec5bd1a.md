@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:15:58](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(958);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=958s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And throughout his testimony, we learn that one of the big mysteries of this case was why his father, Tony (Tony Erpenbeck), had transferred so much money to LLCs that were under Rick (Richard Erpenbeck)'s control.
 

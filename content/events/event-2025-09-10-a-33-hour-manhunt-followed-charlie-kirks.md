@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th; 33 hours”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:02:41](/episodes/ep-Vu6Y24pqhZs.md#event-event-2025-09-10-a-33-hour-manhunt-followed-charlie-kirks-t-00-02-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(161);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 33, 33, 33, 33, there was this manhunt for Charlie Kirk's alleged killers.

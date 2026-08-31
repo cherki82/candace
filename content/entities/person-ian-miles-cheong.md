@@ -1,6 +1,6 @@
 ---
 title: "Ian Miles Cheong"
-description: "Ian Miles Cheong (People) - 2 mentions"
+description: "Ian Miles Cheong (People) - 4 mentions"
 id: "person-ian-miles-cheong"
 type: "PERSON"
 categories:
@@ -17,10 +17,10 @@ _Type: People_
 Source: [Ian Miles Cheong on X](https://x.com/ianmiles/status/2013491248905232877)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-ian-miles-cheong-t-00-08-36">2026-05-07 · 00:08:36</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-miles-cheong-t-00-44-48">2025-11-06 · 00:44:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-ian-miles-cheong-t-00-08-36">2026-05-07 · 00:08:36</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -29,14 +29,18 @@ Source: [Ian Miles Cheong on X](https://x.com/ianmiles/status/201349124890523287
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-ian-miles-cheong-t-00-08-36">STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-miles-cheong-t-00-44-48">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-miles-cheong-t-00-44-48" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-ian-miles-cheong-t-00-08-36" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-miles-cheong-t-00-44-48) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-ian-miles-cheong-t-00-08-36) | 1 |
 
 </details>
@@ -45,13 +49,29 @@ Source: [Ian Miles Cheong on X](https://x.com/ianmiles/status/201349124890523287
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
 
 **[00:08:36](/episodes/ep-FFQ9675oqRI.md#ent-person-ian-miles-cheong-t-00-08-36)**
 > "Then we had Ian Miles Cheong. We still don't know what he's doing involved at ..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:37:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46)**
+> "She keeps files and cuts people out of context and then sends it to people like Ian Miles Chong."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:44:52](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-miles-cheong-t-00-44-48)**
+> "...tle orbit of bees online like Ian Miles Cheong—who's like a despicable human being—and says like..."
 
 </details>
 

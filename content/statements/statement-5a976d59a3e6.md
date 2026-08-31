@@ -28,10 +28,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2963);return false;">Play</a>
+**Timestamp:** [00:49:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-40) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=2989s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie was shot was 23 and was a hero that day. ... Newsflash: there is no normal when you're in shock.
+> Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie (Charlie Kirk) was shot was 23 and was a hero that day. ... Newsflash: there is no normal when you're in shock. There is no normal when an abnormal thing happens.
 
 ## Verification
 

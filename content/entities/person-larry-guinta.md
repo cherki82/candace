@@ -284,7 +284,7 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes â€
 - [00:17:28](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09) (Claim) **Candace Owens**: ["The gun patent that interested Lori Frantzve and Larry Guinta is now a..."](/statements/statement-c5d141a804da.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
 
-- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pend..."](/statements/statement-2c06601c490a.md)
+- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["Owens alleged that, in late 2016, Lori Frantzve and Larry Guinta met t..."](/statements/statement-2c06601c490a.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [GTEC Industries](/entities/org-gtec-industries.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 - [00:21:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-04) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["Nothing materialized from the gun-patent meeting involving Lori Frantz..."](/statements/statement-0cab9ea536d9.md)

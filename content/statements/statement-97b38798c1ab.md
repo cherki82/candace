@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-07-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4094);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=4094s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Bassem Youssef was a major reason that I woke up and The Daily Wire denied my request while I was there to have him on my show.
 
@@ -38,7 +38,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(172);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=172s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Don't know who he is, but like I really would like to like just hear the other side and my producer ran it up the chain and came back to me and said, we are not allowed to have Bassem Youssef on.
 

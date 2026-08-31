@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:43:06](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2586);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2586s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, Pastor Terry Crist is mentioned on her X feed as early as 2011. She says Pastor Terry (Terry Crist) is awesome. ... I cherish your friendship and I'm grateful for your love, Judith Crist. That would be his wife. ... I am totally obsessed with City of Grace
 

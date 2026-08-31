@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:44:53](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2693);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2693s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So he is very good friends with Brian Houston, who was the founder of Hillsong. ... Brian Houston resigned eventually, and then right afterward Pastor Terry Crist also resigned from his church, but he said it wasn't related, so nothing to see there.
 

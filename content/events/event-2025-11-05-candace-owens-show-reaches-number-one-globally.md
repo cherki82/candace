@@ -6,6 +6,7 @@ date: "2025-11-05"
 ---
 
 **Date:** 2025-11-05
+**Date precision:** Day
 
 ## Event
 
@@ -15,6 +16,6 @@ date: "2025-11-05"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:28:08](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-11-05-candace-owens-show-reaches-number-one-globally-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1688);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=1688s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > aying I faked the text messages again, the ones I showed regarding Ben Shapiro. They got AI analysis. These are fake. They're sending experts—quote-unquote experts—out to diagnose me at my show, and t

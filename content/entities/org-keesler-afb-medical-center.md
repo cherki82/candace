@@ -5,11 +5,19 @@ id: "org-keesler-afb-medical-center"
 type: "ORG"
 aliases:
   - "Keesler AFB Medical Center"
+categories:
+  - "military medical center"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Keesler AFB Medical Center
+
+**Categories:** military medical center
+
+**Entity verification:** verified
+> Official TRICARE site confirms the canonical facility name Keesler Medical Center at Keesler Air Force Base.
+Source: [Keesler Medical Group - Keesler Air Force Base](https://keesler.tricare.mil/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-keesler-afb-medical-center-t-00-28-37">2025-10-28 · 00:29:16</a></strong></div>
@@ -17,8 +25,8 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,18 +63,27 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Trained (1)</summary>
+
+- **[Lee Trotter](/entities/person-lee-trotter.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37): “The doctor who worked on Charlie (Charlie Kirk) was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi.”
 
 </details>
 
-<details open>
-<summary><strong class="section-title">Statements about Keesler Air Force Medical Center (1)</strong></summary>
+</details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+<summary>Referenced By (1)</summary>
 
-- [00:29:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37) (Claim) **Candace Owens**: ["Dr. Lee Trotter completed his residency at Keesler Air Force Medical C..."](/statements/statement-35608f23ed8d.md)
-  - Also about: [Lee Trotter](/entities/person-lee-trotter.md)
+- **[Lee Trotter](/entities/person-lee-trotter.md)** trained by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37): “The doctor who worked on Charlie (Charlie Kirk) was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi.”
+
+</details>
 
 </details>
 

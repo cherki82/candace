@@ -33,9 +33,9 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-harris-faulkner-t-00-47-51">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00" style="--pulse-height:75%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-harris-faulkner-t-00-47-51" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-harris-faulkner-t-00-12-27" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
@@ -43,7 +43,7 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00) | 4 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00) | 3 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-harris-faulkner-t-00-47-51) | 4 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-harris-faulkner-t-00-12-27) | 1 |
 
@@ -81,7 +81,7 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
 **[00:00:34](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00)**
 > "...t gave an interview live with Harris Faulkner on Fox News, where she finally addressed the quot..."
@@ -89,11 +89,8 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 **[00:02:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-02-09)**
 > "... she's sitting down here with Harris Faulkner."
 
-**[00:03:15](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-02-53)**
+**[00:03:12](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-02-53)**
 > "And at first, Harris Faulkner is asking about that claim."
-
-**[00:03:42](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-02-53)**
-> "Harris Faulkner: Talk to me about this part of the conspiracies"
 
 </details>
 

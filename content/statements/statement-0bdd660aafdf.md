@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:36:31](/episodes/ep-puuMVxEu5NU.md#t-00-36-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2191);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2191s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > how many people you get to retweet you how big your uh your post is and that's why they're tweeting all day like psychopaths when you're going is this your full-time job how are you tweeting about candace owens 300 times a day is this your full-time job they're trying to get you to engage because they get paid off of the engagement so it's actually a really important article for you to read and it tells you that under the agreement parscale was meant to produce 100 original pieces of content each month ... month, and 80% of it was initially supposed to be aimed at Gen Z across TikTok, Instagram, YouTube, and they basically just drafted this services agreement and they pledged to amplify the campaign all across social media and to integrate that message with the Salem Media Network properties, which we have discussed on this show, targeting Christians, targeting MAGA supporters who are supposed to get behind Trump (Donald Trump) and say, yeah, Israel, go ahead, do that genocide.
 

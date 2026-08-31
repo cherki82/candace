@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:40:31](/episodes/ep-EtLHqDbxqks.md#t-00-40-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2431);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2431s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The range of the diameter for the 6A bullet jacket fragment was 0.286 to 0.301 inches.
 

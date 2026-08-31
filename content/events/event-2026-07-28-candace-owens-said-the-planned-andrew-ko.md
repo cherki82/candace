@@ -6,6 +6,11 @@ date: "2026-07-28"
 ---
 
 **Date:** 2026-07-28
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “today”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-07-28"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:01:24](/episodes/ep-Vu6Y24pqhZs.md#event-event-2026-07-28-candace-owens-said-the-planned-andrew-ko-t-00-01-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(84);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=84s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the meeting was suddenly canceled and suddenly Andrew Kolvet emerges from his 25-hour silence

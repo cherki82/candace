@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:04:07](/episodes/ep-1CFDtD0IgEg.md#t-00-03-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(247);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=247s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, I'm talking about Candace Owens. Yeah, yeah, it's it's ridiculous. You don't accuse people of murder without evidence, but that's what she's doing left and right.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:40:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2444);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2444s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She also claimed that Charlie (Charlie Kirk)'s after Charlie (Charlie Kirk)'s assassination, ... Erica (Erika Kirk) was her best friend and her cousin. ... Nicole Rothstein said this.
 

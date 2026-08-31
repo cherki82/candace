@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:38:13](/episodes/ep-_cNtgris8Ik.md#t-00-38-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2293);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2293s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, if you go back far enough, I mean, that's why I mean, I put out that tweet basically saying, you know, Candace, your central foundational lie is that you and Charlie were friends. You were not friends. ... I think Charlie and Candace were friends back in 2018, part of 2019. That did not end well at all, actually.
 

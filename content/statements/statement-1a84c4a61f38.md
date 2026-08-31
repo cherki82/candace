@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:03:23](/episodes/ep-BxN2-aeMYIs.md#t-00-03-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(203);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > happened this weekend at the White House. A perpetrator fired bullets. He was killed.
 

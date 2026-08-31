@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:12:53](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(773);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=773s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was involved in a scandal that almost brought down the French government
 

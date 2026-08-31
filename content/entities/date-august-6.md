@@ -8,8 +8,8 @@ type: "DATE"
 _Type: Dates_
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-date-august-6-t-00-07-21">2025-09-25 · 00:07:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-date-august-6-t-00-07-21">2025-09-25 · 00:07:35</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-date-august-6-t-00-07-21">2025-09-25 · 00:07:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-date-august-6-t-00-07-21">2025-09-25 · 00:07:34</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -41,7 +41,7 @@ _Type: Dates_
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:07:35](/episodes/ep-K5GjF53bfN4.md#ent-date-august-6-t-00-07-21)**
+**[00:07:34](/episodes/ep-K5GjF53bfN4.md#ent-date-august-6-t-00-07-21)**
 > "... should call out how little sense that makes, especially because one of the influencers did post on August 6 that she was in the Hamptons. Actually, Emily Loves America—Emily Saves America, pardon me—said, wh..."
 
 </details>

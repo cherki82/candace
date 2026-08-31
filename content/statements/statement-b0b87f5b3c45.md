@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:35:12](/episodes/ep-mLvJqdxS-FY.md#t-00-34-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2112);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=2112s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And you're part of, like I said, that movement of Christian pastors who hail from literal military operations designed to target Christians because that was and is still a thing. ... And your job is to persuade gullible evangelicals that it is their biblical duty to follow their governments into the pits of hell.
 

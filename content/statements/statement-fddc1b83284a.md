@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:14:05](/episodes/ep-2WEHTk0Xewg.md#t-00-13-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(845);return false;">Play</a>
+**Timestamp:** [00:14:05](/episodes/ep-2WEHTk0Xewg.md#t-00-13-38) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=845s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The campus is four hours—three to four hours—away from where Tyler and Lance live together
 

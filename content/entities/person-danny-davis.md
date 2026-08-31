@@ -3,9 +3,17 @@ title: "Danny Davis"
 description: "Danny Davis (People) - 1 mention"
 id: "person-danny-davis"
 type: "PERSON"
+categories:
+  - "criminal defense attorney"
 ---
 
 _Type: People_
+
+**Categories:** criminal defense attorney
+
+**Entity verification:** verified
+> Los Angeles Times sentencing coverage identifies attorney Danny Davis in the Cimino case.
+Source: [Los Angeles Times: Child Molester Draws an 8-Year Term in Prison](https://www.latimes.com/archives/la-xpm-1995-10-07-me-54219-story.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-danny-davis-t-00-09-54">2025-11-13 · 00:10:11</a></strong></div>

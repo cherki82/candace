@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:13:11](/episodes/ep-Pb7UlpRdW6U.md#t-00-12-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Internal teams tell me that what is most remarkable is that for some reason, that email, that evening, the White House campus security protocol and the perimeters were just out of the ordinary. Everybody was somehow available and on standby for some unknown reason. ... They said things ran too smoothly. They've been in situations where it is a situation and people scramble. That was not what occurred that night.
 

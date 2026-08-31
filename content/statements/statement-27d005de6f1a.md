@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1994);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=1994s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA? Well, I heard that this Uber driver said that you may have said something. Bring her into the room. ... She may have critiqued Erika (Erika Kirk). Not allowed.
 

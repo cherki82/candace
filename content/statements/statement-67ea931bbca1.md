@@ -22,8 +22,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:43:40](/episodes/ep-q7f8r-THr84.md#t-00-43-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2620);return false;">Play</a>
+**Timestamp:** [00:43:40](/episodes/ep-q7f8r-THr84.md#t-00-43-25) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2620s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, as I have said multiple times, what I am uncovering here is a response to what I feel was a severe misrepresentation by Benjamin Netanyahu and his echo here in America, of which I would say Josh Hammer and Seth Dillon are part of that echo, okay
 

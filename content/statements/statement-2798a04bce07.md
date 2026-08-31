@@ -21,8 +21,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:17:03](/episodes/ep-9k2xrAC0H88.md#t-00-16-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1023);return false;">Play</a>
+**Timestamp:** [00:17:03](/episodes/ep-9k2xrAC0H88.md#t-00-16-52) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=1023s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Freya, I'm told by police officers, essentially traced the scent from the bottom of the building where we saw a person jump off, right? and back to the top of the building
 

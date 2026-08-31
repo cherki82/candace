@@ -4,9 +4,10 @@ description: "\"The footage of Tyler Robinson turning himself in is apparently m
 statement_id: "statement-0a41ad054098"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -26,13 +27,27 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
 **Timestamp:** [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(488);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=488s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the footage of Tyler Robinson (accused shooter) turning himself in is apparently missing.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript qualified the claim as apparently missing, reflecting reported availability at that time. Current July 2026 hearing reporting directly states that security footage from the Washington County Sheriff's Office was released publicly and showed Robinson at surrender. Thus any earlier lack of access may have been real, but the footage is not currently missing; the time-sensitive claim is mixed rather than wholly true or false.
+
+**Confidence:** High
+
+**Sources:**
+
+- [What we learned during Tyler Robinson's preliminary hearing](https://www.deseret.com/politics/2026/07/10/tyler-robinson-preliminary-hearing-charlie-kirk-assassination-utah-court/)
+- [Utah County Attorney: Charlie Kirk Case Updates](https://atty.utahcounty.gov/media/ckpr)
+
+*Verified: 2026-08-30T17:50:52.918520*
 
 ---
 

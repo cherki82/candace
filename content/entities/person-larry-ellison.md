@@ -16,7 +16,7 @@ _Type: People_
 Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en/corporate/executives/larry-ellison/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42">2025-10-01 · 00:31:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-31-16">2025-10-01 · 00:31:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-52-49">2026-01-29 · 00:52:49</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
@@ -30,7 +30,7 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-31-16" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21" style="--pulse-height:50%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 </div>
@@ -38,7 +38,7 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-31-16) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04) | 2 |
 
@@ -72,7 +72,7 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:31:16](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42)**
+**[00:31:16](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-31-16)**
 > "... again. So he's saying, I want this deal to go through, and we know who's a part of that deal. It's Larry Ellison, who has made, he's very clear about the fact he's an agent of Israel. Andreessen Horowitz, the son..."
 
 </details>

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:34:07](/episodes/ep-1CFDtD0IgEg.md#t-00-34-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2047);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2047s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Some members, at least, of the Turning Point USA team stayed at the Asher Adams Autograph Collection Hotel in Salt Lake City. ... here is Andrew Kolvet on Benny Johnson's show on september 11th this is still here that we're showing you and that was all it took i just love the internet Internet sleuths got him and Tyler Bowyer and here's the ash asher adams hotel there it is bang
 

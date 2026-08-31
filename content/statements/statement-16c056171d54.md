@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:23:47](/episodes/ep-hWTdXHGQ8R4.md#t-00-23-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1427);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1427s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we're told oh it's because he had messaging app not true Dan Flood messaged on iMessage
 

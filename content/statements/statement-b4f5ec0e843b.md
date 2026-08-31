@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:31:11](/episodes/ep-his-JBjlkh8.md#t-00-30-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1871);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1871s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 30-06 bullets do not get stopped by human necks because they eat healthy.
 

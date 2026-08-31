@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:04:51](/episodes/ep-ZGxnf5cj4Uw.md#t-00-04-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(291);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=291s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Of most interest to me, what I've learned is that his father does not believe—his parents don't believe—that their son committed this crime. I was like, huh? Excuse me?
 

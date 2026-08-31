@@ -29,8 +29,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1779);return false;">Play</a>
+**Timestamp:** [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-13) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=1779s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But if the area lies in the Provo, Utah airspace, I can't fly it. ... That's a 107B. ... We can't break the rules, right? ... And then you had secondary restrictions probably due to heavy foot traffic for the school, but I can't go in and break the rules.
 

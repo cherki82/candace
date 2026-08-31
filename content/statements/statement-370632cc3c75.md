@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:29:48](/episodes/ep-QdM9jLwjwLw.md#t-00-29-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1788);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=1788s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > everything that's happened to have them admit that they work 20 hour days to see how they were manipulated into doing that and then having the carpet pulled under their feet and told goodbye.
 

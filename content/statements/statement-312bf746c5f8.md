@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=487s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.
 

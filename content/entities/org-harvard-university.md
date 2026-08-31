@@ -1,6 +1,6 @@
 ---
 title: "Harvard University"
-description: "Harvard University (Organizations) - 6 mentions"
+description: "Harvard University (Organizations) - 7 mentions"
 id: "org-harvard-university"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [About Harvard University](https://www.harvard.edu/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02">2025-10-09 · 00:49:02</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-harvard-university-t-00-29-10">2025-09-15 · 00:29:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-harvard-university-t-00-31-26">2026-05-13 · 00:31:56</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,9 +34,10 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-48-52">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-harvard-university-t-00-29-10" style="--pulse-height:50%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-48-52" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-09" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-harvard-university-t-00-20-19" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-harvard-university-t-00-31-26" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
@@ -45,7 +46,8 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02) | 2 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-harvard-university-t-00-29-10) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-48-52) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-09) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-harvard-university-t-00-20-19) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-harvard-university-t-00-31-26) | 1 |
@@ -56,7 +58,7 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
@@ -88,11 +90,19 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02)**
-> "... Kushner) when he sat down at Harvard, Assad operation, to speak about their aim. (Clip..."
+**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-48-52)**
+> "I mean, let's roll the clip back from Jared Kushner when he sat down at Harvard, Assad operation, to speak about their aim. (Clip: Jared Kushner) This is February 15th, 2024."
 
-**[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02)**
+**[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-48-52)**
 > "when he sat down at Harvard, Assad operation, to speak about their aim"
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+
+**[00:29:36](/episodes/ep-czVBmqZP6Ss.md#ent-org-harvard-university-t-00-29-10)**
+> "The sweatpants and the Harvard jacket, the kind of disheveled hair, looking as i..."
 
 </details>
 

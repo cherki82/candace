@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:46:10](/episodes/ep-4YgrOhhy708.md#t-00-45-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2770);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2770s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, I have not. ... And we are still working through some of the tips. I have not received any communication from them. ... I will tell you that they have always been exceedingly private.
 

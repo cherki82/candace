@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(754);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=754s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there, okay?
 

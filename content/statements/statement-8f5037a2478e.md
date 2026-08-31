@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-25-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1508);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1508s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > picked Ron Godwin not only just to run the Washington Times for him, which I told you they purchased the Washington Times, but Moon also declared Ron Godwin to be one of his three disciples,
 

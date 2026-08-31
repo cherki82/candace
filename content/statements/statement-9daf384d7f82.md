@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:12:23](/episodes/ep-19vHhjF7-NA.md#t-00-12-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(743);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=743s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But, you know, look, my preference has always been take Kharg Island. That's been, Brian knows that, I spoke to him a long time ago, Lawrence knows it. I spoke to him a long time ago. I said my preference would be that. I don't know that America has the stomach for it, to be honest with you.
 

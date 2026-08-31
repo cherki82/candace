@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:39:30](/episodes/ep-eMtjzXkQrsU.md#t-00-39-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2370);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2370s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By the way, they refer to this as Project 545 because I believe that's how much money they put into it initially when they established this idea of propaganda. Project 545 was $545 million that they were going to spend. Havas Media.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1020);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when the elderly man died less than three years later at the age of 95. The family discovered that he had changed his will. He changed his will in November of 2023. So for clarity, just four months before this man died at the age of 95, he moved to change his will. You'll never guess who he decided to leave his estate to, the estate which was valued at $25 million. He left it, split it amongst turning point action, headed up by none other than Tyler Boyer.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:03:22](/episodes/ep-G3zdOeHpvS0.md#t-00-03-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(202);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=202s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a necklace that Charlie (Charlie Kirk) was wearing it's a cross necklace and had some medallions on it and when I went into the back seat of that car I pulled my bag out and that necklace was attached somehow just kind of draped over the bag so I gave it to Mikey (Michael McCoy) and I said Mikey (Michael McCoy) I
 

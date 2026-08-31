@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3237);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3237s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Leo should be thankful because, as everyone knows, he was a shocking surprise. ... He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. ... Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.
 

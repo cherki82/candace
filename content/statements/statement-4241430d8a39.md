@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(808);return false;">Play</a>
+**Timestamp:** [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-11) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=808s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lou Taylor makes them say 10% has to go to the church if they want to be blessed.
 

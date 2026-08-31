@@ -1,6 +1,6 @@
 ---
 title: "Home equity line of credit"
-description: "Home equity line of credit (Concepts) - 50 mentions"
+description: "Home equity line of credit (Concepts) - 60 mentions"
 id: "concept-home-equity-line-of-credit"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [What is a home equity loan or line of credit? | CFPB](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-loan-or-line-of-credit-en-106/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27">2025-10-02 · 00:41:51</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-home-equity-line-of-credit-t-00-56-30">2025-09-15 · 00:56:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28">2026-08-14 · 03:00:33</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,11 +33,21 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-home-equity-line-of-credit-t-00-56-30">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-home-equity-line-of-credit-t-00-56-30" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-home-equity-line-of-credit-t-01-09-09" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-home-equity-line-of-credit-t-00-47-20" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-home-equity-line-of-credit-t-00-52-22" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-concept-home-equity-line-of-credit-t-00-41-32" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-36" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-home-equity-line-of-credit-t-00-55-11" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-concept-home-equity-line-of-credit-t-00-55-38" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-home-equity-line-of-credit-t-01-03-11" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-home-equity-line-of-credit-t-00-24-51" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-23" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-concept-home-equity-line-of-credit-t-00-59-23" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-home-equity-line-of-credit-t-00-22-51" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-home-equity-line-of-credit-t-01-00-18" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-54-16" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-home-equity-line-of-credit-t-01-15-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
@@ -90,9 +100,19 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27) | 1 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-concept-home-equity-line-of-credit-t-00-56-30) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-home-equity-line-of-credit-t-01-09-09) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-home-equity-line-of-credit-t-00-47-20) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-concept-home-equity-line-of-credit-t-00-52-22) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-concept-home-equity-line-of-credit-t-00-41-32) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-36) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-home-equity-line-of-credit-t-00-55-11) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-46) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-home-equity-line-of-credit-t-00-55-38) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-home-equity-line-of-credit-t-01-03-11) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-home-equity-line-of-credit-t-00-24-51) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-23) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-concept-home-equity-line-of-credit-t-00-59-23) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-home-equity-line-of-credit-t-00-22-51) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-home-equity-line-of-credit-t-01-00-18) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-54-16) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-home-equity-line-of-credit-t-01-15-07) | 1 |
@@ -147,7 +167,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
@@ -526,10 +546,50 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 </details>
 
 <details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:22:59](/episodes/ep-9k2xrAC0H88.md#ent-concept-home-equity-line-of-credit-t-00-22-51)**
+> "Unlike a HELOC, which can fluctuate with the market, the Smart E..."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:59:23](/episodes/ep-es7PWdFGoFI.md#ent-concept-home-equity-line-of-credit-t-00-59-23)**
+> "Unlike a HELOC, which can fluctuate with the market, the Smart E..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:51:46](/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-46)**
+**[00:51:46](/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-23)**
 > "Unlike a HELOC—which can have varied interest rates—the Smart Eq..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:25:14](/episodes/ep-Qt0VHV-POCg.md#ent-concept-home-equity-line-of-credit-t-00-24-51)**
+> "HELOC"
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+
+**[01:03:17](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-home-equity-line-of-credit-t-01-03-11)**
+> "Unlike a HELOC, which can have varied interest rates, the Smart ..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:56:04](/episodes/ep-5autG89PW6w.md#ent-concept-home-equity-line-of-credit-t-00-55-38)**
+> "Unlike a HELOC, which can have varied interest rates, the Smart Equity Loan offers a fixed rate—which means one predictable monthly payment—giving you peace of mind."
 
 </details>
 
@@ -544,8 +604,48 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:41:51](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27)**
+**[00:41:51](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-36)**
 > "Unlike a HELOC, which can have varied interest rates, the Smart ..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:41:38](/episodes/ep-YA1FxrDWNIo.md#ent-concept-home-equity-line-of-credit-t-00-41-32)**
+> "Unlike a HELOC—which can have varied interest rates—the Smart Eq..."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
+
+**[00:52:52](/episodes/ep-UBkFkg4UNY8.md#ent-concept-home-equity-line-of-credit-t-00-52-22)**
+> "Unlike a HELOC, which can have varied interest rates, the Smart ..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+
+**[00:47:35](/episodes/ep-ja26iltROkM.md#ent-concept-home-equity-line-of-credit-t-00-47-20)**
+> "Unlike a HELOC—which can have varied interest rates—the Smart Equity Loan offers a fixed rate"
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
+
+**[01:09:09](/episodes/ep-q7f8r-THr84.md#ent-concept-home-equity-line-of-credit-t-01-09-09)**
+> "Unlike an HELOC, which can have varied interest rates, the smart ..."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+
+**[00:56:57](/episodes/ep-czVBmqZP6Ss.md#ent-concept-home-equity-line-of-credit-t-00-56-30)**
+> "...r current mortgage. Unlike an HELOC, which can have varied interest rates, the Smart ..."
 
 </details>
 

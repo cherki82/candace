@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:41:26](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2486);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2486s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm going to take you on because you work for the deep state and the Democratic Party of the CIA and MI6 and I see your ass.
 

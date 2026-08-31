@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,7 +24,7 @@ veracity: "false"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:00:21](/episodes/ep-tB5SXXmd9vU.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(21);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=21s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right?
 

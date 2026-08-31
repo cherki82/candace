@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:07:58](/episodes/ep-MhakwJxK-Zk.md#t-00-07-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(478);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=478s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > October 7th, 2023, a day that will live in infamy, probably for the Palestinians. The Egyptian plane, S-U-B-T-U, which I describe as my purple plane, flew from Cairo at 8.50 a.m. shortly after the attacks began. ... So did somebody fly in and then take them out? I don't know. That's just a fact. October 7th, that's what they did. They flew from Cairo to Paris. ... And, okay, random fact: then it flew from Paris to St. Louis, Missouri, and stayed for five days.
 

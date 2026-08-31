@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:02:08](/episodes/ep-DdPjoy5W-wY.md#t-00-02-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(128);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know I get this question too of well you know you were a stay-at-home mom and all this stuff like that's what you should go back to doing or something like that a lot of people don't realize that before I met Charlie (Charlie Kirk) I had my own company and I still do and it was one of those things where I built it in a way where that when I got married and had children, it could run on its own.
 

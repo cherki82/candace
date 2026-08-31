@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:43:27](/episodes/ep-rupRLXmSndU.md#t-00-43-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2607);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=2607s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will promise you we will be the army of paralegals that will go through these documents because we got some questions. ... I will go through every single one of those documents if you give them to me for free.
 

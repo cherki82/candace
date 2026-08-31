@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:33:57](/episodes/ep-c5BcKF91iec.md#t-00-33-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2037);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2037s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I knew liars have to lie fast and first. And he did. He lied. He lied over and over and over again about his position on Israel.
 

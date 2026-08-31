@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:12:15](/episodes/ep-QRS_hR7NXaQ.md#t-00-12-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(735);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=735s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It tells us that a senior U.S. military officer has said that he's willing to apologize for damage that his troops caused in one of Iraq's most famous ancient sites.
 

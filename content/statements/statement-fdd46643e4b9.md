@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:23:31](/episodes/ep-5autG89PW6w.md#t-00-23-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1411);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is why I named Josh Hammer. I believe he is a deeply disturbed man.
 

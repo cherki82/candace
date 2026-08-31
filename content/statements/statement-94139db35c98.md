@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:28:37](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1717);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1717s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reality is that Colonel Otto Buescher is going to be accused of running a brothel and a human trafficking ring from 2010, the very year that this was established, all the way through to 2015.
 

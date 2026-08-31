@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:09:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(555);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=555s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, as you know, we hosted Corby Hall, who claimed that Victor Marx was doing some deals or attempting to do some deals on behalf of the IDF. He never said those deals were illegal, just that he declined. ... to participate in them, trying to buy 50,000 guns for the IDF. We'll ask Victor Marx about that.
 

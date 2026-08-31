@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1020);return false;">Play</a>
+**Timestamp:** [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-38) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=1020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Their objective had been to deceive civilians in Tucson. About an hour north of us, they practiced at local bars and public venues on unsuspecting people, telling lies, remembering those lies, and maintaining their false personas without quote unquote breaking character.
 

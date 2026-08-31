@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:06:53](/episodes/ep-amqTMimDr0A.md#t-00-06-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(413);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=413s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And yet it was constantly this topic. Ben (Ben Shapiro) tried to stop Charlie (Charlie Kirk)'s rise. I have said that repeatedly, and he gave him trouble all throughout his career.
 

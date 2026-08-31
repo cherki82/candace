@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:09:42](/episodes/ep-y8lak3CRwDw.md#t-00-09-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(582);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=582s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, I'm oversimplifying here, but that's effectively what took place. And we know that in 2010, the Black Sea rotational force arrives and so does Tyler Bowyer. Tyler Bowyer makes his first appearance in Romania.
 
@@ -37,7 +37,7 @@ type: "factual_claim"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:18:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-18-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1136);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, so in 2010, we know Jeffrey Epstein, based on the emails, begins procuring models from Romania. ... Same time frame, Tyler Bowyer goes out to Constanta, Romania
 

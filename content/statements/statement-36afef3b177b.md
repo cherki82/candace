@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:16:21](/episodes/ep-puuMVxEu5NU.md#t-00-16-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(981);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=981s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The shot I heard everything but a muzzle flash. I didn't see a flash come from the edge of his gun. ... But we felt like, you know, the little concussion impact from the shot going off, it sounded, I thought it sounded like a shotgun.
 

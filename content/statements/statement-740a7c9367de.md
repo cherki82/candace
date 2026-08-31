@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:31:55](/episodes/ep-DYD_QHMPwqM.md#t-00-31-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1915);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1915s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's very funny in this text chain that is happening. They are discussing Emmanuel Macron's boyfriend. It is Epstein. And I believe in other chats, he's talking with Steve Bannon. And this says, along with some other tidbits, I was shown a photo of Macron's boyfriend. ... There are more emails referencing the fact that Emmanuel Macron is gay.
 

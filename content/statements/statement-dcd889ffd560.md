@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:19:50](/episodes/ep-mLvJqdxS-FY.md#t-00-19-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1190);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=1190s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So initially we didn't have any information so we processed that. Those are items that are good for DNA. Not having any information from the investigators we process them for DNA. ... As the investigation continues, it was determined that that backpack was potentially left behind by a by a bystander and there was no comparisons needed at that time.
 

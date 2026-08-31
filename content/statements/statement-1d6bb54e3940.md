@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:02:40](/episodes/ep-JQjCAsfoXEE.md#t-00-02-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(160);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=160s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Either Erika Kirk is evil and was in on it, or Candace (Candace Owens) is an evil...
 

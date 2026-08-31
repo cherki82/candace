@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:00:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(31);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=31s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and therefore it's not even have to pay tax on that quarter billion plus dollars or pay tax on the alleged future billions that it's due to rake in thanks to a deal with a man named Pierre (Pierre Falcone).
 

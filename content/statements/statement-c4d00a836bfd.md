@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:29:44](/episodes/ep-sKuYLNx3iRo.md#t-00-29-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1784);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=1784s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Terrell Farnsworth, when I spoke to him, he used the widow. That was his excuse. I said, 'Hey, why'd you take these cameras out?' 'I didn't want Erika (Erika Kirk) to relive Charlie (Charlie Kirk) dying.'
 

@@ -1,6 +1,6 @@
 ---
 title: "The Church of Jesus Christ of Latter-day Saints"
-description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 20 mentions"
+description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 21 mentions"
 id: "org-church-of-jesus-christ-of-latter-day-saints"
 type: "ORG"
 aliases:
@@ -28,10 +28,10 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">2025-09-24 · 00:17:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04">2026-08-19 · 00:33:04</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,7 +41,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10" style="--pulse-height:20%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
@@ -57,7 +57,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 |---|---|---:|
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09) | 5 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13) | 1 |
@@ -73,7 +73,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -154,7 +154,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:27:52](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13)**
+**[00:27:49](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42)**
 > "... Okay, we know that things are corruptible. This is not an attack on and saying every person in the Mormon Church is involved—every person, the Catholic—every no. But we know that at the top things get corrupted. ..."
 
 </details>
@@ -217,12 +217,19 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Has Member (1)</summary>
+<summary>Has Member (2)</summary>
 
 - **[Nick Shirley](/entities/person-nick-shirley.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:37:39](/episodes/ep-SgVcnx4Oh30.md#t-00-37-39): “Nick Shirley is that he is also a member of the LDS church sometimes referred to as the Mormon church”
+
+</details>
+
+- **[Lou Taylor](/entities/person-lou-taylor.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:28:30](/episodes/ep-7RLtGgkTh9o.md#t-00-28-26): “Lou Taylor for Kim Kardashian and Diddy. ... Christian non-denominational, but she's LDS. ... Born and raised LDS.”
 
 </details>
 
@@ -241,7 +248,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Frank William Gay](/entities/person-frank-william-gay.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -261,6 +268,13 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:37:39](/episodes/ep-SgVcnx4Oh30.md#t-00-37-39): “Nick Shirley is that he is also a member of the LDS church sometimes referred to as the Mormon church”
+
+</details>
+
+- **[Lou Taylor](/entities/person-lou-taylor.md)** member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:28:30](/episodes/ep-7RLtGgkTh9o.md#t-00-28-26): “Lou Taylor for Kim Kardashian and Diddy. ... Christian non-denominational, but she's LDS. ... Born and raised LDS.”
 
 </details>
 
@@ -300,9 +314,9 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
 
-- [00:27:42](/episodes/ep-7RLtGgkTh9o.md#t-00-27-13) (Accusation) **Courtney Love** (via read message): ["You need to look into the Mormon mafia which sits above Hollywood and ..."](/statements/statement-00312b7eeca5.md)
+- [00:27:42](/episodes/ep-7RLtGgkTh9o.md#t-00-27-03) (Accusation) **Courtney Love** (via read message): ["You need to look into the Mormon mafia which sits above Hollywood and ..."](/statements/statement-00312b7eeca5.md)
 
-- [00:29:18](/episodes/ep-7RLtGgkTh9o.md#t-00-28-42) (Claim) **Courtney Love** (via read message): ["Lou Taylor was born and raised LDS"](/statements/statement-e2b51641c6b2.md)
+- [00:29:18](/episodes/ep-7RLtGgkTh9o.md#t-00-29-08) (Claim) **Courtney Love** (via read message): ["Lou Taylor was born and raised LDS"](/statements/statement-e2b51641c6b2.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md)
 
 </details>

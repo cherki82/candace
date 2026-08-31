@@ -3,9 +3,18 @@ title: "A Grief Observed"
 description: "A Grief Observed (Works & Media) - 1 mention"
 id: "work-a-grief-observed"
 type: "WORK"
+categories:
+  - "grief memoir"
+  - "Christian literature"
 ---
 
 _Type: Works & Media_
+
+**Categories:** grief memoir, Christian literature
+
+**Entity verification:** verified
+> The official C. S. Lewis/HarperCollins book page confirms the canonical title A Grief Observed and authorship by C. S. Lewis, matching Erika Kirk’s description.
+Source: [A Grief Observed by C. S. Lewis | CSLewis.com](https://www.cslewis.com/uk/books/ebook/a-grief-observed/9780061949296/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-work-a-grief-observed-t-00-08-14">2025-11-06 · 00:08:34</a></strong></div>
@@ -14,7 +23,7 @@ _Type: Works & Media_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +60,28 @@ _Type: Works & Media_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored By (1)</summary>
+
+- **[C.S. Lewis](/entities/person-cs-lewis.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:08:25](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14): “I tried to read a book by C.S. Lewis ... It's called A Grief Observed.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[C.S. Lewis](/entities/person-cs-lewis.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:08:25](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14): “I tried to read a book by C.S. Lewis ... It's called A Grief Observed.”
+
+</details>
+
+</details>
 
 </details>

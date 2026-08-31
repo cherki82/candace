@@ -7,57 +7,16 @@ time: "23:00"
 ---
 
 **Date:** 2025-09-11 at 23:00
+**Date precision:** Day
 
 ## Event
 
 > Lance Twiggs brought in for questioning by authorities
 
-## Mentioned In (6 times)
-
-### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:25:19](/episodes/ep-2WEHTk0Xewg.md#t-00-24-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1519);return false;">▶️ Play</a>
-
-> alleged killer of Charlie, Tyler Robinson, and his 22-year-o
-
-### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(18);return false;">▶️ Play</a>
-
-> etween the 22-year-old alleged killer of Charlie, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search
-
-### 3. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:43:11](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2591);return false;">▶️ Play</a>
-
-> alleged conversation held between the 22-year-old alleged ki
-
-### 4. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
-
-**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(45);return false;">▶️ Play</a>
-
-> eed to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki
-
-### 5. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
-
-**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:00:56](/episodes/ep-q7f8r-THr84.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(56);return false;">▶️ Play</a>
-
-> eed to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki
-
-### 6. Candace Owens vs Andrew Wilson: The Great Debate.
+## Mentioned In
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:01:08](/episodes/ep-aPOyk1i2LOc.md#event-event-2025-09-11-lance-twiggs-brought-in-for-questioning-by-authori-t-01-00-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3668);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=3668s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you collected his phone on September 11th and that you sent it off or whatever you took a picture of

@@ -3,9 +3,17 @@ title: "Enron"
 description: "Enron (Organizations) - 2 mentions"
 id: "org-enron"
 type: "ORG"
+categories:
+  - "energy company"
 ---
 
 _Type: Organizations_
+
+**Categories:** energy company
+
+**Entity verification:** verified
+> The U.S. Securities and Exchange Commission identifies Enron Corporation as an Oregon corporation and public-utility holding company, confirming the canonical organization.
+Source: [Enron Corporation | U.S. Securities and Exchange Commission](https://www.sec.gov/enforcement-litigation/opinions-adjudicatory-orders/35-27782)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-enron-t-00-01-28">2025-12-05 · 00:01:42</a></strong></div>

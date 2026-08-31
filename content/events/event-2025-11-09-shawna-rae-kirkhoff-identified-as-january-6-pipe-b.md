@@ -6,6 +6,7 @@ date: "2025-11-09"
 ---
 
 **Date:** 2025-11-09
+**Date precision:** Day
 
 ## Event
 
@@ -15,6 +16,6 @@ date: "2025-11-09"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:08:05](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-11-09-shawna-rae-kirkhoff-identified-as-january-6-pipe-b-t-00-08-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(485);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=485s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, this weekend—after five long years—finally the person, and I'll say allegedly because I

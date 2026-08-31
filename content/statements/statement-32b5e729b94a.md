@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death. ... Charlie did not like that. He was upset with Andrew as Andrew illuminates.
 

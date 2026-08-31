@@ -6,65 +6,42 @@ date: "2025-09-20"
 ---
 
 **Date:** 2025-09-20
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “over the weekend”
+
+**Normalization note:** The transcript says Kolvet tweeted over the weekend; the archived post is dated September 20, 2025.
+
+**Date source:** [https://twitter-thread.com/t/1969551427648569633](https://twitter-thread.com/t/1969551427648569633)
 
 ## Event
 
 > Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting.
 
-## Mentioned In (7 times)
+## Mentioned In (3 times)
 
 ### 1. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:08:21](/episodes/ep-ja26iltROkM.md#event-event-2025-09-20-andrew-kolvet-tweets-explanation-of-no-exit-wound-t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(501);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=501s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was there nothing in the back if this is
+> Andrew Kolvet tweeted this over the weekend.
 
 ### 2. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:13:03](/episodes/ep-5autG89PW6w.md#t-00-12-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(783);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=783s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > essages are real." Update, says Community Notes: "Andrew Kolvet confirmed the screen grab was real." Of course it was real. I mean... I would have to be the dumbes
 
-### 3. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
-
-**Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(648);return false;">▶️ Play</a>
-
-> een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's s
-
-### 4. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:08:07](/episodes/ep-ja26iltROkM.md#event-event-2025-09-20-andrew-kolvet-tweets-explanation-of-no-exit-wound-t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">▶️ Play</a>
-
-> after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was
-
-### 5. To My Friend, Charlie Kirk.
-
-**Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
-**Timestamp:** [00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(873);return false;">▶️ Play</a>
-
-> mber just being behind Charlie and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to
-
-### 6. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
-
-**Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
-
-> een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
-
-### 7. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+### 3. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:11:50](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-09-20-andrew-kolvet-tweets-explanation-of-no-exit-wound-t-00-11-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(710);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the fact that there wasn't an exit wound is probably another miracle

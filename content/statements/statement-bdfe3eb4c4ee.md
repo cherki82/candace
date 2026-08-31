@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,8 +29,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:28:40](/episodes/ep-6DhWawD4ZiM.md#t-00-28-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1720);return false;">Play</a>
+**Timestamp:** [00:28:40](/episodes/ep-6DhWawD4ZiM.md#t-00-28-03) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=1720s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So A, B, we know that people had foreknowledge of this because they posted about it on X and said Charlie Kirk is going to be killed on this date. ... And he was. ... Were they just guessing? ... Maybe.
 

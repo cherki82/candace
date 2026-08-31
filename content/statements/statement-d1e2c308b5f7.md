@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:09:14](/episodes/ep-N4uM8Jdr410.md#t-00-09-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(554);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=554s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, standing to his side, obviously on the right-hand side of your screen, that's Kash Patel. On the other side, that's Beau Mason standing behind the governor. And you will note that at no point did those two intervene and say, oh, no, no, no, that's incorrect.
 

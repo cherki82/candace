@@ -26,7 +26,7 @@ Source: [Arizona Legislature — Committees](https://www.azleg.gov/alisStaticPag
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -64,13 +64,6 @@ Source: [Arizona Legislature — Committees](https://www.azleg.gov/alisStaticPag
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Has Chairman (1)</summary>
-
-- **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)**
-
-</details>
-
-<details>
 <summary>Has Former Chairman (1)</summary>
 
 - **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)**
@@ -83,9 +76,7 @@ Source: [Arizona Legislature — Committees](https://www.azleg.gov/alisStaticPag
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)** chairman of this
+<summary>Referenced By (1)</summary>
 
 - **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)** former chairman of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

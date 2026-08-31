@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:20:08](/episodes/ep-N4uM8Jdr410.md#t-00-20-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1208);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1208s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's another photo of them. Fast-forward: Jennifer Faumuina and Beau Mason together 10 years later, in 2023, when she is sworn in as a sergeant. 2023, okay?
 

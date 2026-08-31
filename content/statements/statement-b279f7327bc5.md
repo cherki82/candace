@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:00:15](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(15);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=15s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Joe Kent immediately came under attack, and curiously, Andrew Kolvet retweeted someone who suggested that Joe Kent should be arrested for leaking classified documents.
 

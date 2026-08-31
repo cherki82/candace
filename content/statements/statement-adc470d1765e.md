@@ -23,8 +23,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:16:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(960);return false;">Play</a>
+**Timestamp:** [00:16:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-44) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=960s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) was a committed evangelical who only liked Catholic architecture. That's a lie, told and reinforced by Alex Clark and Andrew Kolvet.
 

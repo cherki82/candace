@@ -24,8 +24,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:08:15](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(495);return false;">Play</a>
+**Timestamp:** [00:08:15](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=495s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tristar—that is Lou Taylor's company—was hired to serve as the tour's business manager, handling its finances and accounting, and the tour grossed an estimated $130 million—money that was now under the control of Lou Taylor and Jamie Spears, the father
 

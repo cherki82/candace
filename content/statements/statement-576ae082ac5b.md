@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:32:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-32-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5576);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5576s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was just so brilliantly a Jew supremacist. Like he didn't even realize it. They don't even know what they're saying. ... They're so confident in what they're saying. And they're like, let me explain to you why it's actually perfectly fine for Jews to murder people and why it's always wrong if somebody else has anything and assaults a Jewish person. Why the words of Kanye West hurt much more than the bombs of Bibi (Benjamin Netanyahu). ... and i was just sitting there following him being like okay can i get a definition of anti-semitism and he was like whatever we want no he literally said it's a hate that mutates there can be no definition it's like whatever we say tomorrow and i was like am i tracking this correctly and i just let him speak and it was a disaster and but that's the it
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:20:54](/episodes/ep-YFmRH8p5lt0.md#t-00-20-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1254);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=1254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And lo and behold, Turning Point USA on February 11th—while this is going on— starts a chapter in Lincoln, Nebraska.
 

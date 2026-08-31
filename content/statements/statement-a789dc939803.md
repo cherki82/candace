@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:42:51](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2571);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=2571s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think you thought BTU was BTT, but that's actually okay because now we can connect those two planes at the very least.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:24:11](/episodes/ep-wcD2khO3rOA.md#t-00-23-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1451);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1451s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were locked in our room. We weren't allowed visitors. ... They used to take weird pictures of us.
 

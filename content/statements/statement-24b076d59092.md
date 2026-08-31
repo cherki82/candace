@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:21:21](/episodes/ep--9MOUvgGyi4.md#t-00-21-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1281);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=1281s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he asked he's commanding the demons and he asked you know what demon what is well back up he asked how many demons are assigned and you just say a number and so that's the instruction that he's given me you know i'm going to ask how many demons are assigned to Corby (Corby Hall) and ... And then he asked the name of the first one. So he's going to judge the first demon. He knows now I say a name. ... by the name Beelzebub and he commands angels to come down and grab this demon by the arms and make the demon kneel before him. ... he commanded one of the angels to cut the arm off the demon. ... And then I think commanded the other angel to cut off the other arm or a leg or something, dismemberment of the demon.
 

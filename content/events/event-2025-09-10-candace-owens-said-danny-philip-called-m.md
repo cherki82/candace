@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th; 10 minutes”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1030);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1030s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Danny calls Mikey and they stay on the phone for 10 minutes.

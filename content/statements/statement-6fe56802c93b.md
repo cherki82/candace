@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
 **Timestamp:** [00:18:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-18-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1096);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=1096s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Many of these pastors are behaving like operatives and many of these Christian influencers are behaving like operatives.
 

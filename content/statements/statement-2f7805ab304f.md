@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:08:22](/episodes/ep-QRS_hR7NXaQ.md#t-00-08-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(502);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=502s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When exactly did they find it? We know for sure that it was sometime between May 2002 and very early 2003. They became convinced that indeed they had found the actual tomb of Gilgamesh,
 

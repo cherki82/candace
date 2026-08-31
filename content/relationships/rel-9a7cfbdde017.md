@@ -11,7 +11,11 @@ object: "person-tyler-bowyer"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) hired by [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
+
+- [00:12:43](/episodes/ep-Cq7nj9rxPdo#t-00-12-43): _On the Turning Point USA side, Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into just one episode— ... He starts hiring a bunch of people, telling Charlie (Charlie Kirk) that we need to hire bigger and more professional money raisers, PR people like Andrew Kolvet—you name it._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 

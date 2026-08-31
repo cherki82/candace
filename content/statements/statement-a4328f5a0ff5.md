@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:46:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-46-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This man was betrayed and I believe by the people's closest damn people that he helped to put into power and we are seeing more and more of that.
 

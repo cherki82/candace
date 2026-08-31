@@ -1,6 +1,6 @@
 ---
-title: "There has been a military infiltration into the churches"
-description: "\"There has been a military infiltration into the churches\" — Candace Owens"
+title: "Owens said it seemed to her that there had been a military i..."
+description: "\"Owens said it seemed to her that there had been a military infiltration into churches\" — Candace Owens"
 statement_id: "statement-d4635fcbe2de"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> There has been a military infiltration into the churches
+> Owens said it seemed to her that there had been a military infiltration into churches
 
 ## Attribution
 
@@ -25,10 +25,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:51:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3111);return false;">Play</a>
+**Timestamp:** [00:51:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> which seems to me to be that there has been a military infiltration into the churches
+> The other thing he's doing, of course, is the biblical manipulation, which seems to me to be that there has been a military infiltration into the churches. I think we've covered that enough this year. I've turned that—Operation Mockingbird—where they just try to find some scripture and justify it.
 
 ## Verification
 

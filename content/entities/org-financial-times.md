@@ -16,7 +16,7 @@ _Type: Organizations_
 Source: [About Us - Financial Times](https://aboutus.ft.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-16-53">2025-11-20 · 00:17:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-17-12">2025-11-20 · 00:17:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-financial-times-t-00-29-56">2026-05-27 · 00:30:17</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -30,14 +30,14 @@ Source: [About Us - Financial Times](https://aboutus.ft.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-financial-times-t-00-15-35">BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-16-53" style="--pulse-height:17%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-17-12" style="--pulse-height:17%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-financial-times-t-00-15-35" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-16-53) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-17-12) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-financial-times-t-00-15-35) | 6 |
 
 </details>
@@ -74,7 +74,7 @@ Source: [About Us - Financial Times](https://aboutus.ft.com/)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-16-53)**
+**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-org-financial-times-t-00-17-12)**
 > "...he 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, right? Not saying that Brigitte or Emmanuel are on this..."
 
 </details>

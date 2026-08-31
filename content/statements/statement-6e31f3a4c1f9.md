@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2520);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2520s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The United States is preemptively bombing Iran.
 

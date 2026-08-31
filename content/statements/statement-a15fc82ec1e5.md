@@ -25,21 +25,11 @@ veracity: "true"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:20:22](/episodes/ep-sreYYcID-QY.md#t-00-20-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1222);return false;">Play</a>
-
-> There was one shot that rang out, and everybody instantly looked around and then fell to the ground. People saw Charlie (Charlie Kirk) instantly get shot in the neck, and everybody fell to the ground
-
-### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
-
-**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:20:22](/episodes/ep-sreYYcID-QY.md#t-00-20-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1222);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1222s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People saw Charlie (Charlie Kirk) instantly get shot in the neck, and everybody fell to the ground, and then people started running and got run over
 

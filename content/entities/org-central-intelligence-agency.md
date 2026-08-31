@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 175 mentions"
+description: "Central Intelligence Agency (Organizations) - 174 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29">2026-08-18 · 00:31:35</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>175</strong></div>
+<div><span>Episodes</span><strong>72</strong></div>
+<div><span>Mentions</span><strong>174</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>61</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
@@ -36,17 +36,18 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-10-59">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-central-intelligence-agency-t-00-11-44" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-16-10" style="--pulse-height:24%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 4 mentions" title="2025-09-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-23-16" style="--pulse-height:76%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 13 mentions" title="2025-09-22 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-central-intelligence-agency-t-00-46-51" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-central-intelligence-agency-t-00-20-14" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-central-intelligence-agency-t-00-19-45" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-central-intelligence-agency-t-00-29-07" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-central-intelligence-agency-t-00-44-43" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-central-intelligence-agency-t-01-03-16" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-15-04" style="--pulse-height:18%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-14-50" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-central-intelligence-agency-t-00-51-24" style="--pulse-height:12%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-02-47" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-central-intelligence-agency-t-00-10-09" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-central-intelligence-agency-t-00-28-43" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-14-40" style="--pulse-height:24%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
@@ -57,8 +58,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-11-15" style="--pulse-height:18%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-central-intelligence-agency-t-00-16-48" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-central-intelligence-agency-t-00-23-05" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-54" style="--pulse-height:24%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00" style="--pulse-height:29%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-50" style="--pulse-height:12%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-25-51" style="--pulse-height:24%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-central-intelligence-agency-t-01-00-21" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-central-intelligence-agency-t-01-01-28" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51" style="--pulse-height:41%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 7 mentions" title="2026-01-05 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
@@ -110,17 +113,18 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-central-intelligence-agency-t-00-11-44) | 2 |
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-16-10) | 4 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-23-16) | 13 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-central-intelligence-agency-t-00-46-51) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-central-intelligence-agency-t-00-20-14) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-central-intelligence-agency-t-00-19-45) | 1 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-central-intelligence-agency-t-00-29-07) | 2 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-central-intelligence-agency-t-00-44-43) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-central-intelligence-agency-t-01-03-16) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-15-04) | 3 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-14-50) | 2 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-central-intelligence-agency-t-00-51-24) | 2 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-central-intelligence-agency-t-00-10-09) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-central-intelligence-agency-t-00-28-43) | 2 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-14-40) | 4 |
@@ -131,8 +135,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-11-15) | 3 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-central-intelligence-agency-t-00-16-48) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-central-intelligence-agency-t-00-23-05) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-54) | 4 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00) | 5 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-50) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-25-51) | 4 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-central-intelligence-agency-t-01-00-21) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-central-intelligence-agency-t-01-01-28) | 1 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51) | 7 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07) | 5 |
@@ -186,7 +192,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+<summary><strong class="section-title">Raw mentions (174)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -764,42 +770,49 @@ Source: [About CIA](https://www.cia.gov/about/)
 **[00:32:50](/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10)**
 > "the CIA was created to traffic"
 
-**[00:32:41](/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10)**
+**[00:32:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10)**
 > "...e how corrupt and I think the CIA was created to traffic, to be clear."
 
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
 
-**[00:26:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
-> "He grew up with CIA agents, okay?"
+**[01:01:41](/episodes/ep-es7PWdFGoFI.md#ent-org-central-intelligence-agency-t-01-01-28)**
+> "...We Know merch and we have our CIA merch, which we've had for some time."
 
-**[00:26:11](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[01:00:49](/episodes/ep-6J6lRZPQ4jk.md#ent-org-central-intelligence-agency-t-01-00-21)**
+> "Government, sanctioned, CIA, actually a lot of homosexual men that are behind..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+
+**[00:26:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-25-51)**
 > "... he was just working with the CIA."
 
-**[00:26:14](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
+**[00:26:14](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-25-51)**
 > "...her was on the payroll of the CIA."
 
-**[00:26:29](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
+**[00:26:29](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-25-51)**
 > "... means people in the NSA, the CIA are confirming that that is real."
 
-**[00:33:36](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
+**[00:33:30](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-25-51)**
 > "His father was on the payroll of the CIA"
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
 
-**[00:00:53](/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-54)**
-> "our CIA was actually trafficking drugs and weapons throughout South America"
-
-**[00:06:00](/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-54)**
-> "...who are not read into massive CIA scandals,"
-
-**[00:06:04](/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-54)**
-> "... public got to learn that our CIA was actually trafficking drugs and weapons throug..."
+**[00:06:00](/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-50)**
+> "...who are not read into massive CIA scandals, This was the scandal when the American ..."
 
 **[00:54:37](/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-54-29)**
 > "...need to become our own little CIA units or DCIA units in our own communities and sh..."
@@ -877,13 +890,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 **[00:15:14](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-14-40)**
 > "...ou being tied to possibly the CIA and Mossad.""
 
-**[00:21:34](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-21-04)**
+**[00:21:34](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-21-34)**
 > "...es came. And this is when the CIA was just dosing them intentionally because they w..."
 
-**[00:22:09](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-21-47)**
+**[00:22:09](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-21-34)**
 > "...asses look away from what the CIA was guilty of."
 
-**[00:30:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-30-07)**
+**[00:30:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-29-53)**
 > "... background that involves the CIA."
 
 </details>
@@ -908,6 +921,14 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[00:02:54](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47)**
+> "centralized intelligence agency"
+
+</details>
+
+<details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
 
 **[00:51:31](/episodes/ep-Qt0VHV-POCg.md#ent-org-central-intelligence-agency-t-00-51-24)**
@@ -919,15 +940,12 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-15-04)**
+**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-14-50)**
 > "...a Loomer sends us for writing CIA in parody."
 
-**[01:15:09](/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-15-04)**
-> "...se we don't want to be in the CIA."
-
-**[01:15:16](/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-15-04)**
+**[01:15:15](/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-14-50)**
 > "...ne—somebody get me that green CIA hat because it's actually—people are tagging me i..."
 
 </details>
@@ -954,7 +972,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 **[00:29:10](/episodes/ep-t1YtLS1n8Vs.md#ent-org-central-intelligence-agency-t-00-29-07)**
 > "...ground in Utah connecting the CIA dots, the three-letter agency dots and connection..."
 
-**[00:53:13](/episodes/ep-t1YtLS1n8Vs.md#ent-org-central-intelligence-agency-t-00-52-56)**
+**[00:53:13](/episodes/ep-t1YtLS1n8Vs.md#ent-org-central-intelligence-agency-t-00-52-43)**
 > "...we had so many people buy our CIA merch."
 
 </details>
@@ -962,7 +980,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:20:21](/episodes/ep-adJ4LNGp84I.md#ent-org-central-intelligence-agency-t-00-20-14)**
+**[00:20:21](/episodes/ep-adJ4LNGp84I.md#ent-org-central-intelligence-agency-t-00-19-45)**
 > "... and their strong ties to the CIA, things start to get really interesting, right?"
 
 </details>
@@ -987,9 +1005,6 @@ Source: [About CIA](https://www.cia.gov/about/)
 **[00:26:45](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-14)**
 > "...y reported to the FBI and the CIA."
 
-**[00:27:01](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
-> "... (Candace Owens) is selling a CIA line of merchandise that is called the Candace In..."
-
 **[00:27:15](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
 > "selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo"
 
@@ -998,9 +1013,6 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 **[00:27:31](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
 > "The CIA can technically sue to get Candace (Candace Owens..."
-
-**[00:27:35](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
-> "...e Kirk (Charlie Kirk) and the CIA.""
 
 **[00:27:37](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-27-37)**
 > "... and tags the Director of the CIA."
@@ -1017,21 +1029,27 @@ Source: [About CIA](https://www.cia.gov/about/)
 **[00:59:55](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-59-15)**
 > "...er—who will report you to the CIA."
 
+**[00:27:01](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
+> ""As part of her grift to monetize the murder of her quote-unquote best friend, Charlie Kirk, Candace Owens is selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo."
+
+**[00:27:35](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
+> "It's really disrespectful to Charlie Kirk and the CIA.""
+
 </details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
 
-**[00:16:15](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-16-10)**
+**[00:16:10](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-16-10)**
 > "...ernment contracts, likely the CIA."
 
-**[00:51:29](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-51-24)**
+**[00:51:29](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-51-26)**
 > "...lling me a lot of stuff about CIA action at UVU, some programs that they had been r..."
 
-**[00:52:40](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-52-10)**
+**[00:52:40](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-52-11)**
 > "Yep, our CIA line."
 
-**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-52-10)**
+**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-52-11)**
 > "... that it actually says, like, CIA."
 
 </details>
@@ -1050,7 +1068,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[01:11:17](/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09)**
+**[01:11:13](/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39)**
 > "... and bought a hat, one of our CIA hats, bought a t-shirt and supported us because t..."
 
 </details>
@@ -1064,9 +1082,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:35:44](/episodes/ep-sKuYLNx3iRo.md#t-00-35-38): “The CIA trained people to intentionally disassociate people that are serial killers that are used as weapons”
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:06:00](/episodes/ep-t4U7NjnUEgc.md#t-00-05-50): “This was the scandal when the American public got to learn that our CIA was actually trafficking drugs and weapons throughout South America.”
 
 </details>
 
@@ -1075,7 +1094,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Affiliated With (3)</summary>
 
-- **[BYU](/entities/org-byu.md)**
+- **[Brigham Young University](/entities/org-brigham-young-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:36](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “Again, I am not saying allegedly here. So you can take this to the bank. BYU has direct ties to the CIA. They recruit directly from BYU.”
@@ -1113,7 +1132,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Employs (2)</summary>
 
-- **[Liz Lyon](/entities/person-liz-lyon.md)**
+- **[Liz Lyons](/entities/person-liz-lyons.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): “A CIA spokeswoman, Liz Lyon”
@@ -1185,12 +1204,12 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Operated By (1)</summary>
+<summary>Founded (1)</summary>
 
-- **[TMZ](/entities/org-tmz.md)**
+- **[Operation Mockingbird](/entities/concept-operation-mockingbird.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:32](/episodes/ep-sreYYcID-QY.md#t-00-02-05): “the mainstream media has been controlled by the CIA since Operation Mockingbird.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00): “It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.”
 
 </details>
 
@@ -1200,9 +1219,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary>Referenced By (13)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:35:44](/episodes/ep-sKuYLNx3iRo.md#t-00-35-38): “The CIA trained people to intentionally disassociate people that are serial killers that are used as weapons”
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:06:00](/episodes/ep-t4U7NjnUEgc.md#t-00-05-50): “This was the scandal when the American public got to learn that our CIA was actually trafficking drugs and weapons throughout South America.”
 
 </details>
 
@@ -1270,14 +1290,14 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
-- **[TMZ](/entities/org-tmz.md)** operates this
+- **[Operation Mockingbird](/entities/concept-operation-mockingbird.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:32](/episodes/ep-sreYYcID-QY.md#t-00-02-05): “the mainstream media has been controlled by the CIA since Operation Mockingbird.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00): “It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.”
 
 </details>
 
-- **[Liz Lyon](/entities/person-liz-lyon.md)** works for this
+- **[Liz Lyons](/entities/person-liz-lyons.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): “A CIA spokeswoman, Liz Lyon”
@@ -1366,7 +1386,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (6)</summary>
 
 - [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA recruits directly from BYU and specifically from BYU's Jerusal..."](/statements/statement-862b7ba82e4c.md)
-  - Also about: [BYU](/entities/org-byu.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Jerusalem](/entities/gpe-jerusalem.md)
+  - Also about: [Brigham Young University](/entities/org-brigham-young-university.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Jerusalem](/entities/gpe-jerusalem.md)
 
 - [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["Elite Mormon students at BYU's Jerusalem Center are introduced to one ..."](/statements/statement-ddfdb9405887.md)
   - Also about: [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Knesset](/entities/org-knesset.md), [Mormonism](/entities/concept-mormonism.md)
@@ -1377,7 +1397,7 @@ Source: [About CIA](https://www.cia.gov/about/)
   - Also about: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Jerusalem](/entities/gpe-jerusalem.md)
 
 - [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA approaches selected students at BYU's Hawaii and Jerusalem cam..."](/statements/statement-55fc338c7349.md)
-  - Also about: [BYU](/entities/org-byu.md), [Hawaii](/entities/gpe-hawaii.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+  - Also about: [Brigham Young University](/entities/org-brigham-young-university.md), [Hawaii](/entities/gpe-hawaii.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
 
 - [00:48:20](/episodes/ep-rupRLXmSndU.md#t-00-48-20) (Opinion) **Candace Owens**: ["The CIA apparatus was being used to socially engineer support for Isra..."](/statements/statement-252982585ec2.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1545,7 +1565,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 - [00:36:18](/episodes/ep-OEAHy3SsIiI.md#t-00-36-06) (Accusation) **Charlie Kirk**: ["The CIA is actively involved in domestic mind manipulation in violatio..."](/statements/statement-0d83a78d59fe.md)
 
 - [00:36:27](/episodes/ep-OEAHy3SsIiI.md#t-00-36-06) (Opinion) **Charlie Kirk**: ["The Department of Defense, CIA, and FBI constitute a super-government ..."](/statements/statement-7aa10d972bd6.md)
-  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [FBI](/entities/org-fbi.md)
 
 - [00:41:26](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45) (Accusation) **Alex Jones**: ["Candace Owens works for the deep state, the Democratic Party, the CIA,..."](/statements/statement-348efae7bb27.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Democratic Party](/entities/org-democratic-party.md), [Secret Intelligence Service](/entities/org-secret-intelligence-service.md)
@@ -1555,23 +1575,20 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-10) (Opinion) **Candace Owens**: ["The CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
+- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-10) (Opinion) **Candace Owens**: ["I think the CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
 
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3)</summary>
 
-- [00:26:14](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tucker Carlson had learned after his father’s death..."](/statements/statement-8c2934247604.md)
+- [00:26:07](/episodes/ep-6DhWawD4ZiM.md#t-00-25-51) (Claim) **Candace Owens**: ["Owens said Tucker Carlson grew up with CIA agents and grew up in Virgi..."](/statements/statement-2c6779af2174.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
-- [00:26:26](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens**: ["Tucker Carlson grew up with CIA agents in Virginia because his father ..."](/statements/statement-2c6779af2174.md)
+- [00:26:14](/episodes/ep-6DhWawD4ZiM.md#t-00-25-51) (Claim) **Candace Owens**: ["Owens said Tucker Carlson learned after his father's death that his fa..."](/statements/statement-8c2934247604.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
-- [00:26:36](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens**: ["Tucker Carlson's father was on the payroll of the CIA"](/statements/statement-2fdb991794fa.md)
-  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
-
-- [00:27:16](/episodes/ep-6DhWawD4ZiM.md#t-00-27-13) (Claim) **Candace Owens**: ["NSA and CIA sources are confirming that the Egyptian planes following ..."](/statements/statement-ec4fc952eb55.md)
+- [00:26:29](/episodes/ep-6DhWawD4ZiM.md#t-00-25-51) (Claim) **Candace Owens**: ["Owens inferred that Tucker Carlson's confirmation of the aircraft clai..."](/statements/statement-ec4fc952eb55.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
 
 </details>
@@ -1579,15 +1596,23 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
 
-- [00:06:04](/episodes/ep-t4U7NjnUEgc.md#t-00-05-54) (Claim) **Candace Owens**: ["The CIA was trafficking drugs and weapons throughout South America dur..."](/statements/statement-f1ea6159d614.md)
+- [00:06:00](/episodes/ep-t4U7NjnUEgc.md#t-00-05-50) (Claim) **Candace Owens**: ["Owens said the CIA trafficked drugs and weapons throughout South Ameri..."](/statements/statement-f1ea6159d614.md)
+  - Also about: [Iran–Contra affair](/entities/event-iran-contra-affair.md), [South America](/entities/gpe-south-america.md)
 
 </details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Parts of our own government and the Cubans wanted JFK dead"](/statements/statement-37435b3d356d.md)
-  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [JFK assassination](/entities/event-jfk-assassination.md)
+- [00:23:27](/episodes/ep-Kmt6HgRjckU.md#t-00-23-05) (Accusation) **Candace Owens**: ["Owens asserted that the CIA has been engaged in trafficking."](/statements/statement-1fe9963913be.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:04:18](/episodes/ep-sImMM04XdWY.md#t-00-04-12) (Claim) **CIA-contractor spouse warning source (identity unverified)** (via quoted speech): ["A CIA-contractor's spouse warned Candace Owens and Tucker Carlson on S..."](/statements/statement-4b9fb48af609.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -1611,20 +1636,20 @@ Source: [About CIA](https://www.cia.gov/about/)
 - [00:15:14](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) (Accusation) **Anonymous Source #1 (Ep 7RLtGgkTh9o)** (via read message): ["I have suspicions about Lou Taylor being tied to possibly the CIA and ..."](/statements/statement-5cfb93122d3a.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Mossad](/entities/org-mossad.md)
 
-- [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study..."](/statements/statement-698fdea4ccc4.md)
+- [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-20-53) (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study..."](/statements/statement-698fdea4ccc4.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [MKUltra](/entities/concept-mkultra.md)
 
-- [00:22:14](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) (Claim) **Courtney Love** (via read message): ["I did not kill Kurt Cobain. That was part of a psychological operation..."](/statements/statement-0e0f62640500.md)
+- [00:22:14](/episodes/ep-7RLtGgkTh9o.md#t-00-21-34) (Claim) **Courtney Love** (via read message): ["I did not kill Kurt Cobain. That was part of a psychological operation..."](/statements/statement-0e0f62640500.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Kurt Cobain](/entities/person-kurt-cobain.md)
 
-- [00:22:22](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) (Accusation) **Courtney Love** (via read message): ["When companies or individuals get too big and become too powerful, the..."](/statements/statement-28103e528c3f.md)
+- [00:22:22](/episodes/ep-7RLtGgkTh9o.md#t-00-22-14) (Accusation) **Courtney Love** (via read message): ["When companies or individuals get too big and become too powerful, the..."](/statements/statement-28103e528c3f.md)
 
 </details>
 
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
-- [00:12:28](/episodes/ep-sreYYcID-QY.md#t-00-11-44) (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mo..."](/statements/statement-663c3c2d34c1.md)
+- [00:12:20](/episodes/ep-sreYYcID-QY.md#t-00-11-44) (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mo..."](/statements/statement-663c3c2d34c1.md)
 
 </details>
 

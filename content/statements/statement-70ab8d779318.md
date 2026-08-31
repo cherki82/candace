@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:44:34](/episodes/ep-sKuYLNx3iRo.md#t-00-44-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2674);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2674s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were sort of like fake pumping their subscription numbers. What I mean by that is they started giving away their memberships like basically for free, buy one, get one free, buy a lifetime subscription for X amount of dollars, sign up today, don't pay anything until 2029.
 

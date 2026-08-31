@@ -80,7 +80,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 <details>
 <summary>Attended (1)</summary>
 
-- **[BYU](/entities/org-byu.md)**
+- **[Brigham Young University](/entities/org-brigham-young-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular.”
@@ -116,7 +116,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 <details>
 <summary>Referenced By (4)</summary>
 
-- **[BYU](/entities/org-byu.md)** attended by this
+- **[Brigham Young University](/entities/org-brigham-young-university.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular.”

@@ -1,8 +1,8 @@
 ---
-title: "February 26th. President Donald Trump calls me and asks me t..."
-description: "\"February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte\" — Candace Owens"
+title: "Donald Trump asked Candace Owens on February 26 to stop spea..."
+description: "\"Donald Trump asked Candace Owens on February 26 to stop speaking about Brigitte Macron\" — Donald J. Trump"
 statement_id: "statement-83ea3697f1a3"
-speaker: "Candace Owens"
+speaker: "Donald J. Trump"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,28 @@ type: "factual_claim"
 
 ## Statement
 
-> February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte
+> Donald Trump asked Candace Owens on February 26 to stop speaking about Brigitte Macron
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Donald J. Trump](/entities/person-donald-trump.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** phone call
+
+## About
+
+- [Brigitte Macron](/entities/person-brigitte-macron.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:13:03](/episodes/ep-sImMM04XdWY.md#t-00-12-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(783);return false;">Play</a>
+**Timestamp:** [00:13:02](/episodes/ep-sImMM04XdWY.md#t-00-13-02) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=782s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> President Donald Trump calls me and asks me to stop speaking about Brigitte
+> February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte.
 
 ## Verification
 

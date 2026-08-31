@@ -11,11 +11,7 @@ object: "person-candace-owens"
 
 ## [Eric Bolling](/entities/person-eric-bolling) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
-
-**[Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8)**
-
-- [00:23:58](/episodes/ep-aDlhjfW6hz8#t-00-23-58): _PBD platformed, without any pushback, Eric Bolling_
+### Evidence (2 mentions)
 
 **[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
 
@@ -23,7 +19,7 @@ object: "person-candace-owens"
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 
-- [00:00:33](/episodes/ep-sreYYcID-QY#t-00-00-33): _a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative... that I haven't spoken to Charlie Kirk in years._
+- [00:38:58](/episodes/ep-sreYYcID-QY#t-00-38-58): _At some point, her credibility—I mean—is going to go down the tubes because she needs to bring receipts._
 
 ### Related
 

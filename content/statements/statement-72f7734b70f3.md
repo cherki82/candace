@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:10:20](/episodes/ep-ZAuuSq_j2_w.md#t-00-10-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(620);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=620s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But no—they need to have it in person in Phoenix on December 15th, or they cannot have me at all. Is that passing the vibe check for you guys? Or does it seem like more posturing and more of a way for them to simply be in the room with themselves as they all lie—without any person in the room to be able to fact-check those lies, who have researched those lies, and who have kept a list regarding the very many lies they are telling, okay?
 

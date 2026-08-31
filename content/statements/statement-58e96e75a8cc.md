@@ -1,6 +1,6 @@
 ---
-title: "seven days later is when it's publicly announced that Satys,..."
-description: "\"seven days later is when it's publicly announced that Satys, that French company, has inked a deal in Wilmington, Delaware, for a hangar\" — Candace Owens"
+title: "Candace Owens said that seven days after December 3—on Decem..."
+description: "\"Candace Owens said that seven days after December 3—on December 10—it was publicly announced that Satys had signed a deal for a hangar in Wilmington, ...\" — Candace Owens"
 statement_id: "statement-58e96e75a8cc"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> seven days later is when it's publicly announced that Satys, that French company, has inked a deal in Wilmington, Delaware, for a hangar
+> Candace Owens said that seven days after December 3—on December 10—it was publicly announced that Satys had signed a deal for a hangar in Wilmington, Delaware
 
 ## Attribution
 
@@ -20,13 +20,17 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Satys](/entities/org-satys.md) (org)
+
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:09:08](/episodes/ep-sImMM04XdWY.md#t-00-09-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(548);return false;">Play</a>
+**Timestamp:** [00:09:05](/episodes/ep-sImMM04XdWY.md#t-00-08-58) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=545s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And seven days later is when it's announced that Satis—that's when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar
+> We go back to our timeline. That's December 3rd. And seven days later is when it's announced that Satis—that's when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar. ... That is publicly announced on December 10th.
 
 ## Verification
 

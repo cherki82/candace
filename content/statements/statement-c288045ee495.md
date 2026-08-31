@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:20:54](/episodes/ep-2T39-oADLj0.md#t-00-20-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1254);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=1254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was working with Weinstein. He had some notorious fight with Harvey Weinstein right before Harvey went down.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [01:00:21](/episodes/ep-SubDoZWHARo.md#t-01-00-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3621);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=3621s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, she plays very nasty to see you guys know. Here's a fact. Erika (Erika Kirk) personally made phone calls trying to get people not to go to the Catholic event that I spoke at the other week.
 

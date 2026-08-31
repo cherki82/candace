@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:05:19](/episodes/ep-VMNWMXX1vO8.md#t-00-04-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(319);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=319s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After seeing this museum, Brian Harpole wanted to contribute to it, and he offered Sean Ryan Charlie Kirk's blood on his bag as a gift.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:57:13](/episodes/ep-Wjul6YV6izo.md#t-00-56-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3433);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=3433s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What I would say, children are off limits always. Children are innocent and they should be protected
 

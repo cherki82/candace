@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:47:48](/episodes/ep-d7VsbEIWkP8.md#t-00-47-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2868);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=2868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > do they know we know like about the CIA and Israel funding Al Qaeda, funding Al Nusra ... Do they know that we know that Israel is behind all of this radical?
 

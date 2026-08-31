@@ -3,9 +3,17 @@ title: "Uganda"
 description: "Uganda (Places) - 1 mention"
 id: "gpe-uganda"
 type: "GPE"
+categories:
+  - "country"
 ---
 
 _Type: Places_
+
+**Categories:** country
+
+**Entity verification:** verified
+> The Government of Uganda portal confirms the canonical country name Uganda.
+Source: [Government of Uganda](https://www.gou.go.ug/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-uganda-t-00-24-32">2025-11-13 · 00:25:03</a></strong></div>

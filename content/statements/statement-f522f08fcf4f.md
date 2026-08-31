@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:31:56](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1916);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1916s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kash Patel went ahead and fired not only the chief of the Utah bureau, but also some other people
 

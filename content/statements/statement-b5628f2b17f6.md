@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:28:30](/episodes/ep-A39g5oqB_eM.md#t-00-27-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1710);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > can say that he needed to delay college to pursue a higher calling. ... I don't know you, ... Montgomery recalled saying, ... but you need to start an organization to reach out to young people with your message.
 

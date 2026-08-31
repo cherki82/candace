@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:14:14](/episodes/ep-MhakwJxK-Zk.md#t-00-13-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(854);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=854s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After serving in the military, first in the Navy and then the Army Special Forces Airborne Division, Brad Hansell immediately went to work at ... the Boston Consulting Group. Interesting. After some years, he was then picked to work under Trump (Donald Trump)'s first administration as a member of the National Security Council, and he was to work as the special assistant to President Donald J. Trump for National Security Affairs. When Trump (Donald Trump)'s first term concluded, he went back to the Boston Consulting Group. ... As a principal of the firm for years, he then did a one-off year before being selected again by Trump (Donald Trump), the new term as the undersecretary, which we just told you about.
 

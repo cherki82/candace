@@ -16,8 +16,9 @@ type: "factual_claim"
 
 **Speaker:** [Megyn Kelly](/entities/person-megyn-kelly.md) (Quoted)
 
-**Delivery:** Paraphrased
+**Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Megyn Kelly statement relayed by Candace Owens
 
 ## About
 
@@ -26,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:34:03](/episodes/ep-ja26iltROkM.md#t-00-33-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2043);return false;">Play</a>
+**Timestamp:** [00:33:58](/episodes/ep-ja26iltROkM.md#t-00-33-19) 
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=2038s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Gen Z—as Megyn Kelly (Megyn Kelly) said—you can't find anybody beneath the age of 30 that supports Israel.
+> Gen Z—as Megyn Kelly said—you can't find anybody beneath the age of 30 that supports Israel.
 
 ## Verification
 

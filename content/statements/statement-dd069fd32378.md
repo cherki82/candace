@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:50:37](/episodes/ep-jsqUIkszZd0.md#t-00-50-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3037);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=3037s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's like they just welcome this at Turning Point USA. Like, oh, Greg Laurie, yeah, is accused of trafficking—Harvest Church is being accused of trafficking people from Romania.
 

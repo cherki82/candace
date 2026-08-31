@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [02:09:56](/episodes/ep--9MOUvgGyi4.md#t-02-09-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7796);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=7796s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when you walked in tonight, I was on the phone with actually the president of the University of Georgia and she up in this sort of sorry for the Turning Point USA chapter and there had just been this situation where. ... Erika (Erika Kirk) wasn't going because the crowd size and she said that was it. It was the crowd size. ... We told them that it wasn't going to be a big crowd. We were concerned the entire time. We had communicated this to them that people didn't want to go. ... And then Erika (Erika Kirk) abandons that commitment in the last moment and they get on stage and they blame the world. ... It's like you didn't show up for your commitment and now you're telling the world that she had death attacks or like, you know, death threats and that wasn't true.
 

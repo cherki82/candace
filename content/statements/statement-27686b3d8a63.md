@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1671);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=1671s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:01:46](/episodes/ep-xjzb_t5Tk9o.md#t-00-01-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(106);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=106s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I didn't even ask you to vote for me. I won it fair and square in large part thanks to the fact that I was fired from Daily Wire that year.
 

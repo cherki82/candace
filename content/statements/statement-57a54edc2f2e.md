@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:29:27](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1767);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1767s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But like, I went on tour with Turning Point last year.
 

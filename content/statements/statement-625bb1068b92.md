@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:15:11](/episodes/ep-7ERqbYElOfs.md#t-00-14-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(911);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=911s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my old tweet saying that I had a source inside of the French government because I did that told me that their GIGN intervention group was involved in the assassination. I said that Charlie Kirk's assassin trained with the. ... The French Legion 13th Brigade with multi-state involvement.
 

@@ -3,9 +3,17 @@ title: "Calvary Chapel Solid Rock"
 description: "Calvary Chapel Solid Rock (Organizations) - 1 mention"
 id: "org-calvary-chapel-solid-rock"
 type: "ORG"
+categories:
+  - "Wisconsin Calvary Chapel congregation"
 ---
 
 _Type: Organizations_
+
+**Categories:** Wisconsin Calvary Chapel congregation
+
+**Entity verification:** verified
+> Published reporting confirms Calvary Chapel Solid Rock in New Richmond, Wisconsin.
+Source: [The Roys Report: Wisconsin Pastor Arrested in Sting Operation](https://julieroys.com/wisconsin-pastor-arrested-attempted-solicitation-minor-sting-operation/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-solid-rock-t-00-19-42">2025-11-13 · 00:19:59</a></strong></div>

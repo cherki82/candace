@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:12:20](/episodes/ep-wcD2khO3rOA.md#t-00-12-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2011, Tyler Bowyer also went to Romania to work with the Romanian government... In 2013, Tyler Bowyer posted a photo of himself with a Ukrainian orphan named Natalia.
 

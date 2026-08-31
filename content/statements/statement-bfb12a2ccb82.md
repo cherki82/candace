@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:34:58](/episodes/ep-9CuC1yf8-PU.md#t-00-34-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2098);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2098s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, while we received another update, another person has come forward and confirmed this information that Erika Kirk was working as the contact for the model apartments on the Upper East Side. This person is insistent. She said she herself met with Erika Kirk. OK, this is exceedingly problematic.
 

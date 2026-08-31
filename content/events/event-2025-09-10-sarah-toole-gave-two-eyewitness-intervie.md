@@ -7,6 +7,11 @@ time: "13:17"
 ---
 
 **Date:** 2025-09-10 at 13:17
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “9/10”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "13:17"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:20:05](/episodes/ep-9CuC1yf8-PU.md#event-event-2025-09-10-sarah-toole-gave-two-eyewitness-intervie-t-00-19-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1205);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1205s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, that's pretty descriptive. That's what she said at 1.17 p.m.
 
@@ -26,6 +31,6 @@ time: "13:17"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:20:11](/episodes/ep-9CuC1yf8-PU.md#event-event-2025-09-10-sarah-toole-gave-two-eyewitness-intervie-t-00-19-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1211);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1211s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But then just 50 minutes later, she gives another interview and her story has changed.

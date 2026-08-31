@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:17:30](/episodes/ep-2T39-oADLj0.md#t-00-17-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1050);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=1050s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Soviet propaganda in the classrooms so those would be the top two things and so they're ignoring their gut instinct and following the herd
 

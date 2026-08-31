@@ -24,15 +24,15 @@ type: "factual_claim"
 - [Wilmington](/entities/gpe-wilmington.md) (gpe)
 - [Cloverstone Ventures](/entities/org-cloverstone-ventures.md) (org)
 - [Brigitte Macron](/entities/person-brigitte-macron.md) (person)
-- [Stacey Sheridan](/entities/person-stacey-sheridan.md) (person)
+- [Stacy Sheridan](/entities/person-stacy-sheridan.md) (person)
 
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(803);return false;">Play</a>
+**Timestamp:** [00:12:04](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53) 
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=724s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> But wow—what are the chances that Stacey Sheridan (Stacey Sheridan) has a registered agent that's in that building too
+> We've got Brigitte's (Brigitte Macron's) lawyers at 919 North Market Street. Also in that building happens to be Stacey Sheridan's registered agent. ... But the one I'm speaking about is Cloverstone Ventures.
 
 ## Verification
 

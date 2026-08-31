@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:51:47](/episodes/ep-I0OaY6Gryqk.md#t-00-51-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3107);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=3107s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i should mention that he also then no showed the military council meeting today a critical military council meeting and they said that he has never missed that ever so that happened today i obviously can't confirm if he's you If he's ever missed it, because I'm not exactly keeping up with his day-to-day schedule,
 

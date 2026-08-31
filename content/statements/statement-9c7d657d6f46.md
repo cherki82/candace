@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:47:01](/episodes/ep-ds6umq1rHAw.md#t-00-46-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2821);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=2821s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am a seamstress for 20 plus years. That item clearly has a seam, referring to the burnt item on the floor, and you can see the precise spacing of each thread in the seam. ... I have included photos of the areas that I am referencing. I believe the larger portion of the cloth that we see, that we can see, is the outside of the shirt evidenced by the visible seam line.
 

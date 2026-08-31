@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:15:36](/episodes/ep-ja26iltROkM.md#t-00-15-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(936);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=936s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We are meticulously investigating theories and questions, including the location from where the shot was taken, the possibility of accomplices, the text message confession and related conversations, Discord chats, the angle of the shot and bullet impact, ... how the weapon was transported, hand gestures observed as potential signals near Charlie (Charlie Kirk) at the time of his assassination, and visitors to the alleged shooter's residence in the hours and the days leading up to September 10, 2025.
 

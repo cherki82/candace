@@ -6,6 +6,11 @@ date: "2017"
 ---
 
 **Date:** 2017
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “Since 2017”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2017"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:08:30](/episodes/ep-iB-YtO3UZOg.md#event-event-2017-ashley-brown-guajardo-began-hosting-a-we-t-00-08-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(510);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=510s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 2017, she's hosted a weekly educational Twitch stream on games user research models and methods

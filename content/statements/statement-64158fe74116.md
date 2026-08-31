@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:49:41](/episodes/ep-iHav0PPzUz8.md#t-00-49-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2981);return false;">Play</a>
+**Timestamp:** [00:49:41](/episodes/ep-iHav0PPzUz8.md#t-00-49-28) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2981s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's openly talking about his hostilities towards white men, right? Because he views Jewish people as a separate race. He believes he's a Jewish supremacist. There's no question that that's what Josh Hammer is
 

@@ -29,9 +29,9 @@ veracity: "true"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:19:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1196);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1196s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And at the same time, the Simon Wiesenthal Center—and this is again another interesting piece of this—put me—like, issued a statement against my comments. ... Simon Wiesenthal Center—we're like the official Holocaust people—and "this girl is obviously supporting Hitler."
+> And at the same time, the Simon Wiesenthal Center—and this is again another interesting piece of this—put me—like, issued a statement against my comments. Simon Wiesenthal Center—we're like the official Holocaust people—and "this girl is obviously supporting Hitler."
 
 ## Verification
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:09:21](/episodes/ep-EtLHqDbxqks.md#t-01-09-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4161);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We're going to find out more. I am on top of that car. Do not stop investigating, okay? ... Stay focused on this investigation. We will have so much more this week in terms of where we left off and what was going on in that car.
 

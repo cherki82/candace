@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1665);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1665s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They asked Karoline Leavitt about this at the White House, and she said—and I quote—"The White House was not aware of that meeting, but the president stands by our ambassador."
 

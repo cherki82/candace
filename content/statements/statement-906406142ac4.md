@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [01:02:58](/episodes/ep-9naMwS0kMBE.md#t-01-02-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3778);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3778s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > despite waiting for him to land, they then went into different entries into the hospital. Erika went through the back and Andrew went through the front.
 

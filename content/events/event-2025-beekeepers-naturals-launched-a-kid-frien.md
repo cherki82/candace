@@ -6,6 +6,11 @@ date: "2025"
 ---
 
 **Date:** 2025
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “Last year, relative to the March 4, 2026 publication”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:38:03](/episodes/ep-y8lak3CRwDw.md#event-event-2025-beekeepers-naturals-launched-a-kid-frien-t-00-37-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2283);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2283s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Last year, they launched a kid-friendly version of their nasal spray and the mist is soft
 
@@ -25,7 +30,7 @@ date: "2025"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:48:32](/episodes/ep-jsqUIkszZd0.md#event-event-2025-beekeepers-naturals-launched-a-kid-frien-t-00-48-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2912);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Last year, they launched a kid-friendly version of their nasal spray
 
@@ -33,6 +38,6 @@ date: "2025"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:28:42](/episodes/ep-tXoI0TTKVrs.md#event-event-2025-beekeepers-naturals-launched-a-kid-frien-t-00-28-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1722);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1722s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > last year they launched a kid-friendly version of their nasal spray with a soft gentle mist

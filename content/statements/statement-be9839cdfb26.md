@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(656);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, I'm going to remind you also that from the Boston Consulting Group, Mitt Romney founded Bain Capital with an Israeli spy. ... Robert Maxwell, Ghislaine Maxwell's father, as one of his seed investors.
 

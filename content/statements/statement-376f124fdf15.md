@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:42:14](/episodes/ep-OEAHy3SsIiI.md#t-00-41-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2534);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2534s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you had this paramount tactical account in Valhalla who called up Mitch (Mitch Snow). ... At the exact same time, they had Ian Carroll calling me, and Ian Carroll was being a friend, and he's like, hey, you should get on the phone with them, and you should come out against Mitch, because Mitch is a fraud ... So just to make that clear, they're trying to pressure Mitch (Mitch Snow) to say something against me and trying to pressure me to say something against Mitch (Mitch Snow) to believe that Mitch (Mitch Snow) was a fraud and to have Mitch (Mitch Snow) believe that I was a fraud.
 

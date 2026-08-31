@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:39:32](/episodes/ep-Ux1kzgQxkws.md#t-00-39-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2372);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2372s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > all this other bullshit you know bribery and all these other things That they investigated up and down during the Trump administration with a Trump appointed U.S. attorney, with the Trump appointed U.S. attorney is the only U.S. attorney in the country to stay on and continue to prosecute me, who then became special counsel after I got a plea deal because I paid my taxes late and I paid them with penalties and interest and I owned a gun for 11 days.
 

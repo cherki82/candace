@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:50:37](/episodes/ep-5-HUyv9LyMg.md#t-00-50-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3037);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=3037s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > given the amount of money they have made off of Charlie (Charlie Kirk) and their refusal to do the right thing and to say what Charlie (Charlie Kirk) actually thought, as opposed to trying to direct the ghost of Charlie (Charlie Kirk) to say the opposite
 

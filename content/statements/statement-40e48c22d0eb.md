@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:27:19](/episodes/ep-EtLHqDbxqks.md#t-00-27-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1639);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1639s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To the contrary, there was plenty of testimony regarding how Lance Twiggs' prints were on everything, the towel, the gun, the Dremel that was used to carve out the messages on the cartridges.
 

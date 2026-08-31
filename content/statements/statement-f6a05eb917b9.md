@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:52:20](/episodes/ep-zSKrxIUMNqw.md#t-00-51-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > banned from Australia, having our YouTube channel demonetized, people calling our sponsors.
 

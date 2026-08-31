@@ -6,6 +6,11 @@ date: "2024"
 ---
 
 **Date:** 2024
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “fall 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:11:38](/episodes/ep-G3zdOeHpvS0.md#event-event-2024-tpusas-audiovisual-team-began-routinely--t-00-11-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(698);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=698s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It began in fall 2024, you're being brainwashed tour,
 
@@ -25,6 +30,6 @@ date: "2024"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:11:54](/episodes/ep-VMNWMXX1vO8.md#t-00-11-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(714);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=714s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay. He was brought on, I am told. Of course, after I stopped touring with Charlie,

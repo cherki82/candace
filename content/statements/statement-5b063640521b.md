@@ -1,6 +1,6 @@
 ---
-title: "Tyler Robinson was told to walk and drop off his gun at a ne..."
-description: "\"Tyler Robinson was told to walk and drop off his gun at a neighboring house, which was how he participated in the Charlie Kirk assassination event\" — Candace Owens"
+title: "Candace Owens said people on the ground believed Tyler Robin..."
+description: "\"Candace Owens said people on the ground believed Tyler Robinson had been told to walk and drop off his gun at a neighboring house, which might explain...\" — Candace Owens"
 statement_id: "statement-5b063640521b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Tyler Robinson was told to walk and drop off his gun at a neighboring house, which was how he participated in the Charlie Kirk assassination event
+> Candace Owens said people on the ground believed Tyler Robinson had been told to walk and drop off his gun at a neighboring house, which might explain how he participated in the Charlie Kirk assassination event.
 
 ## Attribution
 
@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:08:22](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(502);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=502s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, the only thing that I have heard that made sense—which did not come from our government, did not come from the feds, did not come from the Utah government, but rather from the people that are on the ground, who believe that actually Tyler was just told to walk and drop off his gun at a neighboring house— that, for some reason, just feels like that might be honest and that was how he participated in this event.
 

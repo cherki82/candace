@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:25:06](/episodes/ep-Pb7UlpRdW6U.md#t-00-24-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1506);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1506s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I would like to add also that everything about the Charlie Kirk assassination mirrors the White House Correspondents' Dinner strategy. ... Being executed in the shadows by the military, right?
 

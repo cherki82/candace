@@ -27,8 +27,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:50:36](/episodes/ep-581dILVcEE4.md#t-00-50-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3036);return false;">Play</a>
+**Timestamp:** [00:50:36](/episodes/ep-581dILVcEE4.md#t-00-50-19) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=3036s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Don't forget that when JFK tried to put an end to that—well, I guess rather put an end to the Israel exception that we now have by making them sign up and acknowledge FARA, to follow the FARA—they shot him.
 

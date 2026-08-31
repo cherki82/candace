@@ -27,7 +27,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div><span>Episodes</span><strong>58</strong></div>
 <div><span>Mentions</span><strong>251</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>99</strong></div>
+<div><span>Statements about</span><strong>100</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,7 +43,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09" style="--pulse-height:22%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59" style="--pulse-height:26%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-54" style="--pulse-height:26%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-iran-t-00-50-14" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-iran-t-00-34-41" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
@@ -106,7 +106,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09) | 5 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59) | 6 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-54) | 6 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-iran-t-00-50-14) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-iran-t-00-34-41) | 1 |
@@ -1109,22 +1109,22 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (6 mentions)</summary>
 
-**[00:09:19](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59)**
+**[00:09:16](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-54)**
 > "...Kirk) asked me explicitly in July to go on stage and to go after Israel, trying to drag us into the Iran war." And I was talking to him about Jeffrey Epstein, and I was saying to Charlie (Charlie Kirk), "..."
 
-**[00:10:02](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-09-46)**
+**[00:09:46](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-09-46)**
 > "...nking about the effort by the neocons in the United States to draw us into another forever war with Iran. Not a defense of Iran, of course. It's merely an acknowledgement that we've done this before. This..."
 
 **[00:10:09](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-09-46)**
 > "...by the neocons in the United States to draw us into another forever war with Iran. Not a defense of Iran, of course. It's merely an acknowledgement that we've done this before. This happened in Iraq, whic..."
 
-**[00:38:00](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-37-47)**
+**[00:37:58](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-37-58)**
 > "...ent role of female Mossad agents have played in Israel's sophisticated intelligence efforts against Iran, including by seducing top officials—and that some of them reportedly seduced high-ranking enemy of..."
 
-**[00:53:29](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-52-49)**
+**[00:53:23](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-53-23)**
 > "...ns of mass destruction? That's what they always say. That's why they're trying right now. They want Iran. They want to force this change of power in Iran. Yeah, that's kind of the repeat thing. "We're spr..."
 
-**[00:53:32](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-52-49)**
+**[00:53:33](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-53-23)**
 > "...ay. That's why they're trying right now. They want Iran. They want to force this change of power in Iran. Yeah, that's kind of the repeat thing. "We're spreading democracy." For who? No. We are expanding ..."
 
 </details>
@@ -1197,7 +1197,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
 
 **[00:37:27](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27)**
-> "...hing called FARA. And every country—if they're going to influence people—if you're Qatar, if you're Iran and you want to lobby on behalf of those countries—you have to be registered under FARA so we know ..."
+> "And every country—if they're going to influence people—if you're Qatar, if you're Iran and you want to lobby on behalf of those countries—you have to be registered under FARA so we know where that money is going into."
 
 </details>
 
@@ -1205,7 +1205,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
 
 **[00:35:22](/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19)**
-> "...irk clip) "You're not anti-Israel. You don't wish them harm. You're not, you know, like cheering on Iran." "No, I support it. I think they're our allies. I want them—" "But you would be called an anti-Sem..."
+> "You're not, you know, like cheering on Iran.""
 
 </details>
 
@@ -1337,7 +1337,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (99)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (100)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5)</summary>
@@ -1753,6 +1753,14 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 - [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
+
+- [00:04:50](/episodes/ep-K1tFD7FfoCU.md#t-00-04-45) (Accusation) **Randy Fine** (via quoted speech): ["Tucker Carlson is the most dangerous anti-Semite in America. He has ch..."](/statements/statement-fa457366befc.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

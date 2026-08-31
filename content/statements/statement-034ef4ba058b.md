@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:26:07](/episodes/ep-YeEtS7nix3o.md#t-00-25-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1567);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1567s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By 1918, the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York.
 

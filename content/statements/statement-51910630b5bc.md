@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:23:27](/episodes/ep-tXoI0TTKVrs.md#t-00-23-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1407);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1407s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk was assassinated and we all know that it wasn't by the left. Okay. Charlie Kirk was not assassinated by the left. I don't care how many influencers are paid to tell you otherwise.
 

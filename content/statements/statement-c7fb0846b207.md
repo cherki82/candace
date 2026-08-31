@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:05:38](/episodes/ep-KpxIBWkNsSs.md#t-00-05-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(338);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=338s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I got to tell you, the more I listen to it, the more AI it sounds to me. Take a listen. ... A lot of organizations and groups, as soon as a founder leaves, it just kind of collapses. A lot of my job is not always in the day-to-day details. It's very much vision casting, very much driving success. But we have a great board, and God forbid if something happens, they'll figure it out. I appoint my wife to run Turning Point USA if something happens to me. Erika (Erika Kirk) would do a great job.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:30:41](/episodes/ep-h76ZN-xXC6c.md#t-00-29-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1841);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when a lawyer came on the phone, I said, do you have more evidence than the public has? ... I assume you do. He said no.
 

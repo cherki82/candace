@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(26);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=26s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson, in my view, did not commit this crime.
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.
 

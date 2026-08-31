@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:50:35](/episodes/ep-CMcktj3Egfo.md#t-00-49-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3035);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=3035s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Saw some stuff about like really his full last name is Mileikowsky and he looks a little like Bibi Netanyahu.
 

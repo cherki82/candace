@@ -1,6 +1,6 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 40 mentions"
+description: "Jared Kushner (People) - 43 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
 categories:
@@ -17,13 +17,13 @@ _Type: People_
 Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived White House](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-senior-advisor-jared-kushner-call-jewish-leaders/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58">2025-10-09 · 00:47:28</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-47-28">2025-10-09 · 00:47:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32">2026-06-24 · 00:42:42</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,7 +31,10 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01">EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-47-28" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-38-57" style="--pulse-height:12%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-52-43" style="--pulse-height:12%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-jared-kushner-t-01-13-21" style="--pulse-height:12%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-31-07" style="--pulse-height:88%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46" style="--pulse-height:12%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
@@ -50,7 +53,10 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58) | 4 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-47-28) | 4 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-52-43) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-jared-kushner-t-01-13-21) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-31-07) | 7 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46) | 1 |
@@ -71,7 +77,7 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -247,19 +253,43 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[01:13:21](/episodes/ep-es7PWdFGoFI.md#ent-person-jared-kushner-t-01-13-21)**
+> "...on't get it. I don't know why Jared Kushner and Zionists are allowed to go to Qatar, which ha..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:52:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-52-43)**
+> "But look what's happening. Trump needs a casino, right? Jared's doing deals. They want beachfront properties. They're invested in this."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:38:57](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57)**
+> "Jared"
+
+</details>
+
+<details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
 
-**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58)**
-> "...they're going to try to tell us that we've reached peace. At the center of it was Steve Witkoff and Jared Kushner (Jared Kushner). They arrived on Wednesday morning to represent the US negotiators from Israel and ..."
+**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-47-28)**
+> "At the center of it was Steve Witkoff and Jared Kushner. They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas, and the mediators from Qatar and Egypt and Turkey also participated, and were supposed to go, "Wow, that's amazing.""
 
-**[00:48:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-48-17)**
-> "...on camera explicitly before October 7 saying we need to hit them so hard that they can't come back. Jared Kushner (Jared Kushner) is involved in—he will financially benefit from whatever they build in its place. A..."
+**[00:48:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-48-09)**
+> "Jared Kushner is involved in—he will financially benefit from whatever they build in its place. Again, all of this began before October 7th, right?"
 
-**[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-48-17)**
-> "... to thank the monsters that did this. You guys have it in your heart to say thank you? Thank you to Jared Kushner (Jared Kushner) and Donald Trump (Donald Trump) and Bibi Netanyahu (Benjamin Netanyahu) who are jus..."
+**[00:48:52](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-48-52)**
+> "You guys have it in your heart to say thank you? Thank you to Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role, convinced that we're all so stupid."
 
-**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-49-02)**
-> "... partners playing a role, convinced that we're all so stupid. I mean, let's roll the clip back from Jared Kushner (Jared Kushner) when he sat down at Harvard, Assad operation, to speak about their aim. (Clip: Jare..."
+**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-48-52)**
+> "I mean, let's roll the clip back from Jared Kushner when he sat down at Harvard, Assad operation, to speak about their aim. (Clip: Jared Kushner) This is February 15th, 2024."
 
 </details>
 
@@ -267,6 +297,18 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:24](/episodes/ep-pc3pxRyNFZk.md#t-00-48-09): “Jared Kushner is involved in—he will financially benefit from whatever they build in its place.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Affiliated With (1)</summary>
@@ -305,6 +347,18 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details>
+<summary>Invested In (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:38:57](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I understand Jared and Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (1)</summary>
 
 - **[Edi Rama](/entities/person-edi-rama.md)**
@@ -331,6 +385,18 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details>
+<summary>Worked With (1)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:52](/episodes/ep-pc3pxRyNFZk.md#t-00-48-52): “Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[White House](/entities/org-white-house.md)**
@@ -344,7 +410,14 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (12)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:24](/episodes/ep-pc3pxRyNFZk.md#t-00-48-09): “Jared Kushner is involved in—he will financially benefit from whatever they build in its place.”
+
+</details>
 
 - **[Hunter Biden](/entities/person-hunter-biden.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -365,6 +438,13 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:08:50](/episodes/ep-19vHhjF7-NA.md#t-00-08-42): “We were on our friend Nat Rothschild's boat.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** has investor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:38:57](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I understand Jared and Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet.”
 
 </details>
 
@@ -405,12 +485,26 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 </details>
 
+- **[Steve Witkoff](/entities/person-steve-witkoff.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:47:28](/episodes/ep-pc3pxRyNFZk.md#t-00-47-28): “At the center of it was Steve Witkoff and Jared Kushner. They arrived on Wednesday morning to represent the US negotiators”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:48:52](/episodes/ep-pc3pxRyNFZk.md#t-00-48-52): “Jared Kushner and Donald Trump and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jared Kushner (2)</strong></summary>
+<summary><strong class="section-title">Statements by Jared Kushner (3)</strong></summary>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
@@ -423,10 +517,18 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 </details>
 
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:50:08](/episodes/ep-pc3pxRyNFZk.md#t-00-49-47) [✓] (Opinion) ["Kushner said Gaza's waterfront property could be valuable and that, from Israel'..."](/statements/statement-d08a11606232.md)
+  - About: [Gaza](/entities/gpe-gaza.md), [Israel](/entities/gpe-israel.md), [Palestinians](/entities/concept-palestinians.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jared Kushner (18)</strong></summary>
+<summary><strong class="section-title">Statements about Jared Kushner (19)</strong></summary>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
@@ -504,6 +606,14 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 - [00:30:55](/episodes/ep-9naMwS0kMBE.md#t-00-30-25) (Accusation) **Dave Rubin** (via quoted tweet): ["Dave Rubin said Candace Owens told him at dinner that she hated Charli..."](/statements/statement-e9206aa17cd1.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ivanka Trump](/entities/person-ivanka-trump.md)
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:48:24](/episodes/ep-pc3pxRyNFZk.md#t-00-48-09) (Accusation) **Candace Owens**: ["Owens accused Jared Kushner of standing to benefit financially from wh..."](/statements/statement-d3ee608c7bb1.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md), [October 7th](/entities/date-october-7th.md)
 
 </details>
 

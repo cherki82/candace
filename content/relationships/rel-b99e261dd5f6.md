@@ -11,15 +11,24 @@ object: "person-donald-trump"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) supporter of [Donald J. Trump](/entities/person-donald-trump)
 
-### Evidence (5 mentions)
+### Evidence (8 mentions)
 
 **[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
 
 - [00:22:32](/episodes/ep-ChuWo-n49B8#t-00-22-32): _I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice._
 
+**[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
+
+- [00:07:56](/episodes/ep-JQjCAsfoXEE#t-00-07-56): _And I think it is a circumstance where we all just know. We just know that he was truly betrayed in one of the most egregious ways that I think I've ever seen. It has made me lose faith in politics. It has made me fully lose faith in Trump (Donald Trump). My heart aches for the fact that he gave so much of his life to Trump (Donald Trump) and to politics._
+
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
 - [00:19:00](/episodes/ep-OgRyiOAVtWU#t-00-19-00): _Republican youth movement. President Trump (Donald Trump) called him instrumental in getting him reelected as president. There was a shooting today, and Charlie Kirk's representatives are confirming that he was shot and is being treated at this hospital._
+
+**[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
+
+- [00:10:16](/episodes/ep-Qt0VHV-POCg#t-00-10-16): _Of course we have to arrive here because Charlie really loved Donald J. Trump, okay?_
+- [00:10:33](/episodes/ep-Qt0VHV-POCg#t-00-10-33): _sleepless nights, wanting to ensure that he got elected, re-elected, midterm elections, hitting the ground, wearing a MAGA hat._
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 

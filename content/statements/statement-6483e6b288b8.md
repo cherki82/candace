@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:16:40](/episodes/ep-1hcjQGgvxUY.md#t-00-16-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1000);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1000s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I would also similarly say that any person who is arranging... ... for photographs to be taken of a 15-year-old girl without explicit permission from that person's mother is a total creep. ... So Erica (Erika Kirk) having done this is completely and utterly creepy.
 

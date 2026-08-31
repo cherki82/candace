@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(524);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=524s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center... what happened after it fell apart was that they decided to instead create Turning Point Faith.
 

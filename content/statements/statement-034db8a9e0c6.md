@@ -25,8 +25,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:35:15](/episodes/ep-Qfwr08Ebczo.md#t-00-34-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2115);return false;">Play</a>
+**Timestamp:** [00:35:15](/episodes/ep-Qfwr08Ebczo.md#t-00-34-53) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=2115s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We very much don't live in a Christian society because we live in a Christian Zionist society. And Christian Zionism is a...It's a paradox, okay? There's no such thing as Christian Zionism because Zionism is all about identity
 

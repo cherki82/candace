@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:51:33](/episodes/ep-9naMwS0kMBE.md#t-00-51-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3093);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3093s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when they had AmFest and Erika came out, they played audio of Charlie saying that he wanted Erika to take over for him.
 

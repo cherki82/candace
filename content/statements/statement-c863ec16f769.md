@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:40:50](/episodes/ep-mLvJqdxS-FY.md#t-00-40-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=2450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By the way. Well, fun fact, Frank (Frank Turek) and his son, Zach (Frank Zach Turek), Pentagon Zach (Frank Zach Turek), actually wrote a book together entitled Hollywood Heroes, How Your Favorite Superhero Movies Reveal God.
 

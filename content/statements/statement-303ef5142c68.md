@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:36:24](/episodes/ep-SgVcnx4Oh30.md#t-00-36-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2184);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Through the course of two days, I was able to get access to one of Rio's largest gangs, Commando Vermelho, and befriend a few of their soldiers who are so dangerous they cannot even leave the favela. ... Lots of strange things happened to find myself on top of Brazil's largest favela in a destroyed house interviewing gang members of one of the largest gangs in Brazil.
 

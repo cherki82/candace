@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:35:57](/episodes/ep-sreYYcID-QY.md#t-00-35-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2157);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2157s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was actually related to Gaza and what you were gonna do with Gaza thereafter
 

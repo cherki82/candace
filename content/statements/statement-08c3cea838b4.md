@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:02:44](/episodes/ep-7RLtGgkTh9o.md#t-00-02-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(164);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They put him on a psych 5150 hold, which is one of their strategies. And effectively, he had been MKUltra'd, right? By putting on that psych 5150 hold.
 

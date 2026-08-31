@@ -1,6 +1,6 @@
 ---
-title: "There was coordination of an assassination attempt against C..."
-description: "\"There was coordination of an assassination attempt against Candace Owens involving Israel and French intelligence agencies\" — Candace Owens"
+title: "Owens asserted that an assassination attempt against her had..."
+description: "\"Owens asserted that an assassination attempt against her had been coordinated and involved Israel and French intelligence agencies.\" — Candace Owens"
 statement_id: "statement-f38ac6eda7ba"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> There was coordination of an assassination attempt against Candace Owens involving Israel and French intelligence agencies
+> Owens asserted that an assassination attempt against her had been coordinated and involved Israel and French intelligence agencies.
 
 ## Attribution
 
@@ -21,14 +21,16 @@ type: "accusation"
 ## About
 
 - [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
+- [French intelligence](/entities/org-french-intelligence.md) (org)
 
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:41:47](/episodes/ep-t4U7NjnUEgc.md#t-00-41-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2507);return false;">Play</a>
+**Timestamp:** [00:41:36](/episodes/ep-t4U7NjnUEgc.md#t-00-41-17) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=2496s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I was always telling the truth about the coordination of an assassination attempt, which involved Israel and French intelligence agencies.
+> And I was always telling the truth about the coordination of an assassination attempt, which involved Israel and French intelligence agencies.
 
 ## Verification
 

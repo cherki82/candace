@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:26:11](/episodes/ep-4JxgOclKzqg.md#t-00-26-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1571);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=1571s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But why did Terrell (Terrell Farnsworth) tell me that he spoke with Erika (Erika Kirk) about that footage specifically? Again, he was lying a lot on that phone call, so I can't assert that he was telling the truth, but I do know and I have proof that that's what he told me.
 

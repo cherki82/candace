@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:03:59](/episodes/ep-Vu6Y24pqhZs.md#t-00-03-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(239);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=239s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > decided to go to Zachariah Qureshi's apartment in Provo, whereupon he was then brought in and interrogated by the feds and then released.
 

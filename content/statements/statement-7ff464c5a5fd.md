@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:19:16](/episodes/ep-Dkxa9OUA9K8.md#t-01-19-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4756);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=4756s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > says um but like i said i also don't believe that you beheaded a cat when you were three because kids are not that strong and that's a hard thing to do i don't believe you wore a cat head um because you know there's a lot of things that you say that i don't believe so
 

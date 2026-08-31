@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:00:32](/episodes/ep-1IY2oD-_xVA.md#t-00-00-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(32);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=32s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't recognize the person that she is. pretending to be she's very different when we dated everyone says that across the board when you ask them about the relationship with Erika (Erika Kirk) but he did tell me another interesting little tidbit a little anecdote one morning he would often I guess speak to Erika (Erika Kirk) about how close he was with his grandfather his grandfather had already passed he's dating Erika (Erika Kirk) and she's getting to know him in his life and the things that matter to him he says that one morning Erika (Erika Kirk) wakes up and she tells him
 

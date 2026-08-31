@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 29 mentions"
+description: "Neoconservatism (Concepts) - 31 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [Neoconservatism | Definition, Ideology, & History](https://www.britannica.com/topic/neoconservatism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-02">2026-01-07 · 00:28:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-neoconservatism-t-00-09-46">2025-11-12 · 00:09:46</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-41-14">2026-08-07 · 00:41:23</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,8 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-neoconservatism-t-00-09-46" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-neoconservatism-t-00-43-06" style="--pulse-height:10%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-02" style="--pulse-height:30%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-19" style="--pulse-height:30%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-neoconservatism-t-00-46-48" style="--pulse-height:10%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -51,6 +53,8 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-neoconservatism-t-00-09-46) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-neoconservatism-t-00-43-06) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-02) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-19) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-neoconservatism-t-00-46-48) | 1 |
@@ -68,7 +72,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
@@ -204,6 +208,22 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 **[00:29:02](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-37)**
 > "...n free speech is now dead and Neocons are staging a hostile takeover of his legacy and ..."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:43:42](/episodes/ep-w1oqQbR_bYs.md#ent-concept-neoconservatism-t-00-43-06)**
+> "...elsons, and he's definitely a neocon, I'll tell you that for free."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:09:46](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-neoconservatism-t-00-09-46)**
+> "...nking about the effort by the neocons in the United States to draw us into another fore..."
 
 </details>
 

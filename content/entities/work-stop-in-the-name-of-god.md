@@ -70,7 +70,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
 
-- [00:18:43](/episodes/ep-7FS1tUeSfdE.md#t-00-18-18) (Claim) **Anonymous Source #4 (Ep 7FS1tUeSfdE)** (via read message): ["On the day Charlie Kirk died, Justin Streiff called a printer to at le..."](/statements/statement-739c44db267e.md)
+- [00:18:43](/episodes/ep-7FS1tUeSfdE.md#t-00-18-18) (Claim) **Anonymous Source #4 (Ep 7FS1tUeSfdE)** (via read message): ["Owens alleged that, on the day Charlie Kirk died, Justin Streiff calle..."](/statements/statement-739c44db267e.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:21:34](/episodes/ep-7FS1tUeSfdE.md#t-00-21-10) (Opinion) **Candace Owens**: ["I would imagine Justin Streiff and Donald Trump Jr. stood to benefit g..."](/statements/statement-91c173c36a8c.md)

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:30:04](/episodes/ep-4DvYXBn_5JI.md#t-00-30-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1804);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1804s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Proof she was with her kids at 8.33 a.m. Pacific time, which again, in September, Arizona's on Pacific time, specific time, specific time, taking them for a walk. ... But again, it's proof of what's going on here. ... that she was indeed with the kids. ... Case closed. Case closed.
 

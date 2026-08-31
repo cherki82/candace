@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1967);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=1967s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > catholics for catholics lists general michael flynn as their senior advisor on their own website On the website, Flynn is the anchor of a digital infrastructure that has been repeatedly activated at every major Republican fracture point.
 

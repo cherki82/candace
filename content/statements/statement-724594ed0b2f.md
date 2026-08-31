@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:16:10](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(970);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But of course, he is busy because CENTCOM, Central Command, will be busy tonight because President Trump said we will be hitting Iran hard and we will be because Iran has a chance. To make a good deal, a great deal, to codify what they said they've been willing to do and they haven't been willing to do it.
 

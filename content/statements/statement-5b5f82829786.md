@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:39:05](/episodes/ep-AH1KVKkweUE.md#t-00-38-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2345);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So why should we trust the American intelligence without verifying? This is Israel's war. ... And I think it's long past time that our leaders would start to prioritize the well-being of our own citizens, not those of foreign nations. ... This is more of Israel pushing for Iran. But is that America's problem?
 

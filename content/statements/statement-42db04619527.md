@@ -1,6 +1,6 @@
 ---
-title: "Owens said Bill Ackman hosted a Hamptons meeting that she ch..."
-description: "\"Owens said Bill Ackman hosted a Hamptons meeting that she characterized as an intervention challenging Charlie Kirk over his views on Israel\" — Candace Owens"
+title: "Owens said Bill Ackman staged what she described as a Hampto..."
+description: "\"Owens said Bill Ackman staged what she described as a Hamptons intervention challenging Charlie Kirk over his views on Israel\" — Candace Owens"
 statement_id: "statement-42db04619527"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,28 @@ veracity: "mixed"
 
 ## Statement
 
-> Owens said Bill Ackman hosted a Hamptons meeting that she characterized as an intervention challenging Charlie Kirk over his views on Israel
+> Owens said Bill Ackman staged what she described as a Hamptons intervention challenging Charlie Kirk over his views on Israel
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Paraphrased
-**Original Source:** Unnamed-source accounts of a private Hamptons meeting summarized by Candace Owens
+**Delivery:** Made directly
+**Original Source:** Candace episode czVBmqZP6Ss
+
+## About
+
+- [Bill Ackman](/entities/person-bill-ackman.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:15:31](/episodes/ep-czVBmqZP6Ss.md#t-00-15-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(931);return false;">Play</a>
+**Timestamp:** [00:15:18](/episodes/ep-czVBmqZP6Ss.md#t-00-15-01) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=918s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Benjamin Netanyahu and that phone call, what took place was a couple of weeks ago before Charlie lost his life
+> Charlie was in the Hamptons and he had more than one event, but he had essentially what was staged an intervention. It was staged by Bill Ackman because Charlie's thoughts, Charlie's rational thoughts, about Israel were a no-no.
 
 ## Verification
 

@@ -1,24 +1,21 @@
 ---
 title: "September 4th"
-description: "September 4th (Dates) - 22 mentions"
+description: "September 4th (Dates) - 21 mentions"
 id: "date-september-4th"
 type: "DATE"
 aliases:
   - "9/4"
-  - "September 9th"
 ---
 
 _Type: Dates_
 
-**Also known as:** 9/4, September 9th
-
-> **Possibly overlapping entity records:** [September 9th](/entities/date-september-9th). These records share a name or alias; compare their histories before treating either count as complete.
+**Also known as:** 9/4
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32">2025-09-24 · 00:16:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#t-00-40-43">2025-09-25 · 00:41:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27">2025-12-20 · 00:43:06</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,14 +24,13 @@ _Type: Dates_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-46">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32" style="--pulse-height:25%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-date-september-4th-t-00-40-46" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-date-september-4th-t-00-10-26" style="--pulse-height:75%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-40-43" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26" style="--pulse-height:75%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-date-september-4th-t-00-39-39" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-33" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-51" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-date-september-4th-t-00-20-22" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#t-00-05-45" style="--pulse-height:25%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-39-28" style="--pulse-height:75%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
@@ -45,12 +41,11 @@ _Type: Dates_
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32) | 1 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-date-september-4th-t-00-40-46) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-date-september-4th-t-00-10-26) | 3 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53) | 4 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-40-43) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-46) | 4 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-date-september-4th-t-00-39-39) | 2 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-33) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-51) | 1 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-date-september-4th-t-00-20-22) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-05-45) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28) | 3 |
@@ -63,7 +58,7 @@ _Type: Dates_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
@@ -71,10 +66,10 @@ _Type: Dates_
 **[00:43:06](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27)**
 > "he is missing from September 4th to the September 10th on that show"
 
-**[00:35:34](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-34-58)**
+**[00:35:34](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27)**
 > "And on September 9th, in a 12-hour bark up,"
 
-**[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-36-19)**
+**[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27)**
 > "...a solid alibi for the alleged September 9th meeting with Charlie Kirk's security Brian Harpol..."
 
 **[00:42:59](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27)**
@@ -123,7 +118,7 @@ _Type: Dates_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:04:04](/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-33)**
+**[00:04:04](/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-51)**
 > "...oking at anywhere between 12 to 14 quote-unquote Egyptians that were on this flight and deplaned on September 4th, okay? A high government source actually reached out and made me aware. And this is stunning, actua..."
 
 </details>
@@ -142,16 +137,16 @@ _Type: Dates_
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
 
-**[00:12:53](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53)**
+**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-46)**
 > "...in from FlightRadar. Now, of course, when I pointed out that this foreign military plane arrived on September 4th—so six days before—into Provo, Utah, and departed six days later on September 10th, they ignored th..."
 
-**[00:15:23](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53)**
+**[00:15:23](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-46)**
 > "...e of the individuals that was aboard this flight. I can now report to you that it is a fact that on 9/4, this was not some dropping by in Utah as they were trying to claim because the plane needed to be ..."
 
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-19-07)**
+**[00:19:01](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-18-37)**
 > "...ce base, okay? Look in 2025. If you look under 2025, you will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—..."
 
-**[00:28:33](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-19-07)**
+**[00:28:33](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-18-37)**
 > "...ndomly a bunch of people leading up to this between those dates. Let's see: it landed into Provo on 9/4, and then it departed on 9/10. There must have been hotels, presumably. Maybe they're staying with ..."
 
 </details>
@@ -159,13 +154,13 @@ _Type: Dates_
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
 
-**[00:10:41](/episodes/ep-2Riv3I7D0Yk.md#ent-date-september-4th-t-00-10-26)**
+**[00:10:37](/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26)**
 > "... decided to just create a micro timeline of Josh Hammer's tweets. And it gets pretty interesting on September 9th, the day before Charlie (Charlie Kirk)'s assassination. This is what Josh Hammer tweeted. He tweete..."
 
-**[00:10:47](/episodes/ep-2Riv3I7D0Yk.md#ent-date-september-4th-t-00-10-26)**
+**[00:10:45](/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26)**
 > "...harlie Kirk)'s assassination. This is what Josh Hammer tweeted. He tweeted a total of nine times on September 9th, and you can gather what was going on that day from his tweets. He wakes up at 7:30 a.m.—or rather ..."
 
-**[00:11:22](/episodes/ep-2Riv3I7D0Yk.md#ent-date-september-4th-t-00-11-05)**
+**[00:11:22](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-02)**
 > "...of Israel and throws shade at Donald Trump and Qatar, and all of this is related to what went on on September 9th, which is that Israel bombed Qatar for no reason, violating international law, which they tend to d..."
 
 </details>
@@ -173,16 +168,8 @@ _Type: Dates_
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:41:15](/episodes/ep-K5GjF53bfN4.md#ent-date-september-4th-t-00-40-46)**
-> "...s." Thank you, James (James Moran). Renee (Renee) writes, "Have you covered the Amazon listing from September 9th for a book about Charlie (Charlie Kirk) with all the details, which were pretty accurate, of what h..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
-
-**[00:16:34](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32)**
-> "That was on September 9th, okay."
+**[00:41:15](/episodes/ep-K5GjF53bfN4.md#t-00-40-43)**
+> "Renee (viewer; surname unverified) writes, "Have you covered the Amazon listing from September 9th for a book about Charlie (Charlie Kirk) with all the details, which were pretty accurate, of what happened on the 10th?""
 
 </details>
 

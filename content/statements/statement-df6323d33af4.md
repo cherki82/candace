@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:10:19](/episodes/ep-xi8SYJTUXPM.md#t-00-09-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(619);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So yes, Nisscee, I agree with you that it is very likely that he zoomed in on that footage.
 

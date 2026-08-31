@@ -18,7 +18,6 @@ veracity: "true"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## About
 
@@ -29,8 +28,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(630);return false;">Play</a>
+**Timestamp:** [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-10-19) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=630s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Michael Bloomberg also gave money to a Cuomo-affiliated super PAC. He gave $8.3 million to stop Mamdani, and it didn't matter.
 

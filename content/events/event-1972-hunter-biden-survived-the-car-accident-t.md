@@ -6,6 +6,11 @@ date: "1972"
 ---
 
 **Date:** 1972
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 1972”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1972"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:18:23](/episodes/ep-Ux1kzgQxkws.md#event-event-1972-hunter-biden-survived-the-car-accident-t-t-00-17-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1103);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=1103s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my mom and sister and my and I were in that car accident in 1972 and we survived

@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:44:01](/episodes/ep-y8lak3CRwDw.md#t-00-44-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2641);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2641s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Everyone knows he's kind of kind of crazy and I mean, I don't think anyone ever thought it would get to this point.
 

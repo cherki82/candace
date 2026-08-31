@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2062);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2062s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr.
 

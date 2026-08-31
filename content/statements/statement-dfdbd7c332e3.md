@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:26:28](/episodes/ep-B9TyCs-6o_0.md#t-00-26-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1588);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1588s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We now have hard evidence. We have the call logs. We have text messages that Andrew was unavailable from 1.30 p.m. to 3.25 p.m.
 

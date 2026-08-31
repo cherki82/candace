@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1885);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1885s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It kind of grew into something more global. I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army and then was able to work with a orphanage in Romania. to help sustain them during their winter seasons and giving them more clothing items or tangible items rather than just money.
 

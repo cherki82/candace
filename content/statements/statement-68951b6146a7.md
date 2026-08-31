@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:43:38](/episodes/ep-VMNWMXX1vO8.md#t-00-43-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2618);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2618s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He then sends a message and says, "They're going to kill me,"
 

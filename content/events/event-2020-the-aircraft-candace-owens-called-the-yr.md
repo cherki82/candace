@@ -6,6 +6,11 @@ date: "2020"
 ---
 
 **Date:** 2020
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “back in 2020”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2020"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:24:42](/episodes/ep-SgVcnx4Oh30.md#event-event-2020-the-aircraft-candace-owens-called-the-yr-t-00-24-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1482);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1482s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the why refi plane was available for charter back in 2020.

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:50:09](/episodes/ep-9naMwS0kMBE.md#t-00-49-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3009);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3009s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > there is an angle here where I think the military is actually seeking out gifted children and putting them through tests testing and seeing if they can turn them into state weapons.
 

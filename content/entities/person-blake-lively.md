@@ -17,7 +17,7 @@ _Type: People_
 Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://www.britannica.com/biography/Blake-Lively)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32">2025-10-28 · 00:44:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32">2025-10-28 · 00:45:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-blake-lively-t-00-21-41">2026-08-19 · 00:21:41</a></strong></div>
 <div><span>Episodes</span><strong>15</strong></div>
 <div><span>Mentions</span><strong>41</strong></div>
@@ -31,8 +31,8 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-42">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32" style="--pulse-height:40%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-43" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32" style="--pulse-height:30%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-50" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-blake-lively-t-00-16-11" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-42" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 10 mentions" title="2026-01-21 · 10 mentions"><span></span></a>
@@ -51,8 +51,8 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32) | 4 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-43) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32) | 3 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-50) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-blake-lively-t-00-16-11) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-42) | 10 |
@@ -251,24 +251,21 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:05:56](/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-43)**
+**[00:05:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-50)**
 > ""Oh, it's because of the Blake Lively lawsuit.""
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
-
-**[00:44:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
-> "Blake Lively lawsuit colluding"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:45:02](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
 > "...ought that I was working with Blake Lively's—sorry—working with Justin Baldoni's team—is I qui..."
 
 **[00:45:05](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
-> "Held to my phone. I typed in "Blake Lively," and I showed you the only two times that I had ..."
+> "Held up my phone. I typed in "Blake Lively," and I showed you the only two times that I had ever texted about her in my phone at all"
 
-**[01:04:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
+**[01:04:22](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
 > "...when I was being accused of colluding on the Blake Lively story..."
 
 </details>

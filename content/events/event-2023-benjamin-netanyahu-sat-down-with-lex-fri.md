@@ -6,6 +6,11 @@ date: "2023"
 ---
 
 **Date:** 2023
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2023”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2023"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:05:15](/episodes/ep-MhakwJxK-Zk.md#event-event-2023-benjamin-netanyahu-sat-down-with-lex-fri-t-00-04-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(315);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=315s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Since 2023, to be precise, when he sat down with Lex Friedman, and I should make it clear

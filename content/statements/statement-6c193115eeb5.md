@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:36:09](/episodes/ep-iB-YtO3UZOg.md#t-00-36-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2169);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2169s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That was interesting too. I told you the speed of the autopsy is incredible. We were looking this up and it is true that the protocol is to bring the body down to 40 degrees in the morgue. Usually, obviously these things do not happen by morning time. You're prepared to be shipped, especially in a case this big. Why wouldn't you want to do the most thorough autopsy of all time? ... And that wasn't the circumstance here. It was rushed, but we did look it up. Even though it's not normal, isn't following normal protocol, it certainly isn't illegal to just instantly dive into doing an autopsy.
 

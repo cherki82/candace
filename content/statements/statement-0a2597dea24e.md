@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:36:15](/episodes/ep-mLvJqdxS-FY.md#t-00-36-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=2175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i was facetiming my son and daughter-in-law when the shot rang out i put the phone in my pocket not even remembering they were there because as soon as charlie shot i'm heading toward him and then running with him i just put it in my back pocket they heard the entire thing until we got to the hospital when i pulled it out of my pocket they were still there
 

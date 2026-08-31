@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:24:05](/episodes/ep-xi8SYJTUXPM.md#t-00-23-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1445);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=1445s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe, like I've said multiple times, that Jeffrey Epstein's network. reemerged and I think it reemerged in the not-for-profit world.
 

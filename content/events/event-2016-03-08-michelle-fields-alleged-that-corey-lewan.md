@@ -6,6 +6,15 @@ date: "2016-03-08"
 ---
 
 **Date:** 2016-03-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “that story of 2016”
+
+**Normalization note:** PBS dates the campaign event underlying Michelle Fields allegation to 2016-03-08, matching the transcript account.
+
+**Date source:** [https://www.pbs.org/newshour/politics/police-charge-trump-campaign-manager-with-assault](https://www.pbs.org/newshour/politics/police-charge-trump-campaign-manager-with-assault)
 
 ## Event
 
@@ -15,6 +24,6 @@ date: "2016-03-08"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:22:37](/episodes/ep-zSKrxIUMNqw.md#event-event-2016-03-08-michelle-fields-alleged-that-corey-lewan-t-00-22-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1357);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Do you guys remember Michelle Fields, that story of 2016?

@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:21:34](/episodes/ep-SgVcnx4Oh30.md#t-00-21-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think it's easier to think in terms of Utah time when Andrew (Andrew Kolvet) explicitly mentions that he is on a plane at 3.26 p.m. Mountain Standard, right? ... He says specifically, sorry, on the plane, this just loaded. And he is referring to a message that was sent to him.
 

@@ -6,6 +6,11 @@ date: "2026-06-09"
 ---
 
 **Date:** 2026-06-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “last night”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-06-09"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:04:47](/episodes/ep-tXoI0TTKVrs.md#event-event-2026-06-09-dana-loesch-posted-more-than-23-response-t-00-04-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(287);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=287s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > proceeded to author more than 23 tweets in response to people calling her out.

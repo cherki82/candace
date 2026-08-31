@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:10:18](/episodes/ep-WoXd4oLwd3w.md#t-00-10-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(618);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=618s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The president's a victim in a federal crime. And when he's ready for us to release more information about this crime, then he'll tell us.
 

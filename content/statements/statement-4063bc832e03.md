@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:18:27](/episodes/ep-DEtFh2Ff-58.md#t-00-18-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1107);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=1107s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika's mother was not in the hospital on September 8th. She was not in the hospital on September 9th and she was not in the hospital on September 10th.
 

@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:00:33](/episodes/ep-nPhCKwJ6ye8.md#t-02-00-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7233);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=7233s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > some of the artifacts that Charlie was wearing were immediately returned to Erika.
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:29:49](/episodes/ep-aPOyk1i2LOc.md#t-01-29-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5389);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=5389s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > some of the artifacts that Charlie was wearing were immediately returned to Erica.
 

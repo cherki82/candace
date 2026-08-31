@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:51:24](/episodes/ep-nPhCKwJ6ye8.md#t-00-51-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3084);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=3084s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But he's not much of a shooter is what I was told. And so he has this because he inherited it, essentially.
 
@@ -37,7 +37,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:26:46](/episodes/ep-aPOyk1i2LOc.md#t-00-26-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1606);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=1606s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So but he's not much of a shooter is what I was told. And so he has this because he inherited it essentially.
 

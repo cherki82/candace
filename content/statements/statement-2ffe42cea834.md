@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:38:24](/episodes/ep-9naMwS0kMBE.md#t-00-38-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2304);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2304s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie's viewpoints on Israel changed over the last year they had been changing because of the pressure that was coming to him by donors to control what he was saying and thinking and who he could invite to his own events
 

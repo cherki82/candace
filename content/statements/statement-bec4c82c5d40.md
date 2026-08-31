@@ -3,11 +3,11 @@ title: "Marissa Streit has not always been open about the fact that ..."
 description: "\"Marissa Streit has not always been open about the fact that she worked for the IDF intelligence\" — Candace Owens"
 statement_id: "statement-bec4c82c5d40"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -20,13 +20,17 @@ veracity: "mixed"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Marissa Streit](/entities/person-marissa-streit.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(513);return false;">Play</a>
+**Timestamp:** [00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.
+> And that's not the reality. You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.
 
 ## Verification
 
@@ -49,4 +53,4 @@ PragerU's own profile and 2022 annual report publicly disclose Streit's service 
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

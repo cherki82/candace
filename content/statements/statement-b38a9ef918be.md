@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:32:42](/episodes/ep-DdPjoy5W-wY.md#t-00-32-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1962);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1962s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I decided to create something called Everyday Heroes Like You, where we're able to originally it was focused on bringing funds and awareness to various grassroots organizations that were in specific communities that would be able to have volunteers that are transparent with their funds that are actually doing what they're saying they're doing instead of just having 70% of the funds go to admin and only only 30% towards the cause.
 

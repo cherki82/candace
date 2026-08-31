@@ -6,6 +6,11 @@ date: "2014-03-26"
 ---
 
 **Date:** 2014-03-26
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the morning and evening of March 26, 2014”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2014-03-26"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:06:41](/episodes/ep-1hcjQGgvxUY.md#t-00-06-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(401);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=401s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On the morning of March 26, 2014, Jillian tweeted

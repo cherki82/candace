@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:10:43](/episodes/ep-Ux1kzgQxkws.md#t-00-10-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(643);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=643s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > removing myself from being present for the people that love me and what happened to me, and I really mean this, is that the exposure, not piecemeal, but the total exposure, my entire digital footprint stolen from me. ... The 20-year digital footprint, every text message, every picture, every, all of the things that you would be ashamed of became a front page news for four years, five years, beginning in 2019.
 

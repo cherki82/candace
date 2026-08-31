@@ -24,14 +24,14 @@ veracity: "true"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:32:04](/episodes/ep-4JxgOclKzqg.md#t-00-32-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1924);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=1924s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Why is the FBI involved in this? Charlie Kirk was killed in Utah by a kid from Utah who left his house in Utah, drove to the university in Utah. and allegedly shot Charlie Kirk. Nobody ever crossed a state line. There's literally nothing in this case that would make it federal unless there was a conspiracy, in which case it would be a federal case and the FBI would be involved.
 

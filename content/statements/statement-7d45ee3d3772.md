@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:14:31](/episodes/ep-5autG89PW6w.md#t-00-14-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(871);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=871s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just want to address it head-on because that was a text grab, a screen grab that I had shared with people, so it is authentic.
 

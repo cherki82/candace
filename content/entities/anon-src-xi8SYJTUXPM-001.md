@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3)</summary>
 
-- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) [○] (Claim) ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pending gun pa..."](/statements/statement-2c06601c490a.md)
+- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) [○] (Claim) ["Owens alleged that, in late 2016, Lori Frantzve and Larry Guinta met the holders..."](/statements/statement-2c06601c490a.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md), [GTEC Industries](/entities/org-gtec-industries.md)
 
 - [00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36) [○] (Claim) ["At the gun-patent dinner, Erika Kirk joined the business discussion and Lori Fra..."](/statements/statement-94f570f1d582.md)

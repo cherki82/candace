@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:37:23](/episodes/ep-i8m_6D4QGmk.md#t-00-37-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2243);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2243s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She loves this country. She and her husband are so incredible. We miss him so dearly. But I actually asked—I'm going to get her in trouble with this—but I actually asked her once, I said, so Miriam, I know you love Israel. ... What do you love more, the United States or Israel? She refused to answer. That means, that might mean Israel, I must say.
 

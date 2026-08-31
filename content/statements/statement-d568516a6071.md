@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:50:40](/episodes/ep-qZ8RWfyuewQ.md#t-00-50-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3040);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3040s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And speaking of the lying, which, like I said, many people called out right away as that person said, I've never made that statement on this podcast.
 

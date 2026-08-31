@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:06:11](/episodes/ep-sKuYLNx3iRo.md#t-00-05-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(371);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=371s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Once we make it into the door where we see a gurney on the left hand side, we put him on a gurney and then I wheel him into a room. I start giving.
 

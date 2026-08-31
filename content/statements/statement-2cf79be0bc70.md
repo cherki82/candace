@@ -21,13 +21,13 @@ type: "factual_claim"
 ## About
 
 - [Dr. Lydia Smith-Amaro](/entities/person-dr-lydia-smith-amaro.md) (person)
-- [Leif Ericsson](/entities/person-leif-ericsson.md) (person)
+- [Leif Erikson](/entities/person-leif-erikson.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:30:00](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1800);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1800s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's from the Ericsson family. The Ericsson Boyd Corporation is her family. She tells people that she is a direct descendant of Leif Ericsson.
 

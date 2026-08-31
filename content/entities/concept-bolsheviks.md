@@ -1,6 +1,6 @@
 ---
 title: "Bolsheviks"
-description: "Bolsheviks (Concepts) - 16 mentions"
+description: "Bolsheviks (Concepts) - 19 mentions"
 id: "concept-bolsheviks"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-bolsheviks-t-00-56-19">2025-10-29 · 00:56:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32">2026-06-18 · 00:26:40</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,9 +35,9 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 <p>Highest activity: <a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-bolsheviks-t-00-52-13">Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-bolsheviks-t-00-56-19" style="--pulse-height:50%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-36" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-15" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-bolsheviks-t-00-52-13" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-bolsheviks-t-00-47-31" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-bolsheviks-t-00-17-22" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-bolsheviks-t-00-33-55" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
@@ -52,9 +52,9 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-bolsheviks-t-00-56-19) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-36) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-15) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-bolsheviks-t-00-52-13) | 2 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-bolsheviks-t-00-47-31) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-bolsheviks-t-00-17-22) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-bolsheviks-t-00-33-55) | 2 |
@@ -70,7 +70,7 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
@@ -146,10 +146,13 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:54:56](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53)**
+**[00:54:57](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53)**
 > "I think these are the children of Bolsheviks that are in this country"
+
+**[00:54:53](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53)**
+> "...ink these are the children of Bolsheviks that are in this country."
 
 </details>
 
@@ -167,7 +170,7 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:26:45](/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-36)**
+**[00:26:45](/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-15)**
 > "...ncreasingly dangerous because they are radical at their hearts—because these are the descendants of Bolsheviks. This is not something just to laugh at. It's something to pay attention to, okay? Because if they'..."
 
 </details>
@@ -190,13 +193,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bolsheviks (2)</strong></summary>
+<summary><strong class="section-title">Statements about Bolsheviks (4)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
 
 - [00:57:32](/episodes/ep-y8lak3CRwDw.md#t-00-57-26) (Accusation) **Candace Owens**: ["The Bolsheviks created concentration camps, then moved to Israel and a..."](/statements/statement-de88f0d1932b.md)
   - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+
+- [00:52:38](/episodes/ep-a-e7HC6SeK8.md#t-00-52-13) (Opinion) **Candace Owens**: ["I think these Bolsheviks are here in America"](/statements/statement-6c0d290b6392.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:53:00](/episodes/ep-a-e7HC6SeK8.md#t-00-52-57) (Accusation) **Candace Owens**: ["Owens alleged that the Bolsheviks she believes are in America regard m..."](/statements/statement-71b65c02b62a.md)
+  - Also about: [Christians](/entities/concept-christians.md)
 
 </details>
 

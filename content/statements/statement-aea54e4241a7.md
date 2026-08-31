@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:19:25](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1165);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1165s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it is highly likely that Andrew flew by himself on Charlie's plane, plausibly Charlie's plane, because I now have a message chain from that day.
 

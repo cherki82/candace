@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:26:56](/episodes/ep-N4uM8Jdr410.md#t-00-26-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1616);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1616s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think because now a very interesting picture is emerging, and that's why I'm speaking to you about this: a picture that I think is going to shock you. But we have to unpack it quite slowly. I don't want to give you information overload today, so I just want you to park that in the back of your mind, because I—I don't know about you—but I have not abandoned my deep sense that Israel was involved in the assassination of Charlie Kirk.
 

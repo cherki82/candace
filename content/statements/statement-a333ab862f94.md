@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:02:46](/episodes/ep-ZAuuSq_j2_w.md#t-00-02-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(166);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=166s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Does the DoD have any evidence at all of a French military plot to assassinate Candace Owens?
 

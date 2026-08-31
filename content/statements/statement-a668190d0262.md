@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:25:34](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1534);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1534s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And guess what? They're getting their war. Trump is now going to put boots on the ground in Iran. Have you heard? He's sending Marines boots on the ground for Bibi (Benjamin Netanyahu). But the IDF won't be joining. The IDF has said they're not going to put boots on the ground. It's better for the goyim to die.
 

@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA is engaged in a cover-up regarding Charlie..."
-description: "\"Turning Point USA is engaged in a cover-up regarding Charlie Kirk's assassination\" — Candace Owens"
+title: "Every day, it felt more to Candace Owens like Turning Point ..."
+description: "\"Every day, it felt more to Candace Owens like Turning Point USA was engaged in a cover-up regarding the Charlie Kirk assassination.\" — Candace Owens"
 statement_id: "statement-14ecc95c404d"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Turning Point USA is engaged in a cover-up regarding Charlie Kirk's assassination
+> Every day, it felt more to Candace Owens like Turning Point USA was engaged in a cover-up regarding the Charlie Kirk assassination.
 
 ## Attribution
 
@@ -22,14 +22,15 @@ type: "accusation"
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:42:42](/episodes/ep-LATnak75Si0.md#t-00-42-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2562);return false;">Play</a>
+**Timestamp:** [00:42:48](/episodes/ep-LATnak75Si0.md#t-00-42-45) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=2568s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Every day that goes on, it feels to me like Turning Point is engaged in a cover-up. And there's no other way to say this.
+> Okay, I need clarification because every day that goes on, it feels to me like Turning Point is engaged in a cover-up. ... And there's no other way to say this.
 
 ## Verification
 

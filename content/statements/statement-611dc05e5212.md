@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:23:43](/episodes/ep-his-JBjlkh8.md#t-00-23-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who wouldn't go, "Why the hell were these jets around Turning Point way before—years before—Charlie (Charlie Kirk)'s assassination?
 

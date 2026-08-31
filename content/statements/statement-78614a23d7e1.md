@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:24:35](/episodes/ep-WoXd4oLwd3w.md#t-00-24-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1475);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1475s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was weird because they had already signed a contract from January through December for all their events, but now they doubled down what catalyzed that like sudden addendum to their contract like yes we want more we're going to come in for this speaking tour that you're now going to do and the first one's going to be at UVU and me the CEO is going to travel with you at this event okay that seems a bit weird and then it dawned on me I totally forgot something.
 

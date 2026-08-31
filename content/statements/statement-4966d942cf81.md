@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:01:19](/episodes/ep-IqHsl7d2dos.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(79);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=79s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, you guys, it turns out that I was indeed right and no one will ever convince me that the deep state did not organize Charlie Kirk's assassination after this.
 

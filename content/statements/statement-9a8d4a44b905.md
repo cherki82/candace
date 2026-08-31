@@ -1,8 +1,8 @@
 ---
 title: "John DuPont shot Olympic wrestler David Schultz dead in the ..."
-description: "\"John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996\" — Candace Owens"
+description: "\"John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996\" — Vanity Fair"
 statement_id: "statement-9a8d4a44b905"
-speaker: "Candace Owens"
+speaker: "Vanity Fair"
 type: "factual_claim"
 ---
 
@@ -14,10 +14,11 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Vanity Fair](/entities/org-vanity-fair.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from article
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Vanity Fair
 
 ## About
 
@@ -29,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(613);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=613s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996
 

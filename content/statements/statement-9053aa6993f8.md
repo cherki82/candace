@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:26:11](/episodes/ep-IqHsl7d2dos.md#t-00-25-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1571);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1571s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe I correctly put the pieces together of Charlie (Charlie Kirk)'s assassination very early on. I think that's why they are deploying people and have been steady deploying people full time in an information war against me. ... That's our department of war that's behind that.
 

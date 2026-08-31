@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:16:17](/episodes/ep-YFmRH8p5lt0.md#t-00-15-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(977);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=977s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Borderline Bar, okay? This is on November 7th, 2018. A former machine gunner in the Marines, okay, opens fire on patrons
 

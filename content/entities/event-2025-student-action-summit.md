@@ -1,6 +1,6 @@
 ---
 title: "2025 Student Action Summit"
-description: "2025 Student Action Summit (Events) - 8 mentions"
+description: "2025 Student Action Summit (Events) - 12 mentions"
 id: "event-2025-student-action-summit"
 type: "EVENT"
 aliases:
@@ -24,10 +24,10 @@ _Type: Events_
 Source: [Student Action Summit 2025](https://www.sas2025.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58">2026-01-22 · 00:01:58</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-event-2025-student-action-summit-t-00-00-36">2025-11-12 · 00:01:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-2025-student-action-summit-t-00-17-53">2026-06-13 · 00:18:25</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -38,6 +38,9 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-event-2025-student-action-summit-t-00-00-36" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-event-2025-student-action-summit-t-00-11-52" style="--pulse-height:50%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-event-2025-student-action-summit-t-00-06-08" style="--pulse-height:50%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-event-2025-student-action-summit-t-00-16-38" style="--pulse-height:50%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-event-2025-student-action-summit-t-00-21-40" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
@@ -47,6 +50,9 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-event-2025-student-action-summit-t-00-00-36) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-event-2025-student-action-summit-t-00-11-52) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-event-2025-student-action-summit-t-00-06-08) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-event-2025-student-action-summit-t-00-16-38) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-event-2025-student-action-summit-t-00-21-40) | 2 |
@@ -58,7 +64,7 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
@@ -101,6 +107,30 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 
 </details>
 
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-event-2025-student-action-summit-t-00-06-08)**
+> "...unquote problematic speech at SAS when he jumped on stage and basically asked that ..."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+
+**[00:12:23](/episodes/ep-JQjCAsfoXEE.md#ent-event-2025-student-action-summit-t-00-11-52)**
+> "He does the big events: the SAS, the AmFest."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:01:03](/episodes/ep-MUA9ebCF4Ow.md#ent-event-2025-student-action-summit-t-00-00-36)**
+> "...ker Carlson) backstage at the Student Action Summit in July."
+
+</details>
+
 </details>
 
 <details open>
@@ -110,11 +140,13 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 <summary>Hosted Speaker (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:45:45](/episodes/ep-581dILVcEE4.md#t-00-45-30): “So we all know, of course, that Charlie (Charlie Kirk)'s dear friends—the Zionists and the donors who love Charlie (Charlie Kirk)—lost their ish at the Turning Point USA SAAS event last July when Tucker (Tucker Carlson) hit the stage and Charlie (Charlie Kirk) told Tucker (Tucker Carlson) to go max.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:26](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “This actually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when he jumped on stage and basically asked that question.”
 
 </details>
 
@@ -138,11 +170,13 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 <summary>Referenced By (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** spoke at this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:45:45](/episodes/ep-581dILVcEE4.md#t-00-45-30): “So we all know, of course, that Charlie (Charlie Kirk)'s dear friends—the Zionists and the donors who love Charlie (Charlie Kirk)—lost their ish at the Turning Point USA SAAS event last July when Tucker (Tucker Carlson) hit the stage and Charlie (Charlie Kirk) told Tucker (Tucker Carlson) to go max.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:26](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “This actually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when he jumped on stage and basically asked that question.”
 
 </details>
 

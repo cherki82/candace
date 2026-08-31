@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(914);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=914s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Laura Loomer follows up. It's so disrespectful to President Trump (Donald Trump), but don't say I didn't warn you about Joe Kent and his wife who works for the Trump (Donald Trump) hater and radical left Jew hater Max Blumenthal. Why does the White House allow these people to have wins?
 

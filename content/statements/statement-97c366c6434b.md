@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:49:03](/episodes/ep-I0OaY6Gryqk.md#t-00-48-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2943);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2943s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They didn't say where that circuit board overheated, but that was the reason they shut down four airports around the White House. ... No, that's obviously a lie. Something happened to me. It's like they were trying to get somebody in or get somebody out. They didn't want anybody else in the air. ... That's my opinion. Obviously not a fact.
 

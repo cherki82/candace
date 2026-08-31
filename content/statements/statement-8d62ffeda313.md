@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(393);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That day on September 10th, I provided SBI with four videos through a Google Drive, and then you see the link, and he tells you what those videos are labeled. Okay. And then he says these videos were taken by me and my team at the U of U event on September 10th, 2025. These videos, as they were provided to SBI, are a true and correct representation of what took place at UVU.
 

@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:33:12](/episodes/ep-YeEtS7nix3o.md#t-00-32-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1992);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1992s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But as Putin said, the sanctions are not applied evenly. ... Israel is not sanctioned by the United States. It's supported.
 

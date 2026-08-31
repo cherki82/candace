@@ -6,6 +6,11 @@ date: "2026-07-22"
 ---
 
 **Date:** 2026-07-22
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “today”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2026-07-22"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:00:29](/episodes/ep-ds6umq1rHAw.md#event-event-2026-07-22-andrew-kolvet-publicly-attempted-to-blam-t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(29);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=29s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me
 
@@ -25,6 +30,6 @@ date: "2026-07-22"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:30:40](/episodes/ep-amqTMimDr0A.md#event-event-2026-07-22-andrew-kolvet-publicly-attempted-to-blam-t-00-30-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1840);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1840s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > blamed me for the hit piece against me when it went wrong.

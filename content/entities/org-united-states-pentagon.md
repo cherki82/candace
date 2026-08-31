@@ -1,6 +1,6 @@
 ---
 title: "United States Pentagon"
-description: "United States Pentagon (Organizations) - 43 mentions"
+description: "United States Pentagon (Organizations) - 41 mentions"
 id: "org-united-states-pentagon"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43">2025-09-18 · 00:04:43</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-40-17">2026-07-16 · 00:40:50</a></strong></div>
 <div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -37,11 +37,11 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-37-21">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43" style="--pulse-height:10%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55" style="--pulse-height:40%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55" style="--pulse-height:30%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-37-21" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 10 mentions" title="2025-12-03 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11" style="--pulse-height:60%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 6 mentions" title="2025-12-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27" style="--pulse-height:10%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57" style="--pulse-height:20%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-39" style="--pulse-height:10%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-pentagon-t-00-36-06" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-pentagon-t-00-02-20" style="--pulse-height:40%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
@@ -57,11 +57,11 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55) | 4 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55) | 3 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-37-21) | 10 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11) | 6 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57) | 2 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-39) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-pentagon-t-00-36-06) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-pentagon-t-00-02-20) | 4 |
@@ -78,7 +78,7 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
@@ -174,22 +174,19 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:35:11](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40)**
+**[00:35:06](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40)**
 > "...als, and military generals at the Pentagon, such as the Joint Chiefs of Staff."
 
-**[00:44:52](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-44-50)**
+**[00:44:50](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-44-41)**
 > "...ies to be that this is like a Pentagon level meeting."
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
 
-**[00:03:12](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
-> "you don't see this unless you're at the Pentagon or you're at the White House"
-
-**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
-> "...n't see this unless you're at the Pentagon or you're at the White House."
+**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-39)**
+> "...see this unless you're at the Pentagon or you're at the White House. You just don't see ..."
 
 </details>
 
@@ -260,18 +257,15 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
 
 **[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
 > "...s are coming; the Muslims are here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of..."
 
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...t threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions about what the Pentagon was up to, money, a lot of..."
-
-**[00:47:44](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-47-39)**
+**[00:47:42](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-47-36)**
 > "...this headline. "Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass." Now, this is of interest. This should be of interest to everybody. But you don't have ..."
 
-**[00:49:07](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-57)**
+**[00:49:05](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-54)**
 > "...u're just interested in basic safety and defense, you wouldn't allow that person in a building like the Pentagon specifically. And they're doing that why? Because she has proven over and over again that she has n..."
 
 </details>
@@ -407,12 +401,9 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House nor our intel agencies nor th..."](/statements/statement-1c3fbbbdbc0f.md)
-  - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
-
-- [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the ..."](/statements/statement-532c5d81ba0d.md)
+- [00:06:39](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Owens said the Pentagon, White House, U.S. intelligence agencies, and ..."](/statements/statement-532c5d81ba0d.md)
   - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 
 </details>
@@ -422,6 +413,14 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pe..."](/statements/statement-762a0183a31f.md)
   - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+
+- [00:47:42](/episodes/ep-LATnak75Si0.md#t-00-47-36) (Claim) **Laura Loomer** (via quoted article): ["Laura Loomer said she had a new Pentagon press pass."](/statements/statement-5515540e535d.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md)
 
 </details>
 

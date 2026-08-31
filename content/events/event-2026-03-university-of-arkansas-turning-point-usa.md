@@ -6,6 +6,11 @@ date: "2026-03"
 ---
 
 **Date:** 2026-03
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “2026-03”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-03"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:31:01](/episodes/ep-I0OaY6Gryqk.md#event-event-2026-03-university-of-arkansas-turning-point-usa-t-00-31-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1861);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1861s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > announcing it is rebranding and disaffiliating with the national group.

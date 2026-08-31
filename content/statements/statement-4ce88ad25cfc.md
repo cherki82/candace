@@ -1,8 +1,8 @@
 ---
-title: "Frank Turek is telling conspiracy theorists to shut up unles..."
-description: "\"Frank Turek is telling conspiracy theorists to shut up unless we have the facts\" — Frank Turek"
+title: "Owens characterized Frank Turek as telling her and other con..."
+description: "\"Owens characterized Frank Turek as telling her and other conspiracy theorists to shut up unless they had facts\" — Candace Owens"
 statement_id: "statement-4ce88ad25cfc"
-speaker: "Frank Turek"
+speaker: "Candace Owens"
 type: "opinion"
 ---
 
@@ -10,24 +10,23 @@ type: "opinion"
 
 ## Statement
 
-> Frank Turek is telling conspiracy theorists to shut up unless we have the facts
+> Owens characterized Frank Turek as telling her and other conspiracy theorists to shut up unless they had facts
 
 ## Attribution
 
-**Speaker:** [Frank Turek](/entities/person-frank-turek.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Paraphrased
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 
 ## About
 
-- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Frank Turek](/entities/person-frank-turek.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:00:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(51);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=51s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He is telling me, plus other conspiracy theorists, to shut up unless we have the facts.
 

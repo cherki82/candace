@@ -5,11 +5,19 @@ id: "org-pbs"
 type: "ORG"
 aliases:
   - "Public Broadcasting Service"
+categories:
+  - "public media,broadcast media"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Public Broadcasting Service
+
+**Categories:** public media,broadcast media
+
+**Entity verification:** verified
+> PBS official About page confirms PBS as the public media organization referenced in the eyewitness interview context.
+Source: [About PBS](https://www.pbs.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-org-pbs-t-00-32-39">2025-12-05 · 00:32:48</a></strong></div>

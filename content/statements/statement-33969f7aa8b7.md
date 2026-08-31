@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:19:20](/episodes/ep-k1b1NDCrNFs.md#t-00-19-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1160);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1160s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, during our sit down, Erika (Erika Kirk) told me that she was no longer using Andrew (Andrew Kolvet) as PR because he kept going rogue. He kept going rogue.
 

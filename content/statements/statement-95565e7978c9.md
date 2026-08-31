@@ -24,7 +24,7 @@ veracity: "false"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:26:22](/episodes/ep-his-JBjlkh8.md#t-00-25-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1582);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1582s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, they were selling kit of what Charlie (Charlie Kirk) died in to the tune of 80 million plus dollars that they made in the first three weeks. ... They made their entire budget ... for the year in the first couple of weeks following Charlie (Charlie Kirk)'s assassination.
 

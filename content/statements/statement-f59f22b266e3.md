@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:18:24](/episodes/ep-2Riv3I7D0Yk.md#t-00-18-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1104);return false;">Play</a>
+**Timestamp:** [00:18:24](/episodes/ep-2Riv3I7D0Yk.md#t-00-18-13) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=1104s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > how he regularly attacks people and how vicious he is—are not feeling particularly charitable towards him, especially having been exposed as somebody who lied so audaciously and boldly and repeatedly and unnecessarily about the pressure that Charlie (Charlie Kirk) was under—pressure which Josh Hammer was a part of applying in the weeks and then in the hours leading up to Charlie (Charlie Kirk)'s death
 

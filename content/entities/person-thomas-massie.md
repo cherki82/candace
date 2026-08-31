@@ -1,6 +1,6 @@
 ---
 title: "Thomas Massie"
-description: "Thomas Massie (People) - 47 mentions"
+description: "Thomas Massie (People) - 48 mentions"
 id: "person-thomas-massie"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10">2025-11-13 · 00:57:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22">2026-07-29 · 00:32:28</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -36,6 +36,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-thomas-massie-t-00-36-14">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-thomas-massie-t-00-49-36" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-thomas-massie-t-00-29-56" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25" style="--pulse-height:31%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-thomas-massie-t-00-07-32" style="--pulse-height:85%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 11 mentions" title="2026-03-12 · 11 mentions"><span></span></a>
@@ -55,6 +56,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-thomas-massie-t-00-49-36) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-thomas-massie-t-00-29-56) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25) | 4 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-thomas-massie-t-00-07-32) | 11 |
@@ -75,7 +77,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -274,6 +276,14 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 **[00:29:56](/episodes/ep-CEF7gQRWYCE.md#ent-person-thomas-massie-t-00-29-56)**
 > "Thomas Massie is demanding for there to be more of a release"
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:50:00](/episodes/ep-581dILVcEE4.md#ent-person-thomas-massie-t-00-49-36)**
+> "...mmon Sensing It writes, "Rep. Massie, Green—any Republican or Democrat representative ..."
 
 </details>
 

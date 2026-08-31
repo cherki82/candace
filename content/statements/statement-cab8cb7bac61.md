@@ -1,6 +1,6 @@
 ---
-title: "The military industrial complex shot JFK to maintain power a..."
-description: "\"The military industrial complex shot JFK to maintain power and has created a veneer of reality for Americans\" — Candace Owens"
+title: "Owens said she thinks the military-industrial complex shot J..."
+description: "\"Owens said she thinks the military-industrial complex shot JFK to maintain power and created a veneer of reality\" — Candace Owens"
 statement_id: "statement-cab8cb7bac61"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> The military industrial complex shot JFK to maintain power and has created a veneer of reality for Americans
+> Owens said she thinks the military-industrial complex shot JFK to maintain power and created a veneer of reality
 
 ## Attribution
 
@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:30:46](/episodes/ep-Cq7nj9rxPdo.md#t-00-30-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1846);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1846s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think the military industrial complex that Eisenhower forewarned of—the military industrial complex that shot JFK to maintain power—has created a veneer of reality for us, and it is not so, right? We are under a veil.
 

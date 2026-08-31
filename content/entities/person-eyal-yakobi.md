@@ -3,13 +3,21 @@ title: "Eyal Yakobi"
 description: "Eyal Yakobi (People) - 1 mention"
 id: "person-eyal-yakobi"
 type: "PERSON"
+categories:
+  - "social media commentator"
 ---
 
 _Type: People_
 
+**Categories:** social media commentator
+
+**Entity verification:** verified
+> The source video displays the quoted post under the name Eyal Yakobi; this verifies the canonical display name for the attributed statement only and does not assert a broader legal identity.
+Source: [The Great Exodus From Utah? Where Did The Egyptians Go On 9/10? | Candace Ep 267](https://www.youtube.com/watch?v=581dILVcEE4)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-eyal-yakobi-t-00-02-08">2025-11-18 · 00:02:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-eyal-yakobi-t-00-02-08">2025-11-18 · 00:02:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-eyal-yakobi-t-00-02-08">2025-11-18 · 00:02:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-eyal-yakobi-t-00-02-08">2025-11-18 · 00:02:32</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
@@ -41,7 +49,7 @@ _Type: People_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:02:34](/episodes/ep-581dILVcEE4.md#ent-person-eyal-yakobi-t-00-02-08)**
+**[00:02:32](/episodes/ep-581dILVcEE4.md#ent-person-eyal-yakobi-t-00-02-08)**
 > "... is that we revealed the rental license plates. These are real tweets from some Zionists. We've got Eyal Yakobi, who writes, "This is what doxing looks like." "These are unparalleled levels of insanity." "This i..."
 
 </details>

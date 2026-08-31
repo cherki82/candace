@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -23,7 +23,7 @@ veracity: "true"
 
 - [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md) (org)
 - [Tucson, Arizona](/entities/gpe-tucson-arizona.md) (gpe)
-- [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md) (gpe)
+- [Phoenix](/entities/gpe-phoenix.md) (gpe)
 - [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md) (gpe)
 - [Foreign Agents Registration Act](/entities/law-fara.md) (law)
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:41:16](/episodes/ep-uC_GjKU8rs8.md#t-00-41-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2476);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In their FARA docs, they specifically note that they are going to be doing that geofencing and targeting in Tucson, Phoenix, and Las Vegas.
 

@@ -6,6 +6,11 @@ date: "2025-07"
 ---
 
 **Date:** 2025-07
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “Beginning in July of last year”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-07"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:25:12](/episodes/ep-H9p2ZGHAs9A.md#event-event-2025-07-arizona-announced-it-would-become-the-fi-t-00-25-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1512);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Arizona to be the first U.S. state to open a trade office in Romania.

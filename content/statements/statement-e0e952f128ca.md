@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:44:41](/episodes/ep-tXoI0TTKVrs.md#t-00-44-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2681);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's going to be published in the next issue on Thursday, June 11th. It's June 10th. I got this email last night. You can see it's 6.10 p.m. And we'll be on stands on June 17th. So they're already printing this and we're just telling you here's what we've heard.
 

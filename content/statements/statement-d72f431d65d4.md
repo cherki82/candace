@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:53:44](/episodes/ep-VMNWMXX1vO8.md#t-00-53-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3224);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3224s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My boyfriend and I both work with explosives. We both are military EOD—Explosive Ordnance Disposal—techs, which is more commonly known as military bomb techs.
 

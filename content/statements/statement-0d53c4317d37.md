@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:25:48](/episodes/ep-X92MllIHDzw.md#t-00-25-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1548);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1548s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it should be noted that this is a psychiatric residential treatment facility. Different powers for the state if they say you're a nutcase,
 

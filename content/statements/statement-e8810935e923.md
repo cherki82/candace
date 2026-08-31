@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:31:03](/episodes/ep-5-HUyv9LyMg.md#t-00-31-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1863);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=1863s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do want to point out that it does very much look to me like there was some sort of shattered glass in the back. ... And so I just want to say that I do see that all across the back seat
 

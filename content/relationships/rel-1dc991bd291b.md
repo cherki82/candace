@@ -11,7 +11,11 @@ object: "org-babylon-bee"
 
 ## [Seth Dillon](/entities/person-seth-dillon) affiliated with [The Babylon Bee](/entities/org-babylon-bee)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
+
+- [00:47:11](/episodes/ep-2WEHTk0Xewg#t-00-47-11): _Seth Dillon of the Babylon Bee, for example._
 
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 

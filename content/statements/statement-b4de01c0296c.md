@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:19:08](/episodes/ep-jTj9Ip46r4w.md#t-00-18-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1148);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1148s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This time, Erica (Erika Kirk)'s name is typed in. And once again, her birthday is listed as November 22nd, 1988.
 

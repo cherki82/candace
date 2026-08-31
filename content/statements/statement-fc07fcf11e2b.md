@@ -22,13 +22,13 @@ veracity: "mixed"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [The Hamptons](/entities/gpe-the-hamptons.md) (gpe)
+- [Hamptons](/entities/gpe-hamptons.md) (gpe)
 
 ## Source
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:33:59](/episodes/ep-4YgrOhhy708.md#t-00-33-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Hamptons meeting was a retreat called by Charlie (Charlie Kirk). ... There was a claim that was made that an intervention was staged with Charlie (Charlie Kirk), ... where people pulled him into a room in a very aggressive manner, ... It was not like that. There were about 30 people there, ... handpicked and invited by Charlie (Charlie Kirk) personally. He brought us there.
 

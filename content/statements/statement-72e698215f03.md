@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:05:57](/episodes/ep-SKNJPul29zU.md#t-00-05-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(357);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like you were the wrong like you were in the wrong because you realize that you have a sitting United States congressman wearing the uniform of a foreign foreign country in the halls of Congress talking about how it's OK to just slaughter an entire group of people, including women, children, elderly people.
 

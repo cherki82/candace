@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:11:32](/episodes/ep-B9TyCs-6o_0.md#t-00-11-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(692);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=692s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I declined. But then fast forward another week or two and they were made public. So that's what I know is that Joe suggested that they be made public. I declined. Then they were made public. Can I 100% categorically say that he leaked them? No. But those are the facts.
 

@@ -6,6 +6,11 @@ date: "2019"
 ---
 
 **Date:** 2019
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “as being of 2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:32:27](/episodes/ep-ti5Fxrvegno.md#event-event-2019-candace-owens-said-erika-kirk-filed-a-tr-t-00-32-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1947);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1947s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > certainly as being of 2019, she files for a trademark for that fashion brand.

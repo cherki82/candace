@@ -6,49 +6,34 @@ date: "2017-10-01"
 ---
 
 **Date:** 2017-10-01
+**Date precision:** Day
 
 ## Event
 
 > Las Vegas mass shooting by Stephen Paddock kills 58 people
 
-## Mentioned In (5 times)
+## Mentioned In (3 times)
 
 ### 1. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:21:11](/episodes/ep-YaZfwLQ7vrI.md#event-event-2017-10-01-las-vegas-mass-shooting-by-stephen-paddock-kills-5-t-00-20-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1271);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=1271s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can call it the militant faith pipeline because it's getting a little much for me.
 
-### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(613);return false;">▶️ Play</a>
-
-> z dead in the driveway of the family's mansion in 1996. Two years later, the decomposing body of a Las Vegas prostitute was found stuffed in the air condi
-
-### 3. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:10:20](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(620);return false;">▶️ Play</a>
-
-> 1996. Two years later, the decomposing body of a Las Vegas prostitute was found stuffed in the air conditioner of a seedy motel. She was killed by three hired
-
-### 4. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
+### 2. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:21:11](/episodes/ep-YaZfwLQ7vrI.md#event-event-2017-10-01-las-vegas-mass-shooting-by-stephen-paddock-kills-5-t-00-20-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1271);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=1271s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can call it the militant faith pipeline because it's getting a little much for me.
 
-### 5. Bride Of Charlie: What Happened In Romania? | Episode 6
+### 3. Bride Of Charlie: What Happened In Romania? | Episode 6
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:40:10](/episodes/ep-y8lak3CRwDw.md#event-event-2017-10-01-las-vegas-mass-shooting-by-stephen-paddock-kills-5-t-00-40-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2410);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Vegas shooting of October of 2017 apparently that had to do with the Middle East

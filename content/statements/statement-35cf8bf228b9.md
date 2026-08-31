@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:20:49](/episodes/ep-a-e7HC6SeK8.md#t-00-20-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1249);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=1249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then we know that in very early August, Turning Point was scouting that location and that event, and they specifically requested for Charlie (Charlie Kirk) to be in that amphitheater.
 

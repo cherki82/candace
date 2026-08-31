@@ -6,6 +6,11 @@ date: "2025-12-09"
 ---
 
 **Date:** 2025-12-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “December 9th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-12-09"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:20:32](/episodes/ep-69A8TzAGHlU.md#event-event-2025-12-09-candace-owens-aired-a-solo-episode-about-t-00-20-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1232);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=1232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was a solo episode on December 9th. And if you recall, it caused mass panic.
 
@@ -25,6 +30,6 @@ date: "2025-12-09"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2827);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=2827s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I basically first told Mitch's story um his entire background and then I said

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:12:35](/episodes/ep-Dkxa9OUA9K8.md#t-00-12-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(755);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=755s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My dad's CEO reached out to me after my father's request for this to be retracted, offering me $55,000 as essentially be quiet money.
 

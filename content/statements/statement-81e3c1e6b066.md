@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:09:23](/episodes/ep-mLvJqdxS-FY.md#t-00-09-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(563);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=563s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know who he was exactly. He had a badge on and I had somebody with me to back me up as I ran up the stairs to make sure I had somebody with me. ... a handgun, yes.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:10:44](/episodes/ep-AH1KVKkweUE.md#t-00-10-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(644);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=644s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know who he was exactly. He had a badge on and I had somebody with me to back me up as I ran up the stairs to make sure I had somebody with me.
 

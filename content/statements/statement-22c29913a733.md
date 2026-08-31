@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -19,11 +19,16 @@ veracity: "mixed"
 
 **Delivery:** Made directly
 
+## About
+
+- [N1098L](/entities/vehicle-n1098l.md) (vehicle)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+
 ## Source
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:37:28](/episodes/ep-pc3pxRyNFZk.md#t-00-37-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2248);return false;">Play</a>
+**Timestamp:** [00:37:28](/episodes/ep-pc3pxRyNFZk.md#t-00-37-01) 
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=2248s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's tail number N1098L. So this plane left from Texas, went over to Utah right about the time that Charlie (Charlie Kirk) got assassinated. It dipped real low. It seemed like—who knows what this plane was being sent there for—but the fact that this plane had been used in the military rightfully alerted people to the fact that they may have had some knowledge. This plane may have had some knowledge of what was going to occur.
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:23:02](/episodes/ep-h76ZN-xXC6c.md#t-00-22-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1382);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1382s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 20 gram booster, PETN charge. We're going to use it against the transaction window to see what the results are. ... make like a laser beam through the guy's head. It's about the same as a gunshot. This is NIJ4 rated glass. Yeah, from a thirty-ought-six, so it's about the same foot diameter.
 

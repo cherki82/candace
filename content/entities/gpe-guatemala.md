@@ -3,9 +3,17 @@ title: "Guatemala"
 description: "Guatemala (Places) - 1 mention"
 id: "gpe-guatemala"
 type: "GPE"
+categories:
+  - "country"
 ---
 
 _Type: Places_
+
+**Categories:** country
+
+**Entity verification:** verified
+> The Government of Guatemala portal confirms the canonical country name Guatemala.
+Source: [Gobierno de Guatemala](https://guatemala.gob.gt/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-guatemala-t-00-24-32">2025-11-13 · 00:25:03</a></strong></div>

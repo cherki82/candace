@@ -1,17 +1,17 @@
 ---
-title: "Benjamin Netanyahu lied by portraying Charlie Kirk as a clos..."
-description: "\"Benjamin Netanyahu lied by portraying Charlie Kirk as a close friend and saying he had recently invited Kirk to Israel\" — Candace Owens"
+title: "Owens accused Benjamin Netanyahu of lying when he portrayed ..."
+description: "\"Owens accused Benjamin Netanyahu of lying when he portrayed Charlie Kirk as a good friend whom he had recently invited to Israel.\" — Candace Owens"
 statement_id: "statement-a71b2a3fad7a"
 speaker: "Candace Owens"
 type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Benjamin Netanyahu lied by portraying Charlie Kirk as a close friend and saying he had recently invited Kirk to Israel
+> Owens accused Benjamin Netanyahu of lying when he portrayed Charlie Kirk as a good friend whom he had recently invited to Israel.
 
 ## Attribution
 
@@ -23,10 +23,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:42:45](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2565);return false;">Play</a>
+**Timestamp:** [00:42:35](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2555s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I don't like that Benjamin Netanyahu (Benjamin Netanyahu) lied so quickly
+> Actually not the only thing: Benjamin Netanyahu trying to spin this into "he's my good friend. I just invited him." ... Well, Tucker (Tucker Carlson) completely shredded that narrative. I don't like that Benjamin Netanyahu lied so quickly. It doesn't make me comfortable.
 
 ## Verification
 

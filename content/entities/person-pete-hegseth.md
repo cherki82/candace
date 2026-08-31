@@ -436,7 +436,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
   - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md), [United States](/entities/gpe-united-states.md)
 
 - [00:12:02](/episodes/ep-BxN2-aeMYIs.md#t-00-11-52) (Claim) **Candace Owens**: ["Pete Hegseth was photographed in Washington, D.C., at 3 p.m. on Septem..."](/statements/statement-be73fd658149.md)
-  - Also about: [Washington, D.C.](/entities/gpe-washington-dc.md), [Singapore](/entities/gpe-singapore.md)
+  - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md), [Singapore](/entities/gpe-singapore.md)
 
 - [00:12:18](/episodes/ep-BxN2-aeMYIs.md#t-00-11-52) (Claim) **Candace Owens**: ["Pete Hegseth has previously taken that exact plane while it used a SAM..."](/statements/statement-8d9852fdc782.md)
   - Also about: [Special Air Mission](/entities/concept-special-air-mission.md), [United States Air Force](/entities/org-united-states-air-force.md)

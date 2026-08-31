@@ -23,7 +23,7 @@ type: "promise"
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:24:00](/episodes/ep-K5GjF53bfN4.md#t-00-24-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1440);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=1440s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've seen a lot, and I'm going to allow the reports to come out next week, that people who have really seized upon that and are looking at things.
 

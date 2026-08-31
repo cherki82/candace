@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:39:41](/episodes/ep-MhakwJxK-Zk.md#t-00-39-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2381);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2381s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have been receiving a ton of emails from people, actually, who all insist that they remember hearing a portion of a sentence that Charlie (Charlie Kirk)'s Charlie (Charlie Kirk) GPT, where he appoints Erika (Erika Kirk) as the CEO, they believed that what Turning Point actually did was they doctored different sentences from various speeches and Q&As.
 

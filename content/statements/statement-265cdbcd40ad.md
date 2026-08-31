@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:34:19](/episodes/ep-k8ueJdPFel4.md#t-00-33-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2059);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=2059s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is real. U.S. urges citizens to leave Iraq after attack on the embassy in Baghdad because security officials say the embassy complex was struck by a drone after strikes killed three members of the Iran-backed Kata'ib Hezbollah and reportedly wounded its leader.
 

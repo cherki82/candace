@@ -6,6 +6,11 @@ date: "1980"
 ---
 
 **Date:** 1980
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 1980”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1980"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:21:17](/episodes/ep-ZZGWo6oDscc.md#event-event-1980-paul-e-vallely-and-michael-aquino-co-aut-t-00-21-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1277);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so well that in 1980, the two of them decided to co-author a book.

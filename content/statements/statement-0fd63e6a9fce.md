@@ -25,10 +25,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1932);return false;">Play</a>
+**Timestamp:** [00:32:06](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1926s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And when I say paid, yes, okay, actually have the names of people, different ways are being paid. Some are being paid by PR firms. Too many are being paid by Prager University
+> And when I say paid, yes, okay, actually have the names of people, different ways are being paid. Some are being paid by PR firms. Too many are being paid by Prager University, which is upsetting to me because I know Marissa and it's just dirty.
 
 ## Verification
 

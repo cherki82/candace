@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:15:56](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(956);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=956s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He bet the company on destroying me. I didn't want to fight with them. I wanted to peace out.
 

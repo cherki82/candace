@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(714);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=714s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Alexander brothers sure add a lot more smoke to that mysterious meeting that Andrew Kolvet and other Turning Point USA affiliates had with top brass in the West Wing the literal day before the Epstein files dropped.
 

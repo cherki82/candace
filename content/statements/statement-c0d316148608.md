@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:17:35](/episodes/ep-7ERqbYElOfs.md#t-00-17-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1055);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1055s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Evil. She is evil. When I watched that, I went, she's evil. I am so infuriated watching that back because she's lying. She's objectively lying and she's acting. She was told to say that to make people believe that she had access to something that we didn't.
 

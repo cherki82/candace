@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:33:39](/episodes/ep-WoXd4oLwd3w.md#t-00-33-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2019);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2019s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) says no to Bibi (Benjamin Netanyahu). Trump (Donald Trump), I believe, said yes. Trump (Donald Trump) said yes. Charlie (Charlie Kirk) said no. My opinion, I'm sticking to it, especially after reading that Epstein piece, especially after what Tucker (Tucker Carlson) has revealed about Butler.
 

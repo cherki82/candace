@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:41:19](/episodes/ep-WoXd4oLwd3w.md#t-00-41-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2479);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2479s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Moving on to Bradley Hansell. OK, so just to remind you, he is Trump (Donald Trump)'s appointed undersecretary of defense for intelligence and security, one of the Pentagon's top intelligence officials responsible for overseeing defense intelligence and security matters all across the DOD. OK.
 

@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:39:18](/episodes/ep-4YgrOhhy708.md#t-00-38-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2358);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2358s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) said on Bibi (Benjamin Netanyahu) he didn't even want Bibi (Benjamin Netanyahu) on his radio show. He was so done with Israel.
 
@@ -39,7 +39,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:02:47](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(167);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That back during July of 2025 when Bibi (Benjamin Netanyahu) was making the rounds doing a ton of American podcasts, podcasts in general, he requested to do Charlie Kirk's show. ... He wanted to come on Charlie Kirk's show and Charlie (Charlie Kirk) refused him. ... The answer is because Charlie (Charlie Kirk) had a change of heart regarding Israel and the Hamptons, quote unquote, intervention which took place the weekend of August 5th only furthered Charlie (Charlie Kirk)'s growing resentment against their strong arming influence.
 

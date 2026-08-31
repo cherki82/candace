@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:18:34](/episodes/ep-his-JBjlkh8.md#t-00-18-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm very close to figuring out exactly which military unit that was.
 

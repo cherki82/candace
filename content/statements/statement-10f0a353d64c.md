@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2642);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2642s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs, taking a moral position saying she's anti-Semitic. They were hoping that more people would sign up. Christ is king is anti-Semitic, but it actually backfired and it catalyzed their financial woes.
 

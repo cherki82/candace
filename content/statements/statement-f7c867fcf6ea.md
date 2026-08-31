@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:19:00](/episodes/ep-y8lak3CRwDw.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, they sent the military police from Nevada to head up the transportation company from Afghanistan and Curtis Kolvet was the commander of the 593rd Nevada National Guard transportation company. Specifically, you can see in this article, he commanded Bulgarian soldiers, 260 men. They were based at Camp Phoenix. ... In Kabul, Curtis Kolvet, Andrew's brother, was administratively responsible for directing these soldiers through 100 convoy missions across four months, transporting personnel and supplies through the high traffic dangerous environment of Kabul.
 

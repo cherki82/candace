@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:10:01](/episodes/ep-MUA9ebCF4Ow.md#t-00-09-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(601);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=601s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Tucker (Tucker Carlson) was like, "No, Charlie (Charlie Kirk) asked me explicitly in July to go on stage and to go after Israel, trying to drag us into the Iran war."
 

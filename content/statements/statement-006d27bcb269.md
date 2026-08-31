@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:13:27](/episodes/ep-MhakwJxK-Zk.md#t-00-13-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(807);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'll tell you what he does. Per our Department of War website, Mr. Hansell exercises authority, direction, and control on behalf of the Secretary of War—that's Pete Hegseth—over all intelligence and security organizations in the Department of War, including the nine Department of War components that are members of the intelligence community. ... He also serves as the Director of Defense Intelligence and the Principal Advisor to the Director of National Intelligence on defense intelligence matters.
 

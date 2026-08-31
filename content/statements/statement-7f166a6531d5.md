@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:10:05](/episodes/ep-AoYZel7_cGQ.md#t-00-09-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(605);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=605s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Prosecutors repeatedly fought to conceal nothing during the preliminary hearing. He's misrepresenting that. The rifle is not pulled from his pants in this video because there was another rooftop video from another angle that captures that moment.
 

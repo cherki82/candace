@@ -6,6 +6,11 @@ date: "2024"
 ---
 
 **Date:** 2024
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in the summer of 24”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2024"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:51:29](/episodes/ep--9MOUvgGyi4.md#event-event-2024-foldar-delivered-five-rifles-to-a-local--t-00-51-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3089);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=3089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he did send a check to us and we got the guns to the high school or the high sd and they loved them

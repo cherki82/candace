@@ -16,12 +16,13 @@ _Type: People_
 **Categories:** religion
 
 **Entity verification:** verified
-> Biblical Jonathan, son of King Saul, identified by the episode context.
+> USCCB 1 Samuel 18 identifies Jonathan in the David-and-Jonathan account; 1 Samuel 19 explicitly identifies him as Saul’s son, matching the transcript analogy and canonical disambiguator.
+Source: [1 Samuel, Chapter 19 | USCCB](https://bible.usccb.org/bible/1samuel/19)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46">2025-10-30 · 00:43:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-59-56">2025-10-30 · 01:00:26</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46">2025-10-30 · 00:42:56</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jonathan-son-of-saul-t-00-56-00">2025-10-31 · 00:56:25</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
@@ -31,15 +32,17 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (10 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 10 mentions" title="2025-10-30 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 9 mentions" title="2025-10-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jonathan-son-of-saul-t-00-56-00" style="--pulse-height:11%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46) | 10 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46) | 9 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-jonathan-son-of-saul-t-00-56-00) | 1 |
 
 </details>
 </section>
@@ -50,9 +53,17 @@ _Type: People_
 <summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (10 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
 
-**[00:43:02](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46)**
+**[00:56:25](/episodes/ep-YFmRH8p5lt0.md#ent-person-jonathan-son-of-saul-t-00-56-00)**
+> "...d yesterday—the David and the Jonathan."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (9 mentions)</summary>
+
+**[00:42:56](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46)**
 > "...nd his unique friendship with Jonathan in the Bible."
 
 **[00:43:15](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46)**
@@ -61,7 +72,7 @@ _Type: People_
 **[00:43:19](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-42-46)**
 > "Jonathan was the son of King Saul, and David was a shepher..."
 
-**[00:43:41](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-43-28)**
+**[00:43:34](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-43-28)**
 > "The Bible describes Jonathan's loving David as quote, his own soul and forming a..."
 
 **[00:43:48](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-43-28)**
@@ -70,16 +81,13 @@ _Type: People_
 **[00:43:59](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-43-28)**
 > "Jonathan repeatedly protected David from his father, Saul—..."
 
-**[00:44:05](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-43-28)**
-> "After Jonathan's death, David grieved deeply for his friend."
-
 **[00:44:13](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-44-13)**
 > "... later honored his promise to Jonathan by taking care for his son.""
 
-**[00:55:35](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-55-12)**
+**[00:55:34](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-55-25)**
 > "And one Samuel: Jonathan loved David like his own soul, protected him, han..."
 
-**[01:00:26](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-59-56)**
+**[01:00:26](/episodes/ep-iHav0PPzUz8.md#ent-person-jonathan-son-of-saul-t-00-59-53)**
 > "Jonathan Werner writes: "Hey Candace (Candace Owens), I lo..."
 
 </details>

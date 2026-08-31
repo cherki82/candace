@@ -6,6 +6,11 @@ date: "2025-07-12"
 ---
 
 **Date:** 2025-07-12
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 12th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-07-12"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:18:47](/episodes/ep-WoXd4oLwd3w.md#t-00-18-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > president trump calls Charlie kirk angrily and he scolds him about sass

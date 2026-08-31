@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:50:20](/episodes/ep-4YgrOhhy708.md#t-00-50-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3020);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=3020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) spoke to me about his third eye and I have that in writing.
 

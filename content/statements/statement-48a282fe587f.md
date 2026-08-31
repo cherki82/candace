@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1618);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1618s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It says governor appoints the new student regent. And within the article, it tells us that that's what happened. Arizona State University student Tyler (Tyler Bowyer) was appointed as the newest student regent on the Arizona Board of Regents by Governor Jan Brewer last year.
 

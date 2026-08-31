@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-31-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the way that he was moving with Jean-Luc Brunel and going to these industries like Victoria's Secret like Miss Universe and I think that's how Trump is caught up into it and is also being rinsed out of these files they were trafficking through these organizations we know this for a fact modeling organizations like MC2 Model Management
 

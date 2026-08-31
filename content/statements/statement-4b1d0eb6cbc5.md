@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:38:42](/episodes/ep-mKXdKV-OBog.md#t-00-38-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2322);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=2322s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > for one of their subsidiaries in Hamburg, Germany—which is of course interesting because that is where Jean-Michel Jarre disappears for a couple of decades and joins the military.
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:06:38](/episodes/ep-3QJqtW_NOSI.md#t-00-06-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(398);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=398s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There might be a reasonable explanation, but I'd like to hear it because Erika Kirk now has access to American high school students via Turning Points Club America. ... And in my view, no parent in the United States. ... or abroad, should accept a Turning Point USA high school chapter in their child's school without a very clear understanding of what Erika (Erika Kirk) was doing in association with Next Model Management.
 

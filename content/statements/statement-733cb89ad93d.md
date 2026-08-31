@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:53:58](/episodes/ep-Vu6Y24pqhZs.md#t-00-53-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3238);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=3238s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A literal CIA experiment, by the way, that took place. ... The other, let's say 26 people were all CIA agents and they held up a picture of a banana and asked every agent in the room, what do you see? ... They get to that last person and guess what he says? He says apple, even though it's actually a banana.
 

@@ -22,13 +22,13 @@ veracity: "true"
 ## About
 
 - [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md) (person)
-- [Sara Zaafarani Zenzari](/entities/person-sarah-zafrani.md) (person)
+- [Sarra Zaafrani Zenzri](/entities/person-sarra-zaafrani-zenzri.md) (person)
 
 ## Source
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1067);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=1067s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We could actually officially rule out that it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt.
 

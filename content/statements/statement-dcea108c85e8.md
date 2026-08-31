@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:10:40](/episodes/ep-ZzAT2xijKGQ.md#t-00-10-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(640);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=640s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's a few of these people, not many of them, that are actually part of a pedigree or history that extends back to the late 1500s, 1600s, where the occult practices has been in their family lineage literally for three to four hundred years. ... they tend to raise their children generation after generation within that particular occult set of practices
 

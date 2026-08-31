@@ -1,17 +1,17 @@
 ---
-title: "he was on that roof since 12:15 p.m., so he's setting up tha..."
-description: "\"he was on that roof since 12:15 p.m., so he's setting up that shot, we can assume, for about eight minutes, okay?\" — Candace Owens"
+title: "Candace Owens inferred that the suspect may have spent about..."
+description: "\"Candace Owens inferred that the suspect may have spent about eight minutes setting up the shot, based on the reported 12:15 p.m. roof entry and 12:23 ...\" — Candace Owens"
 statement_id: "statement-288df0a22458"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> he was on that roof since 12:15 p.m., so he's setting up that shot, we can assume, for about eight minutes, okay?
+> Candace Owens inferred that the suspect may have spent about eight minutes setting up the shot, based on the reported 12:15 p.m. roof entry and 12:23 p.m. shooting times.
 
 ## Attribution
 
@@ -23,10 +23,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(508);return false;">Play</a>
+**Timestamp:** [00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-06) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=508s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Now, just to very quickly, I'm going to just tell you, according to our timeline, we know that Charlie (Charlie Kirk) gets shot at 12:23 p.m., so they're now telling us that he was on that roof since 12:15 p.m., so he's setting up that shot, we can assume, for...
+> we know that Charlie (Charlie Kirk) gets shot at 12:23 p.m., so they're now telling us that he was on that roof since 12:15 p.m., so he's setting up that shot, we can assume, for about eight minutes, okay?
 
 ## Verification
 
@@ -47,4 +47,4 @@ The filing confirms the core event, but the migrated wording overstates or imper
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

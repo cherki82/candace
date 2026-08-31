@@ -3,9 +3,18 @@ title: "United States Capitol Police"
 description: "United States Capitol Police (Organizations) - 1 mention"
 id: "org-united-states-capitol-police"
 type: "ORG"
+categories:
+  - "United States law enforcement"
+  - "legislative branch agency"
 ---
 
 _Type: Organizations_
+
+**Categories:** United States law enforcement, legislative branch agency
+
+**Entity verification:** verified
+> Official department page confirms the canonical name United States Capitol Police and abbreviation USCP.
+Source: [About | United States Capitol Police](https://www.uscp.gov/the-department)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-capitol-police-t-00-08-05">2025-11-10 · 00:08:21</a></strong></div>
@@ -13,7 +22,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -54,7 +63,7 @@ _Type: Organizations_
 <details>
 <summary>Employs (1)</summary>
 
-- **[Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)**
+- **[Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “a United States Capitol Police officer named Shawna Rae Kirkhoff”
@@ -66,7 +75,7 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)** works for this
+- **[Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “a United States Capitol Police officer named Shawna Rae Kirkhoff”
@@ -79,27 +88,16 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Capitol Police (4)</strong></summary>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
-
-- [00:02:43](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) (Accusation) **Charlie Kirk** (via quoted speech): ["The government lied to us about the JFK assassination"](/statements/statement-0e334e1e49cf.md)
-  - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
-
-- [00:39:48](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Qatar said they have a relationship with Hamas because the U.S. govern..."](/statements/statement-b9887fea08a7.md)
-  - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md)
-
-</details>
+<summary><strong class="section-title">Statements about United States Capitol Police (2)</strong></summary>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2)</summary>
 
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["The January 6th pipe bomber was revealed to be Shawna Rae Kirkhoff, a ..."](/statements/statement-578e19c4da01.md)
-  - Also about: [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md), [January 6th](/entities/event-january-6th.md)
+  - Also about: [Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md), [January 6th](/entities/event-january-6th.md)
 
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["The person allegedly responsible for placing the January 6 pipe bombs ..."](/statements/statement-095da67f9be3.md)
-  - Also about: [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)
+  - Also about: [Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md)
 
 </details>
 

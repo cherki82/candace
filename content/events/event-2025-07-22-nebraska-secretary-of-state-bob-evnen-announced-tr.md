@@ -6,33 +6,26 @@ date: "2025-07-22"
 ---
 
 **Date:** 2025-07-22
+**Date precision:** Day
 
 ## Event
 
 > Nebraska Secretary of State Bob Evnen announced trade and investment delegation to Cairo, Egypt.
 
-## Mentioned In (3 times)
+## Mentioned In (2 times)
 
 ### 1. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-10-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(690);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=690s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > y—the Satis angle has opened up a whole new level of possibilities here in this Charlie assassination story. And I have to tell you, I do not think that they were just painting planes t
 
-### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:18:16](/episodes/ep-a-e7HC6SeK8.md#t-00-17-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1096);return false;">▶️ Play</a>
-
-> se professionals that met with Secretary of State Bob Evnen? Why is this meeting somehow off-record? And when people—and they have done that—have requested inf
-
-### 3. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+### 2. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:32:56](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-07-22-nebraska-secretary-of-state-bob-evnen-announced-tr-t-00-32-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1976);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1976s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > July 22nd, speaking of Nebraska and these planes being here from Cairo, it is announced that Nebraska

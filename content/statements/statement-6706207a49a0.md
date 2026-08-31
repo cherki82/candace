@@ -1,16 +1,17 @@
 ---
-title: "The moon landings didn't happen"
-description: "\"The moon landings didn't happen\" — Candace Owens"
+title: "Candace Owens said she did not believe the moon landings hap..."
+description: "\"Candace Owens said she did not believe the moon landings happened and added that they did not happen.\" — Candace Owens"
 statement_id: "statement-6706207a49a0"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> The moon landings didn't happen
+> Candace Owens said she did not believe the moon landings happened and added that they did not happen.
 
 ## Attribution
 
@@ -25,14 +26,27 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:46:05](/episodes/ep-Qfwr08Ebczo.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2765);return false;">Play</a>
+**Timestamp:** [00:45:58](/episodes/ep-Qfwr08Ebczo.md#t-00-45-58) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=2758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> But I also don't believe the moon landings happened, so you can cut that clip because they didn't happen
+> But I also don't believe the moon landings happened, so you can cut that clip because they didn't happen.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The primary episode recording shows Owens saying she did not believe the moon landings happened and then saying they did not happen. This outcome verifies the statement as an accurate account of Owens's words; it does not endorse the underlying denial of the moon landings.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](https://www.youtube.com/watch?v=Qfwr08Ebczo)
+
+*Verified: 2026-08-30T12:18:04.894703*
 
 ---
 

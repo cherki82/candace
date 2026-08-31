@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:26:20](/episodes/ep-iB-YtO3UZOg.md#t-00-26-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1580);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1580s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We had specifically mentioned that the Timpanogos Hospital system—they use a system called Epic—did not speak to Utah Valley's Intermountain Health system. ... So it made it entirely no sense that Charlie's file would appear there, but it was there. And there was no way this person could have made it up because it had Charlie's personal details, even his like home address back in Illinois, which was not available to the public.
 

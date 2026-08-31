@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [01:00:47](/episodes/ep-1IY2oD-_xVA.md#t-01-00-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3647);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=3647s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > understand what had happened and then I was very alarmed to learn that they had so early been behind a PR campaign to dismiss me I mean at Charlie (Charlie Kirk)'s real funeral they're on the phone with the doctor and coming up with like magic bullet theory that's beyond weird don't ever forget that that came from Erika (Erika Kirk)
 

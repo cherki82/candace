@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:37:26](/episodes/ep-UYkXV9mYbT4.md#t-00-37-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2246);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=2246s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Regarding the firearm evidence, the defense has been provided with an ATF summary, again, just a summary report which indicates that the ATF was unable to identify the bullets recovered at autopsy to the rifle allegedly tied to Mr. ... Robinson.
 

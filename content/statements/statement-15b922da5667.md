@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:37:55](/episodes/ep-d7VsbEIWkP8.md#t-00-37-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2275);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=2275s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm beginning to think the affordability crisis is really an I don't know how to cook crisis.
 

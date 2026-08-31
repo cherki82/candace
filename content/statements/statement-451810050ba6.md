@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:00:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(0);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=0s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All right, you guys, happy Thursday. What do I have for you? Well, Pam Bondi has been fired.
 

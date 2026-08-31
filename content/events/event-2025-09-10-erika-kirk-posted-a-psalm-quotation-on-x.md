@@ -7,6 +7,11 @@ time: "09:45"
 ---
 
 **Date:** 2025-09-10 at 09:45
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the day Charlie Kirk was assassinated at 9:45 a.m. Arizona time”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "09:45"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1352);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1352s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on the day that Charlie is assassinated at 9.45 a.m. Arizona time

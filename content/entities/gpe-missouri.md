@@ -17,7 +17,7 @@ _Type: Places_
 Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-18-51">2025-10-09 · 00:19:13</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-19-13">2025-10-09 · 00:19:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-missouri-t-00-46-29">2026-08-18 · 00:46:29</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
@@ -31,7 +31,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-09-40">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-18-51" style="--pulse-height:20%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-19-13" style="--pulse-height:20%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-09-40" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-missouri-t-00-16-57" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-missouri-t-00-01-23" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-18-51) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-19-13) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-09-40) | 5 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-missouri-t-00-16-57) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-missouri-t-00-01-23) | 1 |
@@ -160,7 +160,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 **[00:17:23](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-16-57)**
 > "...is timeline. The yellow plane flies from Cairo—always via Paris—to St. Louis again, and it lands in Missouri. And guess what? April 2nd, TPUSA Faith— co-chaired by Rob McCoy—kicks off their tour with an event..."
 
-**[00:17:44](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-17-41)**
+**[00:17:44](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-16-57)**
 > "...co-chaired by Rob McCoy—kicks off their tour with an event headed by Sean Feucht in Jefferson City, Missouri the very next day while this plane is here. Okay. Let's keep going. Okay. April 6th, it leaves, and..."
 
 </details>
@@ -168,7 +168,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
 
-**[00:19:13](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-18-51)**
+**[00:19:13](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-19-13)**
 > "...rom California. She was announced as the new state medical examiner in May of 2024. I'm sorry, from Missouri. I think she also worked at some point in California, and she was announced as the new Utah medical..."
 
 </details>

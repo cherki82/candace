@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:18:53](/episodes/ep-mKXdKV-OBog.md#t-00-18-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1133);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1133s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think we need to hone in on the men—the people in the audience—that are wearing maroon shirts. I don't think it's your go-to color for most men.
 

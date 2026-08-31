@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:44:04](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2644);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2644s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His day was being impacted by Israel. He was referring to Israel when he said that. He was referring to Israel.
 

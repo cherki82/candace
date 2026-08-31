@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:34:16](/episodes/ep-DdPjoy5W-wY.md#t-00-33-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2056);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2056s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Helping victims of sex trafficking know the truth is that Erika (Erika Kirk) was just following her boyfriend. I kind of view this as her groupie year. ... Her boyfriend at the time is Josh Harrellson. Josh Harrellson is playing for the Miami Heat. OK, so you got a basketball player who was in his prime and he is dating the Arizona beauty queen.
 

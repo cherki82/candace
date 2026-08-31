@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:28:02](/episodes/ep-VMNWMXX1vO8.md#t-00-28-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1682);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1682s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I speak to everybody, people inside, people who have been fired at the company. And one of the things they kept complaining about was that Erika (Erika Kirk) doesn't know anybody. ... Past and current employees were positively astonished by the lie that Erika (Erika Kirk) is saying that she already knew everybody.
 

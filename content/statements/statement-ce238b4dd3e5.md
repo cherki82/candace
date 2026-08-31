@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:29:15](/episodes/ep-69A8TzAGHlU.md#t-00-29-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1755);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=1755s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Take a listen and I want to be clear. I can confirm on this podcast live every step of your story in terms of where you went, what time you were there, that there was this big beating that happened. ... I confirmed a location with other people that are on Fort Wachuca currently. I can confirm everything with metadata. ... I obviously can't confirm that you saw who you say you saw.
 
@@ -40,7 +40,7 @@ veracity: "mixed"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:54:20](/episodes/ep-KpxIBWkNsSs.md#t-00-54-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3260);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=3260s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Genuinely, I obviously fact-checked enough to know that Mitch (Mitch Snow) was there. He had the videos. I had his hotel reservation. I had confirmed with a source that his ID tags were real, the military ID tags. He had sent me so much overwhelming proof that he was there. ... They could have literally said, oh, it must have been a lookalike. It wasn't Erika (Erika Kirk) or Brian (Brian Harpole).
 

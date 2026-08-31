@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:39:38](/episodes/ep-19vHhjF7-NA.md#t-00-39-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2378);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2378s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Linda, a guy writes, Candace, I am Albanian and I encourage you to look into how Israel was actually going to be founded in Albania.
 

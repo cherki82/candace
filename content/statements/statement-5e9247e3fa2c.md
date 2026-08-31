@@ -1,6 +1,6 @@
 ---
-title: "On the Turning Point USA side of the story Candace Owens was..."
-description: "\"On the Turning Point USA side of the story Candace Owens was recounting, Tyler Bowyer was the only person already with Charlie Kirk, and he introduced...\" — Candace Owens"
+title: "Owens said Tyler Bowyer was the only person already with Cha..."
+description: "\"Owens said Tyler Bowyer was the only person already with Charlie Kirk and that Bowyer introduced Kirk to everyone Kirk knew\" — Candace Owens"
 statement_id: "statement-5e9247e3fa2c"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> On the Turning Point USA side of the story Candace Owens was recounting, Tyler Bowyer was the only person already with Charlie Kirk, and he introduced Kirk to everyone Kirk knew.
+> Owens said Tyler Bowyer was the only person already with Charlie Kirk and that Bowyer introduced Kirk to everyone Kirk knew
 
 ## Attribution
 
@@ -30,9 +30,9 @@ veracity: "mixed"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:12:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(763);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=763s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> On the Turning Point USA side, Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into just one episode— ... he was the only person that was with Charlie before. ... He introduced him to every person that Charlie knows.
+> On the Turning Point USA side, Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into just one episode— he was the only person that was with Charlie (Charlie Kirk) before. He introduced him to every person that Charlie (Charlie Kirk) knows.
 
 ## Verification
 

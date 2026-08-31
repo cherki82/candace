@@ -81,7 +81,7 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
-**[00:00:52](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-kabbalah-t-00-52-11)**
+**[00:00:51](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-kabbalah-t-00-52-11)**
 > "I'm throwing to them. We're talking about Frankism; we're talking about the Kabbalah; we're talking about the infiltration into the churches—intentional as an aspect of the Frankist movement."
 
 **[00:52:40](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-kabbalah-t-00-52-11)**

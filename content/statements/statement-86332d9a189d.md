@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:30:01](/episodes/ep-QRS_hR7NXaQ.md#t-00-30-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1801);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can't find a single person in this complex that they live that can verify that they saw Erika (Erika Kirk) on this day and they know her. They verify they saw her on the 9th, right? They didn't see her on the 8th.
 

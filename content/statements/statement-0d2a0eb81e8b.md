@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:19:35](/episodes/ep-VMNWMXX1vO8.md#t-00-19-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she lied to everybody when she said andrew went rogue good on you andrew what a gentleman to take that heat having people calling you stupid and just pretending you went rogue when in reality you were colluding with erica to present this superman super man of steel lie because charlie ate veggies
 

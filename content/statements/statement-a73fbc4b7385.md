@@ -1,6 +1,6 @@
 ---
-title: "Benjamin Netanyahu and the offer to take Turning Point to th..."
-description: "\"Benjamin Netanyahu and the offer to take Turning Point to the next level financially.\" — Candace Owens"
+title: "Owens said Benjamin Netanyahu offered to take Turning Point ..."
+description: "\"Owens said Benjamin Netanyahu offered to take Turning Point USA to the next level financially.\" — Candace Owens"
 statement_id: "statement-a73fbc4b7385"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Benjamin Netanyahu and the offer to take Turning Point to the next level financially.
+> Owens said Benjamin Netanyahu offered to take Turning Point USA to the next level financially.
 
 ## Attribution
 
@@ -19,11 +19,16 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:03:15](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(195);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=195s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And my point about Benjamin Netanyahu (Israeli PM) and the offer to take Turning Point to the next level financially, no one wants to address those points.
 

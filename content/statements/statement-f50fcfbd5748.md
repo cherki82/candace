@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:57:41](/episodes/ep-cZxHqYsWRYg.md#t-00-57-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3461);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=3461s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just like people say that Lori (Lori Frantzve) tells her what to say and who to target in every room, I find that to be likely. ... I can't know that. I don't think Lori (Lori Frantzve) or Erika (Erika Kirk) is going to cop to that.
 

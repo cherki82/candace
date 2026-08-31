@@ -179,7 +179,7 @@ Source: [Utah DHHS welcomes new medical examiner](https://dhhs.utah.gov/featured
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
 
-- [00:19:06](/episodes/ep-pc3pxRyNFZk.md#t-00-18-51) (Claim) **Candace Owens**: ["Dr. Deidre Weiss Amaro was announced as the new Utah state medical exa..."](/statements/statement-6e33c5f49da7.md)
+- [00:19:13](/episodes/ep-pc3pxRyNFZk.md#t-00-19-13) (Claim) **Candace Owens**: ["Owens said Deidre Weiss Amaro was announced as Utah's new state medica..."](/statements/statement-8e055652b962.md)
 
 </details>
 

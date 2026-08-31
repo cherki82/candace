@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:31:20](/episodes/ep-VMNWMXX1vO8.md#t-00-31-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1880);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1880s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) ... and I, we confided in the team. It was not a. It wasn't an unknown thing. God forbid if something happened, this is the route we're going to take.
 

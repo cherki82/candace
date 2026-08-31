@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:07:02](/episodes/ep-E7P2ShoYDUA.md#t-00-06-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Wilson) then calls PBD (Patrick Bet-David) and asks him to moderate because Michael Knowles said that he wasn't going to moderate.
 

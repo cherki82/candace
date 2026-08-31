@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:37:03](/episodes/ep-SKGUzGHymcI.md#t-00-36-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2223);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2223s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When smart people are completely unwilling to recognize that conspiracies are not just real, but they're also not rare. They're very common.
 

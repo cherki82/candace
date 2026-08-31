@@ -7,6 +7,11 @@ time: "12:23"
 ---
 
 **Date:** 2025-09-10 at 12:23
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "12:23"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:47:30](/episodes/ep-X3VKJVJ7cN4.md#event-event-2025-09-10-candace-owens-described-frank-tureks-acc-t-00-47-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2850);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2850s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he was FaceTiming his, like, grown 35-year-old sons in the middle of the day at 12:23

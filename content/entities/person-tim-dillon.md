@@ -32,7 +32,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 9 mentions" title="2025-11-13 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35" style="--pulse-height:11%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-38" style="--pulse-height:11%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14" style="--pulse-height:78%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 7 mentions" title="2025-11-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-04-13" style="--pulse-height:89%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 8 mentions" title="2026-01-05 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
@@ -57,7 +57,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02) | 9 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-38) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14) | 7 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-04-13) | 8 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00) | 1 |
@@ -304,7 +304,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35)**
+**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-38)**
 > "...ht claim for her sensational music. And so we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it. So. Oh, sorry. I said Charlie (Charlie Kirk)'s girlfrie..."
 
 </details>
@@ -337,7 +337,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 > "...atel should sue—obviously sue Tim Dillon."
 
 **[00:57:56](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-57-52)**
-> "...es attempting at interviewing Tim Dillon?""
+> "Mid-Runner writes: "Did you see Elle Reeve's attempt at interviewing Tim Dillon?""
 
 </details>
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:54:10](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3250);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=3250s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > offering an obscene amount of money to her maid of honor at that wedding that you didn't want her to have to hurt her, replacing her with her maid of honor because you wanted Brett Cooper.
 

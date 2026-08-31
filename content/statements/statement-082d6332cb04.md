@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:16:11](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(971);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=971s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can read this together. Here we go. In his deposition Thursday, Rick (Richard Erpenbeck) testified, you'd have to ask my dad. ... And actually, what was in his head? I saw it as a good investment. ... And he wanted to give me the opportunity to purchase these assets.
 

@@ -1,15 +1,19 @@
 ---
 title: "Anonymous Source #1 (Ep es7PWdFGoFI)"
-description: "Anonymous Source #1 (Ep es7PWdFGoFI) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #1 (Ep es7PWdFGoFI) (Anonymous Sources) - 1 mention"
 id: "anon-src-es7PWdFGoFI-001"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "source with access to private communications"
 ---
 
 _Type: Anonymous Sources_
 
+**Categories:** source with access to private communications
+
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +23,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -38,7 +40,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) ["Dan Flood received a text message from Charlie Kirk the night before the assassi..."](/statements/statement-f4a80abe9a39.md)
+- [00:06:34](/episodes/ep-es7PWdFGoFI.md#t-00-06-08) [○] (Claim) ["An unnamed person with access to Dan Flood's communications reportedly told Cand..."](/statements/statement-f4a80abe9a39.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

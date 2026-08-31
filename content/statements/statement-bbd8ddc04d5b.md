@@ -1,8 +1,8 @@
 ---
 title: "the judge who sentenced the heir to the DuPont fortune let h..."
-description: "\"the judge who sentenced the heir to the DuPont fortune let him off with no jail time\" — Candace Owens"
+description: "\"the judge who sentenced the heir to the DuPont fortune let him off with no jail time\" — Vanity Fair"
 statement_id: "statement-bbd8ddc04d5b"
-speaker: "Candace Owens"
+speaker: "Vanity Fair"
 type: "factual_claim"
 ---
 
@@ -14,16 +14,22 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Vanity Fair](/entities/org-vanity-fair.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from article
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Vanity Fair
+
+## About
+
+- [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md) (person)
+- [Jan Jurden](/entities/person-jan-jurden.md) (person)
 
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:07:30](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then it says, in an alarming twist, the judge who sentenced the heir to the DuPont fortune let him off with no jail time, arguing that the six-foot-four Richards will not fare well in prison
 

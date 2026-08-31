@@ -21,7 +21,7 @@ _Type: People_
 Source: [Archived White House — Vice President Kamala Harris](https://bidenwhitehouse.archives.gov/administration/vice-president-harris/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-16-13">2025-10-29 · 00:16:39</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-kamala-harris-t-00-16-13">2025-10-29 · 00:16:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41">2026-08-14 · 03:45:41</a></strong></div>
 <div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>34</strong></div>
@@ -35,9 +35,9 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-4YgrOhhy708.md#ent-person-kamala-harris-t-00-07-39">Halftime Wars: TPUSA vs The NFL | Candace Ep 304</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-16-13" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-03-35" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#t-00-26-34" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-kamala-harris-t-00-16-13" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-03-52" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-kamala-harris-t-00-26-34" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-kamala-harris-t-00-34-45" style="--pulse-height:40%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-kamala-harris-t-00-06-32" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-25" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
@@ -57,9 +57,9 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-16-13) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-03-35) | 2 |
-| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-26-34) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-kamala-harris-t-00-16-13) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-03-52) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-kamala-harris-t-00-26-34) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-kamala-harris-t-00-34-45) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-kamala-harris-t-00-06-32) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-25) | 1 |
@@ -246,7 +246,7 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
-**[00:26:58](/episodes/ep-his-JBjlkh8.md#t-00-26-34)**
+**[00:26:58](/episodes/ep-his-JBjlkh8.md#ent-person-kamala-harris-t-00-26-34)**
 > "...podcast and I investigate things. I investigate things that I feel passionate about. Sometimes it's Kamala's genealogy when she's saying she wants to be the president and things aren't making sense and I se..."
 
 </details>
@@ -254,10 +254,10 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:04:08](/episodes/ep-vwG1juDCQZQ.md#t-00-03-35)**
+**[00:04:07](/episodes/ep-vwG1juDCQZQ.md#t-00-03-52)**
 > "...f when the media is attacking you instead of me. Now it's kind of together. It's "Tucker Carlson in Kamala zones," but thank you. I want to thank Australia. We see you, Australia. Tony Burke, thank you for ..."
 
-**[00:05:55](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43)**
+**[00:05:55](/episodes/ep-vwG1juDCQZQ.md#t-00-05-50)**
 > "...very month. First it was, "Oh, it's because of the Brigitte Macron thing." "Oh, it's because of the Kamala Chronicles." "Oh, it's because of the Blake Lively lawsuit." The common denominator here is me look..."
 
 </details>
@@ -265,7 +265,7 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
 
-**[00:16:39](/episodes/ep-Qt0VHV-POCg.md#t-00-16-13)**
+**[00:16:39](/episodes/ep-Qt0VHV-POCg.md#ent-person-kamala-harris-t-00-16-13)**
 > "...r of a judge of one of the corrupt trials against me to become the biggest fundraiser for Biden and Kamala, making millions of dollars for herself and her family." "But with her father, the judge, not only ..."
 
 </details>

@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:42:18](/episodes/ep-his-JBjlkh8.md#t-00-42-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2538);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2538s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > have any evidence at all of a French military plot to assassinate Candace Owens?"
 

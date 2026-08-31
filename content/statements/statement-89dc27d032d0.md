@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:04:42](/episodes/ep-1IY2oD-_xVA.md#t-00-04-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(282);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=282s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, what ended up happening was Mussolini, the evil fascist, kicked him out of the country for being a Satanist.
 

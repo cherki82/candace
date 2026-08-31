@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1555);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1555s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump didn't even sit at the head of the table. Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.
 

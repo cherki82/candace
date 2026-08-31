@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:13:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(811);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=811s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Fifteen of these pastors and leaders surrounded Trump (Donald Trump) at the White House leading up to the January 6th Stop the Steal rally, telling him that the war was now spiritual. So they're in his ear: "This is spiritual. This is what you have to do, Mr. President," okay?
 
@@ -39,7 +39,7 @@ veracity: "mixed"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:12:45](/episodes/ep-YaZfwLQ7vrI.md#t-00-12-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(765);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=765s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Fifteen of these pastors and leaders surrounded Trump (Donald Trump) at the White House leading up to the January 6th Stop the Steal rally, telling him that the war was now spiritual
 

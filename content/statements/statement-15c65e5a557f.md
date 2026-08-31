@@ -1,6 +1,6 @@
 ---
-title: "Erika Kirk... She's gonna fight, and she is going to fight o..."
-description: "\"Erika Kirk... She's gonna fight, and she is going to fight on the good side\" — Candace Owens"
+title: "Owens predicted that Erika Kirk would fight and would do so ..."
+description: "\"Owens predicted that Erika Kirk would fight and would do so on what Owens called the good side.\" — Candace Owens"
 statement_id: "statement-15c65e5a557f"
 speaker: "Candace Owens"
 type: "prediction"
@@ -10,7 +10,7 @@ type: "prediction"
 
 ## Statement
 
-> Erika Kirk... She's gonna fight, and she is going to fight on the good side
+> Owens predicted that Erika Kirk would fight and would do so on what Owens called the good side.
 
 ## Attribution
 
@@ -22,8 +22,8 @@ type: "prediction"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [01:08:05](/episodes/ep-2WEHTk0Xewg.md#t-01-07-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4085);return false;">Play</a>
+**Timestamp:** [01:08:05](/episodes/ep-2WEHTk0Xewg.md#t-01-07-40) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=4085s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's gonna fight, and she is going to fight on the good side because every woman would know what her husband's going through
 

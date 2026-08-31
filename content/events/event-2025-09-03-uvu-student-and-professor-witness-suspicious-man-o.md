@@ -1,31 +1,22 @@
 ---
-title: "2025-09-03: UVU student and professor witness suspicious man o..."
-description: "2025-09-03 12:00 - UVU student and professor witness suspicious man on Lozier Center roof overlooking Kirk event site."
+title: "2025-09-03: UVU student reports seeing a man on the Losee Cent..."
+description: "2025-09-03 12:00 - UVU student reports seeing a man on the Losee Center roof before Charlie Kirk's event."
 event_id: "event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o"
 date: "2025-09-03"
 time: "12:00"
 ---
 
 **Date:** 2025-09-03 at 12:00
+**Date precision:** Day
 
 ## Event
 
-> UVU student and professor witness suspicious man on Lozier Center roof overlooking Kirk event site.
+> UVU student reports seeing a man on the Losee Center roof before Charlie Kirk's event.
 
-## Mentioned In (2 times)
-
-### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
+## Mentioned In
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:11:56](/episodes/ep-581dILVcEE4.md#event-event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o-t-00-10-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(716);return false;">▶️ Play</a>
+**Timestamp:** [00:12:29](/episodes/ep-581dILVcEE4.md#event-event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o-t-00-11-59) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=749s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> ot. You know, a lot of these American pastors do. And he went there the other day to, of course, honor Charlie. We're going to talk about that. And I want to just say Zionists are confu
-
-### 2. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
-
-**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:10:38](/episodes/ep-581dILVcEE4.md#event-event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o-t-00-10-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(638);return false;">▶️ Play</a>
-
-> And I also want to add here something that I have always suspected that makes perfect sense to me,
+> And from that article, it says the student says that he last saw the person on the roof last

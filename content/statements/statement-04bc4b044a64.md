@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:14:37](/episodes/ep-y8lak3CRwDw.md#t-00-14-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(877);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=877s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Unless you're a conspiracy theorist like me and you've come to the realization that Nevada, in particular Vegas, Reno, working on behalf of Tel Aviv, they're actually the people that are running Washington, D.C. We live in a gambling empire. ... That is what America is controlled by.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:52:01](/episodes/ep-VMNWMXX1vO8.md#t-00-51-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3121);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3121s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, my sense is just it's global trafficking. I think Charlie (Charlie Kirk) was invited to join the global trafficking ring. ... That's my opinion based on everything that I have seen. That's what it looks like to me. And through the mechanism of churches and megachurches, a lot of that global trafficking has. ... has been covered.
 

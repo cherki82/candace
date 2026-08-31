@@ -1,6 +1,6 @@
 ---
 title: "Scouting America"
-description: "Scouting America (Organizations) - 2 mentions"
+description: "Scouting America (Organizations) - 3 mentions"
 id: "org-scouting-america"
 type: "ORG"
 aliases:
@@ -25,8 +25,8 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41">2025-09-29 · 00:19:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40">2026-08-06 · 00:02:40</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 <p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-scouting-america-t-00-28-22" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -45,6 +46,7 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-scouting-america-t-00-28-22) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40) | 1 |
 
 </details>
@@ -53,13 +55,21 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
 
 **[00:02:40](/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40)**
 > "Tyler Robinson's Boy Scouts leader"
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:28:58](/episodes/ep-DqGNvi36ol8.md#ent-org-scouting-america-t-00-28-22)**
+> "Could be Boy Scouts, could be ROTC, could be Eagle Scouts, could very..."
 
 </details>
 

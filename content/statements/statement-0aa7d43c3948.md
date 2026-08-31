@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:06:17](/episodes/ep-H9p2ZGHAs9A.md#t-00-06-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(377);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=377s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Fair questions. Well, what we can now confirm—and these are eyewitness accounts specifically—is that they recall Erika (Erika Kirk) because she was taking meetings at the office, and those meetings pertained to real estate.
 

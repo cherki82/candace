@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:15:12](/episodes/ep-d7VsbEIWkP8.md#t-00-15-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(912);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The odd trajectory of his shirt, which is the first to move, it moves upward and across his chest. The immediate breaking of his necklace before Charlie is impacted and moves upward.
 

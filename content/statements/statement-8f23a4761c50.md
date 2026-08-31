@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:58:13](/episodes/ep-cZxHqYsWRYg.md#t-00-57-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3493);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=3493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And of course, you guys hate to tell you this, the reality is that from 2013 to 2018, the five years preceding her relationship with Charlie (Charlie Kirk). ... Charlie (Charlie Kirk)—Erika (Erika Kirk) had multiple boyfriends. She rang in the new year with a boyfriend in 2018. ... So there was not actually a single year that we could find that Erika Frantzve (Erika Kirk) was single, opposite of what she says to be true.
 

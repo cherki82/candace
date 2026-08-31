@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:24:27](/episodes/ep-DYD_QHMPwqM.md#t-00-23-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1467);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1467s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mikey (Mikey McCoy) called me within seconds. The reality is Mikey (Mikey McCoy) called Elizabeth (Elizabeth McCoy) first. For some reason, she was completely rinsed out of the story Elizabeth McCoy. And then they conference called Erika (Erika Kirk) over three minutes later.
 
@@ -38,7 +38,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(715);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=715s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > As we now know, even though this was something they all kind of hid—nobody knows why—she was actually the first person that was called. ... He rang her first and then they conferenced in Erika thereafter.
 

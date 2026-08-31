@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:24:57](/episodes/ep-AH1KVKkweUE.md#t-00-24-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1497);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=1497s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So it is definitely what I would assert is a plausibility that Alan E. Robertson was involved in something in San Bernardino. We'd like to know more.
 

@@ -1,32 +1,36 @@
 ---
-title: "there are clips of Kash Patel calling the FBI corrupt before..."
-description: "\"there are clips of Kash Patel calling the FBI corrupt before he was in the FBI and saying that taxpayers shouldn't have to fund their personal trips.\" — Candace Owens"
+title: "Candace Owens called Kash Patel a hypocrite because, althoug..."
+description: "\"Candace Owens called Kash Patel a hypocrite because, although he is required to use an FBI plane for personal and business travel, clips show him prev...\" — Candace Owens"
 statement_id: "statement-eaad4a0d852d"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> there are clips of Kash Patel calling the FBI corrupt before he was in the FBI and saying that taxpayers shouldn't have to fund their personal trips.
+> Candace Owens called Kash Patel a hypocrite because, although he is required to use an FBI plane for personal and business travel, clips show him previously calling the FBI corrupt and saying taxpayers should not fund officials' personal trips.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Kash Patel](/entities/person-kash-patel.md) (person)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:37:08](/episodes/ep-K1tFD7FfoCU.md#t-00-36-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2228);return false;">Play</a>
+**Timestamp:** [00:37:08](/episodes/ep-K1tFD7FfoCU.md#t-00-37-08) 
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=2228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Now it turns out that he is required to fly on the FBI plane no matter where he goes—whether it's a personal event or if it's a business event—but he is a hypocrite because there are clips of Kash Patel (Kash Patel) calling the FBI corrupt before he was in...
+> he is required to fly on the FBI plane no matter where he goes—whether it's a personal event or if it's a business event—but he is a hypocrite because there are clips of Kash Patel calling the FBI corrupt before he was in the FBI and saying that taxpayers shouldn't have to fund their personal trips.
 
 ## Verification
 
@@ -47,4 +51,4 @@ Confirmed: Before becoming FBI Director, Kash Patel criticized Chris Wray's gove
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

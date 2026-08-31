@@ -15,7 +15,7 @@ object: "org-turning-point-usa"
 
 **[Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8)**
 
-- [00:26:38](/episodes/ep-aDlhjfW6hz8#t-00-26-38): _You're on the board of Turning Point? - Yeah._
+- [00:25:56](/episodes/ep-aDlhjfW6hz8#t-00-25-56): _You're on the board of Turning Point? ... Yeah._
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 

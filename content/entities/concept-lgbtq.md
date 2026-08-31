@@ -1,6 +1,6 @@
 ---
 title: "LGBTQ"
-description: "LGBTQ (Concepts) - 24 mentions"
+description: "LGBTQ (Concepts) - 25 mentions"
 id: "concept-lgbtq"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pride-month/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-lgbtq-t-00-00-00">2026-01-06 · 00:00:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06">2025-09-23 · 00:53:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-03-16">2026-08-21 · 01:03:26</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-lgbtq-t-00-09-09">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06" style="--pulse-height:20%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-lgbtq-t-00-00-00" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-lgbtq-t-00-42-10" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-lgbtq-t-00-33-19" style="--pulse-height:20%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
@@ -54,6 +55,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-lgbtq-t-00-00-00) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-lgbtq-t-00-42-10) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-lgbtq-t-00-33-19) | 1 |
@@ -74,7 +76,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>
@@ -210,6 +212,14 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 
 **[00:00:38](/episodes/ep-HYn0P-P1wUw.md#ent-concept-lgbtq-t-00-00-00)**
 > "... known for raging against the LGBTQ community."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
+
+**[00:53:42](/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06)**
+> "...on I have is why now, from an LGBTQ person?"
 
 </details>
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:18:59](/episodes/ep-k8ueJdPFel4.md#t-00-18-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1139);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=1139s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So Candace Owens decides to slander the widow of Charlie Kirk. I think that people have a moral duty to say that this is a bad thing, even if they are quote-unquote friends with those people.
 

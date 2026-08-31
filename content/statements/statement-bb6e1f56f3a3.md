@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:51:30](/episodes/ep-iHav0PPzUz8.md#t-00-51-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3090);return false;">Play</a>
+**Timestamp:** [00:51:30](/episodes/ep-iHav0PPzUz8.md#t-00-51-23) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=3090s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Americans collectively owe over $1 trillion in credit card debt.
 

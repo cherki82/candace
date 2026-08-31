@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:12:39](/episodes/ep-E7P2ShoYDUA.md#t-00-12-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(759);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=759s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When were they going to email us about this assumption? 9.15 p.m. the night before. 9.15 p.m., the night before the debate, with a follow-up email sent at 11.15 p.m., and still at no point will they identify who the four people are, despite the fact that we asked multiple times in email and via text, who are you bringing into my home where my children lie their head.
 

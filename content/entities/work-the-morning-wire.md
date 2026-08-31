@@ -5,11 +5,19 @@ id: "work-the-morning-wire"
 type: "WORK"
 aliases:
   - "Morning Wire"
+categories:
+  - "Daily Wire news podcast"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** Morning Wire
+
+**Categories:** Daily Wire news podcast
+
+**Entity verification:** verified
+> The Daily Wire's official show page identifies Morning Wire as its daily news show; the existing canonical title retains the transcript's article.
+Source: [Morning Wire | The Daily Wire](https://www.dailywire.com/show/morning-wire)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-work-the-morning-wire-t-00-42-27">2025-12-20 · 00:42:51</a></strong></div>

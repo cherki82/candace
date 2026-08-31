@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:59:46](/episodes/ep-9k2xrAC0H88.md#t-00-59-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3586);return false;">Play</a>
+**Timestamp:** [00:59:46](/episodes/ep-9k2xrAC0H88.md#t-00-59-37) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=3586s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when she went on her PR blitz and she said that Charlie didn't text anybody. The first thing I did is I said, that's not right
 

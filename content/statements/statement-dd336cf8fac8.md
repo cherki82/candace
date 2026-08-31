@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:03:45](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(225);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=225s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Further to this point, this person claims that Charlie (Charlie Kirk)'s assassin trained with the French Legion 13th Brigade with multi-state involvement
 

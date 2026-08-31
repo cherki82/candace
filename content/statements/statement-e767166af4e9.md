@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md)
 **Timestamp:** [00:36:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2213);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=2213s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's hired like a monster, like a monster PR agent. Anyone will tell you that. There's not a single daily wire host, Matt Walsh, Michael Nose, nicest people ever, Brett Cooper, nicest person that will defend Ali Beth Stuckey's current PR agent who is just literally hell bent on advancing Israel's cause by any means necessary.
 

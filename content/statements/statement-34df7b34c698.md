@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:35:24](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2124);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2124s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am watching one of the least attractive and talented people on all of television, Jessica Tarlov. Her voice is so grating and terrible I had to turn her off. ... Her Democrat soundbites are fake. She makes up poll numbers. Poll numbers and nobody challenges her because she's so boring. ... Get her off air. She's bad for our country.
 

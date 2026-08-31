@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:05:02](/episodes/ep-X3VKJVJ7cN4.md#t-00-04-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(302);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The back is scorched. Why? How? Because electrical current is hot and the shirt had some polyester in it. When polyester is heated, it melts.
 

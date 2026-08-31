@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:19:52](/episodes/ep-BKcOm32ZEGk.md#t-00-19-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1192);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=1192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you should look into how even the script for The Matrix was stolen, allegedly.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:06:54](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(414);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=414s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then we know Lori (Lori Frantzve) files for AZ Tech. She goes to Arizona. We're in Europe. We're doing tech everywhere. ... That's in August of 1997. ... And she eventually renamed that E3 Tech in 2017.
 

@@ -27,8 +27,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:27:42](/episodes/ep-7RLtGgkTh9o.md#t-00-27-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1662);return false;">Play</a>
+**Timestamp:** [00:27:42](/episodes/ep-7RLtGgkTh9o.md#t-00-27-03) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1662s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Curiously—and I'm going to read this to you or else you won't believe me—she kept insisting to me through many messages that I needed to look into the quote-unquote "Mormon mafia," which she said sits above Hollywood and even sits above many Zionist Jews.
 

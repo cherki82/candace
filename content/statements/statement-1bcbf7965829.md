@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:07:28](/episodes/ep-k8ueJdPFel4.md#t-00-07-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(448);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=448s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) was so young, he was still jealous. And so Milo Yiannopoulos shared this back and forth. He wrote Ben Shapiro began to seek. ... to secretly commission hit jobs on Turning Point USA a decade ago. Charlie Kirk knew we met and we talked about it and discussed strategy.
 

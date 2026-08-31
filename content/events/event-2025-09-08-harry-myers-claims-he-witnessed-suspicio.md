@@ -6,6 +6,11 @@ date: "2025-09-08"
 ---
 
 **Date:** 2025-09-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 8th”
 
 ## Event
 
@@ -14,7 +19,7 @@ date: "2025-09-08"
 ## Mentioned In
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:38:28](/episodes/ep-6DhWawD4ZiM.md#event-event-2025-09-08-harry-myers-claims-he-witnessed-suspicio-t-00-44-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2308);return false;">▶️ Play</a>
+**Timestamp:** [00:43:34](/episodes/ep-6DhWawD4ZiM.md#event-event-2025-09-08-harry-myers-claims-he-witnessed-suspicio-t-00-43-29) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=2614s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> the timeline he gave us is exactly right
+> on September 8th, that's when he says that he saw some funny business 2025

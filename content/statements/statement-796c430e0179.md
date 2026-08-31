@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:40:59](/episodes/ep-Ux1kzgQxkws.md#t-00-40-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2459);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2459s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, I did not do any business through entire four years. I became a painter.
 

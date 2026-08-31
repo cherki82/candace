@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:05:17](/episodes/ep-A39g5oqB_eM.md#t-00-05-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(317);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=317s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the corporate-wide Zoom call, ... this call took place on Monday, ... September 22nd. So this is 11 days.
 

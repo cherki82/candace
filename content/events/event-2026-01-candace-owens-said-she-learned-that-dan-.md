@@ -6,6 +6,11 @@ date: "2026-01"
 ---
 
 **Date:** 2026-01
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “until this weekend”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-01"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:12:46](/episodes/ep-NIEbqsLAK8g.md#event-event-2026-01-candace-owens-said-she-learned-that-dan--t-00-12-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(766);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=766s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this weekend, is that they aren't the only ones that live there. Dan Flood also lives in New

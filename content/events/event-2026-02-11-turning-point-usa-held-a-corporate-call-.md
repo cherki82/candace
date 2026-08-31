@@ -6,6 +6,11 @@ date: "2026-02-11"
 ---
 
 **Date:** 2026-02-11
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “February 11th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-02-11"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:15:53](/episodes/ep-DdPjoy5W-wY.md#event-event-2026-02-11-turning-point-usa-held-a-corporate-call--t-00-15-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(953);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=953s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All this dated February 11th, she made a point to immediately mention her kids.

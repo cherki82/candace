@@ -18,13 +18,17 @@ veracity: "true"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Brett Cooper](/entities/person-brett-cooper.md) (person)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=1341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You were featured in a movie that Brett Cooper starred in at the Daily Wire: "Lady Ballers." You're good friends with Michael Knowles
 

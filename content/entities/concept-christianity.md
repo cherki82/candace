@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 247 mentions"
+description: "Christianity (Concepts) - 287 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & Facts](https://www.britannica.com/topic/Christianity)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27">2026-01-07 · 00:04:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-24-50">2025-10-07 · 00:24:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>66</strong></div>
-<div><span>Mentions</span><strong>247</strong></div>
+<div><span>Episodes</span><strong>75</strong></div>
+<div><span>Mentions</span><strong>287</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,15 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (35 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-52-06" style="--pulse-height:23%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 8 mentions" title="2025-10-07 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-christianity-t-00-48-17" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-33-02" style="--pulse-height:17%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-christianity-t-00-07-04" style="--pulse-height:11%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christianity-t-00-15-44" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-christianity-t-00-39-07" style="--pulse-height:9%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 3 mentions" title="2025-11-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-christianity-t-00-03-33" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-10-29" style="--pulse-height:20%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 7 mentions" title="2025-12-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-christianity-t-00-50-49" style="--pulse-height:11%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27" style="--pulse-height:11%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 35 mentions" title="2026-01-09 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-21" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
@@ -106,6 +115,15 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-52-06) | 8 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-christianity-t-00-48-17) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-33-02) | 6 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christianity-t-00-07-04) | 4 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christianity-t-00-15-44) | 5 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-christianity-t-00-39-07) | 3 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-christianity-t-00-03-33) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-10-29) | 7 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christianity-t-00-50-49) | 4 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55) | 35 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-21) | 3 |
@@ -179,7 +197,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (247)</strong></summary>
+<summary><strong class="section-title">Raw mentions (287)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -1243,6 +1261,171 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 **[00:55:55](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-55-39)**
 > "I want Christianity to win. I want goodness and truth to win,"
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+
+**[00:50:49](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christianity-t-00-50-49)**
+> "... religions, certainly not the Christian one."
+
+**[00:59:40](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christianity-t-00-59-13)**
+> "...and really said, let's do the Christian thing."
+
+**[00:59:44](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christianity-t-00-59-13)**
+> "...lized you can't really do the Christian thing with people that hate Christ."
+
+**[00:59:49](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christianity-t-00-59-13)**
+> "The Christian thing doesn't work with people who hate Christ."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
+
+**[00:10:40](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-10-29)**
+> "It was a modern day Christian miracle."
+
+**[00:16:34](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-16-17)**
+> "...ot gonna be doing because I'm Christian."
+
+**[00:36:37](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-36-16)**
+> "is squeaky clean Christianity, does a lot behind the scenes."
+
+**[00:37:15](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-36-46)**
+> "...pposed to believe Ali Beth is Christian."
+
+**[00:41:45](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-41-45)**
+> "You know, I haven't made Christianity my brand because I'm a Catholic and I don't belie..."
+
+**[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-42-30)**
+> "If you are a Christian and you purport to have been a good friend to Cha..."
+
+**[00:47:17](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-christianity-t-00-47-17)**
+> "...lieve that it should be their Christian position to not call out lies, to not fight lies."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:03:59](/episodes/ep-a-e7HC6SeK8.md#ent-concept-christianity-t-00-03-33)**
+> "...evolutions against really the Christian empire across Europe."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
+
+**[00:39:07](/episodes/ep-581dILVcEE4.md#ent-concept-christianity-t-00-39-07)**
+> "...Israel message in the name of Christianity. And they're perverting this Judeo-Christian brot..."
+
+**[00:41:17](/episodes/ep-581dILVcEE4.md#ent-concept-christianity-t-00-40-49)**
+> "This is "Judeo Christianity." This is the cover of Calvary Chapel magazine fr..."
+
+**[00:41:46](/episodes/ep-581dILVcEE4.md#ent-concept-christianity-t-00-41-34)**
+> "...o. Here we are learning about Christianity. Oh, actually, it's a photo of IDF soldiers weari..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
+
+**[00:16:10](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christianity-t-00-15-44)**
+> "...ng bones. It was a modern-day Christian miracle."
+
+**[00:45:53](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christianity-t-00-45-27)**
+> "...reason—outright purchased the Christian Academy in 2009, I believe it was."
+
+**[00:46:05](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christianity-t-00-46-05)**
+> "...fired you because you weren't Christian enough and he didn't come to church on Sundays.""
+
+**[00:46:23](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christianity-t-00-46-05)**
+> "...ested in his interest in this Christian school."
+
+**[00:51:48](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christianity-t-00-51-26)**
+> "...re learning, the churches—the Christian churches. I mean, I don't understand how this hap..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+
+**[00:07:04](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christianity-t-00-07-04)**
+> "... by Erika's commitment to her Christian faith, the strength—obviously—that it takes for h..."
+
+**[00:07:26](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christianity-t-00-07-04)**
+> "But I would say the Christian message is what has resonated the most when she g..."
+
+**[00:16:16](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christianity-t-00-16-08)**
+> ""You say you're a Christian, but you don't wear a cross." He's like, "I don't..."
+
+**[00:43:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christianity-t-00-43-24)**
+> "... me when you cage it as like "Christian shouldn't" or "Christian should.""
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6 mentions)</summary>
+
+**[00:33:25](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-33-02)**
+> "...selytizer from the history of Christianity—and my personal hero."
+
+**[00:33:51](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-33-47)**
+> "...ilt, and it's antithetical to Christianity and to the West. And so for me—and by the way, Is..."
+
+**[00:34:58](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-34-53)**
+> "... We very much don't live in a Christian society because we live in a Christian Zionist so..."
+
+**[00:35:17](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-35-17)**
+> "...ause they are Jews and I am a Christian, I recognize that I'm going to get into heaven if..."
+
+**[00:37:12](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-37-10)**
+> "what Christianity is, right?"
+
+**[00:47:54](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christianity-t-00-47-18)**
+> "...better country when we were a Christian nation. We are no longer a Christian nation."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:48:34](/episodes/ep-iHav0PPzUz8.md#ent-concept-christianity-t-00-48-17)**
+> "...ker Carlson)—claiming to be a Christian and a decent person—would have a lot of interest...."
+
+**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-concept-christianity-t-00-57-10)**
+> ".... For years, I was a lukewarm Christian, and I was agnostic."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (8 mentions)</summary>
+
+**[00:52:21](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-52-06)**
+> "In this sense, Christianity and a leading Christian democracy are now on trial."
+
+**[00:24:57](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-24-50)**
+> "...'s a close paraphrase), 'As a Christian, one of my greatest joys in life is making friend..."
+
+**[00:46:44](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-46-26)**
+> "...guilty of that crime—and that Christian souls would tolerate that possibility—is anathema..."
+
+**[00:47:24](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-47-02)**
+> "Any civilized culture—Christian or otherwise—allows a grieving widow 40 days of m..."
+
+**[00:52:06](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-52-06)**
+> "...at ill fortune would befall a Christian country and the individuals that would allow this..."
+
+**[00:56:44](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-56-23)**
+> "Neemee is proudly Christian, pro-life, pro-family, pro-freedom, and they just..."
+
+**[00:58:48](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-58-31)**
+> "Maybe Christianity?"
+
+**[01:02:02](/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-01-01-52)**
+> "And I'm a real Christian."
 
 </details>
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:07:39](/episodes/ep-c5BcKF91iec.md#t-00-07-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(459);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=459s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Amazing. I mean, amazing. So on September 14th, we were made aware of this succession plan. And I find that to be fascinating.
 

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1490);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1490s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson's arrest might have united a MAGA movement that had been tearing itself apart over the Epstein files and the war in Gaza. ... It might have provided a common enemy, a focused on the lefty posters who were joking about Kirk's death or Antifa the Trump administration had blamed for Kirk's murder. ... It might have, if not for Candace Owens.
 

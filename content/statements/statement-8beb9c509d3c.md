@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:33:03](/episodes/ep-OgRyiOAVtWU.md#t-00-32-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1983);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1983s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It took just three weeks after Charlie (Charlie Kirk)'s assassination for Erika (Erika Kirk) to file for three trademarks, granting her the right to his name on T-shirts, tote bags, any and all clothing—three trademarks.
 

@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:37:56](/episodes/ep-3QJqtW_NOSI.md#t-00-37-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2276);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2276s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I describe these two competing and both wrong viewpoints of modern feminism, one which encourages women to behave like sluts and tells them that that's empowering. ... This leads to absolute misery. ... I believe in family. I believe in monogamy.
 

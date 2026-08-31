@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:05:46](/episodes/ep-YFmRH8p5lt0.md#t-00-05-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(346);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=346s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tail number—there's two actually Egyptian planes—because then somebody else mentioned to me, "Hey, Candace, there was another Egyptian plane that left three hours after—Egyptian military plane that is—three hours after Charlie (Charlie Kirk) was assassinated from Provo, Utah." And that tail number is SUBND.
 

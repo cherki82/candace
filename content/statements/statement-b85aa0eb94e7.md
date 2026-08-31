@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:57:20](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3440);return false;">Play</a>
+**Timestamp:** [00:56:33](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Brigitte Macron crying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French tax forms, Brigitte is listed as Jean Michel and listed as a male
+> Brigitte Macron crying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French tax forms, Brigitte is listed as Jean Michel and listed as a male.
 
 ## Verification
 

@@ -6,6 +6,11 @@ date: "2019"
 ---
 
 **Date:** 2019
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:05:14](/episodes/ep-mFuno0TuuQQ.md#t-00-04-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(314);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=314s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie had taken a meeting down in Florida with Ike Perlmutter at Mar-a-Lago.

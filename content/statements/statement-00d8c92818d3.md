@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:41:12](/episodes/ep-N4uM8Jdr410.md#t-00-40-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2472);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=2472s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I never worked at Fort Huachuca. I only went there once for a three-day training day. I don't know what that stands for. ... And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.
 

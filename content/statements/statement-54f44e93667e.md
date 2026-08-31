@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:42:55](/episodes/ep-DdPjoy5W-wY.md#t-00-42-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2575);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2575s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's why he's going to get accused in the future. He makes tens of millions of dollars off of charter schools. ... There are all these articles look up Eddie Farnsworth and the charter school. and they all started saying hey he's scamming he's taking all this government money like this seems like their true family business make up something that you do say it's important get a bunch of money from the department of homeland security from the dod but in reality it's like a political mafia working together to scam taxpayers that's what he gets accused of eddie farnsworth that's what you got accused of there's tons of articles
 

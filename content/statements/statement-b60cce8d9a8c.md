@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:10:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(653);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=653s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, so they stripped the video and used just the audio as Erica (Erika Kirk)'s walkout music. They used what they are alleging is Charlie (Charlie Kirk)'s voice.
 

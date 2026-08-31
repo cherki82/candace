@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:04:00](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(240);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=240s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > go off scope and not do their job why was there no drone reconnaissance or helicopter support i'm just the layman i'm not a military guy i'm not in personal protection but i'm also not a moron was this a setup what's going on here and the lack of concern from the media is so telling because there are many members of the media that want donald j trump dead and they don't want to get to the bottom of this We were two inches away from one of the darkest chapters in American history.
 

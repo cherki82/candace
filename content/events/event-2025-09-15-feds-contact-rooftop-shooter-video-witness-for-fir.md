@@ -6,6 +6,7 @@ date: "2025-09-15"
 ---
 
 **Date:** 2025-09-15
+**Date precision:** Day
 
 ## Event
 
@@ -14,7 +15,7 @@ date: "2025-09-15"
 ## Mentioned In
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:15:57](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-15-feds-contact-rooftop-shooter-video-witness-for-fir-t-00-09-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(957);return false;">▶️ Play</a>
+**Timestamp:** [00:16:28](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-15-feds-contact-rooftop-shooter-video-witness-for-fir-t-00-16-28) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=988s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> lease this. The idea that it's because, well, the feds are saying—the feds cannot arrest you. Last I checked, the feds cannot bring charges against you for releasing footage that you own. And since wh
+> You never reached out to him until September 15th. Yeah, my friends

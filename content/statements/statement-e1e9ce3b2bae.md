@@ -1,6 +1,6 @@
 ---
-title: "Bibi lied by severe omission when he mentioned his last corr..."
-description: "\"Bibi lied by severe omission when he mentioned his last correspondences with Charlie\" — Candace Owens"
+title: "Did Benjamin Netanyahu lie by severe omission when he descri..."
+description: "\"Did Benjamin Netanyahu lie by severe omission when he described his last correspondence with Charlie Kirk?\" — Candace Owens"
 statement_id: "statement-e1e9ce3b2bae"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Bibi lied by severe omission when he mentioned his last correspondences with Charlie
+> Did Benjamin Netanyahu lie by severe omission when he described his last correspondence with Charlie Kirk?
 
 ## Attribution
 
@@ -19,13 +19,18 @@ type: "accusation"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:49:38](/episodes/ep-q7f8r-THr84.md#t-00-49-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2978);return false;">Play</a>
+**Timestamp:** [00:49:38](/episodes/ep-q7f8r-THr84.md#t-00-49-38) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2978s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I just find that weird that no one wants to address the substance of the claims here, whether or not maybe Bill himself has an opinion on whether Bibi (Benjamin Netanyahu) lied by severe omission when he mentioned his last correspondences with Charlie (Charlie Kirk)
+> whether or not maybe Bill himself has an opinion on whether Bibi (Benjamin Netanyahu) lied by severe omission when he mentioned his last correspondences with Charlie (Charlie Kirk).
 
 ## Verification
 

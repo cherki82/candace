@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:29:40](/episodes/ep-E7P2ShoYDUA.md#t-00-29-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1780);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1780s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, that's why I reported it to the correct officials in government. That's what I was told, and I handed over that information to Tulsi Gabbard's office.
 

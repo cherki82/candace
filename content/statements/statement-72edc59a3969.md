@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:28:09](/episodes/ep-cPidFQDJLbo.md#t-00-28-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1689);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1689s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will reiterate my earlier point that any... attempted or recently accomplished will changes surrounding an unexpected death event should be further investigated.
 

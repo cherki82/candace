@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > by the way, Bill Ackman confirmed it, that he gave this presentation to encourage. younger generations not to own property.
 

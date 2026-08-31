@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:54:04](/episodes/ep-ds6umq1rHAw.md#t-00-53-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=3244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They're all talking about Sandy Hook. That's an obvious influencer campaign, which makes us believe that your next plan is going to be a lawsuit to try to bankrupt anybody who is meaningfully looking into this case.
 

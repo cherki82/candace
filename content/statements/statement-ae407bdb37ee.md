@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:21:05](/episodes/ep-9naMwS0kMBE.md#t-00-21-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1265);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=1265s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and in fact he told you that they knew the bombing was coming down in Beirut before it occurred.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:06:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-06-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(375);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=375s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I remember sitting on the ground with my arms still tied to the bedpost and then he brought an animal in, a dead cat, and he had a knife and he said, I want you to cut the head off this cat. ... And I was terrified and he said, if you don't, I'll cut your head off. So, ... yeah, about three and a half, I used the knife, cut the cat's head off, and then he put the carcass on my head and blood dripped down on me.
 

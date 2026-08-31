@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2388);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2388s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, so we already showed you Erika. She had a friend who was in the theater. Okay. Rob McCoy, he lost two congregants in the Thousand Oaks shooting at the Borderline Bar in 2018. And then he subsequently became the mayor and very close with the victim's family.
 

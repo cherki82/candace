@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:50:22](/episodes/ep-DdPjoy5W-wY.md#t-00-49-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3022);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3022s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We run a company and that's how I was able to formulate my nonprofit and that's what also made me change my major because originally I was business.
 

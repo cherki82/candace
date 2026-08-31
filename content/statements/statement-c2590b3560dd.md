@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -20,13 +20,18 @@ veracity: "mixed"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#t-00-01-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It's very weird, and we should not forget how weird that is, especially because when he went on multiple hits doing Fox News and Greta Van Susteren's (Greta Van Susteren) show, he lied about the contents of a letter that Charlie (Charlie Kirk) had written him back in May.
+> It's very weird, and we should not forget how weird that is, especially because when he went on multiple hits doing Fox News and Greta Van Susteren's show, he lied about the contents of a letter that Charlie (Charlie Kirk) had written him back in May.
 
 ## Verification
 

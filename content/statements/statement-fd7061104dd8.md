@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:44:28](/episodes/ep-amqTMimDr0A.md#t-00-44-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2668);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2668s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > saying we need you guys to sign non-disclosure agreements ... It became, if you don't sign, you will not be able to see him and you will not be able to participate.
 

@@ -71,7 +71,7 @@ _No relationships extracted yet._
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
 - [00:43:19](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) (Claim) **Anonymous Source #4 (Ep A39g5oqB_eM)** (via read message): ["Turning Point USA was shooting a Super Bowl commercial in Nashville wi..."](/statements/statement-58423c61db0b.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Nashville, Tennessee](/entities/gpe-nashville-tennessee.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Nashville](/entities/gpe-nashville.md)
 
 </details>
 

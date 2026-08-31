@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:01:11](/episodes/ep-9naMwS0kMBE.md#t-00-01-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(71);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=71s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I heard there were 30 to 40 people purged that they were looking for the leak.
 

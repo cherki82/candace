@@ -30,7 +30,7 @@ type: "citation"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:10:32](/episodes/ep-DqGNvi36ol8.md#t-00-09-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(632);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=632s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I instantly recalled that when police are in undercover units, the FBI, et cetera, and they are not in their uniforms, they often have a color of the day or a unit color. It's a signal to anyone else around that you are with that mission or unit
 
@@ -38,7 +38,7 @@ type: "citation"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:04:32](/episodes/ep-DqGNvi36ol8.md#t-00-04-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(272);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=272s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Another person said, quote, I instantly recalled that when police are in undercover units, the FBI, et cetera, and they are not in their uniforms, they often have a color of the day or a unit color. It's a signal to anyone else around that you are with that mission or unit, end quote.
 

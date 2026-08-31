@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:15:12](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(912);return false;">Play</a>
+**Timestamp:** [00:15:12](/episodes/ep-SKGUzGHymcI.md#t-00-14-44) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You will likely get 920 North King Street with the label Federal Bureau of Investigation...Google will tell you that 920 North King Street is also the FBI. That is not a mistake. The FBI is also stationed at 920 North King Street.
 

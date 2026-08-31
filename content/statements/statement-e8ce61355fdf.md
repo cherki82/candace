@@ -20,14 +20,14 @@ type: "factual_claim"
 
 ## About
 
-- [Walid Mahmood](/entities/person-walid-mahmood.md) (person)
+- [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md) (anonymous_source)
 - [SU-BTT](/entities/vehicle-su-btt.md) (vehicle)
 
 ## Source
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(882);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=882s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But the name that one of those individuals was using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew using the name Walid Mahmood, okay?
 

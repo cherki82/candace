@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:41:38](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2498);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=2498s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the other day I found out that the CIA is preparing some kind of criminal referral against me, a crime report to Department of Justice. ... On the basis of a supposed crime I committed. What's that crime? Well, talking to people in Iran before the war.
 

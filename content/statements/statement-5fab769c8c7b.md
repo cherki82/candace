@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:55:13](/episodes/ep-9naMwS0kMBE.md#t-00-55-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3313);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3313s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you're 31 years old and someone asks you what's going to happen when you die, those people intend to harm you. I cannot look at that innocently.
 

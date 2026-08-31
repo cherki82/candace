@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:43:45](/episodes/ep-G3zdOeHpvS0.md#t-00-43-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2625);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=2625s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At worse, she seems to be an accessory to a cover up. Certainly a cover up because there's so many things that she could do to help clarify matters other than just perform and cry.
 

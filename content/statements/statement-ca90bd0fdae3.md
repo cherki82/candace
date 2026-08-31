@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:30:03](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1803);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1803s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Thereafter, there is evidence, and we have not been able to find anything concrete, but there is evidence that Erika (Erika Kirk) went back up to Ohio for about three years, from 2000 to 2002. ... She apparently attended a school known as St. Ursula Villa.
 

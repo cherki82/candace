@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:11:40](/episodes/ep-xjzb_t5Tk9o.md#t-00-11-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(700);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=700s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they already have uh I have a friend of mine who went to the uh a film festival, the Cannes Film Festival last year. ... that one year after October 7th, and they already have pledged over $200 million to produce TV shows, ... movies in order to retell October 7th from the Israeli point of view.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:31:50](/episodes/ep-wcD2khO3rOA.md#t-00-31-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1910);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1910s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they induced labor after you said i don't want to give up my child... you never see your son... they tell your mom she's got to pick you up asap
 

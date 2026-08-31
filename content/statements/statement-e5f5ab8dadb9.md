@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:12:32](/episodes/ep-5zgkrOaCCj4.md#t-00-12-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(752);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=752s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It looks to us like sports leggings, like soccer socks pulled up. what does that or albino in September just put on a pair of shorts for the first day and when I use my mind and I go why would someone wear like what looks like stockings on this day it makes me think does somebody have a tattoo that's what if I was supposed to be looking like Tyler Robinson and Tyler Robinson didn't have a tattoo I might wear high socks
 

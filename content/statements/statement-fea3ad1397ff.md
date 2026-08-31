@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:17:13](/episodes/ep-ja26iltROkM.md#t-00-17-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1033);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1033s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That disputes what the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he said that they got permission to—you know—turn off services, which are transponder services, and they got that permission from the air traffic controller.
 

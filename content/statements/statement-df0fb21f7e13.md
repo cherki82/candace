@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:13:00](/episodes/ep-B9TyCs-6o_0.md#t-00-12-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(780);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=780s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then I released the concrete proof in the form of the text chain, which then forced them to confess that there was a communication that took place less than 24 hours before Charlie was shot and killed.
 

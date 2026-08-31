@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:54:31](/episodes/ep-cZxHqYsWRYg.md#t-00-54-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3271);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=3271s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you're on the apps, I don't know if you're on the apps, I don't know if I'm not going to ask you your personal journey, but what I will say is when I lived out here, I was here for five years. ... I never dated here because I saw vicariously through my roommate how terrible it was.
 

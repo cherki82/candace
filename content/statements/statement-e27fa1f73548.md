@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:40:18](/episodes/ep-ZAuuSq_j2_w.md#t-00-40-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2418);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=2418s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also Tyler Bowyer—fun little update—sends a text or something. They're all just so insincere. I don't know—sent an email and was like, "What's your lawyer's email?" What do you mean, "What is my lawyer's email?" You guys have my lawyer's email. We were in communication two days ago, right?
 

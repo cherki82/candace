@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:45:19](/episodes/ep-7FS1tUeSfdE.md#t-00-44-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2719);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=2719s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They actually now, I can tell you, are incentivizing chapters not to close by paying them. ... They're paying chapter leaders at universities, which was not something that was at all done when Charlie (Charlie Kirk) was alive ... so that's what's going on apparently in the background allegedly
 

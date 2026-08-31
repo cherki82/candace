@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1638);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1638s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's a fact. He doesn't know, apparently, where all the money is going. I am told specifically by Turning Point employees that the money was missing out of turning point action.
 

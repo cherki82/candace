@@ -27,8 +27,8 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,7 +38,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37" style="--pulse-height:60%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-lee-trotter-t-00-14-17" style="--pulse-height:20%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53" style="--pulse-height:60%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-40" style="--pulse-height:60%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lee-trotter-t-00-19-58" style="--pulse-height:40%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-03-02" style="--pulse-height:20%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -54,7 +54,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-lee-trotter-t-00-14-17) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53) | 3 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-40) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-lee-trotter-t-00-19-58) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-03-02) | 1 |
@@ -169,13 +169,13 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
 
-**[00:05:11](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53)**
+**[00:05:03](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-40)**
 > "Simply put, and I'm going to say allegedly here only because I did not speak directly to Dr. Lee Trotter."
 
-**[00:05:16](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53)**
+**[00:05:16](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-40)**
 > "Simply put, never once did Dr. Lee Trotter say that Charlie's neck was stopped, Charlie's ne..."
 
-**[00:06:22](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-06-10)**
+**[00:06:20](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-06-10)**
 > "...lutely true that the surgeon, Dr. Lee Trotter, hunts, so he does have experience with bullets."
 
 </details>
@@ -192,10 +192,10 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:29:11](/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37)**
-> "...re's what I discovered—preliminarily. The answer is yes, okay? The doctor who worked on Charlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency ..."
+> "The doctor who worked on Charlie (Charlie Kirk) was Dr. Lee Trotter."
 
 **[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37)**
-> "...arily. The answer is yes, okay? The doctor who worked on Charlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medica..."
+> "And regarding Dr. Lee Trotter, he had his residency on the Air Force base."
 
 **[00:35:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-35-07)**
 > "...ve confirmed that doesn't seem to be the circumstance. It's possible that it could be because maybe Dr. Lee Trotter—which I have heard works at both—limited surgeons going back and forth. That's somehow it created a..."
@@ -227,24 +227,38 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 </details>
 
 <details>
-<summary>Works For (1)</summary>
+<summary>Trained By (1)</summary>
 
-- **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)**
+- **[Keesler Air Force Medical Center](/entities/org-keesler-afb-medical-center.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): “Charlie gets transported to...Timpanogos Hospital. He's raced into surgery.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37): “The doctor who worked on Charlie (Charlie Kirk) was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Works For (1)</summary>
+
+- **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-07-57): “Charlie (Charlie Kirk) gets transported to, I know I keep saying this wrong, Timpanogos Hospital. He's raced into surgery.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:06:20](/episodes/ep-9k2xrAC0H88.md#t-00-06-10): “Rather, What I was told is that what the surgeon communicated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true that the surgeon, Dr. Lee Trotter, hunts, so he does have experience with bullets.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): “Charlie gets transported to...Timpanogos Hospital. He's raced into surgery.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-07-57): “Charlie (Charlie Kirk) gets transported to, I know I keep saying this wrong, Timpanogos Hospital. He's raced into surgery.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:06:20](/episodes/ep-9k2xrAC0H88.md#t-00-06-10): “Rather, What I was told is that what the surgeon communicated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true that the surgeon, Dr. Lee Trotter, hunts, so he does have experience with bullets.”
 
 </details>
 
@@ -259,6 +273,13 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:13:24](/episodes/ep-ti5Fxrvegno.md#t-00-12-58): “Erika (Erika Kirk) and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the .30-06 didn't pass through Charlie (Charlie Kirk)'s neck.”
+
+</details>
+
+- **[Keesler Air Force Medical Center](/entities/org-keesler-afb-medical-center.md)** trained this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37): “The doctor who worked on Charlie (Charlie Kirk) was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi.”
 
 </details>
 
@@ -280,7 +301,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lee Trotter (15)</strong></summary>
+<summary><strong class="section-title">Statements about Lee Trotter (12)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
@@ -328,7 +349,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 - [00:06:35](/episodes/ep-9k2xrAC0H88.md#t-00-06-10) (Claim) **Anonymous Source #1 (Ep 9k2xrAC0H88)** (via read message): ["Dr. Lee Trotter communicated that a frangible bullet was likely used i..."](/statements/statement-25910712e44c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["Federal agents were blocking the surgeon from returning to the operati..."](/statements/statement-c2de12472215.md)
+- [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-41) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["Federal agents were blocking the surgeon from returning to the operati..."](/statements/statement-c2de12472215.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["A phone call was placed to DC at the hospital after the surgeon was bl..."](/statements/statement-b7a912d83954.md)
@@ -337,21 +358,12 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
 
-- [00:29:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37) (Claim) **Candace Owens**: ["Dr. Lee Trotter, the doctor who worked on Charlie Kirk, completed resi..."](/statements/statement-9037623d123b.md)
+- [00:29:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37) (Claim) **Candace Owens**: ["Dr. Lee Trotter, the doctor who worked on Charlie Kirk, completed resi..."](/statements/statement-9037623d123b.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:29:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37) (Claim) **Candace Owens**: ["Dr. Lee Trotter was the doctor who worked on Charlie Kirk"](/statements/statement-f796169ed9a4.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:29:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37) (Claim) **Candace Owens**: ["Dr. Lee Trotter completed his residency at Keesler Air Force Medical C..."](/statements/statement-35608f23ed8d.md)
-  - Also about: [Keesler Air Force Medical Center](/entities/org-keesler-afb-medical-center.md)
-
-- [00:29:22](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lee Trotter is a pilot and may actually be in the Air Force based ..."](/statements/statement-1dc94b89b3e9.md)
-
-- [00:29:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lee Trotter might be in the Air Force"](/statements/statement-4585f0b74ba9.md)
-  - Also about: [United States Air Force](/entities/org-united-states-air-force.md)
+- [00:29:20](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Owens said she thinks Dr. Lee Trotter might actually be in the Air For..."](/statements/statement-1dc94b89b3e9.md)
 
 </details>
 

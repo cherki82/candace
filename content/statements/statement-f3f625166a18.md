@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:52:20](/episodes/ep-aPOyk1i2LOc.md#t-01-52-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They said that the French Foreign Legion was involved and on the ground that day.
 

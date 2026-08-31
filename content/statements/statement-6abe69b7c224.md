@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:34:12](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2052);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2052s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I learned when I was out in Arizona last week that two weeks before Charlie Kirk was assassinated, the far-left website Jezebel declared that it had a mission to cast bad luck or a curse on Charlie
 
@@ -39,7 +39,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:34:47](/episodes/ep-QZWSsq8ZWzw.md#t-00-34-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2087);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2087s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I learned when I was out in Arizona last week that two weeks before Charlie Kirk was assassinated, the far-left website Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 

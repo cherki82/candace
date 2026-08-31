@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:10:02](/episodes/ep-wcD2khO3rOA.md#t-00-09-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(602);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=602s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that plane, pardon me, was formally registered in Romania back in 2013. ... from 2013 to 2015, that plane was registered in Romania.
 

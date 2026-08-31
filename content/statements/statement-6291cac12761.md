@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:24:09](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1449);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1449s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because I told him not to trust any of those people. All of the people that the world now sees are the snakes that were in Charlie (Charlie Kirk)'s garden, I saw them first, and I warned Charlie (Charlie Kirk) about those people.
 

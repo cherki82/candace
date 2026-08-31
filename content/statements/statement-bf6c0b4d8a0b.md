@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:07:55](/episodes/ep-1hcjQGgvxUY.md#t-00-07-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(475);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=475s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So Jillian (Jillian Falcon) says thank you. Erica (Erika Kirk) says you have the most stunning features. ... Erica (Erika Kirk) says your eyes, your lips, ... your skin, ... you're absolutely beautiful.
 

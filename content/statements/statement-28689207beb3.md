@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:25:54](/episodes/ep-UYkXV9mYbT4.md#t-00-25-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1554);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=1554s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On that bottom paragraph, which we have highlighted orange, it says what is known at present is that Mr. ... Robinson has not received the forensic case files and the data necessary to investigate through the use of qualified experts the scientific reports that the state intends to introduce at the preliminary hearing. ... Mr. Robinson has diligently requested the disclosure of forensic case files and the data underlying the laboratory reports in effort to get these materials. ... to the defense and he's been doing that since september 30th
 

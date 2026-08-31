@@ -6,6 +6,11 @@ date: "2005"
 ---
 
 **Date:** 2005
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “That year”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2005"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:34:55](/episodes/ep-cZxHqYsWRYg.md#event-event-2005-lori-frantzve-was-listed-in-a-dhs-house--t-00-34-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2095);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2095s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lori Frantzve is listed in the house bill budget for the U.S. Department of Homeland Securities
 
@@ -25,6 +30,6 @@ date: "2005"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:12:49](/episodes/ep-2tFYJf1klgY.md#event-event-2005-lori-frantzve-was-listed-in-a-dhs-house--t-00-12-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(769);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=769s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's listed in the House bill budget. She's receiving money from the Department of Homeland

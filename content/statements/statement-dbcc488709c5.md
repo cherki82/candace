@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:54:15](/episodes/ep-jTj9Ip46r4w.md#t-00-54-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3255);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=3255s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > plotting together to say what should we tell the public oh we'll say he had a steel neck like superman he didn't mention that to you little sidebar So I feel bad for Andrew Kolvet. I feel bad that they've made him be the person that has to lie and he's kind of catching all these strays, but she's been the hand directing him. I now know that because of the firings. Erica (Erika Kirk) has been directing the messaging from the very beginning.
 

@@ -6,6 +6,7 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
 
 ## Event
 

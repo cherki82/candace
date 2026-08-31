@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:43:08](/episodes/ep-aDlhjfW6hz8.md#t-00-43-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2588);return false;">Play</a>
+**Timestamp:** [00:43:08](/episodes/ep-aDlhjfW6hz8.md#t-00-42-46) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2588s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they're also calling for him to make a meaningful personal donation to the Kirk family and Turning Point USA.
 

@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 85 mentions"
+description: "PDS Debt (Organizations) - 95 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -23,8 +23,8 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-pds-debt-t-00-27-24">2026-08-19 · 00:27:40</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>85</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,13 +33,15 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11" style="--pulse-height:80%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 4 mentions" title="2025-09-25 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50" style="--pulse-height:80%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16" style="--pulse-height:80%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 5 mentions" title="2025-09-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-45" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59" style="--pulse-height:80%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38" style="--pulse-height:40%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38" style="--pulse-height:60%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-pds-debt-t-00-32-02" style="--pulse-height:60%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-pds-debt-t-00-36-25" style="--pulse-height:60%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-pds-debt-t-00-41-58" style="--pulse-height:60%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-pds-debt-t-00-30-57" style="--pulse-height:40%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-pds-debt-t-00-17-31" style="--pulse-height:60%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
@@ -69,11 +71,13 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11) | 4 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50) | 4 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16) | 4 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11) | 5 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50) | 5 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-45) | 5 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59) | 4 |
-| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38) | 3 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-pds-debt-t-00-32-02) | 3 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-pds-debt-t-00-36-25) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-pds-debt-t-00-41-58) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-pds-debt-t-00-30-57) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-pds-debt-t-00-17-31) | 3 |
@@ -105,7 +109,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (85)</strong></summary>
+<summary><strong class="section-title">Raw mentions (95)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -429,13 +433,44 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
+
+**[00:36:37](/episodes/ep-es7PWdFGoFI.md#ent-org-pds-debt-t-00-36-25)**
+> "...o want to tell you guys about PDS debt because whether you are struggling with credit ca..."
+
+**[00:37:04](/episodes/ep-es7PWdFGoFI.md#ent-org-pds-debt-t-00-37-04)**
+> "PDS debt is A-plus rated by the Better Business Bureau. It..."
+
+**[00:37:13](/episodes/ep-es7PWdFGoFI.md#ent-org-pds-debt-t-00-37-04)**
+> "Why? Because PDS has helped hundreds of thousands of people get ou..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:32:06](/episodes/ep-6J6lRZPQ4jk.md#ent-org-pds-debt-t-00-32-02)**
+> "...lso, reminding you guys about PDS debt, because whether you are struggling with credit c..."
+
+**[00:32:31](/episodes/ep-6J6lRZPQ4jk.md#ent-org-pds-debt-t-00-32-02)**
+> "PDS debt is A-plus rated by the Better Business Bureau."
+
+**[00:32:40](/episodes/ep-6J6lRZPQ4jk.md#ent-org-pds-debt-t-00-32-02)**
+> "Because PDS has helped hundreds of thousands of people get ou..."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
 **[00:48:54](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38)**
 > "...sonal loans, or medical bills—PDS Debt has custom options to help you get out of debt."
 
 **[00:49:17](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38)**
 > "PDS Debt is A-plus rated by the Better Business Bureau."
+
+**[00:49:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-49-20)**
+> "... rating on Trustpilot because PDS has helped hundreds of thousands of people get ou..."
 
 </details>
 
@@ -457,24 +492,27 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
-**[00:27:54](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16)**
+**[00:27:54](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-45)**
 > "...o want to tell you guys about PDS Debt."
 
-**[00:28:15](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
+**[00:28:15](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-45)**
 > "PDS Debt has already helped hundreds of thousands fight ba..."
 
-**[00:28:16](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
+**[00:28:16](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-45)**
 > "...onal loans, or medical bills, PDS Debt has custom options to help you get out of debt."
 
-**[00:28:40](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
+**[00:28:40](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-25)**
 > "PDS Debt is A+ rated by the Better Business Bureau."
+
+**[00:28:47](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-25)**
+> "Why? Because PDS has helped hundreds of thousands of people get ou..."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
 
 **[00:38:22](/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50)**
 > "...o want to tell you guys about PDS Debt because debt from credit cards is not an accident..."
@@ -488,22 +526,28 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 **[00:39:05](/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-38-35)**
 > "PDS Debt is A+ rated by the Better Business Bureau."
 
+**[00:39:15](/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-38-35)**
+> "Because PDS has helped hundreds of thousands of people get ou..."
+
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (4 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (5 mentions)</summary>
 
 **[00:25:11](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11)**
 > "...o want to tell you guys about PDS Debt because the system is not broken."
 
-**[00:25:22](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11)**
+**[00:25:20](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11)**
 > "PDS Debt helps you take back control."
 
-**[00:25:40](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11)**
+**[00:25:38](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11)**
 > "PDS Debt goes beyond the numbers to understand your unique..."
 
 **[00:25:49](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-49)**
 > "PDS Debt is rated A+ by the Better Business Bureau."
+
+**[00:26:08](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-49)**
+> "Because PDS has helped hundreds of thousands of people get ou..."
 
 </details>
 
@@ -516,13 +560,14 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:29:56](/episodes/ep-IqHsl7d2dos.md#t-00-29-45): “And it starts with a free 30 second assessment at PDS debt dot com. slash Candace to stop juggling multiple payments and get one lower monthly payment.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:27:35](/episodes/ep-amqTMimDr0A.md#t-00-27-02): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:25:11](/episodes/ep-Vu6Y24pqhZs.md#t-00-25-11): “Minimum payments aren't designed to get you out of debt. They're designed to keep you stuck. PDS Debt, however, can help.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:32:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-32-02): “Also, reminding you guys about PDS debt, because whether you are struggling with credit cards, personal loans, or medical bills, PDS debt has custom options to help you get out of debt.”
 
 </details>
 
@@ -532,13 +577,14 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:29:56](/episodes/ep-IqHsl7d2dos.md#t-00-29-45): “And it starts with a free 30 second assessment at PDS debt dot com. slash Candace to stop juggling multiple payments and get one lower monthly payment.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:27:35](/episodes/ep-amqTMimDr0A.md#t-00-27-02): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:25:11](/episodes/ep-Vu6Y24pqhZs.md#t-00-25-11): “Minimum payments aren't designed to get you out of debt. They're designed to keep you stuck. PDS Debt, however, can help.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:32:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-32-02): “Also, reminding you guys about PDS debt, because whether you are struggling with credit cards, personal loans, or medical bills, PDS debt has custom options to help you get out of debt.”
 
 </details>
 

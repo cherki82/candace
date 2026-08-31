@@ -6,6 +6,11 @@ date: "1995"
 ---
 
 **Date:** 1995
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “95”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1995"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:06:27](/episodes/ep-cZxHqYsWRYg.md#event-event-1995-lori-frantzve-filed-for-virtual-registra-t-00-06-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(387);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=387s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's International UK. In 95, she also filed for virtual registration.

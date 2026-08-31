@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:39:23](/episodes/ep-IqHsl7d2dos.md#t-00-39-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2363);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=2363s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The consistent Rothschild connections in Erika (Erika Kirk)'s life, whether it's through the Corcoran Group, which we had already showed you, established according to Jeffrey Epstein's emails by Lynn Forester de Rothschild. ... which is where Erika gets her real estate license under. And yet, despite that, we only ever can find two listings that have ever gone up under Erika Frantzve.
 

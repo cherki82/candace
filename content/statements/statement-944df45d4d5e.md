@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:08:03](/episodes/ep-Pb7UlpRdW6U.md#t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(483);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=483s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Addendum Erika Kirk video clip. Video clip of Erika Kirk leaving the ballroom area and stating I just want to go home is driving the highest engagement of all instant related content across platforms. Our current digital assessment is strongest emotional response asset associated with incident. High cross ideological circulation.
 

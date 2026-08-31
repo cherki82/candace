@@ -6,6 +6,11 @@ date: "2025-09"
 ---
 
 **Date:** 2025-09
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “before the September 20th funeral”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:23:01](/episodes/ep-AoYZel7_cGQ.md#event-event-2025-09-candace-owens-said-hansen-mortuary-decli-t-00-22-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1381);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=1381s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Hansen declined to participate in a mock burial, so Turning Point USA then had to shop around.

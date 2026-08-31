@@ -6,6 +6,11 @@ date: "2026-01-23"
 ---
 
 **Date:** 2026-01-23
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “January 23rd”
 
 ## Event
 

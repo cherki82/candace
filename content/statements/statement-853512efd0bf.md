@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:13:27](/episodes/ep-SKGUzGHymcI.md#t-00-13-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(807);return false;">Play</a>
+**Timestamp:** [00:13:27](/episodes/ep-SKGUzGHymcI.md#t-00-13-05) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > DRBA is a bi-state authority, except the key part is that it operates on federally regulated airways or waterways, pardon
 

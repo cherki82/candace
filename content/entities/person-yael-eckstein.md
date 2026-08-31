@@ -5,11 +5,19 @@ id: "person-yael-eckstein"
 type: "PERSON"
 aliases:
   - "Eckstein"
+categories:
+  - "nonprofit leadership"
 ---
 
 _Type: People_
 
 **Also known as:** Eckstein
+
+**Categories:** nonprofit leadership
+
+**Entity verification:** verified
+> The International Fellowship of Christians and Jews leadership page confirms the canonical name and role of Yael Eckstein.
+Source: [Yael Eckstein | President and Global CEO | IFCJ](https://www.ifcj.org/who-we-are/leadership/yael-eckstein/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-yael-eckstein-t-00-21-15">2025-11-03 · 00:21:41</a></strong></div>
@@ -46,7 +54,7 @@ _Type: People_
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-yael-eckstein-t-00-21-15)**
-> "presented by Douglas Murray (Douglas Murray), Yael Eckstein (Yael Eckstein), and Dr. Juergen Buehler"
+> "The Pillars of Jerusalem Award—inspired by the verse teaching that the world stands upon justice, truth, and peace—will also be presented by Douglas Murray, Yael Eckstein, and Dr. Juergen Buehler."
 
 </details>
 

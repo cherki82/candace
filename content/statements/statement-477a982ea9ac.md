@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4932);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4932s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ama Musa writes, Ward Boston was a Navy judge advocate general who investigated Liberty, ... U.S. Liberty. ... Before he died, he published a notarized statement in San Diego Union Tribune that the investigation was a cover up and the attack was deliberate. It's the most obvious deliberate attack.
 

@@ -1,6 +1,6 @@
 ---
-title: "enough text messages exist that I think it can probably be v..."
-description: "\"enough text messages exist that I think it can probably be verified in pretty short order\" — Tucker Carlson"
+title: "Tucker Carlson said enough text messages existed that he tho..."
+description: "\"Tucker Carlson said enough text messages existed that he thought Kirk's views could probably be verified quickly.\" — Tucker Carlson"
 statement_id: "statement-3943c1a49754"
 speaker: "Tucker Carlson"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> enough text messages exist that I think it can probably be verified in pretty short order
+> Tucker Carlson said enough text messages existed that he thought Kirk's views could probably be verified quickly.
 
 ## Attribution
 
@@ -24,8 +24,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:45:04](/episodes/ep-2WEHTk0Xewg.md#t-00-44-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2704);return false;">Play</a>
+**Timestamp:** [00:45:04](/episodes/ep-2WEHTk0Xewg.md#t-00-44-30) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2704s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And enough text messages exist that I think it can probably be verified in pretty short order—not that it needs to be because that is true
 

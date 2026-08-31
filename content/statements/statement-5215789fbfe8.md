@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:02:06](/episodes/ep-rupRLXmSndU.md#t-00-01-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(126);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=126s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have an idea that it may have been guaranteed from like war, war profiteering, war in Iran, particularly
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:39:43](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2383);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2383s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I just don't like it. I can't explain it. I couldn't explain it. Well, lo and behold, I'm glad that we shared that sentiment because then we got a string of emails from people who knew Erika (Erika Kirk) and it turns out that Erika (Erika Kirk) completely changed her signature.
 

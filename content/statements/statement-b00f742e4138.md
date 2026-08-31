@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,13 +24,13 @@ veracity: "true"
 - [Kash Patel](/entities/person-kash-patel.md) (person)
 - [Joe Kent](/entities/person-joe-kent.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:33:26](/episodes/ep-4JxgOclKzqg.md#t-00-33-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2006);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=2006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You have a right to look at this and go, hey, it's very strange that Kash Patel apparently shut down Joe Kent, who wanted to investigate whether or not there are foreign ties.
 

@@ -6,6 +6,11 @@ date: "1993"
 ---
 
 **Date:** 1993
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1993 documentary”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1993"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:57:27](/episodes/ep-OgRyiOAVtWU.md#event-event-1993-a-viewer-comment-said-the-1993-documenta-t-00-57-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3447);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=3447s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Watch the 1993 documentary entitled Conspiracy of Silence. It was supposed to air

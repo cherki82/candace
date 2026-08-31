@@ -1,16 +1,16 @@
 ---
-title: "Charlie Kirk said no to money right before he died, which pr..."
-description: "\"Charlie Kirk said no to money right before he died, which probably means he knew a secret right before he died\" — Candace Owens"
+title: "Owens said Charlie Kirk had said no to money right before hi..."
+description: "\"Owens said Charlie Kirk had said no to money right before his death and speculated that he probably knew a secret.\" — Candace Owens"
 statement_id: "statement-37bf3ed01fb6"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Charlie Kirk said no to money right before he died, which probably means he knew a secret right before he died
+> Owens said Charlie Kirk had said no to money right before his death and speculated that he probably knew a secret.
 
 ## Attribution
 
@@ -25,15 +25,15 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:05:43](/episodes/ep-Kmt6HgRjckU.md#t-00-04-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(343);return false;">Play</a>
+**Timestamp:** [00:05:40](/episodes/ep-Kmt6HgRjckU.md#t-00-04-59) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=340s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> We know that Charlie said no to money right before he died. I think that means he probably knew a secret right before he died.
+> We know that Charlie (Charlie Kirk) said no to money right before he died. I think that means he probably knew a secret right before he died.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

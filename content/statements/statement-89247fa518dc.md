@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:32:19](/episodes/ep-cPidFQDJLbo.md#t-00-32-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1939);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1939s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The White House Correspondents Dinner communications are very relevant, which is why we filed an FOIA request.
 

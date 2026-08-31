@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:30:25](/episodes/ep-B9TyCs-6o_0.md#t-00-29-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1825);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1825s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > First is that early morning that Egyptian plane is going to transpond from 10.05 a.m. to 11.34 a.m. This is all Utah, Mountain Standard Time, guys, okay?
 

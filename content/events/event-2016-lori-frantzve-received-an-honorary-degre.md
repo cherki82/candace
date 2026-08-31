@@ -6,6 +6,11 @@ date: "2016"
 ---
 
 **Date:** 2016
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2016 timeline context”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2016"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:11:05](/episodes/ep-_vg7ucP1E0g.md#event-event-2016-lori-frantzve-received-an-honorary-degre-t-00-11-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(665);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=665s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this is also a year that her mother is just going to receive an honorary degree conferred upon her

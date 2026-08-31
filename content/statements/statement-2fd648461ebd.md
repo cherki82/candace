@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:08:01](/episodes/ep-G3zdOeHpvS0.md#t-00-08-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(481);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=481s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, because no shot was actually taken from the Losey building. Why the feds did not conduct a standard GSR gunshot residue test when Tyler Robinson was brought in.
 

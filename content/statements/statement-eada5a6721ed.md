@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:02:23](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(143);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=143s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The guy who jumped up and started that chant, USA, USA. He goes by David Sprague, but he actually changed his name. It used to be James Rawlinson.
 

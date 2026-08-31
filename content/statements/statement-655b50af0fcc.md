@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:39:51](/episodes/ep-jsqUIkszZd0.md#t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2391);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2391s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, there has been no follow-up on that. And he forwarded me the email from the ATF. It is real. ... I have confirmed it. He is not making that up. It's really happened. He forwarded me all of the evidence for everything that he is saying, the conversations that he has had.
 

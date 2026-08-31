@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [01:06:15](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3975);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3975s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the reality, just to clarify for everyone, is that I went to Rome with my husband and my children who I am not living separately from. ... But it was a planned trip to Rome ... I did not see Aubrey (Aubrey Laitsch) I did not see Nick Fuentes I did not see David Axelrod
 

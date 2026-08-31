@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:17:08](/episodes/ep-CEF7gQRWYCE.md#t-00-16-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1028);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1028s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Susan Hamblin sued News Group newspapers, the publisher of The Sun, who had printed that Susan Hamblin had groomed and procured a 16-year-old woman to be sexually abused by Epstein and told her that Epstein would kill her and her family if she told anyone what Epstein had done. They've since removed those articles and agreed to pay her a substantial compensation.
 

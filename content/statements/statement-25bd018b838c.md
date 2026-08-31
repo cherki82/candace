@@ -22,14 +22,14 @@ veracity: "true"
 ## About
 
 - [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Little Saint James](/entities/gpe-little-saint-james.md) (gpe)
 
 ## Source
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:18:38](/episodes/ep-CEF7gQRWYCE.md#t-00-18-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There are, by the way, but they are child pornography. The reason the FBI is not releasing them is because those tapes do not include underage people with third parties on Epstein Island.
 

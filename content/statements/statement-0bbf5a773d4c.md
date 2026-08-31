@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:02:24](/episodes/ep-5autG89PW6w.md#t-00-02-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(144);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=144s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can take it or you can leave it, but Charlie (Charlie Kirk) was betrayed. I know this.
 

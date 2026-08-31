@@ -6,6 +6,11 @@ date: "1996"
 ---
 
 **Date:** 1996
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “authored in 1996”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1996"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:17:35](/episodes/ep-jTj9Ip46r4w.md#event-event-1996-a-separation-agreement-in-the-lori-and-k-t-00-17-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1055);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1055s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > featured on two separation agreements authored in 1995 and authored in 1996.

@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 88 mentions"
+description: "Bible (Works & Media) - 115 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -21,10 +21,10 @@ _Type: Works & Media_
 Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.britannica.com/topic/Bible)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18">2025-10-30 · 00:38:18</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-work-bible-t-00-54-20">2025-09-18 · 00:54:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58">2026-08-10 · 00:48:08</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>115</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,40 +33,50 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15">Bride Of Charlie: The Ties That Bind | Episode 4</a> (19 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-36-16">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (20 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18" style="--pulse-height:26%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-work-bible-t-00-54-20" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-work-bible-t-01-03-11" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-bible-t-00-35-17" style="--pulse-height:15%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-36-16" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 20 mentions" title="2025-12-12 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-work-bible-t-00-06-35" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-bible-t-00-26-55" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-17" style="--pulse-height:16%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-17" style="--pulse-height:15%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-bible-t-01-06-57" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-bible-t-00-33-44" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-bible-t-00-01-35" style="--pulse-height:32%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-bible-t-00-01-35" style="--pulse-height:30%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-bible-t-00-47-15" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32" style="--pulse-height:16%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-43-52" style="--pulse-height:21%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32" style="--pulse-height:15%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-43-52" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-bible-t-00-28-09" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 19 mentions" title="2026-03-02 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15" style="--pulse-height:95%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 19 mentions" title="2026-03-02 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-work-bible-t-00-16-06" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27" style="--pulse-height:10%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-bible-t-00-58-23" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-31-23" style="--pulse-height:26%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-35-34" style="--pulse-height:26%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 5 mentions" title="2026-05-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-02-09" style="--pulse-height:53%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 10 mentions" title="2026-06-10 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-17-29" style="--pulse-height:21%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53" style="--pulse-height:11%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26" style="--pulse-height:10%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-31-23" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-35-34" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 5 mentions" title="2026-05-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-02-09" style="--pulse-height:50%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 10 mentions" title="2026-06-10 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-17-29" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-bible-t-00-42-30" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-00-01" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-00-01" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-work-bible-t-00-54-20) | 1 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18) | 5 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-work-bible-t-01-03-11) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-work-bible-t-00-35-17) | 3 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-36-16) | 20 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-work-bible-t-00-06-35) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-bible-t-00-26-55) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14) | 5 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-17) | 3 |
@@ -99,7 +109,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (115)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -476,6 +486,101 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 </details>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:06:51](/episodes/ep-w1oqQbR_bYs.md#ent-work-bible-t-00-06-35)**
+> "...ructed me to instead read the Bible, the Sermon on the Mount."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (20 mentions)</summary>
+
+**[00:36:20](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-36-16)**
+> "...nd instead try to hide behind Bible verses."
+
+**[00:37:24](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-36-46)**
+> "...t being a mean girl and using Bible verses to qualify being mean."
+
+**[00:40:09](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-39-35)**
+> "...n her, she just pulls out the Bible, okay?"
+
+**[00:41:11](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-41-04)**
+> "Stop using the Bible as a shield for what you're doing, okay?"
+
+**[00:41:17](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-41-04)**
+> "...sorry that you don't like the Bible."
+
+**[00:41:23](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-41-04)**
+> "...sorry that you don't like the Bible."
+
+**[00:41:39](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-41-04)**
+> "... I'm sorry you don't like the Bible."
+
+**[00:41:43](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-41-04)**
+> "I actually do like the Bible."
+
+**[00:41:55](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-41-45)**
+> "...f I have a question about the Bible, I should go to my priest, not to Ali Beth Suckey..."
+
+**[00:46:32](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-45-56)**
+> "...one many, she always uses the Bible, okay?"
+
+**[00:46:37](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-45-56)**
+> "She uses the Bible."
+
+**[00:46:39](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-45-56)**
+> "Do you not like the Bible?"
+
+**[00:46:41](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-46-41)**
+> "...m sorry if you don't like the Bible."
+
+**[00:46:44](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-46-41)**
+> "...m sorry if you don't like the Bible?"
+
+**[00:46:46](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-46-41)**
+> "I'm the Bible."
+
+**[00:46:52](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-46-41)**
+> "Well, the Bible says that I don't think it's fair for you to call..."
+
+**[00:47:49](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-47-17)**
+> "You don't got to hold up a Bible when you do it."
+
+**[00:56:37](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-56-16)**
+> "...if you want to know about the Bible, if you don't want to know about biblical stuff, ..."
+
+**[00:56:48](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-00-56-16)**
+> "..., a pluck, a proverb from the Bible and start using that."
+
+**[01:02:48](/episodes/ep-6J6lRZPQ4jk.md#ent-work-bible-t-01-02-30)**
+> "You've done the fake Bible stuff."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3 mentions)</summary>
+
+**[00:35:17](/episodes/ep-Qfwr08Ebczo.md#ent-work-bible-t-00-35-17)**
+> "...f course, antithetical to the Bible."
+
+**[00:37:53](/episodes/ep-Qfwr08Ebczo.md#ent-work-bible-t-00-37-53)**
+> "...s the first five books of the Bible, okay?"
+
+**[00:43:25](/episodes/ep-Qfwr08Ebczo.md#ent-work-bible-t-00-43-11)**
+> "But to misinterpret the Bible so much that you're basically platforming and hon..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[01:03:17](/episodes/ep-YFmRH8p5lt0.md#ent-work-bible-t-01-03-11)**
+> "And the Bible is explicit about that, right?"
+
+</details>
+
+<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
 
 **[00:38:18](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18)**
@@ -484,14 +589,22 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 **[00:40:10](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-39-54)**
 > "...d to lie about what is in the Bible—to try to use it to manipulate people and tell th..."
 
-**[00:43:02](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-42-46)**
+**[00:42:56](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-42-46)**
 > "...iendship with Jonathan in the Bible."
 
 **[00:43:15](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-42-46)**
 > "...ere biblical figures from the Bible who shared a deep and profound friendship—forming..."
 
-**[00:43:41](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-43-28)**
+**[00:43:34](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-43-28)**
 > "The Bible describes Jonathan's loving David as quote, his o..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
+
+**[00:54:47](/episodes/ep-sreYYcID-QY.md#ent-work-bible-t-00-54-20)**
+> "The Bible tells us this, and it is correct."
 
 </details>
 

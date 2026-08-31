@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:15:21](/episodes/ep-SubDoZWHARo.md#t-00-14-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(921);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=921s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, I am told by Turning Point USA college students and volunteers that this has been a repeat problem, that they similarly had a very hard time moving tickets for her event in Washington, D.C. with Karoline Leavitt. They just.
 

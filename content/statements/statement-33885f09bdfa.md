@@ -28,8 +28,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2321);return false;">Play</a>
+**Timestamp:** [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-37) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=2321s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple days ago, he was at an event. It was billed as a celebration of the life of Charlie (Charlie Kirk).
 

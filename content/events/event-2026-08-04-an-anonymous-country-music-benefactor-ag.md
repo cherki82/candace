@@ -6,6 +6,11 @@ date: "2026-08-04"
 ---
 
 **Date:** 2026-08-04
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “this morning”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-08-04"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:31:25](/episodes/ep-1CFDtD0IgEg.md#event-event-2026-08-04-an-anonymous-country-music-benefactor-ag-t-00-31-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1885);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1885s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he is going to pay for the entire thing which is just like incredible

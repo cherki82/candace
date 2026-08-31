@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1624);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1624s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he's got a roommate who did contract work, went on to do contract work for the CIA as well. ... who was Andrew Zenger's roommate who went on to work for the CIA. ... Yes, Michael Sean Covey. That is correct. Sorry, Michael (Michael Sean Covey), to put you on blast, but yeah, he contracts with the CIA.
 

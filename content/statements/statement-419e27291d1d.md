@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:19:05](/episodes/ep-SKNJPul29zU.md#t-00-19-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1145);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=1145s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when you now have upward of 75 000 people killed in gaza and you mention that to a israel first or zionist and they respond to you immediately by saying what about october 7th what that communicates to me is you do have a problem with civilian lives being lost on a particular side but
 

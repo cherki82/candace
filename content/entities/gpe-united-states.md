@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1874 mentions"
+description: "United States (Places) - 1914 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -10,6 +10,7 @@ aliases:
   - "U.S."
   - "USA"
   - "US"
+  - "U.S.A."
 categories:
   - "country"
   - "North America"
@@ -17,7 +18,7 @@ categories:
 
 _Type: Places_
 
-**Also known as:** United States, United States of America, America, U.S., USA, US
+**Also known as:** United States, United States of America, America, U.S., USA, US, U.S.A.
 
 **Categories:** country, North America
 
@@ -28,11 +29,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38">2026-08-19 · 00:32:38</a></strong></div>
-<div><span>Episodes</span><strong>153</strong></div>
-<div><span>Mentions</span><strong>1,874</strong></div>
+<div><span>Episodes</span><strong>155</strong></div>
+<div><span>Mentions</span><strong>1,914</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>163</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>168</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,51 +43,53 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09" style="--pulse-height:22%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 10 mentions" title="2025-09-15 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-40" style="--pulse-height:30%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 14 mentions" title="2025-09-16 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-34" style="--pulse-height:11%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 5 mentions" title="2025-09-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-19-38" style="--pulse-height:28%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 13 mentions" title="2025-09-18 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19" style="--pulse-height:39%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 18 mentions" title="2025-09-19 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-25" style="--pulse-height:30%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 14 mentions" title="2025-09-16 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-30" style="--pulse-height:15%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 7 mentions" title="2025-09-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-22-38" style="--pulse-height:35%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 16 mentions" title="2025-09-18 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-23-26" style="--pulse-height:39%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 18 mentions" title="2025-09-19 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-gpe-united-states-t-00-15-13" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-united-states-t-00-37-27" style="--pulse-height:33%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 15 mentions" title="2025-09-23 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-united-states-t-00-23-58" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27" style="--pulse-height:24%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 11 mentions" title="2025-09-25 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-united-states-t-00-23-58" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27" style="--pulse-height:22%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 10 mentions" title="2025-09-25 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14" style="--pulse-height:24%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 11 mentions" title="2025-09-29 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-25-18" style="--pulse-height:28%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 13 mentions" title="2025-09-30 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-18-55" style="--pulse-height:28%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 13 mentions" title="2025-10-01 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-12" style="--pulse-height:26%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 12 mentions" title="2025-10-02 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-24-38" style="--pulse-height:33%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 15 mentions" title="2025-09-30 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-19-18" style="--pulse-height:30%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 14 mentions" title="2025-10-01 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-04" style="--pulse-height:26%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 12 mentions" title="2025-10-02 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-united-states-t-00-46-12" style="--pulse-height:24%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 11 mentions" title="2025-10-06 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23" style="--pulse-height:46%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 21 mentions" title="2025-10-07 · 21 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-09-00" style="--pulse-height:37%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 17 mentions" title="2025-10-08 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52" style="--pulse-height:26%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 12 mentions" title="2025-10-09 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-05-52" style="--pulse-height:17%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 8 mentions" title="2025-10-27 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20" style="--pulse-height:28%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 13 mentions" title="2025-10-28 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-10-33" style="--pulse-height:39%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 18 mentions" title="2025-10-29 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40" style="--pulse-height:50%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 23 mentions" title="2025-10-07 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-08-53" style="--pulse-height:43%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 20 mentions" title="2025-10-08 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20" style="--pulse-height:30%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 14 mentions" title="2025-10-09 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-05-52" style="--pulse-height:22%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 10 mentions" title="2025-10-27 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 15 mentions" title="2025-10-28 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-10-33" style="--pulse-height:43%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 20 mentions" title="2025-10-29 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-12-29" style="--pulse-height:30%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 14 mentions" title="2025-10-30 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-united-states-t-00-04-51" style="--pulse-height:78%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 36 mentions" title="2025-10-31 · 36 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-00-46" style="--pulse-height:41%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 19 mentions" title="2025-11-03 · 19 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26" style="--pulse-height:35%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 16 mentions" title="2025-11-04 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-02-55" style="--pulse-height:24%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 11 mentions" title="2025-11-05 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00" style="--pulse-height:52%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 24 mentions" title="2025-11-06 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23" style="--pulse-height:35%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 16 mentions" title="2025-11-04 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-03-14" style="--pulse-height:28%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 13 mentions" title="2025-11-05 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00" style="--pulse-height:57%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 26 mentions" title="2025-11-06 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-07-09" style="--pulse-height:35%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 16 mentions" title="2025-11-08 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35" style="--pulse-height:28%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 13 mentions" title="2025-11-10 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46" style="--pulse-height:26%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 12 mentions" title="2025-11-12 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32" style="--pulse-height:22%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 10 mentions" title="2025-11-13 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-30" style="--pulse-height:35%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 16 mentions" title="2025-11-15 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-18-55" style="--pulse-height:67%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 31 mentions" title="2025-11-17 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35" style="--pulse-height:30%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 14 mentions" title="2025-11-10 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 15 mentions" title="2025-11-12 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32" style="--pulse-height:24%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 11 mentions" title="2025-11-13 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-23" style="--pulse-height:39%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 18 mentions" title="2025-11-15 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-18-55" style="--pulse-height:72%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 33 mentions" title="2025-11-17 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 15 mentions" title="2025-11-18 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-04" style="--pulse-height:35%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 16 mentions" title="2025-11-19 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-01" style="--pulse-height:33%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 15 mentions" title="2025-11-19 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#t-00-00-01" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-05-45" style="--pulse-height:28%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 13 mentions" title="2025-11-21 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-united-states-t-00-05-08" style="--pulse-height:50%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 23 mentions" title="2025-12-01 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-united-states-t-00-00-46" style="--pulse-height:85%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 39 mentions" title="2025-12-02 · 39 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-united-states-t-00-14-26" style="--pulse-height:59%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 27 mentions" title="2025-12-03 · 27 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34" style="--pulse-height:30%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 14 mentions" title="2025-12-05 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-21-14" style="--pulse-height:43%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 20 mentions" title="2025-12-05 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27" style="--pulse-height:30%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 14 mentions" title="2025-12-08 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-34" style="--pulse-height:22%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 10 mentions" title="2025-12-09 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45" style="--pulse-height:41%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 19 mentions" title="2025-12-10 · 19 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 14 mentions" title="2025-12-20 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34" style="--pulse-height:9%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-21-14" style="--pulse-height:46%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 21 mentions" title="2025-12-05 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27" style="--pulse-height:35%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 16 mentions" title="2025-12-08 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-29" style="--pulse-height:26%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 12 mentions" title="2025-12-09 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07" style="--pulse-height:43%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 20 mentions" title="2025-12-10 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-united-states-t-00-47-53" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-gpe-united-states-t-00-11-54" style="--pulse-height:11%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 5 mentions" title="2025-12-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27" style="--pulse-height:9%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 15 mentions" title="2025-12-20 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36" style="--pulse-height:17%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 8 mentions" title="2026-01-05 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41" style="--pulse-height:37%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 17 mentions" title="2026-01-06 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-united-states-t-00-36-05" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
@@ -200,51 +203,53 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#t-00-00-37) | 2 |
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09) | 10 |
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-40) | 14 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-34) | 5 |
-| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-19-38) | 13 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19) | 18 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-25) | 14 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-30) | 7 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-22-38) | 16 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-23-26) | 18 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-united-states-t-00-15-13) | 8 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-united-states-t-00-37-27) | 15 |
-| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-united-states-t-00-23-58) | 1 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27) | 11 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-united-states-t-00-23-58) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27) | 10 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14) | 11 |
-| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-25-18) | 13 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-18-55) | 13 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-12) | 12 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-24-38) | 15 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-19-18) | 14 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-04) | 12 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-united-states-t-00-46-12) | 11 |
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23) | 21 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-09-00) | 17 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52) | 12 |
-| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-05-52) | 8 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20) | 13 |
-| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-10-33) | 18 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40) | 23 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-08-53) | 20 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20) | 14 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-05-52) | 10 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20) | 15 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-10-33) | 20 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-12-29) | 14 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-united-states-t-00-04-51) | 36 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-00-46) | 19 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26) | 16 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-02-55) | 11 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00) | 24 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23) | 16 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-03-14) | 13 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00) | 26 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-07-09) | 16 |
-| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35) | 13 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46) | 12 |
-| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32) | 10 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-30) | 16 |
-| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-18-55) | 31 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35) | 14 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46) | 15 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32) | 11 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-23) | 18 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-18-55) | 33 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00) | 15 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-04) | 16 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-01) | 15 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-00-01) | 5 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-05-45) | 13 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-united-states-t-00-05-08) | 23 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-united-states-t-00-00-46) | 39 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-united-states-t-00-14-26) | 27 |
-| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34) | 14 |
-| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-21-14) | 20 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27) | 14 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-34) | 10 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45) | 19 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27) | 1 |
-| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53) | 14 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34) | 4 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-21-14) | 21 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27) | 16 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-29) | 12 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07) | 20 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-united-states-t-00-47-53) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-gpe-united-states-t-00-11-54) | 5 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27) | 4 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53) | 15 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36) | 8 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41) | 17 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-united-states-t-00-36-05) | 1 |
@@ -358,7 +363,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1874)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1914)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -3723,10 +3728,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:07:03](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-07-03)**
 > "not just the United States, but of course to Charlie Kirk until the very end..."
 
-**[00:43:44](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-20-50)**
+**[00:43:44](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-21-22)**
 > "...e a TPUSA alternative that is America first and not Philadelphia first to reach young A..."
 
-**[00:21:22](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-20-50)**
+**[00:21:22](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-21-22)**
 > "Open to USA residents only. That's twc.health.candace. Use co..."
 
 </details>
@@ -4308,9 +4313,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (14 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (15 mentions)</summary>
 
-**[00:47:18](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53)**
+**[00:47:17](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53)**
 > "And when you choose PureTalk as your wireless provider, you choose to support American jobs"
 
 **[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53)**
@@ -4352,115 +4357,164 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:50:35](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-50-07)**
 > "...gue to break down families to America."
 
+**[00:29:11](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53)**
+> "...lso the kits are available to U.S. residents only."
+
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
 **[00:30:47](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27)**
 > "U.S. military"
 
+**[00:22:26](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-22-01)**
+> "...ilable, I should tell you, to U.S. residents only."
+
+**[00:30:27](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27)**
+> "...th other Mexican military and U.S. military."
+
+**[00:31:38](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27)**
+> "...of who was helping out on the US side to help build the tunnel and also keep it fu..."
+
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (19 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5 mentions)</summary>
 
-**[00:03:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:11:54](/episodes/ep-es7PWdFGoFI.md#ent-gpe-united-states-t-00-11-54)**
+> "...at the memorial and said, I'm America's pastor and then had the Wikipedia updated and sai..."
+
+**[00:35:02](/episodes/ep-es7PWdFGoFI.md#ent-gpe-united-states-t-00-34-55)**
+> "in the United States, now we're like, whoa, well, those darn Egyptians..."
+
+**[01:02:22](/episodes/ep-es7PWdFGoFI.md#ent-gpe-united-states-t-01-02-12)**
+> "...p that you take. May God save America and protect us all."
+
+**[01:12:27](/episodes/ep-es7PWdFGoFI.md#ent-gpe-united-states-t-01-11-57)**
+> "... Hamas because Israel and the United States asked us to."
+
+**[01:12:36](/episodes/ep-es7PWdFGoFI.md#ent-gpe-united-states-t-01-12-36)**
+> "...sounds like the most absolute United States Israel thing ever, is to ask people to help you a..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:47:53](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-united-states-t-00-47-53)**
+> "...le regenerative farms here in America so that you can feel good about what you are eati..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (20 mentions)</summary>
+
+**[00:03:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...r my husband at Turning Point USA, and it will be for the world to see, and it will..."
 
-**[00:07:21](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:07:19](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...rong defense of Turning Point USA employees who have just as a matter of fact told ..."
 
-**[00:08:26](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:08:26](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...an that somehow Turning Point USA and all of the handpicked staff that loved my hus..."
 
-**[00:09:23](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:09:23](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...r my family, my Turning Point USA family, my Charlie Kirk Show family, when you go ..."
 
-**[00:10:14](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:10:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...ssarily related turning point USA affairs, building affairs or whatever it is."
 
-**[00:13:05](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:13:05](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...rom Mar-a-Lago, Turning Point USA, since Charlie was killed, just so you guys know,..."
 
-**[00:13:53](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:13:48](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...f yourself says Turning Point USA."
 
-**[00:14:13](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:14:06](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...o be clear that Turning Point USA is my family."
 
-**[00:15:27](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:15:19](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...ple don't think Turning Point USA looks so suspicious."
 
-**[00:17:16](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
-> "Turning Point USA is an organization and Erica already had an uphil..."
+**[00:17:12](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
+> "Okay. And there, I'll shut this down right now. That's my child. This is not a child. Turning Point USA is an organization and Erika (Erika Kirk) already had an uphill battle to climb."
 
-**[00:26:48](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:26:48](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...vibe check with Turning Point USA."
 
-**[00:27:07](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:27:00](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...the chairman of Turning Point USA to answer, okay?"
 
-**[00:31:59](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:31:57](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...she's saying is turning point USA is untouchable."
 
-**[00:43:36](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:43:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "a US government plane"
 
-**[00:50:23](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:50:18](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "...ver half a million dollars to America's Warrior Partnership."
 
-**[00:50:31](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
+**[00:50:28](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
 > "... a thousand hand-sewn Made in America flags to your fellow veterans."
 
-**[00:50:52](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
+**[00:50:52](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-46)**
 > "... for your trust and God bless America."
 
-**[00:54:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
+**[00:54:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-46)**
 > "...y provided from Turning Point USA in that regard."
 
-**[00:59:07](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
+**[00:59:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-46)**
 > "That's what Turning Point USA was."
 
+**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-07)**
+> "US Air Force C37A Gulfstream is a, Gulfstream 5 is a..."
+
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (10 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (12 mentions)</summary>
 
-**[00:00:59](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-34)**
-> "he was going to run as a president of the United States"
+**[00:06:29](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-29)**
+> "... to run as a president of the United States, and he did run and he ran in 1988, just a couple..."
 
-**[00:06:04](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-34)**
-> "... and weapons throughout South America."
+**[00:09:08](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-09-08)**
+> "...chitect, and there were other U.S. Marine officers and Mexican law enforcement offic..."
 
-**[00:06:34](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-06-34)**
-> "...oing to run as a president of the United States, and he did run and he ran in 1988, just a couple..."
+**[00:10:11](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-09-51)**
+> "...art their illegal trip to the U.S."
 
 **[00:10:42](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-10-35)**
-> "...g used to funnel cocaine into the United States."
+> "...ed to funnel cocaine into the United States."
 
-**[00:11:14](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-11-14)**
+**[00:11:00](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-10-35)**
+> "...which they said came into the U.S. through the tunnel."
+
+**[00:11:14](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-10-35)**
 > "...lip is there were pictures of United States military men in that house."
 
-**[00:11:53](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-11-53)**
-> "...days after the bust, prior to the United States side getting the photos from the Mexican authorit..."
+**[00:11:37](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-10-35)**
+> "...mission's success. That said, U.S. Border Patrol members who recognized me as being ..."
 
-**[00:33:17](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-32-44)**
+**[00:11:53](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-11-53)**
+> "... after the bust, prior to the United States side getting the photos from the Mexican authorit..."
+
+**[00:12:36](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-11-53)**
+> "...ack to Fort Huachuca with the U.S. Border Patrol agent."
+
+**[00:13:49](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-11-53)**
+> "...was made with the compromised U.S. Border Patrol agent commander."
+
+**[00:33:14](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-33-05)**
 > "... and raised right here in the USA."
 
-**[00:39:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-39-29)**
+**[00:39:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-39-23)**
 > "...is, by the way, everywhere in America, I've heard there's a major influx of Ukrainians,..."
-
-**[00:52:46](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-52-32)**
-> "...infiltration at turning point USA."
-
-**[00:52:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-united-states-t-00-52-32)**
-> "... traffickers at Turning Point USA who found God."
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (14 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (16 mentions)</summary>
 
 **[00:03:54](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27)**
 > "...en employees at Turning Point USA who could be engaged in an obvious cover up at th..."
@@ -4468,8 +4522,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:06:30](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27)**
 > "Yes, we have mentioned the United States government."
 
-**[00:07:11](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27)**
-> "United States government mentioned"
+**[00:07:01](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-06-27)**
+> "to that list of agencies that aren't denying that threat because Kash (Kash Patel) recently gave an interview to Megyn Kelly and like an actual journalist and not a cutesy, weepsy influencer like Camp Migby."
 
 **[00:08:07](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-08-04)**
 > "from overseas or anywhere in America is going to be fully investigated."
@@ -4490,7 +4544,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...somebody within Turning Point USA that the night before he died, I know for a fact ..."
 
 **[00:30:07](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-29-56)**
-> "They will lose because America's last last traitors like Lindsey Graham are gettin..."
+> "They will lose because America Last traitors like Lindsey Graham are getting promoted."
 
 **[00:37:50](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-29-56)**
 > "...ade so far from Turning Point USA that we hoped it would go away."
@@ -4498,25 +4552,22 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:39:12](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-38-42)**
 > "versus right, it's America versus Germany, and they have been very good at t..."
 
-**[00:40:42](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-38-42)**
+**[00:40:42](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-39-23)**
 > "TP USA podcast to debunk things scheduled for the 15th."
 
-**[00:40:45](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-38-42)**
+**[00:40:45](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-39-23)**
 > "TP USA Amfest on the 18th."
+
+**[00:39:42](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-39-23)**
+> "...hip with Hamas is because the U.S. government asked us to establish one."
+
+**[00:39:49](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-united-states-t-00-39-23)**
+> "...ist organization in which the U.S. intelligence agencies have their hands in like, d..."
 
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (14 mentions)</summary>
-
-**[00:02:12](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
-> "...conference, but Turning Point USA says Candace cannot attend their debate by simila..."
-
-**[00:13:15](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
-> "...t the legacy of Turning Point USA as you all claim that you do, like you claim that..."
-
-**[00:16:33](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
-> "...ve to hear from Turning Point USA and stop pretending 24 hours was some like demand..."
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4 mentions)</summary>
 
 **[00:18:28](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
 > "It was not another United States military color revolution."
@@ -4524,37 +4575,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:21:54](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
 > "not just in the UK, the USA, and France, as well as in dozens of other milita..."
 
-**[00:35:19](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
-> "... destructive to Turning Point USA as an organization."
-
-**[00:35:40](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
-> "... vibe coming at Turning Point USA."
-
-**[00:35:53](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
-> "...erendum on what Turning Point USA is doing."
-
-**[00:37:17](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-21-34)**
-> "...dn't even go to turning point USA."
-
-**[00:39:07](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-38-34)**
-> "... is also reflective for Black America because so much we have been kind of transformed ..."
-
 **[00:39:37](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-39-15)**
 > "...s a darkening of mankind, and America's gonna have to wake up real quick."
-
-**[00:47:55](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-39-15)**
-> "...ssassination at Turning Point USA headquarters."
 
 **[00:52:08](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-51-42)**
 > "...son berry writes iron lady of america going max for charlie."
 
-**[00:52:15](/episodes/ep-DqGNvi36ol8.md#ent-gpe-united-states-t-00-51-42)**
-> "...o see what has happened to tp usa It makes me sick."
-
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (20 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (21 mentions)</summary>
 
 **[00:00:04](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-21-14)**
 > "...lock struck midnight last night and Cinderella's carriage turned back into a pumpkin, Turning Point USA decided it was a good time to issue a confirmation plus an ultimatum—a time and a date for our deba..."
@@ -4587,10 +4617,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "... fact that hey, isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what Hollywood's for, right? Yo..."
 
 **[00:26:28](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-26-28)**
-> "... it's said in front of a comedian. Take it away, Aesmar. (Clip: Comedian Aesmar speaking) No one in the United States should be retiring at 65 years old. Frankly, I think retirement itself is a stupid idea unless you ..."
-
-**[00:28:52](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-26-28)**
-> "... knew how to spot talent and integrity and people that wanted to make a difference for the Lord and the country. It's all just so unconvincing and emotionally manipulative. It's so obvious. Like, Charlie (Charli..."
+> "No one in the United States should be retiring at 65 years old."
 
 **[00:30:11](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-26-28)**
 > "...t physically is hurting me. The level of fakeness and gayness that we are reaching at Turning Point USA is starting to make me go, "Ow," okay? Please—I'm asking nicely—can you give us something authentic..."
@@ -4615,6 +4642,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:45:51](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-45-43)**
 > "It's not just America."
+
+**[00:21:52](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-21-14)**
+> "...r health concerns rise in the U.S. because of this."
+
+**[00:49:20](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-united-states-t-00-49-20)**
+> "...even if it's uncovered in the U.S., French and Israel were colluding and killed CK—w..."
 
 </details>
 
@@ -4953,66 +4986,63 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:02:07](/episodes/ep-sImMM04XdWY.md#t-00-02-07)**
 > "...of trauma, and not for a single second during that state of trauma did I believe that Turning Point USA would later be involved in what seems like a coverup, right? It seems like if you have to lie ever,..."
 
-**[00:32:41](/episodes/ep-sImMM04XdWY.md#t-00-31-59)**
+**[00:32:41](/episodes/ep-sImMM04XdWY.md#t-00-32-04)**
 > "...tually the fault of this Chief Long. I had a lead on this for a few weeks from within Turning Point USA. Many people obviously looking within the organization, but I wanted something a bit more solid. Th..."
 
 **[00:32:57](/episodes/ep-sImMM04XdWY.md#t-00-32-44)**
 > "... did some abnormal things that day. Personally, unless I am certain as it pertains to Turning Point USA, I try not to speak on it. But as it turns out, security people are getting fired or getting moved ..."
 
-**[00:39:45](/episodes/ep-sImMM04XdWY.md#t-00-39-41)**
+**[00:39:45](/episodes/ep-sImMM04XdWY.md#t-00-39-36)**
 > "... he protecting Dan Flood? Why isn't Dan Flood speaking? Has Dan Flood been fired from Turning Point USA? Was this actually just a propagandist mission to sit down with Sean Ryan and to lie and misreprese..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (16 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (15 mentions)</summary>
 
-**[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-04)**
+**[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-01)**
 > "... you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801. Both are live, both are at Suit..."
 
-**[00:17:24](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-04)**
+**[00:17:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-01)**
 > "...p with what is actually happening at 920 North King Street, which is the FBI, the DEA, and the USS, the United States Secret Service, and others are working together in a commercial tower. Here is the link for that pr..."
 
-**[00:18:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-04)**
+**[00:18:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-01)**
 > "...hese facts. On September 10, an Egyptian government aircraft with a history of flying to France and the United States lands at a small Delaware airport under a French company maintenance pretext that doesn't actually ..."
 
-**[00:18:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-04)**
+**[00:18:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-18-01)**
 > "...t has been a federal resident office since at least 1997, and today it houses the DEA, the FBI, and the United States Secret Service all at the same address. The hangar the plane would have used is controlled through ..."
 
-**[00:20:31](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-20-11)**
+**[00:20:31](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-19-59)**
 > "...rcraft would hopscotch across America to remote cities if its purpose was just servicin..."
 
-**[00:25:20](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-08)**
+**[00:25:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-24-58)**
 > "...d to perfection for 21 days. All of Riverbend Ranch's cattle were born and raised right here in the USA. They never use growth hormones or antibiotics. And the beef is processed right at the ranch in the..."
 
-**[00:26:08](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-51)**
+**[00:26:08](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-38)**
 > "...ny. Introducing American-made ivermectin. It's safe, it's trusted, and it is produced right here in the United States. Ivermectin has been prescribed globally for more than 30 years and even earned the Nobel Prize in ..."
 
-**[00:28:09](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-51)**
+**[00:28:03](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-38)**
 > "...ottsdale time. I am curious about who was on that plane because we can attach that to Turning Point USA. Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have giv..."
 
-**[00:28:15](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-51)**
+**[00:28:15](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-38)**
 > "... curious about who was on that plane because we can attach that to Turning Point USA. Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point..."
 
-**[00:28:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-51)**
-> "...is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA and that flight feels very important to me. Next flight is a Beechcraft that departed Scottsdale at..."
-
-**[00:30:14](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-51)**
+**[00:30:14](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-38)**
 > "...out how things were running that day. And so if you have information, maybe you're at Turning Point USA, at who left at what time, Turning Point headquarters, Elizabeth McCoy screamed, she grabbed her ph..."
 
-**[00:30:31](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-51)**
+**[00:30:24](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-25-38)**
 > "... And that's about 30 minutes away from the airport. If you have information inside of Turning Point USA headquarters as to who you heard or maybe you watched an interview, there were tons of interviews e..."
 
-**[00:37:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-37-20)**
+**[00:37:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-37-20)**
 > "This is how we keep America safe."
 
-**[00:42:54](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-37-20)**
-> "...ie Kirk). And then what happened was that Tim Pool, who is always invited to speak at Turning Point USA's AmFest, they cut him because of his, seemingly because of his anti-Israel or what could be interp..."
+**[00:42:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-37-20)**
+> "Like donors were getting very angry with Charlie (Charlie Kirk). And then what happened was that Tim (Tim Pool), who is always invited to speak at Turning Point USA's AmFest, they cut him because of his, seemingly because of his anti-Israel or what could be interpreted as anti-Israel rhetoric."
 
-**[00:44:08](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-37-20)**
+**[00:44:04](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-37-20)**
 > "...r the thing and talk about what's real because there was an infiltration happening at Turning Point USA. It's still happening, obviously. Charlie (Charlie Kirk) was in the way. And this is relevant. It's..."
 
-**[00:45:30](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-45-30)**
+**[00:45:30](/episodes/ep-SKGUzGHymcI.md#ent-gpe-united-states-t-00-45-23)**
 > "...ine is made with clean, clinically proven ingredients. And best of all, it's made right here in the USA by a company that is built on our values, faith, family, and of course, freedom. So finally, you ca..."
 
 </details>
@@ -5020,7 +5050,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (15 mentions)</summary>
 
-**[00:00:02](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
+**[00:00:00](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
 > "Rob McCoy (Pastor Rob McCoy), America's pastor."
 
 **[00:00:06](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
@@ -5029,10 +5059,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:01:26](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
 > "...r this year. So their filing would have been due on Saturday, this last Saturday, for Turning Point USA. And it is possible that they did file it on Saturday and maybe it's being processed. It would have..."
 
-**[00:20:00](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
+**[00:19:55](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
 > "... to have a major, major, major scoop tomorrow about what's happening on the inside of Turning Point USA. I just want to triple-, quadruple-confirm, but we need to focus our attention on each and every pl..."
 
-**[00:20:20](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
+**[00:20:18](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
 > "... at eight local time and landed at about 10 a.m. local time into Provo was owned by a Turning Point USA donor, T.W. Lewis. Actually, Turning Point USA is featured on T.W. Lewis's foundation website as so..."
 
 **[00:20:35](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
@@ -5041,34 +5071,34 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:23:53](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
 > "... 800-795-1210 or visit americanfinancing.net/Owens—americanfinancing.net/Owens. Well, Turning Point USA is finally dropping some receipts. Kind of—not really—but it's more than we've received thus far, w..."
 
-**[00:31:54](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
+**[00:31:52](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-00-00)**
 > "...eipt. Next up, we have Blake Neff. Obviously, you guys will recall Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy when the shot rang out. And he—Blake ..."
 
-**[00:38:08](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-37-46)**
+**[00:38:04](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-37-57)**
 > "Moving on to the pastor—America's pastor—Rob McCoy."
 
-**[00:38:37](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-38-23)**
+**[00:38:37](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-38-37)**
 > "So America's Pastor Rob McCoy was in Jerusalem on November 16t..."
 
-**[00:42:09](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-41-34)**
+**[00:42:09](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-42-09)**
 > "... everywhere—everywhere across America."
 
-**[00:45:19](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-45-00)**
+**[00:45:19](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-44-46)**
 > "...ine is made with clean, clinically proven ingredients. And best of all, it's made right here in the USA by a company that's built on our values: faith, family, and of course, freedom. Finally, you can st..."
 
-**[00:45:45](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-45-00)**
+**[00:45:45](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-44-46)**
 > "...nds—the Zionists and the donors who love Charlie (Charlie Kirk)—lost their ish at the Turning Point USA SAAS event last July when Tucker (Tucker Carlson) hit the stage and Charlie (Charlie Kirk) told Tuc..."
 
-**[00:46:00](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-45-00)**
+**[00:46:00](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-44-46)**
 > "...ously our relationship is not America-first with Israel—and that caused a donor meltdow..."
 
-**[00:52:22](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-45-00)**
+**[00:52:22](/episodes/ep-581dILVcEE4.md#ent-gpe-united-states-t-00-44-46)**
 > "...es, "I find it insane how influencers Tim Pool were speaking up against you regarding Turning Point USA and you no longer being invited to AmFest." Apparently he said something hurtful, and they said he ..."
 
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (31 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (33 mentions)</summary>
 
 **[00:10:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-18-55)**
 > "...that into a slight against Erika rather than more obviously suggesting that people at Turning Point USA betrayed him, which Erika Kirk was not an employee of leading up to his death. Why were they doing ..."
@@ -5094,26 +5124,26 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:23:51](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-18-55)**
 > "... yes or no question. And answer it carefully, please, Andrew Kolvet, spokesperson for Turning Point USA, because there was something very specific, Andrew, that you told me that happened when you arrived..."
 
-**[00:32:41](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-18-55)**
+**[00:32:41](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-30-21)**
 > "... dot there. And like I said, there was more I know about those planes, but your move, Turning Point USA, because that's the last time you're gonna have me gaslit about something and sit by idly and prete..."
 
-**[00:34:07](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-34-07)**
-> "... what they had to say. (Clip: Wolves and Finance) Let's go look at the 990 forms that Turning Point USA submits to the IRS every year. These contain their annual financial statements. When you look at th..."
+**[00:34:07](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-30-21)**
+> "Let's go look at the 990 forms that Turning Point USA submits to the IRS every year."
 
-**[00:34:27](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-34-07)**
+**[00:34:27](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-30-21)**
 > "...e forms, there are some very strange anomalies. Several of the 990 forms are missing. Turning Point USA lists four related entities. There is Turning Point USA, Turning Point Endowment, Turning Point Act..."
 
-**[00:34:30](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-34-07)**
+**[00:34:30](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-30-21)**
 > "...of the 990 forms are missing. Turning Point USA lists four related entities. There is Turning Point USA, Turning Point Endowment, Turning Point Action, and America's Turning Point. All different organiza..."
 
-**[00:34:40](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-34-07)**
+**[00:34:40](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-30-21)**
 > "...zations do slightly different things. The Form 990 for fiscal year 2024 is posted for Turning Point USA, but it is missing for all the other three organizations. It looks like it was never turned in. Thi..."
 
-**[00:37:02](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-34-07)**
+**[00:37:02](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-30-21)**
 > "...h. And that is completely abnormal. And he is correct. If you go back and you look at Turning Point USA's filings before, they always file all of them at the same time. So this is unusual that they've le..."
 
 **[00:37:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
-> "...isten. Let us look at the one financial statement we do have for fiscal year 2024 for Turning Point USA. Schedule I shows grants and other assistance to organizations, governments, and individuals in the..."
+> "Let us look at the one financial statement we do have for fiscal year 2024 for Turning Point USA."
 
 **[00:37:28](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...USA. Schedule I shows grants and other assistance to organizations, governments, and individuals in the United States. This schedule shows you where Turning Point is sending its money. We see that a lot of money—$8,56..."
@@ -5121,105 +5151,117 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:37:40](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...y—$8,560,625—is being sent to America's Turning Point."
 
-**[00:38:11](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-38-06)**
+**[00:38:11](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...range variances around this money. I have pulled the last five years of 990 forms for Turning Point USA. Here is a table with contributions compared with the largest expense, which are the grants from Sc..."
 
-**[00:38:39](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-38-06)**
+**[00:38:39](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...d ramping up sending money to America's Turning Point."
 
-**[00:39:04](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-38-06)**
+**[00:39:04](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...t is unethical. Do the donors know this is how Turning Point is spending their money? Turning Point USA is taking in donations and then sending the money to their endowment to invest in the stock market...."
 
-**[00:39:37](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-39-31)**
+**[00:39:37](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "....6 million—the amount sent to America's Turning Point in fiscal year 2024."
 
-**[00:39:46](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-39-31)**
+**[00:39:46](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "The amount of money sent to America's Turning Point was getting larger and larger, and ..."
 
-**[00:40:02](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-39-31)**
+**[00:40:02](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "How is this possible when America's Turning Point reports zero employees?"
 
-**[00:40:32](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-39-31)**
+**[00:40:32](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...n the fact that there was this weird psychological campaign to tell us not to look at Turning Point USA, or we're going to go to hell—essentially, they're like using a biblical passage to tell us why it'..."
 
-**[00:41:34](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-41-22)**
+**[00:41:34](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...e, why wouldn't their annual audit catch these issues? The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they..."
 
-**[00:41:41](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-41-22)**
+**[00:41:41](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...y an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch. That usua..."
 
-**[00:42:28](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-41-22)**
+**[00:42:28](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...lly not to mention this in their audit opinion. Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025—eight days after Charlie (Charlie Kirk) was murdered. She has been the CEO fo..."
 
-**[00:42:50](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-41-22)**
+**[00:42:50](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "... has lied on the 990 form, people go to jail for that. I want some explanation of why Turning Point USA sent $8.6 million to their shell company and then did not file financial statements. And Erika, I d..."
 
-**[00:43:41](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-41-22)**
+**[00:43:41](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...hat's also compelling about this video—which we didn't show—is that he clarifies that Turning Point USA actually decreased their staff—the 501(c)(3) arm—by 33%. So there was a 33% staff reduction, and ye..."
 
-**[00:44:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-41-22)**
+**[00:44:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
 > "...asking them. Okay, we're going to keep asking them because I know there are snakes at Turning Point USA, and I'm going to reveal more to you guys tomorrow. First, take a quick break, and we'll be back wi..."
 
 **[00:52:54](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-52-19)**
 > "...alled Flock of automated license plate readers that are dotted throughout pretty much every town in the United States. Let's go. Let's go. Let's go. I looked up the locations. There are some somewhat near UVU as well...."
 
+**[00:30:52](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-30-21)**
+> "...r health concerns rise in the U.S. because of this, and there's one trusted solution..."
+
+**[00:50:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-united-states-t-00-37-22)**
+> "US Flagpole Guy writes: mommy max for the wrong side..."
+
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (16 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (18 mentions)</summary>
 
-**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-30)**
+**[00:03:46](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-23)**
 > ".... We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States—and my sense... which every Christian Zionist influencer under the sun is trying to ward me off of...."
 
-**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-30-07)**
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-29-53)**
 > "... like a button was pressed in America—"
 
-**[00:31:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-30-07)**
+**[00:31:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-29-53)**
 > "...woke up—or they said it was just so strange that everything was about faith. But like Turning Point USA was originally remarketing capitalism. And I remember you and Charlie (Charlie Kirk) running around..."
 
 **[00:33:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-33-25)**
 > "...ther U.S. ranches and the hundreds of American families who work on those ranches. It's born in the USA, raised in the USA, and processed right here in the USA. The meat is aged to perfection for 21 days..."
 
-**[00:48:44](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+**[00:48:41](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "...ine is made with clean, clinically proven ingredients. And best of all, it's made right here in the USA by a company that is built on our values: faith, family, and freedom. Finally, you can stop support..."
 
-**[00:49:13](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+**[00:49:08](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "... off your entire order. That's N-I-M-I skincare.com. I also want to tell you guys about Tax Network USA because if you owe the IRS back taxes, they can garnish your wages. They can levy your bank account..."
 
-**[00:49:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+**[00:49:24](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "... retirement or take your home. Do not let the IRS target you. Call the professionals at Tax Network USA. Their tax lawyers and enrolled agents are experts in powerful programs that may even help you elim..."
 
-**[00:49:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:49:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "...agents are experts in powerful programs that may even help you eliminate your tax debt. Tax Network USA is rated A+ and has saved over $1 billion for their clients. So whether you owe a few thousand or a..."
 
-**[00:49:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:49:52](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "...all. You should act now while you still have the options. For a free consultation, call Tax Network USA today at 1-800-958-1000, or you can visit tnusa.com slash Candace. Don't let the IRS be the first t..."
 
-**[00:55:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:55:40](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "...er it on this show. Most of all, when I start to recognize that something happened at Turning Point USA and the faith movement seems to be at the center of it—it's very bizarre. The lies—actually, when y..."
 
-**[00:55:52](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:55:52](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "... of it—it's very bizarre. The lies—actually, when you start to go through the list of Turning Point USA lies—so many of them surround the topic of faith, which is very strange. Like, he wasn't allowed to..."
 
-**[00:56:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:56:04](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "...important? Think about that. Why were the lies that were surrounding that came out of Turning Point USA—which you were able to debunk—so many of them were faith-focused? That's a clue. I recognized that ..."
 
-**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:56:53](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "... I'm sorry. What is that? Actually, what op are we in right now? Where the heiress to Turning Point USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Str..."
 
-**[00:57:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-22)**
+**[00:57:20](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > ".... She attacks Candace (Candace Owens). The context of calling somebody the heiress of Turning Point USA would make sense— if you're referring to Erika. That's about it. That's literally probably it becau..."
 
-**[00:57:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-22)**
+**[00:57:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-41)**
 > "...'s about it. That's literally probably it because she quite literally was the heir to Turning Point USA. Like she became the chairman. But that was—that's weird. Like that sort of stuff makes me go—what ..."
 
-**[00:57:55](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-22)**
+**[00:57:55](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-44)**
 > "The fate of the future of America—down with the two-party system. I agree fully."
+
+**[00:33:03](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-32-43)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:33:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-33-25)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
 
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (10 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (11 mentions)</summary>
 
 **[00:04:16](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32)**
 > "...s of people and their connections. I presented a list of how many times he replied to Turning Point USA. They don't know any of that. What they know is that on one episode, Candace (Candace Owens) said t..."
@@ -5251,51 +5293,63 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:42:15](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-41-56)**
 > "...e telling me that because the U.S. government or some law enforcement agency issues ..."
 
+**[00:40:43](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32)**
+> "... forces at play here that the US government have a hand in covering up?"
+
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (12 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (15 mentions)</summary>
 
-**[00:01:15](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46)**
+**[00:01:13](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46)**
 > "...everybody was freaking out when I told the truth about how long it normally takes for Turning Point USA events to come together on campus? Well, I always told you when they freak out, it's a clue. And no..."
 
-**[00:10:02](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46)**
+**[00:09:46](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46)**
 > "...n do, to my shame—and I was mad thinking about this and thinking about the effort by the neocons in the United States to draw us into another forever war with Iran. Not a defense of Iran, of course. It's merely an ack..."
 
-**[00:13:55](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-45)**
+**[00:13:55](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-39)**
 > "...rlie Kirk)'s favorite pastor, America's pastor—"I'm gonna take over for Charlie (Charlie ..."
 
-**[00:15:18](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-45)**
+**[00:15:18](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-39)**
 > "...d we should recap very quickly the verifiable lies that we have thus far been told by Turning Point USA themselves, which apparently they're trying to say it's off limits. So now you can't call out all o..."
 
-**[00:15:29](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-45)**
+**[00:15:29](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-39)**
 > "...ey're trying to say it's off limits. So now you can't call out all of these lies that Turning Point USA has told you. This is what they're trying to struggle-session us into because Erika Kirk is now the..."
 
-**[00:23:18](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-45)**
+**[00:23:18](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-13-39)**
 > ".... So if you have that information, please email moretips@candaceowens.com. Now, to my Turning Point USA people, I would like to give a special shout-out to Dylan Erickson and Austin Erickson, the bros th..."
 
-**[00:27:13](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-26-39)**
+**[00:27:13](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-26-55)**
 > ".... ranches and the hundreds of American families who work on those ranches as well. It's born in the USA, raised in the USA, and it's processed right here in the USA. Their meat is aged to perfection for ..."
 
-**[00:36:47](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-36-22)**
+**[00:36:45](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-36-45)**
 > "...tor of the FBI who represents America on the world stage, right?"
 
-**[00:42:09](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-36-22)**
+**[00:42:09](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-36-45)**
 > "...e videos for PragerU. You are not required to be on X to sing the national anthem for Turning Point USA. Get off of the internet if you do not have it within you the courage to withstand Elijah Schaffer ..."
 
-**[00:43:50](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-43-39)**
+**[00:43:47](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-43-22)**
 > "...etalk.com/owens and switch to America's wireless company, Pure Talk."
 
-**[00:48:04](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-43-39)**
+**[00:48:04](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-43-22)**
 > "...oing and saying and texting. And I just have a file of all of it because of people at Turning Point USA, and they don't care. They want nothing but the truth, and they know they're not getting it, which ..."
 
-**[00:55:50](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-43-39)**
+**[00:55:50](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-43-22)**
 > "...hich is incredibly interesting. And then on Friday, we are going to be speaking about Turning Point USA financials. So keep it locked here. We will see you guys tomorrow. We will see you guys tomorrow."
+
+**[00:26:39](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-26-13)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:27:01](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-26-55)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
+
+**[00:52:03](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-43-22)**
+> "...e, Australia, Canada, and the US, and I wanted to see if you had an opinion on Isr..."
 
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (13 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (14 mentions)</summary>
 
 **[00:08:21](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35)**
 > "...dropping off those pipe bombs was revealed to be a fed—more specifically, a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—w..."
@@ -5330,11 +5384,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:41:07](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35)**
 > "...oes he sound that way to you, America?"
 
-**[00:55:37](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-55-35)**
+**[00:55:37](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-52-41)**
 > "...Greek Orthodox Archdiocese of America."
 
-**[00:55:52](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-55-35)**
+**[00:55:52](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-52-41)**
 > "...name of the Lord. It doesn't make me feel good knowing that he was putting money into Turning Point USA Faith. And like I said, we are going to have some explosive revelations on Wednesday that's going t..."
+
+**[00:53:13](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-52-41)**
+> "U.S. Flagpole Guy writes, "We love you, Candace (Canda..."
 
 </details>
 
@@ -5392,169 +5449,181 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (24 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (26 mentions)</summary>
 
-**[00:00:07](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00)**
+**[00:00:00](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00)**
 > "...e podcast in the world—not in America, okay, not Europe."
 
-**[00:06:41](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00)**
+**[00:06:39](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00)**
 > "... platform to speak about how things have changed for her, how things have changed for Turning Point USA, what it's like being at the helm of the organization, what her thoughts are about what that organi..."
 
-**[00:21:25](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00)**
+**[00:21:14](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00)**
 > "...y who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right? It can't b..."
 
 **[00:21:49](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00)**
 > "... his Liberty Convocation Liberty event that he has—which is going to be sold out. And Turning Point USA—people who are directors of faith—they're going to be telling you, like, 'Mikey's got what it takes..."
 
-**[00:27:22](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:27:22](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "... ranches and the hundreds of American families who work on those ranches as well. It is born in the USA, raised in the USA, processed right here in the USA. The meat is aged to perfection for 21 days, an..."
 
-**[00:32:29](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:32:29](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...le of that is this morning. So yesterday I said to you guys—as a person who worked at Turning Point USA, who toured with Charlie (Charlie Kirk) the most, okay? There's a single person who can say, "I hea..."
 
-**[00:32:37](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:32:37](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...(Charlie Kirk) the most, okay? There's a single person who can say, "I headlined more Turning Point USA campus tours than Candace Owens." I know what I'm talking about, right? It's a very strange thing t..."
 
-**[00:33:16](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:33:16](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...it's a very long process because the administrations at these campuses naturally hate Turning Point USA in particular because Charlie (Charlie Kirk) started the organization to disrupt college campuses. ..."
 
-**[00:34:15](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:34:15](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...was, okay, at the end of July; school was not in session. And then it gets honored by Turning Point USA immediately. And then it's on the calendar. Could you imagine the university getting that email? Th..."
 
-**[00:36:36](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:36:36](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...ointed out that's not what Candace said. It's a request that went from UVU chapter to Turning Point USA. She says: "Some of you guys are struggling. No venue yet, two months out." There's clearly a venue..."
 
-**[00:37:33](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:37:33](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "... something that's so far off the mark. At least Allie's showing something relevant to Turning Point USA—even though she maybe didn't watch what I said or she's confused about what the conversation was. I..."
 
-**[00:39:21](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:39:20](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...nd here's a picture of it—she's comparing this—70 people that attended this debate—to Turning Point USA hosting a debate with thousands of people, sometimes a vice president, sometimes a president. Like,..."
 
-**[00:39:41](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:39:41](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...me the information of somebody making a request and having it instantly be honored at Turning Point USA—which runs like a machine. Absolutely. But these events are big. Okay: ambulances are required. The..."
 
-**[00:41:53](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:41:53](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...e gonna be protests. They will burn you in effigy—as they did to Michael Knowles at a Turning Point USA event. So there has to be certain parameters that are set to allow these particular events to happe..."
 
-**[00:45:26](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:45:17](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...ld like to—to debate what I have presented thus far in addition to me telling you how Turning Point USA operates their events. I'm happy to do that and bring the evidence of what I'm saying. That always ..."
 
-**[00:46:03](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:46:02](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...ybe get into it: Alex Clark needs a raise. I don't even know what she's doing over at Turning Point USA. This gets back into—you know—Erika Kirk as a CEO. People are... We watched her lie, okay? We watch..."
 
-**[00:48:02](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:48:03](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...irk). And we heard these things from his father. We heard these things from people at Turning Point USA. And if you're looking for a fact: he took over for Charlie (Charlie Kirk)—who was slated to speak ..."
 
-**[00:48:13](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:48:05](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...rk also threw shade at us, and it's kind of incredible that she said this working for Turning Point USA. Here's what she wrote. "Oh, on every podcast tribute episode I did about Charlie (Charlie Kirk), I..."
 
-**[00:50:29](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:50:29](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "... you don't tell lies about things that took place—about things that were happening at Turning Point USA, at the reason why Charlie (Charlie Kirk) wanted a Doge—as she did. "Oh, we do this every—" No: you..."
 
-**[00:52:16](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-16)**
+**[00:52:16](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
 > "...And so you just lied to cover up the truth about where Charlie (Charlie Kirk) was at. Turning Point USA is telling a lot of lies. They're engaging in a cover-up. I said it; I am putting my name on that. ..."
 
-**[00:54:11](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-53-50)**
+**[00:54:11](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-53-44)**
 > "...ine is made with clean, clinically proven ingredients. And best of all: it's made right here in the USA by a company built on our values—faith, family, and of course freedom. Finally, you can stop suppor..."
 
-**[00:55:04](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-53-50)**
+**[00:55:04](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-53-44)**
 > "...e should focus our attention on how that event came together. If you work for the UVU Turning Point USA chapter and you would like to come forward, please email us at moretips@candaceowens.com and let us..."
 
-**[00:55:25](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-53-50)**
+**[00:55:21](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-53-44)**
 > "...pe you're—no, no: the other one where she's like, "I don't know the inner workings at Turning Point USA," but here it is. "I don't have direct knowledge, but I assume there are non-disparagement agreemen..."
 
 **[00:58:25](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-57-54)**
 > "...very day. And we obviously knew that we had become in like the top three podcasts pretty quickly in the United States. But when you're fighting and you're building and you're constantly under pressure—you're constantl..."
 
+**[00:26:34](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-26-22)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:27:10](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-27-02)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
+
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (11 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (13 mentions)</summary>
 
-**[00:01:57](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-02-55)**
+**[00:01:54](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-03-14)**
 > "...ny sense." I can't explain to you why it doesn't make sense because I've been through Turning Point USA, but every little micro change is sending me in this moment. It's a very personal thing. I know how..."
 
-**[00:03:31](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-02-55)**
+**[00:03:27](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-03-14)**
 > ".... We actually also split doing certain locations because they want to do as many locations all over the United States as possible. And April of 2024 is when our campus events began. I'm now going to show you an email ..."
 
-**[00:04:56](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-04-56)**
+**[00:04:56](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-04-30)**
 > "... they would sort of roll them over and revisit those campuses—trying to hit all of the corridors of the United States the following semester, which would be in the fall. They would go backwards. You don't instantly ge..."
 
-**[00:05:11](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-04-56)**
+**[00:05:09](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-04-30)**
 > "...n the fall. They would go backwards. You don't instantly get approved for an event at Turning Point USA. It reeks of an inside job. That is how I feel. And the more that we learn about the story, the lit..."
 
-**[00:05:19](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-04-56)**
+**[00:05:18](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-04-30)**
 > "...e learning—it becomes clearer and clearer that somehow, at some layer, at some stage, Turning Point USA is involved because they're giving us no clarity. Why? Why did this get approval so quickly? The re..."
 
-**[00:13:58](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-13-49)**
+**[00:13:53](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-13-42)**
 > "...aswamy who was not wearing the Israeli pin. I'm like, "What are you—you're running for president of the United States. What are you doing wearing the Israeli flag as a pin on your jacket?" No one can answer these ques..."
 
 **[00:28:18](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-28-06)**
 > ".... ranches and the hundreds of American families who work on those ranches as well. It's born in the USA, raised in the USA, processed right here in the USA. The meat is aged to perfection for 21 days. An..."
 
-**[00:29:32](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-29-32)**
+**[00:29:30](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-29-30)**
 > "...frared sauna all in one. It's your personal wellness sanctuary. Plus, it's all handmade here in the USA with pure organic materials and zero EMFs for the ultimate detox. SaunaSpace spent over a decade pe..."
 
-**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-29-32)**
+**[00:51:25](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-29-30)**
 > "...ur administration has been infiltrated, and there are extremely evil people that are at the helm of the United States military and that are... not caring at all about American lives in my viewpoint—not taking a stance..."
 
 **[00:53:32](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-53-06)**
 > "Seven Weeks Coffee is America's pro-life coffee company on a mission to fund the ..."
 
-**[00:59:19](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-53-06)**
+**[00:59:18](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-53-06)**
 > "...insight there. Noah writes that AIPAC is going to try and stage a hostile takeover of Turning Point USA. I think that's already happened actually—and I think it had been happening for a while—and I am lo..."
+
+**[00:27:42](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-27-25)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:28:06](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-28-06)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (16 mentions)</summary>
 
-**[00:02:26](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:02:26](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "...usbands. Anyway, the thing that I realized is that Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason, he always requires an adjective. Whenever they discuss Mikey McCoy..."
 
-**[00:02:42](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
-> "... Mikey McCoy, there's an adjective before they say his name. A bunch of people in the Turning Point USA orbit described Mikey McCoy in this very unique manner. I want you to take a listen to that. Let me..."
+**[00:02:38](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
+> "Whenever they discuss Mikey McCoy, there's an adjective before they say his name. A bunch of people in the Turning Point USA orbit described Mikey McCoy in this very unique manner."
 
-**[00:06:03](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:06:03](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "...peech when he is asked specifically what he believes Mikey's future is going to be at Turning Point USA, okay? He's gonna start—you're gonna see—he's gonna answer a question. The show is Faith, the Faith..."
 
-**[00:08:36](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
-> "...k). And it is a fact that that was the number one sentiment that we received from our Turning Point USA insiders following Charlie (Charlie Kirk)'s assassination—that the, you know, supercalifragilistice..."
+**[00:08:29](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
+> "I think Mikey was promised or told or encouraged that he would become the new Charlie Kirk. And it is a fact that that was the number one sentiment that we received from our Turning Point USA insiders following Charlie Kirk's assassination—that the, you know, supercalifragilisticexpialidocious Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath, and that he seemed all too happy to assume Charlie Kirk's position."
 
-**[00:09:12](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:09:10](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "... I don't know. And I will say that beyond the sentiment that was expressed to us from Turning Point USA insiders, there are some interesting facts. Fact number one: for whatever reason, in the month—and ..."
 
-**[00:15:07](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:15:06](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "...s doing all of that and transitioning because he was anticipating some bigger role at Turning Point USA and maybe therefore planning to wind down his life in California," no. Actually, that's exactly the..."
 
-**[00:15:47](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:15:47](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "...into the mid-70s." And then it goes on to say, "When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home in Thousand Oaks and bought a home in the Phoenix area." Now, he s..."
 
-**[00:17:15](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
-> "...n our timeline. And this came from—this is a great find from Sam Parker— that is when Turning Point USA receives a request from UVU for Charlie (Charlie Kirk) to hold an event at Utah Valley. Not only do..."
+**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
+> "And this came from—this is a great find from Sam Parker— that is when Turning Point USA receives a request from UVU for Charlie Kirk to hold an event at Utah Valley."
 
-**[00:18:05](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:18:05](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "...record provided. It's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA. The applicants answer standard questions about time, place, and a description of the event. Howeve..."
 
-**[00:20:41](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:20:38](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "... And all of his sicko fans in America echoed that statement, and nobody had accused the..."
 
-**[00:28:49](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-26)**
+**[00:28:49](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23)**
 > "...a lot of people running around right now. There are races—important races, they tell us—going on in the country, consequential races that are happening. And people online are being somewhat accusatory, upset tha..."
 
-**[00:36:32](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-35-53)**
+**[00:36:29](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-35-53)**
 > "Let's do the best for America."
 
-**[00:39:38](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-39-05)**
+**[00:39:38](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-35-53)**
 > "...o answer some of your comments. All right, you guys—jumping in here to remind you about Tax Network USA because there are tons of people who owe back taxes, and some people have not even filed their tax ..."
 
-**[00:40:03](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-39-42)**
+**[00:40:03](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-35-53)**
 > "... bank accounts. They can even seize your property. But there is in fact help available. Tax Network USA is a nationwide tax firm, and they've helped taxpayers save over $1 billion in tax debt. They have ..."
 
-**[00:40:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-40-27)**
+**[00:40:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-35-53)**
 > "...can call 1-800-958-1000 for a 100% free consultation. In one short call, the experts at Tax Network USA can guide you through some simple questions to determine how much you could be saving. So take acti..."
 
-**[00:47:26](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-47-26)**
+**[00:47:18](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-47-18)**
 > "...orrosion—I think it's because America has married Zionism. Like, I truly do believe tha..."
 
 </details>
@@ -5563,13 +5632,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (19 mentions)</summary>
 
 **[00:00:46](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-00-46)**
-> "...cuss it. And lastly, Kash Patel (Kash Patel) is now officially the most embarrassing human being in the United States. Welcome back to Candace. So obviously a major theme of this podcast is that everything truly is fa..."
+> "And lastly, Kash Patel is now officially the most embarrassing human being in the United States."
 
 **[00:04:50](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-04-45)**
 > "...most dangerous anti-Semite in America."
 
 **[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-04-45)**
-> "...hey wanted—again—Tucker Carlson (Tucker Carlson) to be gone, no longer allowed on the Turning Point USA stage because Tucker (Tucker Carlson) is the natural heir to the populist movement. And they want h..."
+> "They wanted—again—Tucker Carlson to be gone, no longer allowed on the Turning Point USA stage because Tucker (Tucker Carlson) is the natural heir to the populist movement."
 
 **[00:13:17](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-12-52)**
 > "...because Jewish individuals in America fought for that."
@@ -5581,7 +5650,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...Shapiro) was operating behind the scenes to stop him and sort of hinder the growth of Turning Point USA in our early days—right when things—when we were kind of coming up together, or me and Charlie (Cha..."
 
 **[00:22:13](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-13-35)**
-> "...w I feel about lies. Fortunately, Andrew Kolvet (Andrew Kolvet), the spokesperson for Turning Point USA, instantly came out and slapped down the rumor. Andrew Kolvet (Andrew Kolvet) wrote this: "This is ..."
+> "Fortunately, Andrew Kolvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor."
 
 **[00:25:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
 > "...s ingredients, there's sugar in practically everything. We are seeing liver health concerns rise in the United States because of this, and there is one trusted solution out there that I trust to take care of my liver ..."
@@ -5599,13 +5668,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...reas that you can control the transparency, I think doing that would be beneficial to Turning Point USA because I don't think Turning Point USA is going to survive if they continue down this path of, you..."
 
 **[00:33:46](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
-> "...(John Mappin) a loser. I don't think that that's the correct messaging to come out of Turning Point USA. And there is something that my husband always says to me, and I don't know if he got it from someb..."
+> "I don't think that that's the correct messaging to come out of Turning Point USA."
 
 **[00:34:37](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
 > "... don't believe a single thing that happened that day." "We do not trust the donors at Turning Point USA." "We've got no messaging about whether those donors were removed." "Um, we want Turning Point to h..."
 
 **[00:35:32](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-35-20)**
-> "..., I am everyone right now when I say that Kash Patel (Kash Patel) is the most embarrassing human in the United States. Embarrassing for two reasons. One, Charlie Kirk (Charlie Kirk) was a big supporter of Kash Patel (..."
+> "I am everyone right now when I say that Kash Patel is the most embarrassing human in the United States."
 
 **[00:38:10](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-37-52)**
 > "America's so serious."
@@ -5740,49 +5809,49 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:00:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-12-29)**
 > "And now they're up in arms demanding that Tucker (Tucker Carlson) gets canceled from all future Turning Point USA conferences."
 
-**[00:06:51](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-12-29)**
+**[00:06:50](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-12-29)**
 > "... and they were turned home to Provo. Okay. Some people thought, did they pick up like Turning Point USA people? And return back. We don't know at all actually who was on that flight manifest. In theory, ..."
 
 **[00:12:29](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-12-29)**
 > ".... I reported that even more curiously that Egyptian military plane had previously only ever been to the United States twice in that past year. And both times it was in the lead-up—in the weeks leading up to Charlie (C..."
 
-**[00:21:04](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-21-04)**
+**[00:20:58](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-20-34)**
 > "...ry exercise between Egypt and America for some unknown reason, and Provo, Utah was the ..."
 
-**[00:22:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-21-04)**
+**[00:22:11](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-20-34)**
 > ".... Trump (Donald Trump) would be asking questions. His sons would be asking questions. Turning Point USA executives would be asking questions. But instead, Kash Patel is saying, don't ask questions. Every..."
 
-**[00:27:35](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-27-20)**
+**[00:27:33](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-27-14)**
 > "...flight in its past flights to America had landed on American air bases, I didn't mean t..."
 
-**[00:33:57](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-27-20)**
+**[00:33:52](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-27-14)**
 > "...d. Anyways, Stop Antisemitism actually tweeted this: "CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how the Holocaust started. Jew hatred normalized."..."
 
-**[00:41:10](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-27-20)**
+**[00:41:05](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-27-14)**
 > "...ain. He fought tooth and nail to make sure that Tucker (Tucker Carlson) stayed on the Turning Point USA speaking list. That's the reality, okay? That's the reality. Those were virtually his last public w..."
 
-**[00:53:28](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-53-02)**
+**[00:53:24](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-53-24)**
 > "..., and powerfully effective. It's a focus on skin-loving ingredients—which is made right here in the USA, by the way. To order, go to NemiSkincare.com. Explore their tallow line and use my code CANDACE10 ..."
 
-**[00:59:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-58-38)**
+**[00:59:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-59-13)**
 > "...speaking about Zionists right there. Zamit writes: "Candace (Candace Owens), a tipping point in the USA." Yeah, for sure. And by the way, regarding Turning Point, I can't think of a worse executive decis..."
 
-**[01:01:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-01-00-41)**
-> "...brought that to the shores of America."
-
-**[01:01:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-01-00-41)**
+**[01:01:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-01-01-09)**
 > "...n psychology to the shores of America and into Hollywood."
 
-**[01:01:48](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-01-00-41)**
+**[01:01:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-01-01-09)**
 > "...people the courage—to tell the truth, right? They don't want Dave Smith platformed at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage. So he priva..."
 
-**[01:01:56](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-01-00-41)**
+**[01:01:53](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-01-01-09)**
 > "...d at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage. So he privately started the struggle session because he knew that when they were on stage—th..."
+
+**[00:26:20](/episodes/ep-iHav0PPzUz8.md#ent-gpe-united-states-t-00-26-00)**
+> "...or $48 off. Kits available to U.S. residents only, unfortunately."
 
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (18 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (20 mentions)</summary>
 
 **[00:00:02](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-10-33)**
 > "All right, you guys. Where to begin? Well, the Turning Point USA Wikipedia entry got a very interesting update the night after Charlie Kirk was murdered. A certain ..."
@@ -5838,10 +5907,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:51:48](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-45-37)**
 > "...use. I know that I am not supported by the donors—the big donors—the Jewish donors at Turning Point USA who are pressuring Charlie. But I know that none of that matters. None of that actually matters. An..."
 
+**[00:23:43](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-23-23)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:24:05](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-united-states-t-00-24-05)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
+
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (13 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (15 mentions)</summary>
 
 **[00:00:03](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20)**
 > "All right, you guys, so here's what's going on today. Turning Point USA has issued a statement, a couple of statements actually. For one, they say the reason that Mikey Mc..."
@@ -5850,16 +5925,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "... and wanted to facilitate certain meetings. I took it again as a sign of help. On the Turning Point USA side, Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into ju..."
 
 **[00:16:23](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20)**
-> "...t has impacted the world—like true friends of Charlie who stood up and said that what Turning Point USA is doing is wrong. So yeah, we had an event, and obviously I first laid eyes on my husband, and I h..."
+> "And it's kind of beautiful that the person that Charlie (Charlie Kirk) reached out to and said, "Can you put together just any place for Candace (Candace Owens) and I to speak at?" was John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong."
 
 **[00:18:31](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20)**
 > "...eople think about—at least in America—is Hitler."
 
 **[00:22:00](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20)**
-> "... my show. I think my first episode with PragerU was in March. Charlie still climbing. Turning Point USA, as you know, became a behemoth. I remember speaking at their conferences and saying that they were..."
+> "I think my first episode with PragerU was in March. Charlie (Charlie Kirk) still climbing. Turning Point USA, as you know, became a behemoth."
 
 **[00:22:31](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20)**
-> "...heir great-grandfathers were. And the one thing that has shocked me about Charlie and Turning Point USA is just how many military characters were surrounding him. Even in September 10th—people that were ..."
+> "And the one thing that has shocked me about Charlie (Charlie Kirk) and Turning Point USA is just how many military characters were surrounding him."
 
 **[00:35:37](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-18-20)**
 > "...us at tips@ CandaceOwens.com. Okay, we're gonna take a brief break before we get into Turning Point USA's response to Mikey McCoy's actions. All right, you guys, jumping in to tell you about one of my fa..."
@@ -5868,7 +5943,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...ver 260 other U.S. ranches and the hundreds of American families who work on those ranches. Born in the U.S.A., it's raised in the U.S.A., it's processed right here in the U.S.A. The meat is aged to perfectio..."
 
 **[00:42:26](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-37-13)**
-> "...omes out of the event, he's throwing hats. That tracks. That definitely is a thing at Turning Point USA. You follow the person to get behind the scenes. I would have Savannah do this before Mikey McCoy d..."
+> "That tracks. That definitely is a thing at Turning Point USA."
 
 **[01:00:52](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-37-13)**
 > "...it out at pplx.ai/Candace. Again, that's pplx.ai/Candace. Also, I'd tell you guys about Tax Network USA because you might be somebody who owes back taxes. You might not have filed your tax returns just y..."
@@ -5882,10 +5957,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[01:03:06](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-01-02-49)**
 > "...ple, pure, and powerfully effective. It's a focus on skin-loving ingredients made right here in the USA. So if you'd like to order, head to nemiskincare.com, explore their tallow line, and don't forget t..."
 
+**[00:37:14](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-37-13)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:37:36](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-united-states-t-00-37-13)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
+
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (8 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (10 mentions)</summary>
 
 **[00:06:04](/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-05-52)**
 > "...ng to be the president of the United States."
@@ -5911,89 +5992,101 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:46:17](/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-45-54)**
 > "...et $48 off. Kits available to U.S. residents only."
 
+**[00:29:38](/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-29-10)**
+> "It's born in the USA, raised in the USA, and processed here in the USA..."
+
+**[00:48:41](/episodes/ep-c5BcKF91iec.md#ent-gpe-united-states-t-00-48-03)**
+> "...dients made right here in the USA."
+
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (12 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (14 mentions)</summary>
 
-**[00:10:03](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:10:03](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...t Andrew Kolvet in that video. A lot of people were like, "Is this Andrew Kolvet from Turning Point USA hiding under a hat?" It is not true. I spoke to Andrew on this actual day. He definitively flew in ..."
 
-**[00:11:11](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:11:10](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...es. It's very odd. In the immediate aftermath of the shooting, you're telling me that Turning Point USA sent around a text and said, "Nobody speak to the media"? That was his excuse, by the way, for why ..."
 
-**[00:11:28](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:11:25](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "..., but I then determined that the person doing the shoving is first and foremost not a Turning Point USA employee. He is beyond that not a student at UVU. He is not a Turning Point USA student therefore e..."
 
-**[00:11:41](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:11:36](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...not a Turning Point USA employee. He is beyond that not a student at UVU. He is not a Turning Point USA student therefore either. He was actually brought in as a volunteer, which I found to be quite stra..."
 
-**[00:12:30](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:12:29](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...us. But what do I know? I just have common sense. Now, how do I know that he is not a Turning Point USA employee and he is not a UVU or Turning Point USA student? Well, because despite him stopping a col..."
 
-**[00:14:05](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:14:05](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "... the night of, he also spoke on Fox News the very next day, which would mean—what did Turning Point USA—I don't know the answer to this; I'm asking genuinely—did they say speak to this person who's not a..."
 
-**[00:14:36](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:14:36](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "... student volunteers that were designated roles that were going to be helping pass out Turning Point USA merchandise and getting people signed up for the event. And my responsibility was when the event ac..."
 
-**[00:17:11](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:17:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...m to hold the microphone. That's supposed to be like kind of an honor at Utah events. Turning Point USA kids work really hard to put these events on. They decide who's gonna hold the microphone. They wen..."
 
-**[00:17:35](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:17:35](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...ou. I am again asking these questions publicly because we are getting no answers from Turning Point USA or the feds or anything that makes any practical sense in this scenario. Why was everything so bran..."
 
-**[00:23:00](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:22:56](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...iffany Barker on Good Morning America—vibes were weird there, okay?"
 
-**[00:33:00](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:33:00](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...it a second, I know this lawyer." This lawyer was introduced to me by Tyler Bowyer at Turning Point USA. I've worked with this lawyer. I paid this lawyer. This is crazy. So what is the pipeline between U..."
 
-**[00:57:20](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-56-52)**
+**[00:57:20](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
 > "...ncare that's dominated by foreign brands. Nimi formulates and produces everything right here in the USA. They deliver world-class quality while staying true to the values that we hold dear, which is fait..."
+
+**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
+> "...sday morning to represent the US negotiators from Israel and Hamas, and the mediat..."
+
+**[00:56:18](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-united-states-t-00-57-20)**
+> "...life organizations across the US."
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (17 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (20 mentions)</summary>
 
-**[00:09:20](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-09-00)**
+**[00:09:20](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-08-53)**
 > "...ty more broadly and safety in America."
 
-**[00:23:59](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-09-00)**
+**[00:23:59](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-08-53)**
 > "Now he hosts a show on One America News."
 
-**[00:29:48](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-29-48)**
+**[00:29:48](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-08-53)**
 > "...t of people around him in the America First movement who were actively working on him t..."
 
-**[00:30:38](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-30-33)**
+**[00:30:38](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-30-14)**
 > "...cause he wanted to talk about America."
 
-**[00:32:43](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-32-20)**
+**[00:32:41](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-32-16)**
 > "...was infringing upon speech in America."
 
-**[00:39:14](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-02)**
+**[00:39:14](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-14)**
 > "...ther U.S. ranches and the hundreds of American families who work on those ranches. It's born in the USA, it's raised in the USA, and it's processed in the USA. Their meat is aged to perfection for 21 day..."
 
-**[00:44:53](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-02)**
+**[00:44:47](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-14)**
 > "...t because I felt this way at previous companies. They are amazing people that work at Turning Point USA—the overwhelming majority of them. And that's what sucks when corporate people at the top take a di..."
 
-**[00:45:07](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-02)**
+**[00:45:07](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-14)**
 > "... a direction; those people get no say, right? This investigation is being assisted by Turning Point USA—not the execs, but Turning Point people on the ground, people that they don't even think about, sma..."
 
-**[00:45:33](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-02)**
+**[00:45:30](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-14)**
 > "...e bottom. And somebody was saying, you know, "What if this—what you're doing—destroys Turning Point USA?" And I said, you know what? This is what I always say. If the truth is capable of destroying your ..."
 
-**[00:58:29](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-02)**
+**[00:58:31](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-39-14)**
 > "...mething. They're not acting right. None of them are acting right. And that's not just Turning Point USA execs. And I've tried to explain it away in my head a thousand times. Oh, well, you know, everyone'..."
 
-**[00:59:05](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-58-39)**
+**[00:58:54](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-58-39)**
 > "...ct that has a lot of power in America."
 
 **[01:04:38](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
 > "...is dominated by a ton of foreign brands. Neeme formulates and produces everything right here in the USA. They deliver world-class quality while staying true to the values that we hold dear: faith, family..."
 
-**[01:06:50](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
+**[01:06:45](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
 > "... you lightly? Please don't stop. A lot of love from Mexico." "I'm not associated with Turning Point USA, and I'm not a liberal. Please don't tear apart Turning Point USA because we need a movement for th..."
 
 **[01:06:52](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
@@ -6002,39 +6095,48 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[01:07:03](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
 > "... are an important voice." Any youth movement must be based in truth. And like I said, Turning Point USA has fantastic people that worked and signed up to work for that company and dedicated their time wi..."
 
-**[01:07:34](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
+**[01:07:30](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
 > "...e extent that they do that, fantastic. They will have an ally in me. I never attacked Turning Point USA because it came from Turning Point USA. And I saw what it took to build that company because I was ..."
 
 **[01:09:15](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-04-32)**
 > "...now what to make of that, but I hear you. I hear you, and I feel the same way. I want Turning Point USA to survive, but I want them to be truthful first. Evie writes—thank you for that donation, Evie. "I..."
 
+**[00:38:39](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-38-29)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:39:02](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-00-38-29)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
+
+**[01:11:24](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-united-states-t-01-11-10)**
+> "...y uncovering the flaws in the U.S., you've opened our eyes to the demonism that we a..."
+
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (21 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (23 mentions)</summary>
 
-**[00:00:29](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:00:29](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "...ed out the best responses to me dropping the text messages. It was hilarious. Anyway, Turning Point USA has responded to the release of the messages, so we are going to watch that. Spoiler alert: they we..."
 
-**[00:00:39](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:00:39](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "... going to watch that. Spoiler alert: they were real, of course. And on top of that, a Turning Point USA donor has published a public letter regarding me, and I was truly touched by it. I think you will b..."
 
-**[00:13:50](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:13:50](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "... think it's dramatic to state that this may be the first respectable measure taken by Turning Point USA executives since the passing of Charlie (Charlie Kirk)—like the first respectable response. And yea..."
 
-**[00:16:26](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:16:26](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "...s not an eyewitness. So there's that. But I am aware that in my role as spokesman for Turning Point USA—which is another hat I wear—that things I say, I'm cognizant of the fact that things I say could ne..."
 
-**[00:17:53](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:17:53](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "...You can tell he's nervous speaking about this. I am sure it was positively frantic at Turning Point USA yesterday. I am sure he had very little sleep. And like I say, never the fun thing to be the spokes..."
 
-**[00:19:58](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:19:58](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "...ld—from mom sleuths to government employees, like he said, to personal assistants, to Turning Point USA donors—who are working together to bring justice to Charlie (Charlie Kirk) because we don't like th..."
 
-**[00:20:31](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:20:31](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "...rth Star. And I'm not so sure that the people—some of the people that are donating to Turning Point USA—believe that. In fact, I'm certain some of them don't believe that. Obviously, we wouldn't have tha..."
 
-**[00:21:11](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+**[00:21:11](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
 > "...le who have this in a written communication from Charlie (Charlie Kirk), one who is a Turning Point USA donor, and I would say very much one of the white knights in this. The very day before Charlie (Cha..."
 
 **[00:31:34](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
@@ -6075,6 +6177,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:55:25](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-49-14)**
 > "...call 1-800-958-1000 for a 100% free consultation. And in one short call, the experts at Tax Network USA will guide you through some simple questions to determine how much you can save. Take action now be..."
+
+**[00:31:00](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-30-40)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:31:23](/episodes/ep-5autG89PW6w.md#ent-gpe-united-states-t-00-31-23)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
 
 </details>
 
@@ -6119,54 +6227,54 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (12 mentions)</summary>
 
-**[00:10:22](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-12)**
+**[00:10:22](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-04)**
 > "...p respect for the Federal Bureau of Investigation and law enforcement officers at all levels across the country who work tirelessly every single day to protect all Americans regardless of their ancestry, religio..."
 
-**[00:13:12](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-12)**
+**[00:13:12](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-04)**
 > "...a rather stunning tip, which I have been able to corroborate, that out of all of the FBI bureaus in the United States, regarding which there are 55 main bureaus and over 350 satellite bureaus, the FBI sent the specifi..."
 
-**[00:21:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-12)**
+**[00:21:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-04)**
 > "She spoke to Good Morning America in the wee hours of the morning after."
 
-**[00:21:42](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-12)**
+**[00:21:42](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-04)**
 > "...o we have here? Well, let me show you this other video which gets interesting, okay? Check out this USA Today video of people speaking about what they heard and what they saw. Take a listen. [CLIP ATTRIB..."
 
-**[00:24:18](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-12)**
+**[00:24:18](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-13-04)**
 > "...torial candidate. He ran for governor of Utah in 2024. Nobody mentioned this, I guess; all of these USA Today or AP, nobody asked them like who they were or if they were college students. And for whateve..."
 
-**[00:25:59](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-25-32)**
+**[00:25:59](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-25-46)**
 > "...her U.S. ranches and the hundreds of American families who work on those ranches. It is born in the USA, raised in the USA, processed right here in the USA. Their meat is aged to perfection for 21 days a..."
 
-**[00:37:16](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-25-32)**
+**[00:37:16](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-25-46)**
 > "...rous, why the ADL creates a list that features people like Charlie (Charlie Kirk) and Turning Point USA and Candace (Candace Owens). Why speech is so dangerous is because if it carries truth, it speaks t..."
 
-**[00:39:57](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-39-23)**
+**[00:39:57](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-39-42)**
 > "It's America's pro-life coffee company."
 
-**[00:49:58](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-40-48)**
+**[00:49:58](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-40-57)**
 > "...arlie Kirk) had the power to expose people. And like I said, and I've put that out to Turning Point USA because now I want war with people that are lying and allowing this ridiculous narrative that Israe..."
 
-**[00:25:28](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-24-48)**
+**[00:25:28](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-25-11)**
 > "... genetics to over 260 western U.S. ranches."
 
-**[00:25:46](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-25-32)**
+**[00:25:46](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-25-46)**
 > "...supporting the over 260 other U.S. ranches and the hundreds of American families who..."
 
-**[00:41:08](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-40-48)**
+**[00:41:08](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-united-states-t-00-40-57)**
 > "...life organizations across the U.S."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (13 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (14 mentions)</summary>
 
-**[00:02:10](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-18-55)**
+**[00:02:10](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-19-18)**
 > "...for a space that holds that many people plus spillover. Now, given my many sources at Turning Point USA, I was able to quickly get an answer on that one for the public. The venue was indeed secured in qu..."
 
-**[00:19:23](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-18-55)**
+**[00:19:23](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-19-18)**
 > "...irect pipeline from Russia to America."
 
-**[00:20:40](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-20-14)**
+**[00:20:40](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-20-29)**
 > "...or themselves with new IDs in America, in Brazil."
 
 **[00:22:40](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-22-22)**
@@ -6178,33 +6286,36 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:28:48](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-28-25)**
 > "And what we have to do is we have to secure that part of the base of our support in the United States."
 
-**[00:33:15](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-32-53)**
+**[00:33:15](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-33-10)**
 > "...ke over social media sites in America because opinion against your country has rightful..."
 
-**[00:34:04](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-33-32)**
+**[00:34:04](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-33-54)**
 > "...eech by controlling speech in America."
 
-**[00:41:09](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-44)**
+**[00:41:09](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-31)**
 > "...of skincare dominated by foreign brands, Neeme formulates and produces everything right here in the USA. They deliver world-class quality while staying true to the values that we hold dear, which is fait..."
 
-**[00:43:04](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-44)**
+**[00:43:04](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-31)**
 > "...t's why I just went ahead and took a shot at the beast. I will not allow them to turn Turning Point USA into a company that is shilling for Israel. I have people that are telling me that they're handing ..."
 
-**[00:46:07](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-44)**
+**[00:46:07](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-31)**
 > "...mount of money that they were making off of Charlie, because Charlie ended up buying, Turning Point USA ended up taking on that security firm. Yeah, you're kind of not the person that's allowed to freak ..."
 
-**[00:47:25](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-44)**
+**[00:47:25](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-31)**
 > "...s in that photo? Marzi writes, this just in: the FBI just cut ties with the ADL after Turning Point USA criticism. They share a building—just, FBI and ADL share a building. They're one and the same. I ho..."
 
-**[00:48:44](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-44)**
+**[00:48:44](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-40-31)**
 > "...ut, which I'm not handling. And I got question marks about a couple of people over at Turning Point USA. And yeah, I think we should definitely be speaking about these shady pastors. I hope this is the y..."
+
+**[00:26:09](/episodes/ep-adJ4LNGp84I.md#ent-gpe-united-states-t-00-22-22)**
+> "...t how they are going to shape US opinion."
 
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (13 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (15 mentions)</summary>
 
-**[00:01:30](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-25-18)**
+**[00:01:30](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-24-38)**
 > "It took him a little over two weeks, but now Benjamin Netanyahu, with maybe a little help from Turning Point USA (I'm thinking), is releasing the letter, the May love letter from Charlie Kirk to Israel, just out of nowhere."
 
 **[00:25:45](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-25-18)**
@@ -6242,6 +6353,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:40:35](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-40-09)**
 > "...of skincare dominated by foreign brands, Neemi formulates and produces everything right here in the USA. World-class quality while staying true to the values that we hold dear—which is faith, family, and..."
+
+**[00:25:09](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-24-38)**
+> "... genetics to over 260 western U.S. ranches."
+
+**[00:25:37](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-united-states-t-00-25-18)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
 
 </details>
 
@@ -6284,7 +6401,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (11 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (10 mentions)</summary>
 
 **[00:00:01](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
 > "...harlie (Charlie Kirk) lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wanted to put together an entire department, a little mini-department, to address thos..."
@@ -6292,13 +6409,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:01:53](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
 > "...M) over-inserting himself, not even just on day one, minute one. He tweeted before the president of the United States that Charlie (Charlie Kirk) had lost his life. That's weird. It's very weird, and we should not for..."
 
-**[00:06:50](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
+**[00:06:45](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
 > "...ecause it's not clicking for me. I'm sorry. So first off, you guys never connected to Turning Point USA publicly. The photos that you posted, if you posted it after the event, I don't think that it's bec..."
 
 **[00:07:39](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
 > "...ily Loves America—Emily Saves America, pardon me—said, when she was fighting with someb..."
 
-**[00:11:09](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
+**[00:11:05](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
 > "... said, "He's under a lot of pressure." There's no question. He's the spokesperson for Turning Point USA. And he's grieving somebody that he knows and who was a very close, if not one of his best friends ..."
 
 **[00:17:02](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
@@ -6310,22 +6427,22 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:18:52](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-01-27)**
 > "... Ironically. And so many people have reached out and they spoke about the finances at Turning Point USA. And, you know, I'm not exactly a forensic accountant, but I know that other people, other journali..."
 
-**[00:21:29](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-21-13)**
-> "...t announcing that, "Dear Team America, effective immediately,"
+**[00:21:26](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-21-26)**
+> "I'm gonna skip to the relevant portions. He's first and foremost announcing that, "Dear Team America, effective immediately, again, September 2nd, Justin Streiff is taking on a new elevated role with Turning Point USA as its COO."
 
-**[00:21:38](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-21-13)**
-> "...mmediately, again, September 2nd, Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020, Justin has led Turning Point's fundraising division and, i..."
-
-**[00:22:17](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-21-13)**
+**[00:22:17](/episodes/ep-K5GjF53bfN4.md#ent-gpe-united-states-t-00-21-26)**
 > "... Justin will be assembling a small team to assist in this effort, which is focused on Turning Point USA, one, becoming more efficient, two, becoming more cost-effective, three, unifying organizational su..."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
 **[00:24:10](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-united-states-t-00-23-58)**
 > "... what happens when you F with America.""
+
+**[00:30:00](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-united-states-t-00-29-52)**
+> "Kits are available to U.S. residents only, unfortunately."
 
 </details>
 
@@ -6391,7 +6508,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:15:24](/episodes/ep-ja26iltROkM.md#ent-gpe-united-states-t-00-15-13)**
 > "The full weight of America's law enforcement agencies are actively following t..."
 
-**[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-united-states-t-00-30-33)**
+**[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-united-states-t-00-15-13)**
 > "... Gaza makes the fight in Gaza America First.'"
 
 **[00:40:14](/episodes/ep-ja26iltROkM.md#ent-gpe-united-states-t-00-39-59)**
@@ -6411,22 +6528,22 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (18 mentions)</summary>
 
-**[00:06:21](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
+**[00:06:21](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-23-26)**
 > "...ctually, I should be able to figure this out because I've got a pretty big network at Turning Point USA. I was the person who's wearing shades. I don't recognize the individual. And I reach out to somebo..."
 
-**[00:07:53](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
+**[00:07:46](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-23-26)**
 > "...ed to check in with and communicate to other people that were working with and around Turning Point USA. That's why he's on his phone, communicating to them what had happened. That's what he told me. The..."
 
-**[00:28:13](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
-> "...bunkable that you have to ask yourself why they are saying it. Here is me speaking on Turning Point USA's stage last year. And here's what I said, by the way, which got Charlie in a lot of trouble. "Well..."
+**[00:28:11](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-23-26)**
+> "It's so easily—like I said—debunkable that you have to ask yourself why they are saying it. Here is me speaking on Turning Point USA's stage last year."
 
 **[00:28:19](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
 > "...l, let me tell you something, America."
 
-**[00:28:41](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
+**[00:28:34](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
 > "...mething backwards about being America First."
 
-**[00:28:45](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
+**[00:28:42](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-28-19)**
 > "When you say you're America First, they'll ask you, what do you mean you're A..."
 
 **[00:29:03](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-29-03)**
@@ -6438,39 +6555,39 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:30:43](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-30-01)**
 > "...hu is spending a lot of money right now. He is just way too involved, concerned about Turning Point USA, the future of Turning Point USA, attacking Candace Owens. And I think something sinister is going ..."
 
-**[00:30:54](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-30-01)**
-> "...loyees reach out to me. Maybe because he says she would have been the natural heir to Turning Point USA. I'm not trying to be the heir to Turning Point USA. I kind of like my life. I don't want to take m..."
-
 **[00:30:55](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-30-01)**
-> "...uld have been the natural heir to Turning Point USA. I'm not trying to be the heir to Turning Point USA. I kind of like my life. I don't want to take money from donors, okay? Because they do what they di..."
+> "...loyees reach out to me. Maybe because he says she would have been the natural heir to Turning Point USA. I'm not trying to be the heir to Turning Point USA. I kind of like my life. I don't want to take m..."
 
 **[00:33:46](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-33-27)**
 > "...peech censorship is coming to America."
 
-**[00:34:51](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-34-12)**
+**[00:34:37](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-34-37)**
 > "...dwork for hate speech laws in America."
 
-**[00:36:12](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-12)**
+**[00:36:12](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-10)**
 > "...assing laws against speech in America?"
 
-**[00:36:19](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-12)**
+**[00:36:14](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-10)**
 > "...orking with the government of America, and any person that criticized Israel would find..."
 
-**[00:37:17](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-57)**
+**[00:37:17](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-52)**
 > "So that means the future of America is anti-Israel."
 
-**[00:43:06](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-57)**
+**[00:43:06](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-52)**
 > "...re also calling for him to make a meaningful personal donation to the Kirk family and Turning Point USA. What? That's a shakedown. That's what they did to Kyrie Irving. I don't like what you said. Donate..."
 
-**[00:45:14](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-57)**
+**[00:45:14](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-36-52)**
 > "... "Good day, my love. I have just committed one of the highest sins of the Lord: murder. I must flee the country now, in my vehicle. I've hidden the weapon. It was mine. I won't see you for a very long time. Unle..."
+
+**[00:23:56](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-united-states-t-00-23-26)**
+> "...ff. The kits are available to U.S. residents only. Okay. All right."
 
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (13 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (16 mentions)</summary>
 
-**[00:19:47](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-19-38)**
+**[00:19:47](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-22-38)**
 > "...lar Steeles told Good Morning America in the early hours following Charlie (Charlie Kir..."
 
 **[00:22:44](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-22-38)**
@@ -6494,86 +6611,101 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:41:18](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-35-45)**
 > "...You don't remember that happening at all. Okay, then I get fired from The Daily Wire. Turning Point USA is the first to issue a “Christ is King” statement of support. Then I do what was the YWLS conferen..."
 
-**[00:48:37](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-48-37)**
+**[00:48:37](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-45-49)**
 > "...ur guys' comments. Obviously, we've covered a lot here. First, I'm gonna tell you about Tax Network USA, because if you are stressed about back taxes—maybe you missed the April deadline or your books are..."
 
-**[00:48:56](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-48-37)**
+**[00:48:56](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-45-49)**
 > "... penalties add up fast: 5% per month, up to 25% just for not filing. But there is help. Tax Network USA can take the burden off your shoulders, and they can stop the spiral before it gets any worse. They..."
 
-**[00:49:03](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-48-37)**
+**[00:49:03](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-45-49)**
 > "...it up. With direct access to powerful IRS programs and expert negotiators on your side, Tax Network USA knows how to help you win. You'll get a free consultation. If you qualify, they may even be able to..."
 
-**[00:49:39](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-49-21)**
+**[00:49:39](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-45-49)**
 > "... because you may have missed the tax deadline, but you have not run out of options. Let Tax Network USA help. Again, the number is 1-800-958-1000 or visit tnusa.com/candace. Also, telling you about Home ..."
 
 **[00:51:27](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-50-46)**
 > "...ts deliver results, but it's also proudly American-made. Every formula is crafted right here in the USA, rivaling the best Korean skincare brands in quality, while staying true to our values of faith, fa..."
 
+**[00:33:49](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-33-49)**
+> "... about how vital Israel is to U.S. national security."
+
+**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-45-49)**
+> "...ed scientific evidence to the U.S. court to prove that Brigitte is a woman."
+
+**[00:55:58](/episodes/ep-sreYYcID-QY.md#ent-gpe-united-states-t-00-55-46)**
+> "...t me, free Palestine, and the U.S."
+
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (5 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (7 mentions)</summary>
 
-**[00:44:34](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-34)**
-> "...Gaza. He was—above all—resentful that he believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and..."
+**[00:44:30](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-30)**
+> "He was appalled by what was happening in Gaza. He was—above all—resentful that he believed Benjamin Netanyahu was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and bad for the United States. And he resented it."
 
-**[00:48:44](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-48-12)**
+**[00:48:44](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-30)**
 > "... this seems like pretty basic America First stuff."
 
-**[00:52:37](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-52-17)**
+**[00:52:34](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-30)**
 > "...been espousing for years—like America First, like what's happening to Christians, like ..."
 
-**[01:01:34](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-01-01-34)**
+**[01:01:29](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-01-01-29)**
 > "... 7 Weeks Coffee because it is America's pro-life coffee company."
 
-**[01:03:06](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-01-03-01)**
+**[01:03:03](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-01-02-54)**
 > "God bless America."
+
+**[00:40:11](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-00-44-30)**
+> "...ive has been fighting to make America healthy again with science-backed solutions that ..."
+
+**[01:02:26](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-united-states-t-01-02-11)**
+> "...life organizations across the U.S. Visit sevenweekscoffee.com with promo code CANDAC..."
 
 </details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (14 mentions)</summary>
 
-**[00:36:44](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-40)**
+**[00:36:38](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-25)**
 > "...ot more people reaching out to us, people that were at the event, people that were at Turning Point USA. We got some questions to ask and I'm gonna ask all of them because guess what? I don't take money ..."
 
-**[00:40:36](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-40)**
+**[00:40:32](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-25)**
 > "... people that were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson)."
 
-**[00:43:40](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-40)**
+**[00:43:39](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-43-25)**
 > "...etanyahu and his echo here in America, of which I would say Josh Hammer and Seth Dillon..."
 
-**[00:52:02](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-51-57)**
+**[00:51:57](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-51-57)**
 > "Here in America, they've turned, not so much with Republicans— a ..."
 
-**[00:55:14](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-54-45)**
+**[00:55:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-54-45)**
 > "I was just like pro-America and I wanted to focus on BLM and getting black Am..."
 
-**[00:58:03](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-35)**
+**[00:58:03](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-31)**
 > "...as doing a ton of podcasts in America."
 
-**[01:05:59](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-35)**
+**[01:05:57](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-31)**
 > "...right there at the end. I'm trying to calm down. First, I'm gonna remind you guys about Tax Network USA. I know, I shouldn't read these ads. It's Bill Ackman. It's like, "How could you put ads in here? I..."
 
-**[01:06:13](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-35)**
+**[01:06:07](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-31)**
 > "...illions, but you, little girl, don't read an ad." Okay, I'm freaking out again. Back to Tax Network USA. If you're stressed about back taxes, maybe you missed the April deadline or your books are a mess,..."
 
-**[01:06:22](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-35)**
+**[01:06:22](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-31)**
 > "...ies are adding up fast, 5% per month, up to 25% just for not filing, but there is help. Tax Network USA can take the burden off your shoulders and stop this fire before it gets worse. They've helped thou..."
 
-**[01:06:39](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-35)**
+**[01:06:30](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-31)**
 > "...it up. With direct access to powerful IRS programs and expert negotiators on your side, Tax Network USA knows how to help you win. You'll get a free consultation, and if you qualify, they may even be abl..."
 
-**[01:07:05](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-00-57-35)**
+**[01:07:05](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-01-07-05)**
 > "...ndace. You may have missed the tax deadline, but you haven't run out of options. So let Tax Network USA help you by calling 1-800-958-1000 or visit tnusa.com/Candace. Also telling you guys about Neemee S..."
 
-**[01:07:46](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-01-07-33)**
+**[01:07:43](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-01-07-05)**
 > "...values. They love God, they love family, and they love country. Their products are made here in the USA, and they are committed to supporting the values of our movement. So right now, Neemee is matching ..."
 
-**[01:07:48](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-01-07-33)**
+**[01:07:48](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-01-07-48)**
 > "...lues of our movement. So right now, Neemee is matching every donation that is made to Turning Point USA. You can visit tpusa.com, make your donation, and forward the receipt to faith@neemeeskincare.com. ..."
 
-**[01:08:23](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-01-08-17)**
+**[01:08:17](/episodes/ep-q7f8r-THr84.md#ent-gpe-united-states-t-01-07-48)**
 > "...pport us, and Neemee Skincare is one such business. It's clean, effective products made here in the USA, and they have never wavered in standing for faith, family, and freedom. Go to neemeeskincare.com a..."
 
 </details>
@@ -6584,7 +6716,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:01:48](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09)**
 > "...yone listening tonight across America, the movement my husband built will not die."
 
-**[00:08:08](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-08-02)**
+**[00:08:07](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-08-02)**
 > "He valued our bond, the bond between America and Israel"
 
 **[00:08:18](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-08-02)**
@@ -6594,19 +6726,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "... beliefs, free speech here in America."
 
 **[00:20:10](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-10-27)**
-> "... (Charlie Kirk)? He was unable to speak to me, but he did place some frantic calls to Turning Point USA. Yeah. You see, I went out to Seth, but I also went out to two other people who were at this meetin..."
+> "He was unable to speak to me, but he did place some frantic calls to Turning Point USA."
 
 **[00:22:26](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-10-27)**
-> "... are not being told truthfully. In fact, I will also call upon—since we're having fun—Turning Point USA to release the audio of what Charlie (Charlie Kirk)— because I was in communication with Charlie (C..."
+> "In fact, I will also call upon—since we're having fun—Turning Point USA to release the audio of what Charlie—"
 
 **[00:25:06](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-24-40)**
 > "...tics that Israel was using in America and that he felt, when he had left that meeting, ..."
 
 **[00:31:30](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-24-40)**
-> "...nd tell us that we're going to follow this individual, okay? I'm one of the masons of Turning Point USA. You put a shill in Charlie (Charlie Kirk)’s chair, in Charlie (Charlie Kirk)’s company, and you tr..."
+> "I'm one of the masons of Turning Point USA."
 
 **[00:57:44](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-24-40)**
-> "...ountry. Neemee Skincare reached out to me because they want to encourage donations to Turning Point USA to ensure that Charlie (Charlie Kirk)’s legacy does not just live in memory. It continues to grow. ..."
+> "Neemee Skincare reached out to me because they want to encourage donations to Turning Point USA to ensure that Charlie’s legacy does not just live in memory."
 
 **[00:57:53](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-24-40)**
 > "... live in memory. It continues to grow. Neemee will be matching every donation made to Turning Point USA, helping expand chapters across the nation and strengthen his mission moving forward. Here's how yo..."
@@ -6650,6 +6782,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:49:48](/episodes/ep-i8m_6D4QGmk.md#t-00-49-48): “That's right. He only allows Israel to do that. Only Israel is allowed to attack America. Only Israel got to get away with the Lavon Affair.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Founded By (1)</summary>
+
+- **[Freemasons](/entities/org-freemasons.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:03:25](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55): “How about we should talk about the founding of America? ... Your country was founded by Freemasons."”
 
 </details>
 
@@ -6723,7 +6867,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Ludwig Martens](/entities/person-ludwig-martens.md)** ambassador to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -6745,6 +6889,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “The United States is preemptively bombing Iran.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:35:20](/episodes/ep-AH1KVKkweUE.md#t-00-35-20): “The request came from a senior officer at the U.S. military command carrying out President Donald Trump (Donald J. Trump)'s war with Iran”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36): “The United States, at the instruction presumably of Israel, bombed an elementary school in Iran, a primary school is an elementary school in Iran.”
+
+</details>
+
+- **[Freemasons](/entities/org-freemasons.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:03:25](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55): “How about we should talk about the founding of America? ... Your country was founded by Freemasons."”
 
 </details>
 
@@ -6793,7 +6944,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (163)</strong></summary>
+<summary><strong class="section-title">Statements about United States (168)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -7494,15 +7645,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens**: ["Qatar said they work with Hamas because Israel and the US asked them t..."](/statements/statement-f49618df9e54.md)
-  - Also about: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md)
-
-- [01:12:54](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently said they work with Hamas because Israel and the United..."](/statements/statement-e85ac201b956.md)
-  - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
-
-- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently came out and said we work with Hamas because Israel and..."](/statements/statement-37092c5c9482.md)
+- [01:12:27](/episodes/ep-es7PWdFGoFI.md#t-01-11-57) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens paraphrased Qatar as saying it worked with Hamas because..."](/statements/statement-37092c5c9482.md)
   - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
 
 </details>
@@ -7510,26 +7655,61 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Angola Gate involved Africa, Angola, Israel, France, the United States..."](/statements/statement-38658967ebf0.md)
+- [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Owens said Angolagate involved Angola, Israel, France, the United Stat..."](/statements/statement-38658967ebf0.md)
   - Also about: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4)</summary>
+
+- [00:03:20](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55) (Claim) **Anonymous Source #2 (Ep a-e7HC6SeK8)** (via quoted speech): ["An unnamed Catholic priest told Owens, "Your country was founded by Fr..."](/statements/statement-b984186cac9e.md)
+  - Also about: [Freemasons](/entities/org-freemasons.md)
+
+- [00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09) (Claim) **Candace Owens**: ["On the 29th, we have Operation Bright Star, which commences—that joint..."](/statements/statement-036f01758863.md)
+  - Also about: [Operation Bright Star](/entities/event-operation-bright-star.md), [Egypt](/entities/gpe-egypt.md)
+
+- [00:52:38](/episodes/ep-a-e7HC6SeK8.md#t-00-52-13) (Opinion) **Candace Owens**: ["I think these Bolsheviks are here in America"](/statements/statement-6c0d290b6392.md)
+  - Also about: [Bolsheviks](/entities/concept-bolsheviks.md)
+
+- [00:58:08](/episodes/ep-a-e7HC6SeK8.md#t-00-57-57) (Opinion) **Benjamin Netanyahu** (via quoted speech): ["Benjamin Netanyahu said on camera, America is something you can move v..."](/statements/statement-b5bc9a238af0.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>
 
-- [00:47:04](/episodes/ep-Qfwr08Ebczo.md#t-00-46-45) (Claim) **Candace Owens**: ["Country A that gets most of US foreign aid money is Israel and B is Eg..."](/statements/statement-859dcb79d344.md)
+- [00:47:04](/episodes/ep-Qfwr08Ebczo.md#t-00-46-37) (Claim) **Candace Owens**: ["Country A that gets most of US foreign aid money is Israel and B is Eg..."](/statements/statement-859dcb79d344.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
 
-- [00:47:57](/episodes/ep-Qfwr08Ebczo.md#t-00-47-26) (Opinion) **Candace Owens**: ["America has married Zionism and is no longer a Christian nation but an..."](/statements/statement-fdcac26d6499.md)
+- [00:47:57](/episodes/ep-Qfwr08Ebczo.md#t-00-47-18) (Opinion) **Candace Owens**: ["America has married Zionism and is no longer a Christian nation but an..."](/statements/statement-fdcac26d6499.md)
   - Also about: [Zionism](/entities/concept-zionism.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2)</summary>
+
+- [00:38:42](/episodes/ep-K1tFD7FfoCU.md#t-00-38-33) (Opinion) **Kash Patel** (via quoted tweet): ["Kash Patel called attacks against Alexis baseless and said she was a r..."](/statements/statement-0e875e794ceb.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:46:16](/episodes/ep-K1tFD7FfoCU.md#t-00-45-48) (Opinion) **Candace Owens**: ["Candace Owens said she believes the purpose of standardized testing is..."](/statements/statement-6572957c4081.md)
 
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
-- [00:51:30](/episodes/ep-iHav0PPzUz8.md#t-00-51-02) (Claim) **Candace Owens**: ["Americans collectively owe over  trillion in credit card debt"](/statements/statement-bb6e1f56f3a3.md)
+- [00:51:30](/episodes/ep-iHav0PPzUz8.md#t-00-51-23) (Claim) **Candace Owens**: ["Americans collectively owe over  trillion in credit card debt"](/statements/statement-bb6e1f56f3a3.md)
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
+
+- [00:36:14](/episodes/ep-aDlhjfW6hz8.md#t-00-36-10) (Claim) **Benjamin Netanyahu** (via quoted speech): ["Benjamin Netanyahu said on record that he was working with the governm..."](/statements/statement-31f5f2016c63.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

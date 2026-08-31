@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:32:29](/episodes/ep-EtLHqDbxqks.md#t-00-32-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1949);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1949s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can't tell us anything about... Whether when you say it's at least four, it could be five, six, or seven people with DNA on that trigger or trigger guard, correct? ... Correct, which is why we have the major contributor that is suitable for comparison and the minor contributor is not suitable for comparison due to that complexity.
 

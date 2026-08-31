@@ -1,16 +1,16 @@
 ---
-title: "He was appalled by what was happening in Gaza"
-description: "\"He was appalled by what was happening in Gaza\" — Tucker Carlson"
+title: "Tucker Carlson said Charlie Kirk was appalled by what was ha..."
+description: "\"Tucker Carlson said Charlie Kirk was appalled by what was happening in Gaza.\" — Tucker Carlson"
 statement_id: "statement-02ab36dfcb44"
 speaker: "Tucker Carlson"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> He was appalled by what was happening in Gaza
+> Tucker Carlson said Charlie Kirk was appalled by what was happening in Gaza.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:44:30](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2670);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2670s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was appalled by what was happening in Gaza
 
@@ -34,4 +34,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

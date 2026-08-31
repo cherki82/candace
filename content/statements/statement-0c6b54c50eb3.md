@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:39:53](/episodes/ep-UYkXV9mYbT4.md#t-00-39-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2393);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=2393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And lo and behold, we find out that the CBLA. The compositional analysis is a discontinued forensic technique that analyzed trace elements, copper, arsenic, in lead to link crime scene bullets to suspects. ... It was primarily used by the FBI from the 1980s until 2004, but it was then abandoned in 2005 due to flawed scientific, statistical, and interpretive validity.
 

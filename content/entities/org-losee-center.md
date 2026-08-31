@@ -1,6 +1,6 @@
 ---
 title: "Losee Center"
-description: "Losee Center (Organizations) - 49 mentions"
+description: "Losee Center (Organizations) - 52 mentions"
 id: "org-losee-center"
 type: "ORG"
 aliases:
@@ -30,8 +30,8 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-losee-center-t-00-06-55">2025-09-29 · 00:07:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-01-02-02">2026-08-21 · 01:02:02</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -44,9 +44,11 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-losee-center-t-00-06-55" style="--pulse-height:14%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-losee-center-t-00-35-37" style="--pulse-height:29%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-12-18" style="--pulse-height:57%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-25" style="--pulse-height:14%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-44" style="--pulse-height:14%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-49-13" style="--pulse-height:14%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-11-59" style="--pulse-height:57%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-31" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-52" style="--pulse-height:14%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-losee-center-t-00-04-06" style="--pulse-height:14%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-01-12-15" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-losee-center-t-00-26-35" style="--pulse-height:14%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-losee-center-t-00-20-54" style="--pulse-height:29%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
@@ -68,9 +70,11 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 |---|---|---:|
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-losee-center-t-00-06-55) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-losee-center-t-00-35-37) | 2 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-12-18) | 4 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-25) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-44) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-49-13) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-11-59) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-31) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-52) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-losee-center-t-00-04-06) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-01-12-15) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-losee-center-t-00-26-35) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-losee-center-t-00-20-54) | 2 |
@@ -92,7 +96,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -279,35 +283,54 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 </details>
 
 <details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:04:31](/episodes/ep-ewBzjVe3LNQ.md#ent-org-losee-center-t-00-04-06)**
+> "...med to the alleged shooter on Losey Center rooftop before the sound goes off, the sound of a..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:17:10](/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-44)**
+**[00:17:05](/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-52)**
 > "the route to the rooftop where Tyler Robinson, the Losee Center rooftop where he allegedly took the shot"
 
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:51:45](/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-25)**
+**[00:51:45](/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-31)**
 > "...clining to share that, but I think we can confirm that there was no miracle-bending bullet from the Lozier Center. A smaller weapon was used. Crazy Chris writes: "Love the comfort shirt. Feels like I'm chilling wi..."
+
+**[00:53:43](/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-53-12)**
+> "...racle-bending bullet from the Lozier Center."
 
 </details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4 mentions)</summary>
 
-**[00:12:18](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-12-18)**
-> "...assination, and it reads, "Utah Valley University student recalls seeing man walking on or near the Lozier Center roof twice in two weeks." And from that article, it says the student says that he last saw the pers..."
+**[00:12:18](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-11-59)**
+> "You can see it was published the day after the assassination, and it reads, "Utah Valley University student recalls seeing man walking on or near the Losee Center roof twice in two weeks.""
 
-**[00:15:26](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-15-12)**
-> "...hat exactly because it's the computer science building has this long concourse that connects to the Lozier Center. My bet would be that that's how the shooter got onto the Lozier Center roof because that's... one ..."
+**[00:15:25](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-15-25)**
+> "Yes. Well, I don't know that exactly because it's the computer science building has this long concourse that connects to the Losee Center."
 
-**[00:15:34](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-15-12)**
-> "...course that connects to the Lozier Center. My bet would be that that's how the shooter got onto the Lozier Center roof because that's... one of the few ways I know of. I guess there's also a ladder on the other si..."
+**[00:15:34](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-15-25)**
+> "My bet would be that that's how the shooter got onto the Losee Center roof because that's... one of the few ways I know of."
 
-**[00:25:33](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-25-08)**
-> "... on the roofs." He comes back for edification: the Sorensen Center was the building in front of the Lozier Center. And so he comes back, and he says, "You want access to the roof?" And came back and said, "I was t..."
+**[00:25:31](/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-25-08)**
+> "He comes back for edification: the Sorensen Center was the building in front of the Losee Center."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:49:32](/episodes/ep-Qfwr08Ebczo.md#t-00-49-13)**
+> "the person running across—who they say is the shooter—running across the Lozi Center."
 
 </details>
 
@@ -492,7 +515,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-12-18) (Claim) **Anonymous UVU student (CNN report, Ep 581dILVcEE4)** (via quoted article): ["An anonymous UVU student told CNN that he saw a man on or near the Los..."](/statements/statement-be3da0054162.md)
+- [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-11-59) (Claim) **Anonymous UVU student (CNN report, Ep 581dILVcEE4)** (via quoted article): ["An anonymous UVU student told CNN that he saw a man on or near the Los..."](/statements/statement-be3da0054162.md)
   - Also about: [CNN](/entities/org-cnn.md), [FBI](/entities/org-fbi.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>

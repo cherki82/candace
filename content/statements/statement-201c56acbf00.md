@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1750);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=1750s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he was flying this girl on uh flying to see her on the fbi plane going to see her in tennessee he has also sent a police force to protect her like where i think are we paying for that is this like our tax dollars are going to protect his country music singing young thang uh she's definitely got a government security detail and her name is alexis wilkins
 

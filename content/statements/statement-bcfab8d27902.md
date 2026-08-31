@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:06:48](/episodes/ep-tB5SXXmd9vU.md#t-00-06-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(408);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=408s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Remember, the French couple has been so psychotically obsessed with trying to paint me as conflicted in my reporting that they even hired a private investigator to try to see if I was colluding with other state actors, you know, they kind of gloriously insinuated that I might be working...
 

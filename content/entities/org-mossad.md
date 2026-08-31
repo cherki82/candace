@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 93 mentions"
+description: "Mossad (Organizations) - 92 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30">2026-08-11 · 00:50:30</a></strong></div>
 <div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>93</strong></div>
+<div><span>Mentions</span><strong>92</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -37,9 +37,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49" style="--pulse-height:20%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-mossad-t-00-51-57" style="--pulse-height:10%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-15" style="--pulse-height:10%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-32" style="--pulse-height:10%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-mossad-t-00-38-34" style="--pulse-height:20%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-47" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-39" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-mossad-t-00-29-05" style="--pulse-height:20%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-10-24" style="--pulse-height:70%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 7 mentions" title="2025-11-12 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-14-40" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-mossad-t-00-35-20" style="--pulse-height:10%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-mossad-t-00-01-46" style="--pulse-height:30%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 3 mentions" title="2025-12-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03" style="--pulse-height:20%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-10-50" style="--pulse-height:20%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07" style="--pulse-height:30%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
@@ -83,9 +83,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49) | 2 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-mossad-t-00-51-57) | 1 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-15) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-32) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-mossad-t-00-38-34) | 2 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-47) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-39) | 1 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-mossad-t-00-29-05) | 2 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-10-24) | 7 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-14-40) | 2 |
@@ -93,7 +93,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-mossad-t-00-35-20) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-mossad-t-00-01-46) | 3 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00) | 2 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-10-50) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07) | 3 |
@@ -129,7 +129,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (93)</strong></summary>
+<summary><strong class="section-title">Raw mentions (92)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -469,10 +469,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
-**[00:11:11](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03)**
+**[00:11:11](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-10-50)**
 > "people that leave the Mossad"
 
-**[00:11:03](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03)**
+**[00:11:03](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-10-50)**
 > "...igence, people that leave the Mossad."
 
 </details>
@@ -480,7 +480,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
 
-**[00:00:05](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00)**
+**[00:00:00](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00)**
 > "TikTok does need to be purchased by the Mossad"
 
 **[00:00:13](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00)**
@@ -514,7 +514,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
 **[00:07:39](/episodes/ep-JQjCAsfoXEE.md#ent-org-mossad-t-00-07-24)**
-> "...e Trump (Donald Trump) administration, not whatever it was... We went from underground Jew tunnels, Mossad. The Trump (Donald Trump) administration killed Charlie (Charlie Kirk). I just really needed to jus..."
+> "We went from underground Jew tunnels, Mossad."
 
 </details>
 
@@ -532,25 +532,25 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (7 mentions)</summary>
 
-**[00:10:40](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-10-24)**
+**[00:10:31](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-10-24)**
 > "...d also Epstein was in the news, and it was clear to me that you know, Epstein's probably not like a Mossad agent or something, but Epstein clearly had contact with Israeli intelligence and American intellig..."
 
-**[00:38:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-37-47)**
+**[00:37:58](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-37-58)**
 > "...er that goes by Hen Mazzig published a lengthy and detailed post about the prominent role of female Mossad agents have played in Israel's sophisticated intelligence efforts against Iran, including by seduci..."
 
-**[00:38:45](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-38-29)**
+**[00:38:41](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-38-41)**
 > "... the internet and social media have been spreading a false narrative that Ms. Wilkins is an Israeli Mossad agent, a spy, or a quote-unquote honeypot." So. Here's the thing. I've been around. I've been aroun..."
 
-**[00:40:36](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-39-59)**
+**[00:40:33](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-39-59)**
 > "...ause he's acting weird. He's just acting really weird right now, Kash Patel. And she might not be a Mossad honeypot. I don't know. I've never made that claim. There's literally no evidence of that. Other th..."
 
-**[00:40:52](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-40-43)**
+**[00:40:51](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-40-41)**
 > "...PragerU—who, you know, she's formerly of the IDF Intelligence Unit. I worked for PragerU. I'm not a Mossad honeypot person, so that's not evidence. But there is evidence that she comes from a Freemason fami..."
 
-**[00:41:13](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-40-43)**
+**[00:41:08](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-40-41)**
 > "..., Kash Patel drops in 33rd—hours like it means something. That's actually more interesting than the Mossad honeypot thing. Mom works in aerospace. We're not like—she's not just like some cutesy country sing..."
 
-**[00:41:53](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-41-28)**
+**[00:41:52](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-41-23)**
 > "... going to bankrupt you"—especially something—who cares? You're a country singer. Even if you were a Mossad honeypot, why do you care? Who cares? Like, if you do not know how to deal with the internet, get o..."
 
 </details>
@@ -559,9 +559,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
 **[00:29:05](/episodes/ep-2Riv3I7D0Yk.md#ent-org-mossad-t-00-29-05)**
-> "...f Rabbi Pesach Wolicki:) "The wild conspiracy theories on social media claiming that Israel and the Mossad are behind the assassination of Charlie (Charlie Kirk) because he was turning on Israel. Now, you s..."
+> ""The wild conspiracy theories on social media claiming that Israel and the Mossad are behind the assassination of Charlie (Charlie Kirk) because he was turning on Israel."
 
-**[00:57:01](/episodes/ep-2Riv3I7D0Yk.md#ent-org-mossad-t-00-56-35)**
+**[00:56:57](/episodes/ep-2Riv3I7D0Yk.md#ent-org-mossad-t-00-56-28)**
 > "...t—a few months ago—said, "Netanyahu needs to go on my show." During the break he goes, "Man, I hope Mossad doesn't kill me." Cruz saw it; it was on the feed. He didn't say it was off-record. It was during t..."
 
 </details>
@@ -569,7 +569,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:44:47](/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-47)**
+**[00:44:47](/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-39)**
 > "...e the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine? They all have hinted and danced around calling you anti-Jewish, genetically speakin..."
 
 </details>
@@ -578,7 +578,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
 
 **[00:38:49](/episodes/ep-sreYYcID-QY.md#ent-org-mossad-t-00-38-34)**
-> "...ut of this man's mouth was astounding, okay? But they ran with it. The New York Post— outfit of the Mossad, outfit of the deep state— ran with it. “Charlie Kirk had a breakup with Candace (Candace Owens).” ..."
+> "outfit of the Mossad, outfit of the deep state—"
 
 **[00:43:34](/episodes/ep-sreYYcID-QY.md#ent-org-mossad-t-00-42-55)**
 > "... just wanted to take over the company that he had built and turn it into just another outfit of the Mossad. Like, that's the information that I have, and I wanna make sure that I properly vet everything and..."
@@ -588,7 +588,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[01:05:49](/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-15)**
+**[01:05:48](/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-32)**
 > "...d said that he would explain later. It may all be a coincidence. It just seems too sloppy to be the Mossad guy—is too crazy." I'm not sure who you are speaking about, but I will just say this overarching. I..."
 
 </details>
@@ -596,7 +596,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:52:23](/episodes/ep-q7f8r-THr84.md#ent-org-mossad-t-00-51-57)**
+**[00:52:17](/episodes/ep-q7f8r-THr84.md#ent-org-mossad-t-00-51-57)**
 > "... about this at the Turning Point event, whether the possibility of Jeffrey Epstein possibly being a Mossad agent or asset or affiliated with—that's been turned around on me too, to you must be anti-Semitic...."
 
 </details>
@@ -607,7 +607,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 **[00:30:12](/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49)**
 > "...onger just speculation. First of all, the evidence that shows that Epstein was a creation of either Mossad, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun...."
 
-**[00:30:32](/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49)**
+**[00:30:27](/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49)**
 > "Epstein was a creation of either Mossad, Israeli intelligence, American intelligence"
 
 </details>
@@ -852,22 +852,24 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
-- [00:11:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-03) (Accusation) **Candace Owens**: ["Faith has been infiltrated by the military; many conservative media co..."](/statements/statement-3d67750873d5.md)
+- [00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05) (Accusation) **Ben Shapiro** (via quoted speech): ["Ben Shapiro accused Candace Owens of making baseless claims implicatin..."](/statements/statement-0c7485a99ea1.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["In the JFK files, Mossad is mentioned. One of the reasons why Mossad i..."](/statements/statement-ee9e4c65d87d.md)
-  - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
+- [00:11:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-50) (Accusation) **Candace Owens**: ["I have been suggesting that faith has been infiltrated by the military..."](/statements/statement-3d67750873d5.md)
 
-- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["In the JFK files, Mossad is mentioned"](/statements/statement-bd6205f93016.md)
-  - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
+</details>
 
-- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said in May 2025 that Mossad is mentioned in the JFK file..."](/statements/statement-e0e5542c1103.md)
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said in May 2025 that Mossad is mentioned in the JFK file..."](/statements/statement-e0e5542c1103.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 </details>
@@ -890,12 +892,15 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3)</summary>
 
 - [00:29:16](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10) (Claim) **Charlie Kirk** (via quoted speech): ["Ghislaine Maxwell's father, Robert Maxwell, was obviously a spy of the..."](/statements/statement-a040af743a90.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Robert Maxwell](/entities/person-robert-maxwell.md)
 
-- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein might have been ..."](/statements/statement-9757aae20f06.md)
+- [00:30:10](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein was created by M..."](/statements/statement-0780da1b8312.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein was created by M..."](/statements/statement-9757aae20f06.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>

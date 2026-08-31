@@ -33,8 +33,8 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-london-t-00-08-46" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-london-t-00-13-32" style="--pulse-height:67%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-38" style="--pulse-height:67%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45" style="--pulse-height:67%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-29" style="--pulse-height:67%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-london-t-00-08-57" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-london-t-00-46-24" style="--pulse-height:67%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-london-t-00-45-04" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
@@ -58,8 +58,8 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 |---|---|---:|
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-london-t-00-08-46) | 3 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-london-t-00-13-32) | 2 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-38) | 2 |
-| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-29) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-london-t-00-08-57) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-london-t-00-46-24) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-london-t-00-45-04) | 3 |
@@ -232,20 +232,17 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:13:09](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45)**
-> "anti-Israel protests were raging in London, where Candice, I believe, was at the time"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:12:56](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45)**
-> "...srael protests were raging in London, where Candice, I believe, was at the time, she p..."
+> "But then on October 28th of 2023, while anti-Israel protests were raging in London, where Candace, I believe, was at the time, she posted a video of the protests on X commenting, quote, interesting thing happening here."
 
 </details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:08:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-38)**
+**[00:08:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-29)**
 > "...municating with Xavier Poussard regarding the potential to interview him during an upcoming trip to London. Xavier Poussard is the person who wrote the "Becoming Brigitte" book. He has never been sued for d..."
 
 **[00:10:31](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-10-19)**
@@ -260,7 +257,7 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 > "...I just—I'm getting the vibe. We need to go to the UK. We need to go to the UK. Like, we gotta go to London." And we did. But first, dealing with this sort of pressure cooker that kept happening between Kany..."
 
 **[00:17:08](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-london-t-00-16-27)**
-> "...gh of relief. I was like, "This is—I need to go with him." Two months later, and with that event in London far behind us—so that was in December that I met my husband; that I convinced Charlie, took his cre..."
+> "Two months later, and with that event in London far behind us—so that was in December that I met my husband; that I convinced Charlie (Charlie Kirk), took his credit card, and booked the flights."
 
 </details>
 

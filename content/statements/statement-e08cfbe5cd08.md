@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:10:29](/episodes/ep-Pb7UlpRdW6U.md#t-00-10-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(629);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=629s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The email was sent to Karoline Leavitt's press office and team so she can confirm its authenticity. ... The national security press team, the national security operations team copied onto this email.
 

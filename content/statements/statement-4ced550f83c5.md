@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:26:18](/episodes/ep-9hRcfSrri70.md#t-00-25-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1578);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=1578s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's partnering with his enemies. I think she is certainly complicit in helping to seed the narrative that Tyler Robinson is guilty or was guilty before we even got to the preliminary hearing. The vice president, I also said, was complicit in that when he was on stage at Turning Point USA talking about Tyler Robinson.
 

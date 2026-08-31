@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:15:41](/episodes/ep-BxN2-aeMYIs.md#t-00-15-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(941);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=941s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's a company called Vine and Fig Tree, VFT. ... VFT is a pro-Israel organization with ties to the administration. Earlier this year, VFT was at the White House meeting with Sebastian Gorka.
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:34:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-33-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2060);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=2060s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > by the way, that I will be speaking. I actually have not spoken. In a while publicly, I've been working on my podcast because I was at war with Zionists. But I will be speaking at the Catholics for Catholics conference on March 19th in Washington, D.C.
 

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3495);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=3495s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I now believe that it is a objectively racist philosophy.
 

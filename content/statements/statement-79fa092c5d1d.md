@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:35:54](/episodes/ep-5NQyGuRYbU8.md#t-00-35-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2154);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2154s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) really just being what she was described as in that Department of War executive office email. She's just an quote unquote emotional asset that keeps getting boosted every time she gets emotional. Her job is to cry.
 

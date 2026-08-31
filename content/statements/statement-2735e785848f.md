@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:16:04](/episodes/ep-_cNtgris8Ik.md#t-00-15-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(964);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=964s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what was done to the footage is not to say that it was compressed you should say that the aspect ratio was decreased to make everything look squeezed it's more technical more technically correct to say the aspect ratio was decreased rather than saying compressed okay we all know no one's ever accused me of being a tech genius but the point is it was squished okay the footage that you saw in court that i saw in ... in court was in effect modified my government source confirmed that the people online like i said accuse me of ai so i don't know i'm feeling like we should show you the footage now in video form so you can see that i did not do that and they lied as always take a look at this
 

@@ -30,15 +30,15 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1911);return false;">Play</a>
+**Timestamp:** [00:31:45](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1905s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Andrew (Andrew Kolvet) told me. Verbatim. That BB Net and Yahoo offered to take turning points to the next level and that Charlie (Charlie Kirk) turned that money down.
+> You know, I told them. Andrew (Andrew Kolvet) was my source. Andrew (Andrew Kolvet) told me. Verbatim. That Bibi Netanyahu offered to take turning points to the next level and that Charlie (Charlie Kirk) turned that money down.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** No

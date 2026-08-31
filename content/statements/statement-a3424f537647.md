@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:20:44](/episodes/ep-GY6GWceEqtQ.md#t-00-20-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Name your price, ... Turning Point USA. ... I want to know the number because I'm going to go online, ... start a GoFundMe and raise it overnight.
 

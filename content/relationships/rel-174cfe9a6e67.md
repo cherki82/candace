@@ -23,7 +23,7 @@ object: "person-rob-mccoy"
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
-- [00:13:00](/episodes/ep-6J6lRZPQ4jk#t-00-13-00): _Mikey (Mikey McCoy) has offered that his dad was confused._
+- [00:10:20](/episodes/ep-6J6lRZPQ4jk#t-00-10-20): _Okay, Mikey (Mikey McCoy) has offered that his dad was confused._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
@@ -51,7 +51,7 @@ object: "person-rob-mccoy"
 
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
-- [00:05:51](/episodes/ep-es7PWdFGoFI#t-00-05-51): _And he immediately calls his dad. He calls Robin McCoy. And he says, dad, someone shot Charlie._
+- [00:25:41](/episodes/ep-es7PWdFGoFI#t-00-25-41): _And around the time I put that phone away, and then he immediately calls his dad. He calls Robin McCoy. And he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends._
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 

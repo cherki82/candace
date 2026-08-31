@@ -23,13 +23,13 @@ veracity: "false"
 ## About
 
 - [United States Capitol Police](/entities/org-united-states-capitol-police.md) (org)
-- [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md) (person)
+- [Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md) (person)
 
 ## Source
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(501);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=501s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, this weekend—after five long years—finally the person, and I'll say allegedly because I guess we're going to have to wait for the feds to dispute this, but the person responsible for dropping off those pipe bombs was revealed to be a fed—more specifically, a 31-year-old woman and a United...
 

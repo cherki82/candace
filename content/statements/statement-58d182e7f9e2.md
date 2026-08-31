@@ -7,7 +7,7 @@ type: "promise"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -26,7 +26,7 @@ veracity: "false"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:29:01](/episodes/ep-his-JBjlkh8.md#t-00-28-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1741);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1741s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In the near future, there will be a live stream here in Phoenix where we address in a clear and comprehensive way the claims and accusations—the false accusations—that have been made against Charlie (Charlie Kirk)'s family, friends, and the people here at Turning Point. ... If Candace is available, we would sincerely welcome her participation in that live stream at our studio here in Phoenix.
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:07:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-07-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(436);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=436s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because multiple people remember, and they say that Erika Frantzve (Erika Kirk) was the contact. Specifically, what they recall is that she was the contact for a white building on the Upper East Side around 68th Street, between 2nd and 3rd Avenues.
 

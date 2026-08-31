@@ -6,6 +6,11 @@ date: "2026-07-20"
 ---
 
 **Date:** 2026-07-20
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday evening”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2026-07-20"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:00:01](/episodes/ep-OgRyiOAVtWU.md#event-event-2026-07-20-the-daily-mail-published-an-article-repo-t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The article did drop yesterday evening and it is quite shocking.
 
@@ -25,6 +30,6 @@ date: "2026-07-20"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Daily Mail article of Erica referring to me as a soulless ghoul and a B.I.

@@ -5,14 +5,22 @@ id: "person-adam-lanza"
 type: "PERSON"
 aliases:
   - "Lanza"
+categories:
+  - "Sandy Hook shooting"
 ---
 
 _Type: People_
 
 **Also known as:** Lanza
 
+**Categories:** Sandy Hook shooting
+
+**Entity verification:** verified
+> The official Connecticut State's Attorney report identifies Adam Lanza by full name in the Sandy Hook context used in the episode.
+Source: [Report of the Ansonia-Milford Judicial District State's Attorney](https://portal.ct.gov/-/media/dcj/sandyhookfinalreportpdf.pdf)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33">2025-11-03 · 00:46:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33">2025-11-03 · 00:46:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33">2025-11-03 · 00:46:39</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -24,15 +32,15 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33) | 1 |
 
 </details>
 </section>
@@ -43,13 +51,10 @@ _Type: People_
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:46:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33)**
-> "I think it's Adam Lanza (Adam Lanza), so I'm thinking of—so there's a theme here"
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:46:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-adam-lanza-t-00-46-33)**
-> "I think it's Adam Lanza (Adam Lanza), so I'm thinking of—"
+> "I think it's Adam Lanza, so I'm thinking of—"
 
 </details>
 

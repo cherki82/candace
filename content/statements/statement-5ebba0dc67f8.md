@@ -3,7 +3,7 @@ title: "the Zionists started circling Charlie (Charlie Kirk) and try..."
 description: "\"the Zionists started circling Charlie (Charlie Kirk) and trying to control things\" — Candace Owens"
 statement_id: "statement-5ebba0dc67f8"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
@@ -23,14 +23,14 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:41:24](/episodes/ep-sreYYcID-QY.md#t-00-40-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2484);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2484s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What you are referring to, which is kind of a part of the story that we're telling you, is that the Zionists started circling Charlie (Charlie Kirk) and trying to control things
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

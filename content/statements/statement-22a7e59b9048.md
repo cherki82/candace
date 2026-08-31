@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:00:58](/episodes/ep-YeEtS7nix3o.md#t-01-00-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3658);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Literally, they put the actual bloody microphone that he was holding when he died in a glass encasement for donors to ooh and ah at at their annual fundraising event at Mar-a-Lago. ... They then transported that mic to AmFest and captured Erika looking down upon it, sullen.
 

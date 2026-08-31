@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:30:24](/episodes/ep-QdM9jLwjwLw.md#t-00-29-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1824);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=1824s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > are then asked to come in on the weekend to pack t-shirts because it's what Charlie (Charlie Kirk) would want and i kept picking up on that beyond these calls i kept saying why does it feel like they're using the ghost of Charlie (Charlie Kirk) to sort of guilt people into doing things like this is what Charlie (Charlie Kirk) would want you'd want your money this is what Charlie (Charlie Kirk) would want he would want your your kids college fund this is what Charlie (Charlie Kirk) would want he wants grandma's will this is what Charlie (Charlie Kirk)'s uh dancing he's dancing in heaven
 

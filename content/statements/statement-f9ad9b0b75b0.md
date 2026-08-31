@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:35:05](/episodes/ep-wcD2khO3rOA.md#t-00-34-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2105);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2105s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Liberty Godparent Home... is defending itself against allegations of coercion and manipulation.
 

@@ -20,7 +20,7 @@ _Type: Places_
 Source: [Maine.gov](https://www.maine.gov/portal/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-38">2025-11-04 · 00:43:02</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-35">2025-11-04 · 00:43:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57">2026-06-15 · 00:39:20</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
@@ -34,7 +34,7 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-maine-t-00-25-02">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-38" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-35" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-maine-t-00-18-23" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-maine-t-00-45-36" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-maine-t-00-32-40" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-38) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-35) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-maine-t-00-18-23) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-maine-t-00-45-36) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-maine-t-00-32-40) | 1 |
@@ -139,7 +139,7 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
-**[00:43:02](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-38)**
+**[00:43:02](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-35)**
 > "...here the Lord was born—a Zionist who dislikes Netanyahu." Curious how you feel about that love from Maine. At least makes me happy to hear you acknowledge that there's a demon. I don't—it's the strangest t..."
 
 </details>

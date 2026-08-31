@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:14:54](/episodes/ep-tXoI0TTKVrs.md#t-00-14-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(894);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I intentionally addressed my email where I asked, was this doctored to Justin Streiff, who is the COO, to Andrew Kolvet, who is the official spokesperson of Turning Point USA and to their lawyer.
 

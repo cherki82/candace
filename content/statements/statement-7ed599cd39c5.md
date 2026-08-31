@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:52:44](/episodes/ep--9MOUvgGyi4.md#t-01-52-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6764);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=6764s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Victor (Victor Marx) knew about it. I think he said that he paid for the counseling, ... did not. ... I paid all of it. It was $13,000 with the counseling and the room. ... But I don't know why he said that he paid for it. He didn't.
 

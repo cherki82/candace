@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-38-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2342);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=2342s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,
 

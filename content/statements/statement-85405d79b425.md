@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:25:59](/episodes/ep-SubDoZWHARo.md#t-00-25-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1559);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1559s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Disagreeing with the new CEO and chairman. This is not just a widow. This is a new CEO and chairman of TPUSA, a position that she did not earn, nothing that she has done warrant her being in that position.
 

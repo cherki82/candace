@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:47:31](/episodes/ep-SKNJPul29zU.md#t-00-47-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2851);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2851s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > perfect. Okay, Matthew Crooks (Thomas Matthew Crooks). So Tucker (Tucker Carlson) did this really great special on the lack of investigation into that and how much we were lied to by our FBI, like the fact that the FBI told us that, oh, there's no online trail of this guy. And it turns out, no, he was actually pretty active online.
 

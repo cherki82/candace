@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:31:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-31-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5512);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=5512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > crucially Kathy Nestor said I have not even been given access to my client's phone during this hearing she said I haven't even been given access to my client's phone
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:01:08](/episodes/ep-aPOyk1i2LOc.md#t-01-00-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3668);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=3668s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > crucially Kathy Nestor said I have not even been given access to my client's phone during this hearing
 

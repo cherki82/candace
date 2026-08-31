@@ -82,7 +82,7 @@ _No relationships extracted yet._
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
 - [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it h..."](/statements/statement-d70f584ccc65.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 

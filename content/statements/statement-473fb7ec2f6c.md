@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:05:16](/episodes/ep-i8m_6D4QGmk.md#t-00-05-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(316);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=316s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And on the matter of science, even when it's in our faces, like when the world's leading nuclear physicists are caught. ... cloaked before a statue of Shiva stabbing a woman in an occult ceremony for CERN, well, you guys, that's just science.
 

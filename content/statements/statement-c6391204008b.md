@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:02:35](/episodes/ep-DYD_QHMPwqM.md#t-00-02-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(155);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=155s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > well interestingly enough that that particular project 23andme or that particular business also began shortly following our invasion into Iraq. ... Well, in 2005, the now bankrupt company, 23andMe came together where people began sending in those DNA kits to figure out their ancestry.
 

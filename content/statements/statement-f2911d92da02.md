@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:38:50](/episodes/ep-ja26iltROkM.md#t-00-38-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2330);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=2330s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The new flesh is everybody; is everyone's included." "You're talking about Romans 9?" "Yes, 9 and 6, yeah." "Are you Catholic?" "Converting to Catholic from Judaism." "Oh, from Judaism?" "Yes." "Oh, wow
 

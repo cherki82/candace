@@ -16,7 +16,7 @@ _Type: Places_
 Source: [North Dakota](https://en.wikipedia.org/wiki/North_Dakota)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07">2025-10-30 · 00:19:07</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-18-37">2025-10-30 · 00:19:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-08-31">2025-11-21 · 00:08:40</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
@@ -30,7 +30,7 @@ Source: [North Dakota](https://en.wikipedia.org/wiki/North_Dakota)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-18-37" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-north-dakota-t-00-24-03" style="--pulse-height:75%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
 </div>
@@ -38,7 +38,7 @@ Source: [North Dakota](https://en.wikipedia.org/wiki/North_Dakota)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-18-37) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-north-dakota-t-00-24-03) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45) | 4 |
 
@@ -84,7 +84,7 @@ Source: [North Dakota](https://en.wikipedia.org/wiki/North_Dakota)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07)**
+**[00:19:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-18-37)**
 > "...see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? It didn't—no, it departe..."
 
 </details>

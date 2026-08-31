@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:53:50](/episodes/ep-h76ZN-xXC6c.md#t-00-53-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3230);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=3230s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the individual just protecting identity still that we traveled to with Russia who served in our military for 12 years, a SEAL Team One actually, and was begging for an appointment at the VA and was routinely being declined that appointment at the VA and had a ... Seizure when we landed into Russia just one day afterward.
 

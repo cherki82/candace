@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:13:19](/episodes/ep-CMcktj3Egfo.md#t-00-13-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(799);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=799s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was shot and he was killed because a 41-year-old man blamed the prime minister, whose family did in fact have long running ties. ... To the Moonies church, the Unification Church, as it's called, and whose cabinet was factually closely associated with the Unification Church, he blamed him for promoting that church, which eventually bankrupted his family.
 

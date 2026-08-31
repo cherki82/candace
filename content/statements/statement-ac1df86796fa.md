@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:30:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1813);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1813s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, as you know, I'm a Catholic. I'm a Catholic and Catholics do not embrace Zionism, just so you know. So are all Catholics anti-Semites, according to you?
 

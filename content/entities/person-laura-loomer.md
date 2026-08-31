@@ -16,13 +16,13 @@ _Type: People_
 Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-04-24">2025-09-16 · 01:04:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-laura-loomer-t-00-32-40">2026-08-10 · 00:33:10</a></strong></div>
 <div><span>Episodes</span><strong>37</strong></div>
 <div><span>Mentions</span><strong>140</strong></div>
-<div><span>Statements by</span><strong>21</strong></div>
-<div><span>Statements about</span><strong>32</strong></div>
-<div><span>Relationships</span><strong>40</strong></div>
+<div><span>Statements by</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Relationships</span><strong>44</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -30,12 +30,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-laura-loomer-t-00-36-44">EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327</a> (22 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-04-24" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-laura-loomer-t-00-26-14" style="--pulse-height:23%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 5 mentions" title="2025-09-22 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-laura-loomer-t-00-42-16" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04" style="--pulse-height:9%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39" style="--pulse-height:18%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-14-50" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-36" style="--pulse-height:18%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
@@ -72,12 +72,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-04-24) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-laura-loomer-t-00-26-14) | 5 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-laura-loomer-t-00-42-16) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04) | 2 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39) | 4 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-14-50) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-36) | 4 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35) | 1 |
@@ -651,16 +651,16 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
 
-**[00:47:39](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39)**
+**[00:47:36](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-36)**
 > "..., money, a lot of questions about the Pentagon— they have just given press passes. They've just put Laura Loomer in their press corps. I'm not kidding. Check this out. Check out this headline. "Conservative activ..."
 
-**[00:47:44](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39)**
+**[00:47:42](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-36)**
 > "...their press corps. I'm not kidding. Check this out. Check out this headline. "Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass." Now, this is of interest. Th..."
 
-**[00:47:51](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39)**
+**[00:47:48](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-36)**
 > "...ass." Now, this is of interest. This should be of interest to everybody. But you don't have to be a Laura Loomer hater or a Laura Loomer lover to know that Laura Loomer quite literally has psychiatric issues. Oka..."
 
-**[00:48:12](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-48-12)**
+**[00:48:11](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-48-11)**
 > "...of David and trying to correlate being banned from Twitter as being in a Holocaust is the fact that Laura Loomer is factually not Jewish. Okay, so she's living in a delusion that she's even Jewish. That was polit..."
 
 </details>
@@ -668,7 +668,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
-**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04)**
+**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-14-50)**
 > "...n our book club. You can buy our—we don't know, no, but we know—brand stuff. Join us in prison when Laura Loomer sends us for writing CIA in parody. And it's a parody because we don't want to be in the CIA. We th..."
 
 </details>
@@ -715,7 +715,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[01:04:32](/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56)**
+**[01:04:32](/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-04-24)**
 > "... going to crush me? Are you going to impoverish us all? Why are you guys like this, is my question. Laura Loomer in too. This is, like, how Bill, I guess, wins the argument. They're like, "Bill gave money." It's ..."
 
 </details>
@@ -726,7 +726,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (5)</summary>
+<summary>Accused (6)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -761,9 +761,17 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “Candace should be forced to register with FARA, and her bank accounts and her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:01](/episodes/ep-ja26iltROkM.md#t-00-26-58): “As part of her grift to monetize the murder of her quote-unquote best friend, Charlie Kirk, Candace Owens is selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
 
 </details>
 
@@ -853,12 +861,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Criticized (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:39](/episodes/ep-ja26iltROkM.md#t-00-27-37): “A real live tweet came from Laura Loomer, our resident psycho. She's been attacking me nonstop”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:58](/episodes/ep-ja26iltROkM.md#t-00-26-14): “Laura Loomer, our resident psycho. She's been attacking me nonstop.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:27](/episodes/ep-kaWtDuoY_ns.md#t-00-48-06): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “It's directed to me after yesterday's episode. She said, God hates you at Real Candace O. It's why he gave Charlie to Erika and why you didn't even get.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:17](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “and get to say goodbye to him. God hates you. Look in the mirror and internalize how much God hates you. We all hate you.”
@@ -896,7 +901,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
@@ -907,6 +912,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “the Laura Loomers like, you know, we're MAGA now. OK, great. Then I'm not MAGA.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:05:53](/episodes/ep-YeEtS7nix3o.md#t-00-05-25): “This is genuinely mental unwellness. ... On top of that, you had Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting, which was news to us”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:59:50](/episodes/ep-OgRyiOAVtWU.md#t-00-59-50): “The expression, "crying out while they strike you." Literally, are we kidding? Do we have that Laura Loomer? Somebody just tweeted this, just to show the psychosis of Laura Loomer. Here's 591 Laura Loomer posts talking about @RealCandaceO. And he followed this up by saying that's just what was digitally possible to fit onto a screen. Like, this is real. He just posted this, and then he showed how like 45 of them were happening in just one evening.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:47:48](/episodes/ep-LATnak75Si0.md#t-00-47-36): “But you don't have to be a Laura Loomer hater or a Laura Loomer lover to know that Laura Loomer quite literally has psychiatric issues.”
 
 </details>
 
@@ -925,6 +931,18 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
+<summary>Funded By (1)</summary>
+
+- **[Bob Shillman](/entities/person-bob-shillman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -937,7 +955,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Referenced By (20)</summary>
+<summary>Referenced By (22)</summary>
 
 - **[Alan Jacoby](/entities/person-alan-jacoby.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -986,9 +1004,17 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “Candace should be forced to register with FARA, and her bank accounts and her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:01](/episodes/ep-ja26iltROkM.md#t-00-26-58): “As part of her grift to monetize the murder of her quote-unquote best friend, Charlie Kirk, Candace Owens is selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
 
 </details>
 
@@ -1032,7 +1058,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
@@ -1043,14 +1069,14 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “the Laura Loomers like, you know, we're MAGA now. OK, great. Then I'm not MAGA.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:05:53](/episodes/ep-YeEtS7nix3o.md#t-00-05-25): “This is genuinely mental unwellness. ... On top of that, you had Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting, which was news to us”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:59:50](/episodes/ep-OgRyiOAVtWU.md#t-00-59-50): “The expression, "crying out while they strike you." Literally, are we kidding? Do we have that Laura Loomer? Somebody just tweeted this, just to show the psychosis of Laura Loomer. Here's 591 Laura Loomer posts talking about @RealCandaceO. And he followed this up by saying that's just what was digitally possible to fit onto a screen. Like, this is real. He just posted this, and then he showed how like 45 of them were happening in just one evening.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:47:48](/episodes/ep-LATnak75Si0.md#t-00-47-36): “But you don't have to be a Laura Loomer hater or a Laura Loomer lover to know that Laura Loomer quite literally has psychiatric issues.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:27](/episodes/ep-kaWtDuoY_ns.md#t-00-48-06): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “It's directed to me after yesterday's episode. She said, God hates you at Real Candace O. It's why he gave Charlie to Erika and why you didn't even get.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:17](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “and get to say goodbye to him. God hates you. Look in the mirror and internalize how much God hates you. We all hate you.”
@@ -1089,6 +1115,13 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Bob Shillman](/entities/person-bob-shillman.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1108,7 +1141,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Laura Loomer (21)</strong></summary>
+<summary><strong class="section-title">Statements by Laura Loomer (22)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>
@@ -1216,9 +1249,17 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+
+- [00:47:42](/episodes/ep-LATnak75Si0.md#t-00-47-36) [✓] (Claim) ["Laura Loomer said she had a new Pentagon press pass."](/statements/statement-5515540e535d.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
+
+</details>
+
+<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1)</summary>
 
-- [00:27:12](/episodes/ep-ja26iltROkM.md#t-00-26-58) [○] (Accusation) ["Candace Owens is selling CIA merchandise that rips off the CIA name and logo, wh..."](/statements/statement-38ca64bc2304.md)
+- [00:27:01](/episodes/ep-ja26iltROkM.md#t-00-26-58) [◐] (Accusation) ["Candace Owens is selling CIA merchandise that rips off the CIA name and logo, wh..."](/statements/statement-38ca64bc2304.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
@@ -1226,7 +1267,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Laura Loomer (32)</strong></summary>
+<summary><strong class="section-title">Statements about Laura Loomer (35)</strong></summary>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
@@ -1352,6 +1393,18 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 - [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer created a list of conservative influencers she believes t..."](/statements/statement-9aff611619c4.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Iran](/entities/gpe-iran.md), [Russia](/entities/gpe-russia.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3)</summary>
+
+- [00:47:42](/episodes/ep-LATnak75Si0.md#t-00-47-36) (Claim) **Laura Loomer** (via quoted article): ["Laura Loomer said she had a new Pentagon press pass."](/statements/statement-5515540e535d.md)
+  - Also about: [United States Pentagon](/entities/org-united-states-pentagon.md)
+
+- [00:47:59](/episodes/ep-LATnak75Si0.md#t-00-47-36) (Accusation) **Candace Owens**: ["Candace Owens claimed Laura Loomer had been on multiple psychiatric 51..."](/statements/statement-163a3a8abdb5.md)
+
+- [00:48:03](/episodes/ep-LATnak75Si0.md#t-00-47-36) (Claim) **Candace Owens**: ["Candace Owens said Laura Loomer chained herself to Twitter headquarter..."](/statements/statement-7d5d6155cd0f.md)
 
 </details>
 

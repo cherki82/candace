@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:01:03](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(63);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=63s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The point is, what I want you to take away here, is that these two are in cahoots, okay?
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:15:33](/episodes/ep-eLgD5yUVbko.md#t-00-15-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(933);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=933s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was even a smaller dinner that took place later with just about 12 people in attendance that took place after the presentation. ... They asked him about his future plans for turning point, and Erika was never mentioned.
 

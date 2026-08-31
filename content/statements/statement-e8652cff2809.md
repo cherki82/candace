@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:25:34](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1534);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1534s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will say it until I'm blue in the face. I want no harm to come not only to Erika Kirk, to anybody at Turning Point USA, not Andrew Kolvet, not Blake Neff.
 

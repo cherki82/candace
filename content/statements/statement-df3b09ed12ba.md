@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:02:01](/episodes/ep-YaZfwLQ7vrI.md#t-00-01-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(121);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=121s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I learned via tips that the feds immediately seized the footage at Timpanogos Hospital
 
@@ -39,7 +39,7 @@ type: "factual_claim"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:02:11](/episodes/ep-YaZfwLQ7vrI.md#t-00-02-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(131);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=131s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I learned via tips that the feds immediately seized the footage at Timpanogos Hospital
 

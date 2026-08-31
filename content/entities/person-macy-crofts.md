@@ -5,11 +5,19 @@ id: "person-macy-crofts"
 type: "PERSON"
 aliases:
   - "Macy"
+categories:
+  - "Utah Valley University event coordination context"
 ---
 
 _Type: People_
 
 **Also known as:** Macy
+
+**Categories:** Utah Valley University event coordination context
+
+**Entity verification:** verified
+> The cleaned source and an independently published transcript both render the event organizer's full name as Macy Crofts at the same UVU-event passage. No broader public-profile claim is inferred.
+Source: [Candace Ep 272 Transcript – Podscripts](https://podscripts.co/podcasts/candace/turning-point-has-been-keeping-a-big-secret-did-charlie-know-about-it-candace-ep-272)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-macy-crofts-t-00-21-13">2025-12-02 · 00:21:16</a></strong></div>

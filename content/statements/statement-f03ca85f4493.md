@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(788);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=788s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, this background I'm telling you about Lyle (Lyle Reams) because it was apparently not a bar to entry for Lori (Lori Frantzve) and Larry (Larry Guinta) to pursue a business with Lyle (Lyle Reams) because fast forward to 2017 and together they filed to open a business. ... According to the formation docs, the business that they filed is called Desert Spirit Tech, LLC.
 

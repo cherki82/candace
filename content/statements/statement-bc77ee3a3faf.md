@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:13:28](/episodes/ep-E7P2ShoYDUA.md#t-00-13-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(808);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=808s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > disrespectful. And then we figure out why. And then it starts to make sense because he shows up with Steven Crowder's team.
 

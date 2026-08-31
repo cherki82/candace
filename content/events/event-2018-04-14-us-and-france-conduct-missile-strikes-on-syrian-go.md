@@ -6,6 +6,7 @@ date: "2018-04-14"
 ---
 
 **Date:** 2018-04-14
+**Date precision:** Day
 
 ## Event
 
@@ -14,7 +15,10 @@ date: "2018-04-14"
 ## Mentioned In
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:43:12](/episodes/ep-a-e7HC6SeK8.md#event-event-2018-04-14-us-and-france-conduct-missile-strikes-on-syrian-go-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2592);return false;">▶️ Play</a>
+**Timestamp:** [00:43:12](/episodes/ep-a-e7HC6SeK8.md#event-event-2018-04-14-us-and-france-conduct-missile-strikes-on-syrian-go-t-00-43-12) 
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=2592s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> mind. That's what's on my mind really all day because yesterday we were explaining to you guys this sort of random coincidence—maybe not a coincidence— of the FBI seemingly choosing to work in offices
+> the United States and France were carrying out a series of military strikes
+
+> **Date stated in this source:** “April 14th, 2018”
+> **Date review note:** The date is established across the contiguous April 2018 timeline context.

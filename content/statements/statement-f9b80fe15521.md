@@ -1,8 +1,8 @@
 ---
-title: "on February 24th, Charlie Kirk reaches out, and he tells me ..."
-description: "\"on February 24th, Charlie Kirk reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte\" — Candace Owens"
+title: "Charlie Kirk told Candace Owens on February 24 that the Whit..."
+description: "\"Charlie Kirk told Candace Owens on February 24 that the White House had asked her to stop speaking about Brigitte Macron\" — Charlie Kirk"
 statement_id: "statement-f9b80fe15521"
-speaker: "Candace Owens"
+speaker: "Charlie Kirk"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,29 @@ type: "factual_claim"
 
 ## Statement
 
-> on February 24th, Charlie Kirk reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte
+> Charlie Kirk told Candace Owens on February 24 that the White House had asked her to stop speaking about Brigitte Macron
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** phone call and text messages
+
+## About
+
+- [White House](/entities/org-white-house.md) (org)
+- [Brigitte Macron](/entities/person-brigitte-macron.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:11:46](/episodes/ep-sImMM04XdWY.md#t-00-11-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(706);return false;">Play</a>
+**Timestamp:** [00:11:46](/episodes/ep-sImMM04XdWY.md#t-00-11-35) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=706s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> A couple of days later, on February 24th, Charlie (Charlie Kirk) reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte
+> A couple of days later, on February 24th, Charlie (Charlie Kirk) reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte.
 
 ## Verification
 

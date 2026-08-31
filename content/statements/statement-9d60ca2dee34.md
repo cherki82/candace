@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:00:02](/episodes/ep-DYD_QHMPwqM.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=2s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Emmanuel Macron is gay.
 

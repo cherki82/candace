@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:41:08](/episodes/ep-SKNJPul29zU.md#t-00-41-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2468);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2468s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just think at the top, it's all the same. I think the Epstein files had everyone in it. Truly, I think they have been that sort of global arms trafficking, human sex trafficking syndicate is running America and has been running America for a long time. Obviously, Epstein, his side gig was blackmail, but people forget that.
 

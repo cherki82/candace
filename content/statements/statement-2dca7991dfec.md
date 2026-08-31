@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:18:14](/episodes/ep-QZWSsq8ZWzw.md#t-00-17-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1094);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1094s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is shaped by Soviet ideology.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [01:03:07](/episodes/ep-i8m_6D4QGmk.md#t-01-02-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3787);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3787s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For property that was promised to a lot of these pastors, by the way, property in Gaza, they've already got like homes that are promised to them to convince their churches to support this, just so you know.
 

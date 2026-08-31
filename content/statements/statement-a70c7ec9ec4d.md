@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:20:50](/episodes/ep-HYn0P-P1wUw.md#t-00-20-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1250);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1250s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did go through that 12 hour footage. our footage. And I would like to now state unequivocally that I think his story checks out.
 

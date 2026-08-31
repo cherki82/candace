@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1310);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1310s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We fast forward now to February 4th, 2025, just a few weeks after Trump (Donald Trump)'s inauguration into his second presidential term. ... Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation.
 

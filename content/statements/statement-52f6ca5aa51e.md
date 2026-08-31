@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:36:46](/episodes/ep-jTj9Ip46r4w.md#t-00-36-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2206);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=2206s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know my wife, Erica (Erika Kirk), is from the Lombardi family.
 

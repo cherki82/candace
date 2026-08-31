@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:02:20](/episodes/ep-I0OaY6Gryqk.md#t-00-02-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just vibes, some red cows. That's why we're losing, because nobody has a plan. Nobody thought through the Strait of Hormuz, and so he's out there begging everybody to get involved. 'Oh, I picked a fight, and actually I don't really like to fight. I like to get my hands dirty. I don't even touch my own door handles. Can somebody else go fight, beat up Iran for me?' And so now he's looking at India, and he went over there like, 'Hey, can you guys send some troops to the Strait of Hormuz?' ... We've got to keep that open. And India came back and said, sorry, buddy, we're not getting involved. ... So we can add them to our ever-growing list of countries who are telling Trump (Donald Trump), you started it, you can finish it.
 

@@ -6,6 +6,11 @@ date: "2026-05-18"
 ---
 
 **Date:** 2026-05-18
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-05-18"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:04:41](/episodes/ep-Dkxa9OUA9K8.md#event-event-2026-05-18-a-canadian-couple-associated-with-victor-t-01-04-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3881);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=3881s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Three, we brought in law enforcement both here and in Texas where we were keeping her, before we

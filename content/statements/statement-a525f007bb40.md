@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:35:58](/episodes/ep-QZWSsq8ZWzw.md#t-00-35-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2158);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Kirk and Charlie Kirk heard about these curses. And that news genuinely rattled Erika in particular. She knew Christian teaching on the subject. She loved Charlie absolutely. And she was scared when she heard of the curses Jezebel had called up. So much so that she and Charlie contacted a friend—who I believe she said was a Catholic priest, but definitely a friend—and asked him to come over and pray with them over Charlie the night before he was murdered.
 

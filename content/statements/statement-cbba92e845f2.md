@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:31:42](/episodes/ep-QRS_hR7NXaQ.md#t-00-31-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1902);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to the possibility that Erika (Erika Kirk) was just not there on the 8th at all and the way in which her mother was again used to sort of guilt us away from asking questions when I was asking about Huachuca she's with her mom she's with her mom until she then popped up which she wouldn't have had this happen and then I texted and I said you told me that she's like not available at all because she's with her mom and her mom's like in a hospital but she's actually at a basketball game because a fan caught Erika (Erika Kirk) at a basketball game and then it was like oh oh yeah a if was it a football game Skylar (show producer; surname unverified) a football game
 

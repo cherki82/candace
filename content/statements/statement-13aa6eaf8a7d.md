@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:48:55](/episodes/ep-i8m_6D4QGmk.md#t-00-48-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2935);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2935s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It has been and it will continue to be. And President Trump wisely does not remove options off of the table. I know a lot of politicians like to do that quickly, but the president as commander in chief wants to continue to assess the success of this military operation. ... It's not part of the current plan right now, but the president again wisely keeps his options on the table.
 

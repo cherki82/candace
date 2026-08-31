@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:51:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3069);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=3069s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then I feel there were handlers after the Kanye moment and I told you Erika was playing both sides of that as well. And I have. ... Proof of that. And I am still trying to get the person who presented that proof to allow me to share it publicly.
 

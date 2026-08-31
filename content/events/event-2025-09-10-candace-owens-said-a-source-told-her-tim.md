@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th, at some point in the 10 o'clock a.m. hour”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:23:02](/episodes/ep-iB-YtO3UZOg.md#event-event-2025-09-10-candace-owens-said-a-source-told-her-tim-t-00-22-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1382);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1382s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Timpanogos hospital staff directed everyone who was in the emergency room into a different wing

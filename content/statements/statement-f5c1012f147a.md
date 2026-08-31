@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:06:31](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(391);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=391s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's the precursor to NASA's Apollo program. Oh, he was such a genius. Yes, he was trying to literally summon demons. He was Aleister Crowley's protege. He was doing the exact same thing that Aleister Crowley was doing, throwing elite sex parties, saying we're going to create a moon child, everyone sex, drugs.
 

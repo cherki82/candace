@@ -1,6 +1,6 @@
 ---
-title: "people thought that when I had made up my mind about Israel,..."
-description: "\"people thought that when I had made up my mind about Israel, that Charlie and me fell apart. Nope. Never. Not for a second.\" — Candace Owens"
+title: "Candace Owens said she and Charlie Kirk did not fall apart a..."
+description: "\"Candace Owens said she and Charlie Kirk did not fall apart after she made up her mind about Israel.\" — Candace Owens"
 statement_id: "statement-7c292200ad20"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> people thought that when I had made up my mind about Israel, that Charlie and me fell apart. Nope. Never. Not for a second.
+> Candace Owens said she and Charlie Kirk did not fall apart after she made up her mind about Israel.
 
 ## Attribution
 
@@ -19,13 +19,18 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:20:19](/episodes/ep-_dRaEO47-co.md#t-00-20-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1219);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=1219s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> how wrong it was when people thought that when I had made up my mind about Israel, that Charlie (Charlie Kirk) and me
+> And we laughed at how wrong it was when people thought that when I had made up my mind about Israel, that Charlie (Charlie Kirk) and me fell apart. ... Nope. Never. Not for a second.
 
 ## Verification
 

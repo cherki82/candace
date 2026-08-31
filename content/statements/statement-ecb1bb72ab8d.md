@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:45:40](/episodes/ep-his-JBjlkh8.md#t-00-44-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, we just watched Trump (Donald Trump) get shot at and his ear clipped.
 

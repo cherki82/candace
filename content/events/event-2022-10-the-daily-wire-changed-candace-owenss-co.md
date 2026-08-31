@@ -6,6 +6,11 @@ date: "2022-10"
 ---
 
 **Date:** 2022-10
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “after Kanye West's 2022 post”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2022-10"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:39:34](/episodes/ep-zSKrxIUMNqw.md#event-event-2022-10-the-daily-wire-changed-candace-owenss-co-t-00-39-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2374);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2374s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > then here's what we're going to do. We're going to change the contract.

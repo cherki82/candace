@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:35:44](/episodes/ep-sKuYLNx3iRo.md#t-00-35-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2144);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2144s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Our government did a lot of experiments with that. The CIA trained people to intentionally disassociate people that are serial killers that are used as weapons and they want to make sure that they lock down their personalities if the police ever come across them. There's a lot of evil, intentional mental abuse that our
 

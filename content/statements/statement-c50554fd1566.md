@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [01:04:26](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3866);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=3866s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't think Erika (Erika Kirk) ever denied that. She's like on camera saying that she moved to Arizona because her mother got defense contracts. So she was her mother was working with the DOD.
 

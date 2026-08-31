@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:48:32](/episodes/ep-I0OaY6Gryqk.md#t-00-48-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2912);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > DCA, both Ronald Reagan Airport and Dulles Airport, which is in D.C., plus Baltimore Airport, which is the nearest, plus Richmond Airport, which would be also just outside of D.C., all of them just got shut down. ... And they said because there was a strong odor coming from the Potomac River. ... What? It was shut down for about two hours, 20 minutes. And then when they came back, they said that the there was a circuit board that overheated.
 

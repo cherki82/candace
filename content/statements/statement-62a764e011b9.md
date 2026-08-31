@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:13:40](/episodes/ep-DYD_QHMPwqM.md#t-00-13-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(820);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=820s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Go back to COVID, right? Oh, stay at home, save lives. What were they actually doing? We don't know what they were doing. We know what they weren't doing. They weren't creating a vaccine that guarded you against COVID.
 

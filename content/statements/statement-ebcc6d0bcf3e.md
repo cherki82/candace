@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:10:20](/episodes/ep-cPidFQDJLbo.md#t-00-09-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(620);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=620s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Any details on where he was shot? I am freaking out. He says in the neck head area.
 

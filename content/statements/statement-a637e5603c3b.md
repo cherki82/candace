@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:00:20](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(20);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=20s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) gets assassinated, and the very people who were threatening him reputationally and financially are now trying to memorialize him as having died as a friend of Israel
 

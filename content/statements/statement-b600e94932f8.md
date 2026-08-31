@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:06:24](/episodes/ep-his-JBjlkh8.md#t-00-06-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(384);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=384s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it was Mikey McCoy who then jumped on Liberty University's stage for an event that was scheduled for Charlie (Charlie Kirk).
 

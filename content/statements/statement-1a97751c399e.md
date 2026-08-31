@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:22:57](/episodes/ep-4DvYXBn_5JI.md#t-00-22-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1377);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1377s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, Evergreen High School did have a full-time school resource officer position, but the deputy that was assigned to that role happened to be on medical leave at the time of the shooting. ... So a different deputy whose primary assignment was actually another high school that was nine miles away, Conifer High School, was filling in part-time. ... So he was working as the school officer for both Conifer High School and Evergreen. Evergreen. He was the only one that was on duty the day of the shooting.
 

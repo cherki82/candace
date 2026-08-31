@@ -1,6 +1,6 @@
 ---
-title: "Towards the end, Charlie was fighting for custody of himself"
-description: "\"Towards the end, Charlie was fighting for custody of himself\" — Candace Owens"
+title: "Owens said she believed—in fact, knew—that towards the end, ..."
+description: "\"Owens said she believed—in fact, knew—that towards the end, Charlie Kirk was fighting for custody of himself\" — Candace Owens"
 statement_id: "statement-2dfac75191ef"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Towards the end, Charlie was fighting for custody of himself
+> Owens said she believed—in fact, knew—that towards the end, Charlie Kirk was fighting for custody of himself
 
 ## Attribution
 
@@ -27,8 +27,8 @@ type: "opinion"
 ### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:06:03](/episodes/ep-czVBmqZP6Ss.md#t-00-05-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(363);return false;">Play</a>
+**Timestamp:** [00:05:56](/episodes/ep-czVBmqZP6Ss.md#t-00-05-37) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=356s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I want to be very clear that I believe, in fact I know, that towards the end, Charlie was fighting for custody of himself.
 
@@ -36,7 +36,7 @@ type: "opinion"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:05:56](/episodes/ep-czVBmqZP6Ss.md#t-00-05-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(356);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=356s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I want to be very clear that I believe, in fact I know, that towards the end, Charlie was fighting for custody of himself
 

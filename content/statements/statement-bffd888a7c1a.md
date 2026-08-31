@@ -1,6 +1,6 @@
 ---
-title: "It's the application submitted mid-July by the UVU chapter o..."
-description: "\"It's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA.\" — Nate Carlisle"
+title: "Nate Carlisle reported that the event application was submit..."
+description: "\"Nate Carlisle reported that the event application was submitted in mid-July by the UVU chapter of Turning Point USA.\" — Nate Carlisle"
 statement_id: "statement-bffd888a7c1a"
 speaker: "Nate Carlisle"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> It's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA.
+> Nate Carlisle reported that the event application was submitted in mid-July by the UVU chapter of Turning Point USA.
 
 ## Attribution
 
@@ -19,13 +19,19 @@ veracity: "true"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Fox 13 News report
+
+## About
+
+- [Utah Valley University](/entities/org-utah-valley-university.md) (org)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:18:05](/episodes/ep-Qfwr08Ebczo.md#t-00-17-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1085);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=1085s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA
 

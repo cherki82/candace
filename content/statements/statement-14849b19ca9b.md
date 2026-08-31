@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:06:23](/episodes/ep-Dkxa9OUA9K8.md#t-01-06-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3983);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=3983s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace, I'm human. I've messed up plenty. But in the air of integrity? I've never intentionally gone after anybody. ... intentionally going after anybody I've never manipulated malign or or try to do things for money so yeah I mean watch my film read one of my two books I talk about plenty of self-evident you know ways that I depend on the grace of God
 

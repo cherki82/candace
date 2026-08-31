@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:07:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(427);return false;">Play</a>
+**Timestamp:** [00:07:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=427s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Next data point that we have, federal agents prevented the surgeon from returning to his operating room.
 

@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 73 mentions"
+description: "Pro-Israel advocacy (Concepts) - 105 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -21,13 +21,13 @@ _Type: Concepts_
 Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/Zionism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27">2025-10-31 · 00:12:40</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13">2025-09-16 · 00:51:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04">2026-08-21 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>32</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,7 +35,22 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13" style="--pulse-height:29%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-pro-israel-advocacy-t-00-43-29" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-pro-israel-advocacy-t-00-50-57" style="--pulse-height:29%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-pro-israel-advocacy-t-00-07-21" style="--pulse-height:14%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-concept-pro-israel-advocacy-t-00-09-04" style="--pulse-height:29%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-30-14" style="--pulse-height:57%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-45-45" style="--pulse-height:57%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-pro-israel-advocacy-t-00-12-11" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-11-50" style="--pulse-height:57%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-pro-israel-advocacy-t-00-39-12" style="--pulse-height:43%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27" style="--pulse-height:86%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-pro-israel-advocacy-t-00-06-26" style="--pulse-height:43%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-pro-israel-advocacy-t-00-03-13" style="--pulse-height:14%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-pro-israel-advocacy-t-00-46-45" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-pro-israel-advocacy-t-00-47-15" style="--pulse-height:14%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-concept-pro-israel-advocacy-t-00-08-38" style="--pulse-height:14%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -72,7 +87,22 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-pro-israel-advocacy-t-00-43-29) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-pro-israel-advocacy-t-00-50-57) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-pro-israel-advocacy-t-00-07-21) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-pro-israel-advocacy-t-00-09-04) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-30-14) | 4 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-45-45) | 4 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-pro-israel-advocacy-t-00-12-11) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-11-50) | 4 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-pro-israel-advocacy-t-00-39-12) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27) | 6 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-pro-israel-advocacy-t-00-06-26) | 3 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-pro-israel-advocacy-t-00-03-13) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-pro-israel-advocacy-t-00-46-45) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-pro-israel-advocacy-t-00-47-15) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-concept-pro-israel-advocacy-t-00-08-38) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36) | 2 |
@@ -111,7 +141,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (105)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -470,6 +500,52 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-concept-pro-israel-advocacy-t-00-08-38)**
+> "...that are going to present the pro-Israel cause and talk about anti-Semitism and talk about..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+
+**[00:47:31](/episodes/ep-SKGUzGHymcI.md#ent-concept-pro-israel-advocacy-t-00-47-15)**
+> "...r phone will be targeted with pro-Israel ads and much more."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:47:01](/episodes/ep-581dILVcEE4.md#ent-concept-pro-israel-advocacy-t-00-46-45)**
+> "They fund a variety of pro-Israel causes through the David Horowitz Freedom Center...."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:03:27](/episodes/ep-vwG1juDCQZQ.md#ent-concept-pro-israel-advocacy-t-00-03-13)**
+> "... I no longer wanted to do the pro-Israel thing. Of course, as always, I thank Ben Shapiro."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
+
+**[00:06:26](/episodes/ep-LATnak75Si0.md#ent-concept-pro-israel-advocacy-t-00-06-26)**
+> "Nothing is making sense, and we need to get to the bottom of why that is. This is looking to me—and you can let me know if you agree—it's looking to me like the apparent plan was to assassinate Charlie (Charlie Kirk), who had at long last faltered on the pro-Israel cause."
+
+**[00:46:55](/episodes/ep-LATnak75Si0.md#ent-concept-pro-israel-advocacy-t-00-46-55)**
+> "...people—and by this I mean the pro-Israel crowd—are signaling hard to us that another 9/11 ..."
+
+**[00:49:34](/episodes/ep-LATnak75Si0.md#ent-concept-pro-israel-advocacy-t-00-49-34)**
+> "...f Josh Hammer) And again, the pro-Israel crowd would know a little something about that."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
 
 **[00:12:40](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27)**
@@ -492,17 +568,183 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 </details>
 
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
+
+**[00:39:12](/episodes/ep-iHav0PPzUz8.md#ent-concept-pro-israel-advocacy-t-00-39-12)**
+> "...th no choice but to leave the pro-Israel cause, which would mean he didn't die a Christian..."
+
+**[00:39:47](/episodes/ep-iHav0PPzUz8.md#ent-concept-pro-israel-advocacy-t-00-39-12)**
+> "...ple who were very much in the pro-Israel camp and left it because we could not stand your ..."
+
+**[00:47:30](/episodes/ep-iHav0PPzUz8.md#ent-concept-pro-israel-advocacy-t-00-47-26)**
+> "That's how this whole like pro-Israel matrix was designed to keep us dumb. Just want to..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
+
+**[00:12:08](/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-11-50)**
+> "pro-Israel"
+
+**[00:12:19](/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-11-50)**
+> "...ind me one—just one—real-life pro-Israel individual who is expressing that they don't beli..."
+
+**[00:12:41](/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-12-33)**
+> "... person with a platform who's pro-Israel and says, "I want this investigation into his dea..."
+
+**[00:31:08](/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-31-08)**
+> "...in the idea that Charlie died pro-Israel."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:12:11](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-pro-israel-advocacy-t-00-12-11)**
+> "were pro-Israel."
+
+**[01:04:53](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-pro-israel-advocacy-t-01-04-53)**
+> "...eah—I mean, I would say I was pro-Israel when we met, but life has changed dramatically, a..."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
+
+**[00:46:05](/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-45-45)**
+> "...nd I said, "I'm done with the pro-Israel lobby," but now I just love you so much that I ju..."
+
+**[00:52:42](/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-52-05)**
+> "...ie Kirk) would ever leave the pro-Israel lobby—first and foremost, his support for Israel...."
+
+**[00:52:56](/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-52-49)**
+> "...ve no choice but to leave the pro-Israel cause." And anyways, he gave some very sage advic..."
+
+**[00:53:16](/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-53-16)**
+> "... some point, if you're on the pro-Israel side, you really need to be honest with yourself ..."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
+
+**[00:30:14](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-30-14)**
+> "...rael do not realize—or in the pro-Israel community do not realize—is that between 40 and 5..."
+
+**[00:31:11](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-30-45)**
+> "... he call a meeting with a few pro-Israel friends of his to talk through Israel issues, to ..."
+
+**[00:33:06](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-32-48)**
+> "...t into this—we were genuinely pro-Israel."
+
+**[00:33:54](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-33-29)**
+> "... no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:09:10](/episodes/ep-5autG89PW6w.md#ent-concept-pro-israel-advocacy-t-00-09-04)**
+> "to conveniently back up her narrative that Charlie (Charlie Kirk) was dropping the pro-Israel cause and inviting Candace to the TPUSA stage?""
+
+**[00:12:02](/episodes/ep-5autG89PW6w.md#ent-concept-pro-israel-advocacy-t-00-11-47)**
+> "...he had no choice to leave the pro-Israel cause because a Jewish donor stopped giving him m..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:07:54](/episodes/ep-K5GjF53bfN4.md#ent-concept-pro-israel-advocacy-t-00-07-21)**
+> "...rs? You said that it wasn't a pro-Israel event, so I guess there's no Israel angle here, w..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+
+**[00:51:07](/episodes/ep-ja26iltROkM.md#ent-concept-pro-israel-advocacy-t-00-50-57)**
+> "You say, 'I'm pro-Israel. I'm running this business.'"
+
+**[00:52:07](/episodes/ep-ja26iltROkM.md#ent-concept-pro-israel-advocacy-t-00-51-39)**
+> "...e last person who said, "I am pro-Israel." And he actually was somebody who had a presence..."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+
+**[00:43:54](/episodes/ep-aDlhjfW6hz8.md#ent-concept-pro-israel-advocacy-t-00-43-29)**
+> "... of hedge fund people who are pro-Israel got involved."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+
+**[00:51:13](/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13)**
+> "...tion here is that some in the pro-Israel camp are so knee-jerk about calling you anti-Semi..."
+
+**[00:53:50](/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-53-50)**
+> "...ere's been many people in the pro-Israel world that have been very sweet, very kind, very ..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Has Former Part (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:52:56](/episodes/ep-pc3pxRyNFZk.md#t-00-52-49): “I have no choice but to leave the pro-Israel cause.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Target Of Criticism From (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:52:42](/episodes/ep-pc3pxRyNFZk.md#t-00-52-05): “there's no way Charlie (Charlie Kirk) would ever leave the pro-Israel lobby ... what that really means: that your behavior pushed even Charlie Kirk away.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** critic of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:52:42](/episodes/ep-pc3pxRyNFZk.md#t-00-52-05): “there's no way Charlie (Charlie Kirk) would ever leave the pro-Israel lobby ... what that really means: that your behavior pushed even Charlie Kirk away.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:52:56](/episodes/ep-pc3pxRyNFZk.md#t-00-52-49): “I have no choice but to leave the pro-Israel cause.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (32)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (35)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>
@@ -694,6 +936,28 @@ _No relationships extracted yet._
 
 - [00:39:10](/episodes/ep-CMcktj3Egfo.md#t-00-38-55) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly said pro-Israel Jewish media friends turned against her an..."](/statements/statement-404e98df0a8f.md)
   - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
+
+- [00:03:23](/episodes/ep-vwG1juDCQZQ.md#t-00-03-13) (Opinion) **Candace Owens**: ["Owens said she no longer wanted to "do the pro-Israel thing.""](/statements/statement-3ed46a88c67b.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+
+- [00:46:55](/episodes/ep-LATnak75Si0.md#t-00-46-55) (Accusation) **Candace Owens**: ["Candace Owens accused the pro-Israel crowd of signaling that another S..."](/statements/statement-5afe9b0a763f.md)
+  - Also about: [9/11](/entities/event-9-11.md)
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:53:16](/episodes/ep-pc3pxRyNFZk.md#t-00-53-16) (Opinion) **Matt Walsh** (via quoted speech): ["Walsh said the pro-Israel side was losing the argument and had lost su..."](/statements/statement-07f4b7268d96.md)
 
 </details>
 

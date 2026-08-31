@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Blake Neff, by the way, is the producer of The Charlie Kirk Show.
 

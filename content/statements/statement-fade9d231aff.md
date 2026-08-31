@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1231);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1231s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I did not know, and this is what was told to me, that he also messaged Dan Flood, the security that's to his right, and allegedly explicitly said that they are going to kill me tomorrow.
 

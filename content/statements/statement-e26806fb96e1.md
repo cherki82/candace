@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(836);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=836s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote in today's episode, Candace (Candace Owens) starts harassing another random Utah police officer, accuses him of being a dirty cop, suggests that it's suspiciously timed that he moved to Utah. ... A year before Charlie (Charlie Kirk)'s shooting and then asks people who knew him in the Marines years ago to send her dirt on him so she can harass him some more. ... Candace (Candace Owens) feels no shame about harassing any person she feels like just to keep her grift going while maybe hurting a few people along the way.
 

@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:50:05](/episodes/ep-UYkXV9mYbT4.md#t-00-49-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3005);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=3005s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In my opinion, having investigated this case, having had communication with Turning Point USA with their former employees about the lies that they were told with the way that they are behaving with the way that they have edited their story, the panic because of the back footage. ... Everything that they are doing is signaling to me that this is a fed job from start to finish, just like JFK, just like with MLK.
 

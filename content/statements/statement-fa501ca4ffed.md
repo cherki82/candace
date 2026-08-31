@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:17:37](/episodes/ep-N4uM8Jdr410.md#t-00-17-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1057);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1057s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2013, she completes what's known as post-training at the Utah Department of Public Safety. We then find her.
 

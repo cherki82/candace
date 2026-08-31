@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:15:18](/episodes/ep-mKXdKV-OBog.md#t-00-15-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(918);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=918s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, I told you she's also a major in the military. Oh, who would have thunk it?
 

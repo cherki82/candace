@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:11:09](/episodes/ep-BxN2-aeMYIs.md#t-00-11-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(669);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=669s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > SAM, to remind you, stands for Special Air Mission. In aviation, it's an official military call sign that is used by the United States Air Force to designate flights that are transporting senior government officials, foreign dignitaries, or high-ranking VIPs.
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:11:23](/episodes/ep-MhakwJxK-Zk.md#t-00-11-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(683);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=683s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > SAM 702, an Air Force plane given the designation ... SAM because it is carrying a VIP. That designation is used to transport the president, vice president, cabinet members, commanders, Congress, and other high-ranking government officials or foreign dignitaries. And we wanted to know who was aboard that plane.
 

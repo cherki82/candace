@@ -18,37 +18,37 @@ _Type: Organizations_
 Source: [Mar-A-Lago National Historic Landmark](https://npgallery.nps.gov/NRHP/AssetDetail/c9d302fd-4c70-4c7e-a15a-a882db6b34b9)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50">2025-10-02 · 00:50:57</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-40">2025-10-02 · 00:50:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-org-mar-a-lago-t-00-11-02">2026-07-27 · 00:11:19</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-mar-a-lago-t-00-49-28">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50" style="--pulse-height:40%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-mar-a-lago-t-00-49-28" style="--pulse-height:80%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-org-mar-a-lago-t-00-16-56" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-mar-a-lago-t-00-16-43" style="--pulse-height:40%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-mar-a-lago-t-00-06-52" style="--pulse-height:20%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-mar-a-lago-t-00-55-47" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-mar-a-lago-t-00-04-17" style="--pulse-height:40%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-mar-a-lago-t-00-11-02" style="--pulse-height:20%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-40" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-mar-a-lago-t-00-49-28" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-56" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-mar-a-lago-t-00-16-56" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-mar-a-lago-t-00-16-43" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-mar-a-lago-t-00-06-52" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-mar-a-lago-t-00-55-47" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-mar-a-lago-t-00-04-17" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-mar-a-lago-t-00-11-02" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-40) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-mar-a-lago-t-00-49-28) | 4 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25) | 5 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-56) | 4 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-mar-a-lago-t-00-16-56) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-mar-a-lago-t-00-16-43) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-mar-a-lago-t-00-06-52) | 1 |
@@ -119,21 +119,18 @@ Source: [Mar-A-Lago National Historic Landmark](https://npgallery.nps.gov/NRHP/A
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
-**[00:12:54](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25)**
-> "they made 0 million, like two nights ago at Mar-a-Lago"
-
-**[00:12:56](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25)**
+**[00:12:56](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-56)**
 > "...llion, like two nights ago at Mar-a-Lago, maybe that feels kind of a little bit like, let ..."
 
-**[00:13:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-13-05)**
+**[00:13:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-56)**
 > "...de more than, separately from Mar-a-Lago, Turning Point USA, since Charlie was killed, jus..."
 
-**[00:13:16](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-13-05)**
+**[00:13:16](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-56)**
 > "... the $40 million they made at Mar-a-Lago the other night."
 
-**[00:58:47](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-58-14)**
+**[00:58:46](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-58-14)**
 > "... spent raising $40 million at Mar-a-Lago."
 
 </details>
@@ -158,10 +155,10 @@ Source: [Mar-A-Lago National Historic Landmark](https://npgallery.nps.gov/NRHP/A
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:50:57](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
+**[00:50:57](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-40)**
 > "...ou got to have good instincts. You got to know that just because it's wearing a ball gown and is at Mar-a-Lago doesn't mean that it's not a gangster. It's no different. It's no different from where Jay-Z came f..."
 
-**[00:51:04](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
+**[00:51:04](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-40)**
 > "...nt from where Jay-Z came from in the projects selling crack. It's just wearing a ball gown. It's at Mar-a-Lago. But that's still a gangster. I can recognize a gangster. And I don't think Charlie (Charlie Kirk) ..."
 
 </details>
@@ -198,7 +195,7 @@ Source: [Mar-A-Lago National Historic Landmark](https://npgallery.nps.gov/NRHP/A
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mar-a-Lago (3)</strong></summary>
+<summary><strong class="section-title">Statements about Mar-a-Lago (2)</strong></summary>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
@@ -213,14 +210,6 @@ Source: [Mar-A-Lago National Historic Landmark](https://npgallery.nps.gov/NRHP/A
 
 - [00:55:47](/episodes/ep-VMNWMXX1vO8.md#t-00-55-47) (Claim) **Candace Owens**: ["Charlie Kirk's microphone was not retained as evidence and instead app..."](/statements/statement-74f3e5b5e778.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-</details>
-
-<details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
-
-- [00:13:16](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) (Claim) **Candace Owens**: ["Turning Point USA has made more than 100 million dollars since Charlie..."](/statements/statement-ce0624c94ffe.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

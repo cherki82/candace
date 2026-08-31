@@ -1,6 +1,6 @@
 ---
-title: "This is a woman who consulted a priest and prayed when she f..."
-description: "\"This is a woman who consulted a priest and prayed when she felt that somebody had put a hex on her husband.\" — Candace Owens"
+title: "Owens said Erika Kirk consulted a priest and prayed when she..."
+description: "\"Owens said Erika Kirk consulted a priest and prayed when she believed someone had put a hex on Charlie Kirk.\" — Candace Owens"
 statement_id: "statement-1fdacb0ea9c0"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> This is a woman who consulted a priest and prayed when she felt that somebody had put a hex on her husband.
+> Owens said Erika Kirk consulted a priest and prayed when she believed someone had put a hex on Charlie Kirk.
 
 ## Attribution
 
@@ -19,13 +19,18 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Erika Kirk](/entities/person-erika-kirk.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:34:34](/episodes/ep-K5GjF53bfN4.md#t-00-33-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2074);return false;">Play</a>
+**Timestamp:** [00:35:28](/episodes/ep-K5GjF53bfN4.md#t-00-35-18) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=2128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> This is a woman who consulted a priest and prayed when she felt that somebody had put a hex on her husband.
+> This was a faithful couple. This is a woman who consulted a priest and prayed when she felt that somebody had put a hex on her husband.
 
 ## Verification
 

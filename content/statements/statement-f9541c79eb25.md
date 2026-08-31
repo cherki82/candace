@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:43:51](/episodes/ep-SubDoZWHARo.md#t-00-43-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2631);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2631s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's a senior productions director. Marcus Wada is the director of strategy of productions at Turning Point USA. ... Marcus worked to raise financing for films and producing films. He left Hollywood to work in the conservative movement producing and directing Turning Point USA's documentary series Border Battle and the great global reset.
 

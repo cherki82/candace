@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:38:51](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2331);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=2331s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In order to make this determination, it is necessary for the defense and its firearm expert to review the ATF case file and the protocols relating to this examination, which have not yet been provided.
 

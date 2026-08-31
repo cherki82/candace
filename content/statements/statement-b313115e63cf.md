@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:08:21](/episodes/ep-Wjul6YV6izo.md#t-00-07-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(501);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=501s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > just so you know, that wasn't until four months later in April and they were not invited into her home. And it was because she was accepting on behalf of Kobe him being inducted into the Hall of Fame.
 

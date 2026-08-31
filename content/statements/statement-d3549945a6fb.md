@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:05:48](/episodes/ep-mKXdKV-OBog.md#t-00-05-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(348);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=348s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > into that one-hour layover stop when our yellow plane, SUBTT—the tail number—came into the United States on September 4th. ... it stopped for just one hour in Minot, North Dakota ... before making its way onto Provo.
 

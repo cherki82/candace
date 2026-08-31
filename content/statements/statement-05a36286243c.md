@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:19:20](/episodes/ep-2tFYJf1klgY.md#t-00-18-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1160);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1160s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in October, the same year, right after she establishes this, it is announced that the Romanian government has agreed to allow America to set up a military base along the Black Sea.
 

@@ -1,6 +1,6 @@
 ---
 title: "David Freiheit"
-description: "David Freiheit (People) - 2 mentions"
+description: "David Freiheit (People) - 3 mentions"
 id: "person-david-freiheit"
 type: "PERSON"
 aliases:
@@ -21,11 +21,11 @@ _Type: People_
 Source: [Viva Frei — official site](https://vivafrei.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-david-freiheit-t-00-47-27">2026-07-21 · 00:48:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24">2025-12-16 · 00:52:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#t-00-04-26">2026-08-11 · 00:04:55</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -33,8 +33,9 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-david-freiheit-t-00-47-27">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24">Erika And I Sat Down. Here’s What Happened. | Candace Ep 280</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-david-freiheit-t-00-47-27" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#t-00-04-26" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
@@ -42,6 +43,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-david-freiheit-t-00-47-27) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#t-00-04-26) | 1 |
 
@@ -51,7 +53,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -66,6 +68,14 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 
 **[00:48:06](/episodes/ep-OgRyiOAVtWU.md#ent-person-david-freiheit-t-00-47-27)**
 > "Here is Viva Frei (David Freiheit) on the Charlie Kirk Show. Take a listen."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:52:57](/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24)**
+> "Now, I do want to get to Viva Frei, who had this to say regarding drones."
 
 </details>
 
@@ -101,7 +111,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by David Freiheit (3)</strong></summary>
+<summary><strong class="section-title">Statements by David Freiheit (4)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
@@ -119,6 +129,14 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 
 - [00:49:08](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) [✓] (Opinion) ["David Freiheit said a more plausible alternative theory could be presented, but ..."](/statements/statement-51701d5d02b1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:55:26](/episodes/ep-es7PWdFGoFI.md#t-00-55-26) [✓] (Claim) ["George Zinn was arrested for claiming to be the shooter on the day of the shooti..."](/statements/statement-5c86b3c214a4.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

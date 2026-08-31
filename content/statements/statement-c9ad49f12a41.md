@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:37:23](/episodes/ep-ja26iltROkM.md#t-00-36-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2243);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=2243s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But also, I'm an American, and I represent a generation that can't afford anything, and that we are like flooded with illegals, and no one speaks English, and our hospitals are clogged.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:43:51](/episodes/ep-SKNJPul29zU.md#t-00-43-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2631);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2631s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Do I think Trump (Donald Trump) is his own man? Obviously not. Miriam Adelson did a deal with him, purchased outright, kind of outright purchased the White ... House. I mean, he said it himself. I mean, it's that's the thing that I guess I appreciate about Trump (Donald Trump), if you want to put it that way.
 

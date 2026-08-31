@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [01:06:59](/episodes/ep-2T39-oADLj0.md#t-01-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4019);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=4019s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, Zinn told a nurse that he was being paid. He didn't know how he was going to be paid for doing that afterward.
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:48:27](/episodes/ep-CMcktj3Egfo.md#t-00-47-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2907);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2907s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she says she lived in China and she says that she lived in Costa Rica and when and for what.
 

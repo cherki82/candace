@@ -194,7 +194,7 @@ youtube_url: "https://www.youtube.com/watch?v=HGtMfbePDKk"
 ---
 **🎤 Charlie Kirk**
 
-**<a href="/timestamps/ep-HGtMfbePDKk/t-00-18-48.md" class="timestamp-link">00:18:48</a> <a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1128" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Charlie Kirk:** Met <span id="ent-person-candace-owens-t-00-18-48"><a href="/entities/person-candace-owens.md">Candace</a></span> back in November, hired her five minutes after I met her<span id="event-event-2017-01-01-candace-owens-meets-charlie-kirk-at-florida-confer-t-00-18-48"><a href="/events/event-2017-01-01-candace-owens-meets-charlie-kirk-at-florida-confer.md" class="event-indicator" title="Timeline event">📅</a></span>, and as they say the rest is the future. ^t-00-18-48
+**<a href="/timestamps/ep-HGtMfbePDKk/t-00-18-48.md" class="timestamp-link">00:18:48</a> <a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1128" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Charlie Kirk:** Met <span id="ent-person-candace-owens-t-00-18-48"><a href="/entities/person-candace-owens.md">Candace</a></span> back in November, hired her five minutes after I met her<span id="event-event-2017-candace-owens-meets-charlie-kirk-at-flor-t-00-18-48"><a href="/events/event-2017-candace-owens-meets-charlie-kirk-at-flor.md" class="event-indicator" title="Timeline event">📅</a></span>, and as they say the rest is the future. ^t-00-18-48
 
 ---
 **🎤 Brandy Zadrozny**
@@ -398,7 +398,7 @@ youtube_url: "https://www.youtube.com/watch?v=HGtMfbePDKk"
 <details>
 <summary><strong>Timeline Events (9)</strong></summary>
 
-- **2017-11-21**: [Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA](/events/event-2017-01-01-candace-owens-meets-charlie-kirk-at-florida-confer.md)
+- **2017**: [Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA](/events/event-2017-candace-owens-meets-charlie-kirk-at-flor.md)
 - **2018**: [Brandy Zadrozny first met Candace Owens.](/events/event-2018-brandy-zadrozny-first-met-candace-owens.md)
 - **2026-08-07**: [Andrew Wilson's wife posted that Wilson would still be active in 5, 10, or 20 years.](/events/event-2026-08-07-andrew-wilsons-wife-posted-that-wilson-w.md)
 - **2026-08-09**: [Baron Coleman reported that Andrew Wilson misrepresented his military service.](/events/event-2026-08-09-baron-coleman-reported-that-andrew-wilso.md)

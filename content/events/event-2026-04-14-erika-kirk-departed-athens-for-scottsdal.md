@@ -7,6 +7,11 @@ time: "18:39"
 ---
 
 **Date:** 2026-04-14 at 18:39
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “On Tuesday”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "18:39"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:12:53](/episodes/ep-1mYNOqzAdXs.md#t-00-12-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(773);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=773s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika did not leave Athens until 639 p.m.

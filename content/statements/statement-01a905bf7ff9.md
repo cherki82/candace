@@ -1,8 +1,8 @@
 ---
-title: "there's no reason for Benjamin Netanyahu to have lied, as I'..."
-description: "\"there's no reason for Benjamin Netanyahu to have lied, as I've said many times\" — Benjamin Netanyahu"
+title: "Candace Owens asserted that there was no reason for Benjamin..."
+description: "\"Candace Owens asserted that there was no reason for Benjamin Netanyahu to have lied.\" — Candace Owens"
 statement_id: "statement-01a905bf7ff9"
-speaker: "Benjamin Netanyahu"
+speaker: "Candace Owens"
 type: "accusation"
 ---
 
@@ -10,23 +10,25 @@ type: "accusation"
 
 ## Statement
 
-> there's no reason for Benjamin Netanyahu to have lied, as I've said many times
+> Candace Owens asserted that there was no reason for Benjamin Netanyahu to have lied.
 
 ## Attribution
 
-**Speaker:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from speech/interview
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Made directly
+
+## About
+
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:44:06](/episodes/ep-q7f8r-THr84.md#t-00-43-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2646);return false;">Play</a>
+**Timestamp:** [00:44:04](/episodes/ep-q7f8r-THr84.md#t-00-44-04) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2644s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Okay, let's attack this lead up because there's no reason for Benjamin Netanyahu to have lied, as I've said many times
+> let's attack this lead up because there's no reason for Benjamin Netanyahu to have lied, as I've said many times.
 
 ## Verification
 

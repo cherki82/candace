@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:18:50](/episodes/ep-eLgD5yUVbko.md#t-00-18-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1130);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1130s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ben then set to work behind the scenes, getting like the Jewish network of donors and writers to peer pressure Charlie to distance from me because of anti-Semitism.
 

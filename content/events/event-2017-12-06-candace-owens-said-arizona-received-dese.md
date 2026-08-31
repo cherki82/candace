@@ -6,6 +6,11 @@ date: "2017-12-06"
 ---
 
 **Date:** 2017-12-06
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “December 2017; December 6th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2017-12-06"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:16:47](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1007);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1007s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is in December 2017. You can see the state received it on December 6th.

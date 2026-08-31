@@ -6,6 +6,11 @@ date: "2004"
 ---
 
 **Date:** 2004
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “In 2004”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2004"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:32:56](/episodes/ep-rupRLXmSndU.md#event-event-2004-the-national-academy-of-sciences-conclud-t-00-32-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1976);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1976s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > variations in the manufacturing process rendered the FBI's testimony about the science unreliable

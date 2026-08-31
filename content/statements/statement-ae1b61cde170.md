@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:30:02](/episodes/ep-Pb7UlpRdW6U.md#t-00-30-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1802);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1802s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > okay so on the charlie kirk show they do this thing where despite these very low views they pretend that they have live callers and just so you know how this works in the industry when you don't have anybody calling they just get a producer ... to go into the kitchen and fake call and ask the question that you actually want to answer.
 

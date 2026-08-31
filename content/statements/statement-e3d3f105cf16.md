@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:36:10](/episodes/ep-9hRcfSrri70.md#t-00-36-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=2170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so i'm with her it's hard it's hard for me my brain says no it's probably Tyler Robinson but my heart says go candace go keep cooking you know does that make sense i can't like her tweets because she blocked me many many years ago this is before she became our hero okay um many many years ago candace always blocked me i've i've not been a fan of candace owens i am a fan now
 

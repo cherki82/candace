@@ -22,12 +22,13 @@ veracity: "true"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Josh Hammer](/entities/person-josh-hammer.md) (person)
 
 ## Source
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 **Timestamp:** [00:45:03](/episodes/ep-pc3pxRyNFZk.md#t-00-45-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2703);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=2703s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his response yesterday to our episode was to release text messages between him and Charlie (Charlie Kirk) following the call.
 

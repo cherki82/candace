@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:07:26](/episodes/ep-BxN2-aeMYIs.md#t-00-07-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(446);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=446s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pete Hegseth has certainly been one of the more deranged pro-Israel voices of this administration. ... We're not sure what's motivating him to constantly be pushing America into wars that are obviously not going to help America.
 

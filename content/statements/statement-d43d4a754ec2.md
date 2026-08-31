@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:51:11](/episodes/ep-Wjul6YV6izo.md#t-00-50-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3071);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=3071s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you really get into the story of Osama bin Laden and all of these people that were CIA agents then suddenly were against America and the West.
 

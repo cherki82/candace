@@ -6,6 +6,11 @@ date: "2025-09-09"
 ---
 
 **Date:** 2025-09-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 9th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-09"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:38:38](/episodes/ep-HYn0P-P1wUw.md#event-event-2025-09-09-the-arizona-commanders-summit-began-at-d-t-00-38-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2318);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=2318s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they kicked off their Arizona commander summit on September 9th

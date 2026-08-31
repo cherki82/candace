@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:42:18](/episodes/ep-iB-YtO3UZOg.md#t-00-41-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2538);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2538s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I do not believe that there was a gun, least of all, do I believe that it was Tyler Robinson's gun, which has dust on the barrel and his prints as the most degraded that was on that rooftop.
 

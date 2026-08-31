@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:21:32](/episodes/ep-VMNWMXX1vO8.md#t-00-21-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1292);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1292s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am so grateful that Charlie (Charlie Kirk) had me involved in literally as much as possible with Turning Point USA, TPUSA Faith, and other programs within the Turning Point USA umbrella—so much so that, when everything happened... ... I didn't—there was a 0% learning curve here.
 

@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2978);return false;">Play</a>
+**Timestamp:** [00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-28) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2978s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like these are like Josh Hammer— is actually the editor at large at Newsweek.
 

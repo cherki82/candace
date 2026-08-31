@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:40:32](/episodes/ep-X92MllIHDzw.md#t-00-40-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2432);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2432s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just got a quarter million in Bitcoin from France from a guy who's. wrote killed himself and published a letter 24 hours after he was dead um because he sent out a timer and it's in perfect english and anybody's ever been in france
 

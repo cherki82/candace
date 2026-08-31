@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:44:14](/episodes/ep-SKGUzGHymcI.md#t-00-44-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2654);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2654s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like just you got to go after the thing and talk about what's real because there was an infiltration happening at Turning Point USA. It's still happening, obviously. Charlie (Charlie Kirk) was in the way.
 

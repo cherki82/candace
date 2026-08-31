@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:52:25](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3145);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=3145s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's the final thing before we need to revolt. ... If they can just stick this onto a random kid, we got problems.
 

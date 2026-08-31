@@ -6,6 +6,11 @@ date: "2014-04-05"
 ---
 
 **Date:** 2014-04-05
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “April 5th 2014”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2014-04-05"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:07:16](/episodes/ep-1hcjQGgvxUY.md#t-00-06-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(436);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=436s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 5th 2014 Jillian posted this tweet getting this in the mail from @ErikaFrantzve

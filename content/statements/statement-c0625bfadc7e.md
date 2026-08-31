@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:01:49](/episodes/ep-9naMwS0kMBE.md#t-00-01-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they Andrew saw in her laptop that she had screenshots the timeline from my show and they it was apparently mass panic they didn't know why she had screenshot this and they thought that therefore she was the leak why would someone leak me my own timeline I don't know why someone would do that I'm like Andrew that doesn't make sense like why would someone leak me what I create this was from public information of where Charlie was and the Egyptian plains who knows she must have been a standist Yes, but apparently other people at the office are watching the show live. They panicked and they fired every single person that she was friends with, who she knows, and she was not the person that was leaking to me.
 

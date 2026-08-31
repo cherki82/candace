@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:34:57](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2097);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2097s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The meeting was concluding around 7.30 a.m. in the morning on the 9th at Fort Huachuca
 

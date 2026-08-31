@@ -22,7 +22,7 @@ _Type: Organizations_
 Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-the-Airport)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-02-07">2025-10-30 · 00:02:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-01-57">2025-10-30 · 00:02:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-provo-airport-t-00-02-35">2026-03-26 · 00:02:35</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -34,9 +34,9 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-02-07">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-01-57">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-02-07" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-01-57" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-provo-airport-t-00-06-54" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-provo-airport-t-00-01-55" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 </div>
@@ -44,7 +44,7 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-02-07) | 4 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-01-57) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-provo-airport-t-00-06-54) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-provo-airport-t-00-01-55) | 2 |
 
@@ -78,16 +78,16 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
 
-**[00:02:09](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-02-07)**
+**[00:02:07](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-01-57)**
 > "...00 feet above ground over the Provo airport runway, and they made a loop."
 
-**[00:03:23](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-02-48)**
+**[00:03:23](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-03-11)**
 > "...o just over 300 feet over the Provo Airport runway."
 
-**[00:07:47](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-07-47)**
+**[00:07:44](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-07-44)**
 > "...il number N888KG departed the Provo Airport for Page, Arizona."
 
-**[00:08:22](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-07-47)**
+**[00:08:22](/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-08-22)**
 > "...oximately 1:40 and arrived at PVU at approximately 3:15 p.m. Mountain Time."
 
 </details>
@@ -144,7 +144,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
-- [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) (Claim) **Candace Owens**: ["N1098L departed Biggs Army Airfield at a stated 6:13 a.m. and made a l..."](/statements/statement-918543babcb5.md)
+- [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-17) (Claim) **Candace Owens**: ["N1098L departed Biggs Army Airfield at a stated 6:13 a.m. and made a l..."](/statements/statement-918543babcb5.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [N1098L](/entities/vehicle-n1098l.md), [Biggs Army Airfield](/entities/org-biggs-army-airfield.md)
 
 </details>

@@ -24,21 +24,11 @@ type: "accusation"
 - [Ben Shapiro](/entities/person-ben-shapiro.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
-## Appearances (2)
-
-### 1. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
+## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1046);return false;">Play</a>
-
-> I have put up with the pettiness of even suing me because I interviewed a USS Liberty survivor who mentioned your name.
-
-### 2. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
-
-**Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1046);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=1046s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > suing me because I interviewed a USS Liberty survivor who mentioned your name
 

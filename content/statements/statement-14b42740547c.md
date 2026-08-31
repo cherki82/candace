@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:55:53](/episodes/ep-69A8TzAGHlU.md#t-00-55-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3353);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=3353s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So where did this legend come from? It likely originated from the fact that Mengele performed transfusions on twins without prior cross matching tests.
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:21:22](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1282);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1282s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi. I have at least I can say I guess the best way to say it is I now officially have some serious questions pertaining to her alibi.
 

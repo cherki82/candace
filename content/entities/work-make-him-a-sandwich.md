@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 85 mentions"
+description: "Make Him a Sandwich (Works & Media) - 88 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -26,8 +26,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55">2026-08-21 · 01:09:05</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>85</strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,62 +36,65 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-47-13">The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-work-make-him-a-sandwich-t-01-03-33">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-work-make-him-a-sandwich-t-01-03-33" style="--pulse-height:75%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-make-him-a-sandwich-t-00-55-39" style="--pulse-height:50%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44" style="--pulse-height:75%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-work-make-him-a-sandwich-t-00-49-22" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-make-him-a-sandwich-t-00-50-14" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-02-57" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-work-make-him-a-sandwich-t-00-57-38" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-make-him-a-sandwich-t-00-55-02" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59" style="--pulse-height:75%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-work-make-him-a-sandwich-t-00-47-25" style="--pulse-height:25%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-47-13" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-work-make-him-a-sandwich-t-00-46-56" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-work-make-him-a-sandwich-t-00-47-10" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-work-make-him-a-sandwich-t-00-37-26" style="--pulse-height:25%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-work-make-him-a-sandwich-t-00-51-29" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-work-make-him-a-sandwich-t-00-55-36" style="--pulse-height:75%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-work-make-him-a-sandwich-t-00-42-13" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-work-make-him-a-sandwich-t-00-37-19" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-work-make-him-a-sandwich-t-00-42-12" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-work-make-him-a-sandwich-t-00-54-53" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-make-him-a-sandwich-t-00-57-56" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-work-make-him-a-sandwich-t-01-16-51" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-work-make-him-a-sandwich-t-00-46-31" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-30" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-make-him-a-sandwich-t-00-48-11" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-work-make-him-a-sandwich-t-00-51-13" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-work-make-him-a-sandwich-t-00-06-01" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-25-23" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-50" style="--pulse-height:25%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-01" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-work-make-him-a-sandwich-t-00-50-31" style="--pulse-height:25%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-make-him-a-sandwich-t-00-55-01" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-44-18" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-make-him-a-sandwich-t-00-36-29" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-make-him-a-sandwich-t-00-53-37" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-work-make-him-a-sandwich-t-00-42-29" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-make-him-a-sandwich-t-01-14-48" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-work-make-him-a-sandwich-t-01-14-29" style="--pulse-height:50%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-work-make-him-a-sandwich-t-01-02-02" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#t-01-07-48" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-work-make-him-a-sandwich-t-00-45-58" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#t-00-54-53" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-make-him-a-sandwich-t-00-48-05" style="--pulse-height:75%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-work-make-him-a-sandwich-t-01-13-52" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-work-make-him-a-sandwich-t-00-59-50" style="--pulse-height:25%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-make-him-a-sandwich-t-00-32-06" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-make-him-a-sandwich-t-00-53-17" style="--pulse-height:25%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02" style="--pulse-height:50%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29" style="--pulse-height:67%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-work-make-him-a-sandwich-t-01-03-33" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-make-him-a-sandwich-t-00-55-39" style="--pulse-height:67%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-24" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-work-make-him-a-sandwich-t-00-49-22" style="--pulse-height:67%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-make-him-a-sandwich-t-00-50-36" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-02-35" style="--pulse-height:67%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-work-make-him-a-sandwich-t-00-57-38" style="--pulse-height:67%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-make-him-a-sandwich-t-00-54-47" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-work-make-him-a-sandwich-t-00-47-25" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-46-45" style="--pulse-height:67%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-work-make-him-a-sandwich-t-00-46-35" style="--pulse-height:33%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-work-make-him-a-sandwich-t-00-47-02" style="--pulse-height:33%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-work-make-him-a-sandwich-t-00-37-26" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-work-make-him-a-sandwich-t-00-51-29" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-work-make-him-a-sandwich-t-00-55-36" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-work-make-him-a-sandwich-t-00-42-13" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-work-make-him-a-sandwich-t-00-37-19" style="--pulse-height:67%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-work-make-him-a-sandwich-t-00-42-12" style="--pulse-height:67%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-work-make-him-a-sandwich-t-00-50-20" style="--pulse-height:33%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-work-make-him-a-sandwich-t-00-54-55" style="--pulse-height:67%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-work-make-him-a-sandwich-t-00-53-25" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-work-make-him-a-sandwich-t-00-54-53" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-make-him-a-sandwich-t-00-57-56" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-work-make-him-a-sandwich-t-01-16-51" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-work-make-him-a-sandwich-t-00-46-31" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-30" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-make-him-a-sandwich-t-00-48-11" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-work-make-him-a-sandwich-t-00-51-13" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-work-make-him-a-sandwich-t-00-06-01" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-25-23" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-50" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-01" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-work-make-him-a-sandwich-t-00-50-31" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-make-him-a-sandwich-t-00-55-01" style="--pulse-height:67%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-44-18" style="--pulse-height:33%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-make-him-a-sandwich-t-00-36-29" style="--pulse-height:67%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-make-him-a-sandwich-t-00-53-37" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21" style="--pulse-height:67%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-work-make-him-a-sandwich-t-00-42-29" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37" style="--pulse-height:33%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-make-him-a-sandwich-t-01-14-48" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-work-make-him-a-sandwich-t-01-14-29" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-work-make-him-a-sandwich-t-01-02-02" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#t-01-07-48" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-work-make-him-a-sandwich-t-00-45-58" style="--pulse-height:67%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#t-00-54-53" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-make-him-a-sandwich-t-00-48-05" style="--pulse-height:100%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-work-make-him-a-sandwich-t-01-13-52" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-work-make-him-a-sandwich-t-00-59-50" style="--pulse-height:33%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-make-him-a-sandwich-t-00-32-06" style="--pulse-height:67%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-make-him-a-sandwich-t-00-53-17" style="--pulse-height:33%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02" style="--pulse-height:67%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,23 +103,26 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29) | 2 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-work-make-him-a-sandwich-t-01-03-33) | 3 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-work-make-him-a-sandwich-t-00-55-39) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-24) | 3 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-work-make-him-a-sandwich-t-00-49-22) | 2 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-work-make-him-a-sandwich-t-00-50-14) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-02-57) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-work-make-him-a-sandwich-t-00-50-36) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-02-35) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-work-make-him-a-sandwich-t-00-57-38) | 2 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-work-make-him-a-sandwich-t-00-55-02) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-work-make-him-a-sandwich-t-00-54-47) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59) | 3 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-work-make-him-a-sandwich-t-00-47-25) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-47-13) | 4 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-work-make-him-a-sandwich-t-00-46-56) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-work-make-him-a-sandwich-t-00-47-10) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-46-45) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-work-make-him-a-sandwich-t-00-46-35) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-work-make-him-a-sandwich-t-00-47-02) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-work-make-him-a-sandwich-t-00-37-26) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-work-make-him-a-sandwich-t-00-51-29) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-make-him-a-sandwich-t-00-55-36) | 3 |
-| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-work-make-him-a-sandwich-t-00-42-13) | 2 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-work-make-him-a-sandwich-t-00-42-13) | 3 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-work-make-him-a-sandwich-t-00-37-19) | 2 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-work-make-him-a-sandwich-t-00-42-12) | 2 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-work-make-him-a-sandwich-t-00-50-20) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-work-make-him-a-sandwich-t-00-54-55) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-work-make-him-a-sandwich-t-00-53-25) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-work-make-him-a-sandwich-t-00-54-53) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-make-him-a-sandwich-t-00-57-56) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00) | 1 |
@@ -158,7 +164,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (85)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -460,6 +466,33 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 </details>
 
 <details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:53:25](/episodes/ep-6J6lRZPQ4jk.md#ent-work-make-him-a-sandwich-t-00-53-25)**
+> "Speaking of discounts, if you want a regular copy of my book, Make Him a Sandwich, for 20% off, you can head to MakeHimASandwich.com."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:55:00](/episodes/ep-6DhWawD4ZiM.md#ent-work-make-him-a-sandwich-t-00-54-55)**
+> "MakeHimASandwich.com, if you'd like to buy it from us directly, you ca..."
+
+**[00:55:05](/episodes/ep-6DhWawD4ZiM.md#ent-work-make-him-a-sandwich-t-00-54-55)**
+> "... now also shipping to Canada. MakeHimASandwich.com. Okay, let's get to some of your comments before ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:50:20](/episodes/ep-t4U7NjnUEgc.md#ent-work-make-him-a-sandwich-t-00-50-20)**
+> "Make Him a Sandwich is available on Amazon. It is also available at M..."
+
+</details>
+
+<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:42:32](/episodes/ep-Kmt6HgRjckU.md#ent-work-make-him-a-sandwich-t-00-42-12)**
@@ -471,13 +504,16 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
 
 **[00:42:30](/episodes/ep-DqGNvi36ol8.md#ent-work-make-him-a-sandwich-t-00-42-13)**
 > "...t 20% off, you should head to MakeHimAsandwich.com and you can buy it directly from us with no middl..."
 
 **[00:42:38](/episodes/ep-DqGNvi36ol8.md#ent-work-make-him-a-sandwich-t-00-42-13)**
 > "...so now shipping to Candace at MakeHimAsandwich.com."
+
+**[00:42:16](/episodes/ep-DqGNvi36ol8.md#ent-work-make-him-a-sandwich-t-00-42-13)**
+> "...u've got to get your girl and make them a sandwich book."
 
 </details>
 
@@ -525,7 +561,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:47:10](/episodes/ep-sImMM04XdWY.md#ent-work-make-him-a-sandwich-t-00-47-10)**
+**[00:47:10](/episodes/ep-sImMM04XdWY.md#ent-work-make-him-a-sandwich-t-00-47-02)**
 > "...hat does not include books. If you'd like to buy my new book "Make Him a Sandwich," you can head to MakeHimASandwich.com for our regularly priced books. And then we have signed copies that are also available on the Canda..."
 
 </details>
@@ -533,25 +569,19 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:47:06](/episodes/ep-SKGUzGHymcI.md#ent-work-make-him-a-sandwich-t-00-46-56)**
+**[00:47:04](/episodes/ep-SKGUzGHymcI.md#ent-work-make-him-a-sandwich-t-00-46-35)**
 > "...0 for 20% off store-wide. That does not include books. If you'd like to buy a book, you can head to MakeHimASandwich.com for a regular copy, or you can go to CandaceOwens.com for a signed copy. Top comment from last epis..."
 
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:47:13](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-47-13)**
-> "..."How dare you let him speak and say thanks?" Also reminding you guys: if you'd like to support us, "Make Him a Sandwich" is available. You can go to makehimasandwich.com. If you'd like to pick up a regular copy, we also..."
-
-**[00:47:16](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-47-13)**
+**[00:47:13](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-46-45)**
 > "... reminding you guys: if you'd like to support us, "Make Him a Sandwich" is available. You can go to makehimasandwich.com. If you'd like to pick up a regular copy, we also have signed copies at candaceowens.com. We also h..."
 
-**[00:53:40](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-53-36)**
-> "...t's what's happening right now. Twins vs Twins writes, "Can we get a book that is not signed?" Yes. MakeHimASandwich.com has the unsigned books. MakeHimASandwich.com has the unsigned books. Hope that helps you out. And y..."
-
-**[00:53:44](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-53-36)**
-> "...s writes, "Can we get a book that is not signed?" Yes. MakeHimASandwich.com has the unsigned books. MakeHimASandwich.com has the unsigned books. Hope that helps you out. And you guys, thank you. Again, we're working on a..."
+**[00:53:36](/episodes/ep-581dILVcEE4.md#ent-work-make-him-a-sandwich-t-00-53-36)**
+> "Twins vs Twins writes, "Can we get a book that is not signed?" Yes. MakeHimASandwich.com has the unsigned books."
 
 </details>
 
@@ -580,7 +610,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:55:23](/episodes/ep-MUA9ebCF4Ow.md#ent-work-make-him-a-sandwich-t-00-55-02)**
+**[00:55:16](/episodes/ep-MUA9ebCF4Ow.md#ent-work-make-him-a-sandwich-t-00-54-47)**
 > "...ch more people. If you guys would like to support us and the show, you will love my new book. Go to MakeHimASandwich.com. Holidays are around the corner. You can get that. We are also selling signed copies, so you can ge..."
 
 </details>
@@ -599,10 +629,10 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[01:03:08](/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-02-57)**
+**[01:03:08](/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-02-35)**
 > "...til this gets resolved. Anyways, you guys—if you'd like to support my work—as always—I point you to MakeHimASandwich.com. Buy the book. You will really enjoy this one—especially because we're getting in front of holiday ..."
 
-**[01:03:22](/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-02-57)**
+**[01:03:22](/episodes/ep-LATnak75Si0.md#ent-work-make-him-a-sandwich-t-01-03-17)**
 > "...so going to sign some signed copies right as I get off of the air today, so that will be available. MakeHimASandwich.com—and you can subscribe to our website, CandaceOwens.com—so the way that you can support us and the w..."
 
 </details>
@@ -610,7 +640,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
-**[00:50:36](/episodes/ep-Qfwr08Ebczo.md#ent-work-make-him-a-sandwich-t-00-50-14)**
+**[00:50:36](/episodes/ep-Qfwr08Ebczo.md#ent-work-make-him-a-sandwich-t-00-50-36)**
 > "...If you guys would like to support our work, you know, you can go to CandaceOwens.com. You can go to MakeHimASandwich.com to buy the book. You will really enjoy this book. It's really important—especially for women to und..."
 
 </details>
@@ -629,13 +659,13 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
-**[00:53:59](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44)**
+**[00:53:54](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-24)**
 > "Make Him a Sandwich is finally out."
 
-**[00:54:01](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44)**
+**[00:54:00](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-24)**
 > "You guys can head to makehimasandwich.com."
 
-**[00:54:11](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44)**
+**[00:54:05](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-54-05)**
 > "Anyways, makehimasandwich.com."
 
 </details>
@@ -685,7 +715,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Authored By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -703,6 +733,14 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:37:56](/episodes/ep-3QJqtW_NOSI.md#t-00-37-47): “I'm reading my book right now, Make Him a Sandwich, and I describe these two competing and both wrong viewpoints of modern feminism”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:41:31](/episodes/ep-AoYZel7_cGQ.md#t-00-41-31): “my husband bought me your making a sandwich book as a gift”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:55:16](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-47): “If you guys would like to support us and the show, you will love my new book. Go to MakeHimASandwich.com.”
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:37:48](/episodes/ep-ZAuuSq_j2_w.md#t-00-37-19): “Anyways, you guys, if you'd like to support our show, I'm reminding you that Make Him a Sandwich is now on sale. It's on Amazon, which is super exciting. Also, if you want to get 20% off the book, you can go to MakeHimASandwich.com and buy directly from us. And we are now shipping to Canada. And if you're looking for a signed copy, that is only available at CandaceOwens.com. Um, yeah. I need to start promoting my book more on social media.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:05](/episodes/ep-9k2xrAC0H88.md#t-00-54-53): “They are run with a Soviet methodology. Anyways, also, guys, if you'd like to support the show in a really fun way, you can go and buy my book. ... You guys can buy that at MakeHimASandwich.com or you can just throw it into your Amazon cart for the Christmas season.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:03:40](/episodes/ep-Cq7nj9rxPdo.md#t-01-03-33): “Also, yes—Making a Sandwich. I'm so proud of this book. Please tag me when you get it. I get really happy when you guys tag me in the book because it really was a labor of love. Like I said, I wrote every word of this, and I did it outside of the matrix.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:53:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-53-25): “Speaking of discounts, if you want a regular copy of my book, Make Him a Sandwich, for 20% off, you can head to MakeHimASandwich.com.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:51:46](/episodes/ep-a-e7HC6SeK8.md#t-00-51-29): “Anyways, you guys—to get to some housekeeping: some great news. My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website—which is MakeHimASandwich.com—but now it is”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:47:10](/episodes/ep-sImMM04XdWY.md#t-00-47-02): “If you'd like to buy my new book "Make Him a Sandwich," you can head to MakeHimASandwich.com for our regularly priced books.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:50:25](/episodes/ep-w1oqQbR_bYs.md#t-00-50-07): “if you would like to purchase my book for Christmas ... And it's MakeEmASandwich.com.”
 
 </details>
 
@@ -712,7 +750,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** authored this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -730,6 +768,14 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:37:56](/episodes/ep-3QJqtW_NOSI.md#t-00-37-47): “I'm reading my book right now, Make Him a Sandwich, and I describe these two competing and both wrong viewpoints of modern feminism”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:41:31](/episodes/ep-AoYZel7_cGQ.md#t-00-41-31): “my husband bought me your making a sandwich book as a gift”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:55:16](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-47): “If you guys would like to support us and the show, you will love my new book. Go to MakeHimASandwich.com.”
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:37:48](/episodes/ep-ZAuuSq_j2_w.md#t-00-37-19): “Anyways, you guys, if you'd like to support our show, I'm reminding you that Make Him a Sandwich is now on sale. It's on Amazon, which is super exciting. Also, if you want to get 20% off the book, you can go to MakeHimASandwich.com and buy directly from us. And we are now shipping to Canada. And if you're looking for a signed copy, that is only available at CandaceOwens.com. Um, yeah. I need to start promoting my book more on social media.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:05](/episodes/ep-9k2xrAC0H88.md#t-00-54-53): “They are run with a Soviet methodology. Anyways, also, guys, if you'd like to support the show in a really fun way, you can go and buy my book. ... You guys can buy that at MakeHimASandwich.com or you can just throw it into your Amazon cart for the Christmas season.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:03:40](/episodes/ep-Cq7nj9rxPdo.md#t-01-03-33): “Also, yes—Making a Sandwich. I'm so proud of this book. Please tag me when you get it. I get really happy when you guys tag me in the book because it really was a labor of love. Like I said, I wrote every word of this, and I did it outside of the matrix.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:53:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-53-25): “Speaking of discounts, if you want a regular copy of my book, Make Him a Sandwich, for 20% off, you can head to MakeHimASandwich.com.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:51:46](/episodes/ep-a-e7HC6SeK8.md#t-00-51-29): “Anyways, you guys—to get to some housekeeping: some great news. My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website—which is MakeHimASandwich.com—but now it is”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:47:10](/episodes/ep-sImMM04XdWY.md#t-00-47-02): “If you'd like to buy my new book "Make Him a Sandwich," you can head to MakeHimASandwich.com for our regularly priced books.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:50:25](/episodes/ep-w1oqQbR_bYs.md#t-00-50-07): “if you would like to purchase my book for Christmas ... And it's MakeEmASandwich.com.”
 
 </details>
 

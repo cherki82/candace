@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:41:26](/episodes/ep-MhakwJxK-Zk.md#t-00-41-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2486);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2486s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I suddenly realized that Turning Point USA did a rather mysterious thing. They removed all of Charlie (Charlie Kirk)'s episodes. ... That date where she met with Megyn Kelly was November 22nd. And I went through my inbox and I went through to figure out when was the first day that we were alerted that they began removing episodes from the Charlie Kirk show. ... And they began that on November 3rd. So just ahead of Erika Kirk going out there and telling a story about Charlie (Charlie Kirk) appointing her. ... Just before she said that story—the public heard that story for the first time from her mouth—Turning Point moved to mysteriously delete all of these episodes. They deleted certain tweets. They deleted Q&A sessions from the internet. That is a fact, by the way.
 

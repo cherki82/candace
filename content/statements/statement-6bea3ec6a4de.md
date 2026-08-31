@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1714);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=1714s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun. ... They recognized photos of the suspect, which were released by the FBI as looking like their son. Only then did they move on to suspecting that the rifle was a match. ... And at that point, the FBI had already announced that they had found a high powered bolt action rifle.
 

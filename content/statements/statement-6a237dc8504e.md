@@ -1,17 +1,17 @@
 ---
-title: "somebody has fabricated a monstrous big lie that Israel had ..."
-description: "\"somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.\" — Benjamin Netanyahu"
+title: "Netanyahu said somebody had fabricated a monstrous lie that ..."
+description: "\"Netanyahu said somebody had fabricated a monstrous lie that Israel was involved in Charlie Kirk's murder.\" — Benjamin Netanyahu"
 statement_id: "statement-6a237dc8504e"
 speaker: "Benjamin Netanyahu"
-type: "factual_claim"
+type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.
+> Netanyahu said somebody had fabricated a monstrous lie that Israel was involved in Charlie Kirk's murder.
 
 ## Attribution
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:33:19](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1999);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, somebody has fabricated a monstrous big lie that Israel had something to do with Charlie (Charlie Kirk)'s horrific murder
 
@@ -48,4 +48,4 @@ Multiple reliable sources, including ADL, Wikipedia, Axios, SPLC, and CNN fact-c
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

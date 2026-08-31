@@ -28,7 +28,7 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,7 +37,7 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 <p>Highest activity: <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bohls-t-00-32-13">DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bohls-t-00-32-13" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bohls-t-00-05-01" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bohls-t-00-05-13" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-robert-bohls-t-00-37-20" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-robert-bohls-t-00-21-30" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
@@ -46,7 +46,7 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bohls-t-00-32-13) | 2 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bohls-t-00-05-01) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bohls-t-00-05-13) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-robert-bohls-t-00-37-20) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-robert-bohls-t-00-21-30) | 2 |
 
@@ -80,7 +80,7 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bohls-t-00-05-01)**
+**[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bohls-t-00-05-13)**
 > "a long tenure in DC, Robert Bohls. His first case is Charlie (Charlie Kirk)'s assassination."
 
 </details>
@@ -89,10 +89,10 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:32:13](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bohls-t-00-32-13)**
-> "He fired the chief—among other people—and replaced her with Robert Bowles in August."
+> "He fired the chief—among other people—and replaced her with Robert Bohls in August."
 
 **[00:32:20](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bohls-t-00-32-13)**
-> "... true. He fired the chief—among other people—and replaced her with Robert Bowles in August. I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been..."
+> "I think Robert Bohls—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades."
 
 </details>
 
@@ -105,12 +105,11 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 <summary>Appointed By (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:20](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “replaced her with Robert Bowles”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:32](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “Kash Patel... fired... the chief of the Utah bureau... and replaced her with Robert Bowles”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-13): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:30](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “—the FBI Salt Lake City office. He fires that person and installs Robert Bohls. On September 2nd, okay, eight days before the Charlie Kirk assassination, Robert Bohls assumes that position at the Salt Lake field office.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:56](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): “Kash Patel went ahead and fired not only the chief of the Utah bureau, but also some other people. ... He fired the chief—among other people—and replaced her with Robert Bohls in August.”
 
 </details>
 
@@ -134,19 +133,20 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 - **[Kash Patel](/entities/person-kash-patel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-13): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Works For (3)</summary>
+<summary>Works For (2)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:06](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): ““Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination.” ... He fired the chief—among other people—and replaced her with Robert Bowles in August. ... I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:45](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): “It is also interesting to note that the Utah FBI also got a brand-new set of employees—the state FBI department. ... He fired the chief—among other people—and replaced her with Robert Bohls in August. ... I think Robert Bohls—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:46](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “And I also want to say he had a very long tenure up until that moment with the FBI all over the United States for almost 20 years.”
 
 </details>
 
@@ -157,33 +157,25 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 
 </details>
 
-- **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:46](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “And I also want to say he had a very long tenure up until that moment with the FBI all over the United States for almost 20 years.”
-
-</details>
-
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** appointed this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:20](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “replaced her with Robert Bowles”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:32](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “Kash Patel... fired... the chief of the Utah bureau... and replaced her with Robert Bowles”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:13](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): “He fired the chief—among other people—and replaced her with Robert Bowles in August”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-13): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:30](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “—the FBI Salt Lake City office. He fires that person and installs Robert Bohls. On September 2nd, okay, eight days before the Charlie Kirk assassination, Robert Bohls assumes that position at the Salt Lake field office.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:56](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): “Kash Patel went ahead and fired not only the chief of the Utah bureau, but also some other people. ... He fired the chief—among other people—and replaced her with Robert Bohls in August.”
 
 </details>
 
 - **[FBI](/entities/org-fbi.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:06](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): ““Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination.” ... He fired the chief—among other people—and replaced her with Robert Bowles in August. ... I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:45](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): “It is also interesting to note that the Utah FBI also got a brand-new set of employees—the state FBI department. ... He fired the chief—among other people—and replaced her with Robert Bohls in August. ... I think Robert Bohls—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:46](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “And I also want to say he had a very long tenure up until that moment with the FBI all over the United States for almost 20 years.”
 
 </details>
 
@@ -191,13 +183,6 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:30](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “—the FBI Salt Lake City office. He fires that person and installs Robert Bohls. On September 2nd, okay, eight days before the Charlie Kirk assassination, Robert Bohls assumes that position at the Salt Lake field office.”
-
-</details>
-
-- **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:46](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “And I also want to say he had a very long tenure up until that moment with the FBI all over the United States for almost 20 years.”
 
 </details>
 
@@ -211,7 +196,7 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 - **[Kash Patel](/entities/person-kash-patel.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:13](/episodes/ep-adJ4LNGp84I.md#t-00-05-13): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls.”
 
 </details>
 
@@ -229,7 +214,7 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI Salt Lake City Field Office](/entities/org-fbi-salt-lake-city-field-office.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:22:06](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) (Citation) **Candace Owens**: ["Candace Owens said Robert Bohls began his policing career at the Provo..."](/statements/statement-c373b79f6714.md)
-  - Also about: [Provo Police Department](/entities/org-provo-police-department.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Provo Police Department](/entities/org-provo-police-department.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

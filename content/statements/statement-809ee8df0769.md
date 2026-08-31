@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:21:47](/episodes/ep-7FS1tUeSfdE.md#t-00-21-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1307);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=1307s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And there was a lot of colluding between Charlie (Charlie Kirk)'s office and Sergio Gor's office at the White House. They were sending even employees that were working for Charlie (Charlie Kirk)'s office were coming from Sergio Gor's office, vice versa. ... That's what I've been told.
 

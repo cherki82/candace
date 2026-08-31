@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1476);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My name is Aubrey Laitsch and I am the former public relations manager for Turning Point USA and I was a part of the recent kind of mass termination group at Turning Point and was let go about three weeks ago and at the time of my release I was working for the ATK company which is spokesman Andrew Kolvet's private business that contracts out with ... with the Turning Point kind of ecosystem. ... I was working directly for him.
 

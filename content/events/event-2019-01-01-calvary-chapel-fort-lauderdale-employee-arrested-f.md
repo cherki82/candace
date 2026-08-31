@@ -6,6 +6,7 @@ date: "2019-01-17"
 ---
 
 **Date:** 2019-01-17
+**Date precision:** Day
 
 ## Event
 
@@ -15,6 +16,6 @@ date: "2019-01-17"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:21:34](/episodes/ep-yAIb-NuUh_U.md#event-event-2019-01-01-calvary-chapel-fort-lauderdale-employee-arrested-f-t-00-07-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=1294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > USA Faith? Who is Rob McCoy? Why is it that these Calvary Chapels have a long history of weird abuse and trafficking scandals that seemingly get swept under the rug, right? Why is Rob McCoy adjacent t

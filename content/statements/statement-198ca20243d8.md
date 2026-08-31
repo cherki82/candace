@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
 **Timestamp:** [00:00:04](/episodes/ep-9k2xrAC0H88.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=4s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's time to state unequivocally that the steel neck quotation did not come from the surgeon
 

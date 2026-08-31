@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=6s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Benjamin Netanyahu is again denying that he murdered Charlie (Charlie Kirk) despite the fact that no one that I know accused him of doing such a thing
 

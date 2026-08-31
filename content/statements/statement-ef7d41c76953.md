@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:37:15](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2235);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2235s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I wish that Charlie Kirk had listened to me because I warned him. I warned him and he did. He started pivoting. I would say a year. We started a year before he passed. We started talking about the Catholic faith, the issues with Zionism. I have many text messages to that effect.
 

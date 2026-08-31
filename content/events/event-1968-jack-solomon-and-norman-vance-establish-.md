@@ -6,6 +6,11 @@ date: "1968"
 ---
 
 **Date:** 1968
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1968”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1968"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:45:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2751);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2751s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in 1968, Jack and his business partner, a man named Norman Vance, began a company

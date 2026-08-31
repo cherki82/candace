@@ -28,7 +28,7 @@ type: "promise"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:27:33](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1653);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1653s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so I wanted to express that to you—that we once again are having a predicament, and we can trace this straight from what they did to when JFK was assassinated, where the feds are obscuring. They are using journalists to obscure. They are putting pressure on government officials. They are lying to the public about everything—except this time it's regarding Charlie Kirk. Which means this time it's not going to fly because I'm not going to allow it to.
 

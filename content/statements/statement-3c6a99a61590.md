@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:51:13](/episodes/ep-KpxIBWkNsSs.md#t-00-51-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3073);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=3073s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we were threatened literally threatened i mean when you see these messages that valhalla was sending about how i would be ruined he explicitly says we're going to ruin her by being if she does not like basically revoke her commentary about Fort Huachuca we're going to basically bury her in everything Mitch (Mitch Snow) has done in his past
 

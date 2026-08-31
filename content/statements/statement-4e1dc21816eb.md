@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2997);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=2997s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me. ... So if you look into the app and you. And you start to read the stuff you click past when you're downloading an app, it tells you super feed.
 

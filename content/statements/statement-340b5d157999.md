@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:29:18](/episodes/ep-VMNWMXX1vO8.md#t-00-29-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1758);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > thing, because it is on my heart so badly. I would love to sit down with each and every one of you individually. I want to know your name, your face, be able to pray for you guys, and really just know you. And so, since I can't do individually just yet, because that would be a long... ... day and time and month and year to do that, I'm going to be conjoining it through departments so we can make them very small and intimate—maybe three people at a time—and have lunch with you guys, just to hear your heart and hear your stories about Charlie (Charlie Kirk). To be honest with you, that would be amazing, and your memories with him.
 

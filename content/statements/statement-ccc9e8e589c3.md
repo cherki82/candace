@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:53:07](/episodes/ep-sreYYcID-QY.md#t-00-52-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3187);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=3187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is, by the way, in large part—from what I understand—being controlled by the White House
 

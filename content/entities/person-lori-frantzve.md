@@ -27,7 +27,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <div><span>Mentions</span><strong>232</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>101</strong></div>
-<div><span>Relationships</span><strong>51</strong></div>
+<div><span>Relationships</span><strong>49</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -954,13 +954,6 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Ceo Of (1)</summary>
-
-- **[GTEC Industries](/entities/org-gtec-industries.md)**
-
-</details>
-
-<details>
 <summary>Affiliated With (3)</summary>
 
 - **[GTEC Industries](/entities/org-gtec-industries.md)**
@@ -1274,7 +1267,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Referenced By (21)</summary>
+<summary>Referenced By (20)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1393,8 +1386,6 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 </details>
 
-- **[GTEC Industries](/entities/org-gtec-industries.md)** has CEO this
-
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)** has board member this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
@@ -1484,7 +1475,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [00:17:28](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09) (Claim) **Candace Owens**: ["The gun patent that interested Lori Frantzve and Larry Guinta is now a..."](/statements/statement-c5d141a804da.md)
   - Also about: [Larry Guinta](/entities/person-larry-guinta.md)
 
-- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pend..."](/statements/statement-2c06601c490a.md)
+- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["Owens alleged that, in late 2016, Lori Frantzve and Larry Guinta met t..."](/statements/statement-2c06601c490a.md)
   - Also about: [Larry Guinta](/entities/person-larry-guinta.md), [GTEC Industries](/entities/org-gtec-industries.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 - [00:19:10](/episodes/ep-xi8SYJTUXPM.md#t-00-18-56) (Claim) **Candace Owens**: ["Lori Frantzve was doing government deals involving GTEC Industries' el..."](/statements/statement-bfdbc1e5443e.md)
@@ -1511,13 +1502,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah](/entities/gpe-utah.md)
 
 - [00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33) (Claim) **The New York Times** (via quoted article): ["Erika Kirk was in her mother's hospital room in Phoenix at 11:23 a.m. ..."](/statements/statement-2d74b37b7029.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Phoenix](/entities/gpe-phoenix.md)
 
 - [00:36:56](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-56) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk was at her mother's doctor's appointment when Michael McCoy..."](/statements/statement-ef1c158aaaca.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) (Claim) **Candace Owens**: ["Lori Frantzve received treatment at the Phoenix clinic on September 8,..."](/statements/statement-8be506596509.md)
-  - Also about: [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+  - Also about: [Phoenix](/entities/gpe-phoenix.md)
 
 - [00:42:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) (Claim) **Candace Owens** (via paraphrase): ["A doctor and his wife told friends that Erika Kirk was in the doctor's..."](/statements/statement-8f640ccb4258.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1741,7 +1732,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3)</summary>
 
 - [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve i..."](/statements/statement-8d0169d15c59.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Candace Owens says someone visited Desert Spirit Tek's listed address ..."](/statements/statement-1aa9c0c7381b.md)
   - Also about: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)

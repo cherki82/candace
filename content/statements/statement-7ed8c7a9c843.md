@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "false"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:41:22](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2482);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2482s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the person who was producing this, some guy named Matt (halftime-show producer; surname unverified) was trying to get them hyped by saying there's a little birdie that told us that Trump (Donald J. Trump) is going to be watching our halftime show. ... he also said to them that this is going to get more views than the Bad Bunny halftime show
 

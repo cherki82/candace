@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [01:04:20](/episodes/ep-qZ8RWfyuewQ.md#t-01-04-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3860);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3860s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Remember, I exposed her secret trust where she's hiding nearly $12 million in real estate among other assets. Her other lawyer's firm specializes in bankruptcies. Is she moving her money abroad and hiding assets?
 

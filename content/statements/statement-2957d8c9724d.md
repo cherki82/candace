@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:35:33](/episodes/ep-3QJqtW_NOSI.md#t-00-35-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2133);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2133s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The character that I had learned to embody after my divorce, in my period of compulsively dating, was a villain. ... Poison Ivy, Catwoman, sexual but scary. And she drank gin martinis, many, many gin martinis. ... She was not tragic. She was nothing close to a victim. No one needed to feel sorry for her. In fact, they should all be jealous.
 

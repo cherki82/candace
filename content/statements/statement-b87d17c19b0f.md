@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:12:33](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(753);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=753s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > another point of interest, okay? His father had no idea that Tyler was gay. That's what I'm told. They are learning this in
 

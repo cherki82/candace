@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:09:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4171);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4171s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This person died in Palestine and this exact full name is one of the passports. I got the list of every Egyptian name that's on this.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 **Timestamp:** [00:00:47](/episodes/ep-iHav0PPzUz8.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(47);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=47s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And now they're up in arms demanding that Tucker (Tucker Carlson) gets canceled from all future Turning Point USA conferences.
 

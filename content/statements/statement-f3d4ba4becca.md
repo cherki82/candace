@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:40:02](/episodes/ep-his-JBjlkh8.md#t-00-39-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2402);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2402s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events.
 

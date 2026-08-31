@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:19:30](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1170);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, enter this TPUSA board member named Paul Vallely. Paul E. Vallely. ... By way of background, Paul E. Vallely was a military commander. He was the military commander for none other than the 7th Psychological Operations Group. ... And while he was serving, he collaborated with a major that was working under him, okay? This major became his official research and analysis team leader, and his name was Major Michael, look at those eyebrows, unbelievable, Michael Aquino. They hit it off so well, Paul and Michael, so well that in 1980, the two of them decided to co-author a book. correctly termed aptly entitled mind war
 

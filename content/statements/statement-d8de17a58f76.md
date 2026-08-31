@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:17:03](/episodes/ep-amqTMimDr0A.md#t-00-17-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1023);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1023s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Suddenly and almost immediately following this, Charlie (Charlie Kirk)'s assassination, that Ben (Ben Shapiro) of all people is sitting in his studio, in Charlie (Charlie Kirk)'s studio with a million dollars in hand attempting to buy his legacy.
 

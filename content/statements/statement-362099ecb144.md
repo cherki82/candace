@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:43:01](/episodes/ep-X3VKJVJ7cN4.md#t-00-43-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2581);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2581s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then it was confirmed from a family friend of Andrew Kolvet who wrote me and said that Andrew said that he lost out on millions when Charlie said no.
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:28:04](/episodes/ep-zSKrxIUMNqw.md#t-00-28-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1684);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1684s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And his best friend Jamie Weinstein decided to cook up a scandal. And if you're wondering who Jamie Weinstein is, he's a political journalist. He's a podcaster. ... At that time, I believe he was working for the National Review, ... Jamie Weinstein is Michelle (Michelle Fields)'s husband.
 

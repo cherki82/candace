@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 108 mentions"
+description: "Dan Flood (People) - 105 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -21,13 +21,13 @@ _Type: People_
 Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-turning-point-usa/70723731)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24">2025-11-20 · 00:33:44</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17">2025-11-20 · 00:33:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04">2026-08-21 · 00:51:04</a></strong></div>
 <div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>44</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>40</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,10 +35,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00">A Legal Turning Point? | Candace Ep 292</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24" style="--pulse-height:70%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17" style="--pulse-height:60%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-dan-flood-t-00-20-18" style="--pulse-height:10%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37" style="--pulse-height:40%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11" style="--pulse-height:70%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 7 mentions" title="2025-12-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-26" style="--pulse-height:30%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-08" style="--pulse-height:60%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-28" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-57" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
@@ -78,10 +78,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24) | 7 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17) | 6 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-dan-flood-t-00-20-18) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37) | 4 |
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11) | 7 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-26) | 3 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-08) | 6 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-28) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-57) | 1 |
@@ -123,7 +123,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (105)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -557,13 +557,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6 mentions)</summary>
 
-**[00:06:34](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11)**
+**[00:06:34](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-08)**
 > "...mebody who had access to Dan (Dan Flood)'s communications,"
-
-**[00:06:40](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11)**
-> "said that Dan (Dan Flood) similarly received a text message."
 
 **[00:07:02](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-43)**
 > "...ge the night before, and Dan (Dan Flood) received a message the night before."
@@ -571,31 +568,28 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 **[00:07:08](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-43)**
 > "... a concrete copy of what Dan (Dan Flood) got the night before, and I said no."
 
-**[00:07:29](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-07-21)**
+**[00:07:21](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-07-21)**
 > "...ed that the message that Dan (Dan Flood) received said the left is going to kill me."
 
-**[00:46:52](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-46-35)**
-> "They had Dan (Dan Flood) and Brian Harpool working for them."
+**[00:46:52](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-46-52)**
+> "They had Dan (Dan Flood) and Brian Harpole working for them. Initially, I told Charlie (Charlie Kirk) I did not like the security apparatus."
 
-**[00:47:37](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-47-20)**
+**[00:47:28](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-47-28)**
 > "...ge he showed belonged to Dan (Dan Flood)."
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
 
-**[00:04:45](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
-> "did you see Dan Flood? No, well, that checks out because Dan Flood was with Charlie in Korea"
+**[00:28:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-26)**
+> "...ed him, you know, did you see Dan Flood?"
 
-**[00:28:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
-> "...ed him, you know, did you see Dan Flood (Dan Flood)?"
-
-**[00:28:57](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
-> "...well, that checks out because Dan Flood (Dan Flood) was with Charlie in Korea."
+**[00:28:57](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-26)**
+> "...well, that checks out because Dan Flood was with Charlie in Korea."
 
 **[00:55:45](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-55-15)**
-> "...has given me a chill and this Dan Flood (Dan Flood)stup has given me a chill, and maybe w..."
+> "...has given me a chill and this Dan Flood stuff has given me a chill, and maybe we will act..."
 
 </details>
 
@@ -608,27 +602,24 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (7 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
 
-**[00:33:44](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24)**
+**[00:33:44](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17)**
 > "...enting a text message between Dan Flood and Chief Long."
 
-**[00:35:37](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-35-24)**
+**[00:35:37](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-35-07)**
 > "But actually, Dan Flood was primarily—and only—concerned with the Hall of..."
 
-**[00:36:51](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-36-51)**
+**[00:36:51](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-36-34)**
 > "...text message happened between Dan Flood and Jeff Long," and here's what it was pertaining..."
 
-**[00:37:10](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-36-51)**
+**[00:37:10](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-36-34)**
 > "...—but also the only thing that Dan Flood apparently cared about was making sure that their..."
 
-**[00:39:38](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-38-58)**
+**[00:39:38](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-39-36)**
 > "Why is he protecting Dan Flood?"
 
-**[00:39:41](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-39-41)**
-> "Why isn't Dan Flood speaking?"
-
-**[00:39:45](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-39-41)**
+**[00:39:45](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-39-36)**
 > "Has Dan Flood been fired from Turning Point USA?"
 
 </details>
@@ -637,6 +628,18 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:28:57](/episodes/ep-t4U7NjnUEgc.md#t-00-28-26): “No, well, that checks out because Dan Flood was with Charlie in Korea.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Child Of (1)</summary>
@@ -675,7 +678,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Formerly Worked For (2)</summary>
+<summary>Formerly Worked For (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -688,6 +691,13 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
+
+</details>
+
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
 
@@ -732,7 +742,14 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:28:57](/episodes/ep-t4U7NjnUEgc.md#t-00-28-26): “No, well, that checks out because Dan Flood was with Charlie in Korea.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -771,6 +788,13 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
+
+</details>
+
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -804,7 +828,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (44)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (40)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -995,54 +1019,43 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
-- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)** (via read message): ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-f4a80abe9a39.md)
+- [00:06:34](/episodes/ep-es7PWdFGoFI.md#t-00-06-08) (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)** (via paraphrase): ["An unnamed person with access to Dan Flood's communications reportedly..."](/statements/statement-f4a80abe9a39.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-044a9c84bf6d.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:06:55](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Charlie Kirk sent text messages the night before his death saying they..."](/statements/statement-6ed250414edc.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens** (via paraphrase): ["Dan Flood received a message the night before saying 'the left is goin..."](/statements/statement-3e07e4f778ff.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk** (via quoted speech): ["The text message Dan Flood received from Charlie Kirk said 'the left i..."](/statements/statement-bedb25b72a1b.md)
+- [00:07:21](/episodes/ep-es7PWdFGoFI.md#t-00-07-21) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said meeting participants clarified that Dan Flood's mes..."](/statements/statement-3e07e4f778ff.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
 
-- [00:28:57](/episodes/ep-t4U7NjnUEgc.md#t-00-28-37) (Claim) **Candace Owens**: ["Owens said Dan Flood accompanied Charlie Kirk during the South Korea p..."](/statements/statement-56b98c77bcf2.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:29:04](/episodes/ep-t4U7NjnUEgc.md#t-00-28-37) (Claim) **Candace Owens**: ["Dan Flood was with Charlie Kirk in Korea on September 5th and 6th, whi..."](/statements/statement-045ec5c6e47c.md)
+- [00:28:57](/episodes/ep-t4U7NjnUEgc.md#t-00-28-26) (Claim) **Candace Owens**: ["Owens said Dan Flood was with Charlie Kirk in Korea."](/statements/statement-56b98c77bcf2.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
 - [00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18) (Claim) **Candace Owens**: ["Owens said she was told that Charlie Kirk allegedly messaged his secur..."](/statements/statement-fade9d231aff.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:20:32](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18) (Claim) **Candace Owens**: ["Charlie Kirk messaged Dan Flood the night before he died and explicitl..."](/statements/statement-b5378b994635.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
 
-- [00:37:10](/episodes/ep-sImMM04XdWY.md#t-00-36-51) (Claim) **Candace Owens**: ["Dan Flood apparently cared primarily about making sure that Turning Po..."](/statements/statement-37bf53db249d.md)
+- [00:33:37](/episodes/ep-sImMM04XdWY.md#t-00-33-17) (Claim) **Candace Owens**: ["Candace Owens said Brian Harpole presented a text exchange between Dan..."](/statements/statement-d3fed1ca5537.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Jeff Long](/entities/person-jeff-long.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+- [00:36:44](/episodes/ep-sImMM04XdWY.md#t-00-36-34) (Accusation) **Candace Owens**: ["Candace Owens accused Brian Harpole of being fundamentally dishonest b..."](/statements/statement-93e937c4f898.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:37:10](/episodes/ep-sImMM04XdWY.md#t-00-36-34) (Claim) **TPUSA security sources (identities unverified)** (via read message): ["Turning Point USA security sources reportedly said the security team d..."](/statements/statement-e5d5de91e5b0.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

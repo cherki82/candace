@@ -1,6 +1,6 @@
 ---
-title: "FBI recovered high-powered bolt-action rifle used in shootin..."
-description: "\"FBI recovered high-powered bolt-action rifle used in shooting in wooded area where shooter fled\" — FBI Spokesperson (Ep 2WEHTk0Xewg)"
+title: "An unidentified FBI spokesperson said the agency had recover..."
+description: "\"An unidentified FBI spokesperson said the agency had recovered what it believed was the weapon used in the shooting: a high-powered bolt-action rifle ...\" — FBI Spokesperson (Ep 2WEHTk0Xewg)"
 statement_id: "statement-f6efaa570bd5"
 speaker: "FBI Spokesperson (Ep 2WEHTk0Xewg)"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> FBI recovered high-powered bolt-action rifle used in shooting in wooded area where shooter fled
+> An unidentified FBI spokesperson said the agency had recovered what it believed was the weapon used in the shooting: a high-powered bolt-action rifle found in a wooded area where the shooter had fled.
 
 ## Attribution
 
@@ -24,10 +24,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:17:49](/episodes/ep-2WEHTk0Xewg.md#t-00-17-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1069);return false;">Play</a>
+**Timestamp:** [00:17:49](/episodes/ep-2WEHTk0Xewg.md#t-00-17-49) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1069s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> That rifle was recovered in a wooded area where the shooter had fled
+> This morning I can tell you that we have recovered what we believe is the weapon that was used in yesterday's shooting. ... It is a high-powered bolt-action rifle. ... That rifle was recovered in a wooded area where the shooter had fled.
 
 ## Verification
 

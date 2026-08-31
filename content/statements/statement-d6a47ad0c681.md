@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:24:54](/episodes/ep-19vHhjF7-NA.md#t-00-24-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1494);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=1494s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'd like to remind you, Laura Loomer is not legally allowed to own a weapon. A weapon? That's how insane Larry Loomer (Laura Loomer) is. Does not qualify to own a weapon in the United States.
 

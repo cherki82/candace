@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:39:42](/episodes/ep-1IY2oD-_xVA.md#t-00-39-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2382);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2382s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is also without question willing to lie to make her mother look better. I mean, to say I grew up with a single mother is not true.
 
@@ -37,7 +37,7 @@ type: "accusation"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:17:09](/episodes/ep-eLgD5yUVbko.md#t-00-16-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1029s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erika was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erika was raised by a single mother. It's not true.
 

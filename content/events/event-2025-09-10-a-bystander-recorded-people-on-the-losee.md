@@ -7,6 +7,11 @@ time: "12:47"
 ---
 
 **Date:** 2025-09-10 at 12:47
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “1247 p.m.”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "12:47"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:15:13](/episodes/ep-AH1KVKkweUE.md#event-event-2025-09-10-a-bystander-recorded-people-on-the-losee-t-00-15-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(913);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=913s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was captured by a bystander at 1247 p.m. Thank you, Candace. Oh my gosh, you're welcome

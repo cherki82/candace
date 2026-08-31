@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:33:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2011);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=2011s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it seems Trump has completely abandoned and forgotten the American people so long as he can protect the Epstein network.
 

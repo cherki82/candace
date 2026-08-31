@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:17:14](/episodes/ep-1CFDtD0IgEg.md#t-00-16-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1034);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1034s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the article here says authority found a screwdriver near the recovered rifle. And it reads authorities recovered a screwdriver near the rifle investigators believe was used in yesterday's fatal shooting of conservative activist Charlie Kirk. ... According to a source with knowledge of the investigation, investigators believe this to be an indication that the shooter may have used it to disassemble and reassemble the firearm before using it.
 

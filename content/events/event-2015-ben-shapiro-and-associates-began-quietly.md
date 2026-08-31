@@ -6,6 +6,11 @@ date: "2015"
 ---
 
 **Date:** 2015
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “the end of 2015”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2015"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:27:30](/episodes/ep-zSKrxIUMNqw.md#event-event-2015-ben-shapiro-and-associates-began-quietly-t-00-27-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1650);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1650s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > had begun quietly building Daily Wire at the end of 2015.

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:14:34](/episodes/ep-uC_GjKU8rs8.md#t-00-14-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(874);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=874s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They brought back my social channels to mock me. ... they also attempted, in case you forgot, they attempted to create an entire show dedicated to making fun of this show.
 

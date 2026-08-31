@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:44:37](/episodes/ep-1mYNOqzAdXs.md#t-00-44-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2677);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2677s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They're going to use microscopic comparison just in time for me to get a microscope for my birthday because I promise you I will do tests. However they say they are conducting this, if they say it works. They can conduct they can match this. I will make sure that I get into the backyard and I make sure that that is actually a matter that can be done.
 

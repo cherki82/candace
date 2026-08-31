@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:08:52](/episodes/ep-ds6umq1rHAw.md#t-00-08-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(532);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=532s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the term Mormon Mafia, where does it come from? If you just Google it, you are going to learn that it is a colloquial term that is usually referring to, and I'll quote, the trusted latter-day saints inner circle of businessmen and accountants who were hired by billionaire Howard Hughes in Las Vegas during the 1960s. Okay, so Howard Hughes is the name that we need to reference.
 

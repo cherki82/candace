@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:41:32](/episodes/ep-VMNWMXX1vO8.md#t-00-41-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2492);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2492s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I got fired after 15 years, the highest-rated show in American cable television, and I got fired for... ... my opinion.
 

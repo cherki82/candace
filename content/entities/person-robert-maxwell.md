@@ -1,6 +1,6 @@
 ---
 title: "Robert Maxwell"
-description: "Robert Maxwell (People) - 12 mentions"
+description: "Robert Maxwell (People) - 13 mentions"
 id: "person-robert-maxwell"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10">2025-09-15 · 00:29:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06">2026-06-26 · 00:40:25</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -37,6 +37,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <p>Highest activity: <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-robert-maxwell-t-00-39-05">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10" style="--pulse-height:50%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-robert-maxwell-t-00-40-19" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-maxwell-t-00-29-11" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-robert-maxwell-t-00-33-11" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-robert-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
@@ -50,6 +51,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-robert-maxwell-t-00-40-19) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-maxwell-t-00-29-11) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-robert-maxwell-t-00-33-11) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-robert-maxwell-t-00-39-05) | 4 |
@@ -64,7 +66,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -132,12 +134,20 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 </details>
 
 <details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:40:39](/episodes/ep-581dILVcEE4.md#ent-person-robert-maxwell-t-00-40-19)**
+> "...ucated again—kind of like the Robert Maxwell campaign—like we had to have the Holocaust educat..."
+
+</details>
+
+<details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
 
 **[00:29:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10)**
 > "...aine, and Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intellige..."
 
-**[00:29:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10)**
+**[00:29:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10)**
 > "Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intelligence agencies"
 
 </details>

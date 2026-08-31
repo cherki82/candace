@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:39:58](/episodes/ep-AH1KVKkweUE.md#t-00-39-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2398);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2398s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pathologically insane is exactly what it is. Pathologically insane to accept this narrative of Charlie (Charlie Kirk)'s assassination being done at the hands of a trans furry who it turns out is not trans and they can't even prove it was on campus that day.
 

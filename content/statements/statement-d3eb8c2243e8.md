@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:05:41](/episodes/ep-DEtFh2Ff-58.md#t-00-05-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then at 1.19 p.m. Utah time, Andrew said to me he has a pulse, but I know nothing else.
 

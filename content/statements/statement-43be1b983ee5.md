@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3326);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=3326s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > against me Brian Harpole asserted I think he asserted that he called 911 or someone called 911 that I have not seen that in the released 911 recordings maybe there's a reason they're withholding some other recordings that happened but the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911
 

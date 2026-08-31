@@ -3,9 +3,17 @@ title: "Kenzie Kinney"
 description: "Kenzie Kinney (People) - 2 mentions"
 id: "person-kenzie-kinney"
 type: "PERSON"
+categories:
+  - "Potter's Field former intern and finance worker"
 ---
 
 _Type: People_
+
+**Categories:** Potter's Field former intern and finance worker
+
+**Entity verification:** verified
+> Contemporaneous Whitefish reporting identifies Kenzie Kinney as a former Potter's Field intern and IGNITE participant in this context.
+Source: [Whitefish Pilot: Calvary Chapel ends support of Potter's Field Ministries](https://whitefishpilot.com/news/2019/jul/23/calvary-chapel-ends-support-of-potters-field-9/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-kenzie-kinney-t-00-25-16">2025-11-13 · 00:25:40</a></strong></div>
@@ -57,7 +65,7 @@ _Type: People_
 <details>
 <summary>Formerly Worked For (1)</summary>
 
-- **[Potter's Fields Ministries](/entities/org-potters-fields-ministries.md)**
+- **[Potter's Field Ministries](/entities/org-potters-field-ministries.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:25:40](/episodes/ep-yAIb-NuUh_U.md#t-00-25-16): “That student's—then student's—name was Kenzie Kinney, okay? ... She handled Potter's Fields finances.”
@@ -69,7 +77,7 @@ _Type: People_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Potter's Fields Ministries](/entities/org-potters-fields-ministries.md)** formerly employed this
+- **[Potter's Field Ministries](/entities/org-potters-field-ministries.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:25:40](/episodes/ep-yAIb-NuUh_U.md#t-00-25-16): “That student's—then student's—name was Kenzie Kinney, okay? ... She handled Potter's Fields finances.”

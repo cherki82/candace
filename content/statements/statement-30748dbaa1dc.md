@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:25:06](/episodes/ep-czVBmqZP6Ss.md#t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1506);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1506s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You're not gonna gaslight us and tell us to shut up or call us antisemitic for pointing out the fact that Charlie was having a change of heart about the tactics that Israel was using in America and that he felt, when he had left that meeting, that he had...
 

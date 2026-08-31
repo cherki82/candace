@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:31:17](/episodes/ep-jTj9Ip46r4w.md#t-00-31-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1877);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1877s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's actually no evidence they were ever kicked out, but they left—the revolutionaries left. And there were, actually, all throughout this timeframe, these sorts of revolutions happening all across Europe,
 

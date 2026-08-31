@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:02:30](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(150);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=150s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So he comes at Turning Point USA, and this is what was divulged to me from Andrew Kolvet at the time, willing to spend an offensive amount of money to be a part of AmFest. Like I said, that was told to me by Andrew Kolvet directly because he wanted to say, look, like, obviously, you know, we are totally, Charlie is 100% on your side. This is like an offensive ad spend.
 

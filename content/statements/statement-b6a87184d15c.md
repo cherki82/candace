@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:40:55](/episodes/ep-WoXd4oLwd3w.md#t-00-40-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2455);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2455s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The company, we blinked and the company turned into AIPAC under Erika (Erika Kirk)'s stewardship. And she was not under duress. She's not under duress. She's operating behind the scenes and calling all the shots.
 

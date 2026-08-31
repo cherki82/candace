@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:12:18](/episodes/ep-BxN2-aeMYIs.md#t-00-11-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(738);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=738s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pete Hegseth has taken that exact plane and used a Sam call sign. ... Pete Hegseth has been on that plane in the past.
 

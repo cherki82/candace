@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:44:21](/episodes/ep-BxN2-aeMYIs.md#t-00-44-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2661);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2661s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he did a lot of terrible things when he was a senator. He voted terribly. ... I think he has done tons of corrupt things over his political career.
 

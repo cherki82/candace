@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:01:49](/episodes/ep-UBkFkg4UNY8.md#t-00-01-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and I was able to verify that actually what people think is an earpiece that's coming up is actually the necklace that he was wearing.
 
@@ -36,7 +36,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:34:46](/episodes/ep-5-HUyv9LyMg.md#t-00-34-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2086);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=2086s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At this moment right here, we had assumed initially that that was his recorder or something. I can confirm you'll see later that it's whipping fast and it looks white when it whips fast. ... But that is in fact his necklace. That is his necklace.
 

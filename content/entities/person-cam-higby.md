@@ -1,29 +1,30 @@
 ---
 title: "Cam Higby"
-description: "Cam Higby (People) - 13 mentions"
+description: "Cam Higby (People) - 14 mentions"
 id: "person-cam-higby"
 type: "PERSON"
 aliases:
   - "Kam Higby"
 categories:
   - "political activist"
+  - "political commentary"
 ---
 
 _Type: People_
 
 **Also known as:** Kam Higby
 
-**Categories:** political activist
+**Categories:** political activist, political commentary
 
 **Entity verification:** verified
-> Canonical name and identity for Cam Higby confirmed by the cited direct external source.
-Source: [Cam Higby](https://en.wikipedia.org/wiki/Cam_Higby)
+> PragerU presenter page confirms the canonical name Cam Higby and identifies him as a political commentator and content creator; source context makes Camp Migby a clear ASR corruption.
+Source: [PragerU — Cam Higby](https://www.prageru.com/presenters/cam-higby)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-cam-higby-t-00-40-39">2025-12-03 · 00:40:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-cam-higby-t-00-47-08">2025-12-05 · 00:47:14</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -50,7 +51,7 @@ Source: [Cam Higby](https://en.wikipedia.org/wiki/Cam_Higby)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (10 mentions)</summary>
@@ -62,7 +63,7 @@ Source: [Cam Higby](https://en.wikipedia.org/wiki/Cam_Higby)
 > "... frankly bizarre late-night tweets and ultimatum, I wanted to update you guys and let you know that Cam Higby—remember that weird propagandist reporter who goes to the Pentagon press secretary and is like, "Do..."
 
 **[00:02:38](/episodes/ep-ZAuuSq_j2_w.md#ent-person-cam-higby-t-00-02-11)**
-> "...ce was on the ground the day—on the day that Charlie (Charlie Kirk) was assassinated. Yeah, this is Cam Higby. Take a listen. (Clip: Cam Higby speaking to the Pentagon press secretary) Yeah, so this is my firs..."
+> "Yeah, this is Cam Higby. Take a listen. (Clip: Cam Higby speaking to the Pentagon press secretary)"
 
 **[00:03:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-cam-higby-t-00-03-07)**
 > "... think that this was going to lead back to Turning Point USA, but little did I know that we can add Cam Higby onto our list of brand-new. You know, everyone was just so brand-new on that day. Everyone was so b..."
@@ -110,10 +111,9 @@ Source: [Cam Higby](https://en.wikipedia.org/wiki/Cam_Higby)
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07): “Cam Higby is on the payroll of Turning Point USA, beginning in August of this year.”
-- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:43](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00): “Cam Higby is on the payroll of Turning Point USA, beginning in August of this year”
 
 </details>
 

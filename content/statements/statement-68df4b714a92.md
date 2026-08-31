@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:12:07](/episodes/ep-CEF7gQRWYCE.md#t-00-12-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(727);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=727s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when I called Helan and asked why I couldn't eat there, she said, it's a Jewish country club. They're not Jewish. They're not going to serve you. They, honest to God, think their DNA is better than everybody else.
 

@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2456);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2456s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On the on the congressional floor, because she is she has David Farnsworth sponsoring a bill, she's doing this panic stuff, there could be an EMP event, and we have to get prepared for an EMP event that could happen electromagnetic pulses and here is what me and my husband Larry Guinta recommend that you do.
 

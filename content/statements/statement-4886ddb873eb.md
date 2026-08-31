@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:33:37](/episodes/ep-c5BcKF91iec.md#t-00-33-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2017);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2017s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie gets killed. He, on the same day, starts pushing his book. Charlie's last words were, "Buy my book. Buy Josh Hammer's book."
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:54:15](/episodes/ep-4DvYXBn_5JI.md#t-00-54-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3255);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=3255s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Jessica Ghawi, I believe her name was, something's very strange about that. Like I said, my conspiracy is that these are military targets, people that are being taken out, the fact that she had just survived another shooting, missed it in a food court up in Canada.
 

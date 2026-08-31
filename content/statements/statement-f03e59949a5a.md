@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:38:35](/episodes/ep-BxN2-aeMYIs.md#t-00-38-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2315);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2315s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had some very candid conversations after the big beautiful bill that where he voiced his frustration to me privately.
 

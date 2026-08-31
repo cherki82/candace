@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:34:37](/episodes/ep-puuMVxEu5NU.md#t-00-34-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2077);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2077s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know what else I'm not buying? And it turns out that you guys are not either is the bot campaign, the Israeli influence operation, the FARA docs that were filed following Charlie (Charlie Kirk)'s assassination, almost immediately following Charlie (Charlie Kirk)'s assassination. ... Clock Tower X, we talked about this. The Israeli foreign minister quite literally hiring Brad Parscale, the former Trump (Donald Trump) campaign manager, his firm, Clock Tower X, to conduct a digital campaign on behalf of the Iranian government on behalf of the On behalf of the state of Israel,
 

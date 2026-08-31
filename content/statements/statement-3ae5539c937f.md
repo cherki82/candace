@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:31:08](/episodes/ep-puuMVxEu5NU.md#t-00-31-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1868);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Helen (Helen Comperatore) Comparatore says it was a year before the Secret Service actually reached out to her. The questions that she did ask, she says they didn't answer them fully, and she's now pleading, reaching out to President Trump (Donald Trump), hoping that he will intervene, apply pressure so she can get answers as to what happened here and why.
 

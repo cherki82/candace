@@ -28,7 +28,7 @@ type: "promise"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:46:45](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2805);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2805s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm trying to get to the bottom of who killed Charlie Kirk. And I intend to do that. I'm trying to get to the bottom of what the hell this situation has to do with Ben Shapiro. And I intend to do that.
 

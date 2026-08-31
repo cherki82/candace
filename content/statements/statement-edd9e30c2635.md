@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:00:16](/episodes/ep-_vg7ucP1E0g.md#t-00-00-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(16);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=16s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) has always been tremendous and she never sought the limelight. She was always very happy to sort of be doing her own thing and just be supportive of Charlie (Charlie Kirk).
 

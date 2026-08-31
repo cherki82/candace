@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:22:19](/episodes/ep-ds6umq1rHAw.md#t-00-21-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1339);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1339s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bill Ackman made a $900 million investment into Howard Hughes Holding Incorporated, returning him back to that executive chair position.
 

@@ -1,17 +1,17 @@
 ---
-title: "Owens read a BBC report stating that Sherri Steele, who live..."
-description: "\"Owens read a BBC report stating that Sherri Steele, who lived across from the residence, returned from an evening walk to a large police presence\" — Candace Owens"
+title: "Owens read a BBC report stating that Sherry Steele, who live..."
+description: "\"Owens read a BBC report stating that Sherry Steele, who lived across from the residence, returned from an evening walk to a large police presence.\" — Candace Owens"
 statement_id: "statement-dede74dbd6eb"
 speaker: "Candace Owens"
 type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Owens read a BBC report stating that Sherri Steele, who lived across from the residence, returned from an evening walk to a large police presence
+> Owens read a BBC report stating that Sherry Steele, who lived across from the residence, returned from an evening walk to a large police presence.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:17:14](/episodes/ep-sreYYcID-QY.md#t-00-16-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1034);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1034s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It reads, “Sherry Steele, who lives across the street from the residence, came back from an evening walk to see a large police presence
 

@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:53:23](/episodes/ep-I0OaY6Gryqk.md#t-00-53-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3203);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=3203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and what the President and the U.S. forces are doing is incredible. We're very proud to stand shoulder to shoulder with him. ... And getting rid of these lunatics would like to develop nuclear weapons and the means to deliver them to every American city after wiping out Israel. ... They ain't going to do that. We're wiping them out.
 

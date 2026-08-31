@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:06:24](/episodes/ep-HZvwbfePe7o.md#t-00-06-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(384);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=384s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That the last year and a half of his life, he was being swarmed by these Zionist bees who were pressuring him more and more trying to dictate who he could be friends with, who he could invite to his events and spending a lot of money to do that using money as the. ... as the threat will take away your money or will give you more money if you include this person.
 

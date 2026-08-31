@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:47:00](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2820);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2820s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He is the most transparent president in the nation's history.
 

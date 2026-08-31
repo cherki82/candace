@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:51:51](/episodes/ep-sKuYLNx3iRo.md#t-00-51-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3111);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=3111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, I wanted to add here: someone emailed us with very good knowledge. Like, we'll just say this person was very high up the chain at a police department. He said— ... You should be able to find what district attorney, because only a district attorney could release that, like the cross necklace, the back to Erika (Erika Kirk), the microphone that would require a signed release from a district attorney that never happens. It is considered evidence unless a district attorney signs off on it.
 

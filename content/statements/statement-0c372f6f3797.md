@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:09:35](/episodes/ep-_cNtgris8Ik.md#t-00-09-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(575);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=575s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He replied. He said this dude did not tamper with anything. Law enforcement officers asked them to turn them over immediately so they didn't get lost in the commotion before they took everyone into lockdown.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:32:38](/episodes/ep-9hRcfSrri70.md#t-00-32-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1958);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=1958s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Somebody this close recognizes even a little tilt of the head, which nobody else would do, and somebody that was very close to him said, hmm, that's him, and essentially went to the father and went to a U.S. marshal who was fantastic, by the way, and the person was involved with law enforcement, but was a person of faith, a minister.
 

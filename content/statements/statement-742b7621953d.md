@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:30:44](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1844);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1844s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was taken to a smaller regional hospital that was a little farther away—and was further away and was also less equipped for the trauma that he suffered—that he was taken to Timpanogos Regional Hospital
 

@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:36:59](/episodes/ep-I0OaY6Gryqk.md#t-00-36-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2219);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2219s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the reason why we They need to pause the series just because learning about, I mean, in a deep research hole right now regarding that cult that Renee Crossman, who Erika (Erika Kirk) partnered with over in Romania, ... was in the family international thing like the Charles Manson, like the family international and child of God, children of God is what it was called before that.
 

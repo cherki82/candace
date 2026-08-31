@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -14,7 +19,7 @@ date: "2025-09-10"
 ## Mentioned In
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:07:53](/episodes/ep-LATnak75Si0.md#t-00-07-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(473);return false;">▶️ Play</a>
+**Timestamp:** [00:05:49](/episodes/ep-LATnak75Si0.md#t-00-05-49) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=349s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The fact that Charlie was slated to speak in Utah on September 10th
+> Charlie was slated to speak in Utah on September 10th

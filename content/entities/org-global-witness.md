@@ -3,9 +3,18 @@ title: "Global Witness"
 description: "Global Witness (Organizations) - 1 mention"
 id: "org-global-witness"
 type: "ORG"
+categories:
+  - "investigative nonprofit"
+  - "anti-corruption research"
 ---
 
 _Type: Organizations_
+
+**Categories:** investigative nonprofit, anti-corruption research
+
+**Entity verification:** verified
+> Global Witness identifies itself as an investigative campaigning organization and documents its conflict-and-corruption research.
+Source: [Global Witness — About us](https://globalwitness.org/en/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-global-witness-t-00-16-50">2025-12-08 · 00:16:50</a></strong></div>
@@ -42,7 +51,7 @@ _Type: Organizations_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:16:50](/episodes/ep-Kmt6HgRjckU.md#ent-org-global-witness-t-00-16-50)**
-> "...5th report on Angola Gates by Global Witness, Gaidemach funneled billions, billions of dollars..."
+> "According to All the Presidents' Men, a March 25th report on Angolagate by Global Witness, Gaydamak funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts."
 
 </details>
 
@@ -61,8 +70,8 @@ _No relationships extracted yet._
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) (Citation) **Candace Owens**: ["According to a Global Witness report, Arkady Gaidemak funneled billion..."](/statements/statement-9762153ccabf.md)
-  - Also about: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola](/entities/gpe-angola.md)
+- [00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-50) (Citation) **Candace Owens**: ["Owens cited a Global Witness report saying Arkady Gaydamak funneled bi..."](/statements/statement-9762153ccabf.md)
+  - Also about: [Arkadi Gaydamak](/entities/person-arkadi-gaydamak.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola](/entities/gpe-angola.md)
 
 </details>
 

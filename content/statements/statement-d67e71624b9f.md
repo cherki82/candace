@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:27:11](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1631);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1631s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We know that Charlie (Charlie Kirk) wanted to seven days before he died to establish a DOGE audit at his company.
 

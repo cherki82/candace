@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:18:28](/episodes/ep-9CuC1yf8-PU.md#t-00-18-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1108);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1108s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So basically I heard a loud bang which I figured a shot would be a little bit louder but I just saw it hit him in the chest and then all of a sudden just tons of blood gushing right out where his heart is and then he like fell over and slumped down and everybody got down and was screaming and then we all ran.
 

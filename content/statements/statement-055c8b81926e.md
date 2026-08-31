@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:19:35](/episodes/ep-_cNtgris8Ik.md#t-00-19-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, so for clarity, the prosecution. The prosecution, the side that is representing Erica Kirk, presented that it potentially, it was them that decreased the aspect ratio. Maybe it was the SBI that remained open that decreased the aspect ratio, but somebody did.
 

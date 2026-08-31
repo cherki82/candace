@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [01:09:16](/episodes/ep-69A8TzAGHlU.md#t-01-09-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4156);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=4156s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > may have been like choreographed because this lawyer Matt Sarlson (Brian Harpole's lawyer; name spelling unverified) the one who speaks like he has helium like he's just ingested some helium uh definitively was retweeting laura loomer so that feels weird that feels like everyone was kind of in a weird way anticipating this lawsuit and knew that it may have been coming um and trump was signaling you should sue people so to Erica (Erika Kirk) Anyways, Two Cent writes,
 

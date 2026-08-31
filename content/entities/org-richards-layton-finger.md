@@ -7,11 +7,19 @@ aliases:
   - "Layton & Finger"
   - "Layton and Finger"
   - "Richards Layton & Finger"
+categories:
+  - "Delaware law firm"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Layton & Finger, Layton and Finger, Richards Layton & Finger
+
+**Categories:** Delaware law firm
+
+**Entity verification:** verified
+> The firm's official history identifies Richards, Layton & Finger as a Delaware law firm founded in 1899 with an office in Wilmington.
+Source: [About the Firm – Richards, Layton & Finger](https://www.rlf.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-richards-layton-finger-t-00-08-27">2025-12-02 · 00:08:27</a></strong></div>
@@ -19,7 +27,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -58,24 +66,24 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Formerly Employed (1)</summary>
 
-- **[Robert H. Richards](/entities/person-robert-h-richards.md)**
+- **[Robert H. Richards III](/entities/person-robert-h-richards-iii.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): “...his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27): “Tells us that his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Hired By (1)</summary>
+<summary>Represented (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:43](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27): “...is that the law firm that's filing the paperwork for you? And the answer to that is yes.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:43](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27): “Tells us that his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm. ... "Hey, Candace (Candace Owens), is that the law firm that's filing the paperwork for you?" ... And the answer to that is yes.”
 
 </details>
 
@@ -84,19 +92,32 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (2)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** hired this
+- **[Robert H. Richards III](/entities/person-robert-h-richards-iii.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:43](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27): “...is that the law firm that's filing the paperwork for you? And the answer to that is yes.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27): “Tells us that his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm.”
 
 </details>
 
-- **[Robert H. Richards](/entities/person-robert-h-richards.md)** works for this
+- **[Candace Owens](/entities/person-candace-owens.md)** represented by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): “...his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:43](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27): “Tells us that his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm. ... "Hey, Candace (Candace Owens), is that the law firm that's filing the paperwork for you?" ... And the answer to that is yes.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Richards, Layton & Finger (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27) (Claim) **Vanity Fair** (via quoted article): ["his father is Robert H. Richards, a retired partner in the Richards, L..."](/statements/statement-ebdcdf4144ee.md)
+  - Also about: [Robert H. Richards III](/entities/person-robert-h-richards-iii.md)
 
 </details>
 

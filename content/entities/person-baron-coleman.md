@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 142 mentions"
+description: "Baron Coleman (People) - 141 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -21,10 +21,10 @@ _Type: People_
 Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/podcast/real-baron-podcast/id1865794721)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04">2026-08-21 · 00:28:11</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>142</strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>141</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -35,8 +35,9 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-baron-coleman-t-00-00-00">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (16 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51" style="--pulse-height:25%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-33-54" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44" style="--pulse-height:19%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-34-15" style="--pulse-height:19%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#t-01-06-55" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-51" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-baron-coleman-t-00-18-37" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
@@ -84,8 +85,9 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51) | 4 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-33-54) | 4 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44) | 3 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-34-15) | 3 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-01-06-55) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-51) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-baron-coleman-t-00-18-37) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13) | 4 |
@@ -135,7 +137,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (142)</strong></summary>
+<summary><strong class="section-title">Raw mentions (141)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -747,35 +749,37 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[00:34:18](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-33-54)**
-> "I want to now play this longer clip of Baron Coleman"
+**[01:07:09](/episodes/ep-ewBzjVe3LNQ.md#t-01-06-55)**
+> "And I think Baran Coleman, he gets it."
 
-**[00:34:25](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-34-25)**
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:34:15](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-34-15)**
 > "...g to play this longer clip of Baron Coleman and hope he doesn't hit me for stealing his conte..."
 
-**[00:40:12](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-40-05)**
+**[00:40:12](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-40-12)**
 > "...t super, super VIP, uh, which Baron Coleman just explained."
 
-**[01:01:39](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-01-01-17)**
+**[01:01:36](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-01-01-03)**
 > "...can say, just like I did when Baron, I think, very responsibly said, you know, where ..."
 
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
 
-**[00:14:12](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51)**
+**[00:14:10](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44)**
 > "I did watch that video that Baron Coleman put together"
 
-**[01:04:05](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51)**
-> "I did watch that video that Baron Coleman put together."
-
-**[01:04:09](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51)**
+**[01:04:05](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44)**
 > "First of all, I want to say Baron Coleman has done some incredible work and I actually told..."
 
-**[01:04:40](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-04-34)**
+**[01:04:40](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-04-23)**
 > "But that said, the Baron Coleman, if you have not seen the episode where he builds..."
 
 </details>
@@ -995,10 +999,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3)</summary>
 
-- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] (Claim) ["SAM000 call signs are highly sensitive and used when the White House or US Air F..."](/statements/statement-e907c35b1863.md)
+- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-19) [○] (Claim) ["SAM000 call signs are highly sensitive and used when the White House or US Air F..."](/statements/statement-e907c35b1863.md)
   - About: [White House](/entities/org-white-house.md), [United States Air Force](/entities/org-united-states-air-force.md)
 
-- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] (Claim) ["A Special Air Mission flight with call sign SAM000 flew from Joint Base Andrews ..."](/statements/statement-88ba3d5e54ae.md)
+- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-19) [○] (Claim) ["A Special Air Mission flight with call sign SAM000 flew from Joint Base Andrews ..."](/statements/statement-88ba3d5e54ae.md)
   - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) [○] (Claim) ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at 4:48 PM l..."](/statements/statement-cf82c67961c5.md)

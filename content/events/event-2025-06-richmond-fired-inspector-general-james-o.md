@@ -6,6 +6,11 @@ date: "2025-06"
 ---
 
 **Date:** 2025-06
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “June 2025”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-06"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:23:27](/episodes/ep-Vu6Y24pqhZs.md#event-event-2025-06-richmond-fired-inspector-general-james-o-t-00-23-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1407);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1407s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Richmond, Virginia just fires the inspector general who was there, James Asuna

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:41:38](/episodes/ep-cZxHqYsWRYg.md#t-00-41-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2498);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2498s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She says nobody saw her. Check. That's true. I'm highlighting this particular period of time because I suspect that this could potentially represent a time when Erika (Erika Kirk) trained to become a Christian. Again, this is my personal opinion. It's my podcast.
 

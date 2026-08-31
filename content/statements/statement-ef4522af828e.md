@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:03:03](/episodes/ep-JQjCAsfoXEE.md#t-00-02-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(183);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=183s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Terrell does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events: the SAS, the AmFest. He does not do college events.
 

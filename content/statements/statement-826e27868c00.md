@@ -1,6 +1,6 @@
 ---
-title: "The shooter was dressed in tactical gear and was wearing a f..."
-description: "\"The shooter was dressed in tactical gear and was wearing a face mask, not jeans as reported\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+title: "An eyewitness told Owens that the shooter wore tactical gear..."
+description: "\"An eyewitness told Owens that the shooter wore tactical gear and a face mask rather than jeans\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
 statement_id: "statement-826e27868c00"
 speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
 type: "factual_claim"
@@ -10,26 +10,28 @@ type: "factual_claim"
 
 ## Statement
 
-> The shooter was dressed in tactical gear and was wearing a face mask, not jeans as reported
+> An eyewitness told Owens that the shooter wore tactical gear and a face mask rather than jeans
 
 ## Attribution
 
 **Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** Phone call
 
 ## About
 
 - [FBI](/entities/org-fbi.md) (org)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:23:46](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1426);return false;">Play</a>
+**Timestamp:** [00:23:31](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=1411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Actually, this person was dressed in tactical gear, and he was wearing a face mask.
+> I said, was he wearing jeans? ... He said, no. ... Actually, this person was dressed in tactical gear, and he was wearing a face mask.
 
 ## Verification
 

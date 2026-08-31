@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:05:28](/episodes/ep-c5BcKF91iec.md#t-00-05-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(328);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=328s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, I am told that these people believe the official narrative: lone shooter. No one else involved, just a crazy guy with too many pronouns in his bio.
 

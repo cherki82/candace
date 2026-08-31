@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:15:53](/episodes/ep-4YgrOhhy708.md#t-00-15-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(953);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=953s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > over 20 million views and yet only 46,000 comments it's impossible it's just it's it's literally made up like I said you know that the Erika (Erika Kirk) address is an authentic representation of views because of the views to comments ratio I'll give you an example my last episode the letter to Erika (Erika Kirk) on YouTube that got 3.1 million views it has 28,000 comments so
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [01:00:19](/episodes/ep-E7P2ShoYDUA.md#t-01-00-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3619);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=3619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > During the debate, I didn't know that Polymarket had odds on whether or not Tyler Robinson would be convicted. ... And during the debate, the odds crashed. That represents our debate day. Will you see that line going down? ... Tyler Robinson and because of homicide dropped into the 30s. I think it hit 34 percent during our debate, which was positively hilarious. But.
 

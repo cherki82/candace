@@ -4,9 +4,10 @@ description: "\"Randy Fine cares more about Israel than he does about principles
 statement_id: "statement-179d931a52f3"
 speaker: "Brett Cooper"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,14 +29,28 @@ type: "opinion"
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:18:46](/episodes/ep-LATnak75Si0.md#t-00-18-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1126);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=1126s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, he obviously—I'm sorry to say—but he obviously cares more about Israel than he does, you know, principles like free speech.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+This is a subjective opinion attributed to Brett Cooper. The episode clip and contemporaneous reporting both quote Cooper saying that Fine obviously cared more about Israel than principles such as free speech. Verification establishes that she expressed the opinion; it does not treat the opinion itself as an objective measurement of Fine’s priorities.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Influencer Brett Cooper tells Jewish congressman to move to Israel, defends Nick Fuentes](https://worldisraelnews.com/brett-cooper-tells-jewish-congressman-to-move-to-israel-defends-nazi-nick-fuentes/)
+- [Mamdani Wins. Charlie Kirk Questions Haunt MAGA. | Candace Ep 259](https://pod.wave.co/podcast/candace-cc79581b-6fe8-428e-ac65-6f1bc0d005e4/mamdani-wins-charlie-kirk-questions-haunt-maga-candace-ep-259)
+
+*Verified: 2026-08-30T11:25:21.620455*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3195);return false;">Play</a>
+**Timestamp:** [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-46) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=3195s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Elon Musk handed over X to the military. I've been talking about military bots forever
 

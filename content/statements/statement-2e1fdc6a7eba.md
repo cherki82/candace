@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:07:32](/episodes/ep-X3VKJVJ7cN4.md#t-00-07-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(452);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=452s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, an explosion versus us just lighting something in a fire pit is going to be different, but I am stunned by that plausibility.
 

@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:36:47](/episodes/ep-rupRLXmSndU.md#t-00-36-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2207);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=2207s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they've got a whole underground city in Provo.
 

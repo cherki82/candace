@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:27:30](/episodes/ep-JQjCAsfoXEE.md#t-00-26-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1650);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1650s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I learned that oddly, Duncan Aviation—you know, where that plane was transponding from, the FBO in Provo—sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation. I didn't just learn that; I actually have the license plate numbers for four of the vehicles that they rented.
 

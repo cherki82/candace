@@ -6,6 +6,11 @@ date: "2023-12-01"
 ---
 
 **Date:** 2023-12-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “on or about December 1st, 2023”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2023-12-01"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:21:42](/episodes/ep-jsqUIkszZd0.md#event-event-2023-12-01-corby-hall-and-melody-demonstrated-the-f-t-00-21-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1302);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on or about December 1st, 2023, at the request of Victor Marx
 
@@ -25,6 +30,6 @@ date: "2023-12-01"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:14:13](/episodes/ep--9MOUvgGyi4.md#t-00-13-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(853);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=853s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this led into Victor explaining what a retooling prayer is.

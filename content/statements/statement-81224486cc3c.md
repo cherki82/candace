@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:10:38](/episodes/ep-G3zdOeHpvS0.md#t-00-10-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(638);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=638s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > shirt and here is how they put it onto Charlie (Charlie Kirk) on September 10th so they have the magnetic clasp on the outside and yet the road mic on the inside now if you are trying to get a clear and crisp audio you do not place it on the inside of someone's shirt right that would just be foolish that would be like us running the show and just like putting you know like a
 

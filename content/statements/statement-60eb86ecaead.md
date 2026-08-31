@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:07:52](/episodes/ep-BxN2-aeMYIs.md#t-00-07-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(472);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=472s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have not, not for one moment, let up on our Fort Huachuca investigation.
 

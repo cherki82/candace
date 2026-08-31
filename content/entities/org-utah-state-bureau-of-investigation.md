@@ -289,7 +289,7 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
   - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:31:17](/episodes/ep-4JxgOclKzqg.md#t-00-30-48) (Claim) **Candace Owens**: ["Owens said the Utah State Bureau of Investigation could ask the FBI to..."](/statements/statement-603f5577441d.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 
@@ -300,7 +300,7 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
   - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md)
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
-  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [FBI](/entities/org-fbi.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)
 
 </details>
 

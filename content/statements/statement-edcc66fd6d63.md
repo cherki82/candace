@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:22:11](/episodes/ep-uC_GjKU8rs8.md#t-00-21-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1331);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=1331s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So if she's monetizing your gullibility, then you are complicit in this nonsense.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:44:41](/episodes/ep-HZvwbfePe7o.md#t-00-44-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2681);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=2681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm told that it was never recovered.
 

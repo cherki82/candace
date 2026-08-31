@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:36:17](/episodes/ep-cZxHqYsWRYg.md#t-00-36-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2177);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lori (Lori Frantzve) is going to have to close down virtual registration International Incorporated, one that Rick (Richard Erpenbeck) helped her open, because the tax department force closes it for lack of a tax filing.
 

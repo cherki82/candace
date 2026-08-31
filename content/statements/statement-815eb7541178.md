@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:06:30](/episodes/ep-JQjCAsfoXEE.md#t-00-06-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(390);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=390s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then they took a clip of that book club from that book club and accused me of accusing Erika of murdering her husband. I mean, they manufactured that claim out of thin air, and then they made it go viral.
 

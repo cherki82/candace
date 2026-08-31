@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 100 mentions"
+description: "Paleovalley (Organizations) - 107 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02">2025-09-16 · 00:39:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02">2025-09-16 · 00:39:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-58">2026-08-18 · 00:44:08</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>100</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,12 +36,13 @@ Source: [Paleovalley](https://paleovalley.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02" style="--pulse-height:44%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 4 mentions" title="2025-09-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-30" style="--pulse-height:78%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 7 mentions" title="2025-10-01 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-35-45" style="--pulse-height:67%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 6 mentions" title="2025-10-09 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-17" style="--pulse-height:56%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-52-25" style="--pulse-height:56%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-27-23" style="--pulse-height:11%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02" style="--pulse-height:56%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-24" style="--pulse-height:56%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-35-38" style="--pulse-height:67%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 6 mentions" title="2025-10-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-06" style="--pulse-height:56%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-52-23" style="--pulse-height:56%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-27-36" style="--pulse-height:44%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-paleovalley-t-00-47-53" style="--pulse-height:56%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 5 mentions" title="2025-12-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03" style="--pulse-height:67%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 9 mentions" title="2026-02-13 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-46-35" style="--pulse-height:44%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
@@ -62,12 +63,13 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02) | 4 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-30) | 7 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-35-45) | 6 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-17) | 5 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-52-25) | 5 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-27-23) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02) | 5 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-24) | 5 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-35-38) | 6 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-06) | 5 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-52-23) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-27-36) | 4 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-paleovalley-t-00-47-53) | 5 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03) | 6 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14) | 9 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-46-35) | 4 |
@@ -90,7 +92,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (3 mentions)</summary>
@@ -384,29 +386,58 @@ Source: [Paleovalley](https://paleovalley.com/)
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
 
-**[00:27:41](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-27-23)**
+**[00:47:53](/episodes/ep-6J6lRZPQ4jk.md#ent-org-paleovalley-t-00-47-53)**
+> "... you that me and my team love Paleo Valley beef sticks, specifically their meat sticks with ..."
+
+**[00:48:26](/episodes/ep-6J6lRZPQ4jk.md#ent-org-paleovalley-t-00-47-53)**
+> "Paleo Valley works with your lifestyle, not against it."
+
+**[00:48:36](/episodes/ep-6J6lRZPQ4jk.md#ent-org-paleovalley-t-00-48-36)**
+> "... 55 million beef sticks sold, Paleo Valley is trusted, proven, and backed by a 60-day money-..."
+
+**[00:48:42](/episodes/ep-6J6lRZPQ4jk.md#ent-org-paleovalley-t-00-48-36)**
+> "...t 20% off your first order at paleovalley.com slash Candice, and you can use code Candice a..."
+
+**[00:48:51](/episodes/ep-6J6lRZPQ4jk.md#ent-org-paleovalley-t-00-48-36)**
+> "That's paleovalley.com slash Candice, promo code Candice at checkout..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
+
+**[00:27:41](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-27-36)**
 > "Also, I wanna tell you guys about Paleovalley because something that my team and I are always craving"
+
+**[00:28:12](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-28-12)**
+> "...carnivore—it does not matter. Paleovalley will work with your lifestyle, not against it. Th..."
+
+**[00:28:24](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-28-12)**
+> "... 55 million beef sticks sold, Paleovalley is trusted, proven, and backed by a 60-day money-..."
+
+**[00:28:30](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleovalley-t-00-28-12)**
+> "...t 20% off your first order at paleovalley.com/candace. If you use promo code Candace at che..."
 
 </details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
-**[00:52:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-52-25)**
+**[00:52:32](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-52-23)**
 > "I want to remind you about Paleovalley because something my team and I are always craving are their beef sticks"
 
-**[00:53:09](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-09)**
+**[00:53:03](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-03)**
 > "Paleovalley will work with your lifestyle, not against it."
 
-**[00:53:22](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-09)**
+**[00:53:16](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-03)**
 > "Paleovalley is trusted; it's proven; and it's backed by a 60-..."
 
-**[00:53:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-09)**
+**[00:53:24](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-03)**
 > "... your first order by visiting paleovalley.com/candace."
 
-**[00:53:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-09)**
+**[00:53:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleovalley-t-00-53-03)**
 > "That's paleovalley.com/candace—promo code Candace at checkout."
 
 </details>
@@ -414,19 +445,19 @@ Source: [Paleovalley](https://paleovalley.com/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
 
-**[00:50:17](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-17)**
+**[00:50:17](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-06)**
 > "All right, you guys—telling you about Paleo Valley because something my team and I are always craving are their beef sticks"
 
-**[00:50:50](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-17)**
+**[00:50:44](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-44)**
 > "Paleo Valley works with your lifestyle, not against it."
 
-**[00:50:55](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-17)**
+**[00:50:55](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-44)**
 > "... 55 million beef sticks sold, Paleo Valley is the trusted and proven—and backed by a 60-day ..."
 
-**[00:51:02](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-51-02)**
+**[00:51:02](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-44)**
 > "...t $20 off your first order at paleovalley.com/Candace, and you can use code Candace at chec..."
 
-**[00:51:10](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-51-02)**
+**[00:51:10](/episodes/ep-iHav0PPzUz8.md#ent-org-paleovalley-t-00-50-44)**
 > "That's paleovalley.com/Candace—and don't forget to use promo code Ca..."
 
 </details>
@@ -434,66 +465,63 @@ Source: [Paleovalley](https://paleovalley.com/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (6 mentions)</summary>
 
-**[00:35:50](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-35-45)**
+**[00:35:48](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-35-38)**
 > "...ve and are always craving are Paleo Valley beef sticks—specifically the ones that they make...."
 
-**[00:36:20](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-35-45)**
+**[00:36:18](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-18)**
 > "Paleo Valley will work with your lifestyle, not against it."
 
-**[00:36:31](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-30)**
+**[00:36:30](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-18)**
 > "... 55 million beef sticks sold, Paleo Valley is trusted, proven, and backed by a 60-day money-..."
 
-**[00:36:37](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-30)**
+**[00:36:37](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-18)**
 > "... your first order by visiting paleovalley.com/Candace."
 
-**[00:36:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-30)**
+**[00:36:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-18)**
 > "Again, paleovalley.com/Candace."
 
-**[00:44:50](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-30)**
+**[00:44:47](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleovalley-t-00-36-18)**
 > "me and my team love and are always craving are Paleo Valley beef sticks"
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (7 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (5 mentions)</summary>
 
-**[00:24:41](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-30)**
-> "Also telling you guys about Paleo Valley."
-
-**[00:24:46](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-30)**
+**[00:24:46](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-24)**
 > "... ones from my friends over at Paleo Valley."
 
-**[00:24:50](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-30)**
+**[00:24:50](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-24-24)**
 > "Paleo Valley makes their meat sticks with 100% grass-fed beef,..."
 
-**[00:25:18](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-25-15)**
+**[00:25:18](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-25-09)**
 > "Paleo Valley works with your lifestyle."
 
-**[00:25:27](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-25-15)**
+**[00:25:27](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-25-09)**
 > "... 55 million beef sticks sold, Paleo Valley is trusted, proven, and backed by a 60-day money-..."
 
-**[00:25:34](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-25-15)**
+**[00:25:34](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-25-09)**
 > "...t 20% off your first order at paleovalley.com/Candace with code CANDACE at checkout."
-
-**[00:25:40](/episodes/ep-adJ4LNGp84I.md#ent-org-paleovalley-t-00-25-15)**
-> "That's paleovalley.com/Candace."
 
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
 
-**[00:39:06](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02)**
+**[00:39:02](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02)**
 > "Something that my team and I are always craving are beef sticks, specifically the ones from my friends over at Paleo Valley"
 
 **[00:39:11](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02)**
 > "Paleo Valley makes their meat sticks with 100% grass-fed beef,..."
 
-**[00:39:38](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02)**
+**[00:39:35](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02)**
 > "Paleo Valley will work with your lifestyle, not against it."
 
 **[00:39:49](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-40)**
 > "Paleo Valley is trusted, it's proven, and it's backed by a 60-..."
+
+**[00:39:59](/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-40)**
+> "That's paleovalley.com/Candace, promo code Candace."
 
 </details>
 
@@ -506,7 +534,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
@@ -514,6 +542,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:49:12](/episodes/ep-Wjul6YV6izo.md#t-00-49-03): “Also want to tell you guys about Paleo Valley because something that my team and I are always craving are their beef sticks. Paleo Valley makes their meat sticks with 100% grass-fed beef ... so you can feel good about what you are eating and what you're supporting.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:27:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-27-36): “Also, I wanna tell you guys about Paleovalley because something that my team and I are always craving are their snack beef sticks”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:47:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-47-53): “All right, you know, I tell you that me and my team love Paleo Valley beef sticks, specifically their meat sticks with 100% grass-fed beef sourced from small-scale regenerative farms here in America so that you can feel good about what you are eating and what you are supporting.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:35:48](/episodes/ep-pc3pxRyNFZk.md#t-00-35-38): “something that me and my team love and are always craving are Paleo Valley beef sticks”
 
 </details>
 
@@ -523,7 +554,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
@@ -531,6 +562,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:49:12](/episodes/ep-Wjul6YV6izo.md#t-00-49-03): “Also want to tell you guys about Paleo Valley because something that my team and I are always craving are their beef sticks. Paleo Valley makes their meat sticks with 100% grass-fed beef ... so you can feel good about what you are eating and what you're supporting.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:27:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-27-36): “Also, I wanna tell you guys about Paleovalley because something that my team and I are always craving are their snack beef sticks”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:47:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-47-53): “All right, you know, I tell you that me and my team love Paleo Valley beef sticks, specifically their meat sticks with 100% grass-fed beef sourced from small-scale regenerative farms here in America so that you can feel good about what you are eating and what you are supporting.”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:35:48](/episodes/ep-pc3pxRyNFZk.md#t-00-35-38): “something that me and my team love and are always craving are Paleo Valley beef sticks”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Lindsay Lohan"
-description: "Lindsay Lohan (People) - 3 mentions"
+description: "Lindsay Lohan (People) - 4 mentions"
 id: "person-lindsay-lohan"
 type: "PERSON"
 categories:
@@ -17,10 +17,10 @@ _Type: People_
 Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movies/mean-girls)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06">2025-11-15 · 00:12:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-01">2025-11-15 · 00:12:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05">2026-01-19 · 00:18:31</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,16 +29,16 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-01">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-01" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 3 mentions" title="2025-11-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05" style="--pulse-height:33%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-01) | 3 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05) | 1 |
 
 </details>
@@ -47,7 +47,7 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
@@ -58,13 +58,16 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
 
-**[00:12:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06)**
-> "... Just a couple of years ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships. Oh, we're going to get there because as I started following the Calvary Chap..."
+**[00:12:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-01)**
+> "Just a couple of years ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships."
 
-**[00:13:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-13-13)**
+**[00:13:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-13-11)**
 > "...at is happening? How can there be this many Calvary Chapel scandals and stories? She also mentioned Lindsay Lohan. She's not lying there. Well-loved teenager, fantastic actress—who didn't love a Parent Trap when t..."
+
+**[00:13:44](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-13-11)**
+> "...d stories? She also mentioned Lindsay Lohan."
 
 </details>
 
@@ -79,7 +82,7 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 - **[Michael Lohan](/entities/person-michael-lohan.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:14:01](/episodes/ep-7RLtGgkTh9o.md#t-00-13-53): “her dad, Michael Lohan”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:14:01](/episodes/ep-7RLtGgkTh9o.md#t-00-13-52): “her dad, Michael Lohan”
 
 </details>
 
@@ -91,7 +94,7 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 - **[Michael Lohan](/entities/person-michael-lohan.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:14:01](/episodes/ep-7RLtGgkTh9o.md#t-00-13-53): “her dad, Michael Lohan”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:14:01](/episodes/ep-7RLtGgkTh9o.md#t-00-13-52): “her dad, Michael Lohan”
 
 </details>
 
@@ -105,7 +108,7 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3)</summary>
 
-- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
+- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-01) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
 - [00:14:21](/episodes/ep-7RLtGgkTh9o.md#t-00-14-12) (Accusation) **Michael Lohan** (via quoted speech): ["Sean Chapman Holly and Lou Taylor leaked Lindsay Lohan rehab informati..."](/statements/statement-87ffc4776b74.md)

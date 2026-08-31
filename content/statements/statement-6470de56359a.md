@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3036);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=3036s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at but i can fix it my next big plan is to do what we did to breitbart we'll create a fake scandal we'll accuse candace who's actually hard working super pregnant we'll accuse her of being anti-semitic and gloriously fire her over having said christ is king we'll do this during lent because surely that will lead to more Daily Wire signups it worked for us once at breitbart i think we could do it again the world will see it our way
 

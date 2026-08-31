@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:47:03](/episodes/ep-CEF7gQRWYCE.md#t-00-46-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2823);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2823s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, the last walk we went on, Megan (Megyn Kelly), was Monday night. So the terrible day was Wednesday. ... And then we went on this long walk
 

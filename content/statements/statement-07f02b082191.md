@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:51:06](/episodes/ep-h76ZN-xXC6c.md#t-00-50-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3066);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=3066s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Do you mind utilizing a similar speed to get Tyler Robinson's defense team the documents that they've been requesting, which have mysteriously been in your possession since September?
 

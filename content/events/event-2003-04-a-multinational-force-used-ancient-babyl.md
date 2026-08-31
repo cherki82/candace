@@ -6,6 +6,11 @@ date: "2003-04"
 ---
 
 **Date:** 2003-04
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “between April 2003 and December of 2004”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2003-04"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:11:14](/episodes/ep-QRS_hR7NXaQ.md#event-event-2003-04-a-multinational-force-used-ancient-babyl-t-00-10-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(674);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=674s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the use of Babylon as a camp by a multinational force between April 2003 and December of 2004,

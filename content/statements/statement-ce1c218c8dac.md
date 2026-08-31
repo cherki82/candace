@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:21:17](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1277);return false;">Play</a>
+**Timestamp:** [00:21:17](/episodes/ep-t1YtLS1n8Vs.md#t-00-20-55) 
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=1277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He ran for Utah governor in 2024
 

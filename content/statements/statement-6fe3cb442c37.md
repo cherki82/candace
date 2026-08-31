@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:21:56](/episodes/ep-ZAsV0fHGBiM.md#t-00-21-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1316);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1316s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Frantzve (Erika Kirk), we are told, ... was born on November 20th, 1988 in Cincinnati, ... Ohio. ... There's a newspaper relic announcing her birth two weeks later on December 6th that tells us that she was born at Good Samaritan Hospital.
 

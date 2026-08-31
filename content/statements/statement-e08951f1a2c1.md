@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:04:23](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(263);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=263s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > morally blackmailing Charlie Kirk, stressing out Charlie Kirk, pulling money away from Charlie Kirk and the organization. Charlie (Charlie Kirk) himself said that he was done with the pro-Israel cause, but then he was murdered.
 

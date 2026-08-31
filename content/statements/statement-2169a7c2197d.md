@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:40:16](/episodes/ep-2tFYJf1klgY.md#t-00-40-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2416);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=2416s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ultimately, Rick (Richard William Erpenbeck) was found guilty. That's why he had his license suspended, but only within the state of Kentucky in August of 2009. ... But, and here is the kicker, they found that his actions did not rise to the level of criminality, just professional negligence.
 

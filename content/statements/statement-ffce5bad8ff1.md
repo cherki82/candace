@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:04:24](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(264);return false;">Play</a>
+**Timestamp:** [00:04:24](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-57) 
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They still found Leo Frank guilty, and so much has been written to try to obscure this still
 

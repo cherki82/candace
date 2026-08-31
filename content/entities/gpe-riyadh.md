@@ -3,9 +3,17 @@ title: "Riyadh"
 description: "Riyadh (Places) - 1 mention"
 id: "gpe-riyadh"
 type: "GPE"
+categories:
+  - "Saudi Arabian city"
 ---
 
 _Type: Places_
+
+**Categories:** Saudi Arabian city
+
+**Entity verification:** verified
+> The official City of Riyadh government portal confirms Riyadh as the canonical city identity.
+Source: [Official Website of the City of Riyadh](https://riyadh.sa/en/city)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-riyadh-t-00-17-12">2025-12-05 · 00:17:13</a></strong></div>

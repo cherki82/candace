@@ -20,13 +20,18 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Rush Limbaugh](/entities/person-rush-limbaugh.md) (person)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:03:05](/episodes/ep-_dRaEO47-co.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(185);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> take over the RNC. The person that he adored the most—like, really, never in a million years did he think that he was going to meet him, and of course he did—was Rush Limbaugh (Rush Limbaugh). He was really raised on Rush Limbaugh (Rush Limbaugh), listening to Rush Limbaugh (Rush Limbaugh) day in and day out, and he told me through many conversations that if he could have a show like Rush Limbaugh (Rush Limbaugh) one day, he would be very happy. That was, I think, his ultimate goal, and it happened.
+> The person that he adored the most—like, really, never in a million years did he think that he was going to meet him, and of course he did—was Rush Limbaugh. ... He was really raised on Rush Limbaugh, listening to Rush Limbaugh day in and day out, and he told me through many conversations that if he could have a show like Rush Limbaugh one day, he would be very happy. ... That was, I think, his ultimate goal, and it happened.
 
 ## Verification
 

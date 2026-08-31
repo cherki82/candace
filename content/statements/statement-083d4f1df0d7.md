@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:37:08](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2228);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If anything happens to our Carlson or me,
 

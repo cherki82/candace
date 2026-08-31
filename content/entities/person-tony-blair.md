@@ -1,0 +1,65 @@
+---
+title: "Tony Blair"
+description: "Tony Blair (People) - 1 mention"
+id: "person-tony-blair"
+type: "PERSON"
+categories:
+  - "United Kingdom politics"
+  - "former prime minister"
+---
+
+_Type: People_
+
+**Categories:** United Kingdom politics, former prime minister
+
+**Entity verification:** verified
+> Official UK government biography confirms the canonical name and identity.
+Source: [History of The Rt Hon Sir Tony Blair KG | GOV.UK](https://www.gov.uk/government/history/past-prime-ministers/tony-blair)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-tony-blair-t-00-15-24">2025-11-15 · 00:15:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-tony-blair-t-00-15-24">2025-11-15 · 00:15:48</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-tony-blair-t-00-15-24">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-tony-blair-t-00-15-24" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-tony-blair-t-00-15-24) | 1 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:15:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-tony-blair-t-00-15-24)**
+> "I cannot—I have not confirmed any of that. The reporters trying to connect some of the dots—and they told me at the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>

@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [01:00:31](/episodes/ep-SubDoZWHARo.md#t-01-00-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3631);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=3631s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the people who were fired told me who was behind this PR push Erika (Erika Kirk) was behind this stuff the entire time
 

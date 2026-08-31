@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:08:50](/episodes/ep-y8lak3CRwDw.md#t-00-08-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(530);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So essentially what happens next is the EU Commission gets involved and the EU Commission says, oh, actually it doesn't work for us. This is in 2009. ... And we want to edit this and allow online gambling. We still want online gambling to happen. I want you to keep in mind in 2009. ... actually set up a base. So now we are in 2010 and the EU forces that online gambling restrictions are removed as well.
 

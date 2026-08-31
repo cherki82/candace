@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:27:30](/episodes/ep-zSKrxIUMNqw.md#t-00-27-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1650);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1650s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what really happened was that Ben (Ben Shapiro) had been not happy with the fact that they were not making him the king of Breitbart, had begun quietly building Daily Wire at the end of 2015. Like didn't have enough gumption behind it. People were not getting behind the daily wire in the way that they anticipated they needed a scandal.
 

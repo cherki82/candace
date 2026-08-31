@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:40:17](/episodes/ep-AH1KVKkweUE.md#t-00-39-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2417);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2417s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pathologically insane to think that Turning Point USA is acting in good faith. Pathologically insane to believe a single word. ... That comes out of Erika Kirk's mouth. She's not fought at all for her husband, my Charlie (Charlie Kirk), my Charlie (Charlie Kirk), except when it comes providing basic details that she would have access to.
 

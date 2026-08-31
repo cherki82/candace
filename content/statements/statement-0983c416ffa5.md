@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:30:52](/episodes/ep-a2bZf4fic10.md#t-00-30-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1852);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=1852s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > one of the things I was told about Mikey (Michael McCoy) in the hospital was that they were lying. ... That was patently untrue. Mikey (Michael McCoy) was the most emotionally impacted. ... Mikey (Michael McCoy), who was in the background, who was physically sick, is what I was told from the very beginning. ... Mikey (Michael McCoy) had raw emotion at the hospital. Of all of them, Mikey (Michael McCoy) was the most upset
 

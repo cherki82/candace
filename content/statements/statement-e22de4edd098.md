@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:00:08](/episodes/ep-K5GjF53bfN4.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=8s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, he wanted to put together an entire department, a little mini-department, to address those concerns.
 

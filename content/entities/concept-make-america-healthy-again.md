@@ -1,6 +1,6 @@
 ---
 title: "Make America Healthy Again"
-description: "Make America Healthy Again (Concepts) - 4 mentions"
+description: "Make America Healthy Again (Concepts) - 5 mentions"
 id: "concept-make-america-healthy-again"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [Make America Healthy Again | The White House](https://www.whitehouse.gov/priorities/maha/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-make-america-healthy-again-t-00-39-11">2026-03-09 · 00:39:32</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-make-america-healthy-again-t-00-39-47">2025-09-17 · 00:40:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-make-america-healthy-again-t-00-59-43">2026-04-13 · 00:59:47</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Make America Healthy Again | The White House](https://www.whitehouse.go
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-make-america-healthy-again-t-00-39-11">Donald Trump Has Betrayed America. | Candace Ep 308</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-make-america-healthy-again-t-00-39-47" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-make-america-healthy-again-t-00-39-11" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-make-america-healthy-again-t-00-35-54" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-make-america-healthy-again-t-00-59-43" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
@@ -44,6 +45,7 @@ Source: [Make America Healthy Again | The White House](https://www.whitehouse.go
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-make-america-healthy-again-t-00-39-47) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-make-america-healthy-again-t-00-39-11) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-make-america-healthy-again-t-00-35-54) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-make-america-healthy-again-t-00-59-43) | 1 |
@@ -54,7 +56,7 @@ Source: [Make America Healthy Again | The White House](https://www.whitehouse.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -80,6 +82,14 @@ Source: [Make America Healthy Again | The White House](https://www.whitehouse.go
 
 **[00:39:51](/episodes/ep-i8m_6D4QGmk.md#ent-concept-make-america-healthy-again-t-00-39-51)**
 > "...er. We know it causes cancer. MAHA mom spot."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
+
+**[00:40:11](/episodes/ep-2WEHTk0Xewg.md#ent-concept-make-america-healthy-again-t-00-39-47)**
+> "...t Thrive has been fighting to make America healthy again with science-backed solutions that you can trust."
 
 </details>
 

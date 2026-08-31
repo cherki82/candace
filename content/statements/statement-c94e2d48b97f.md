@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:29:06](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1746);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1746s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, it is worth noting, by the way, that Joe Kent was one of the people who bumped heads with Kash Patel during the investigation into who killed Charlie Kirk, right? ... Kash Patel blocked any investigation into whether or not foreign actors could have been involved, said, oh, there's no evidence for that, because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.
 

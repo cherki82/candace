@@ -103,7 +103,7 @@ Source: [Joint Terrorism Task Forces — FBI](https://www.fbi.gov/investigate/te
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
-  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

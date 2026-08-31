@@ -1,16 +1,16 @@
 ---
-title: "A life insurance policy was taken out on Charlie Kirk"
-description: "\"A life insurance policy was taken out on Charlie Kirk\" — Candace Owens"
+title: "Owens said the Daily Mail reported that a life insurance pol..."
+description: "\"Owens said the Daily Mail reported that a life insurance policy had been taken out on Charlie Kirk.\" — Candace Owens"
 statement_id: "statement-8f9f7ee2947f"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "citation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> A life insurance policy was taken out on Charlie Kirk
+> Owens said the Daily Mail reported that a life insurance policy had been taken out on Charlie Kirk.
 
 ## Attribution
 
@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:41:40](/episodes/ep-Kmt6HgRjckU.md#t-00-41-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2500);return false;">Play</a>
+**Timestamp:** [00:41:32](/episodes/ep-Kmt6HgRjckU.md#t-00-41-32) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=2492s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did see that the Daily Mail broke the story about the life insurance policy that was taken out.
 
@@ -37,4 +37,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Citation | **Verifiable:** Yes

@@ -1,16 +1,17 @@
 ---
-title: "Epstein with his little friend Ghislaine, and Ghislaine's fa..."
-description: "\"Epstein with his little friend Ghislaine, and Ghislaine's father Robert Maxwell who was a spy of the Israeli intelligence agencies; Epstein was a crea...\" — Charlie Kirk"
+title: "Charlie Kirk said the evidence showed Jeffrey Epstein was cr..."
+description: "\"Charlie Kirk said the evidence showed Jeffrey Epstein was created by Mossad, Israeli, American, or Saudi intelligence, or perhaps was a hired intermed...\" — Charlie Kirk"
 statement_id: "statement-0780da1b8312"
 speaker: "Charlie Kirk"
-type: "opinion"
+type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Epstein with his little friend Ghislaine, and Ghislaine's father Robert Maxwell who was a spy of the Israeli intelligence agencies; Epstein was a creation of Mossad or other intelligence for blackmail operations; Jeffrey Epstein was not a financier, he was a key player in a multi-decade blackmail operation
+> Charlie Kirk said the evidence showed Jeffrey Epstein was created by Mossad, Israeli, American, or Saudi intelligence, or perhaps was a hired intermediary, and described him as a key player in a multidecade blackmail operation
 
 ## Attribution
 
@@ -20,18 +21,37 @@ type: "opinion"
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (person)
+- [Mossad](/entities/org-mossad.md) (org)
+
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1750);return false;">Play</a>
+**Timestamp:** [00:30:10](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1810s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Epstein with his little friend Ghislaine, and Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intelligence agencies, but there was something else going on here
+> And this is no longer just speculation. First of all, the evidence that shows that Epstein was a creation of either Mossad, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun. ... Jeffrey Epstein was a key player in a multi-decade blackmail operation against the most powerful people on the planet.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+A contemporaneous report and embedded program excerpt reproduce Kirk saying that the evidence showed Epstein was created by Mossad, Israeli, American, or Saudi intelligence, or was a hired intermediary, and describing a multidecade blackmail operation. This verifies that Kirk made the attributed accusation. It does not verify the underlying intelligence-service allegation, which the cited report labels as Kirk's claim and which the 2025 DOJ/FBI review did not substantiate.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Charlie Kirk: 'The Epstein playbook is being used on a daily basis'](https://humanevents.com/2024/01/05/charlie-kirk-the-epstein-playbook-is-being-used-on-a-daily-basis)
+- [DOJ/FBI Memorandum on Review of Jeffrey Epstein Investigative Holdings](https://www.justice.gov/opa/media/1407001/dl)
+
+*Verified: 2026-08-30T16:18:00.911140*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** Yes

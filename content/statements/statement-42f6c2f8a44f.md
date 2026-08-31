@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:48:03](/episodes/ep-YeEtS7nix3o.md#t-00-47-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2883);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=2883s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, she was upset that I accurately reported that Turning Point had issues attracting young women to this particular summit this year. ... There were a lot of older women who attended. Many of their own chapter leaders declined to make the trip, female chapter leaders, because they don't. ... don't like Erika and they don't like the direction that the organization is taking
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2748);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2748s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nothing compares remotely to the fact that Candace Owens has spent a sustained 10 months making effectively every episode of her show about finding some new way to target Erika (Erika Kirk), target Turning Point, target other people who are in the Turning Point universe ... in pursuit of a conspiracy theory that has literally never had anything to back it up. ... even the stuff with the Sandy Hook parents—that was stuff a few people ran with ... I don't think Alex Jones made that the only subject of the show for a 10-month period, and that's what's happened here.
 

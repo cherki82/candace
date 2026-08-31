@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:39:24](/episodes/ep-c5BcKF91iec.md#t-00-38-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2364);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2364s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said, "If I tell you the true prophecy that I know in my gut, it's really sad, but I hope it's wrong."
 

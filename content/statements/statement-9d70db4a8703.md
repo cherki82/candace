@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2797);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2797s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, I am telling you, we are watching Kash's revenge. He's angry. It's so obvious that he's angry.
 

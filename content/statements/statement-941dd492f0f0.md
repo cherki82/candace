@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:19:55](/episodes/ep-_cNtgris8Ik.md#t-00-19-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1195);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1195s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the question is, who did it and why did they do it? And the only answer I can come up with is because they wanted people to believe that the person that was walking was skinnier than they were. ... And the only thing I can come up with as to why they would want that to be the case is because they are hell-bent on presenting an argument that makes people think that Tyler Robinson acted alone and murdered Charlie Kirk on the rooftop.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:29:03](/episodes/ep-Pb7UlpRdW6U.md#t-00-28-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1743);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1743s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just want to add here, call it a hunch, but I believe that the military is controlling X, like we've been speaking about these artificial trends that appear and disappear and they don't want people to be discussing something.
 

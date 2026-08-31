@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk appeared at Build Up Korea on September 5-6, 20..."
-description: "\"Charlie Kirk appeared at Build Up Korea on September 5-6, 2025, then spoke at a Tokyo event and gave CNN an interview on September 7\" — Candace Owens"
+title: "Owens said Charlie Kirk attended an event in Korea on Septem..."
+description: "\"Owens said Charlie Kirk attended an event in Korea on September 5 and 6, 2025, then went to Japan and appeared on CNN News Japan on September 7.\" — Candace Owens"
 statement_id: "statement-63c30899ddce"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Charlie Kirk appeared at Build Up Korea on September 5-6, 2025, then spoke at a Tokyo event and gave CNN an interview on September 7
+> Owens said Charlie Kirk attended an event in Korea on September 5 and 6, 2025, then went to Japan and appeared on CNN News Japan on September 7.
 
 ## Attribution
 
@@ -23,14 +23,17 @@ veracity: "true"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [South Korea](/entities/gpe-south-korea.md) (gpe)
+- [Japan](/entities/gpe-japan.md) (gpe)
+- [CNN](/entities/org-cnn.md) (org)
 
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:29:19](/episodes/ep-t4U7NjnUEgc.md#t-00-28-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1759);return false;">Play</a>
+**Timestamp:** [00:29:14](/episodes/ep-t4U7NjnUEgc.md#t-00-29-04) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=1754s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> You have Charlie on the 5th and on the 6th of September. He is in Korea doing an event. And then on the 7th, he's in Japan, and he is on CNN News Japan speaking
+> You have Charlie on the 5th and on the 6th of September. He is in Korea doing an event. ... And then on the 7th, he's in Japan, and he is on CNN News Japan speaking.
 
 ## Verification
 

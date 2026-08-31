@@ -24,11 +24,11 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39">2025-11-21 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52">2026-08-14 · 02:36:52</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,9 +40,10 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-00-57" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 18 mentions" title="2025-12-01 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-french-foreign-legion-t-00-40-39" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52" style="--pulse-height:11%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-57-05" style="--pulse-height:11%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-french-foreign-legion-t-00-26-37" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-16" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-22" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-00-54" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-french-foreign-legion-t-00-07-30" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
@@ -58,9 +59,10 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-00-57) | 18 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-french-foreign-legion-t-00-40-39) | 3 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52) | 2 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24) | 2 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-57-05) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-french-foreign-legion-t-00-26-37) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-16) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-22) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-00-54) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-french-foreign-legion-t-00-07-30) | 2 |
@@ -155,12 +157,9 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[01:04:22](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24)**
-> "when he interviewed the French foreign Legion"
-
-**[01:04:24](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24)**
+**[01:04:22](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-22)**
 > "..., uh, when he interviewed the French foreign Legion, he, and he got to learn a little bit about somet..."
 
 </details>
@@ -168,21 +167,29 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:58:20](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24)**
+**[00:58:20](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-16)**
 > "I have evidence the French Legion was on the ground that day"
 
-**[00:58:31](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24)**
+**[00:58:29](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-16)**
 > "I have evidence the French Legion was on the ground that day."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:27:10](/episodes/ep-6J6lRZPQ4jk.md#ent-org-french-foreign-legion-t-00-26-37)**
+> "...ce is crazy, but she says the French foreign Legion was there."
 
 </details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:57:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52)**
+**[00:57:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-57-05)**
 > "...had the information about the French Foreign Legion being on the ground the day that Charlie was assa..."
 
-**[00:59:48](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52)**
+**[00:59:46](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-57-05)**
 > "I had the information about the French Foreign Legion being on the ground"
 
 </details>
@@ -342,12 +349,31 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Paul Haller](/entities/person-paul-haller.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:04:22](/episodes/ep-ewBzjVe3LNQ.md#t-01-04-22): “Um, fellow brother there from first group. Um, no, he, he had, uh, when he interviewed the French foreign Legion, he, and he got to learn a little bit about sometimes how in the intelligence world, how things cross over and other countries are a little bit dirtier and they borrow resources from us.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (7)</summary>
 
 - **[Romania](/entities/gpe-romania.md)** former base of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:47:31](/episodes/ep-IqHsl7d2dos.md#t-00-47-31): “who you guys will be shocked to know, has been at various times based in Romania on that very base.”
+
+</details>
+
+- **[Paul Haller](/entities/person-paul-haller.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:04:22](/episodes/ep-ewBzjVe3LNQ.md#t-01-04-22): “Um, fellow brother there from first group. Um, no, he, he had, uh, when he interviewed the French foreign Legion, he, and he got to learn a little bit about sometimes how in the intelligence world, how things cross over and other countries are a little bit dirtier and they borrow resources from us.”
 
 </details>
 

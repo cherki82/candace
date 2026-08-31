@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:18:56](/episodes/ep-Vu6Y24pqhZs.md#t-00-18-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1136);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > were actually looking for explosives they are the ones that went near the field where the gun was actually found and came up empty and till until these rookie officers the feds get there and they tell the rookie officers to have another search and lo and behold the rookie officers find the gun
 

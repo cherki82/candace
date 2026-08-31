@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:09:32](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4172);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=4172s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What happened? And my friends who lived there said two things, Victor (Victor Marx). One, we were unprepared and we underestimated our enemy. ... I said, how long did it take for the government to send reinforcements? It was six hours, six hours.
 

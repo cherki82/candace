@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [01:03:36](/episodes/ep-2T39-oADLj0.md#t-01-03-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3816);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3816s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > uh to the side of the audience I think that's more that's the more likely story because he wasn't shot with 30 out of six six ... six first and foremost and the bullets did not destroy his neck i know that for a fact
 
@@ -37,7 +37,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:39:52](/episodes/ep-nPhCKwJ6ye8.md#t-00-39-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2392);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2392s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was definitely hit with a projectile of some description. If we're talking about was he shot from a gun, a 30-odd-6, I would say definitively no.
 
@@ -45,7 +45,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:37:25](/episodes/ep-5-HUyv9LyMg.md#t-00-37-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2245);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=2245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've never bought the narrative that a .30-06 is what killed Charlie Kirk. I'm just not accepting that narrative whatsoever.
 
@@ -53,7 +53,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:15:14](/episodes/ep-aPOyk1i2LOc.md#t-00-15-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(914);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=914s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was definitely hit with a projectile of some description. If we're talking about was he shot from a gun, a 30-06, I would say definitively no.
 

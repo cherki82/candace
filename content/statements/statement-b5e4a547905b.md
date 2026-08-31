@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8729);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=8729s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Joe Kent, who I think would have the right to assert it, noted that there were 12 Israeli cell phones on the ground that day.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:44:27](/episodes/ep-aPOyk1i2LOc.md#t-01-44-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6267);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Joe Kent, who I think would have the right to assert it, noted that there were 12 Israeli cell phones on the ground that day.
 

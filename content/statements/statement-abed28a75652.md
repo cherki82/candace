@@ -1,8 +1,8 @@
 ---
 title: "Jesse reported that the .30-06 round penetrated the water ju..."
-description: "\"Jesse reported that the .30-06 round penetrated the water jugs in his ballistic test\" — Jesse Keg"
+description: "\"Jesse reported that the .30-06 round penetrated the water jugs in his ballistic test\" — Jesse Kaag"
 statement_id: "statement-abed28a75652"
-speaker: "Jesse Keg"
+speaker: "Jesse Kaag"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Jesse Keg](/entities/person-jesse-keg.md) (Quoted)
+**Speaker:** [Jesse Kaag](/entities/person-jesse-kaag.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -23,14 +23,14 @@ veracity: "true"
 
 ## About
 
-- [One Shot TV](/entities/org-one-shot-tv.md) (org)
-- [Jesse Keg](/entities/person-jesse-keg.md) (person)
+- [1ShotTV](/entities/org-1shottv.md) (org)
+- [Jesse Kaag](/entities/person-jesse-kaag.md) (person)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:33:10](/episodes/ep-Kmt6HgRjckU.md#t-00-32-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1990);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1990s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, we definitely penetrated our water jugs and I don't think this is gonna help to stop the conspiracy theories
 

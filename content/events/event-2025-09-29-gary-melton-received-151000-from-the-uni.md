@@ -6,6 +6,11 @@ date: "2025-09-29"
 ---
 
 **Date:** 2025-09-29
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 29th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-29"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:39:05](/episodes/ep-1QZ4X6q1DPg.md#event-event-2025-09-29-gary-melton-received-151000-from-the-uni-t-00-39-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2345);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=2345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then on September 29th, five days later, he received $151,000 for night vision equipment.

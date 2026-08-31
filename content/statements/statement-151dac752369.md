@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:22:16](/episodes/ep-iHav0PPzUz8.md#t-00-21-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1336);return false;">Play</a>
+**Timestamp:** [00:22:16](/episodes/ep-iHav0PPzUz8.md#t-00-21-55) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1336s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But instead, Kash Patel is saying, don't ask questions. Everything that you're hearing is a conspiracy. Homie has really turned into Dr. Fauci.
 

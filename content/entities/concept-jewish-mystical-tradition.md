@@ -3,15 +3,19 @@ title: "Jewish mystical tradition"
 description: "Jewish mystical tradition (Concepts) - 7 mentions"
 id: "concept-jewish-mystical-tradition"
 type: "CONCEPT"
+categories:
+  - "religion and mysticism"
 ---
 
 _Type: Concepts_
+
+**Categories:** religion and mysticism
 
 > **Possibly overlapping entity records:** [Sigmund Freud and the Jewish Mystical Tradition](/entities/work-sigmund-freud-and-the-jewish-mystical-tradition). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-jewish-mystical-tradition-t-01-02-10">2025-09-15 · 01:02:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-jewish-mystical-tradition-t-00-54-16">2025-12-02 · 00:54:38</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#t-00-54-16">2025-12-02 · 00:54:38</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -27,10 +31,10 @@ _Type: Concepts_
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-jewish-mystical-tradition-t-01-02-10" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-jewish-mystical-tradition-t-00-58-47" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-concept-jewish-mystical-tradition-t-01-04-43" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-concept-jewish-mystical-tradition-t-00-55-58" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-concept-jewish-mystical-tradition-t-00-47-10" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-jewish-mystical-tradition-t-00-55-44" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-concept-jewish-mystical-tradition-t-00-47-02" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-concept-jewish-mystical-tradition-t-00-37-26" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-jewish-mystical-tradition-t-00-54-16" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-54-16" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,10 +43,10 @@ _Type: Concepts_
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-concept-jewish-mystical-tradition-t-01-02-10) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-jewish-mystical-tradition-t-00-58-47) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-jewish-mystical-tradition-t-01-04-43) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-jewish-mystical-tradition-t-00-55-58) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-concept-jewish-mystical-tradition-t-00-47-10) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-jewish-mystical-tradition-t-00-55-44) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-concept-jewish-mystical-tradition-t-00-47-02) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-concept-jewish-mystical-tradition-t-00-37-26) | 1 |
-| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-jewish-mystical-tradition-t-00-54-16) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-54-16) | 1 |
 
 </details>
 </section>
@@ -55,7 +59,7 @@ _Type: Concepts_
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
-**[00:54:38](/episodes/ep-a-e7HC6SeK8.md#ent-concept-jewish-mystical-tradition-t-00-54-16)**
+**[00:54:38](/episodes/ep-a-e7HC6SeK8.md#t-00-54-16)**
 > "...—when we get off—head to the book club as we continue this conversation about Sigmund Freud and the Jewish mystical tradition—and which correlates directly with what's going on today: kind of a war that happened and nobody re..."
 
 </details>
@@ -71,7 +75,7 @@ _Type: Concepts_
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:47:18](/episodes/ep-sImMM04XdWY.md#ent-concept-jewish-mystical-tradition-t-00-47-10)**
+**[00:47:18](/episodes/ep-sImMM04XdWY.md#ent-concept-jewish-mystical-tradition-t-00-47-02)**
 > "...to bump it to Thursday. So it will be tomorrow, and we will continue reading "Sigmund Freud and the Jewish Mystical Tradition." Okay, top comment from yesterday. Angela wrote: "To all those working in government that still ha..."
 
 </details>
@@ -79,7 +83,7 @@ _Type: Concepts_
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:56:18](/episodes/ep-LATnak75Si0.md#ent-concept-jewish-mystical-tradition-t-00-55-58)**
+**[00:56:15](/episodes/ep-LATnak75Si0.md#ent-concept-jewish-mystical-tradition-t-00-55-44)**
 > "..." by Jeffrey Masson, and then move on to this most critical book, which is "Sigmund Freud's and the Jewish Mystical Tradition." I think the combination of those two books are absolutely potent to the Zionist narrative. I trul..."
 
 </details>
@@ -123,7 +127,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:56:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) (Accusation) **Candace Owens**: ["Kabbalah is the reason for the cultural push for transgenderism"](/statements/statement-ec798c5bd223.md)
+- [00:56:13](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) (Accusation) **Candace Owens**: ["Kabbalah is the reason for the cultural push for transgenderism"](/statements/statement-ec798c5bd223.md)
   - Also about: [transgenderism](/entities/concept-transgenderism.md)
 
 </details>

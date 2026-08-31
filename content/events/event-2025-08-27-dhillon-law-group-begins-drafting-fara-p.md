@@ -6,6 +6,11 @@ date: "2025-08-27"
 ---
 
 **Date:** 2025-08-27
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “August 27th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-08-27"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:37:36](/episodes/ep-eMtjzXkQrsU.md#event-event-2025-08-27-dhillon-law-group-begins-drafting-fara-p-t-00-37-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2256);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2256s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > August 27th, Dhillon Law Group begins drafting paperwork for Havas Media
 
@@ -25,6 +30,6 @@ date: "2025-08-27"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:35:16](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-08-27-dhillon-law-group-begins-drafting-fara-p-t-00-35-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2116);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2116s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > August 27th, we told you about Dillon Law Group drafting paperwork for Havas Media

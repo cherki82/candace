@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:10:39](/episodes/ep-k1b1NDCrNFs.md#t-00-10-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(639);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=639s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So you have to imagine my surprise. When I got contacted by Douglas Blake Bednarz himself, the man right there, and I learned that Douglas Blake Bednarz had been served by Dylan Law Group, but not with a lawsuit, with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.
 

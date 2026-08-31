@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:03:15](/episodes/ep-nPhCKwJ6ye8.md#t-03-03-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(10995);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=10995s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i think i think that that is a possibility yes and it should be explored he's done a lot of work on it john bray has done good work and i And I think that that's why that theory is now starting to gain steam since we released the second set of the photos of what was in the car.
 
@@ -37,7 +37,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [02:22:13](/episodes/ep-aPOyk1i2LOc.md#t-02-22-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8533);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=8533s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i think i think that that is a possibility yes and it should be explored he's done a lot of work on it john bray has done good work and i And I think that that's why that theory is now starting to gain steam since we released the second set of the photos of what was in the car.
 

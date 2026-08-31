@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:36:43](/episodes/ep-19vHhjF7-NA.md#t-00-36-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2203);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Doreena writes, Albanian here. Thank you, Candace, for taking the time to speak up for the Albanian people. I live in America and I love both countries. The Albanian government is very corrupt, which is why so many Albanians have fled the country and settled all over the world.
 

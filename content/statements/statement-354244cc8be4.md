@@ -1,16 +1,17 @@
 ---
-title: "She hasn't been at Turning Point events in many years"
-description: "\"She hasn't been at Turning Point events in many years\" — Andrew Kolvet"
+title: "Candace Owens had not been at a Turning Point event in many ..."
+description: "\"Candace Owens had not been at a Turning Point event in many years\" — Andrew Kolvet"
 statement_id: "statement-354244cc8be4"
 speaker: "Andrew Kolvet"
 type: "factual_claim"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
-> She hasn't been at Turning Point events in many years
+> Candace Owens had not been at a Turning Point event in many years
 
 ## Attribution
 
@@ -28,14 +29,27 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:26:40](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1600);return false;">Play</a>
+**Timestamp:** [00:26:40](/episodes/ep-aDlhjfW6hz8.md#t-00-26-40) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1600s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Yeah. When's the last time she was at a Turning Point event?
+> Not in many years.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Directly contradicted by Turning Point USA's own February 8, 2024 announcement for its Spring 2024 Live Free Tour, which named Candace Owens alongside Charlie Kirk and directed readers to tour legs featuring either Kirk or Owens. The episode aired in September 2025, so an official TPUSA event record from the prior year rules out 'not in many years.' This finding addresses event participation, not the state of Owens's private relationship with Kirk or TPUSA.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Turning Point USA Announces 'Live Free Tour' Dates](https://tpusa.com/live/turning-point-usa-announces-live-free-tour-dates/)
+
+*Verified: 2026-08-30T15:30:51.464663*
 
 ---
 

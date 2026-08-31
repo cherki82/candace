@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:39:42](/episodes/ep-SgVcnx4Oh30.md#t-00-39-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2382);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2382s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on this plane is that it's owned by a person named Jason Nup, and it appears that that is the chief commander of the Naval Surface Force Atlantic.
 

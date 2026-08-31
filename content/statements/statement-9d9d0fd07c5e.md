@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:32:30](/episodes/ep-SKGUzGHymcI.md#t-00-32-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1950);return false;">Play</a>
+**Timestamp:** [00:32:30](/episodes/ep-SKGUzGHymcI.md#t-00-32-18) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1950s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So Brian (Brian Harpole) lied.
 

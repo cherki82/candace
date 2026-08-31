@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:35:07](/episodes/ep-mFuno0TuuQQ.md#t-00-34-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2107);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=2107s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > those employees that were fired not even given an excuse, ... are now starting a GoFundMe because they didn't get anything. ... They didn't get a bonus, ... they got nothing, and they have put this up on GoFundMe, ... the purge. ... fallout fund i believe this is supporting eight employees
 

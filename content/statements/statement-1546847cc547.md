@@ -1,6 +1,6 @@
 ---
-title: "Tiffany Barker is part of a political family high up in the ..."
-description: "\"Tiffany Barker is part of a political family high up in the LDS church; her sister ran as lieutenant governor alongside Phil Lyman\" — Candace Owens"
+title: "Owens said internet sleuths had apparently determined that T..."
+description: "\"Owens said internet sleuths had apparently determined that Tiffany Barker was connected to a politically prominent regional family that was high up in...\" — Candace Owens"
 statement_id: "statement-1546847cc547"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,22 +10,26 @@ type: "factual_claim"
 
 ## Statement
 
-> Tiffany Barker is part of a political family high up in the LDS church; her sister ran as lieutenant governor alongside Phil Lyman
+> Owens said internet sleuths had apparently determined that Tiffany Barker was connected to a politically prominent regional family that was high up in the LDS Church
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md) (person)
+- [LDS church](/entities/org-lds-church.md) (org)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:05:54](/episodes/ep-UBkFkg4UNY8.md#t-00-05-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(354);return false;">Play</a>
+**Timestamp:** [00:05:59](/episodes/ep-UBkFkg4UNY8.md#t-00-05-54) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=359s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Tiffany Barker is a part of a very political family, a very connected family in the region.
+> The internet sleuths just were on it. ... Apparently there's a whole Reddit feed, and they were able to determine that not only is she connected to a big political family that is high up in the LDS church
 
 ## Verification
 

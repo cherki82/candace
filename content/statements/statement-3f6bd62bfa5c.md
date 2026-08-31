@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:16:42](/episodes/ep-5NQyGuRYbU8.md#t-00-16-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1002);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1002s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Everything is controlled by us behind the scene. In their experience, everything is normal. Everything was 100% kosher, including businessmen, marketing, engineers, showroom, everything.
 

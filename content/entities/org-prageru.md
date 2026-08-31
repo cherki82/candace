@@ -1,22 +1,22 @@
 ---
 title: "PragerU"
-description: "PragerU (Organizations) - 40 mentions"
+description: "PragerU (Organizations) - 42 mentions"
 id: "org-prageru"
 type: "ORG"
 aliases:
   - "Prager University"
+  - "PragerU"
 categories:
   - "media nonprofit"
   - "educational media"
+  - "digital media nonprofit"
 ---
 
 _Type: Organizations_
 
-**Also known as:** Prager University
+**Also known as:** Prager University, PragerU
 
-**Categories:** media nonprofit, educational media
-
-> **Possibly overlapping entity records:** [Prager University](/entities/org-prager-university). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** media nonprofit, educational media, digital media nonprofit
 
 **Entity verification:** verified
 > Official organization site confirms canonical identity.
@@ -25,50 +25,54 @@ Source: [About PragerU](https://www.prageru.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02">2025-09-25 · 00:08:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-prageru-t-00-11-12">2026-07-23 · 00:11:32</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02" style="--pulse-height:50%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-prageru-t-00-31-25" style="--pulse-height:17%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-prageru-t-00-59-37" style="--pulse-height:17%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-13-27" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-34-22" style="--pulse-height:67%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-prageru-t-00-00-01" style="--pulse-height:17%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-prageru-t-00-00-43" style="--pulse-height:17%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-prageru-t-00-47-39" style="--pulse-height:17%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-prageru-t-00-16-42" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-prageru-t-00-28-57" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-00-29-29" style="--pulse-height:83%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-prageru-t-01-06-58" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-prageru-t-00-54-53" style="--pulse-height:17%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-prageru-t-00-45-55" style="--pulse-height:17%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-12-39" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-org-prageru-t-00-11-12" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02" style="--pulse-height:60%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-prageru-t-00-06-12" style="--pulse-height:20%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-prageru-t-00-31-16" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-prageru-t-00-59-37" style="--pulse-height:20%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-13-26" style="--pulse-height:40%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-34-09" style="--pulse-height:80%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-prageru-t-00-00-01" style="--pulse-height:20%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-prageru-t-00-00-43" style="--pulse-height:20%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-prageru-t-00-47-39" style="--pulse-height:20%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-prageru-t-00-32-06" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-prageru-t-00-16-42" style="--pulse-height:60%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-prageru-t-00-28-57" style="--pulse-height:60%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-00-29-29" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-prageru-t-01-06-58" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-prageru-t-00-54-53" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-prageru-t-00-45-55" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-12-39" style="--pulse-height:40%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05" style="--pulse-height:40%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-prageru-t-00-11-12" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02) | 3 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-prageru-t-00-31-25) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58) | 6 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-prageru-t-00-06-12) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-prageru-t-00-31-16) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58) | 5 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-prageru-t-00-59-37) | 1 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-13-27) | 2 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-34-22) | 4 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-13-26) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-34-09) | 4 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-prageru-t-00-00-01) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-prageru-t-00-00-43) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-prageru-t-00-47-39) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-prageru-t-00-32-06) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-prageru-t-00-16-42) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-prageru-t-00-28-57) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-00-29-29) | 5 |
@@ -85,7 +89,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -190,6 +194,14 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 <details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:32:12](/episodes/ep-es7PWdFGoFI.md#ent-org-prageru-t-00-32-06)**
+> "...s. Too many are being paid by Prager University, which is upsetting to me because I know Marissa ..."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-org-prageru-t-00-47-39)**
@@ -216,16 +228,16 @@ Source: [About PragerU](https://www.prageru.com/about)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
 
-**[00:34:36](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-34-22)**
+**[00:34:30](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-34-09)**
 > "...st gonna say on the side here is too many people that are involved in this Utah story I met through PragerU. Like, Jack Hibbs was somebody that Marissa flagged for me that she wanted me to have on my show. L..."
 
-**[00:40:43](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-40-43)**
+**[00:40:41](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-40-41)**
 > "...laim. There's literally no evidence of that. Other than people saying she works for Marissa Strait, PragerU—who, you know, she's formerly of the IDF Intelligence Unit. I worked for PragerU. I'm not a Mossad ..."
 
-**[00:40:51](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-40-43)**
+**[00:40:51](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-40-41)**
 > "...or Marissa Strait, PragerU—who, you know, she's formerly of the IDF Intelligence Unit. I worked for PragerU. I'm not a Mossad honeypot person, so that's not evidence. But there is evidence that she comes fro..."
 
-**[00:42:04](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-41-28)**
+**[00:42:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-prageru-t-00-42-02)**
 > "...t off of it. Just get off of it. It is optional. You are not required to be on X to make videos for PragerU. You are not required to be on X to sing the national anthem for Turning Point USA. Get off of the ..."
 
 </details>
@@ -233,10 +245,10 @@ Source: [About PragerU](https://www.prageru.com/about)
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[00:13:54](/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-13-27)**
+**[00:13:54](/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-13-26)**
 > "...ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well. So that's an interesting web that's being woven before our ..."
 
-**[00:14:10](/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-14-10)**
+**[00:14:05](/episodes/ep-Qfwr08Ebczo.md#ent-org-prageru-t-00-14-05)**
 > "...PragerU as well. So that's an interesting web that's being woven before our eyes, right? You've got PragerU, and now you've got this church, and they are a part of what is described online as a cult. It's li..."
 
 </details>
@@ -250,10 +262,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (6 mentions)</summary>
-
-**[00:20:23](/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58)**
-> "PragerU offered me a job in early 2019"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
 
 **[00:20:31](/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-19-58)**
 > "...mazing thing happened that despite this, that the hand that came out to me and offered me a job was PragerU. PragerU offered me a job. This is early 2019. And it was like, "Hey, we know that you don't believ..."
@@ -265,18 +274,26 @@ Source: [About PragerU](https://www.prageru.com/about)
 > "...at the same time. We kept doing the campuses and the campus tours, but I was officially working for PragerU. And one of the first things that happened— almost the way it feels to me was like, "We can save yo..."
 
 **[00:22:00](/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-21-23)**
-> "...emporarily. Throughout that time frame thereafter, I'm doing my show. I think my first episode with PragerU was in March. Charlie still climbing. Turning Point USA, as you know, became a behemoth. I remember..."
+> "I think my first episode with PragerU was in March. Charlie (Charlie Kirk) still climbing. Turning Point USA, as you know, became a behemoth."
 
 **[00:25:18](/episodes/ep-Cq7nj9rxPdo.md#ent-org-prageru-t-00-25-05)**
-> "...that's correct. That's correct information. And what happened in my life after that was I went from PragerU, and you got a pastor—you know—from the military. Two pastors from the military there. I'm telling ..."
+> "And what happened in my life after that was I went from PragerU, and you got a pastor—you know—from the military. Two pastors from the military there."
 
 </details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:31:25](/episodes/ep-adJ4LNGp84I.md#ent-org-prageru-t-00-31-25)**
+**[00:31:25](/episodes/ep-adJ4LNGp84I.md#ent-org-prageru-t-00-31-16)**
 > "... Andreessen Horowitz, the son of David Horowitz. David Horowitz, from which all of the connections, PragerU, I could tell you the stories; PragerU, David Horowitz Freedom Center, and Ben Shapiro, all of them..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:06:29](/episodes/ep-YA1FxrDWNIo.md#ent-org-prageru-t-00-06-12)**
+> "...ed to donate to that charity because I was so moved by my interview with him when I was working for Prager University. But moving on from that, Phil also disputes something that was quite strange: that Shaner Broderic..."
 
 </details>
 
@@ -284,13 +301,13 @@ Source: [About PragerU](https://www.prageru.com/about)
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
 
 **[00:08:10](/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02)**
-> "... more information there because that's just silly. And I also love the context of him doing this on PragerU's platform. I obviously worked for PragerU. I know Marissa Streit (Marissa Streit). I am looking at..."
+> "And I also love the context of him doing this on PragerU's platform."
 
 **[00:08:19](/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02)**
-> "... silly. And I also love the context of him doing this on PragerU's platform. I obviously worked for PragerU. I know Marissa Streit (Marissa Streit). I am looking at Marissa Streit (Marissa Streit) right ther..."
+> "I obviously worked for PragerU. I know Marissa Streit. I am looking at Marissa Streit right there, right there, a little PR operation to address the points without actually addressing the points and to make it seem like it was nothing."
 
-**[00:43:32](/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-42-54)**
-> "...o this investigation." Ben Auten (Ben Auten) writes, "Your interview with Charlie (Charlie Kirk) on PragerU showed up on my YouTube algorithm. It's great to watch it again. Also, does anyone else find etchin..."
+**[00:43:32](/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-43-32)**
+> "Ben Auten writes, "Your interview with Charlie (Charlie Kirk) on PragerU showed up on my YouTube algorithm. It's great to watch it again."
 
 </details>
 
@@ -305,7 +322,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
@@ -324,7 +341,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 <summary>Formerly Employed (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “back when I had a show on PragerU.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “I obviously worked for PragerU.”
@@ -333,13 +350,17 @@ Source: [About PragerU](https://www.prageru.com/about)
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:13:13](/episodes/ep-uC_GjKU8rs8.md#t-00-12-39): “This means that Daily Wire is unique. They are unique. They are set apart from those examples. I left PragerU.”
 - [Candace Owens x Ana Kasparian @ 00:22:39](/episodes/ep-SKNJPul29zU.md#t-00-22-39): “candace was going around judeo christian doing all the things she worked at prager you”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:51](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “I worked for PragerU. I'm not a Mossad honeypot person, so that's not evidence.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:21:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “We kept doing the campuses and the campus tours, but I was officially working for PragerU.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:29](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “when I was working for Prager University.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “when I was working for Prager University.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Funded By (2)</summary>
+<summary>Funded By (3)</summary>
 
 - **[Farris Wilks](/entities/person-farris-wilks.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -352,6 +373,13 @@ Source: [About PragerU](https://www.prageru.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:23:18](/episodes/ep-wcD2khO3rOA.md#t-01-22-35): “they do fund prager you”
+
+</details>
+
+- **[Wilks Brothers](/entities/person-wilks-brothers.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
 
 </details>
 
@@ -383,19 +411,19 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 <details>
-<summary>Has Investor (1)</summary>
+<summary>Hired (1)</summary>
 
-- **[Wilks Brothers](/entities/person-wilks-brothers.md)**
+- **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:30](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-58): “And then they would find me broken and scared and upset and going, "I don't know how Charlie (Charlie Kirk) could think that I would support Hitler." And this amazing thing happened that despite this, that the hand that came out to me and offered me a job was PragerU. ... PragerU offered me a job. ... And I was—I took the job with them, and Charlie (Charlie Kirk) and I still climbed together, but we were also working apart at the same time.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Marissa Streit](/entities/person-marissa-streit.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -413,16 +441,19 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “back when I had a show on PragerU.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “I obviously worked for PragerU.”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:24](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “when I was working for Prager University”
 - [Myron Gaines x Candace Owens @ 00:32:32](/episodes/ep-2T39-oADLj0.md#t-00-32-04): “So when I was working and giving the example again for PragerU, I genuinely, first off, wasn't up on the topic of Israel.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Prager University”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:13:13](/episodes/ep-uC_GjKU8rs8.md#t-00-12-39): “This means that Daily Wire is unique. They are unique. They are set apart from those examples. I left PragerU.”
 - [Candace Owens x Ana Kasparian @ 00:22:39](/episodes/ep-SKNJPul29zU.md#t-00-22-39): “candace was going around judeo christian doing all the things she worked at prager you”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:51](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “I worked for PragerU. I'm not a Mossad honeypot person, so that's not evidence.”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:21:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “We kept doing the campuses and the campus tours, but I was officially working for PragerU.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:29](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “when I was working for Prager University.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “when I was working for Prager University.”
 
 </details>
 
@@ -440,17 +471,24 @@ Source: [About PragerU](https://www.prageru.com/about)
 
 </details>
 
-- **[Wilks Brothers](/entities/person-wilks-brothers.md)** invested in this
+- **[Wilks Brothers](/entities/person-wilks-brothers.md)** funded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** hired by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:30](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-58): “And then they would find me broken and scared and upset and going, "I don't know how Charlie (Charlie Kirk) could think that I would support Hitler." And this amazing thing happened that despite this, that the hand that came out to me and offered me a job was PragerU. ... PragerU offered me a job. ... And I was—I took the job with them, and Charlie (Charlie Kirk) and I still climbed together, but we were also working apart at the same time.”
 
 </details>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
@@ -468,7 +506,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about PragerU (11)</strong></summary>
+<summary><strong class="section-title">Statements about PragerU (9)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -495,23 +533,19 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Accusation) **Candace Owens**: ["Some commentators attacking me are being paid by PR firms and many are..."](/statements/statement-0fd63e6a9fce.md)
-
-- [00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Accusation) **Candace Owens**: ["Some people attacking Candace are being paid by PR firms and too many ..."](/statements/statement-57aadf8c03fb.md)
-
-- [00:32:14](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Accusation) **Candace Owens**: ["Some commentators attacking Candace are being paid by PR firms and Pra..."](/statements/statement-041fcb21ee95.md)
+- [00:32:06](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Accusation) **Candace Owens**: ["Some commentators attacking me are being paid by PR firms and many are..."](/statements/statement-0fd63e6a9fce.md)
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>
 
-- [00:14:01](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) (Claim) **Candace Owens**: ["The Wilks Brothers fund DailyWire with the initial seed money and majo..."](/statements/statement-aa3c0c80962c.md)
-  - Also about: [Wilks Brothers](/entities/person-wilks-brothers.md), [DailyWire](/entities/org-dailywire.md)
+- [00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26) (Claim) **Candace Owens**: ["The Wilks Brothers are the ones that fund DailyWire, the initial seed ..."](/statements/statement-384067fd3298.md)
+  - Also about: [Wilks Brothers](/entities/person-wilks-brothers.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:14:18](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10) (Accusation) **Candace Owens**: ["Godspeak Calvary Chapel and PragerU are part of what is described onli..."](/statements/statement-778c373f6b1e.md)
+- [00:14:18](/episodes/ep-Qfwr08Ebczo.md#t-00-14-05) (Accusation) **Candace Owens**: ["Candace Owens said PragerU and Godspeak Calvary Chapel were part of wh..."](/statements/statement-778c373f6b1e.md)
   - Also about: [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)
 
 </details>
@@ -522,10 +556,10 @@ Source: [About PragerU](https://www.prageru.com/about)
 - [00:20:31](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-58) (Claim) **Candace Owens**: ["PragerU offered Candace Owens a job in early 2019 after the Hitler cli..."](/statements/statement-a90b2f3a12b4.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit, the CEO of PragerU, worked intelligence in the IDF in ..."](/statements/statement-f0901d002df2.md)
+- [00:20:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit, the CEO of PragerU, worked intelligence in the IDF in ..."](/statements/statement-f0901d002df2.md)
   - Also about: [Marissa Streit](/entities/person-marissa-streit.md)
 
-- [00:22:44](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-07) (Claim) **Candace Owens**: ["Candace's first episode with PragerU was in March 2019."](/statements/statement-a88f400f336d.md)
+- [00:22:00](/episodes/ep-Cq7nj9rxPdo.md#t-00-21-23) (Claim) **Candace Owens**: ["Owens said she thought her first PragerU episode was in March 2019"](/statements/statement-a88f400f336d.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
-title: "From the moment of the Kanye tweet onward, Charlie Kirk and ..."
-description: "\"From the moment of the Kanye tweet onward, Charlie Kirk and Candace Owens were assigned handlers\" — Candace Owens"
+title: "Owens said she now very much believes that she and Charlie K..."
+description: "\"Owens said she now very much believes that she and Charlie Kirk had handlers from 2018 onward\" — Candace Owens"
 statement_id: "statement-2685f32f2368"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> From the moment of the Kanye tweet onward, Charlie Kirk and Candace Owens were assigned handlers
+> Owens said she now very much believes that she and Charlie Kirk had handlers from 2018 onward
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:11:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-10-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(667);return false;">Play</a>
+**Timestamp:** [00:10:57](/episodes/ep-Cq7nj9rxPdo.md#t-00-10-48) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=657s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I believe—and I'm saying this retrospectively—that from that moment onward, Charlie and I were assigned handlers.
+> I believe—and I'm saying this retrospectively—that from that moment onward, Charlie (Charlie Kirk) and I were assigned handlers. ... I now very much believe that I have had handlers since 2018,
 
 ## Verification
 

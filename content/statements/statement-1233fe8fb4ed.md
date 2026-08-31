@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:13:37](/episodes/ep-SKGUzGHymcI.md#t-00-13-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(817);return false;">Play</a>
+**Timestamp:** [00:13:37](/episodes/ep-SKGUzGHymcI.md#t-00-13-05) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=817s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Its own January 2024 resolution says that it was, quote, acquiring the rights to a paint hangar currently part of a Dassault leasehold and authorizing the executive director and board chair to execute that lease with Satys
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:21:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1264);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=1264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, fortunately for the men that were involved with the patent, nothing actually ever materialized from that meeting.
 

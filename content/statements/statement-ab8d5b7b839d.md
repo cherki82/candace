@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:43:15](/episodes/ep-amqTMimDr0A.md#t-00-43-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2595);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2595s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he also died without a will. She filed a petition for half of his estate. ... In April, a judge signed off on her request. She was granted her property passing rights as a result of the ruling.
 

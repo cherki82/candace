@@ -6,6 +6,11 @@ date: "1996"
 ---
 
 **Date:** 1996
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “Last year, within the 1997 Washington Post article”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1996"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:06:36](/episodes/ep-wcD2khO3rOA.md#event-event-1996-news-world-communications-lent-liberty-u-t-01-06-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3996);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3996s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > lent $400,000 to Liberty at a 6% interest according to the promissory note.

@@ -1,6 +1,6 @@
 ---
-title: "ABC announced on September 17, 2025 that Jimmy Kimmel Live w..."
-description: "\"ABC announced on September 17, 2025 that Jimmy Kimmel Live would be preempted indefinitely over Kimmel’s post-assassination comments; the show returne...\" — Candace Owens"
+title: "Jimmy Kimmel was pulled off air indefinitely over his commen..."
+description: "\"Jimmy Kimmel was pulled off air indefinitely over his comments in the aftermath of Charlie Kirk's assassination\" — Candace Owens"
 statement_id: "statement-73a7b5c52259"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> ABC announced on September 17, 2025 that Jimmy Kimmel Live would be preempted indefinitely over Kimmel’s post-assassination comments; the show returned on September 23
+> Jimmy Kimmel was pulled off air indefinitely over his comments in the aftermath of Charlie Kirk's assassination
 
 ## Attribution
 
@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:38:08](/episodes/ep-aDlhjfW6hz8.md#t-00-37-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2288);return false;">Play</a>
+**Timestamp:** [00:39:06](/episodes/ep-aDlhjfW6hz8.md#t-00-39-06) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2346s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And speaking of free speech, I want to speak about Jimmy Kimmel because he has been pulled off air indefinitely over his comments in the aftermath of Charlie's assassination.
 

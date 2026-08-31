@@ -6,6 +6,11 @@ date: "2024"
 ---
 
 **Date:** 2024
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “In the late fall of 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:25:50](/episodes/ep-jsqUIkszZd0.md#t-00-25-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1550);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1550s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mr. Marx stated to me that he needed 50 rifles for a mission to Haiti
 
@@ -25,6 +30,6 @@ date: "2024"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:04:35](/episodes/ep--9MOUvgGyi4.md#event-event-2024-victor-marx-reportedly-requested-50-fold-t-01-04-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3875);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=3875s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I still got this 80 stuff going on and I need 50 guns to take and drop off in Haiti.

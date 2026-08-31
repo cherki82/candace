@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:43:47](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2627);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2627s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think we need to remind the world that a news station at the CK Memorial talked to attendees for three hours and none of them believed the FBI narrative.
 
@@ -40,7 +40,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:43:57](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2637);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2637s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think we need to remind the world that a news station at the CK Memorial talked to attendees for three hours and none of them believed the FBI narrative
 

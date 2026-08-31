@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(526);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=526s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when I had never so much as mentioned Brian Harpole. ... On the show until two days after his car crash interview that went viral for all the wrong reasons.
 

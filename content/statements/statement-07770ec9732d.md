@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:20:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1205);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1205s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You've got Larry (Larry Guinta) in the photo. ... Because he has been a fixture in her life since before her parents' ... divorce was ever finalized, ... because both he and his son are also in the collage. I confirmed with classmates Larry (Larry Guinta) and Lori (Lori Frantzve) were together since Erica (Erika Kirk)'s elementary school days. In other words, Erica (Erika Kirk) grew up in a situation that is now termed as a bonus dad. ... Both her, both her biological father and her stepfather figure were present and all living in and around the Scottsdale area.
 

@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 244 mentions"
+description: "Egypt (Places) - 240 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -20,13 +20,13 @@ _Type: Places_
 Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/egypt)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-28">2025-10-09 · 00:47:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-46-14">2026-07-20 · 00:46:14</a></strong></div>
 <div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>244</strong></div>
+<div><span>Mentions</span><strong>240</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,28 +34,28 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-egypt-t-00-05-00">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32" style="--pulse-height:17%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-28" style="--pulse-height:17%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-00-00" style="--pulse-height:78%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 14 mentions" title="2025-10-30 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-egypt-t-00-02-47" style="--pulse-height:39%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-27-18" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-egypt-t-00-54-29" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-27-04" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-egypt-t-00-54-22" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-egypt-t-00-37-38" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-egypt-t-00-55-02" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-egypt-t-00-55-32" style="--pulse-height:11%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-egypt-t-00-36-27" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11" style="--pulse-height:11%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-10" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-egypt-t-00-05-00" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 18 mentions" title="2025-11-17 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-00-00" style="--pulse-height:94%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 17 mentions" title="2025-11-18 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-00-00" style="--pulse-height:72%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 13 mentions" title="2025-11-19 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-00-39" style="--pulse-height:39%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-00-34" style="--pulse-height:28%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-00-00" style="--pulse-height:56%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 10 mentions" title="2025-11-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-egypt-t-00-09-23" style="--pulse-height:50%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 9 mentions" title="2025-12-01 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-egypt-t-00-14-43" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 6 mentions" title="2025-12-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-egypt-t-00-07-24" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-egypt-t-00-00-00" style="--pulse-height:94%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 17 mentions" title="2025-12-05 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-egypt-t-00-06-27" style="--pulse-height:11%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-29" style="--pulse-height:72%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 13 mentions" title="2025-12-10 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-egypt-t-00-06-27" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-25" style="--pulse-height:67%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 12 mentions" title="2025-12-10 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-14-04" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09" style="--pulse-height:39%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-35" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-egypt-t-00-45-12" style="--pulse-height:17%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-16-07" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-egypt-t-00-50-55" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
@@ -88,28 +88,28 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32) | 3 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-28) | 3 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-00-00) | 14 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-egypt-t-00-02-47) | 7 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-27-18) | 6 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-egypt-t-00-54-29) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-27-04) | 6 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-egypt-t-00-54-22) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-egypt-t-00-37-38) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-egypt-t-00-55-02) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-egypt-t-00-55-32) | 2 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-egypt-t-00-36-27) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-10) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-egypt-t-00-05-00) | 18 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-00-00) | 17 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-00-00) | 13 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-00-39) | 7 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-00-34) | 5 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-00-00) | 10 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-egypt-t-00-09-23) | 9 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-egypt-t-00-14-43) | 6 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-egypt-t-00-07-24) | 9 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-egypt-t-00-00-00) | 17 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-egypt-t-00-06-27) | 2 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-29) | 13 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-egypt-t-00-06-27) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-25) | 12 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-14-04) | 3 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09) | 7 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-35) | 6 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-egypt-t-00-45-12) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-16-07) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-egypt-t-00-50-55) | 3 |
@@ -144,7 +144,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (244)</strong></summary>
+<summary><strong class="section-title">Raw mentions (240)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
@@ -513,27 +513,24 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (7 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (6 mentions)</summary>
 
-**[00:42:12](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09)**
+**[00:42:08](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-35)**
 > "And we start talking about the Egyptian Plains"
 
-**[00:30:47](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-30-19)**
+**[00:30:42](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-30-42)**
 > "... website when we drop all the Egyptian plane logs?"
 
-**[00:33:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09)**
+**[00:33:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-35)**
 > "...nd we start talking about the Egyptian Plains."
 
-**[00:47:55](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-47-35)**
+**[00:47:55](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-47-55)**
 > "...d be spending our time on the Egyptian planes and what happened on Fort Huachuca base."
 
-**[00:48:18](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-47-35)**
-> "Flight logs for the Egyptian planes."
-
-**[00:48:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-48-20)**
+**[00:48:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-47-55)**
 > "...nfident in stating that those Egyptian planes are linked to Israel and that fully explai..."
 
-**[00:56:09](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-55-37)**
+**[00:56:03](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-55-37)**
 > "...of saying, well, you said the Egyptian planes, then you implied turning point USA."
 
 </details>
@@ -553,57 +550,51 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (13 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (12 mentions)</summary>
 
-**[00:01:29](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-29)**
-> "...rms what I told you about the Egyptian plains."
+**[00:01:25](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-25)**
+> "...rms what I told you about the Egyptian planes."
 
-**[00:01:42](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-29)**
-> "And he confirms what I told you about the Egyptian plains"
+**[00:24:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-23-49)**
+> "...ace (Candace Owens) said that Egyptian registered aircraft were following Erika Kirk Cha..."
 
-**[00:24:16](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-23-49)**
-> "Egyptian registered aircraft were following Erika Kirk Cha..."
+**[00:24:36](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-24-32)**
+> "...range. And what does Egyptian Egypt could mean aircraft from Egypt?"
 
-**[00:24:41](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-24-33)**
-> "And what does Egyptian Egypt could mean aircraft from Egypt?"
+**[00:24:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-24-32)**
+> "... that they were registered in Egypt. And so but that that fact is true."
 
-**[00:24:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-24-33)**
-> "... that they were registered in Egypt."
+**[00:25:58](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-25-51)**
+> "But I was right about the Egyptian planes. And when you hear Tucker Carlson say that..."
 
-**[00:25:58](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-25-17)**
-> "But I was right about the Egyptian Plains."
-
-**[00:26:19](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-26-00)**
+**[00:26:14](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-25-51)**
 > "...ere's something up with these Egyptian planes and they were in fact following around Cha..."
 
-**[00:35:40](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-35-31)**
+**[00:35:37](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-35-31)**
 > "...aid she was pregnant when the Egyptian planes were flying and following her."
 
 **[00:35:56](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-35-31)**
-> "...rika (Erika Kirk) of being on Egyptian planes?"
+> "...rika (Erika Kirk) of being on Egyptian planes? When I found the Egyptian planes, I was c..."
 
-**[00:35:59](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-35-31)**
-> "When I found the Egyptian planes, I was concerned that they were following ..."
-
-**[00:36:29](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-36-12)**
+**[00:36:28](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-36-12)**
 > "...would I think you were on the Egyptian planes?"
+
+**[00:36:48](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-36-12)**
+> "...nant. Even if you were on the Egyptian plane, that's a possibility when you're pregnant."
 
 **[00:57:31](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-57-31)**
 > "...caster was like, hey, I found Egyptian planes and they're being kind of shady, I would b..."
 
 **[00:58:02](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-57-31)**
-> "Are we, what's up with these Egyptian planes?"
+> "Are we, what's up with these Egyptian planes? They're just making jokes."
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:06:33](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-egypt-t-00-06-27)**
 > "And yes, we have mentioned Egypt."
-
-**[00:07:12](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-egypt-t-00-06-27)**
-> "Egypt mentioned as country of interest"
 
 </details>
 
@@ -786,27 +777,21 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (7 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
 
-**[00:00:39](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-00-39)**
+**[00:00:39](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-00-34)**
 > "...at our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else, we should address that. Because I k..."
 
-**[00:05:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-05-36)**
+**[00:05:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-05-28)**
 > "...s, leases a hangar for only two years. OK, and during—immediately—this becomes a location where our Egyptian military plane is going to land in Wilmington, Delaware, not to get service. We know there was no m..."
 
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-05-36)**
+**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-06-02)**
 > "...ng. Very interesting. And don't forget that that same core, that same source claimed that after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then..."
 
-**[00:22:07](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-21-44)**
+**[00:22:07](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-21-35)**
 > "...nation. I find this now to be very interesting, okay? Very interesting as to whether or not on that Egyptian—quote-unquote "Egyptian"—plane, there could have been foreigners that are not from Egypt. And I thi..."
 
-**[00:22:11](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-21-44)**
-> "...on that Egyptian—quote-unquote "Egyptian"—plane, there could have been foreigners that are not from Egypt. And I think that's pretty obvious that these people were not from Egypt, okay? I really don't thin..."
-
-**[00:22:16](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-21-44)**
-> "...reigners that are not from Egypt. And I think that's pretty obvious that these people were not from Egypt, okay? I really don't think this was an Egyptian-filled plane, whether or not they had Egyptian pas..."
-
-**[00:22:20](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-21-44)**
+**[00:22:20](/episodes/ep-sImMM04XdWY.md#ent-gpe-egypt-t-00-22-16)**
 > "...that's pretty obvious that these people were not from Egypt, okay? I really don't think this was an Egyptian-filled plane, whether or not they had Egyptian passports or Egyptian names is a whole other story, ..."
 
 </details>
@@ -829,7 +814,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 **[00:01:35](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-00-44)**
 > "... filled with government-level Egyptians, right?—particularly the yellow jet, tail number ..."
 
-**[00:03:23](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-00-44)**
+**[00:03:12](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-00-44)**
 > "...er the 12 or 14 quote-unquote Egyptians six days earlier—that plane, the yellow plane, de..."
 
 **[00:04:06](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-00-44)**
@@ -838,19 +823,19 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 **[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-00-44)**
 > "...to the information portion. The information portion reads this. "As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware." "I tried to pull n..."
 
-**[00:07:37](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-07-37)**
+**[00:07:33](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-07-11)**
 > "...ey do covert handoffs." "Now I have no affiliation with SUBTT." "Nor am I an operator anywhere near Egypt or its planes, but I do know that only federal vehicles are allowed access to private gates housing..."
 
-**[00:18:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-07-37)**
+**[00:18:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-07-11)**
 > "...h other's backs." Yeah, to have each other's backs. So let's recap these facts. On September 10, an Egyptian government aircraft with a history of flying to France and the United States lands at a small Delaw..."
 
-**[00:19:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-19-26)**
+**[00:19:37](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-19-22)**
 > "...ent hop that ends in Wilmington before going home. Four days later, on November 17th, 2022, it does Egypt to Wilmington, again, departing at 8:54 a.m., and this time it stays in Wilmington until November 2..."
 
-**[00:20:23](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-20-11)**
+**[00:20:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-19-59)**
 > "...st of those don't even have major consulates. And absolutely none of them are known for large-scale Egyptian presence, so that immediately undermines the whole, it's just a maintenance stop excuse. Ask yourse..."
 
-**[00:22:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-22-19)**
+**[00:22:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-egypt-t-00-22-47)**
 > "...hecks out. Yeah, Secret Service, the FBI, the DEA being involved, why this plane, the quote-unquote Egyptian plane landed into Wilmington, that checks out. So I guess to our government. What's the next move? ..."
 
 </details>
@@ -858,56 +843,56 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (17 mentions)</summary>
 
-**[00:00:37](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-00-00)**
+**[00:00:32](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-00-00)**
 > "...investigation. They are deeply upset that we revealed the license plate numbers associated with the Egyptian frequent flyers. Why do you think they're upset about that? I don't understand. Why would something..."
 
-**[00:01:55](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-01-26)**
+**[00:01:53](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-01-26)**
 > ".... Anyways, back to our Zionist friends. Israeli and American Zionists are deeply bothered about the Egyptian plane. They're not concerned in the way that you think they would be. You would think that they wou..."
 
 **[00:02:08](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-02-08)**
 > "...(Candace Owens). We love Charlie (Charlie Kirk) so much." "We're very concerned to learn that these Egyptian military planes were tracking Charlie (Charlie Kirk) and Erika Kirk for years." "What can we do to ..."
 
-**[00:02:20](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-02-08)**
+**[00:02:21](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-02-08)**
 > "... Kirk for years." "What can we do to help?" "Gosh, we're right next door to them." "We did a lot to Egypt." "We actually control a lot, and we surveil a lot in that state." "Let us help you." Rather, their..."
 
-**[00:03:17](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-02-51)**
+**[00:03:14](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-03-14)**
 > "... habits die hard." That is just so weird. I just thought she, the Hamptons people, would be on this Egyptian thing, trying to help as best they could, but they're actually more concerned for these Egyptians w..."
 
-**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-03-33)**
+**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-03-51)**
 > "...hus far, I want to remind you that we have confirmed that this was a full flight over to Utah. This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassin..."
 
-**[00:04:04](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-03-33)**
+**[00:04:04](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-03-51)**
 > "...etween 12 to 14 quote-unquote Egyptians that were on this flight and deplaned on Septembe..."
 
-**[00:05:19](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-03-33)**
+**[00:05:16](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-03-51)**
 > "...al agents that escorted these Egyptians off the plane?"
 
 **[00:05:38](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-05-38)**
 > "...oint mustered the courage to answer my yes or no—circle yes or circle no—as to whether or not these Egyptian jets were known to Charlie (Charlie Kirk)? Because like I said yesterday, it is highly plausible, h..."
 
-**[00:06:18](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-06-18)**
+**[00:06:15](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-06-15)**
 > "... like your fave—but we now have identified a fifth verified rental plate that we can now add to the Egyptian mix. So that's a total of five rental cars that were rented by Duncan Aviation that we can review. ..."
 
-**[00:08:41](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-06-18)**
+**[00:08:36](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-06-15)**
 > "...oncluding that these 12 to 14 Egyptians didn't drop into Provo, Utah, in the six days lea..."
 
-**[00:09:14](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-09-05)**
+**[00:09:11](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-09-11)**
 > "...they weren't even on the plane on the way out. They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home. So what are we looking at here? What exactly were these Egy..."
 
-**[00:09:24](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-09-05)**
+**[00:09:22](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-09-11)**
 > "What exactly were these Egyptians with the federal escorts doing on the day of Char..."
 
-**[00:10:35](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-10-23)**
+**[00:10:35](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-10-35)**
 > "...t the press said, warring with the FBI, or warring with Kash Patel—could look into. Because this is Egyptian, okay? This is Egyptian. And I also want to add here something that I have always suspected that ma..."
 
-**[00:10:37](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-10-23)**
-> "...g with the FBI, or warring with Kash Patel—could look into. Because this is Egyptian, okay? This is Egyptian. And I also want to add here something that I have always suspected that makes perfect sense to me,..."
-
-**[00:11:21](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-11-07)**
+**[00:11:14](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-11-14)**
 > "...ome of this footage was recorded in the days leading up, okay? And now, now that we know that those Egyptian planes came in six days before—six days before Charlie (Charlie Kirk)'s assassination—it's possible..."
 
-**[00:50:53](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-11-07)**
+**[00:50:52](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-11-14)**
 > "... not have to certify anything under FARA. Obsessed Sports Rights. "If the planes are truly from the Egyptian government, would that mean their passengers in cargo would have diplomatic immunity and allow them..."
+
+**[00:02:17](/episodes/ep-581dILVcEE4.md#ent-gpe-egypt-t-00-02-08)**
+> "...or to them." "We did a lot to Egypt.""
 
 </details>
 
@@ -971,13 +956,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:50:28](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11)**
+**[00:50:27](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-10)**
 > "...re week because he got swept up into something. So that was a cancellation. The second thing is the Egyptian plane. That—the thing about the Egyptian plane—is so explosive. Like I said to you, I had to try to..."
-
-**[00:50:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11)**
-> "...thing. So that was a cancellation. The second thing is the Egyptian plane. That—the thing about the Egyptian plane—is so explosive. Like I said to you, I had to try to get this to the right people in governme..."
 
 </details>
 
@@ -990,10 +972,13 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
-**[00:55:42](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-egypt-t-00-55-02)**
+**[00:55:44](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-egypt-t-00-55-32)**
 > "...dards cup. This one has been a hot seller. And beyond that, I saw some of you guys asking about the Egyptian planes. Yep, we have that for you. We're in for a week. Tomorrow, we're going to talk a bit more ab..."
+
+**[00:55:36](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-egypt-t-00-55-32)**
+> "... of you guys asking about the Egyptian planes."
 
 </details>
 
@@ -1008,7 +993,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:54:57](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-egypt-t-00-54-29)**
+**[00:54:57](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-egypt-t-00-54-22)**
 > "... freak out about something so minor. That just tends to be the pattern. Like I was saying about the Egyptian plagues: when they overreact, it's because we hit a nerve. And so we should focus our attention on ..."
 
 </details>
@@ -1016,23 +1001,23 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6 mentions)</summary>
 
-**[00:27:18](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-27-18)**
-> "...e (Candace Owens), and use promo code Candace (Candace Owens) at checkout. So we've got planes from Egypt, cell phones from Israel, and we are getting the runaround from the Trump administration, the runar..."
+**[00:27:18](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-27-04)**
+> "So we've got planes from Egypt, cell phones from Israel, and we are getting the runaround from the Trump administration, the runaround from his friends—the people that want to just stop asking questions and move on."
 
-**[00:46:48](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-46-45)**
+**[00:46:45](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-46-37)**
 > "... undone in this administration—that's for sure. Jennifer Kay writes, "Just asked Grok if Israel and Egypt coordinate on intelligence ops. It says yes, calling their cooperation unprecedented. Since the 197..."
 
-**[00:47:04](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-46-45)**
+**[00:47:00](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-46-37)**
 > "...ries make more sense working together." Yeah. Country A that gets most of our money is Israel. B is Egypt. And there is a reason for that. So it doesn't look like it's all going to Israel. That's my perspe..."
 
-**[00:49:49](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-49-32)**
+**[00:49:45](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-49-13)**
 > "...y with more information. Tomorrow we will have more explosive information and revelations about the Egyptian plane, which... So interesting—speaking of the unique relationship between Egypt and Israel—TikTok ..."
 
-**[00:49:54](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-49-32)**
-> "... the unique relationship between Egypt and Israel—TikTok is hitting us for videos talking about the Egyptian planes. That's very strange. Israel's moderator served in the IDF—we know—and Benjamin Netanyahu (B..."
+**[00:49:54](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-49-54)**
+> "So interesting—speaking of the unique relationship between Egypt and Israel—TikTok is hitting us for videos talking about the Egyptian planes."
 
-**[00:50:14](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-50-14)**
-> "...enjamin Netanyahu (Bibi Netanyahu) wants TikTok secured for Israel's future. Why do they care about Egyptian planes that were there? It's kind of coming together. There's a picture here that's coming together..."
+**[00:50:14](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-egypt-t-00-49-54)**
+> "Why do they care about Egyptian planes that were there? It's kind of coming together. There's a picture here that's coming together."
 
 </details>
 
@@ -1065,7 +1050,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (14 mentions)</summary>
 
-**[00:00:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-00-00)**
+**[00:00:08](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-00-00)**
 > "Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination."
 
 **[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-00-00)**
@@ -1074,51 +1059,51 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 **[00:12:29](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-12-29)**
 > "...gyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptian military plane had previously only ever been to the United States twice in that past year. And both..."
 
-**[00:12:53](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-12-53)**
+**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-12-46)**
 > "...ted six days later on September 10th, they ignored the huge substance of this, which is why is this Egyptian military plane here in the middle of Utah. Instead, they said, oh, she made a time zone mistake. Li..."
 
-**[00:13:55](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-13-36)**
+**[00:13:52](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-13-24)**
 > "..., the military. These are military bots that you're seeing on X. But that was essentially the vibe. Egyptian military plane: don't look over here. We have debunked. It has nothing to do with Charlie (Charlie ..."
 
-**[00:15:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-15-42)**
+**[00:15:38](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-15-23)**
 > "...have been a routine servicing. I guess there's just no place from Egypt all the way to Utah that an Egyptian military plane can like get a tire changed. This is totally routine—nothing to see here. Well, I'm ..."
 
-**[00:16:37](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-16-22)**
+**[00:16:37](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-16-37)**
 > "..., okay, those people were mysteriously missing from that plane. Okay. What's going on here? Why are Egyptian military subcontractors—what are Egyptian military subcontractors doing in the middle of Provo, Uta..."
 
-**[00:19:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-19-42)**
+**[00:19:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-19-19)**
 > "...at I am told by this individual. She is saying that what actually took place was that they had some Egyptian military subcontractors—person that she knows intimately. I would not have taken this to the bank. ..."
 
-**[00:21:04](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-21-04)**
+**[00:20:58](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-20-34)**
 > "... in some capacity. That's not true. But maybe it was because, look— joint military exercise between Egypt and America for some unknown reason, and Provo, Utah was the place they had to do this. And they de..."
 
-**[00:23:06](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-23-06)**
+**[00:23:00](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-22-35)**
 > "...me in by itself because it just needed to be serviced. You know, just nothing here between here and Egypt—just needed to, you know, put some fuel in the tank and then go home. Answer the questions that we ..."
 
-**[00:27:35](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-27-20)**
+**[00:27:33](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-27-14)**
 > "...aining in my ear, and he is right. I want to make sure that I speak perfectly. When I said that the Egyptian flight in its past flights to America had landed on American air bases, I didn't mean they physical..."
 
-**[00:28:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-28-02)**
+**[00:28:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-27-54)**
 > "...e you are. If you have information, please email us at moretips@candaceowens.com pertaining to this Egyptian flight, this military flight. What was it doing? Maybe you checked them in at a hotel nearby. Maybe..."
 
-**[00:28:43](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-28-02)**
+**[00:28:43](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-27-54)**
 > "... been hotels, presumably. Maybe they're staying with certain friends. Let me know: did you see some Egyptian-looking dudes in Utah? I feel like that way they would stand out in Utah, maybe, right? I think the..."
 
-**[00:55:55](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-55-55)**
-> "... that wrote me the email yesterday. I can't remember if it was Carrie. Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025. What is that? Mark, help me mansplain. After and..."
+**[00:55:54](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-55-25)**
+> "I can't remember if it was Carrie (Carrie (Carrie Jean)). Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025."
 
 </details>
 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (3 mentions)</summary>
 
-**[00:47:32](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32)**
+**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-28)**
 > "...day morning to represent the US negotiators from Israel and Hamas, and the mediators from Qatar and Egypt and Turkey also participated, and were supposed to go, "Wow, that's amazing." Trump (Donald Trump) ..."
 
 **[00:49:42](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-49-14)**
 > "...result of a war, right? You had tribes that were in different places, but then Gaza became a thing. Egypt used to run it. And then over time, you had different governments that came in different ways. So y..."
 
-**[00:49:53](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-49-53)**
+**[00:49:47](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-49-47)**
 > "...y—how do we deal with the terror threat that is there so that it cannot be a threat to Israel or to Egypt? I think that both sides are spending a fortune on military. I think neither side really wants to h..."
 
 </details>
@@ -1127,6 +1112,18 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Has President (1)</summary>
+
+- **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:16:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27): “The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Member Of (1)</summary>
@@ -1146,21 +1143,21 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 - **[SU-BTT](/entities/vehicle-su-btt.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-51): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
 
 </details>
 
 - **[SU-BND](/entities/vehicle-su-bnd.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-11): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Safari Club](/entities/org-safari-club.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1172,14 +1169,21 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 - **[SU-BTT](/entities/vehicle-su-btt.md)** operated by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-51): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
 
 </details>
 
 - **[SU-BND](/entities/vehicle-su-bnd.md)** operated by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-11): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+
+</details>
+
+- **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)** president of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:16:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27): “The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU.”
 
 </details>
 
@@ -1188,7 +1192,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egypt (17)</strong></summary>
+<summary><strong class="section-title">Statements about Egypt (18)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -1253,8 +1257,16 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-48-20) (Claim) **Candace Owens**: ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
+- [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-47-55) (Claim) **Candace Owens**: ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
   - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09) (Claim) **Candace Owens**: ["On the 29th, we have Operation Bright Star, which commences—that joint..."](/statements/statement-036f01758863.md)
+  - Also about: [Operation Bright Star](/entities/event-operation-bright-star.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 
@@ -1282,10 +1294,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>
 
-- [00:46:34](/episodes/ep-Qfwr08Ebczo.md#t-00-46-02) (Claim) **Candace Owens** (via quoted post): ["Israel and Egypt have unprecedented intelligence cooperation since the..."](/statements/statement-e31d4a489f14.md)
+- [00:46:34](/episodes/ep-Qfwr08Ebczo.md#t-00-45-58) (Citation) **Jennifer Kay (commenter; identity unverified)** (via quoted post): ["Jennifer Kay reported that Grok called Israel-Egypt intelligence coope..."](/statements/statement-e31d4a489f14.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
-- [00:47:04](/episodes/ep-Qfwr08Ebczo.md#t-00-46-45) (Claim) **Candace Owens**: ["Country A that gets most of US foreign aid money is Israel and B is Eg..."](/statements/statement-859dcb79d344.md)
+- [00:47:04](/episodes/ep-Qfwr08Ebczo.md#t-00-46-37) (Claim) **Candace Owens**: ["Country A that gets most of US foreign aid money is Israel and B is Eg..."](/statements/statement-859dcb79d344.md)
   - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
 </details>

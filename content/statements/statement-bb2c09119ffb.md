@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:43:00](/episodes/ep-tXoI0TTKVrs.md#t-00-42-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2580);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2580s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And now what's happened is he just has completely sold out the American people for Israel, for his family. They are going to be billionaires. They're going to buy islands. They're going to jump off of yachts owned by Nat (Nathaniel Rothschild) and find and discover islands and discover islands and say, that's mine.
 

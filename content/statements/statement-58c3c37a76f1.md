@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1824);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1824s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House and they wanted the public to think that they were in Arizona. They ran this interview with Kash Patel on Charlie Kirk's show, which is supposed to be live every day. You can fake a live, you can make it a prerecord, but it's interesting that they were actually meeting with top brass at the White House.
 

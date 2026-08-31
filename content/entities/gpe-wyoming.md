@@ -37,10 +37,10 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-wyoming-t-00-01-39" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 10 mentions" title="2025-10-27 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-wyoming-t-00-00-00" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41" style="--pulse-height:10%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-01-17" style="--pulse-height:10%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wyoming-t-00-02-47" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-wyoming-t-00-47-10" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-05" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-wyoming-t-00-47-28" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-00" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-wyoming-t-00-01-32" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-12-37" style="--pulse-height:20%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-wyoming-t-00-06-30" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
@@ -55,10 +55,10 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 |---|---|---:|
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-wyoming-t-00-01-39) | 10 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-wyoming-t-00-00-00) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-01-17) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wyoming-t-00-02-47) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-wyoming-t-00-47-10) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-05) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-wyoming-t-00-47-28) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-00) | 1 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-wyoming-t-00-01-32) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-12-37) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-wyoming-t-00-06-30) | 1 |
@@ -137,7 +137,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:53:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-05)**
+**[00:53:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-00)**
 > "...aint." Yeah, I spoke about this on another show. It was gifted to me by a priest while I was out in Wyoming, and it is from St. Michael's Holy Cave in Italy. So yes, I was very grateful to have that, and tha..."
 
 </details>
@@ -145,7 +145,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:47:43](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-wyoming-t-00-47-10)**
+**[00:47:41](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-wyoming-t-00-47-28)**
 > "...'t work for me, okay? It doesn't work for me. I feel like Taylor Lorenz—like, once I came back from Wyoming, I then started paying attention to everyone's behavior, and I was like, "Why would I feel like I w..."
 
 </details>
@@ -161,7 +161,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:01:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41)**
+**[00:01:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-01-17)**
 > "All right, so while I was away in Wyoming, I received a rather shocking tip."
 
 </details>

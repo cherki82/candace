@@ -6,6 +6,11 @@ date: "2026"
 ---
 
 **Date:** 2026
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “recently”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:21:01](/episodes/ep-VMNWMXX1vO8.md#event-event-2026-erika-kirk-spoke-at-an-educator-summit-i-t-00-21-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1261);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1261s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she recently went to Illinois to lie through her teeth.

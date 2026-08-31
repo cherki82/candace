@@ -1,6 +1,6 @@
 ---
-title: "An inside source told Candace Owens that Erika Kirk was name..."
-description: "\"An inside source told Candace Owens that Erika Kirk was named in Charlie Kirk's will and inherited approximately $10 million.\" — Anonymous Source #3 (Ep 1QZ4X6q1DPg)"
+title: "An inside source told Candace Owens that Erika Kirk may have..."
+description: "\"An inside source told Candace Owens that Erika Kirk may have been named in Charlie Kirk’s will and may have inherited approximately 10 million dollars...\" — Anonymous Source #3 (Ep 1QZ4X6q1DPg)"
 statement_id: "statement-c9e654be5ab7"
 speaker: "Anonymous Source #3 (Ep 1QZ4X6q1DPg)"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> An inside source told Candace Owens that Erika Kirk was named in Charlie Kirk's will and inherited approximately $10 million.
+> An inside source told Candace Owens that Erika Kirk may have been named in Charlie Kirk’s will and may have inherited approximately 10 million dollars.
 
 ## Attribution
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:18:18](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1098);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1098s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm told Erika (Erika Kirk) actually was named and she inherited 10 million. That may or may not be correct.
 

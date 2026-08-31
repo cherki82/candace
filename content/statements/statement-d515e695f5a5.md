@@ -1,6 +1,6 @@
 ---
-title: "There's just four of us that work on the actual podcast ever..."
-description: "\"There's just four of us that work on the actual podcast every day\" — Candace Owens"
+title: "Owens said four people worked on the podcast every day."
+description: "\"Owens said four people worked on the podcast every day.\" — Candace Owens"
 statement_id: "statement-d515e695f5a5"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> There's just four of us that work on the actual podcast every day
+> Owens said four people worked on the podcast every day.
 
 ## Attribution
 
@@ -27,10 +27,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:04:30](/episodes/ep-vwG1juDCQZQ.md#t-00-04-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(270);return false;">Play</a>
+**Timestamp:** [00:04:29](/episodes/ep-vwG1juDCQZQ.md#t-00-04-29) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> There's just four of us that work on the actual podcast every day
+> It has stayed small. There's just four of us that work on the actual podcast every day.
 
 ## Verification
 

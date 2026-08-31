@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:41:17](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2477);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2477s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was turning against Israel. It wasn't a joke when he texted the night before that he was done with Israel.
 

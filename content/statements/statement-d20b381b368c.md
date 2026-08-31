@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1842);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1842s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Romanian Angels Project officially begins in partnership with the U.S. Marines and she is working. Working with Colonel Otto Busher III.
 

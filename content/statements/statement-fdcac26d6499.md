@@ -26,8 +26,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:47:57](/episodes/ep-Qfwr08Ebczo.md#t-00-47-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2877);return false;">Play</a>
+**Timestamp:** [00:47:57](/episodes/ep-Qfwr08Ebczo.md#t-00-47-18) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=2877s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Everything that's happening in our country, our culture, the corrosion—I think it's because America has married Zionism. Like, I truly do believe that...We were a better country when we were a Christian nation. We are no longer a Christian nation. We are an occupied nation with an ideology that has produced filth in our culture
 

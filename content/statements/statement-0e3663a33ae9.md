@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:10:51](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(651);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=651s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There are other people outside of Corby Hall. For example, a young woman named Holly Chalmers accused him of kidnapping her across state lines and of exploiting her.
 

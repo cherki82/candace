@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:20:46](/episodes/ep-N4uM8Jdr410.md#t-00-20-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1246);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1246s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On August 18th, 2025. Of course, Judge Tony Graff was appointed in May 2025. We can skip Kash because that makes sense, because Trump (Donald Trump) just came into office.
 

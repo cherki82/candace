@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 43 mentions"
+description: "Epstein Files (Works & Media) - 47 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -21,10 +21,10 @@ _Type: Works & Media_
 Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/epstein)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05">2026-01-16 · 00:18:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10">2025-11-04 · 00:30:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05">2026-08-19 · 00:37:30</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,9 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-epstein-files-t-00-44-48" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-work-epstein-files-t-00-46-00" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05" style="--pulse-height:67%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-epstein-files-t-00-15-24" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -56,6 +59,9 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-work-epstein-files-t-00-44-48) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-work-epstein-files-t-00-46-00) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00) | 6 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-work-epstein-files-t-00-15-24) | 1 |
@@ -79,7 +85,7 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -287,6 +293,33 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 **[00:21:57](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-21-47)**
 > "The Epstein files was the name on the paper."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:46:00](/episodes/ep-581dILVcEE4.md#ent-work-epstein-files-t-00-46-00)**
+> "... worshipping Israel, that the Epstein files should be released, and that obviously our relati..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:45:05](/episodes/ep-MUA9ebCF4Ow.md#ent-work-epstein-files-t-00-44-48)**
+> "...arlie Kirk) and what's in the Epstein files. I think the same people are behind all of the gr..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+
+**[00:30:37](/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10)**
+> "...'ve ever seen—except on those Epstein files."
+
+**[00:30:45](/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10)**
+> "...ke abusing children, but what Epstein files are we even talking about? No."
 
 </details>
 

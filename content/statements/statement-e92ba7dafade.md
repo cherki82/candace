@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:17:58](/episodes/ep-1mYNOqzAdXs.md#t-00-17-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1078);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1078s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that's what i think went down okay that is the energy that he is giving is like oh my gosh i feel so bad i need to like protect this injured bird so unfair that she's scared she's worried about her kids just an event and the reality was that Erika (Erika Kirk) just saw the crowd she didn't want to speak She dealt with JD (J.D. Vance) and then she directed Andrew (Andrew Kolvet) to make up a sinister lie. ... I think JD (J.D. Vance) on the phone probably tried to assure her the Secret Service already saw everything and be fined and then she did something along the I can't I'm sorry my family and he was completely understanding because why wouldn't he be she's dropping like I don't want my kids to be an orphan which is what he implies on stage that the Secret Service had things under control but that he understood that she needed to do what was right for her family that's my best read on the situation
 

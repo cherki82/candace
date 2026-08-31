@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:48:43](/episodes/ep-1mYNOqzAdXs.md#t-00-48-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2923);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2923s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They ignored the security concerns that were expressed by the school that they shouldn't do this in an uncontrolled area for Charlie (Charlie Kirk). or uncontrolled traffic area they put him there like a sitting duck
 

@@ -1,6 +1,6 @@
 ---
-title: "Terrell Farnsworth removed SD cards because people were stea..."
-description: "\"Terrell Farnsworth removed SD cards because people were stealing hats\" — Candace Owens"
+title: "Owens said an unspecified source claimed Terrell Farnsworth ..."
+description: "\"Owens said an unspecified source claimed Terrell Farnsworth removed SD cards because people were stealing hats, but she disputed that account\" — Candace Owens"
 statement_id: "statement-3f343073013d"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Terrell Farnsworth removed SD cards because people were stealing hats
+> Owens said an unspecified source claimed Terrell Farnsworth removed SD cards because people were stealing hats, but she disputed that account
 
 ## Attribution
 
@@ -28,16 +28,16 @@ veracity: "mixed"
 ### 1. Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His Firs...
 
 **Episode:** [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md)
-**Timestamp:** [00:11:49](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(709);return false;">Play</a>
+**Timestamp:** [00:11:55](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) 
+<a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=715s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Terrell removed the SD cards because people were stealing hats.
+> Terrell removed the SD cards because people were stealing hats. Again, not what Terrell (Terrell Farnsworth) (Terrell Farnsworth) himself told me
 
 ### 2. Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigan...
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:12:37](/episodes/ep-_cNtgris8Ik.md#t-00-12-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(757);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=757s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you had Andrew Kolvet saying to the public that this was because he was fearful that people were going to steal hats it was suspicious
 

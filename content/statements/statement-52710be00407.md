@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:16:08](/episodes/ep-BxN2-aeMYIs.md#t-00-15-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(968);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=968s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she later identifies this person to be Sean Chenoweth. ... Who is the director of cognitive advantage at the U.S. at the National Security Council. So he works under and with Sebastian Gorka.
 

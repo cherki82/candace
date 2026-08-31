@@ -7,7 +7,7 @@ type: "promise"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:57:25](/episodes/ep-Wjul6YV6izo.md#t-00-57-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3445);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=3445s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > speaking about Erika's background we're going to do i told you that we have a week break coming up not next week the week after and during that week we'll get things together and have a two episode just kind of a profile focus separating fact from fiction
 

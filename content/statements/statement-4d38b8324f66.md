@@ -1,6 +1,6 @@
 ---
-title: "it's about a 17-minute drive away from the campus."
-description: "\"it's about a 17-minute drive away from the campus.\" — Candace Owens"
+title: "Owens said the Dairy Queen was about a 17-minute drive from ..."
+description: "\"Owens said the Dairy Queen was about a 17-minute drive from the campus.\" — Candace Owens"
 statement_id: "statement-4d38b8324f66"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> it's about a 17-minute drive away from the campus.
+> Owens said the Dairy Queen was about a 17-minute drive from the campus.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:06:50](/episodes/ep-sreYYcID-QY.md#t-00-06-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(410);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So you can see—we're showing you—it's about a 17-minute drive away from the campus
 

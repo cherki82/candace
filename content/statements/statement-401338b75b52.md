@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:38:25](/episodes/ep-tXoI0TTKVrs.md#t-00-38-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2305);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2305s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The project that has been presented and the scale of the area involved makes it highly destructive. There'll be 10,000 rooms and construction will last 10 to 15 years. ... We're no longer talking about a place where nature will remain intact, but about the creation of an entirely new city.
 

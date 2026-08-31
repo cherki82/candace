@@ -1,6 +1,6 @@
 ---
-title: "In October 2018, Kanye helped Candace design the logo for Bl..."
-description: "\"In October 2018, Kanye helped Candace design the logo for Blexit before distancing himself from the movement.\" — Candace Owens"
+title: "Owens said Kanye West helped her start designing the Blexit ..."
+description: "\"Owens said Kanye West helped her start designing the Blexit logo before he distanced himself from Blexit\" — Candace Owens"
 statement_id: "statement-0bb06161f44b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> In October 2018, Kanye helped Candace design the logo for Blexit before distancing himself from the movement.
+> Owens said Kanye West helped her start designing the Blexit logo before he distanced himself from Blexit
 
 ## Attribution
 
@@ -29,9 +29,9 @@ veracity: "mixed"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:14:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(859);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=859s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It was in October after Kanye had helped me to start designing the logo for Blexit that Kanye's pressure cooker got too hot. ... And he needed to distance from us and, of course, Blexit, and he cracked.
+> It was in October after Kanye (Kanye West) had helped me to start designing the logo for Blexit that Kanye (Kanye West)'s pressure cooker got too hot. ... And he needed to distance from us and, of course, Blexit, and he cracked.
 
 ## Verification
 

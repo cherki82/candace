@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:03:34](/episodes/ep-3QJqtW_NOSI.md#t-00-03-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(214);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=214s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So essentially, 2018 was the year that everything began to unravel, and in my mind, I feel that the entire Epstein (Jeffrey Epstein) network then pivoted and simply re-emerged elsewhere, because a global network of that size is not just going to go away.
 

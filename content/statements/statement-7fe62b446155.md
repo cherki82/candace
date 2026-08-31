@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:38:47](/episodes/ep-WoXd4oLwd3w.md#t-00-38-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2327);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2327s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > emulate humanity they would know like maybe six days after your husband gets shot in the neck you shouldn't be able to jump on a zoom call you don't have to have guidance or pr to tell you that that's not normal beyond that she was in the office immediately within two days Erika (Erika Kirk) was back in the office walking around bringing her kids there that's a psychopath to be able to just like float between emotions but also to not understand human emotions in every room Erika (Erika Kirk) is someone different the ability ability
 

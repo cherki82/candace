@@ -33,8 +33,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-12-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(738);return false;">Play</a>
+**Timestamp:** [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-11-59) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=738s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Utah Valley University student recalls seeing man walking on or near the Losee Center roof twice in two weeks. ... the student says that he last saw the person on the roof last Wednesday at noon, a week before the shooting. ... He told CNN that he reported his observations to the FBI tip line after the shooting, but he has not heard back.
 

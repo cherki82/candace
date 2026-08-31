@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:24:24](/episodes/ep-zSKrxIUMNqw.md#t-00-23-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1464);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1464s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So on March 13th, 2016, Ben (Ben Shapiro) and Michelle Fields doubly decided that they were going to leave Breitbart in a glorious public statement that they would both make.
 

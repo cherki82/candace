@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:16:18](/episodes/ep-ozWJz2spBcI.md#t-00-15-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(978);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=978s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is an actual group chat which happened two days before Charlie Kirk was assassinated. ... There were nine people in total on this chat, including Charlie (Charlie Kirk) ... and Rob McCoy.
 

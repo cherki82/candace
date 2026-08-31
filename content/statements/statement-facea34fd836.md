@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:02:50](/episodes/ep-7FS1tUeSfdE.md#t-00-02-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(170);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So to jog your memory, the shooting took place at 8.36 p.m. Eastern, OK? ... That's when the Secret Service began firing at one another, so we've since learned.
 

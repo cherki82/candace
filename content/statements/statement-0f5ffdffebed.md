@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:13:47](/episodes/ep-ChuWo-n49B8.md#t-00-13-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(827);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=827s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mind you, Lance (Lance Twiggs) should be a suspect in this. His prints are everywhere. He had access to all of Tyler's belongings. He says his alibi is I was sleeping. OK, he's being protected by the feds. Like I said, he seems like an asset. Maybe they found him online doing some weird stuff.
 
@@ -38,7 +38,7 @@ type: "accusation"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:45:27](/episodes/ep-HGtMfbePDKk.md#t-00-45-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2727);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=2727s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Maybe it's not Lance and somebody else who's left-handed, who knows, but Lance comes to mind because we have always said that it's just bizarre that the feds move to protect him rather than to bring him in as a suspect. ... I think Lance, and this is strictly my opinion, which I have asserted from the very beginning of this investigation, is a fed assets.
 

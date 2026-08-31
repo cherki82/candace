@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:24:36](/episodes/ep-y8lak3CRwDw.md#t-00-24-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1476);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In November, this is her come up, Erika wins the Miss Arizona competition in November. OK, that makes her Miss Arizona for the next calendar year. ... So you win in 2011 and then you are Miss Arizona for 2012 for those of you who know nothing about the pageant world.
 

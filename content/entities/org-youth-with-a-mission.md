@@ -3,9 +3,17 @@ title: "Youth With A Mission"
 description: "Youth With A Mission (Organizations) - 1 mention"
 id: "org-youth-with-a-mission"
 type: "ORG"
+categories:
+  - "Christian missions organization"
 ---
 
 _Type: Organizations_
+
+**Categories:** Christian missions organization
+
+**Entity verification:** verified
+> The organization’s official founder page confirms the canonical name Youth With A Mission and abbreviation YWAM.
+Source: [Our Founders | Youth With A Mission](https://ywam.org/about-us/our-founders)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-youth-with-a-mission-t-00-13-59">2025-11-10 · 00:14:09</a></strong></div>

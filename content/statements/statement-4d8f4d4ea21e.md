@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:07:29](/episodes/ep-rupRLXmSndU.md#t-00-07-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(449);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=449s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He would later tell people at Utah Valley where he was being treated that he was paid to do that.
 

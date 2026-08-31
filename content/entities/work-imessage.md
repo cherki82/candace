@@ -1,6 +1,6 @@
 ---
 title: "iMessage"
-description: "iMessage (Works & Media) - 7 mentions"
+description: "iMessage (Works & Media) - 8 mentions"
 id: "work-imessage"
 type: "WORK"
 categories:
@@ -16,10 +16,10 @@ _Type: Works & Media_
 Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/about-imessage-iph4e9799206/26/ios/26)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-51-00">2026-01-05 · 00:51:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-work-imessage-t-00-37-49">2025-12-20 · 00:38:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59">2026-08-17 · 00:21:59</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +30,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-work-imessage-t-00-37-49" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-00-51-00" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
@@ -40,6 +41,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-work-imessage-t-00-37-49) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-51-00) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00) | 2 |
@@ -52,7 +54,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
@@ -94,6 +96,14 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 
 **[00:51:00](/episodes/ep-OEAHy3SsIiI.md#t-00-51-00)**
 > "Erika (Erika Kirk) didn't know this information and she was looking in his iMessages."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:38:08](/episodes/ep-w1oqQbR_bYs.md#ent-work-imessage-t-00-37-49)**
+> "...t he received it according to iMessage and messaged him again."
 
 </details>
 

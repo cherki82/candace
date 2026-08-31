@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:49:33](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2973);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2973s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Smith represented an Arizona House district in the Phoenix suburbs for one term before dropping his reelection bid in 2024 when questions arose about signatures on his nominating petition.
 

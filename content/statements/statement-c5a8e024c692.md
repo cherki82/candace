@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:09:05](/episodes/ep-4YgrOhhy708.md#t-00-09-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(545);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=545s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, it was a kind of blew our minds actually a little bit, Brian (show host; surname unverified). ... And we saw at one point across all the different social channels, we saw over 10 million concurrent views.
 

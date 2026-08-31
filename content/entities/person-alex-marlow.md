@@ -29,16 +29,16 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-alex-marlow-t-00-25-15" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-alex-marlow-t-00-25-15" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51) | 3 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-alex-marlow-t-00-25-15) | 1 |
 
 </details>
@@ -58,13 +58,10 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:46:06](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51)**
 > "...e interesting though, because Alex Marlow (Alex Marlow speaking), who runs Breitbart News, ..."
-
-**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51)**
-> "Alex Marlow, who runs Breitbart News"
 
 **[00:48:39](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-48-17)**
 > "...t me answer you back on that, Alex Marlow."
@@ -82,7 +79,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 - **[Breitbart News](/entities/org-breitbart-news.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “Alex Marlow, who runs Breitbart News, was their guest for the day”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “It's going to get even more interesting though, because Alex Marlow (Alex Marlow speaking), who runs Breitbart News, was their guest for the day on the show.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:15](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15): “including the editor-in-chief Alex Marlow and editor-at-large John Nolte”
 
 </details>
@@ -95,7 +92,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 - **[Breitbart News](/entities/org-breitbart-news.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “Alex Marlow, who runs Breitbart News, was their guest for the day”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “It's going to get even more interesting though, because Alex Marlow (Alex Marlow speaking), who runs Breitbart News, was their guest for the day on the show.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:15](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15): “including the editor-in-chief Alex Marlow and editor-at-large John Nolte”
 
 </details>
@@ -110,8 +107,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:46:55](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-50) [○] (Opinion) ["Conspiracy theorists get a high off of the idea that they're doing something dar..."](/statements/statement-f3adca24b0b6.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
+- [00:46:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-49) [○] (Opinion) ["Conspiracy theorists get a high off of the idea that they're doing something dar..."](/statements/statement-f3adca24b0b6.md)
 
 </details>
 

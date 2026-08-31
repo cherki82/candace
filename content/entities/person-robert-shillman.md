@@ -1,6 +1,6 @@
 ---
 title: "Robert Shillman"
-description: "Robert Shillman (People) - 2 mentions"
+description: "Robert Shillman (People) - 4 mentions"
 id: "person-robert-shillman"
 type: "PERSON"
 aliases:
@@ -8,11 +8,15 @@ aliases:
   - "Bob Shillman"
   - "Bob Schulman"
   - "Bob Shulman"
+categories:
+  - "Turning Point USA donor"
 ---
 
 _Type: People_
 
 **Also known as:** Robert J. Shillman, Bob Shillman, Bob Schulman, Bob Shulman
+
+**Categories:** Turning Point USA donor
 
 > **Possibly overlapping entity records:** [Bob Shillman](/entities/person-bob-shillman) · [Robert J. Shillman](/entities/person-robert-j-shillman). These records share a name or alias; compare their histories before treating either count as complete.
 
@@ -22,11 +26,11 @@ Source: [Cognex Chairman and Founder Dr. Robert J. Shillman to Resign](https://i
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-robert-shillman-t-00-59-15">2025-09-22 · 00:59:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-robert-shillman-t-00-38-06">2025-09-23 · 00:38:06</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-robert-shillman-t-00-20-09">2025-11-05 · 00:20:43</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +41,7 @@ Source: [Cognex Chairman and Founder Dr. Robert J. Shillman to Resign](https://i
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-robert-shillman-t-00-59-15" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-robert-shillman-t-00-38-06" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-robert-shillman-t-00-20-09" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +49,7 @@ Source: [Cognex Chairman and Founder Dr. Robert J. Shillman to Resign](https://i
 |---|---|---:|
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-robert-shillman-t-00-59-15) | 1 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-robert-shillman-t-00-38-06) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-robert-shillman-t-00-20-09) | 1 |
 
 </details>
 </section>
@@ -51,7 +57,15 @@ Source: [Cognex Chairman and Founder Dr. Robert J. Shillman to Resign](https://i
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+
+**[00:20:43](/episodes/ep-LATnak75Si0.md#ent-person-robert-shillman-t-00-20-09)**
+> "And not just financial threats—they made good on those threats. People like Bob Shulman (Robert Shillman) took $2 million away from him because he let Tucker (Tucker Carlson) hit the stage."
+
+</details>
 
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
@@ -75,12 +89,12 @@ Source: [Cognex Chairman and Founder Dr. Robert J. Shillman to Resign](https://i
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Invested In (1)</summary>
+<summary>Funded (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:27](/episodes/ep-ja26iltROkM.md#t-00-59-15): “Bob Schulman—as I said last week—that took away millions of dollars from Turning Point”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:30:56](/episodes/ep-Qt0VHV-POCg.md#t-00-30-28): “Like Bob Shomo took $2 million away—that's gotta mean something if you brought in $70 million last year and he took away $2 million just like that. Are they cutting the bigger checks?”
 
 </details>
 
@@ -89,10 +103,10 @@ Source: [Cognex Chairman and Founder Dr. Robert J. Shillman to Resign](https://i
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** has investor this
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:27](/episodes/ep-ja26iltROkM.md#t-00-59-15): “Bob Schulman—as I said last week—that took away millions of dollars from Turning Point”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:30:56](/episodes/ep-Qt0VHV-POCg.md#t-00-30-28): “Like Bob Shomo took $2 million away—that's gotta mean something if you brought in $70 million last year and he took away $2 million just like that. Are they cutting the bigger checks?”
 
 </details>
 
@@ -101,13 +115,21 @@ Source: [Cognex Chairman and Founder Dr. Robert J. Shillman to Resign](https://i
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert Shillman (1)</strong></summary>
+<summary><strong class="section-title">Statements about Robert Shillman (2)</strong></summary>
 
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
-- [00:20:45](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Claim) **Candace Owens**: ["Robert Shillman withdrew a $2 million pledge from Turning Point USA be..."](/statements/statement-15d3386acf60.md)
+- [00:20:45](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Accusation) **Candace Owens**: ["Candace Owens accused Robert Shillman of taking two million dollars aw..."](/statements/statement-15d3386acf60.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:38:06](/episodes/ep-UBkFkg4UNY8.md#t-00-38-06) (Citation) **Candace Owens**: ["Owens questioned whether Bill Ackman, Robert Shillman, or other large ..."](/statements/statement-9a3b1b4a8e51.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

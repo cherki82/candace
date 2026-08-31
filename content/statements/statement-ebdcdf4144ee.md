@@ -1,8 +1,8 @@
 ---
 title: "his father is Robert H. Richards, a retired partner in the R..."
-description: "\"his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm\" — Candace Owens"
+description: "\"his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm\" — Vanity Fair"
 statement_id: "statement-ebdcdf4144ee"
-speaker: "Candace Owens"
+speaker: "Vanity Fair"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,16 +15,22 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Vanity Fair](/entities/org-vanity-fair.md) (Quoted)
 
 **Delivery:** Quoted from article
-**Original Source:** The News Journal profile quoted by Candace Owens
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Vanity Fair
+
+## About
+
+- [Robert H. Richards III](/entities/person-robert-h-richards-iii.md) (person)
+- [Richards, Layton & Finger](/entities/org-richards-layton-finger.md) (org)
 
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(507);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=507s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tells us that his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm.
 

@@ -31,16 +31,16 @@ veracity: "true"
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:04:12](/episodes/ep-iHav0PPzUz8.md#t-00-04-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(252);return false;">Play</a>
+**Timestamp:** [00:04:12](/episodes/ep-iHav0PPzUz8.md#t-00-03-53) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=252s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it has been accurately reported that the plane is owned by a certain LSAI LLC—L-A-S-A-I L-L-C—regarding which there haven't been any more details provided because this has not exactly been the most transparent administration, as they claim they were going to be.
 
 ### 2. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:04:12](/episodes/ep-iHav0PPzUz8.md#t-00-03-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(252);return false;">Play</a>
+**Timestamp:** [00:04:12](/episodes/ep-iHav0PPzUz8.md#t-00-03-53) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=252s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can confirm that. And it has been accurately reported that the plane is owned by a certain LSAI LLC—L-A-S-A-I L-L-C
 

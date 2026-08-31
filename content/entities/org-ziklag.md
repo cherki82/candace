@@ -3,13 +3,21 @@ title: "Ziklag"
 description: "Ziklag (Organizations) - 2 mentions"
 id: "org-ziklag"
 type: "ORG"
+categories:
+  - "Christian donor network"
 ---
 
 _Type: Organizations_
 
+**Categories:** Christian donor network
+
+**Entity verification:** verified
+> The organization's official leadership site and contextual reporting confirm Ziklag as the Christian donor organization referenced in the transcript.
+Source: [Ziklag Leadership Team](https://goziklag.com/leadership/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39">2025-10-28 · 00:24:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39">2025-10-28 · 00:25:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39">2025-10-28 · 00:24:51</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -20,15 +28,15 @@ _Type: Organizations_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39) | 1 |
 
 </details>
 </section>
@@ -39,13 +47,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
 **[00:24:51](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39)**
 > "...from the Christian right. The Ziklag was the name of the organization.""
-
-**[00:25:03](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ziklag-t-00-24-39)**
-> "Ziklag was the organization for 5 million donors"
 
 </details>
 
@@ -64,7 +69,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:25:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39) (Claim) **George Webb** (via quoted speech): ["Ziklag was the organization for Christian right donors of $25 million ..."](/statements/statement-61471533362f.md)
+- [00:24:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39) (Claim) **George Webb** (via quoted speech): ["George Webb said Charlie Kirk was meeting with NAR, that NAR involved ..."](/statements/statement-61471533362f.md)
 
 </details>
 

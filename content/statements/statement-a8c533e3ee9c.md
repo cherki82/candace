@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1660);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1660s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a turning point faith is problematic, the organization is intended to be the Moonies 2.0, the intention behind the Moonies cult, by the way, in case it's not clear to you. ... Was one world government achieved through the concept of a unification church?
 

@@ -1,16 +1,17 @@
 ---
-title: "Neither the Pentagon nor the White House or our intel agenci..."
-description: "\"Neither the Pentagon nor the White House or our intel agencies or the Élysée Palace are disputing that the Macron couple paid for my assassination\" — Candace Owens"
+title: "Owens said the Pentagon, White House, U.S. intelligence agen..."
+description: "\"Owens said the Pentagon, White House, U.S. intelligence agencies, and Élysée Palace were not disputing her allegation that the Macron couple had appar...\" — Candace Owens"
 statement_id: "statement-532c5d81ba0d"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
-> Neither the Pentagon nor the White House or our intel agencies or the Élysée Palace are disputing that the Macron couple paid for my assassination
+> Owens said the Pentagon, White House, U.S. intelligence agencies, and Élysée Palace were not disputing her allegation that the Macron couple had apparently paid for her assassination.
 
 ## Attribution
 
@@ -29,14 +30,28 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(418);return false;">Play</a>
+**Timestamp:** [00:06:39](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=399s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And yet strangely, neither the Pentagon nor the White House or our intel agencies or the Élysée Palace are disputing that narrative.
+> People also laughed when I said that there was thereafter a viable threat, which came from the Macron couple who apparently paid for my assassination. And yet strangely, neither the Pentagon nor the White House or our intel agencies or the Élysée Palace are disputing that narrative.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Contemporaneous reporting through November 23 said no official French, Israeli, or U.S. response had been received to Owens's assassination allegation. Later reporting quoted the French Armed Forces Ministry disputing a related factual premise about French Foreign Legion training, but no complete public record was found establishing whether each named institution had specifically disputed the Macrons-paid-for-assassination allegation by the episode's December 8 publication date. The public-silence portion has support, but the categorical four-institution claim cannot be fully confirmed.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Owens Claims Macrons Targeted Her in Assassination Plot](https://www.benzinga.com/news/politics/25/11/49022727/candace-owens-claims-macrons-targeted-her-in-assassination-plot/)
+- [Candace Owens affirme que Macron a ordonné son assassinat sans aucune preuve](https://fr.euronews.com/my-europe/2025/11/27/linfluenceuse-candace-owens-affirme-que-macron-a-ordonne-son-assassinat-sans-aucune-preuve)
+
+*Verified: 2026-08-30T05:44:29.607985*
 
 ---
 

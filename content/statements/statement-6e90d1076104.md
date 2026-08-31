@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:18:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-18-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1094);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1094s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by the way, that dear friend she's referencing, of course, we now know is a priest, a priest that came over to pray over Charlie (Charlie Kirk) and Erika (Erika Kirk)'s marriage the night before is what I am told.
 

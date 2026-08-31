@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:24:07](/episodes/ep-his-JBjlkh8.md#t-00-23-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1447);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1447s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Egyptian planes hold the key, and that is obvious even in Blake Neff's statement.
 

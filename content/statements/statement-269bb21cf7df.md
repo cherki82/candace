@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:10:32](/episodes/ep-amqTMimDr0A.md#t-00-10-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(632);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=632s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his tweet defending me i am genuinely confused why asking questions and quoting bible verses about peace warrants a call to resign from the daily wire there should be more room in the conservative movement for disagreement we can do better than this
 

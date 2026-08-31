@@ -6,6 +6,11 @@ date: "2012"
 ---
 
 **Date:** 2012
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “back in 2012”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2012"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:07:15](/episodes/ep-ZzAT2xijKGQ.md#event-event-2012-jeffrey-epstein-and-the-princess-of-norw-t-00-06-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(435);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=435s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is a conversation back in 2012. Let's read it together.

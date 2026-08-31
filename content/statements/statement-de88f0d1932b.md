@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:57:32](/episodes/ep-y8lak3CRwDw.md#t-00-57-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3452);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=3452s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the Bolsheviks who created concentration camps just all magically disappeared and went to Israel. Just kidding. Nope, not kidding at all. They all went to Israel and they gave themselves new names, Hebrew sounding ones.
 

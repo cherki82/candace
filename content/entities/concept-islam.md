@@ -1,6 +1,6 @@
 ---
 title: "Islam"
-description: "Islam (Concepts) - 55 mentions"
+description: "Islam (Concepts) - 59 mentions"
 id: "concept-islam"
 type: "CONCEPT"
 aliases:
@@ -17,10 +17,10 @@ _Type: Concepts_
 **Categories:** religion
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51">2026-01-12 · 00:05:24</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-islam-t-00-51-26">2025-11-12 · 00:52:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-48-49">2026-08-07 · 00:48:49</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -31,6 +31,9 @@ _Type: Concepts_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38">Candace x Bassem Youssef | Candace Ep 298</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-islam-t-00-51-26" style="--pulse-height:12%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-islam-t-00-39-40" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-islam-t-00-26-01" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 17 mentions" title="2026-01-29 · 17 mentions"><span></span></a>
@@ -52,6 +55,9 @@ _Type: Concepts_
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-islam-t-00-51-26) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-islam-t-00-39-40) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-islam-t-00-26-01) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-30) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38) | 17 |
@@ -75,7 +81,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (5 mentions)</summary>
@@ -319,6 +325,33 @@ _Type: Concepts_
 
 **[00:05:24](/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51)**
 > "...angerous. You could sense the Muslims hated the Jews."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:26:35](/episodes/ep-w1oqQbR_bYs.md#ent-concept-islam-t-00-26-01)**
+> "Christians versus Muslims."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:39:57](/episodes/ep-581dILVcEE4.md#ent-concept-islam-t-00-39-40)**
+> "...ou come in with—whether it be Islam or ethno-nationalism—because we've gone through c..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+
+**[00:52:03](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-islam-t-00-51-26)**
+> "...re on the Daily Wire. Foreign Muslim immigrants are swarming into Europe, Australia, C..."
+
+**[00:52:50](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-islam-t-00-52-43)**
+> "...going to need to go fight the Muslim people in your community."
 
 </details>
 

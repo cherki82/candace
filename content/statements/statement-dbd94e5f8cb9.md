@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:51:37](/episodes/ep-HGtMfbePDKk.md#t-00-50-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3097);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=3097s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did read something. I didn't know about this. I mean, I didn't know who Andrew Wilson was, to be fair. ... I did someone sent me the tweet that his wife wrote. ... years ago, saying that he was a sniper in the army. ... And then I saw they said that he then denied that or said he only spent some time in the army, maybe he was a sniper in the army, I don't know, I don't know anything about him.
 

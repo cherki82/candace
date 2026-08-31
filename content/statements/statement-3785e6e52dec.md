@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:21:25](/episodes/ep-5autG89PW6w.md#t-00-20-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1285);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1285s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Three people told me off-record—two people who have this in a written communication from Charlie (Charlie Kirk), one who is a Turning Point
 

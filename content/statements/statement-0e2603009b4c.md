@@ -1,8 +1,8 @@
 ---
 title: "The class's objective was to teach military personnel to inf..."
-description: "\"The class's objective was to teach military personnel to infiltrate Christian groups and organizations through covert psychological operations, with t...\" — Anonymous Source #3 (Ep ewBzjVe3LNQ)"
+description: "\"The class's objective was to teach military personnel to infiltrate Christian groups and organizations through covert psychological operations, with t...\" — Distressed Fort Huachuca military student (identity unverified)"
 statement_id: "statement-0e2603009b4c"
-speaker: "Anonymous Source #3 (Ep ewBzjVe3LNQ)"
+speaker: "Distressed Fort Huachuca military student (identity unverified)"
 type: "factual_claim"
 ---
 
@@ -14,11 +14,11 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #3 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-003.md) (Anonymous Source)
+**Speaker:** [Distressed Fort Huachuca military student (identity unverified)](/entities/anon-src-ewBzjVe3LNQ-distressed-military-student.md) (Anonymous Source)
 
-**Delivery:** Read from message
+**Delivery:** Quoted from document
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** email
+**Original Source:** Email from Sierra Vista gym owner
 
 ## About
 
@@ -28,8 +28,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:16:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(962);return false;">Play</a>
+**Timestamp:** [00:16:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-58) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=962s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The class's objective was to teach military personnel to infiltrate Christian groups and organizations through covert psychological operations. The training focused specifically on deceiving Christians.
 

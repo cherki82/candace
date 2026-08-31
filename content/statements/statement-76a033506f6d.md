@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:01:13](/episodes/ep-E7P2ShoYDUA.md#t-00-00-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(73);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=73s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Kirk, the CEO and chairwoman, ruined this organization in under a year, which is incredible.
 

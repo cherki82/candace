@@ -25,8 +25,8 @@ type: "promise"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:50:30](/episodes/ep-7RLtGgkTh9o.md#t-00-50-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3030);return false;">Play</a>
+**Timestamp:** [00:50:30](/episodes/ep-7RLtGgkTh9o.md#t-00-50-10) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=3030s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said to you, I had to try to get this to the right people in government. And those individuals asked me to wait until this weekend. The reason why they wanted me to wait is because this is the first time that we have the advantage. I don't know what to say other than it's—it's positively explosive.
 

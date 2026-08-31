@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:29:47](/episodes/ep-y8lak3CRwDw.md#t-00-29-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1787);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1787s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Erika replies and says, one of my best friends was in the theater. So although my acknowledgement has not been blasted via social media, it's been more on a personal level.
 

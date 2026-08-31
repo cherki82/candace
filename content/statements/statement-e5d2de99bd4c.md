@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:27:33](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1653);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1653s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is what we mean when we say that this case is going to be a show trial. That's a show trial.
 

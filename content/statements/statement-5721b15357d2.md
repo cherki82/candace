@@ -1,8 +1,8 @@
 ---
-title: "Robinson says, 'A bit over a week, I believe.' (referring to..."
-description: "\"Robinson says, 'A bit over a week, I believe.' (referring to how long he had been planning the shooting)\" — Candace Owens"
+title: "Tyler Robinson reportedly said he had been planning the shoo..."
+description: "\"Tyler Robinson reportedly said he had been planning the shooting for 'a bit over a week, I believe.'\" — Tyler Robinson"
 statement_id: "statement-5721b15357d2"
-speaker: "Candace Owens"
+speaker: "Tyler Robinson"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,22 +11,27 @@ veracity: "true"
 
 ## Statement
 
-> Robinson says, 'A bit over a week, I believe.' (referring to how long he had been planning the shooting)
+> Tyler Robinson reportedly said he had been planning the shooting for 'a bit over a week, I believe.'
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Tyler Robinson](/entities/person-tyler-robinson.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Utah County probable cause statement quoting text messages
+
+## About
+
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:21:59](/episodes/ep-q7f8r-THr84.md#t-00-21-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1319);return false;">Play</a>
+**Timestamp:** [00:21:56](/episodes/ep-q7f8r-THr84.md#t-00-21-56) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=1316s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I haven't seen anything about them finding it." Roommate says, "How long have you been planning this?" Robinson says, "A bit over a week, I believe
+> Roommate says, "How long have you been planning this?" Robinson says, "A bit over a week, I believe.
 
 ## Verification
 

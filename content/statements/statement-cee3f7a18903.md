@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:14:51](/episodes/ep-Dkxa9OUA9K8.md#t-01-14-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=4491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you I never, ... never did ... guns I ask, never did I ask Corey (Corey Kennedy), Corby (Corby Hall) for 50,000 weapons. Why? I have an FFL. ... I only buy stuff for ourself, for our training. That's ridiculous. That's absurd.
 

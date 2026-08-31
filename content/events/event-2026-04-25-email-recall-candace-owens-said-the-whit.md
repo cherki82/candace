@@ -6,6 +6,11 @@ date: "2026-04-25"
 ---
 
 **Date:** 2026-04-25
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “after the 9:49 p.m. email”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-04-25"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:10:48](/episodes/ep-7FS1tUeSfdE.md#event-event-2026-04-25-email-recall-candace-owens-said-the-whit-t-00-10-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(648);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=648s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > White House military office panicked and they attempted to rescind the email.

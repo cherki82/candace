@@ -101,7 +101,7 @@ _No relationships extracted yet._
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2)</summary>
 
 - [00:15:26](/episodes/ep-AoYZel7_cGQ.md#t-00-15-26) (Citation) **Candace Owens**: ["Candace Owens cited Sky 12 News reporting that Charlie Kirk was headed..."](/statements/statement-13e8451b2434.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [12News](/entities/org-12news-kpnx.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [12News](/entities/org-12news-kpnx.md), [Phoenix](/entities/gpe-phoenix.md)
 
 - [00:22:01](/episodes/ep-AoYZel7_cGQ.md#t-00-22-01) (Claim) **Anonymous Source #1 (Ep AoYZel7_cGQ)** (via read message): ["An anonymous source alleged that Hansen Mortuaries refused to particip..."](/statements/statement-40e87edc7551.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Catholic Church](/entities/org-catholic-church.md)

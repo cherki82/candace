@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:52:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3151);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=3151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because when these powerful families decided to start the Tesseract School in Arizona, ... they began with a small school in Paradise Valley first. ... It is that specific school that Erica (Erika Kirk) attended that is virtually impossible to come by many documents regarding. ... They needed a space for the school and they decided they were going to rent the building that was owned by a Jewish school. ... was called Gan Yeladeem: The Looking Glass School.
 

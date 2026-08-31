@@ -1,39 +1,35 @@
 ---
-title: "Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Q..."
-description: "\"Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Qatar's relationship with Hamas was established at the request of the U.S. government\" — Mohammed bin Abdulrahman Al Thani"
+title: "Owens said global trafficking was, in her view, a plausible ..."
+description: "\"Owens said global trafficking was, in her view, a plausible factor and that Charlie Kirk may have come up against a global-governance network.\" — Candace Owens"
 statement_id: "statement-7e8f3a0ab35e"
-speaker: "Mohammed bin Abdulrahman Al Thani"
-type: "factual_claim"
+speaker: "Candace Owens"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Qatar's relationship with Hamas was established at the request of the U.S. government
+> Owens said global trafficking was, in her view, a plausible factor and that Charlie Kirk may have come up against a global-governance network.
 
 ## Attribution
 
-**Speaker:** [Mohammed bin Abdulrahman Al Thani](/entities/person-mohammed-bin-abdulrahman-al-thani.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Paraphrased
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Tucker Carlson interview at the Doha Forum
+**Delivery:** Made directly
 
 ## About
 
-- [Qatar](/entities/gpe-qatar.md) (gpe)
-- [Hamas](/entities/org-hamas.md) (org)
-- [Tucker Carlson](/entities/person-tucker-carlson.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:39:49](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2389);return false;">Play</a>
+**Timestamp:** [00:19:16](/episodes/ep-Kmt6HgRjckU.md#t-00-18-56) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1156s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I think, actually, just this past weekend, it was revealed, am I correct that, oh, Qatar came out, tuck across in an interview, And they said, the reason why we have a relationship with Hamas is because the U.S
+> And trafficking is definitively to me a plausibility because I believe ... I am very much thinking that it is definitively a sensible and a rational plausibility that Charlie Kirk came up against this gang, right?
 
 ## Verification
 
@@ -55,4 +51,4 @@ The primary interview clip records the Qatari prime minister saying the United S
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [About us | Airbnb Newsroom](https://news.airbnb.com/about-us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-30">2025-11-05 · 00:10:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-19">2025-11-05 · 00:10:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-airbnb-t-00-02-22">2026-05-06 · 00:02:39</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -31,7 +31,7 @@ Source: [About us | Airbnb Newsroom](https://news.airbnb.com/about-us/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-airbnb-t-00-41-37">Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-30" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-19" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-airbnb-t-00-41-37" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-airbnb-t-00-02-22" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
@@ -39,7 +39,7 @@ Source: [About us | Airbnb Newsroom](https://news.airbnb.com/about-us/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-30) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-19) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-airbnb-t-00-41-37) | 2 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-airbnb-t-00-02-22) | 1 |
 
@@ -73,7 +73,7 @@ Source: [About us | Airbnb Newsroom](https://news.airbnb.com/about-us/)
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:10:41](/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-30)**
+**[00:10:41](/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-19)**
 > "...ey to a Cuomo-affiliated super PAC. He gave $8.3 million to stop Mamdani, and it didn't matter. The Airbnb co-founder, Joe Gebbia, gave $3.1 million. It didn't matter. The Tisch family gave $1.2 million. It..."
 
 </details>
@@ -89,7 +89,7 @@ Source: [About us | Airbnb Newsroom](https://news.airbnb.com/about-us/)
 - **[Joe Gebbia](/entities/person-joe-gebbia.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30): “The Airbnb co-founder, Joe Gebbia”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-19): “The Airbnb co-founder, Joe Gebbia”
 
 </details>
 
@@ -101,7 +101,7 @@ Source: [About us | Airbnb Newsroom](https://news.airbnb.com/about-us/)
 - **[Joe Gebbia](/entities/person-joe-gebbia.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30): “The Airbnb co-founder, Joe Gebbia”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-19): “The Airbnb co-founder, Joe Gebbia”
 
 </details>
 

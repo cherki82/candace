@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:05:49](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(349);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=349s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I hate to be the one to tell you this, but your wife is actually going to offer your members and your security team a raise after your assassination, like she did to Dan Flood.
 

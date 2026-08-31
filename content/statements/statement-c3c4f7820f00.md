@@ -1,6 +1,6 @@
 ---
-title: "This person's been around Turning Point for quite some time,..."
-description: "\"This person's been around Turning Point for quite some time, for years... back when I was working at Turning Point, early days\" — Candace Owens"
+title: "This person had been around Turning Point for years, includi..."
+description: "\"This person had been around Turning Point for years, including when Owens worked there in the early days\" — Candace Owens"
 statement_id: "statement-c3c4f7820f00"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> This person's been around Turning Point for quite some time, for years... back when I was working at Turning Point, early days
+> This person had been around Turning Point for years, including when Owens worked there in the early days
 
 ## Attribution
 
@@ -22,10 +22,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:06:41](/episodes/ep-aDlhjfW6hz8.md#t-00-06-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(401);return false;">Play</a>
+**Timestamp:** [00:06:37](/episodes/ep-aDlhjfW6hz8.md#t-00-06-22) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=397s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> This person's been around Turning Point for quite some time, for years.
+> This person's been around Turning Point for quite some time, for years. Like I said, back when I was working at Turning Point, early days.
 
 ## Verification
 

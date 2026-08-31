@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:37:35](/episodes/ep-ja26iltROkM.md#t-00-37-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2255);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=2255s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But also, if you call everyone an anti-Semite if they don't take a puritanical view of the Netanyahu government, then I think that's... it's bad for everybody."
 

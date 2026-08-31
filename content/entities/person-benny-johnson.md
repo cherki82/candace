@@ -1,6 +1,6 @@
 ---
 title: "Benny Johnson"
-description: "Benny Johnson (People) - 14 mentions"
+description: "Benny Johnson (People) - 13 mentions"
 id: "person-benny-johnson"
 type: "PERSON"
 categories:
@@ -17,10 +17,10 @@ _Type: People_
 Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18">2025-09-19 · 00:42:51</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-46">2025-09-19 · 00:42:46</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-benny-johnson-t-00-17-21">2026-08-07 · 00:17:21</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -31,7 +31,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18" style="--pulse-height:40%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-46" style="--pulse-height:20%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-benny-johnson-t-00-46-52" style="--pulse-height:40%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-benny-johnson-t-00-04-29" style="--pulse-height:20%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
@@ -44,7 +44,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-46) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-benny-johnson-t-00-46-52) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46) | 5 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-benny-johnson-t-00-04-29) | 1 |
@@ -59,7 +59,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -133,12 +133,9 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:42:51](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18)**
-> "...n Carr of the FCC was joining Benny Johnson."
-
-**[00:42:52](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18)**
+**[00:42:46](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-46)**
 > "Brendan Carr of the FCC was joining Benny Johnson"
 
 </details>
@@ -147,6 +144,18 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Brendan Carr](/entities/person-brendan-carr.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:46](/episodes/ep-aDlhjfW6hz8.md#t-00-42-46): “That's what happened. Brendan Carr of the FCC was joining Benny Johnson.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Criticized By (1)</summary>
@@ -161,14 +170,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 </details>
 
 <details>
-<summary>Interviewed (2)</summary>
-
-- **[Brendan Carr](/entities/person-brendan-carr.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:52](/episodes/ep-aDlhjfW6hz8.md#t-00-42-18): “Brendan Carr of the FCC was joining Benny Johnson”
-
-</details>
+<summary>Interviewed (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -182,17 +184,17 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 <details>
 <summary>Referenced By (3)</summary>
 
+- **[Brendan Carr](/entities/person-brendan-carr.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:46](/episodes/ep-aDlhjfW6hz8.md#t-00-42-46): “That's what happened. Brendan Carr of the FCC was joining Benny Johnson.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:52:59](/episodes/ep-EtLHqDbxqks.md#t-00-52-59): “There is no other explanation for how people could lie like this. I mean, I'm shocked. I'm shocked at Benny Johnson.”
-
-</details>
-
-- **[Brendan Carr](/entities/person-brendan-carr.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:52](/episodes/ep-aDlhjfW6hz8.md#t-00-42-18): “Brendan Carr of the FCC was joining Benny Johnson”
 
 </details>
 

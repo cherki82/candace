@@ -1,6 +1,6 @@
 ---
-title: "Tyler Boyer lied and said Terrell was asked to take the came..."
-description: "\"Tyler Boyer lied and said Terrell was asked to take the camera down by police. That's not true. The police asked him to secure the footage after he ha...\" — Candace Owens"
+title: "Candace Owens accused Tyler Bowyer of falsely saying police ..."
+description: "\"Candace Owens accused Tyler Bowyer of falsely saying police asked Terrell Farnsworth to take the camera down; Owens said police or a federal officer a...\" — Candace Owens"
 statement_id: "statement-420d234f80d5"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Tyler Boyer lied and said Terrell was asked to take the camera down by police. That's not true. The police asked him to secure the footage after he had already taken it down
+> Candace Owens accused Tyler Bowyer of falsely saying police asked Terrell Farnsworth to take the camera down; Owens said police or a federal officer asked Farnsworth to secure the footage only after he had taken the cameras down.
 
 ## Attribution
 
@@ -20,16 +20,16 @@ type: "accusation"
 
 ## About
 
-- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) (person)
 
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(643);return false;">Play</a>
+**Timestamp:** [00:10:32](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=632s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And I obviously do not like the fact that I said, you know, Tyler (Tyler (Tyler Robinson)) Boyer lied about this thing and said, he came up with an excuse and said, well, Terrell was asked to take the camera down. That's the reason, he said on Twitter. because the police wanted him to take it down and secure the footage. And I said, I know that's not true. And they said, well, after all of that, yeah, after he took the cameras down, there was a police officer or Fed, whoever it was that spoke to him and asked him to secure the footage.
+> And I obviously do not like the fact that I said, you know, Tyler Bowyer lied about this thing and said, he came up with an excuse and said, well, Terrell was asked to take the camera down. That's the reason, he said on Twitter. because the police wanted him to take it down and secure the footage. And I said, I know that's not true. And they said, well, after all of that, yeah, after he took the cameras down, there was a police officer or Fed, whoever it was that spoke to him and asked him to secure the footage.
 
 ## Verification
 

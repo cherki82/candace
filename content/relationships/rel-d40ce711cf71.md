@@ -11,7 +11,7 @@ object: "person-tyler-bowyer"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
@@ -28,6 +28,10 @@ object: "person-tyler-bowyer"
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
 - [00:27:18](/episodes/ep-ds6umq1rHAw#t-00-27-18): _the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm._
+
+**[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
+
+- [00:21:02](/episodes/ep-pc3pxRyNFZk#t-00-21-02): _I told you Tyler Bowyer lied. He just lied._
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:12:28](/episodes/ep-SKNJPul29zU.md#t-01-12-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4348);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4348s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What was that guy's name? Former Trump (Donald Trump) administration official who's now like running like a propaganda arm of the Israeli government as we speak. ... Parscale yes
 

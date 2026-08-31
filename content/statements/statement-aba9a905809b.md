@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:12:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-12-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(759);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=759s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were not there to protect. Ancient ruins we were there to plunder and to loot and to steal.
 

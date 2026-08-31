@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:01:21](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(81);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=81s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, I believe on the basis of evidence that Charlie (Charlie Kirk)'s murder was likely a very sophisticated military operation that was meant, and here's the funny part, this is how insane these people are, ironically, they wanted his murder to galvanize.
 

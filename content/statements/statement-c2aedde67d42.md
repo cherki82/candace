@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:42:08](/episodes/ep-N4uM8Jdr410.md#t-00-42-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2528);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=2528s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do think that Andrew (Andrew Kolvet) has heard of Fort Huachuca. I do. Just by the nature of where he lives, by the nature of what Erika (Erika Kirk)'s family does, what his family does, he's heard of Fort Huachuca. ... It wasn't some fort. I think he's lying through his teeth about that. Oh, some fort, ha ha.
 

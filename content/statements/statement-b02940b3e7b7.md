@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:30:49](/episodes/ep-aDlhjfW6hz8.md#t-00-30-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1849);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1849s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I think something sinister is going on here.
 

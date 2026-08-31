@@ -1,6 +1,6 @@
 ---
-title: "Tony Burke, thank you for banning us from an entire country"
-description: "\"Tony Burke, thank you for banning us from an entire country\" — Candace Owens"
+title: "Owens said Australian minister Tony Burke had banned her fro..."
+description: "\"Owens said Australian minister Tony Burke had banned her from Australia.\" — Candace Owens"
 statement_id: "statement-4cfcc5a64063"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Tony Burke, thank you for banning us from an entire country
+> Owens said Australian minister Tony Burke had banned her from Australia.
 
 ## Attribution
 
@@ -20,13 +20,18 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Tony Burke](/entities/person-tony-burke.md) (person)
+- [Australia](/entities/gpe-australia.md) (gpe)
+
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:04:13](/episodes/ep-vwG1juDCQZQ.md#t-00-03-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(253);return false;">Play</a>
+**Timestamp:** [00:04:07](/episodes/ep-vwG1juDCQZQ.md#t-00-03-52) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=247s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Tony Burke, thank you for banning us from an entire country
+> We see you, Australia. Tony Burke, thank you for banning us from an entire country. Even though I didn't do nothing—I literally didn't do nothing—but I'm banned.
 
 ## Verification
 

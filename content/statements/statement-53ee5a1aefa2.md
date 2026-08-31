@@ -3,7 +3,7 @@ title: "They know what the Freemasons were up to, Freemasons who cau..."
 description: "\"They know what the Freemasons were up to, Freemasons who caused all of those revolutions against really the Christian empire across Europe.\" — Candace Owens"
 statement_id: "statement-53ee5a1aefa2"
 speaker: "Candace Owens"
-type: "opinion"
+type: "factual_claim"
 ---
 
 **Status:** ○ Not yet verified
@@ -19,18 +19,23 @@ type: "opinion"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Freemasons](/entities/org-freemasons.md) (org)
+- [Europe](/entities/gpe-europe.md) (gpe)
+
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:03:59](/episodes/ep-a-e7HC6SeK8.md#t-00-03-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(239);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=239s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They know what the Freemasons were up to—Freemasons who caused all of those revolutions against really the Christian empire across Europe
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Factual Claim | **Verifiable:** Yes

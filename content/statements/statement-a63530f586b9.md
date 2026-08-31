@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:33:59](/episodes/ep-ZAuuSq_j2_w.md#t-00-33-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=2039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > " And this inconvenience that people who actually cared about Charlie (Charlie Kirk) and saw him as a—I don't know—human being, a human being, want to know why he was publicly executed in front of us and why we're being lied to about everything.
 

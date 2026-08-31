@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:29:50](/episodes/ep-5autG89PW6w.md#t-00-29-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1790);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1790s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then did they tear the crime scene down immediately? Just right off the bat from seeing it—knowing
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:38:10](/episodes/ep-1CFDtD0IgEg.md#t-00-38-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2290);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2290s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Filmed in the afternoon on the day the school was struck, the distinctive tail fins of a Tomahawk missile can be clearly seen. ... America is the only force in this conflict that uses Tomahawks.
 

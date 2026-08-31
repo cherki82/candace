@@ -3,9 +3,17 @@ title: "Corey Comparatore"
 description: "Corey Comparatore (People) - 2 mentions"
 id: "person-corey-comparatore"
 type: "PERSON"
+categories:
+  - "Butler rally shooting victim"
 ---
 
 _Type: People_
+
+**Categories:** Butler rally shooting victim
+
+**Entity verification:** verified
+> The Commonwealth of Pennsylvania identifies the canonical name Corey Comperatore and reports that he was killed at the Butler County rally.
+Source: [Governor Shapiro Orders Flags to Half-Staff in Honor of Corey Comperatore](https://www.pa.gov/governor/newsroom/2024-press-releases/governor-shapiro-orders-us--commonwealth-flags-to-half-staff-in-1)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-corey-comparatore-t-00-20-29">2025-09-24 · 00:20:50</a></strong></div>

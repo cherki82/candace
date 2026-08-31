@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:04:10](/episodes/ep-ja26iltROkM.md#t-00-04-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(250);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=250s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it is just a fact that Charlie (Charlie Kirk) just loved the Lord.
 

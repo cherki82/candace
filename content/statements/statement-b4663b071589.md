@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:21:22](/episodes/ep-cPidFQDJLbo.md#t-00-20-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1282);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1282s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > corporate life insurance policy, which included, I am told, a $10 million payout for Erika (Erika Kirk) and the children.
 

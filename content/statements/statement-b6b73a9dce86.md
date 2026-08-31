@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2011);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2011s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > tens of thousands of innocent Palestinians have been killed. ... and that they've been intentionally targeted because they're conducting a genocide
 

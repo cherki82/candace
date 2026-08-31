@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:31:54](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1914);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1914s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was, you know, uneventful. And we had a prerecord for hour two, actually, so it's probably two in the weeds, but he's texting me on his way and he's going over talking points about polygamy because he's going to Utah and why is monogamy important and, you know, we're. ... exactly it directs male energies in the right direction societal building all these things and that was about uh i think i had it was like 33 minutes before he was killed
 

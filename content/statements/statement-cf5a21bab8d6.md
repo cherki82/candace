@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:26:31](/episodes/ep-mKXdKV-OBog.md#t-00-26-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1591);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1591s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he did support him. Jonathan spent 30 years in prison on espionage charges after being found to have pretended to
 

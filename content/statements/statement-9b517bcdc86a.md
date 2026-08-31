@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:38:59](/episodes/ep-k1b1NDCrNFs.md#t-00-38-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2339);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2339s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > or an incident report with George Farmer in the late summer of 2024 when we were contacted, we were the ones who were told through our PR team that they were trying to get the New York Post to publish it. The Daily Wire had found a report and they were trying to push the New York Post to publish it. I want to be clear, Charlie (Charlie Kirk) was alive and well during this time and actually was one of the people that I was speaking to about how insane and deranged their attacks had become. After looking into that report that he's referring to, the New York Post declined to publish. They then tried to go to lower rung publications. I believe the Daily Beast might have been one of them. I'll have to fact check that.
 

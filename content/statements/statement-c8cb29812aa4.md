@@ -1,6 +1,6 @@
 ---
-title: "The deep state is involved in Charlie Kirk's assassination a..."
-description: "\"The deep state is involved in Charlie Kirk's assassination and multiple states are involved\" — Candace Owens"
+title: "Owens said she truly believed the deep state and multiple st..."
+description: "\"Owens said she truly believed the deep state and multiple states were involved in Charlie Kirk's assassination.\" — Candace Owens"
 statement_id: "statement-c8cb29812aa4"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> The deep state is involved in Charlie Kirk's assassination and multiple states are involved
+> Owens said she truly believed the deep state and multiple states were involved in Charlie Kirk's assassination.
 
 ## Attribution
 
@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:35:11](/episodes/ep-Kmt6HgRjckU.md#t-00-35-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2111);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=2111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I truly believe that the deep state is involved in this assassination and multiple states are involved.
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:14:04](/episodes/ep-h76ZN-xXC6c.md#t-00-13-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(844);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=844s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They weren't brought down there. Why? Well, my belief is because the bomb dogs would have smelled it instantly.
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:34:52](/episodes/ep-YA1FxrDWNIo.md#t-00-34-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2092);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=2092s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Netanyahu said they were close, but in the letter, Charlie (Charlie Kirk) puts his number—which apparently Netanyahu didn't have his number
 

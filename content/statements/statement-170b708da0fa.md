@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:44:57](/episodes/ep-JQjCAsfoXEE.md#t-00-44-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2697);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2697s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, we're going to keep asking them because I know there are snakes at Turning Point USA, and I'm going to reveal more to you guys tomorrow.
 

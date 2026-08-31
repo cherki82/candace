@@ -1,8 +1,8 @@
 ---
-title: "He says to Lance, allegedly, quote, \"I worry about prints.\" ..."
-description: "\"He says to Lance, allegedly, quote, \"I worry about prints.\" \"I had to leave it,\" referring to the rifle, \"in a bush where I changed outfits.\"\" — Candace Owens"
+title: "Tyler Robinson allegedly wrote to Lance, \"I worry about prin..."
+description: "\"Tyler Robinson allegedly wrote to Lance, \"I worry about prints\" and \"I had to leave it ... in a bush where I changed outfits.\"\" — Tyler Robinson"
 statement_id: "statement-95e637c0a3f4"
-speaker: "Candace Owens"
+speaker: "Tyler Robinson"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,22 +11,23 @@ veracity: "true"
 
 ## Statement
 
-> He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush where I changed outfits."
+> Tyler Robinson allegedly wrote to Lance, "I worry about prints" and "I had to leave it ... in a bush where I changed outfits."
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Tyler Robinson](/entities/person-tyler-robinson.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** alleged text messages to Lance Twiggs
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(201);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush where I changed outfits." Wait, changed outfits
+> He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush where I changed outfits."
 
 ## Verification
 

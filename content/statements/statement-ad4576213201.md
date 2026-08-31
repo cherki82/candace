@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:03:18](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(198);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > currently there is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
 
@@ -37,7 +37,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:03:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(218);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=218s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > currently there is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk.
 
@@ -45,7 +45,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:03:18](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(198);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We should take a look at their current case against Tyler Robinson to see if we should accept this narrative because currently there is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk.
 
@@ -53,7 +53,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:03:06](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We should take a look at their current case against Tyler Robinson to see if we should accept this narrative because currently there is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk.
 
@@ -61,7 +61,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:03:06](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We should take a look at their current case against Tyler Robinson to see if we should accept this narrative because currently there is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk.
 

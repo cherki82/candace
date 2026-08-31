@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:45:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-45-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2755);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=2755s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is what Jimmy Kimmel did to the first lady. He said that she had the glow of an expected widow.
 

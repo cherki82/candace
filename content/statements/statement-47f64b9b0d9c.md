@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:05:44](/episodes/ep-19vHhjF7-NA.md#t-00-05-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(344);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=344s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, they straight up, like I said, admitted that they created the modern state of Israel. They chose, selected the flag of it, the seal of Solomon, straight occult.
 

@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 113 mentions"
+description: "Christians (Concepts) - 116 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -17,12 +17,12 @@ _Type: Concepts_
 Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-christians/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
 <div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>113</strong></div>
+<div><span>Mentions</span><strong>116</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,24 +34,24 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17" style="--pulse-height:10%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-concept-christians-t-00-11-35" style="--pulse-height:20%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-concept-christians-t-00-43-43" style="--pulse-height:10%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55" style="--pulse-height:30%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-44" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-concept-christians-t-00-41-43" style="--pulse-height:10%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-38-18" style="--pulse-height:30%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-51-43" style="--pulse-height:30%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-10" style="--pulse-height:40%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 4 mentions" title="2025-11-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-05" style="--pulse-height:40%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 4 mentions" title="2025-11-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41" style="--pulse-height:20%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-29-00" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29" style="--pulse-height:10%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-44" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-concept-christians-t-00-03-32" style="--pulse-height:10%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-16" style="--pulse-height:10%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-09" style="--pulse-height:10%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-45" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-christians-t-00-04-18" style="--pulse-height:70%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 7 mentions" title="2025-12-02 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-christians-t-00-11-59" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-christians-t-00-51-31" style="--pulse-height:10%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-christians-t-00-16-13" style="--pulse-height:20%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-19-20" style="--pulse-height:10%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-concept-christians-t-00-15-58" style="--pulse-height:40%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-christians-t-00-26-01" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-christians-t-01-03-38" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-christians-t-01-03-25" style="--pulse-height:10%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
@@ -91,24 +91,24 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-christians-t-00-11-35) | 2 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christians-t-00-43-43) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55) | 3 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-44) | 2 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-concept-christians-t-00-41-43) | 1 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-38-18) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-51-43) | 3 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-10) | 4 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-05) | 4 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-29-00) | 2 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-44) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-concept-christians-t-00-03-32) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-16) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-09) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-45) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-christians-t-00-04-18) | 7 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-christians-t-00-11-59) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-christians-t-00-51-31) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-christians-t-00-16-13) | 2 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-19-20) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-concept-christians-t-00-15-58) | 4 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christians-t-00-26-01) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-christians-t-01-03-38) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-christians-t-01-03-25) | 1 |
@@ -147,7 +147,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+<summary><strong class="section-title">Raw mentions (116)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -512,10 +512,19 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
-**[00:20:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-19-20)**
+**[00:19:55](/episodes/ep-ewBzjVe3LNQ.md#ent-concept-christians-t-00-15-58)**
 > "two recently baptized Christians"
+
+**[00:13:09](/episodes/ep-ewBzjVe3LNQ.md#ent-concept-christians-t-00-12-46)**
+> "...hey are two recently baptized Christians. Like I said, they grew up in this area, Sierra V..."
+
+**[00:16:12](/episodes/ep-ewBzjVe3LNQ.md#ent-concept-christians-t-00-15-58)**
+> "...sed specifically on deceiving Christians. At the time, I didn't fully connect the dots. Ou..."
+
+**[01:13:51](/episodes/ep-ewBzjVe3LNQ.md#ent-concept-christians-t-01-13-30)**
+> "... follow you and they are true Christians."
 
 </details>
 
@@ -526,7 +535,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > "... their rights, Muslims versus Christians, wealthy bankers that want resources, okay?"
 
 **[00:39:23](/episodes/ep-Kmt6HgRjckU.md#ent-concept-christians-t-00-39-23)**
-> "...d in all these countries that Christians are being massed, murdered, and slaughtered, and ..."
+> "Ultimately, it has always been a war on Christ, and that's why you just find in all these countries that Christians are being mass murdered and slaughtered, and the finger is being pointed at Muslims."
 
 </details>
 
@@ -583,10 +592,10 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:48:21](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
+**[00:48:21](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-45)**
 > "... do every single day. Redenta Mama writes: "My fingers are tired from pushing back on quote-unquote Christians on X calling you sinister. I said he's paid or he's not listening. He used me to claim that you tra..."
 
-**[00:48:33](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
+**[00:48:33](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-48-22)**
 > "...on about things, and you should. And you're seeing that it is—like I said—very strange that so many Christians are now trying to tell us that it's not biblical to pursue truth, right? Of course, you have to ask..."
 
 </details>
@@ -594,7 +603,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:42:16](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-16)**
+**[00:42:09](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-09)**
 > "...ave so many megachurches everywhere—everywhere across America. And they basically exist to convince Christians to worship the IDF. I just find that to be quite strange. Let me know if I'm out of pocket here and..."
 
 </details>
@@ -603,14 +612,14 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
 **[00:03:32](/episodes/ep-JQjCAsfoXEE.md#ent-concept-christians-t-00-03-32)**
-> "...t's time to just humble yourself and not make it all about you. It's about the Lord. You hear that, Christians? Asking questions is just—it's not about you. I mean, is there anything that they didn't try? You'r..."
+> "You hear that, Christians?"
 
 </details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:54:16](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48)**
+**[00:54:13](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-44)**
 > "...they should be fearful. Whatever they are hiding, I'm going to find. Christopher Jolly writes, "Are Christians." "Many LDS members like me love your work." "Any crooks—please bust them." "We want truth." "Wheat..."
 
 </details>
@@ -648,13 +657,13 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (4 mentions)</summary>
 
-**[00:14:18](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-10)**
+**[00:14:18](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-05)**
 > "...nd now you've got this church, and they are a part of what is described online as a cult. It's like Christians for Jews. You look into it yourself. I honestly can't explain it, but that's just something that yo..."
 
-**[00:33:22](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-33-02)**
+**[00:33:19](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-33-02)**
 > "...he case of the whole hero of the New Testament, the human hero—was a guy called Paul, was murdering Christians as a Pharisee and then becomes the greatest proselytizer from the history of Christianity—and my pe..."
 
-**[00:35:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-34-39)**
+**[00:34:58](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-34-53)**
 > "...f movements where people are just tired of it. They're just tired of this. This is not the way that Christians think, actually. We very much don't live in a Christian society because we live in a Christian Zion..."
 
 **[00:39:00](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-38-31)**
@@ -685,7 +694,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 **[00:38:52](/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-38-52)**
 > "...t he thinks that actually the Christians who put Israel above their own government and bel..."
 
-**[00:40:33](/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-39-54)**
+**[00:40:30](/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-40-30)**
 > "...are—people that pretend to be Christians"
 
 </details>
@@ -699,15 +708,12 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:48:55](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+**[00:48:55](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-44)**
 > "...but they take money from an agent of Israel or an organization like the International Fellowship of Christians and Jews, which, if you go to their website, it's basically like, hey, Christians, here's what you ..."
 
-**[00:49:08](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
-> "...nal Fellowship of Christians and Jews, which, if you go to their website, it's basically like, hey, Christians, here's what you can do for Jews. There's nothing that's spoken about what Christians are going thr..."
-
-**[00:49:12](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+**[00:49:12](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-44)**
 > "...ly like, hey, Christians, here's what you can do for Jews. There's nothing that's spoken about what Christians are going through. And they flood money into that and they get you to say that it's like a fellowsh..."
 
 </details>
@@ -734,7 +740,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:52:37](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17)**
+**[00:52:34](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17)**
 > "...rapple with principles you've been espousing for years—like America First, like what's happening to Christians, like what's best for us and our kids here? How do I keep them safe? That's my number one priority...."
 
 </details>
@@ -749,7 +755,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christians (13)</strong></summary>
+<summary><strong class="section-title">Statements about Christians (15)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
@@ -828,9 +834,20 @@ _No relationships extracted yet._
 </details>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+
+- [00:48:01](/episodes/ep-a-e7HC6SeK8.md#t-00-47-57) (Claim) **Anonymous Source #7 (Ep a-e7HC6SeK8)** (via read message): ["An anonymous research source told Owens that Turning Point USA planned..."](/statements/statement-655438315105.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:53:00](/episodes/ep-a-e7HC6SeK8.md#t-00-52-57) (Accusation) **Candace Owens**: ["Owens alleged that the Bolsheviks she believes are in America regard m..."](/statements/statement-71b65c02b62a.md)
+  - Also about: [Bolsheviks](/entities/concept-bolsheviks.md)
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:30:38](/episodes/ep-7RLtGgkTh9o.md#t-00-30-07) (Accusation) **Candace Owens**: ["The hippie movement was not organic. It was a psychological operation ..."](/statements/statement-5c07c647dbdc.md)
+- [00:30:38](/episodes/ep-7RLtGgkTh9o.md#t-00-29-53) (Accusation) **Candace Owens**: ["The hippie movement was not organic. It was a psychological operation ..."](/statements/statement-5c07c647dbdc.md)
 
 </details>
 

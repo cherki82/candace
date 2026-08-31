@@ -1,6 +1,6 @@
 ---
 title: "Volodymyr Zelensky"
-description: "Volodymyr Zelensky (People) - 9 mentions"
+description: "Volodymyr Zelensky (People) - 8 mentions"
 id: "person-volodymyr-zelensky"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-volodymyr-zelensky-t-00-07-32">2025-10-31 · 00:07:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08">2026-07-27 · 00:35:08</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,7 +38,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-volodymyr-zelensky-t-00-07-32" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-volodymyr-zelensky-t-00-10-58" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-22" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-57" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-volodymyr-zelensky-t-00-39-28" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-volodymyr-zelensky-t-00-52-31" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08" style="--pulse-height:50%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-volodymyr-zelensky-t-00-07-32) | 2 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-volodymyr-zelensky-t-00-10-58) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-22) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-57) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-volodymyr-zelensky-t-00-39-28) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-volodymyr-zelensky-t-00-52-31) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08) | 1 |
@@ -60,7 +60,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
@@ -90,13 +90,10 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:20:57](/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-22)**
+**[00:20:57](/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-57)**
 > "...ng about that September 3rd date that I forgot to mention before we get to September 4th. President Zelensky is in town also, though. Brigitte Macron welcomes President Zelensky into Paris on September 3rd be..."
-
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-21-00)**
-> "...et to September 4th. President Zelensky is in town also, though. Brigitte Macron welcomes President Zelensky into Paris on September 3rd because there is this remarkable—and I would assume rare, I don't know,..."
 
 </details>
 
@@ -104,7 +101,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:11:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-volodymyr-zelensky-t-00-10-58)**
-> "...hat Justin Trudeau (Justin Trudeau) is gay. Candace Owens (clip): Obama, gay. Candace Owens (clip): Zelensky (Zelensky), gay. Candace Owens (clip): Emmanuel Macron (Emmanuel Macron), gay and married to a tran..."
+> "Zelensky (Zelensky), gay."
 
 </details>
 
@@ -137,7 +134,19 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Met With (1)</summary>
+
+- **[Brigitte Macron](/entities/person-brigitte-macron.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:20:57](/episodes/ep-sImMM04XdWY.md#t-00-20-57): “Brigitte Macron welcomes President Zelensky into Paris on September 3rd because there is this remarkable—and I would assume rare, I don't know, but—35 state leaders meet to discuss Ukraine,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -145,6 +154,26 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization okay he like literally interviews mass murderers like Zelenskyy (Volodymyr Zelenskyy) on his show”
 
 </details>
+
+- **[Brigitte Macron](/entities/person-brigitte-macron.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:20:57](/episodes/ep-sImMM04XdWY.md#t-00-20-57): “Brigitte Macron welcomes President Zelensky into Paris on September 3rd because there is this remarkable—and I would assume rare, I don't know, but—35 state leaders meet to discuss Ukraine,”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Volodymyr Zelensky (1)</strong></summary>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:20:57](/episodes/ep-sImMM04XdWY.md#t-00-20-57) (Claim) **Candace Owens**: ["Candace Owens said Brigitte Macron welcomed Volodymyr Zelensky in Pari..."](/statements/statement-b5f31b8b8d1f.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Ukraine](/entities/gpe-ukraine.md)
 
 </details>
 

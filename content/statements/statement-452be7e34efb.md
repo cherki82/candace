@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:35:19](/episodes/ep-QZWSsq8ZWzw.md#t-00-35-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2119);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=2119s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she and Charlie contacted a friend—who I believe she said was a Catholic priest, but definitely a friend—and asked him to come over and pray with them over Charlie the night before he was murdered
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:06:00](/episodes/ep-1mYNOqzAdXs.md#t-00-06-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The lie that she told here is so big that it is worthy of not just her having to step down, but Andrew Kolvet should frankly also have to resign in shame once I show you how this went down.
 

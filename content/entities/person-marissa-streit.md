@@ -1,6 +1,6 @@
 ---
 title: "Marissa Streit"
-description: "Marissa Streit (People) - 16 mentions"
+description: "Marissa Streit (People) - 20 mentions"
 id: "person-marissa-streit"
 type: "PERSON"
 categories:
@@ -17,40 +17,42 @@ _Type: People_
 Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-streit)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02">2025-09-25 · 00:08:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02">2025-09-25 · 00:08:19</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-marissa-streit-t-00-11-12">2026-07-23 · 00:11:45</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-37-04" style="--pulse-height:33%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-marissa-streit-t-00-16-42" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#t-00-28-57" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#t-00-29-29" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-person-marissa-streit-t-00-22-49" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-person-marissa-streit-t-00-11-12" style="--pulse-height:67%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02" style="--pulse-height:50%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-36-58" style="--pulse-height:25%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09" style="--pulse-height:75%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#t-00-32-06" style="--pulse-height:25%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-marissa-streit-t-00-16-42" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#t-00-28-57" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-00-29-29" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-marissa-streit-t-00-22-49" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-marissa-streit-t-00-11-12" style="--pulse-height:50%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02) | 3 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-37-04) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40) | 3 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-36-58) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40) | 4 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09) | 3 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-marissa-streit-t-00-16-42) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-28-57) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-29-29) | 1 |
@@ -65,7 +67,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -127,45 +129,59 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
 
-**[00:34:39](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22)**
-> "Like, Jack Hibbs was somebody that Marissa flagged for me that she wanted me to have on my show"
+**[00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06)**
+> "I know Marissa"
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
 
-**[00:20:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40)**
-> "Marissa Streit, the CEO, IDF intelligence"
+**[00:34:39](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-09)**
+> "Like, Jack Hibbs was somebody that Marissa flagged for me that she wanted me to have on my show"
+
+**[00:34:44](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-44)**
+> "The guy who runs—or did run—Operation Underground... was introduced to me by Marissa Strait."
+
+**[00:40:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41)**
+> "People saying she works for Marissa Strait, PragerU..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:20:54](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40)**
-> "...ings." And at the time, I thought they were just being friends. I don't know what to think anymore. Marissa Streit (Marissa Streit), the CEO, has never shied from telling people that she is... you know, in the IDF...."
+> "Marissa Streit, the CEO, has never shied from telling people that she is..."
 
 **[00:25:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-25-05)**
 > "... you got a pastor—you know—from the military. Two pastors from the military there. I'm telling you, Marissa Streit—military. I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire ..."
+
+**[00:21:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40)**
+> "... you have to do"—was Marissa (Marissa Streit) took me to the Simon Wiesenthal Center."
+
+**[00:26:27](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-26-27)**
+> "... and met her through Marissa (Marissa Streit)."
 
 </details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-37-04)**
+**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-36-58)**
 > "...ause I'm like, this is like military training. Almost verbatim, a text message that I received from Marissa Streit when I, like, retweeted Max Blumenthal, I think once, when he said something that I totally agreed ..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:08:21](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02)**
-> "...so love the context of him doing this on PragerU's platform. I obviously worked for PragerU. I know Marissa Streit (Marissa Streit). I am looking at Marissa Streit (Marissa Streit) right there, right there, a littl..."
+**[00:08:19](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02)**
+> "I obviously worked for PragerU. I know Marissa Streit. I am looking at Marissa Streit right there, right there, a little PR operation to address the points without actually addressing the points and to make it seem like it was nothing."
 
-**[00:08:22](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02)**
-> "...s platform. I obviously worked for PragerU. I know Marissa Streit (Marissa Streit). I am looking at Marissa Streit (Marissa Streit) right there, right there, a little PR operation to address the points without actu..."
-
-**[00:08:33](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02)**
+**[00:08:32](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02)**
 > "... the points and to make it seem like it was nothing. And that's not the reality. You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence. And like I said,..."
 
 </details>
@@ -205,7 +221,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
@@ -218,6 +234,19 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:06:58](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58): “connected to I know who they're communicating with I know what publications they're speaking to I can see the hand of oh this you know Marissa at PragerU who I adored when I worked for her I'm like oh this is this is a Marissa thing and so I think God wanted me blinded for that time and I because I could so now when I'm telling the story about Charlie (Charlie Kirk) even I'm I have so much more weight I'm telling the public no this is what was going on this is who put this person in this organization this is who he was arguing with”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Israel Defense Forces](/entities/org-israel-defense-forces.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “Marissa Streit, the CEO, has never shied from telling people that she is... you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.”
 
 </details>
 
@@ -248,15 +277,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details>
-<summary>Works For (2)</summary>
-
-- **[IDF](/entities/org-idf.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa Streit has not always been open about the fact that she worked for the IDF intelligence.”
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.”
-
-</details>
+<summary>Works For (1)</summary>
 
 - **[PragerU](/entities/org-prageru.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -279,19 +300,20 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 
 </details>
 
-- **[IDF](/entities/org-idf.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa Streit has not always been open about the fact that she worked for the IDF intelligence.”
-
-</details>
-
 - **[PragerU](/entities/org-prageru.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:57](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “Marissa Strait is working on at the Prager University,”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:06:58](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58): “connected to I know who they're communicating with I know what publications they're speaking to I can see the hand of oh this you know Marissa at PragerU who I adored when I worked for her I'm like oh this is this is a Marissa thing and so I think God wanted me blinded for that time and I because I could so now when I'm telling the story about Charlie (Charlie Kirk) even I'm I have so much more weight I'm telling the public no this is what was going on this is who put this person in this organization this is who he was arguing with”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:11:32](/episodes/ep-amqTMimDr0A.md#t-00-11-12): “I came back and I said, also Marissa (Marissa Streit), and I was referring to Marissa Streit of Prager University is involved.”
+
+</details>
+
+- **[Israel Defense Forces](/entities/org-israel-defense-forces.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “Marissa Streit, the CEO, has never shied from telling people that she is... you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.”
 
 </details>
 
@@ -326,7 +348,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she works for Marissa Strait, PragerU”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she works for Marissa Strait, PragerU”
 
 </details>
 
@@ -335,7 +357,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Marissa Streit (5)</strong></summary>
+<summary><strong class="section-title">Statements about Marissa Streit (6)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -346,22 +368,24 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
 
-- [00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit, the CEO of PragerU, worked intelligence in the IDF in ..."](/statements/statement-f0901d002df2.md)
+- [00:20:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit, the CEO of PragerU, worked intelligence in the IDF in ..."](/statements/statement-f0901d002df2.md)
   - Also about: [PragerU](/entities/org-prageru.md)
 
-- [00:20:58](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit worked intelligence in the IDF in Israel"](/statements/statement-2b3c03076075.md)
-
-- [00:22:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-07) (Claim) **Candace Owens**: ["Marissa Streit took Candace Owens to the Simon Wiesenthal Center after..."](/statements/statement-4ce552637a9b.md)
+- [00:21:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit took Candace Owens to the Simon Wiesenthal Center after..."](/statements/statement-4ce552637a9b.md)
   - Also about: [Simon Wiesenthal Center](/entities/org-simon-wiesenthal-center.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3)</summary>
 
-- [00:08:29](/episodes/ep-K5GjF53bfN4.md#t-00-08-02) (Claim) **Candace Owens**: ["Marissa Streit worked for IDF intelligence"](/statements/statement-a79cac0024e9.md)
+- [00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02) (Claim) **Candace Owens**: ["Marissa Streit worked for IDF intelligence"](/statements/statement-a79cac0024e9.md)
+
+- [00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02) (Accusation) **Candace Owens**: ["Marissa Streit has not always been open about the fact that she worked..."](/statements/statement-bec4c82c5d40.md)
+
+- [00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02) (Accusation) **Candace Owens**: ["Owens said Marissa Streit had not always been open about having worked..."](/statements/statement-660dd72a4e76.md)
 
 </details>
 

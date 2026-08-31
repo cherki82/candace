@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:19:03](/episodes/ep-c5BcKF91iec.md#t-00-18-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1143);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=1143s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He then told me that he needed to speak with Turning Point lawyers first to see about releasing the footage
 

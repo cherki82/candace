@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:23:28](/episodes/ep-YaZfwLQ7vrI.md#t-00-22-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1408);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=1408s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Following this, a month after this, Rob McCoy then gets elected mayor of Thousand Oaks. He's mayor for a year.
 

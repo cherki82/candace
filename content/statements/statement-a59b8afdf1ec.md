@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:01:11](/episodes/ep-mFuno0TuuQQ.md#t-00-01-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(71);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=71s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want there to be no hesitation in understanding of what happened to my husband that day. ... I want there to always be full transparency because what I don't want to have happen is for there not to be and then I am relying then on social media and other news outlets to explain the narrative rather than saying, ... you guys can see on full display what happened to my husband and there is no ifs, ands, or buts or confusion as to who did it and why.
 

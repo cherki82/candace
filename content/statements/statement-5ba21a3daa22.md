@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:03:32](/episodes/ep-HZvwbfePe7o.md#t-00-03-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(212);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=212s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And what really happened, I told you, was Erika (Erika Kirk) and her close family friend planted that article and then it backfired and then they tried to DARVO tactic me.
 

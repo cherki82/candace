@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:30:52](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1852);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1852s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You actually don't have a right to say that I have a political philosophy and it's called Zionism. And so what I'm going to do is I'm going to say that it's a race of people have a right to mass murder. People who have been on this land for thousands of years to take it, to hostilely take over their homes, not pay them, we're just going to murder you, take your home at gunpoint
 

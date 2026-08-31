@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:45:46](/episodes/ep-tXoI0TTKVrs.md#t-00-45-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2746);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2746s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > uh charlie and i almost exclusively texted and so it's just it just it's just a hit piece written by a person who doesn't actually exist so what they do when they don't want to put their name behind something they have these like they're like sock puppet accounts so it's like a fake name like paula leva um and they're not real people but they keep publishing under these people as if they are real people i don't know if you guys know what this is how this happens in the media where there's literally non-existent journalists um and this is one of those pieces so this is how turning point operates
 

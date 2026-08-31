@@ -1,6 +1,6 @@
 ---
-title: "Before Charlie died—really kind of just before he died in Ju..."
-description: "\"Before Charlie died—really kind of just before he died in July—I interviewed Nick Fuentes. And Charlie and I discussed the interview, and never once d...\" — Candace Owens"
+title: "Candace Owens and Charlie Kirk discussed Owens's July interv..."
+description: "\"Candace Owens and Charlie Kirk discussed Owens's July interview with Nick Fuentes.\" — Candace Owens"
 statement_id: "statement-41ef74024513"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,22 +10,27 @@ type: "factual_claim"
 
 ## Statement
 
-> Before Charlie died—really kind of just before he died in July—I interviewed Nick Fuentes. And Charlie and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes.
+> Candace Owens and Charlie Kirk discussed Owens's July interview with Nick Fuentes.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Nick Fuentes](/entities/person-nick-fuentes.md) (person)
 
 ## Source
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(500);return false;">Play</a>
+**Timestamp:** [00:08:23](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) 
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And Charlie (Charlie Kirk) and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes (Nick Fuentes)
+> And Charlie (Charlie Kirk) and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes.
 
 ## Verification
 

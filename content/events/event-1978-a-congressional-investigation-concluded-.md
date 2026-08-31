@@ -6,6 +6,11 @@ date: "1978"
 ---
 
 **Date:** 1978
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “In 1978”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1978"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:02:19](/episodes/ep-wcD2khO3rOA.md#event-event-1978-a-congressional-investigation-concluded--t-01-01-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3739);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3739s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 1978, a congressional investigation into the Moon organization concluded that

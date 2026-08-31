@@ -23,31 +23,13 @@ type: "factual_claim"
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (3)
-
-### 1. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:58:30](/episodes/ep-ja26iltROkM.md#t-00-57-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3510);return false;">Play</a>
-
-> But I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk (Charlie Kirk) a boatload of money, and he rejected it.
-
-### 2. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:58:03](/episodes/ep-ja26iltROkM.md#t-00-57-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3483);return false;">Play</a>
-
-> But I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk (Charlie Kirk) a boatload of money, and he rejected it.
-
-### 3. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+## Source
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:58:21](/episodes/ep-ja26iltROkM.md#t-00-57-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3501);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=3501s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> But I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk (Charlie Kirk) a boatload of money, and he rejected it.
+> But I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 34 mentions"
+description: "United States Congress (Organizations) - 35 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27">2025-09-15 · 00:30:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03">2026-08-06 · 01:02:29</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,9 +40,10 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27" style="--pulse-height:33%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-congress-t-00-04-43" style="--pulse-height:33%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-united-states-congress-t-00-31-57" style="--pulse-height:33%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-46-02" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-45-58" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-14-05" style="--pulse-height:67%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-15-30" style="--pulse-height:67%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-congress-t-00-43-29" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-congress-t-00-36-06" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-congress-t-00-42-32" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
@@ -69,9 +70,10 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-united-states-congress-t-00-04-43) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-united-states-congress-t-00-31-57) | 1 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-46-02) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-45-58) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15) | 1 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-14-05) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-15-30) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-congress-t-00-43-29) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-congress-t-00-36-06) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-congress-t-00-42-32) | 3 |
@@ -97,7 +99,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -271,9 +273,17 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 </details>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-congress-t-00-43-29)**
+> "...s of the executive branch and Congress."
+
+</details>
+
+<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
-**[00:14:20](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-14-05)**
+**[00:14:20](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-15-30)**
 > "... course, the president of the Congress of Jewish Religious Communities."
 
 **[00:15:53](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-15-30)**
@@ -292,7 +302,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
-**[00:46:29](/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-46-02)**
+**[00:46:23](/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-45-58)**
 > "...give to our government to vote the way Israel wants. So my tax money pays for Israeli ideas. We pay Congress twice. Can you say money laundering?" Yeah, that's what it feels like for sure. We give our tax dol..."
 
 </details>
@@ -326,7 +336,29 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Has Former Member (1)</summary>
+
+- **[Matt Gaetz](/entities/person-matt-gaetz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:23:52](/episodes/ep-2Riv3I7D0Yk.md#t-00-23-25): “Matt Gaetz was a former Republican congressman from Florida.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Matt Gaetz](/entities/person-matt-gaetz.md)** formerly member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:23:52](/episodes/ep-2Riv3I7D0Yk.md#t-00-23-25): “Matt Gaetz was a former Republican congressman from Florida.”
+
+</details>
+
+</details>
 
 </details>
 
@@ -344,7 +376,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Congress (5)</strong></summary>
+<summary><strong class="section-title">Statements about United States Congress (6)</strong></summary>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>
@@ -377,6 +409,13 @@ _No relationships extracted yet._
 
 - [00:44:18](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48) (Claim) **Anthony Aguilar** (via quoted post): ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
   - Also about: [Anthony Aguilar](/entities/person-anthony-aguilar.md), [American Israel Public Affairs Committee](/entities/org-aipac.md)
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
+
+- [00:30:36](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) (Accusation) **Charlie Kirk** (via quoted speech): ["Members of Congress are actively being blackmailed"](/statements/statement-04ac38d2f4b6.md)
 
 </details>
 

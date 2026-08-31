@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 **Timestamp:** [00:41:54](/episodes/ep-iHav0PPzUz8.md#t-00-41-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2514);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2514s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And right up there it says, "Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker (Tucker Carlson)."
 

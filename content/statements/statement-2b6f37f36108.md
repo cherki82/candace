@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:32:03](/episodes/ep-X92MllIHDzw.md#t-00-32-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1923);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1923s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on that day despite the fact that it was the first week of school she was not there on the day of Charlie's assassination it looks like she was involved in some color revolution stuff for the CIA she was a foster child was rescued from the Philippines I can't explain it I looked at Astrid Tuman as just doing an interview and I was just like childhood trauma question mark I don't know I don't know I don't know no but I'm putting it out there
 

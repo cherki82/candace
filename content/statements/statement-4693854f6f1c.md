@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:25:06](/episodes/ep-ozWJz2spBcI.md#t-00-25-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1506);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=1506s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I spoke to that Turning Point individual, as I told you, and he never once mentioned that police officers—I explicitly asked him, "Why did you take the SD cards out specifically of the camera behind ... Charlie (Charlie Kirk)'s head?" And the answer that I was given sounded more like what Andrew Kolvet said. ... "You know, I was emotional. ... I knew that Charlie (Charlie Kirk) was dead. ... And my instinct," he told me, "was to make sure that I secured the footage so that Erika (Erika Kirk) would not have to see it again. ... Like, he didn't want Erika (Erika Kirk) to have to see it and have to relive it."
 

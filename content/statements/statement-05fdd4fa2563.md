@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:00:45](/episodes/ep-X92MllIHDzw.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(45);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=45s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because once upon a time she shot a teaser for a short film there or around there and the general topic of the film is not going to go a long way in terms of dispelling conspiracies.
 

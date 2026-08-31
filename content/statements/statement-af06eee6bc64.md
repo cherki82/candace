@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:23:41](/episodes/ep-sKuYLNx3iRo.md#t-00-23-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1421);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=1421s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm going to tell you a story, just a tale, and if I did it. All of them climbed into the car. ... And he began cutting Charlie (Charlie Kirk)'s shirt off of him in the car with about five to six minutes on the clock. ... Frank (Frank Turek) leaned over for the assist. Any person who has ever worked with fabric knows you need the tension of someone pulling the shirt to cut through it quickly.
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:18:06](/episodes/ep-Wjul6YV6izo.md#t-00-17-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1086);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=1086s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She mentioned that Charlie went to Mass with her there and that Father Don would open the church up for him. There are often when Charlie just wanted to pray and reflect without being disrupted and that he was with her the entire time from Arizona to Utah in the hospital,
 

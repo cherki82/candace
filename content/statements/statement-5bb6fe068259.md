@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:44:45](/episodes/ep-CEF7gQRWYCE.md#t-00-44-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2685);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2685s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I went back to that source and they said it was an iMessage. She's lying.
 

@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:17:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-17-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1058);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1058s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica (Erika Kirk) was not raised by a single mother, ... like at all. ... Erica (Erika Kirk)'s father, ... Kent (Kenneth Frantzve), by the way, he's Kenneth Frantzve, but he goes by Kent, ... was always in her life. ... So much so that for entire years of her childhood, ... Kent (Kenneth Frantzve) was actually a stay-at-home dad.
 

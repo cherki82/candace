@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:27:26](/episodes/ep-xjzb_t5Tk9o.md#t-00-27-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1646);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1646s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he he kind of falsely claimed that if you're a jew going to like an arab neighborhood in jerusalem you're going to be stabbed and now i understand that this what was told to you
 

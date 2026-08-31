@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:17:29](/episodes/ep-eMtjzXkQrsU.md#t-00-16-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1049);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1049s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, here are the docs of our filing here. Now, I should mention that Brad Parscale in January. became the chief strategy officer for Salem media network. So he's got Clocktower X where he's working on behalf of Israel.
 

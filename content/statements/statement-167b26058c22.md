@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:31:41](/episodes/ep-MhakwJxK-Zk.md#t-00-31-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1901);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1901s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We are then told on July 18th, and that's according to local news in Utah, that Turning Point USA then submits for Charlie (Charlie Kirk) to do his event at Utah Valley. ... We have not been able to independently confirm that. We've not seen the paperwork, who, what student requested him to go.
 

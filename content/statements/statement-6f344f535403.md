@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:20:17](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1217);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she really sees Erika Kirk as that white blonde girl that got everything that she wanted while her mommy and daddy didn't love her ... So now I'm going to dedicate my life to destroying every pretty white blonde girl that has a happy family because I don't have a happy family.
 

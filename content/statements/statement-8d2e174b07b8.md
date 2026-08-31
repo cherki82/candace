@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:10:58](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(658);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who was actually working for the CIA,
 

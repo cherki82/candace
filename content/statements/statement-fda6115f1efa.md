@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:25:53](/episodes/ep-uC_GjKU8rs8.md#t-00-25-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1553);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=1553s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because I do not find this to be a coincidence on the last page of the lawsuit against me, his brother-in-law is listed, Jacob, Jacob William Roth. ... Are we to believe that this is just a happy coincidence?
 

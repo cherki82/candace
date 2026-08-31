@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:01:19](/episodes/ep-Vu6Y24pqhZs.md#t-00-01-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(79);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=79s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, yesterday I got a tip from someone, like I said, in the White House who corroborated that. ... And then today they told me the meeting was suddenly canceled
 

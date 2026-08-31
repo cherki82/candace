@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2281);return false;">Play</a>
+**Timestamp:** [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-19) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=2281s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On August 25th, 2025, this is 15, 16 days before Charlie Kirk was killed. There was a flight on this jet from D.C. to Colorado Springs with that important and rarely used call sign, SAM-000.
 

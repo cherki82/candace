@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:10:55](/episodes/ep-2tFYJf1klgY.md#t-00-10-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(655);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=655s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > With the help of Rick (Richard William Erpenbeck) and Donna Erpenbeck, she forms Virtual Registration International Incorporated, again indicating that she's going to be doing some work overseas. She also forms Intellimet Incorporated on September 24th.
 

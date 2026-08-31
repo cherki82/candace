@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:09:30](/episodes/ep-puuMVxEu5NU.md#t-00-09-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(570);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=570s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, of course. When officers were canvassing the scene, they were also trying to see the route of the shooter as well as just trying to find the shooter. ... And they determined that the Fulton library stood out because there were unattended items there at the bus stops that were away from the courtyard area. And so to them they thought it was suspicious.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:30:47](/episodes/ep-FFQ9675oqRI.md#t-00-30-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1847);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1847s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when the Daily Mail did their due diligence, they went ahead and confirmed that the review was real, that it was his number.
 

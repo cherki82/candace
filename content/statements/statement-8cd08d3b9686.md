@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:21:30](/episodes/ep-i8m_6D4QGmk.md#t-00-21-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1290);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1290s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think Erika would be an amazing president someday.
 

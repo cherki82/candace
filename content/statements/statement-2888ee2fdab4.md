@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:18:45](/episodes/ep-7ERqbYElOfs.md#t-00-18-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1125);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1125s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That right there is why it is impossible for me to think that Erika Kirk is not complicit somehow.
 

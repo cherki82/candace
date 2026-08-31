@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:18:49](/episodes/ep-4YgrOhhy708.md#t-00-18-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1129);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1129s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I want to be clear, he also hasn't moved his story since, ... not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike.
 

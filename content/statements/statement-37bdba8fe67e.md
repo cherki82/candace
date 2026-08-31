@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:46:57](/episodes/ep-puuMVxEu5NU.md#t-00-46-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2817);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2817s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I stand by that story. It deserves a response. You're the CEO and the chairman of an organization that took in my understanding is that you took in more than a quarter billion dollars last year.
 

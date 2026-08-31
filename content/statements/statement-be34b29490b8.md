@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:48:19](/episodes/ep-A39g5oqB_eM.md#t-00-47-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2899);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2899s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It doesn't make any sense. And my general opinion now is that she is this is my opinion since we caught Andrew Kolvet. ... With the parent tactical parent paramount tactical tweet holding it that she's orchestrating a lot behind the scenes and keeping her hands clean.
 

@@ -22,9 +22,9 @@ _Type: Places_
 Source: [City of Los Angeles](https://lacity.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51">2025-12-17 · 00:46:51</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-los-angeles-t-00-31-16">2025-10-01 · 00:31:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-20-28">2026-07-23 · 00:20:38</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
@@ -36,7 +36,8 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-18-33">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-los-angeles-t-00-31-16" style="--pulse-height:33%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-45" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-01" style="--pulse-height:67%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-33-17" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-47-30" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -58,7 +59,8 @@ Source: [City of Los Angeles](https://lacity.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-los-angeles-t-00-31-16) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-45) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-01) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-33-17) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30) | 1 |
@@ -228,13 +230,18 @@ Source: [City of Los Angeles](https://lacity.gov/)
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51)**
+**[00:46:51](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-45)**
 > "landing into Los Angeles at 6 45 p.m. on the 7th before continuing down to..."
 
-**[00:46:51](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51)**
-> "He actually lands into Los Angeles on a direct flight from Tokyo."
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+
+**[00:31:25](/episodes/ep-adJ4LNGp84I.md#ent-gpe-los-angeles-t-00-31-16)**
+> "all of them related in their beginnings in Los Angeles"
 
 </details>
 
@@ -293,7 +300,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-45) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Dallas](/entities/gpe-dallas.md)
 
 </details>

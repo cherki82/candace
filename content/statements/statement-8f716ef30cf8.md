@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1207);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1207s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Can we just take a second to appreciate that our military is literally running mind wars, mind wars. And that's what he did. Our military is engaged in them. ... that's what these farms are all about i i actually kind of subscribe to the dead internet theory especially when i'm an x i'm like this is this is obviously run by the military i've never seen the bots say we shouldn't go to war ever and yet when i speak to people nobody wants to go to war
 

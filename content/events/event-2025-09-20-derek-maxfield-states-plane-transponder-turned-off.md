@@ -6,15 +6,8 @@ date: "2025-09-20"
 ---
 
 **Date:** 2025-09-20
+**Date precision:** Day
 
 ## Event
 
 > Derek Maxfield states plane transponder turned off with ATC permission.
-
-## Mentioned In
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:17:13](/episodes/ep-ja26iltROkM.md#event-event-2025-09-20-derek-maxfield-states-plane-transponder-turned-off-t-00-17-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1033);return false;">▶️ Play</a>
-
-> the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he said that they got permission to—you know—turn off services, which are transponder se

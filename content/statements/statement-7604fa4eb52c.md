@@ -23,7 +23,7 @@ type: "promise"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:05:05](/episodes/ep-ja26iltROkM.md#t-00-04-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(305);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=305s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, I'm now currently working on a minute-by-minute timeline, which I will have for you guys later this week, of what exactly happened in the seconds and minutes following Charlie (Charlie Kirk) ... getting shot.
 

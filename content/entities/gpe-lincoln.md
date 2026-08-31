@@ -1,21 +1,22 @@
 ---
 title: "Lincoln"
-description: "Lincoln (Places) - 21 mentions"
+description: "Lincoln (Places) - 25 mentions"
 id: "gpe-lincoln"
 type: "GPE"
 aliases:
   - "Lincoln, Nebraska"
+  - "Lincoln"
 categories:
   - "Nebraska city"
+  - "city"
+  - "episode location"
 ---
 
 _Type: Places_
 
-**Also known as:** Lincoln, Nebraska
+**Also known as:** Lincoln, Nebraska, Lincoln
 
-**Categories:** Nebraska city
-
-> **Possibly overlapping entity records:** [Lincoln, Nebraska](/entities/gpe-lincoln-nebraska). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** Nebraska city, city, episode location
 
 **Entity verification:** verified
 > Canonical name and identity for Lincoln confirmed by the cited direct external source.
@@ -23,11 +24,11 @@ Source: [Lincoln, Nebraska](https://en.wikipedia.org/wiki/Lincoln,_Nebraska)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-lincoln-t-00-20-27">2025-10-31 · 00:20:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-23-23">2025-12-02 · 00:23:23</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-t-00-44-42">2026-06-26 · 00:45:03</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,18 +38,24 @@ Source: [Lincoln, Nebraska](https://en.wikipedia.org/wiki/Lincoln,_Nebraska)
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-lincoln-t-00-20-27">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-lincoln-t-00-20-27" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 15 mentions" title="2025-10-31 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-20-11" style="--pulse-height:13%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-19-59" style="--pulse-height:13%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47" style="--pulse-height:13%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-17-39" style="--pulse-height:13%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-lincoln-t-00-28-43" style="--pulse-height:13%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-lincoln-t-00-31-55" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-t-00-44-42" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-lincoln-t-00-20-27) | 15 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-20-11) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-19-59) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47) | 2 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-17-39) | 2 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-lincoln-t-00-28-43) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-lincoln-t-00-31-55) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-t-00-44-42) | 1 |
 
 </details>
 </section>
@@ -56,7 +63,34 @@ Source: [Lincoln, Nebraska](https://en.wikipedia.org/wiki/Lincoln,_Nebraska)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:45:03](/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-t-00-44-42)**
+> "...t might have been Nebraska or Lincoln."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:32:24](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-lincoln-t-00-31-55)**
+> "... Omaha, Nebraska, and then to Lincoln, Nebraska."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (2 mentions)</summary>
+
+**[00:28:56](/episodes/ep-A39g5oqB_eM.md#ent-gpe-lincoln-t-00-28-43)**
+> "...mery also happened to be from Lincoln,"
+
+**[00:29:08](/episodes/ep-A39g5oqB_eM.md#ent-gpe-lincoln-t-00-28-43)**
+> "...t of these people are tied to Lincoln,"
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
@@ -83,10 +117,10 @@ Source: [Lincoln, Nebraska](https://en.wikipedia.org/wiki/Lincoln,_Nebraska)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-20-11)**
+**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-19-59)**
 > "...parate Wilmington runs for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. Most of those don't even ..."
 
-**[00:54:34](/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-54-00)**
+**[00:54:29](/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-54-00)**
 > "...on. Raymond Rorah writes assassination or more about what one plans to do, not what they have done. Lincoln's plan after freeing the slaves, relocation. Kennedy's plan to deal with the military industrial co..."
 
 </details>
@@ -147,5 +181,18 @@ Source: [Lincoln, Nebraska](https://en.wikipedia.org/wiki/Lincoln,_Nebraska)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Lincoln (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
+
+- [00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) (Claim) **Candace Owens**: ["Bill Montgomery served in the U.S. Air Force Reserve and was from Linc..."](/statements/statement-f20ea24a8eac.md)
+  - Also about: [Bill Montgomery](/entities/person-bill-montgomery.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+</details>
 
 </details>

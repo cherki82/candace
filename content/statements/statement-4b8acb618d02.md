@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:37:53](/episodes/ep-h76ZN-xXC6c.md#t-00-37-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=2273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, it was my son and daughter-in-law. I mean, he is 35 years old. I was FaceTiming them because they love Charlie (Charlie Kirk). First, I was FaceTiming my wife, and then I said, “Let me call Spencer (Frank Turek’s son; surname unverified),” so I started FaceTiming him. ... During the event, yeah—both during the event and then when the shot rang out, I just started heading toward the car. I put the phone in my back pocket; I did not turn it off. Instinctively, by the time I got to a hotel and pulled it out, they were still there.
 

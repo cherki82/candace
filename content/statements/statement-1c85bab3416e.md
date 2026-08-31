@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:44:34](/episodes/ep-UYkXV9mYbT4.md#t-00-44-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2674);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=2674s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bombshell should be on the cover of every mainstream news reporting that the FBI is bringing back an already debunked technique so that they can give Erika (Erika Kirk) the evidence she needs. ... to connect this gun, which hasn't even been fired, to Tyler Robinson.
 

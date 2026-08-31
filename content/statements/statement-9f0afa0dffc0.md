@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:06:34](/episodes/ep-ChuWo-n49B8.md#t-00-06-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(394);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=394s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson, another thing that we were told and or his lover at various times are transgendered. That's a lie. Tyler Robinson is not transgendered. I told you that very early on. His lover Lance (Lance Twiggs) is not transgendered.
 

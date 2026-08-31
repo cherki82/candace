@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:10:04](/episodes/ep-HYn0P-P1wUw.md#t-00-09-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(604);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=604s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And now we can add that 8.45 p.m. That's the time, approximately, that Tyler (Tyler Robinson) turned up in Panguitch, Utah. Again, that is three hours away from Orem. He has a meal at the bar counter, and then he leaves around 9.30 p.m.
 

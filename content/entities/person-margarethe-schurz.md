@@ -3,9 +3,18 @@ title: "Margarethe Schurz"
 description: "Margarethe Schurz (People) - 2 mentions"
 id: "person-margarethe-schurz"
 type: "PERSON"
+categories:
+  - "early childhood education"
+  - "kindergarten history"
 ---
 
 _Type: People_
+
+**Categories:** early childhood education, kindergarten history
+
+**Entity verification:** verified
+> Wisconsin Historical Society confirms the canonical name Margarethe Meyer Schurz and her role in establishing the first kindergarten in the United States.
+Source: [First Kindergarten | Wisconsin Historical Society](https://www.wisconsinhistory.org/record/national-register/NR167)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-margarethe-schurz-t-00-18-36">2025-09-24 · 00:18:55</a></strong></div>

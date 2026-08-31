@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:25:50](/episodes/ep-kaWtDuoY_ns.md#t-00-25-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1550);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=1550s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, she had not canceled because of death threats. She canceled because there was a boycott, which was led by the By the parents and the teachers and the students who do not want Erika Kirk at their school.
 

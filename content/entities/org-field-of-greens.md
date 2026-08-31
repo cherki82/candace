@@ -1,6 +1,6 @@
 ---
 title: "Field of Greens"
-description: "Field of Greens (Organizations) - 26 mentions"
+description: "Field of Greens (Organizations) - 31 mentions"
 id: "org-field-of-greens"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [Field of Greens](https://fieldofgreens.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10">2026-01-14 · 00:46:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-29-46">2025-09-18 · 00:30:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11">2026-08-14 · 02:32:46</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,8 +33,9 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-29-46">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-29-46" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 5 mentions" title="2025-09-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 5 mentions" title="2026-01-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-29-46) | 5 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10) | 5 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33) | 2 |
@@ -65,7 +67,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
@@ -187,6 +189,26 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 **[00:47:06](/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-50)**
 > "That's why Field of Greens promises your doctor will notice your improved he..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
+
+**[00:30:00](/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-29-46)**
+> "Also telling you guys about Field of Greens because, look, I knew we all have two ages: our a..."
+
+**[00:30:30](/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-30-30)**
+> "Field of Greens. That's all they did."
+
+**[00:30:34](/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-30-30)**
+> "They just had Field of Greens because each fruit and vegetable in Field of Gree..."
+
+**[00:30:43](/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-30-30)**
+> "I feel great knowing that Field of Greens can slow how quickly that I'm aging, and I encour..."
+
+**[00:30:48](/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-30-30)**
+> "...vegetable, or green drink for Field of Greens."
 
 </details>
 

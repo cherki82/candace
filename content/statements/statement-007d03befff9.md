@@ -1,8 +1,8 @@
 ---
-title: "Messages from the contact “Tyler” stating a need to retrieve..."
-description: "\"Messages from the contact “Tyler” stating a need to retrieve a rifle from a drop point, leaving the rifle in a bush, messages related to visually watc...\" — News Reporter (Ep czVBmqZP6Ss)"
+title: "Governor Cox said Robinson's roommate showed investigators D..."
+description: "\"Governor Cox said Robinson's roommate showed investigators Discord messages exchanged with a contact named Tyler and allowed investigators to photogra...\" — Spencer Cox"
 statement_id: "statement-007d03befff9"
-speaker: "News Reporter (Ep czVBmqZP6Ss)"
+speaker: "Spencer Cox"
 type: "factual_claim"
 ---
 
@@ -10,23 +10,27 @@ type: "factual_claim"
 
 ## Statement
 
-> Messages from the contact “Tyler” stating a need to retrieve a rifle from a drop point, leaving the rifle in a bush, messages related to visually watching the area where a rifle was left and a message referring to having left the rifle wrapped in a towel. The messages also refer to engraving bullets and a mention of a scope and the rifle being unique. Messages from the contact “Tyler” also mentioned that he had changed outfits.
+> Governor Cox said Robinson's roommate showed investigators Discord messages exchanged with a contact named Tyler and allowed investigators to photograph them
 
 ## Attribution
 
-**Speaker:** [News Reporter (Ep czVBmqZP6Ss)](/entities/anon-src-czVBmqZP6Ss-legacy-2806869a.md) (Anonymous Source)
+**Speaker:** [Spencer Cox](/entities/person-spencer-cox.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Governor Cox statement replayed in Candace episode czVBmqZP6Ss
+
+## About
+
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:52:25](/episodes/ep-czVBmqZP6Ss.md#t-00-51-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3145);return false;">Play</a>
+**Timestamp:** [00:52:30](/episodes/ep-czVBmqZP6Ss.md#t-00-52-25) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=3150s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The content of these messages included messages affiliated with the contact “Tyler” stating a need to retrieve a rifle from a drop point, leaving the rifle in a bush, messages related to visually watching the area where a rifle was left and a message referring to having left the rifle...
+> Investigators interviewed that roommate who stated that his roommate, referring to Robinson, made a joke on Discord. Investigators asked if he would show them the messages on Discord. He opened it and showed several messages to investigators and allowed investigators to take photos of the screen as each message was shown by Robinson's roommate.
 
 ## Verification
 

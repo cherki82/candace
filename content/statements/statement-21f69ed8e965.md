@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:31:32](/episodes/ep-N4uM8Jdr410.md#t-00-31-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1892);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1892s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian (Brian Harpole) is correct that most of the ride, we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding. ... So I tried that for like 20 or 30 seconds at the very end of the ride when we're pulling into the hospital parking lot and we're yanking and banking our way there.
 

@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:25:08](/episodes/ep-581dILVcEE4.md#t-00-25-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1508);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=1508s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center."
 

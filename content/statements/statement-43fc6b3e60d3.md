@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:31:35](/episodes/ep-2WEHTk0Xewg.md#t-00-31-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1895);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1895s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Closure. He says "closure." "We got him." They already start in. He starts talking about the messages. He starts filling in the blanks.
 

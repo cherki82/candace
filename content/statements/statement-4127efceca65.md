@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:01:15](/episodes/ep-X92MllIHDzw.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(75);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=75s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he's trying to soft sell pedophilia. That's what he's doing.
 

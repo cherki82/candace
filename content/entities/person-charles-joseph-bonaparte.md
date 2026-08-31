@@ -5,11 +5,19 @@ id: "person-charles-joseph-bonaparte"
 type: "PERSON"
 aliases:
   - "Charles Joseph Bonaparte"
+categories:
+  - "United States attorney general and FBI institutional history"
 ---
 
 _Type: People_
 
 **Also known as:** Charles Joseph Bonaparte
+
+**Categories:** United States attorney general and FBI institutional history
+
+**Entity verification:** verified
+> FBI history identifies Charles J. Bonaparte as attorney general whose 1908 special-agent order is treated as the Bureau's official birth.
+Source: [History of the FBI](https://www.fbi.gov/history/history-of-the-fbi)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-charles-joseph-bonaparte-t-00-04-18">2025-12-02 · 00:04:29</a></strong></div>
@@ -17,7 +25,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -82,12 +90,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charles Joseph Bonaparte (2)</strong></summary>
+<summary><strong class="section-title">Statements about Charles Joseph Bonaparte (1)</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
-
-- [00:04:24](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18) (Claim) **Candace Owens**: ["The FBI was founded by Charles Joseph Bonaparte, whose grandfather was..."](/statements/statement-a2e517323d1a.md)
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
 
 - [00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18) (Claim) **Candace Owens**: ["our FBI was founded by Charles Joseph Bonaparte"](/statements/statement-fcb4622dfe3b.md)
   - Also about: [FBI](/entities/org-fbi.md), [Napoleon Bonaparte](/entities/person-napoleon-bonaparte.md)

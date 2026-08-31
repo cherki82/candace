@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:21:14](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1274);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, we were—and I'm laughing because it's so absurd— we were told Iran did this. What? Because they were itching for war with Iran. Like, they're still itching for war with Iran, but like that's what basically was the narrative that was established. They had some warnings that Iran was going to try to assassinate Trump, and we're going, "What?"
 

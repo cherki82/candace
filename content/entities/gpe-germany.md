@@ -1,6 +1,6 @@
 ---
 title: "Germany"
-description: "Germany (Places) - 33 mentions"
+description: "Germany (Places) - 37 mentions"
 id: "gpe-germany"
 type: "GPE"
 aliases:
@@ -21,10 +21,10 @@ _Type: Places_
 Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-en)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03">2025-10-02 · 00:24:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-germany-t-00-12-01">2025-09-15 · 00:12:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-35-05">2026-08-21 · 00:35:31</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,8 +35,13 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-33-28">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03" style="--pulse-height:60%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-germany-t-00-12-01" style="--pulse-height:20%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-germany-t-00-18-36" style="--pulse-height:20%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-23-57" style="--pulse-height:40%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-germany-t-00-10-21" style="--pulse-height:20%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20" style="--pulse-height:80%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-germany-t-00-31-57" style="--pulse-height:20%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-germany-t-00-38-42" style="--pulse-height:20%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-16" style="--pulse-height:40%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-germany-t-00-30-08" style="--pulse-height:80%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -57,8 +62,13 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03) | 3 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-germany-t-00-12-01) | 1 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-germany-t-00-18-36) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-23-57) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-germany-t-00-10-21) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20) | 4 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-germany-t-00-31-57) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-germany-t-00-38-42) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-16) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-germany-t-00-30-08) | 4 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45) | 1 |
@@ -81,7 +91,7 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -231,6 +241,22 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 </details>
 
 <details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:39:12](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-germany-t-00-38-42)**
+> "...us right, it's America versus Germany, and they have been very good at that."
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:32:23](/episodes/ep-DqGNvi36ol8.md#ent-gpe-germany-t-00-31-57)**
+> "I believe he's from Germany, from what I looked into."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:00:18](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20)**
@@ -248,16 +274,37 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
-**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03)**
+**[00:10:35](/episodes/ep-5autG89PW6w.md#ent-gpe-germany-t-00-10-21)**
+> "Um, back to Germany—it's a bombardment strategy."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-23-57)**
 > "So Austria, Germany, okay."
 
-**[00:51:27](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-50-50)**
+**[00:51:27](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-51-22)**
 > "Don't forget, Germany, they're not allowed to do it."
 
-**[00:51:29](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-50-50)**
-> "Germany, they won, okay?"
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
+
+**[00:18:49](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-germany-t-00-18-36)**
+> "...nists that tried to overthrow Germany and failed."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+
+**[00:12:33](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-germany-t-00-12-01)**
+> "... my grandparents saw in 1930s Germany online?"
 
 </details>
 

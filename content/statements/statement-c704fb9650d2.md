@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:59:32](/episodes/ep-DdPjoy5W-wY.md#t-00-59-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3572);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3572s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They're honestly probably some of these CIA Mormon missions because I know Tyler (Tyler Bowyer) went to Russia for two years and someone in Russia told me that he got kicked out for like spying.
 

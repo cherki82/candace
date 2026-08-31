@@ -6,6 +6,7 @@ date: "2017-05-14"
 ---
 
 **Date:** 2017-05-14
+**Date precision:** Day
 
 ## Event
 

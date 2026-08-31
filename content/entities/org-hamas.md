@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 40 mentions"
+description: "Hamas (Organizations) - 41 mentions"
 id: "org-hamas"
 type: "ORG"
 categories:
@@ -19,11 +19,11 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00">2026-08-04 · 00:37:00</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,12 +33,13 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24" style="--pulse-height:20%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-21" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-36" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-20" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-hamas-t-00-04-45" style="--pulse-height:10%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#t-00-49-51" style="--pulse-height:10%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-hamas-t-00-29-00" style="--pulse-height:10%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23" style="--pulse-height:20%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23" style="--pulse-height:10%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-hamas-t-01-11-57" style="--pulse-height:10%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-hamas-t-00-12-45" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-hamas-t-00-34-41" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-hamas-t-00-44-21" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
@@ -55,12 +56,13 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 |---|---|---:|
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57) | 2 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24) | 2 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32) | 2 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-21) | 5 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-36) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-20) | 5 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-hamas-t-00-04-45) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#t-00-49-51) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-hamas-t-00-29-00) | 1 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-hamas-t-01-11-57) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-hamas-t-00-12-45) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-hamas-t-00-34-41) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-hamas-t-00-44-21) | 1 |
@@ -77,7 +79,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -197,13 +199,18 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[01:12:27](/episodes/ep-es7PWdFGoFI.md#ent-org-hamas-t-01-11-57)**
+> "... and said, yeah, we work with Hamas because Israel and the United States asked us to."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:39:42](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23)**
 > "...y we have a relationship with Hamas is because the U.S. government asked us to establ..."
-
-**[00:39:49](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23)**
-> "Qatar revealed US government asked them to establish relationship with Hamas"
 
 </details>
 
@@ -218,7 +225,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:49:54](/episodes/ep-LATnak75Si0.md#t-00-49-51)**
+**[00:49:51](/episodes/ep-LATnak75Si0.md#t-00-49-51)**
 > "... to have a Karl Marx-quoting, Hamas-loving, red-green alliance sicko.""
 
 </details>
@@ -234,19 +241,19 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (5 mentions)</summary>
 
-**[00:46:48](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-21)**
+**[00:46:48](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-20)**
 > "...s first talk about the Israel-Hamas peace deal that they're trying to shut down our t..."
 
-**[00:46:52](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-21)**
+**[00:46:52](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-20)**
 > "...en reached between Israel and Hamas."
 
 **[00:46:58](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-58)**
 > "...raw its troops from Gaza, and Hamas is going to release the remaining hostages."
 
-**[00:47:32](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-47-32)**
+**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-47-28)**
 > "...S negotiators from Israel and Hamas, and the mediators from Qatar and Egypt and Turke..."
 
-**[00:47:46](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-47-32)**
+**[00:47:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-47-28)**
 > "...d to announce that Israel and Hamas have both signed off on the first phase of our pe..."
 
 </details>
@@ -254,10 +261,10 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:46:38](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32)**
+**[00:46:38](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-36)**
 > "And they basically said she's Hamas."
 
-**[00:46:46](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32)**
+**[00:46:46](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-36)**
 > "...Rachel and Greta Thunberg are Hamas."
 
 </details>
@@ -265,7 +272,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:04:39](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24)**
+**[00:04:37](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24)**
 > "...e indirectly going to empower Hamas.""
 
 **[00:07:21](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-07-21)**
@@ -302,7 +309,14 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Qatar](/entities/gpe-qatar.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:39:42](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23): “And they said, the reason why we have a relationship with Hamas is because the U.S. government asked us to establish one.”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** funded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -316,7 +330,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hamas (12)</strong></summary>
+<summary><strong class="section-title">Statements about Hamas (11)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -364,27 +378,34 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens**: ["Qatar said they work with Hamas because Israel and the US asked them t..."](/statements/statement-f49618df9e54.md)
-  - Also about: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
-
-- [01:12:54](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently said they work with Hamas because Israel and the United..."](/statements/statement-e85ac201b956.md)
-  - Also about: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
-
-- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently came out and said we work with Hamas because Israel and..."](/statements/statement-37092c5c9482.md)
+- [01:12:27](/episodes/ep-es7PWdFGoFI.md#t-01-11-57) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens paraphrased Qatar as saying it worked with Hamas because..."](/statements/statement-37092c5c9482.md)
   - Also about: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:39:48](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Qatar said they have a relationship with Hamas because the U.S. govern..."](/statements/statement-b9887fea08a7.md)
-  - Also about: [Qatar](/entities/gpe-qatar.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
+- [00:39:42](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Owens said Qatar stated that it had a relationship with Hamas because ..."](/statements/statement-b9887fea08a7.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md), [the federal government](/entities/org-the-federal-government.md)
 
-- [00:39:49](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Mohammed bin Abdulrahman Al Thani** (via paraphrase): ["Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Qatar's rel..."](/statements/statement-7e8f3a0ab35e.md)
-  - Also about: [Qatar](/entities/gpe-qatar.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+
+- [00:49:51](/episodes/ep-LATnak75Si0.md#t-00-49-51) (Opinion) **Josh Hammer** (via quoted speech): ["Josh Hammer called Zohran Mamdani a Karl Marx-quoting, Hamas-loving, r..."](/statements/statement-d6b47ce41e37.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:47:44](/episodes/ep-pc3pxRyNFZk.md#t-00-47-28) (Claim) **Donald J. Trump** (via quoted post): ["Trump wrote that Israel and Hamas had signed off on the first phase of..."](/statements/statement-3723313b2565.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 

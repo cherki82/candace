@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:14:25](/episodes/ep-B9TyCs-6o_0.md#t-00-13-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on September 5th, while Charlie was away in Asia, that Rabbi Wolicki and Rabbi Pesach Wolicki, who was the one who shouted me out, he had a call with Justin Streiff and Andrew Kolvet. And I find that to be interesting because Rabbi Wolicki does not have any role within Turning Point USA.
 

@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA employees have told many verified lies and..."
-description: "\"Turning Point USA employees have told many verified lies and inconsistencies following Charlie Kirk's assassination\" — Candace Owens"
+title: "Owens accused Turning Point USA employees of telling many li..."
+description: "\"Owens accused Turning Point USA employees of telling many lies and giving inconsistent accounts, which she said were verifiable\" — Candace Owens"
 statement_id: "statement-d278a5e4e0ac"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Turning Point USA employees have told many verified lies and inconsistencies following Charlie Kirk's assassination
+> Owens accused Turning Point USA employees of telling many lies and giving inconsistent accounts, which she said were verifiable
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:07:21](/episodes/ep-6DhWawD4ZiM.md#t-00-06-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(441);return false;">Play</a>
+**Timestamp:** [00:07:19](/episodes/ep-6DhWawD4ZiM.md#t-00-06-51) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> she launches into a strong defense of Turning Point USA employees who have just as a matter of fact told many lies, many inconsistencies, these are verifiable.
+> That's my personal feedback there. Later on in this same interview, she launches into a strong defense of Turning Point USA employees who have just as a matter of fact told many lies, many inconsistencies, these are verifiable.
 
 ## Verification
 

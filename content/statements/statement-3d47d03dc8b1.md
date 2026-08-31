@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:17:01](/episodes/ep-DqGNvi36ol8.md#t-00-16-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1021);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=1021s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look, he's a former employee of Oracle. He's in engineering. I believe he's from Germany, from what I looked into.
 

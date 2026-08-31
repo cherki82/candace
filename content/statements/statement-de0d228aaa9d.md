@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:19:29](/episodes/ep-puuMVxEu5NU.md#t-00-19-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1169);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1169s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, I agree. And that was my description to the officers on scene about an hour after the shot rang out. ... I went back inside the perimeter and I ran to the command center and I showed them my video. I said, you guys have the wrong guy. ... You got this. It turned out to be George's end.
 

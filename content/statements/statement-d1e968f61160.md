@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:36:01](/episodes/ep-1mYNOqzAdXs.md#t-00-35-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2161);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Israeli defense group we are connected with is ready to review the patent and possible deal.
 

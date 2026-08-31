@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2059);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2059s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But the president has had enough of Tucker (Tucker Carlson). And yeah, I'm just going to admit it. I sent the president Tucker Carlson's clip so he can see the shit that he says about him.
 

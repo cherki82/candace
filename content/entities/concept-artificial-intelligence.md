@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 159 mentions"
+description: "Artificial intelligence (Concepts) - 179 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary/term/artificial_intelligence)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10">2026-01-05 · 00:12:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-09-15">2025-09-15 · 00:09:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-47">2026-08-21 · 00:15:47</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>179</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,20 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#t-00-36-33">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-09-15" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-03-26" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#t-00-45-39" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#t-00-12-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-26-29" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-39-14" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-29-52" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-59-08" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-11-16" style="--pulse-height:21%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-26-33" style="--pulse-height:14%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-19-04" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00" style="--pulse-height:14%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#t-00-42-14" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#t-00-53-58" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10" style="--pulse-height:14%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#t-00-07-27" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-25-21" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
@@ -85,6 +99,20 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-09-15) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-03-26) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#t-00-45-39) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-12-35) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-26-29) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-39-14) | 1 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-29-52) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-59-08) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-11-16) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-26-33) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-19-04) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-42-14) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#t-00-53-58) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-12-10) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27) | 7 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-25-21) | 2 |
@@ -137,7 +165,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+<summary><strong class="section-title">Raw mentions (179)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -832,6 +860,136 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 **[00:36:05](/episodes/ep-OEAHy3SsIiI.md#t-00-36-05)**
 > "in AI?"
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:54:03](/episodes/ep-es7PWdFGoFI.md#t-00-53-58)**
+> "...manufactured by or drafted by AI to the extent that they're confirmed text message..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+
+**[00:42:37](/episodes/ep-sImMM04XdWY.md#t-00-42-14)**
+> "Is he just an AI app?"
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+
+**[00:00:28](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00)**
+> "They got AI analysis."
+
+**[00:00:41](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-41)**
+> "...e weekend, Grok—literally the AI robot—crashed out. He crashed out. He couldn't ke..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:19:34](/episodes/ep-vwG1juDCQZQ.md#t-00-19-04)**
+> "There was no AI. I can't tell you how many fake images are out th..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:26:33](/episodes/ep-iHav0PPzUz8.md#t-00-26-33)**
+> "...s. It's a lot. Well, this new AI web browser from Perplexity called Comet—that is ..."
+
+**[00:31:05](/episodes/ep-iHav0PPzUz8.md#t-00-31-05)**
+> "Like this is not—that's not AI, okay? That's not AI. He wrote an op-ed in the Da..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (3 mentions)</summary>
+
+**[00:11:23](/episodes/ep-Qt0VHV-POCg.md#t-00-11-16)**
+> "AI"
+
+**[00:13:38](/episodes/ep-Qt0VHV-POCg.md#t-00-13-18)**
+> "...n a yarmulke in some of these AI photos?"
+
+**[00:25:57](/episodes/ep-Qt0VHV-POCg.md#t-00-25-34)**
+> "Where there's this new AI web browser from Perplexity which is called Comet..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:59:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-59-08)**
+> "... to tell you guys about Comet AI because how much time do we spend on the web?"
+
+**[01:00:00](/episodes/ep-Cq7nj9rxPdo.md#t-00-59-55)**
+> "Well, there's now a new AI web browser from Perplexity that's called Comet, ..."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:30:18](/episodes/ep-c5BcKF91iec.md#t-00-29-52)**
+> "...d news is that there is a new AI web browser from Perplexity which is called Comet..."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+
+**[00:39:52](/episodes/ep-2Riv3I7D0Yk.md#t-00-39-14)**
+> "But there is a new AI web browser from Perplexity that's called Comet, ..."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:26:37](/episodes/ep-t1YtLS1n8Vs.md#t-00-26-29)**
+> "a new AI web browser from Perplexity"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+
+**[00:12:35](/episodes/ep-adJ4LNGp84I.md#t-00-12-35)**
+> "those subtitles are wrong. That's AI."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+
+**[00:46:12](/episodes/ep-aDlhjfW6hz8.md#t-00-45-39)**
+> "...t wrong was that they did use AI, and in their AI prompt, they said to create a co..."
+
+**[00:46:15](/episodes/ep-aDlhjfW6hz8.md#t-00-45-39)**
+> "...hat went wrong. They prompted AI, and they said between people in their 20s, and a..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
+
+**[00:03:46](/episodes/ep-sreYYcID-QY.md#t-00-03-26)**
+> "Okay, so is this AI or is this a female Fed that put these messages t..."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+
+**[00:09:38](/episodes/ep-czVBmqZP6Ss.md#t-00-09-15)**
+> "...lso an Israeli flag, a bit of AI used, you know, like this is just who Charlie was..."
 
 </details>
 

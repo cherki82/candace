@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(550);return false;">Play</a>
+**Timestamp:** [00:09:07](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=547s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Erika said that she knew the general idea, like they were going to mention me and mention the conspiracies, but she was not given that specific, the podcaster, Candice Owens question.
+> It was all very much planned by Bari. Erika said that she knew the general idea, like they were going to mention me and mention the conspiracies, but she was not given that specific, the podcaster, Candace Owens question.
 
 ## Verification
 

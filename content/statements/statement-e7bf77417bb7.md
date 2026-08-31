@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:19:22](/episodes/ep-i8m_6D4QGmk.md#t-00-19-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1162);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1162s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To what end, though? To what end? I believe it's pretty obvious now there was an ultimate goal of raising Erika's political profile as a potential presidential candidate down the line. Actually, that was explicitly and almost immediately seeded by her
 

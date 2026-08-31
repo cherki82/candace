@@ -7,6 +7,11 @@ time: "15:26"
 ---
 
 **Date:** 2025-09-10 at 15:26
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "15:26"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:23:05](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-andrew-kolvet-replied-to-the-communicati-t-00-22-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1385);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1385s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he replies to that initial question that was sent to him at 1 30 and he declares why he's been absent
 
@@ -26,6 +31,6 @@ time: "15:26"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:21:44](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-10-andrew-kolvet-replied-to-the-communicati-t-00-21-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1304);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1304s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > sorry, on the plane, this just loaded. And he is referring to a message that was sent to him.

@@ -6,6 +6,11 @@ date: "2018"
 ---
 
 **Date:** 2018
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “Back in 2018”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2018"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:04:49](/episodes/ep-CMcktj3Egfo.md#event-event-2018-candace-owens-and-charlie-kirk-traveled--t-00-04-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(289);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Back in 2018,

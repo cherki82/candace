@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:15:38](/episodes/ep-DYD_QHMPwqM.md#t-00-15-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I talked to a special operations general who validated that, and his words were he was in a state of remarkable preservation, okay? He said they have Gilgamesh's remains.
 

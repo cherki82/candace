@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:27:34](/episodes/ep-HYn0P-P1wUw.md#t-00-27-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1654);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1654s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) knew Tyler (Tyler Bowyer) for years before her and Charlie (Charlie Kirk) began dating, right? Both she and Tyler (Tyler Bowyer) have been honest about that fact. particularly citing Trump (Donald Trump)'s 2015 presidential rally as an event where the two of them attended together
 

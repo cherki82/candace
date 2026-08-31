@@ -1,8 +1,8 @@
 ---
-title: "Tyler Robinson in custody around 7 p.m. Sep 11 when local te..."
-description: "\"Tyler Robinson in custody around 7 p.m. Sep 11 when local texts circulated he was picked up in Warner Valley\" — Candace Owens"
+title: "An anonymous investigation source told Owens that local mess..."
+description: "\"An anonymous investigation source told Owens that local messages around 7 p.m. on September 11 said Tyler Robinson was already in custody.\" — Anonymous Source #2 (Ep 2WEHTk0Xewg)"
 statement_id: "statement-1fd24aeec2bb"
-speaker: "Candace Owens"
+speaker: "Anonymous Source #2 (Ep 2WEHTk0Xewg)"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -11,20 +11,21 @@ veracity: "mixed"
 
 ## Statement
 
-> Tyler Robinson in custody around 7 p.m. Sep 11 when local texts circulated he was picked up in Warner Valley
+> An anonymous investigation source told Owens that local messages around 7 p.m. on September 11 said Tyler Robinson was already in custody.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous Source #2 (Ep 2WEHTk0Xewg)](/entities/anon-src-2WEHTk0Xewg-002.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** investigation source communication
 
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:23:16](/episodes/ep-2WEHTk0Xewg.md#t-00-22-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1396);return false;">Play</a>
+**Timestamp:** [00:23:16](/episodes/ep-2WEHTk0Xewg.md#t-00-22-52) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1396s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when everybody locally began receiving the text messages that Tyler Robinson was in custody and that they were going to pick him up in Warner Valley
 

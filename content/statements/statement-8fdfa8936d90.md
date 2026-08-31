@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:30:18](/episodes/ep-DdPjoy5W-wY.md#t-00-30-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It had already been discovered even prior to the email dump that Jeffrey Epstein had given money to Arizona State University, $250,000. ... of his own money plus over two million dollars through various associates of his he started giving to Arizona State University listen to me Jeffrey Epstein began giving to Arizona State University in December of 2010
 

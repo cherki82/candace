@@ -6,6 +6,11 @@ date: "2026-03-12"
 ---
 
 **Date:** 2026-03-12
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the 12th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-03-12"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:47:04](/episodes/ep-I0OaY6Gryqk.md#event-event-2026-03-12-scott-bessent-is-pulled-from-an-intervie-t-00-46-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2824);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2824s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > meeting and got taken out of the meeting quite abruptly and taken to the situation room

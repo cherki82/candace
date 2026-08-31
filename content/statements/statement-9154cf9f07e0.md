@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:02:41](/episodes/ep-581dILVcEE4.md#t-00-02-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(161);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We've got Eyal Yakobi, who writes, "This is what doxing looks like." "These are unparalleled levels of insanity." "This is truly dangerous."
 

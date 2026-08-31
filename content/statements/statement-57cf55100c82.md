@@ -30,10 +30,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:07:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(462);return false;">Play</a>
+**Timestamp:** [00:07:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=458s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And yeah, Kanye sent this now infamous tweet. ... "I love the way Candace Owens thinks."
+> And yeah, Kanye (Kanye West) sent this now infamous tweet. "I love the way Candace Owens thinks."
 
 ## Verification
 

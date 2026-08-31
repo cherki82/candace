@@ -21,11 +21,11 @@ _Type: People_
 Source: [Meet the Attorney General | U.S. Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12">2025-09-19 · 00:34:46</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-37">2025-09-19 · 00:34:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-48-59">2026-06-18 · 00:49:09</a></strong></div>
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>32</strong></div>
-<div><span>Statements by</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -35,7 +35,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12" style="--pulse-height:50%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-37" style="--pulse-height:50%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32" style="--pulse-height:17%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12) | 3 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-37) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32) | 1 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23) | 1 |
@@ -206,7 +206,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:46:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55)**
+**[00:46:50](/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55)**
 > "it appears that Pam Bondi flew on this plane approximately five months ago"
 
 **[00:47:20](/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55)**
@@ -225,13 +225,13 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
 
-**[00:34:46](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12)**
+**[00:34:37](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-37)**
 > "...om whom? Something is not right. Nothing we are being told is true. And the strangest thing is that Pam Bondi, who is a complete loser and a tool, is trying to use the assassination of Charlie Kirk to lay the ..."
 
-**[00:35:13](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-55)**
-> "...me about that he doesn't want to happen. They're trying to use his death to justify. Listen to what Pam Bondi said to Katie Miller on her podcast. Take a listen. "There's free speech and then there's hate spee..."
+**[00:35:13](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-37)**
+> "Listen to what Pam Bondi said to Katie Miller on her podcast."
 
-**[00:38:15](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-37-41)**
+**[00:38:13](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-37-37)**
 > "...e with them that the next step is more power for the government. And this time we're saying no. No, Pam Bondi. No, thank you. Genuinely, why are you in office? How can this administration pretend that they are..."
 
 </details>
@@ -284,7 +284,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 - **[Katie Miller](/entities/person-katie-miller.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/episodes/ep-aDlhjfW6hz8.md#t-00-34-55): “Pam Bondi said to Katie Miller on her podcast”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/episodes/ep-aDlhjfW6hz8.md#t-00-34-37): “Pam Bondi said to Katie Miller on her podcast”
 
 </details>
 
@@ -318,7 +318,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 - **[Katie Miller](/entities/person-katie-miller.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/episodes/ep-aDlhjfW6hz8.md#t-00-34-55): “Pam Bondi said to Katie Miller on her podcast”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/episodes/ep-aDlhjfW6hz8.md#t-00-34-37): “Pam Bondi said to Katie Miller on her podcast”
 
 </details>
 
@@ -327,7 +327,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Pam Bondi (8)</strong></summary>
+<summary><strong class="section-title">Statements by Pam Bondi (6)</strong></summary>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
@@ -352,17 +352,12 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
 
-- [00:35:25](/episodes/ep-aDlhjfW6hz8.md#t-00-34-55) [○] (Opinion) ["There's free speech and then there's hate speech. There is no place—especially n..."](/statements/statement-e29412474eb3.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:35:25](/episodes/ep-aDlhjfW6hz8.md#t-00-34-55) [○] (Opinion) ["There's free speech and then there's hate speech, and there is no place especial..."](/statements/statement-7dad1d739783.md)
+- [00:35:25](/episodes/ep-aDlhjfW6hz8.md#t-00-35-21) [✓] (Opinion) ["There's free speech and then there's hate speech, and there is no place especial..."](/statements/statement-7dad1d739783.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:36:02](/episodes/ep-aDlhjfW6hz8.md#t-00-35-52) [○] (Promise) ["We will absolutely target you, go after you, if you are targeting anyone with ha..."](/statements/statement-2b8c2d9df4a2.md)
-
-- [00:36:02](/episodes/ep-aDlhjfW6hz8.md#t-00-35-52) [○] (Promise) ["We will absolutely target you, go after you, if you are targeting anyone with ha..."](/statements/statement-0ec903542631.md)
+- [00:36:02](/episodes/ep-aDlhjfW6hz8.md#t-00-35-52) [✓] (Promise) ["We will absolutely target you, go after you, if you are targeting anyone with ha..."](/statements/statement-0ec903542631.md)
   - About: [Pam Bondi](/entities/person-pam-bondi.md)
 
 </details>
@@ -446,7 +441,8 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
-- [00:47:38](/episodes/ep-6DhWawD4ZiM.md#t-00-47-35) (Claim) **Candace Owens**: ["Pam Bondi flew on the same VIP plane (tail 99-0404) approximately five..."](/statements/statement-99edc3c2fe01.md)
+- [00:47:20](/episodes/ep-6DhWawD4ZiM.md#t-00-46-55) (Claim) **C-37A flight email tipster (identity unverified)** (via read message): ["An anonymous flight-tracking tipster reported that searches appeared t..."](/statements/statement-99edc3c2fe01.md)
+  - Also about: [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md)
 
 </details>
 

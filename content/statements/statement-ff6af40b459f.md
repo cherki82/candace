@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:11:35](/episodes/ep-A39g5oqB_eM.md#t-00-11-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(695);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The fact that we were able to pull off an event of a century. ... We had over 275,000 people that attended and stadium overflow, ... Westgate,
 

@@ -23,7 +23,7 @@ veracity: "true"
 
 - [Connor Henderson](/entities/person-connor-henderson.md) (person)
 - [Zachariah Qureshi](/entities/person-zachariah-qureshi.md) (person)
-- [BYU](/entities/org-byu.md) (org)
+- [Brigham Young University](/entities/org-brigham-young-university.md) (org)
 - [BILT Incorporated](/entities/org-bilt-incorporated.md) (org)
 
 ## Appearances (2)
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1087);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1087s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. ... their sons both interned at the built company.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [01:09:57](/episodes/ep-h76ZN-xXC6c.md#t-01-09-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=4197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they both attended BYU at the same time ... They very clearly were interning together at the BILT Incorporated
 

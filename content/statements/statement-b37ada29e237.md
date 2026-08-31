@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:17:41](/episodes/ep-his-JBjlkh8.md#t-00-17-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1061);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1061s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's totally fine that these Egyptian planes—and also, by the way, today it broke the Saudi king was on this plane at some point, 2023.
 

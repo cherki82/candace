@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (12 mentions)
+### Evidence (18 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -28,6 +28,18 @@ object: "person-charlie-kirk"
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
 - [00:19:05](/episodes/ep-GY6GWceEqtQ#t-00-19-05): _I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in._
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:14:56](/episodes/ep-K1tFD7FfoCU#t-00-14-56): _Because Charlie (Charlie Kirk) found out that Ben (Ben Shapiro) was operating behind the scenes to stop him and sort of hinder the growth of Turning Point USA in our early days—right when things—when we were kind of coming up together, or me and Charlie (Charlie Kirk) as partners getting out there—and I have only about 80_
+
+**[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
+
+- [00:35:42](/episodes/ep-K5GjF53bfN4#t-00-35-42): _neither he or I were married when we were hitting the road together, but she made him happy._
+
+**[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
+
+- [00:03:27](/episodes/ep-LATnak75Si0#t-00-03-27): _Charlie (Charlie Kirk) and I went on tour in April of 2024 together._
 
 **[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
 
@@ -53,9 +65,21 @@ object: "person-charlie-kirk"
 
 - [00:05:28](/episodes/ep-mFuno0TuuQQ#t-00-05-28): _It was strange because we had always collaborated on and taken those sorts of meetings together._
 
+**[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
+
+- [00:58:15](/episodes/ep-sreYYcID-QY#t-00-58-15): _someone who you know very well—who you were very close to, who you built with—someone who was beside you when you were nobody; he was nobody._
+
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 
 - [00:09:15](/episodes/ep-ti5Fxrvegno#t-00-09-15): _no one on earth has done more college campus events with Charlie Kirk than me._
+
+**[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
+
+- [00:32:29](/episodes/ep-vwG1juDCQZQ#t-00-32-29): _who toured with Charlie (Charlie Kirk) the most_
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:38:03](/episodes/ep-w1oqQbR_bYs#t-00-38-03): _I went on tour with Charlie for years._
 
 **[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
 

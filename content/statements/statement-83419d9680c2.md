@@ -28,10 +28,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:24:40](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1480);return false;">Play</a>
+**Timestamp:** [00:24:49](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1489s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Tim Poole has been one of these people that is crying a lot. So he hosted Milo (Milo Yiannopoulos) on his show. And first and foremost, he called all of you stupid. He said, he explicitly said, I am saying that people that watch your show are stupid because they're not accepting the fed slop and that they will not just eat the fed slop that we are trying to give them.
+> He said, he explicitly said, I am saying that people that watch your show are stupid because they're not accepting the fed slop and that they will not just eat the fed slop that we are trying to give them.
 
 ## Verification
 

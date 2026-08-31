@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:13:38](/episodes/ep-G3zdOeHpvS0.md#t-00-13-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The only reason for trolley to be rigged with two mics would be because one was One was being sent to a broadcast recording or a live stream had both his handheld mic and the road mic been used to run audio to the PA system at the school using different channels, this would cause a myriad of issues that would present with interference, overlapping and echo between the two channels.
 

@@ -11,7 +11,7 @@ object: "gpe-arizona"
 
 ## [Fort Huachuca](/entities/gpe-fort-huachuca) based in [Arizona](/entities/gpe-arizona)
 
-### Evidence (3 mentions)
+### Evidence (2 mentions)
 
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
@@ -19,8 +19,7 @@ object: "gpe-arizona"
 
 **[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
 
-- [00:12:16](/episodes/ep-ewBzjVe3LNQ#t-00-12-16): _Fort Huachuca in Arizona is... a hub for intelligence training_
-- [00:12:29](/episodes/ep-ewBzjVe3LNQ#t-00-12-29): _Fort Huachuca in Arizona is, okay? It is a hub for intelligence training._
+- [00:12:13](/episodes/ep-ewBzjVe3LNQ#t-00-12-13): _But that is not what Fort Huachuca in Arizona is, okay? It is a hub for intelligence training._
 
 ### Related
 

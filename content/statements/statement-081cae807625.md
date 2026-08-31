@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:47:56](/episodes/ep-SKNJPul29zU.md#t-00-47-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2876);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2876s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Patel was like, I can't disclose that information because there's a trial, except there isn't a trial. Crooks is dead. So, you know, like we want to learn more about his motives. Like, where is he from?
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:06:15](/episodes/ep-tXoI0TTKVrs.md#t-00-06-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(375);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=375s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, so once again, Erika Kirk went home. Okay, she went home. And I personally just cannot stress enough how unqualified she is to run this organization academically, emotionally.
 

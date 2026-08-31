@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:21:02](/episodes/ep-H9p2ZGHAs9A.md#t-00-20-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1262);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1262s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is noteworthy that Ms. Kirk's promotional materials from approximately 2012 to 2014 specifically reference the Antonio Placement Center as a partner for her international efforts.
 

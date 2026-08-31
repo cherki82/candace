@@ -5,11 +5,15 @@ id: "date-december-15th"
 type: "DATE"
 aliases:
   - "December 10th"
+categories:
+  - "episode timeline date"
 ---
 
 _Type: Dates_
 
 **Also known as:** December 10th
+
+**Categories:** episode timeline date
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-date-december-15th-t-00-09-40">2025-11-20 · 00:09:59</a></strong></div>

@@ -30,7 +30,7 @@ Source: [Satys announces the Group's reorganization and a capital increase](http
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -67,7 +67,29 @@ Source: [Satys announces the Group's reorganization and a capital increase](http
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Invested In (1)</summary>
+
+- **[Satys](/entities/org-satys.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:15:27](/episodes/ep-a-e7HC6SeK8.md#t-00-15-27): “We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Satys](/entities/org-satys.md)** has investor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:15:27](/episodes/ep-a-e7HC6SeK8.md#t-00-15-27): “We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis.”
+
+</details>
+
+</details>
 
 </details>
 

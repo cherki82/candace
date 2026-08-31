@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:32:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-31-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1930);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The most pertinent information. So the screenshot that she put up there about this whole conspiracy to boost Erika (Erika Kirk)'s, as she calls it, the I want to go home video, even in her description, she says, this is not the email.
 

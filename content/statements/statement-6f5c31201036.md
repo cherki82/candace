@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:47:12](/episodes/ep-IqHsl7d2dos.md#t-00-46-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2832);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=2832s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i've always said also that the french foreign legion was there on the ground that day this has never been disputed by any authority um they just sort of ignored it and i stand by that that the french foreign legion
 

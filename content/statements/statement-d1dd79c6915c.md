@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1323);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1323s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is very obvious. He sold this out to the feds. He's clearly working for the feds.
 

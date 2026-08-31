@@ -1,8 +1,8 @@
 ---
-title: "Rob McCoy and his wife sold their home in Thousand Oaks and ..."
-description: "\"Rob McCoy and his wife sold their home in Thousand Oaks and bought a home in the Phoenix area when his responsibilities grew at Turning Point USA\" — Candace Owens"
+title: "When Rob McCoy's responsibilities grew at Turning Point USA,..."
+description: "\"When Rob McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home in Thousand Oaks and bought a home in the Phoenix area.\" — Ventura County Star"
 statement_id: "statement-a9267ee9539d"
-speaker: "Candace Owens"
+speaker: "Ventura County Star"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,28 @@ type: "factual_claim"
 
 ## Statement
 
-> Rob McCoy and his wife sold their home in Thousand Oaks and bought a home in the Phoenix area when his responsibilities grew at Turning Point USA
+> When Rob McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home in Thousand Oaks and bought a home in the Phoenix area.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Ventura County Star](/entities/org-ventura-county-star.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from article
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Ventura County Star
+
+## About
+
+- [Rob McCoy](/entities/person-rob-mccoy.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(947);return false;">Play</a>
+**Timestamp:** [00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-47) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=947s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> McCoy will become the emeritus pastor and will still preach regularly at the church in a role that could last into the mid-70s." And then it goes on to say, "When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home in Thousand Oaks and bought...
+> When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home in Thousand Oaks and bought a home in the Phoenix area.
 
 ## Verification
 

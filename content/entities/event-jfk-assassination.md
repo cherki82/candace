@@ -17,7 +17,7 @@ _Type: Events_
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -27,7 +27,7 @@ _Type: Events_
 <p>Highest activity: <a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-00-00">Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-event-jfk-assassination-t-00-43-43" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-37" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-11" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-event-jfk-assassination-t-00-05-02" style="--pulse-height:25%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-00-00" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-event-jfk-assassination-t-01-00-50" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
@@ -37,7 +37,7 @@ _Type: Events_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-event-jfk-assassination-t-00-43-43) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-37) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-11) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-event-jfk-assassination-t-00-05-02) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-00-00) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-jfk-assassination-t-01-00-50) | 2 |
@@ -68,13 +68,13 @@ _Type: Events_
 > "..., Charlie Kirk discussing the JFK assassination, that sure is something."
 
 **[00:01:31](/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-00-00)**
-> "Charlie Kirk discussing JFK assassination"
+> "So at one of his, honestly, one of his last events in May of this year, Charlie (Charlie Kirk) was directly asked his opinion regarding John F. Kennedy's assassination down in Dallas."
 
 **[00:02:43](/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-02-30)**
 > "... to have lied to us about the JFK assassination, which then I think will sober a lot of us about ..."
 
 **[00:34:43](/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-34-20)**
-> "...elieve it is exactly like the JFK assassination and people close to Charlie are aware of things t..."
+> "And because I believe that this conspiracy is so far reaching, because I believe it is exactly like the JFK assassination and people close to Charlie (Charlie Kirk) are aware of things that they sold him out in many ways every single day that goes by where they don't tell us the truth and they're not honest about the anxiety that Charlie (Charlie Kirk) had the night before he died."
 
 </details>
 
@@ -89,7 +89,7 @@ _Type: Events_
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:27:40](/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-37)**
+**[00:27:40](/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-11)**
 > "We are right now living through the JFK assassination."
 
 </details>
@@ -112,34 +112,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JFK assassination (12)</strong></summary>
+<summary><strong class="section-title">Statements about JFK assassination (8)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5)</summary>
 
-- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["In the JFK files, Mossad is mentioned. One of the reasons why Mossad i..."](/statements/statement-ee9e4c65d87d.md)
-  - Also about: [Mossad](/entities/org-mossad.md)
-
-- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["In the JFK files, Mossad is mentioned"](/statements/statement-bd6205f93016.md)
-  - Also about: [Mossad](/entities/org-mossad.md)
-
-- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Lyndon Baines Johnson and parts of our own government and the Cubans w..."](/statements/statement-e4d824ed3726.md)
-  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
-
-- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Parts of our own government and the Cubans wanted JFK dead"](/statements/statement-37435b3d356d.md)
-  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+- [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said Lyndon Baines Johnson, parts of the U.S. government,..."](/statements/statement-e4d824ed3726.md)
+  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [the federal government](/entities/org-the-federal-government.md)
 
 - [00:02:18](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Claim) **Charlie Kirk** (via quoted speech): ["There were 15 or 20 inexcusable things that happened on the day of JFK..."](/statements/statement-17c4af89e1a6.md)
   - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 
-- [00:02:37](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) (Claim) **Charlie Kirk** (via quoted speech): ["We have to first acknowledge that more than one person killed JFK. Onc..."](/statements/statement-13f0c447c2b7.md)
+- [00:02:40](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said more than one person was involved in JFK's assassina..."](/statements/statement-190b120d1900.md)
 
-- [00:02:40](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) (Claim) **Charlie Kirk** (via quoted speech): ["More than one person was involved in JFK's assassination"](/statements/statement-190b120d1900.md)
+- [00:02:43](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the U.S. government had lied about the JFK assassina..."](/statements/statement-0e334e1e49cf.md)
+  - Also about: [the federal government](/entities/org-the-federal-government.md)
 
-- [00:02:43](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) (Accusation) **Charlie Kirk** (via quoted speech): ["The government lied to us about the JFK assassination"](/statements/statement-0e334e1e49cf.md)
-  - Also about: [United States Capitol Police](/entities/org-united-states-capitol-police.md)
-
-- [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-60b6bb5b3d5e.md)
+- [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Owens said Lyndon Baines Johnson was clearly implicated in JFK's assas..."](/statements/statement-60b6bb5b3d5e.md)
   - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 
 </details>
@@ -158,7 +147,7 @@ _No relationships extracted yet._
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
+- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-09) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
   - Also about: [MKUltra](/entities/concept-mkultra.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 </details>

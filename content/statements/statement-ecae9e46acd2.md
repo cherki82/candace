@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:41:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-41-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2517);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=2517s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > whether it was calling me an idiot or trying to pretend that I was like the worst anti-Semite ever because I brought up something that's true about Israel or its history. They pay people to do this.
 

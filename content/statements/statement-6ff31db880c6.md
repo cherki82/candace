@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:36:54](/episodes/ep-xi8SYJTUXPM.md#t-00-36-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2214);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2214s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The fact that people reflect and think, if something happened to Trump—like I told you, people in, as I understand it, Melania Trump's inner circle have said this— ... have said this—that she would be the most likely person to harm Donald Trump.
 

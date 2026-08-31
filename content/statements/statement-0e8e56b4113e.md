@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:53:10](/episodes/ep-_cNtgris8Ik.md#t-00-52-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3190);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3190s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > actually what he said to me on the 14th was no on that front we're good we don't have to worry about that because The board has already voted in Erica. ... Don't say this yet. We're not announcing it publicly. But Erica is taking over the company. And what I said to him was, thank God.
 

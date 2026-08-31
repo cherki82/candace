@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:11:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-11-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(719);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=719s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's a sample of what she wrote on social media. She wrote, on April 26th of this year, a letter was sent to my dad's board sharing detailed events revealing that I experienced abuse at the hands of my father for many years and that there needed to be accountability and financial restitution was being recommended.
 

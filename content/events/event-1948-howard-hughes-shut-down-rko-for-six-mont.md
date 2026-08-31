@@ -6,6 +6,11 @@ date: "1948"
 ---
 
 **Date:** 1948
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “That was in 1948”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1948"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:12:03](/episodes/ep-ds6umq1rHAw.md#event-event-1948-howard-hughes-shut-down-rko-for-six-mont-t-00-12-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(723);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=723s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he shut down his film studio after he acquired it, RKO, for six months he shut it down

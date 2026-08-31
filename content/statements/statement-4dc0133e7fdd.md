@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:19:02](/episodes/ep-KpxIBWkNsSs.md#t-00-18-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1142);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=1142s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You will also see on her LinkedIn that she has Doctor of Education that she received that in Christian leadership from Liberty University that is factually untrue, that's made up. She took a couple of credits toward that goal, but she never accomplished it.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:18:45](/episodes/ep-d7VsbEIWkP8.md#t-00-18-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1125);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1125s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've made it clear that I believe the person who is walking up the stairs in the maroon shirt is not Tyler Robinson. ... I still believe what I reported back in October of last year, what I reported back in October of last year, which is that Tyler Robinson never stepped foot onto UVU campus.
 

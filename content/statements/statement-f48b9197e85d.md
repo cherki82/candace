@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:10:39](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(639);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=639s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I told you guys that Mitt Romney's presidential campaign team actually went over to BYU Jerusalem, where, as it turns out, a lot of CIA agents are recruited from. ... They're approached to work while they're in school, during their studies. Very interesting. We've confirmed that.
 

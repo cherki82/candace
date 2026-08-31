@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:32:14](/episodes/ep-19vHhjF7-NA.md#t-00-32-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1934);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=1934s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > well it's something he told all of us we all knew we didn't talk about come out because we thought Charlie (Charlie Kirk)'s gonna be with us for another 50 plus years but like we all knew the board knew this was the plan whatever he said it one time in front of a camera at a private event with donors in aspen ... I appoint my wife to run Turning Point USA if something happens to me. Erika (Erika Kirk) would do a great job.
 

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:03:40](/episodes/ep-N4uM8Jdr410.md#t-00-03-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(220);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=220s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A lot of things bother me about this. Nothing in particular, and it's not like I'm out there saying big lie or conspiracy or someone did it. I'm just saying I've been in a lot of shootings that have killed more than a handful of people, and this thing looked shady off the bat.
 

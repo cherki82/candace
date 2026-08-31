@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:40:54](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2454);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2454s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's a globalist agent.
 

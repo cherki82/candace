@@ -1,6 +1,6 @@
 ---
 title: "Phil Lyman"
-description: "Phil Lyman (People) - 64 mentions"
+description: "Phil Lyman (People) - 63 mentions"
 id: "person-phil-lyman"
 type: "PERSON"
 aliases:
@@ -20,13 +20,13 @@ _Type: People_
 Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/uploads/sites/42/2024/10/2024-VIP-final.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54">2025-09-16 · 01:12:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-12-00">2025-09-16 · 01:12:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-phil-lyman-t-00-14-12">2026-06-22 · 00:14:22</a></strong></div>
 <div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Mentions</span><strong>63</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,14 +34,14 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-phil-lyman-t-00-25-45">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (24 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-12-00" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-phil-lyman-t-00-25-45" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 24 mentions" title="2025-09-29 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-00-39" style="--pulse-height:62%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 15 mentions" title="2025-09-30 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54" style="--pulse-height:42%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 10 mentions" title="2025-10-01 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-36" style="--pulse-height:38%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 9 mentions" title="2025-10-01 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-55" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-25" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-20" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-27" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -52,14 +52,14 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-12-00) | 1 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53) | 2 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-phil-lyman-t-00-25-45) | 24 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-00-39) | 15 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54) | 10 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20) | 3 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-36) | 9 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-55) | 3 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-25) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-20) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-27) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50) | 1 |
@@ -72,7 +72,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (63)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
@@ -123,7 +123,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:18:51](/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-25)**
+**[00:18:45](/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-20)**
 > "... of the alleged shooter. One, of course, of him walking in front of—I think this was the house that Phil Lyman was at. Yes, that's what we just discussed. That sure as heck could be a white RAV4. The second pie..."
 
 </details>
@@ -139,48 +139,45 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
-**[00:21:00](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20)**
+**[00:21:00](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-55)**
 > "...owing, our witness tree. We've got Tiffany Barker, of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman, ..."
 
-**[00:21:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-21-03)**
+**[00:21:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-55)**
 > "...Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman, of course, our guy; he really does not like me at all. He wants me to know that he thinks I'm shad..."
 
-**[00:23:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-23-19)**
+**[00:23:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-23-57)**
 > "... not gonna speak to anybody else about that.” Same for Grinnell owner; we covered this. He was with Phil Lyman's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austr..."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (10 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (9 mentions)</summary>
 
-**[00:03:05](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
+**[00:03:05](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-36)**
 > "... help you guys with that information. Also, another thing that I came across, and this is regarding Phil Lyman's campaign website. You guys were asking me if we came across that. Yes, I did come across that, and ..."
 
-**[00:03:35](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
+**[00:03:35](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-03-13)**
 > "... we were aware that George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character. You can see that here. George Zin writes, "Rare to find a more caring man with uncomprom..."
 
-**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-03-37)**
-> "..., "Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge of urban and rural Utah from every corn..."
-
-**[00:04:34](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-04-22)**
+**[00:04:34](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-04-34)**
 > "...politics. Take from that what you will, meaning that he shows up to a lot of events. But of course, Phil Lyman's people would have been controlling that website, certainly should have been aware of his erratic ch..."
 
 **[00:07:42](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-07-42)**
 > "...ronger hunch about things. We'll jump back in here regarding Skyler Broderick, who is, according to Phil Lyman, a cousin, who he refers to Phil as his uncle across interviews. Doesn't matter. They're family mem..."
 
-**[00:09:31](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-08)**
+**[00:09:31](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-06)**
 > "... started tingling. I'm like, okay, this is a lot of Lymans now. I want to be very clear and fair to Phil Lyman. He has been forthcoming about the fact that his family owned that property. Like, they own everyth..."
 
 **[00:09:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-49)**
 > "...reage from his family for that university. But I did feel that if that is the case, obviously, then Phil Lyman would in theory be able to access that footage, right? Be able to speak to his family members. And ..."
 
-**[00:14:29](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-14-03)**
+**[00:14:29](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-14-01)**
 > "...? What's she look like? How old is she? I obviously did the sensible thing, right? I reached out to Phil Lyman because it's his family. And I asked him whether or not he would be willing to track down this foot..."
 
-**[00:16:47](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-16-14)**
+**[00:16:47](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-16-39)**
 > "...t, please let me know. I am going to try again to reach out to this family since I don't think that Phil Lyman wants to assist me. He doesn't like me. That's fine. I wonder if he likes truth. If he likes trying..."
 
-**[00:17:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-17-40)**
+**[00:17:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-17-23)**
 > "...m Austria, and then we're going, who's this goth kid that Phil has been clear he does not know him? Phil Lyman does not know this individual. He could not help identify him. I told you it was unusual that our i..."
 
 </details>
@@ -326,7 +323,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[01:12:21](/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54)**
+**[01:12:17](/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-12-00)**
 > "...thing about that election. "He stole the election to reinsert himself as the governor. Reach out to Phil Lyman, who ran against Cox and was chosen as a Republican candidate by the delegates. And Eric Moutsos wa..."
 
 </details>
@@ -342,7 +339,19 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03): “Phil Lyman... he really does not like me at all.”
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-20-55): “Phil Lyman... he really does not like me at all.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:56](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29): “So, yesterday, we were kind of poking fun at the narrative that Phil Lyman seemed to be trying to spin—suggesting that, quote-unquote, "gothic girls" might have been suspicious, that they maybe could have been responsible or aware, at least, that the shooting was going to occur.”
 
 </details>
 
@@ -354,7 +363,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 - **[George Zinn](/entities/person-george-zinn.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-03-13): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
 
 </details>
 
@@ -398,12 +407,19 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 </details>
 
 <details>
-<summary>Ran Against (1)</summary>
+<summary>Ran Against (2)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
+
+</details>
+
+- **[Spencer Cox](/entities/person-spencer-cox.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 01:12:17](/episodes/ep-q7f8r-THr84.md#t-01-12-00): “Reach out to Phil Lyman, who ran against Cox and was chosen as a Republican candidate by the delegates.”
 
 </details>
 
@@ -422,19 +438,26 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:56](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29): “So, yesterday, we were kind of poking fun at the narrative that Phil Lyman seemed to be trying to spin—suggesting that, quote-unquote, "gothic girls" might have been suspicious, that they maybe could have been responsible or aware, at least, that the shooting was going to occur.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03): “Phil Lyman... he really does not like me at all.”
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-20-55): “Phil Lyman... he really does not like me at all.”
 
 </details>
 
 - **[George Zinn](/entities/person-george-zinn.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-03-13): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
 
 </details>
 
@@ -466,6 +489,13 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 
 </details>
 
+- **[Spencer Cox](/entities/person-spencer-cox.md)** ran against this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 01:12:17](/episodes/ep-q7f8r-THr84.md#t-01-12-00): “Reach out to Phil Lyman, who ran against Cox and was chosen as a Republican candidate by the delegates.”
+
+</details>
+
 - **[Blanding](/entities/gpe-blanding.md)** residence of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -492,7 +522,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Phil Lyman (2)</strong></summary>
+<summary><strong class="section-title">Statements about Phil Lyman (5)</strong></summary>
 
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2)</summary>
@@ -501,6 +531,20 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
   - Also about: [Tim Ballard](/entities/person-tim-ballard.md)
 
 - [00:16:02](/episodes/ep-YA1FxrDWNIo.md#t-00-15-56) (Claim) **Candace Owens**: ["At 12:23, Phil Lyman was inside of the building, and he must have then..."](/statements/statement-af14204290fa.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (3)</summary>
+
+- [00:08:14](/episodes/ep-UBkFkg4UNY8.md#t-00-07-53) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tiffany Barker told her that a political connection led Goo..."](/statements/statement-0af5aa13d5ea.md)
+  - Also about: [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Good Morning America](/entities/work-good-morning-america.md)
+
+- [00:08:25](/episodes/ep-UBkFkg4UNY8.md#t-00-07-53) (Claim) **Candace Owens** (via paraphrase): ["Owens said Good Morning America contacted Phil Lyman and that this som..."](/statements/statement-0c5fd6441422.md)
+  - Also about: [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Good Morning America](/entities/work-good-morning-america.md)
+
+- [00:08:25](/episodes/ep-UBkFkg4UNY8.md#t-00-07-53) (Claim) **Candace Owens**: ["Owens said Tiffany Barker's sister had run for lieutenant governor alo..."](/statements/statement-a593b288efca.md)
+  - Also about: [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)
 
 </details>
 

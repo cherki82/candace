@@ -1,6 +1,6 @@
 ---
 title: "King David"
-description: "King David (People) - 21 mentions"
+description: "King David (People) - 26 mentions"
 id: "person-king-david-biblical"
 type: "PERSON"
 aliases:
@@ -20,10 +20,10 @@ _Type: People_
 Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegateway.com/resources/encyclopedia-of-the-bible/David)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46">2025-10-30 · 00:42:50</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-king-david-biblical-t-00-38-56">2025-10-27 · 00:39:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20">2026-04-01 · 00:48:20</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,22 +32,32 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (13 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 13 mentions" title="2025-10-30 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00" style="--pulse-height:15%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-david-biblical-t-00-36-13" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-king-david-biblical-t-00-45-55" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49" style="--pulse-height:15%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-king-david-biblical-t-00-38-56" style="--pulse-height:30%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-king-david-biblical-t-00-49-55" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 10 mentions" title="2025-10-30 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00" style="--pulse-height:20%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-king-david-biblical-t-00-53-21" style="--pulse-height:10%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-king-david-biblical-t-00-53-00" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-king-david-biblical-t-00-50-57" style="--pulse-height:10%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-david-biblical-t-00-36-13" style="--pulse-height:10%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-king-david-biblical-t-00-45-55" style="--pulse-height:10%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47" style="--pulse-height:10%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49" style="--pulse-height:20%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20" style="--pulse-height:10%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46) | 13 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-king-david-biblical-t-00-38-56) | 3 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-king-david-biblical-t-00-49-55) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46) | 10 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00) | 2 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-king-david-biblical-t-00-53-21) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-king-david-biblical-t-00-53-00) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-king-david-biblical-t-00-50-57) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-david-biblical-t-00-36-13) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-king-david-biblical-t-00-45-55) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47) | 1 |
@@ -60,7 +70,7 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
@@ -106,6 +116,30 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 </details>
 
 <details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+
+**[00:50:57](/episodes/ep-JQjCAsfoXEE.md#ent-person-king-david-biblical-t-00-50-57)**
+> "...rong side of the tracks doing David stuff with her truth axe with class."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:53:34](/episodes/ep-7RLtGgkTh9o.md#ent-person-king-david-biblical-t-00-53-00)**
+> ""You are Charlie (Charlie Kirk)'s David." "May God bless you and keep you and your family safe." "I love you, sweet girl.""
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+
+**[00:53:28](/episodes/ep-YaZfwLQ7vrI.md#ent-person-king-david-biblical-t-00-53-21)**
+> "Be my David."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:56:21](/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00)**
@@ -117,12 +151,12 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (13 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (10 mentions)</summary>
 
-**[00:42:50](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46)**
+**[00:42:46](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46)**
 > "... said he wanted you to be his David?"
 
-**[00:43:02](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46)**
+**[00:42:56](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46)**
 > "...urse, of the narrative beyond David slaying the Goliath: David and his unique friends..."
 
 **[00:43:15](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46)**
@@ -137,26 +171,42 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 **[00:43:34](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-43-28)**
 > "...nd—the friendship—began after David defeated Goliath and grew into an unlikely but pr..."
 
-**[00:43:41](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-43-28)**
-> "...e describes Jonathan's loving David as quote, his own soul and forming a covenant wit..."
-
 **[00:43:48](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-43-28)**
 > "...lty was so great that he gave David his robe,"
 
 **[00:43:59](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-43-28)**
 > "Jonathan repeatedly protected David from his father, Saul—warning him of the king's i..."
 
-**[00:44:05](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-43-28)**
-> "After Jonathan's death, David grieved deeply for his friend."
-
-**[00:55:34](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-55-12)**
-> "...(Charlie Kirk) saw you as his David."
-
-**[00:55:35](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-55-12)**
+**[00:55:34](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-55-25)**
 > "...nd one Samuel: Jonathan loved David like his own soul, protected him, handed him the ..."
 
-**[00:55:43](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-55-12)**
+**[00:55:39](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-55-25)**
 > "But David finished the fight—wield the sword, finished the ..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
+
+**[00:50:28](/episodes/ep-Qt0VHV-POCg.md#ent-person-king-david-biblical-t-00-49-55)**
+> "Charlie's David"
+
+**[00:53:30](/episodes/ep-Qt0VHV-POCg.md#ent-person-king-david-biblical-t-00-52-48)**
+> ""Charlie's David—you are chosen for such a time as this.""
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (3 mentions)</summary>
+
+**[00:39:17](/episodes/ep-c5BcKF91iec.md#ent-person-king-david-biblical-t-00-38-56)**
+> "If that is the case, be my David."
+
+**[00:44:02](/episodes/ep-c5BcKF91iec.md#ent-person-king-david-biblical-t-00-43-50)**
+> "...nna go ahead and be Charlie's David."
+
+**[00:56:21](/episodes/ep-c5BcKF91iec.md#ent-person-king-david-biblical-t-00-55-48)**
+> "David Foster wrote, "I didn't even know Charlie, and I ..."
 
 </details>
 

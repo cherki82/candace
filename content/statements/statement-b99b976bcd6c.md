@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:32:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-32-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=1942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she crossed the line. She continually crosses the line every day, insinuating that Turning Point literally killed the guy who made them all rich.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:12:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-11-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(720);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=720s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she reveals very quickly—you were going to hear Charlie (Charlie Kirk) say that Tucker (Tucker Carlson) should go for it.
 

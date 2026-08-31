@@ -6,11 +6,19 @@ type: "PERSON"
 aliases:
   - "Robert Davis"
   - "Pastor Robert Davis"
+categories:
+  - "North Country Chapel pastor"
 ---
 
 _Type: People_
 
 **Also known as:** Robert Davis, Pastor Robert Davis
+
+**Categories:** North Country Chapel pastor
+
+**Entity verification:** verified
+> Litigation reporting identifies Robert Davis as the North Country Chapel pastor in the Post Falls context.
+Source: [OC Weekly: Lawsuit Claims Calvary Chapel Allowed Shuffling of Employee](https://www.ocweekly.com/lawsuit-claims-calvary-chapel-allowed-shuffling-of-pedophile-employee-from-diamond-bar-to-idaho-6456577/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-robert-davis-t-00-20-23">2025-11-13 · 00:20:49</a></strong></div>

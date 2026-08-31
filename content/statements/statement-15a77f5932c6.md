@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:07:03](/episodes/ep-OEAHy3SsIiI.md#t-00-06-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You feel like this is a coordinated and choreographed spectacle so that you are played.
 

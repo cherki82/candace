@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 **Timestamp:** [00:46:01](/episodes/ep-iHav0PPzUz8.md#t-00-45-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2761);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2761s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The leading UN official on Gaza describes it as quote, a toxic dump.
 

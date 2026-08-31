@@ -1,6 +1,6 @@
 ---
-title: "The U.S. government did not publicly release Pentagon impact..."
-description: "\"The U.S. government did not publicly release Pentagon impact footage until May 2006, nearly five years after 9/11\" — Candace Owens"
+title: "Owens said Pentagon impact footage was withheld for a long t..."
+description: "\"Owens said Pentagon impact footage was withheld for a long time and thought someone in Congress had to fight to get footage released.\" — Candace Owens"
 statement_id: "statement-8fe6ba7a0814"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> The U.S. government did not publicly release Pentagon impact footage until May 2006, nearly five years after 9/11
+> Owens said Pentagon impact footage was withheld for a long time and thought someone in Congress had to fight to get footage released.
 
 ## Attribution
 
@@ -23,10 +23,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:04:43](/episodes/ep-sreYYcID-QY.md#t-00-04-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(283);return false;">Play</a>
+**Timestamp:** [00:04:43](/episodes/ep-sreYYcID-QY.md#t-00-04-43) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=283s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It makes me think, you know, how long did it take before they were willing to show us any footage of the alleged giant Boeing plane that hit the Pentagon building
+> It makes me think, you know, how long did it take before they were willing to show us any footage of the alleged giant Boeing plane that hit the Pentagon building? ... We weren't allowed to see that for a very long time. ... I think someone actually in Congress had to fight to get any footage released.
 
 ## Verification
 

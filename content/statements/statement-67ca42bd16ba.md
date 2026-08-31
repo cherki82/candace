@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:08:04](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(484);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=484s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Any American that receives a death threat from overseas or anywhere in America is going to be fully investigated ... If there's anything to it, this FBI will respond to it. OK, but so far, no
 

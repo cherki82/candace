@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:02:19](/episodes/ep-Ux1kzgQxkws.md#t-00-02-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(139);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=139s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After six years of this, I've been sober since June 1st of 2019, clean and sober, verifiably so, by the way, and verifiably so by the.
 

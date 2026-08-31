@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:12:53](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(773);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=773s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I told you Sigmund Freud was a Satanist. He created a social science.
 

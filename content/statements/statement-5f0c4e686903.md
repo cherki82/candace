@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:25:10](/episodes/ep-HZvwbfePe7o.md#t-00-24-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1510);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=1510s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What Charlie (Charlie Kirk) started, we have the responsibility to finish. The foundation he laid, we must build upon.
 

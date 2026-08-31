@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:36:41](/episodes/ep-OgRyiOAVtWU.md#t-00-36-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2201);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But sometimes she just can't help herself and she'll just sort of explode the tirade. She hates her, Candace, more than she hates her political opponents. ... It continues, at least with them, she knew where she stood. They didn't exactly betray her like Candace did.
 

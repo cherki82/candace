@@ -1,8 +1,8 @@
 ---
-title: "Charlie Kirk said that he was receiving messages calling him..."
-description: "\"Charlie Kirk said that he was receiving messages calling him an antisemite.\" — Candace Owens"
+title: "Charlie Kirk said he had received text messages calling him ..."
+description: "\"Charlie Kirk said he had received text messages calling him an antisemite.\" — Charlie Kirk"
 statement_id: "statement-4e7a36b20f4f"
-speaker: "Candace Owens"
+speaker: "Charlie Kirk"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,22 +11,27 @@ veracity: "true"
 
 ## Statement
 
-> Charlie Kirk said that he was receiving messages calling him an antisemite.
+> Charlie Kirk said he had received text messages calling him an antisemite.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Megyn Kelly interview clip played in episode
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:57:01](/episodes/ep-q7f8r-THr84.md#t-00-56-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3421);return false;">Play</a>
+**Timestamp:** [00:54:19](/episodes/ep-q7f8r-THr84.md#t-00-53-50) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3259s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He says that he is receiving messages calling him an antisemite
+> I have text messages, Megyn, calling me an anti-Semite.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
-title: "Someone who recently got shot accidentally by a .30-06 on a ..."
-description: "\"Someone who recently got shot accidentally by a .30-06 on a hunting trip sent Candace a photo showing shocking damage, confirming a smaller weapon was...\" — Candace Owens"
+title: "Candace Owens said she thought a photo sent by someone accid..."
+description: "\"Candace Owens said she thought a photo sent by someone accidentally shot with a .30-06 supported her conclusion that a smaller weapon was used on Char...\" — Candace Owens"
 statement_id: "statement-500ad3e84c59"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Someone who recently got shot accidentally by a .30-06 on a hunting trip sent Candace a photo showing shocking damage, confirming a smaller weapon was used on Charlie Kirk
+> Candace Owens said she thought a photo sent by someone accidentally shot with a .30-06 supported her conclusion that a smaller weapon was used on Charlie Kirk
 
 ## Attribution
 
@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:52:03](/episodes/ep-sImMM04XdWY.md#t-00-51-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3123);return false;">Play</a>
+**Timestamp:** [00:51:30](/episodes/ep-sImMM04XdWY.md#t-00-50-58) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=3090s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Yeah, somebody who recently got shot accidentally by a .30-06 on a hunting trip sent me a photo to our tips box, and it was shocking. I mean, absolutely shocking. He described the damage that was done and just said, "In case you want to share with your viewers— in case they actually think that Charlie (Charlie Kirk)'s neck somehow stopped this." And I am declining to share that, but I think we can confirm that there was no miracle-bending bullet from the Lozier Center. A smaller weapon was used.
+> Yeah, somebody who recently got shot accidentally by a .30-06 on a hunting trip sent me a photo to our tips box, and it was shocking. ... And I am declining to share that, but I think we can confirm that there was no miracle-bending bullet from the Lozier Center. ... A smaller weapon was used.
 
 ## Verification
 

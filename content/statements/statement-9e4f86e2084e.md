@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [01:26:24](/episodes/ep-E7P2ShoYDUA.md#t-01-26-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5184);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=5184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we know there's that everything is wrong with the Charlie Kirk narrative literally everything is wrong with this narrative and like I say to you guys all the time they're not going to get away with it
 

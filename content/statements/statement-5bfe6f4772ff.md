@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:21:49](/episodes/ep-a2bZf4fic10.md#t-00-21-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1309);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=1309s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know what I think? I think it's plausible. It might not be right, but it's plausible. If you had a bunch of tempered glass that was sticking to him as a fabric, you would bunch up that shirt like it was a purse to... ... make sure it wasn't seen by the public.
 

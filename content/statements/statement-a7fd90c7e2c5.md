@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:20:02](/episodes/ep-YeEtS7nix3o.md#t-01-19-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4802);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=4802s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, I told you guys the truth. That was real. She's considered an emotional asset and that it looks like the Department of War was who was involved with these emails.
 

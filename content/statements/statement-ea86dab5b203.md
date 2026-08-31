@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:50:50](/episodes/ep-cZxHqYsWRYg.md#t-00-50-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3050);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=3050s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These people love Charlie (Charlie Kirk). These people didn't even write their own speeches for his memorial. Take it to the bank. ... They didn't even write their own speeches. ... For the memorial. They had people writing their speeches. That's how little these people cared about Charlie Kirk.
 

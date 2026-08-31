@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:18:45](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1125);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1125s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And actually, I do know who handpicked it. ... I was around for that. It was Tyler Bowyer.
 

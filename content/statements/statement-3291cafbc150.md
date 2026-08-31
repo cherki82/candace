@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:24:10](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My eyes are now wide open and now realize that I have been used to spread messages that I don't believe in. I am distancing myself from politics and completely focusing on being creative.
 

@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:26:42](/episodes/ep-QZWSsq8ZWzw.md#t-00-26-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1602);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1602s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, I don't know, but I know—because it is giving me the same ick that I had when I was looking through the period and learning the reality of what happened throughout the 1960s when MKUltra—when that program was running
 

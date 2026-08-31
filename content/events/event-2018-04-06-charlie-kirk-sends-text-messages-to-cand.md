@@ -6,6 +6,11 @@ date: "2018-04-06"
 ---
 
 **Date:** 2018-04-06
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “April 6th, 2018”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2018-04-06"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:38:42](/episodes/ep-c5BcKF91iec.md#event-event-2018-04-06-charlie-kirk-sends-text-messages-to-cand-t-00-15-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2322);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2322s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > were laughing. And I'm going to show you that clip in a seco
 
@@ -25,6 +30,6 @@ date: "2018-04-06"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:05:16](/episodes/ep-HZvwbfePe7o.md#event-event-2018-04-06-charlie-kirk-sends-text-messages-to-cand-t-00-04-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(316);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=316s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I showed a 2018 text which was relevant to him predicting his own death.

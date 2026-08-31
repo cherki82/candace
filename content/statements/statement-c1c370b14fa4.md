@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:08:45](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(525);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=525s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And many people, many of the greatest military scholars are saying for years that presidents should have taken out Iran because they wanted a nuclear weapon.
 

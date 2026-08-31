@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:54:59](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3299);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=3299s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca. Him saying Candace had his alibi, they know that is objectively not true. ... Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan? These are lies.
 

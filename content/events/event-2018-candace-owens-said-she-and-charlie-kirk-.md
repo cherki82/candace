@@ -6,6 +6,11 @@ date: "2018"
 ---
 
 **Date:** 2018
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2018”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2018"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:51:35](/episodes/ep-4YgrOhhy708.md#t-00-51-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3095);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=3095s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a real-life conversation that me and Charlie had in 2018.

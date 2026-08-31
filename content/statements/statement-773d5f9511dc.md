@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:02:34](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(154);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=154s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I beg your pardon, of accidentally came into possession of a lot of the social media posts that we were told didn't exist that were posted by Thomas Crooks in the months and years before the shooting.
 

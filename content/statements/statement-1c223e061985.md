@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:32:09](/episodes/ep-ja26iltROkM.md#t-00-31-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1929);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1929s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said, "There's no such thing as an innocent Palestinian life.
 

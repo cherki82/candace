@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:17:11](/episodes/ep-2tFYJf1klgY.md#t-00-16-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1031);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1031s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Intellimet Laboratories again associated with Lori Frantzve, is going, the national, the Army National Guard, pardon me, is going to have to disclose that they gave $2.4 million to Intellimet Laboratories.
 

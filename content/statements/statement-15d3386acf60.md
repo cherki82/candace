@@ -1,17 +1,17 @@
 ---
-title: "Robert Shillman withdrew a $2 million pledge from Turning Po..."
-description: "\"Robert Shillman withdrew a $2 million pledge from Turning Point USA because Charlie Kirk allowed Tucker Carlson to appear onstage\" — Candace Owens"
+title: "Candace Owens accused Robert Shillman of taking two million ..."
+description: "\"Candace Owens accused Robert Shillman of taking two million dollars away from Charlie Kirk because Kirk let Tucker Carlson take the stage.\" — Candace Owens"
 statement_id: "statement-15d3386acf60"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Robert Shillman withdrew a $2 million pledge from Turning Point USA because Charlie Kirk allowed Tucker Carlson to appear onstage
+> Candace Owens accused Robert Shillman of taking two million dollars away from Charlie Kirk because Kirk let Tucker Carlson take the stage.
 
 ## Attribution
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:20:45](/episodes/ep-LATnak75Si0.md#t-00-20-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1245);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=1245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People like Bob Shulman (Robert Shillman) took $2 million away from him because he let Tucker (Tucker Carlson) hit the stage.
 
@@ -55,4 +55,4 @@ Leaked messages attributed to Charlie Kirk and subsequently confirmed as authent
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

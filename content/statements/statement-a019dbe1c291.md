@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:21:50](/episodes/ep-DqGNvi36ol8.md#t-00-21-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1310);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=1310s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One person wrote, quote, airborne forces wear maroon not just in the UK, the USA, and France, as well as in dozens of other militaries.
 

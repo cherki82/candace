@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:17:09](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=1029s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton.
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1034);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=1034s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His father, Carl Wallnau, was a major in the United States Air Force
 

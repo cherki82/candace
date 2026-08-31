@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:04:06](/episodes/ep-SKGUzGHymcI.md#t-00-04-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(246);return false;">Play</a>
+**Timestamp:** [00:04:06](/episodes/ep-SKGUzGHymcI.md#t-00-03-50) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=246s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then for whatever reason, these Egyptians decided to stay in Wilmington, Delaware for a night until the following day
 

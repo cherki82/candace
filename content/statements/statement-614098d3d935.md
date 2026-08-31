@@ -1,6 +1,6 @@
 ---
-title: "Owens said she had verified that Mitch was where he claimed ..."
-description: "\"Owens said she had verified that Mitch was where he claimed to be, that a meeting occurred, and that Captain Neff was present\" — Candace Owens"
+title: "Owens said she had verified Mitch's location and Captain Nef..."
+description: "\"Owens said she had verified Mitch's location and Captain Neff's presence while reporting that Mitch said a meeting occurred\" — Candace Owens"
 statement_id: "statement-614098d3d935"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Owens said she had verified that Mitch was where he claimed to be, that a meeting occurred, and that Captain Neff was present
+> Owens said she had verified Mitch's location and Captain Neff's presence while reporting that Mitch said a meeting occurred
 
 ## Attribution
 
@@ -22,15 +22,15 @@ type: "factual_claim"
 ## About
 
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
-- [Mitch](/entities/person-mitch-fort-huachuca-witness.md) (person)
+- [Mitch Snow](/entities/person-mitch-snow.md) (person)
 
 ## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:32:38](/episodes/ep-w1oqQbR_bYs.md#t-00-32-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1958);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=1958s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> 1000% that he was where he said he was, that then there was a meeting where he says that there was a meeting. We verified that Blake Neff, I mean, I'm sorry, not Blake Neff. Pardon me, Captain Neff was there, the one that he says was nice. But he got questioned for a very long time and they wanted to hold him for 24 hours. So everything else that people are trying to dig up about Mitch.
+> 1000% that he was where he said he was, that then there was a meeting where he says that there was a meeting. We verified that Blake Neff, I mean, I'm sorry, not Blake Neff. Pardon me, Captain Neff was there
 
 ## Verification
 

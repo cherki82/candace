@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:21:16](/episodes/ep-c5BcKF91iec.md#t-00-21-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1276);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=1276s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I also asked him who he was on the phone with after Charlie got shot. And he told me—and I kid you not— he was on the phone with the ops that were back in Arizona watching.
 

@@ -1,8 +1,8 @@
 ---
-title: "The CBS News town hall with Erika Kirk and Bari Weiss was pr..."
-description: "\"The CBS News town hall with Erika Kirk and Bari Weiss was pre-recorded with an invited audience; Owens said audience sources told her questions were p...\" — Candace Owens"
+title: "Anonymous CBS town hall audience sources told Owens that que..."
+description: "\"Anonymous CBS town hall audience sources told Owens that questions were pre-submitted and that some segments required multiple takes because Bari Weis...\" — CBS town hall audience sources (identities unverified)"
 statement_id: "statement-c065dd4ce272"
-speaker: "Candace Owens"
+speaker: "CBS town hall audience sources (identities unverified)"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -11,14 +11,15 @@ veracity: "mixed"
 
 ## Statement
 
-> The CBS News town hall with Erika Kirk and Bari Weiss was pre-recorded with an invited audience; Owens said audience sources told her questions were pre-submitted and some segments required multiple takes
+> Anonymous CBS town hall audience sources told Owens that questions were pre-submitted and that some segments required multiple takes because Bari Weiss wanted to read a teleprompter
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [CBS town hall audience sources (identities unverified)](/entities/anon-src-6J6lRZPQ4jk-001.md) (Anonymous Source)
 
-**Delivery:** Paraphrased
-**Original Source:** CBS town hall logistics plus audience reports described by Candace Owens
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Emails from CBS town hall audience members
 
 ## About
 
@@ -30,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md)
 **Timestamp:** [00:08:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have sources just everywhere, CBS News, the people that were in the audience I showed you were emailing me and they had to do multiple takes because Bari (Bari Weiss) wanted to read a prompter. These questions were pre-submitted
 

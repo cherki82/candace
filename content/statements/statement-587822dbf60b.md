@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:33:33](/episodes/ep-AoYZel7_cGQ.md#t-00-33-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2013);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=2013s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I can just read to you this portion. And they are saying that the bullet or at least parts of it sequentially perforated the anterior left side of Mr. Kirk's neck, strap muscles of the left side of the neck, and the left common carotid and left internal and external jugular veins.
 

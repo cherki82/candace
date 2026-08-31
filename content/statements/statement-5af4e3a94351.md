@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(342);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=342s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, paraphrasing, but he kept going on with, you're obsessed with Fort Huachuca. You think Charlie has been tracked for a while, right? Well, you haven't even figured out who Dan Flood is. Dan Flood is connected to both. You think it was an inside job from the feds and none of you guys have even worked out who Dan Flood's father is.
 

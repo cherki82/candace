@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(293);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=293s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy. This kind of analysis is not helpful. This kind of. approach this kind of argument. It has nothing to do with nuclear weapons at this point. This is now that we want to go all in and take out the regime.
 

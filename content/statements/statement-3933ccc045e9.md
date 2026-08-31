@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:21:39](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1299);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1299s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, if Ben (Ben Shapiro) is to be believed, Andrew (Andrew Breitbart) had known him since he was just 17 years old. Andrew (Andrew Breitbart) had mentored Ben (Ben Shapiro), but he didn't hire him to work at Breitbart until he was 28.
 

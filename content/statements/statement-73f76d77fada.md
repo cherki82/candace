@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:07:21](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(441);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=441s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then she asked, did Russia pay for your trip? No, Russia did not pay for my trip. I do not know Alexander Dugin.
 

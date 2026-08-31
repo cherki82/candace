@@ -19,11 +19,16 @@ type: "opinion"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Bolsheviks](/entities/concept-bolsheviks.md) (concept)
+- [United States](/entities/gpe-united-states.md) (gpe)
+
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:52:38](/episodes/ep-a-e7HC6SeK8.md#t-00-52-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3158);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=3158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think these Bolsheviks are here in America
 

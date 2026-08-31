@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:18:30](/episodes/ep-q7f8r-THr84.md#t-00-18-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1110);return false;">Play</a>
+**Timestamp:** [00:18:30](/episodes/ep-q7f8r-THr84.md#t-00-17-49) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=1110s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler's trans boyfriend's name is Lance Twiggs
 

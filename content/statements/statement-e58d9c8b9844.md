@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:39:12](/episodes/ep-CEF7gQRWYCE.md#t-00-38-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2352);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2352s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said it was on September 8th that he texted and said, I'm abandoning the pro Israel cause. Well, Josh Hammer came out and clarified that actually Charlie sent that text message on September 9th. The day before he died,
 

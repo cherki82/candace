@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:18:23](/episodes/ep-SKGUzGHymcI.md#t-00-18-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1103);return false;">Play</a>
+**Timestamp:** [00:18:23](/episodes/ep-SKGUzGHymcI.md#t-00-18-01) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1103s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo.
 

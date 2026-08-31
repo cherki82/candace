@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:12:43](/episodes/ep-19vHhjF7-NA.md#t-00-12-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(763);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=763s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But we did it with Venezuela. Venezuela has worked out great for everybody. We've taken millions and millions of barrels of oil out of Venezuela. We've brought them to Houston and various other places. Louisiana. where we're you know refineries that we have that are incredible they're going 24 hours a day making a fortune
 

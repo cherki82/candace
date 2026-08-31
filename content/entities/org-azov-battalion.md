@@ -16,7 +16,7 @@ _Type: Organizations_
 Source: [Azov Brigade](https://en.wikipedia.org/wiki/Azov_Brigade)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-55">2025-10-01 · 00:18:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-36">2025-10-01 · 00:18:55</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-azov-battalion-t-00-10-35">2025-10-02 · 00:11:09</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -28,16 +28,16 @@ Source: [Azov Brigade](https://en.wikipedia.org/wiki/Azov_Brigade)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-55">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-36">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-55" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-36" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-azov-battalion-t-00-10-35" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-55) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-36) | 2 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-azov-battalion-t-00-10-35) | 1 |
 
 </details>
@@ -59,10 +59,10 @@ Source: [Azov Brigade](https://en.wikipedia.org/wiki/Azov_Brigade)
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-55)**
+**[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-36)**
 > "... to go more deeply into this tomorrow. But many of you guys have been sending those clues about the Azov Battalion, about Ukrainian, Russian people that were coming into Utah. There seems to be some organized movem..."
 
-**[00:19:49](/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-19-30)**
+**[00:19:49](/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-19-45)**
 > "...'s a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And that gets really interesting when I start to combine all of the aspects o..."
 
 </details>

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:19:26](/episodes/ep-SubDoZWHARo.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1166);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1166s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Parent alert. Due to scheduling complications, the optional Turning Point USA high school event scheduled for tomorrow, September 14th, has been canceled.
 

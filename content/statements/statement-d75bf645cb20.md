@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:32:42](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1962);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1962s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > maybe that's the reason they're blacking it out i don't know what i do know is maroon the maroon boys were somehow involved that seems pretty obvious to me uh that there was some coordination happening
 

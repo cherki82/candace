@@ -1,6 +1,6 @@
 ---
 title: "Democratic Party"
-description: "Democratic Party (Organizations) - 18 mentions"
+description: "Democratic Party (Organizations) - 21 mentions"
 id: "org-democratic-party"
 type: "ORG"
 aliases:
@@ -21,12 +21,12 @@ _Type: Organizations_
 Source: [Democratic National Committee](https://democrats.org/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26">2026-01-05 · 00:41:26</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33">2026-08-21 · 00:46:33</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +35,9 @@ Source: [Democratic National Committee](https://democrats.org/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-org-democratic-party-t-00-03-42">Candace Owens x Ana Kasparian</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-51-57" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-democratic-party-t-00-05-08" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-democratic-party-t-00-27-05" style="--pulse-height:33%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-13-45" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41" style="--pulse-height:67%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -53,6 +56,9 @@ Source: [Democratic National Committee](https://democrats.org/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-51-57) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-democratic-party-t-00-05-08) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-democratic-party-t-00-27-05) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-13-45) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41) | 2 |
@@ -73,7 +79,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -191,6 +197,30 @@ Source: [Democratic National Committee](https://democrats.org/)
 
 </details>
 
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:27:34](/episodes/ep-Kmt6HgRjckU.md#ent-org-democratic-party-t-00-27-05)**
+> "The Democrats made it up."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:05:32](/episodes/ep-vwG1juDCQZQ.md#ent-org-democratic-party-t-00-05-08)**
+> "...able to say something against Democrats and Republicans."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
+
+**[00:51:57](/episodes/ep-q7f8r-THr84.md#t-00-51-57)**
+> "And I realize it's propaganda coming at us from Hamas, but their numbers have turned. Here in America, they've turned, not so much with Republicans— a little bit with Republicans—but completely with the Democrat Party and with independents."
+
+</details>
+
 </details>
 
 <details open>
@@ -201,7 +231,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Democratic Party (5)</strong></summary>
+<summary><strong class="section-title">Statements about Democratic Party (6)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
@@ -240,6 +270,14 @@ _No relationships extracted yet._
 
 - [00:41:26](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45) (Accusation) **Alex Jones**: ["Candace Owens works for the deep state, the Democratic Party, the CIA,..."](/statements/statement-348efae7bb27.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Secret Intelligence Service](/entities/org-secret-intelligence-service.md)
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
+
+- [00:05:32](/episodes/ep-vwG1juDCQZQ.md#t-00-05-08) (Opinion) **Candace Owens**: ["Owens said she did not want to be tied to the Republican Party and wan..."](/statements/statement-cf3f04d6f84e.md)
+  - Also about: [Republican Party](/entities/org-republican-party.md)
 
 </details>
 

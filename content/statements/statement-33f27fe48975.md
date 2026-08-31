@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:17:49](/episodes/ep-DdPjoy5W-wY.md#t-00-17-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1069);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1069s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I bring my babies to the office nine times out of ten and a lot of you have interacted with them and it's very sweet to me and it's very precious to them because then And they know you guys by name and they'll come to me and they'll say, did you know that so-and-so gave me a stuffy or something like that?
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:29:04](/episodes/ep-KpxIBWkNsSs.md#t-00-29-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1744);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=1744s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace Owens came after me a while back. That was very interesting. ... She, like, didn't believe my Brazilian telenovela video
 

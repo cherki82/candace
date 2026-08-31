@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:43:11](/episodes/ep-B9TyCs-6o_0.md#t-00-43-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2591);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=2591s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, yes, but the head of the CIA is in it. Okay, you gotta get approval from the CIA to be in a CIA documentary. That doesn't just happen casually. Like he says, are you getting that phone call from your agent? And no, she's not acting.
 

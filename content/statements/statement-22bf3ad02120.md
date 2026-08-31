@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(873);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=873s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired. ... pornography is harming men. That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing)
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:02:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-02-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(137);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=137s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > With this appointment, Erika (Erika Kirk) joins just 15 other members. That's how exclusive this board is. There's just 15 other members and they are responsible, just so you understand what the job requires. They're responsible for making recommendations to the Defense Secretary, Pete Hegseth. regarding changes to the Air Force Academy. They're also tasked with providing an annual report regarding the military institute's morale, its finances, its financial state, and its academics.
 

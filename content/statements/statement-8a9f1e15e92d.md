@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:31:41](/episodes/ep-_cNtgris8Ik.md#t-00-31-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1901);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1901s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i'm so sorry you guys but it happened now is it possible if they weren't being absurd they would just say okay yeah i hear you but candace is it possible that the server just misidentified him And then I'd say, yeah, ... of course, there's always a possibility that people truly believe that they see someone a la Mitch Snow. We did the Fort Huachuca thing.
 

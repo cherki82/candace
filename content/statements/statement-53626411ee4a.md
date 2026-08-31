@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:57:00](/episodes/ep-h76ZN-xXC6c.md#t-00-57-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3420);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=3420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His wife told me that once they removed that clot from his brain, all of the other issues that he was having cleared up. So he, unbeknownst to me, was wearing a hearing aid and now he doesn't need to wear his hearing aid. ... He was having headaches. Now he's not having headaches. He was spitting up blood in the morning.
 

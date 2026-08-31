@@ -6,6 +6,11 @@ date: "2019-01"
 ---
 
 **Date:** 2019-01
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “January of 2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019-01"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:06:44](/episodes/ep-DdPjoy5W-wY.md#event-event-2019-01-proclaim-streetwear-filed-formation-pape-t-00-06-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(404);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Proclaimed did not actually file to become a business until January of 2019.

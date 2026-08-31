@@ -1,6 +1,6 @@
 ---
 title: "Investigation Discovery"
-description: "Investigation Discovery (Organizations) - 1 mention"
+description: "Investigation Discovery (Organizations) - 2 mentions"
 id: "org-investigation-discovery"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [ID Brings Back Fan-Favorite Series Who the (Bleep) Did I Marry?](https://press.wbd.com/us/media-release/investigation-discovery/viewer-demand-id-brings-back-fan-favorite-series-who-bleep-did-i-marry)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-investigation-discovery-t-00-39-36">2026-03-17 · 00:39:36</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-investigation-discovery-t-00-30-34">2025-12-05 · 00:30:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-investigation-discovery-t-00-39-36">2026-03-17 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,14 +34,16 @@ Source: [ID Brings Back Fan-Favorite Series Who the (Bleep) Did I Marry?](https:
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-investigation-discovery-t-00-39-36">HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-investigation-discovery-t-00-30-34">Shocking Revelation About The Egyptian Planes... | Candace Ep 274</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-investigation-discovery-t-00-30-34" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-investigation-discovery-t-00-39-36" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-investigation-discovery-t-00-30-34) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-investigation-discovery-t-00-39-36) | 1 |
 
 </details>
@@ -50,13 +52,21 @@ Source: [ID Brings Back Fan-Favorite Series Who the (Bleep) Did I Marry?](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
 
 **[00:39:36](/episodes/ep-I0OaY6Gryqk.md#ent-org-investigation-discovery-t-00-39-36)**
 > "I've watched a lot of IDTV"
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+
+**[00:30:34](/episodes/ep-ZAuuSq_j2_w.md#ent-org-investigation-discovery-t-00-30-34)**
+> "...ybe watched a lot of hours of IDTV, and it seems like—yeah—it's kind of a common the..."
 
 </details>
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:48:20](/episodes/ep-rupRLXmSndU.md#t-00-48-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2900);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=2900s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > behind this is this cia apparatus ... this is clearly like all cia and with the purpose of socially engineering society towards some goal and yeah similarly here what was the goal to socially engineer us remarkably and ironically toward support for israel
 

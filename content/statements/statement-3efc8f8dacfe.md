@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:10:22](/episodes/ep-tB5SXXmd9vU.md#t-00-10-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(622);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=622s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anybody who has made it through the first couple of episodes of Becoming Brigitte knows that the French government has an appetite for cruelty and sexual deviancy, okay
 

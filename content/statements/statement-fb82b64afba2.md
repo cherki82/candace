@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:40:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2431);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=2431s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "You're a Nazi promoter." ... "You're the modern-day David Duke."
 

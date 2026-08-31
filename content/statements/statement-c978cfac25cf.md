@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:19:12](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1152);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=1152s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's just how he is." And on July 25th, Charlie (Charlie Kirk) speaks in Westchester, New York
 

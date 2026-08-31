@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:19:00](/episodes/ep-qZ8RWfyuewQ.md#t-00-18-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to talk about how Club Monaco was her favorite store and she always just wanted to have like a white husband and be like you know married to like a like a established white man and she used to tell me like oh I don't I don't date black men and she's like in fact when I was in high school I was known as the girl that would like go to the club and basically steal your man like that's how she literally used to talk and she would say there was something just like really
 

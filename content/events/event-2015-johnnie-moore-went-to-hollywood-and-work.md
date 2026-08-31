@@ -6,6 +6,11 @@ date: "2015"
 ---
 
 **Date:** 2015
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “going to Hollywood in 2015”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2015"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:19:27](/episodes/ep-CMcktj3Egfo.md#event-event-2015-johnnie-moore-went-to-hollywood-and-work-t-00-19-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1167);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > despite going to Hollywood in 2015 to work with, and I should mention here,

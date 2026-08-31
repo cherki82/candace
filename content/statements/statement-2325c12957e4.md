@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:12:54](/episodes/ep-AoYZel7_cGQ.md#t-00-12-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(774);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=774s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > As you said, it's obscured by the railing, but you can see he's taking some kind of action, which we can deduce is likely pulling the rifle out of his pant leg, making it ready to go.
 

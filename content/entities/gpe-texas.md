@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 104 mentions"
+description: "Texas (Places) - 106 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [Texas.gov | The Official Website of the State of Texas](https://www.texas.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-01">2025-10-09 · 00:37:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-06-02">2026-08-17 · 00:06:02</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>104</strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>106</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,14 +30,16 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54">A Legal Turning Point? | Candace Ep 292</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12" style="--pulse-height:16%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-22" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-27" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-texas-t-00-53-33" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-01" style="--pulse-height:16%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-17" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-26" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-texas-t-00-53-23" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-53-00" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-texas-t-00-49-32" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46" style="--pulse-height:11%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-texas-t-00-44-54" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-texas-t-00-04-43" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-34" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-texas-t-00-53-52" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 19 mentions" title="2026-01-19 · 19 mentions"><span></span></a>
@@ -66,14 +68,16 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12) | 3 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-22) | 2 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-27) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-texas-t-00-53-33) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-01) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-17) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-26) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-texas-t-00-53-23) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-53-00) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-texas-t-00-49-32) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40) | 1 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-texas-t-00-44-54) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-texas-t-00-04-43) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-34) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-texas-t-00-53-52) | 3 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54) | 19 |
@@ -104,7 +108,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+<summary><strong class="section-title">Raw mentions (106)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -498,13 +502,26 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:05:23](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-texas-t-00-04-43)**
+> "...his happened one time down in Texas, it's possible."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:45:10](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-texas-t-00-44-54)**
+> "Remember El Paso, Texas is where all those weird flights were coming from..."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:02:24](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46)**
 > "...own right when it went by the Texas schoolbook depository."
-
-**[00:02:29](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46)**
-> "Texas schoolbook depository mentioned"
 
 </details>
 
@@ -527,7 +544,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:53:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05)**
+**[00:53:29](/episodes/ep-7RLtGgkTh9o.md#t-00-53-00)**
 > "... that is a very powerful prayer of protection. Rianne writes, "Hi, this is Rianne from San Antonio, Texas." "Thank you, Candace (Candace Owens), for never giving up on the truth." "You are Charlie (Charlie..."
 
 </details>
@@ -535,7 +552,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:53:49](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-texas-t-00-53-33)**
+**[00:53:46](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-texas-t-00-53-23)**
 > "...e. Your son should not be signing up for the military until it's fixed. That's my personal opinion. Texas Toast writes: "I'm curious if the government is so sloppy with all their inside jobs because they'l..."
 
 </details>
@@ -543,7 +560,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
-**[00:13:44](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-27)**
+**[00:13:44](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-26)**
 > "...t now—because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas. The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not t..."
 
 </details>
@@ -551,10 +568,10 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-22)**
+**[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-17)**
 > "It was contracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right?"
 
-**[00:03:11](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-02-48)**
+**[00:03:11](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-03-11)**
 > "Okay, so it continued on to Kalispell, Montana, and then it lands for just under an hour before it again departs back for Texas once again on its return trip."
 
 </details>
@@ -562,14 +579,14 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (3 mentions)</summary>
 
-**[00:37:30](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12)**
+**[00:37:23](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-01)**
 > "...e plane that people have recognized is military. That's tail number N1098L. So this plane left from Texas, went over to Utah right about the time that Charlie (Charlie Kirk) got assassinated. It dipped rea..."
 
-**[00:38:52](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-38-41)**
+**[00:38:51](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-38-18)**
 > "...st a coincidence." "You know, just a coincidence." "Somebody decided to take a vacation flight from Texas over Utah to do a little circle and return back home." "It happens all the time." "You know, when y..."
 
-**[01:00:28](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-01-00-11)**
-> "... this picture." "God bless you and keep you safe, praying for you and your team with love from East Texas." Thank you so much. Eight Birds writes, "The more I listen to Candace Owens (Candace Owens), the m..."
+**[01:00:28](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-38-18)**
+> ""God bless you and keep you safe, praying for you and your team with love from East Texas.""
 
 </details>
 

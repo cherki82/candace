@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:37:42](/episodes/ep-MhakwJxK-Zk.md#t-00-37-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2262);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2262s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to be clear. I have no evidence that he was blackmailed. I just thought this was a crazy little tidbit that I never knew. ... Since he was on his Mormon mission, it tells us that a dispute had developed in the small Mormon congregation of Pau in southern France. ... The driver was a 21-year-old missionary named Mitt Romney, who was now a leading candidate for the Republican nomination for president of the United States. ... On the way back from Powell, the car was hit head on and Anderson's wife, Leola, was killed. ... Romney, who was seriously injured in the crash on June 16th, 1968, was briefly thought to have been killed, has long said that there was nothing that he could have done to avoid the tragedy. ... Interviews with survivors and people who were directly involved in the accident's aftermath largely confirm his description
 

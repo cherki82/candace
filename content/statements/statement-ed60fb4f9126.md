@@ -1,17 +1,17 @@
 ---
-title: "the feds say that it was the 33rd hour after the shooting, l..."
-description: "\"the feds say that it was the 33rd hour after the shooting, like a total Freemason. 33rd hour after the shoot, 33 hours, that would be inaccurate. 33 h...\" — Candace Owens"
+title: "Owens argued that the federal account placing Tyler Robinson..."
+description: "\"Owens argued that the federal account placing Tyler Robinson's custody 33 hours after the shooting was inaccurate because her source placed local awar...\" — Candace Owens"
 statement_id: "statement-ed60fb4f9126"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> the feds say that it was the 33rd hour after the shooting, like a total Freemason. 33rd hour after the shoot, 33 hours, that would be inaccurate. 33 hours would be at 9:23 p.m.
+> Owens argued that the federal account placing Tyler Robinson's custody 33 hours after the shooting was inaccurate because her source placed local awareness around 7 p.m.; she sarcastically connected the repeated number 33 with Freemasonry.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:24:10](/episodes/ep-2WEHTk0Xewg.md#t-00-23-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But what's really interesting about that—okay, if you consider that they are telling us at 7 p.m.—this is when all the messages started circulating—then we don't know why the feds say that it was the 33rd hour after the shooting—like a total Freemason
 
@@ -47,4 +47,4 @@ FBI Director Kash Patel stated Robinson was apprehended in '33 hours' and emphas
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

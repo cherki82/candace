@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:36:03](/episodes/ep-jsqUIkszZd0.md#t-00-35-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2163);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2163s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And after a bunch of rambling about how much he's helped us, he stated that I am demonically influenced because I refused a retooling prayer.
 

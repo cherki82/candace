@@ -3,9 +3,17 @@ title: "Santa Ana"
 description: "Santa Ana (Places) - 1 mention"
 id: "gpe-santa-ana"
 type: "GPE"
+categories:
+  - "California city"
 ---
 
 _Type: Places_
+
+**Categories:** California city
+
+**Entity verification:** verified
+> The official municipal site confirms Santa Ana, California.
+Source: [City of Santa Ana](https://www.santa-ana.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-santa-ana-t-00-20-23">2025-11-13 · 00:20:23</a></strong></div>

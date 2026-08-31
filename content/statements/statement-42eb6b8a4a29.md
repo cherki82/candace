@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:21:13](/episodes/ep-d7VsbEIWkP8.md#t-00-20-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We learned that the Dremel that was used to carve the bullets belonged to Lance Twiggs.
 

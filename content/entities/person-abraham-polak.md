@@ -29,7 +29,7 @@ Source: [A. N. Poliak (1910-1970), Abraham N. — National Library of Israel](ht
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -85,13 +85,20 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Abraham Polak (1)</strong></summary>
+<summary><strong class="section-title">Statements about Abraham Polak (2)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
 
 - [00:28:15](/episodes/ep-jTj9Ip46r4w.md#t-00-28-15) (Citation) **Candace Owens**: ["Abraham Polak wrote a researched book arguing that Israelis descend fr..."](/statements/statement-df257682834e.md)
   - Also about: [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Israel](/entities/gpe-israel.md), [Judaism](/entities/concept-judaism.md)
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
+
+- [01:06:59](/episodes/ep-czVBmqZP6Ss.md#t-01-06-18) (Claim) **Candace Owens**: ["Owens said Abraham Polak won awards for tracing Ashkenazi Jews to the ..."](/statements/statement-308e974c1975.md)
 
 </details>
 

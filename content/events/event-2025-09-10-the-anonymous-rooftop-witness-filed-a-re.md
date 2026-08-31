@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:15:17](/episodes/ep-puuMVxEu5NU.md#event-event-2025-09-10-the-anonymous-rooftop-witness-filed-a-re-t-00-14-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(917);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=917s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He walked over to the UVU command center and filed a report and said, that's not the guy.

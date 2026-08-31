@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3664);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3664s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, it wasn't a picture. It was me. I did post it and I thought it was me as a doctor and had to do with Red Cross as a Red Cross worker there, which we support. ... It's supposed to be me as a doctor making. Making people better and I do make people better and make people a lot better
 

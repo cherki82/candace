@@ -3,9 +3,17 @@ title: "Kurt Kolvet"
 description: "Kurt Kolvet (People) - 1 mention"
 id: "person-kurt-kolvet"
 type: "PERSON"
+categories:
+  - "military officer"
 ---
 
 _Type: People_
+
+**Categories:** military officer
+
+**Entity verification:** verified
+> The source's visible/narrated family chart identifies Captain Kurt Kolvet as Andrew Kolvet's brother and a military officer; verification is limited to that source-local identity.
+Source: [Charlie Ripped A Hole In Reality | Candace Ep 253](https://www.youtube.com/watch?v=Cq7nj9rxPdo)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kurt-kolvet-t-00-23-32">2025-10-28 · 00:23:35</a></strong></div>
@@ -14,7 +22,7 @@ _Type: People_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,7 +59,17 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** sibling of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “His brother, Captain Kurt Kolvet, is in the military.”
+
+</details>
+
+</details>
 
 </details>
 
@@ -61,8 +79,8 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:23:58](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Andrew Kolvet's brother, Captain Kurt Kolvet, is in the military. His ..."](/statements/statement-21d55ee01d7c.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:23:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Andrew Kolvet's brother, Captain Kurt Kolvet, is in the military. His ..."](/statements/statement-21d55ee01d7c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Robert Kolvet](/entities/person-robert-kolvet.md)
 
 </details>
 

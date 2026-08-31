@@ -6,6 +6,11 @@ date: "2025-09-09"
 ---
 
 **Date:** 2025-09-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 9th, 8.33 a.m.”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-09"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:30:49](/episodes/ep-4DvYXBn_5JI.md#event-event-2025-09-09-a-photo-presented-as-erika-kirks-alibi-d-t-00-30-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1849);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1849s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It says right at the top, September 9th, 8.33 a.m.

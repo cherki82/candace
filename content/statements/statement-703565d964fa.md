@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:05:30](/episodes/ep-tXoI0TTKVrs.md#t-00-05-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(330);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=330s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > ...actually did not complete the entirety of her speech. I was told that. I'm told she shortened it. And beyond that, that she then ditched the Women's Leadership Summit event altogether, not staying to close out the event. That's something that Charlie (Charlie Kirk) always did.
 

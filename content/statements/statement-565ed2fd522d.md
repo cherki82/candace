@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:15:24](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(924);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=924s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "All of the security that was hired under the name of—" she's writing "black box"; she means Black Cube security. "That was also the security that was provided for Harvey Weinstein, where it's really just the Mossad agents who now are mostly with the Kardashians."
 

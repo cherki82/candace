@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:41:29](/episodes/ep-SKGUzGHymcI.md#t-00-40-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2489);return false;">Play</a>
+**Timestamp:** [00:41:29](/episodes/ep-SKGUzGHymcI.md#t-00-41-25) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2489s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the decision was made to execute Charlie (Charlie Kirk) publicly. They wanted us to see it.
 

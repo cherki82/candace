@@ -16,14 +16,17 @@ type: "opinion"
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Paraphrased
+
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:47:13](/episodes/ep-a-e7HC6SeK8.md#t-00-46-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2833);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=2833s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Did you know— I learned this from one of our sleuths—that Turning Point might potentially now be becoming a real estate empire
 

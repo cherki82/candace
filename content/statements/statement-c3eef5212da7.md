@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:28:49](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1729);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1729s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, Erica (Erika Kirk) will come into contact with Colonel Otto Buescher. We're not going to focus on that today because the more important thing I'd like to introduce to you is Tyler (Tyler Bowyer).
 

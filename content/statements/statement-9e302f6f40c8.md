@@ -32,7 +32,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:39:08](/episodes/ep-A39g5oqB_eM.md#t-00-39-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2348);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2348s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago they called me and said they were horrified by what they saw horrified they saw Tucker Carlson get up and act like ... condemning Israel, ... praising Qatar with his mocking voice and his mocking laughter.
 

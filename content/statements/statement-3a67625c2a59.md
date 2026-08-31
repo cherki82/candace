@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:21:13](/episodes/ep-1QZ4X6q1DPg.md#t-00-20-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We now know that you were working with meeting with a Hollywood AI company, what a free market organization would be doing meeting with a Hollywood AI posthumous company.
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:09:57](/episodes/ep-mFuno0TuuQQ.md#t-00-09-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=597s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which is why it is, it was at least very interesting to me that you told the New York Times, something that most people didn't pay attention to, but you told the New York Times the night before his murder, ... Charlie (Charlie Kirk)'s, and I'm going to quote this, you said that Charlie (Charlie Kirk)'s adrenaline glands were just going off. He couldn't sleep.
 

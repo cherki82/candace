@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2027);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=2027s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and peter higgs i believe and so the search was on to find this particle and so that's why cern created the large hadron collider which is based in geneva switzerland and is a 17 mile tunnel underground up to 600 feet underground in some places where they shoot particles at subatomic particles at each other at a very high speed to try and break them apart to see what they're found what they're composed of
 

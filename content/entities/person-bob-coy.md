@@ -5,20 +5,28 @@ id: "person-bob-coy"
 type: "PERSON"
 aliases:
   - "Rob Coy"
+categories:
+  - "former Calvary Chapel Fort Lauderdale pastor"
 ---
 
 _Type: People_
 
 **Also known as:** Rob Coy
 
+**Categories:** former Calvary Chapel Fort Lauderdale pastor
+
+**Entity verification:** verified
+> Calvary Chapel Fort Lauderdale history and published reporting identify founder and former pastor Bob Coy.
+Source: [Calvary Chapel Fort Lauderdale - Our Story](https://www.calvaryftl.org/about-us/our-story/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-bob-coy-t-00-18-59">2025-11-13 · 00:19:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-16">2025-11-18 · 00:42:46</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-46">2025-11-18 · 00:42:46</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -28,7 +36,7 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-bob-coy-t-00-18-59" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-coy-t-00-16-07" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-16" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-46" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -36,7 +44,7 @@ _Type: People_
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-bob-coy-t-00-18-59) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-coy-t-00-16-07) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-16) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-46) | 1 |
 
 </details>
 </section>
@@ -49,7 +57,7 @@ _Type: People_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:42:46](/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-16)**
+**[00:42:46](/episodes/ep-581dILVcEE4.md#ent-person-bob-coy-t-00-42-46)**
 > "...as involved in the Calvary Chapel churches. We're gonna get to that tomorrow: his relationship with Bob Coy—not to be confused with Pastor Rob McCoy—but Bob Coy, the one from Fort Lauderdale, who got into a ..."
 
 </details>
@@ -57,7 +65,7 @@ _Type: People_
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:16:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-coy-t-00-16-07)**
+**[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-coy-t-00-16-07)**
 > "...orida, and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy. We brought him up yesterday—the pedophile scandal that we mentioned yesterday—who has since been e..."
 
 </details>
@@ -88,12 +96,45 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Mentored (2)</summary>
+
+- **[Lou Taylor](/entities/person-lou-taylor.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... they were mentored by a man named Bob Coy”
+
+</details>
+
+- **[Rob Taylor](/entities/person-rob-taylor.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... they were mentored by a man named Bob Coy”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Calvary Chapel Pompano Beach](/entities/org-calvary-chapel-pompano-beach.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:19:12](/episodes/ep-yAIb-NuUh_U.md#t-00-18-59): “Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear)”
+
+</details>
+
+- **[Lou Taylor](/entities/person-lou-taylor.md)** mentored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... they were mentored by a man named Bob Coy”
+
+</details>
+
+- **[Rob Taylor](/entities/person-rob-taylor.md)** mentored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... they were mentored by a man named Bob Coy”
 
 </details>
 
@@ -107,7 +148,7 @@ _Type: People_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-16) (Claim) **Candace Owens**: ["Benjamin Netanyahu had a relationship with Bob Coy from the Fort Laude..."](/statements/statement-edd63ae5246d.md)
+- [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-09) (Claim) **Candace Owens**: ["Benjamin Netanyahu had a relationship with Bob Coy from the Fort Laude..."](/statements/statement-edd63ae5246d.md)
   - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>

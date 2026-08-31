@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:43:41](/episodes/ep-JQjCAsfoXEE.md#t-00-43-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2621);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2621s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point USA actually decreased their staff—the 501(c)(3) arm—by 33%. So there was a 33% staff reduction, and yet the cost of salaries somehow went up.
 

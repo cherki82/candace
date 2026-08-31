@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:25:11](/episodes/ep-4YgrOhhy708.md#t-00-24-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1511);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1511s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tracy (Tracy Martin) told friends that her daughter, ... was supposed to be at UVU on September 10th, but Tracy (Tracy Martin) had a bad feeling about it. ... Yep. And so she stopped her daughter.
 
@@ -39,7 +39,7 @@ type: "factual_claim"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:05:12](/episodes/ep-ti5Fxrvegno.md#t-00-04-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(312);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tracy (Tracy Martin) and her daughter told people that Tracy (Tracy Martin) had a bad feeling. Like I told you, we confirmed that. Tracy (Tracy Martin) had a bad feeling. And so she stopped her daughter from going to UVU. This is now confirmed. It's a fact.
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:04:28](/episodes/ep-i8m_6D4QGmk.md#t-00-04-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(268);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=268s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Marina Abramovic. She puts on performances in front of the most powerful people in the world. Performances like in 1974 when she sought to, quote, re-evoke the energy of extreme bodily pain using a large petroleum drenched pentagram, which the artist lit on fire at the start of the performance, standing outside of the pentagram, Abramovic cut her nails, her toenails and her hair.
 

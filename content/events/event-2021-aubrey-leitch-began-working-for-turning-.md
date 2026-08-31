@@ -6,6 +6,11 @@ date: "2021"
 ---
 
 **Date:** 2021
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “since 2021”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2021"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:25:13](/episodes/ep-mFuno0TuuQQ.md#event-event-2021-aubrey-leitch-began-working-for-turning--t-00-24-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1513);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1513s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did work for Turning Point USA. So I've been with the organization since 2021,

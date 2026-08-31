@@ -3,9 +3,17 @@ title: "Dana Point"
 description: "Dana Point (Places) - 2 mentions"
 id: "gpe-dana-point"
 type: "GPE"
+categories:
+  - "California city"
 ---
 
 _Type: Places_
+
+**Categories:** California city
+
+**Entity verification:** verified
+> Los Angeles Times court reporting and the official city context confirm Dana Point, California.
+Source: [Los Angeles Times: Child Molester Draws an 8-Year Term in Prison](https://www.latimes.com/archives/la-xpm-1995-10-07-me-54219-story.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-dana-point-t-00-07-47">2025-11-13 · 00:08:19</a></strong></div>

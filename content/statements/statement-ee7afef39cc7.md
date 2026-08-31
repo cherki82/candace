@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:42:07](/episodes/ep-7ERqbYElOfs.md#t-00-42-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2527);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=2527s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plainclothes detectives. So that was part of the deal is Tyler knew it was just inevitable with all the law enforcement pressure that he, you know, his picture
 

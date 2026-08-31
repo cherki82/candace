@@ -27,7 +27,7 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 <div><span>Episodes</span><strong>15</strong></div>
 <div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,9 +38,9 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#ent-law-fara-t-00-40-37" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-law-fara-t-00-36-55" style="--pulse-height:14%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-law-fara-t-00-27-37" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-law-fara-t-00-27-51" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-law-fara-t-01-02-20" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-03" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-19" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-law-fara-t-00-22-38" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-law-fara-t-00-45-40" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-law-fara-t-01-05-45" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
@@ -58,9 +58,9 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 |---|---|---:|
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-law-fara-t-00-40-37) | 1 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-law-fara-t-00-36-55) | 2 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-law-fara-t-00-27-37) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-law-fara-t-00-27-51) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-law-fara-t-01-02-20) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-03) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-19) | 2 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-law-fara-t-00-22-38) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-law-fara-t-00-45-40) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-law-fara-t-01-05-45) | 1 |
@@ -220,10 +220,10 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:50:21](/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-03)**
+**[00:50:19](/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-19)**
 > "...s rather put an end to the Israel exception that we now have by making them sign up and acknowledge FARA, to follow the FARA—they shot him. Who is they? Who is they? I don't know, but it ended up being re..."
 
-**[00:50:42](/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-42)**
+**[00:50:42](/episodes/ep-581dILVcEE4.md#ent-law-fara-t-00-50-19)**
 > "...shouldn't accept this sort of Israel exception, which is they do not have to certify anything under FARA. Obsessed Sports Rights. "If the planes are truly from the Egyptian government, would that mean the..."
 
 </details>
@@ -239,7 +239,7 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:28:09](/episodes/ep-t1YtLS1n8Vs.md#ent-law-fara-t-00-27-37)**
+**[00:28:09](/episodes/ep-t1YtLS1n8Vs.md#ent-law-fara-t-00-27-51)**
 > "...of wrongthink. He had the wrong ideas that perhaps maybe every foreign nation should register under FARA. Anyways, how this works is that then you have to kind of put together like a Warren Commission, ri..."
 
 </details>
@@ -248,7 +248,7 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
 
 **[00:37:17](/episodes/ep-UBkFkg4UNY8.md#ent-law-fara-t-00-36-55)**
-> "...ith them, get rid of them. Like, I don't want to talk to them." Okay, so there is this thing called FARA. And every country—if they're going to influence people—if you're Qatar, if you're Iran and you wan..."
+> "Okay, so there is this thing called FARA."
 
 **[00:37:27](/episodes/ep-UBkFkg4UNY8.md#ent-law-fara-t-00-37-27)**
 > "..., if you're Iran and you want to lobby on behalf of those countries—you have to be registered under FARA so we know where that money is going into. If you have—literally stands for Foreign Agents Registra..."
@@ -273,7 +273,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Foreign Agents Registration Act (14)</strong></summary>
+<summary><strong class="section-title">Statements about Foreign Agents Registration Act (15)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
@@ -329,7 +329,7 @@ _No relationships extracted yet._
   - Also about: [Dhillon Law Group](/entities/org-dhillon-law-group.md), [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md)
 
 - [00:41:16](/episodes/ep-uC_GjKU8rs8.md#t-00-41-16) (Citation) **Candace Owens**: ["The FARA documents specifically list geofencing and targeting in Tucso..."](/statements/statement-0844694d3bfd.md)
-  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Phoenix](/entities/gpe-phoenix.md)
 
 </details>
 
@@ -347,8 +347,16 @@ _No relationships extracted yet._
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:50:36](/episodes/ep-581dILVcEE4.md#t-00-50-03) (Accusation) **Candace Owens**: ["When JFK tried to make Israel comply with FARA requirements, they shot..."](/statements/statement-e5bea1b3e8b6.md)
+- [00:50:36](/episodes/ep-581dILVcEE4.md#t-00-50-19) (Accusation) **Candace Owens**: ["When JFK tried to make Israel comply with FARA requirements, they shot..."](/statements/statement-e5bea1b3e8b6.md)
   - Also about: [John F. Kennedy](/entities/person-john-f-kennedy.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:37:47](/episodes/ep-UBkFkg4UNY8.md#t-00-37-27) (Claim) **Candace Owens**: ["Owens asserted that Israel had a carve-out from FARA registration requ..."](/statements/statement-5c3318202474.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 

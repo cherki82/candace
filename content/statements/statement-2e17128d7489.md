@@ -32,7 +32,7 @@ type: "accusation"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:55:13](/episodes/ep-qZ8RWfyuewQ.md#t-00-54-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3313);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3313s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am saying that donors are telling us that that was an AI video or an AI audio that you presented of Charlie Kirk. ... I spoke to multiple donors that were at that event.
 

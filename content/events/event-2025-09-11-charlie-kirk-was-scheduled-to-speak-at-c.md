@@ -6,6 +6,11 @@ date: "2025-09-11"
 ---
 
 **Date:** 2025-09-11
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “On September 11th, the day after his assassination”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-11"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:04:01](/episodes/ep-wcD2khO3rOA.md#event-event-2025-09-11-charlie-kirk-was-scheduled-to-speak-at-c-t-00-03-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(241);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=241s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On September 11th, the day after his assassination, Charlie was slated to speak in Woodland Park, Colorado at the Charis Bible College.
 
@@ -25,6 +30,6 @@ date: "2025-09-11"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:16:07](/episodes/ep-9naMwS0kMBE.md#event-event-2025-09-11-charlie-kirk-was-scheduled-to-speak-at-c-t-00-16-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(967);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=967s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which I told you Charles was to speak at the next day after UVU

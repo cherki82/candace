@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:34:58](/episodes/ep-CEF7gQRWYCE.md#t-00-34-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2098);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2098s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's how you kill a million Iraqis by just lying and saying they're weapons of mass destruction. No, they just mass murdered people,
 

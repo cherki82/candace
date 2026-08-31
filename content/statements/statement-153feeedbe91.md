@@ -1,6 +1,6 @@
 ---
-title: "I have text messages to that effect [Charlie was particularl..."
-description: "\"I have text messages to that effect [Charlie was particularly worried that Israel was infringing upon speech in America].\" — Candace Owens"
+title: "Candace Owens said she had text messages supporting her clai..."
+description: "\"Candace Owens said she had text messages supporting her claim that Charlie Kirk was particularly worried Israel was infringing on speech in America.\" — Candace Owens"
 statement_id: "statement-153feeedbe91"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> I have text messages to that effect [Charlie was particularly worried that Israel was infringing upon speech in America].
+> Candace Owens said she had text messages supporting her claim that Charlie Kirk was particularly worried Israel was infringing on speech in America.
 
 ## Attribution
 
@@ -19,13 +19,18 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
+
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:32:48](/episodes/ep-2Riv3I7D0Yk.md#t-00-32-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1968);return false;">Play</a>
+**Timestamp:** [00:32:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-32-16) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=1961s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I told you he was particularly worried that Israel was infringing upon speech in America
+> He realizes something is wrong. I told you he was particularly worried that Israel was infringing upon speech in America. I have text messages to that effect.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
-title: "Lyndon Baines Johnson was clearly implicated in JFK's assass..."
-description: "\"Lyndon Baines Johnson was clearly implicated in JFK's assassination\" — Candace Owens"
+title: "Owens said Lyndon Baines Johnson was clearly implicated in J..."
+description: "\"Owens said Lyndon Baines Johnson was clearly implicated in JFK's assassination.\" — Candace Owens"
 statement_id: "statement-60b6bb5b3d5e"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Lyndon Baines Johnson was clearly implicated in JFK's assassination
+> Owens said Lyndon Baines Johnson was clearly implicated in JFK's assassination.
 
 ## Attribution
 
@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(282);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=282s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lyndon Baines Johnson, who was clearly implicated in JFK's assassination.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:30:00](/episodes/ep-1IY2oD-_xVA.md#t-00-29-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1800);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1800s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is backed by the Bushes and the Waltons. They, among other elite families, they are again kind of getting into government money in a way.
 
@@ -37,7 +37,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:01:21](/episodes/ep-2tFYJf1klgY.md#t-00-00-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(81);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=81s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tesseract, we have learned, is backed financially by the Bush family, the Walton family, a model that's been designed by psychologists.
 

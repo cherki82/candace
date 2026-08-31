@@ -29,11 +29,11 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-23-57">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-austria-t-00-10-16" style="--pulse-height:50%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-austria-t-00-17-40" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-austria-t-00-17-23" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-23-57" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-austria-t-00-31-17" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-austria-t-00-57-26" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
@@ -42,8 +42,8 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-austria-t-00-10-16) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-austria-t-00-17-40) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-austria-t-00-17-23) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-23-57) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-austria-t-00-31-17) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-austria-t-00-57-26) | 1 |
 
@@ -74,10 +74,10 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:24:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
+**[00:24:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-23-57)**
 > "...with Phil Lyman's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw..."
 
-**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
+**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-23-57)**
 > "...man's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw looking lik..."
 
 </details>
@@ -85,7 +85,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:17:40](/episodes/ep-adJ4LNGp84I.md#ent-gpe-austria-t-00-17-40)**
+**[00:17:40](/episodes/ep-adJ4LNGp84I.md#ent-gpe-austria-t-00-17-23)**
 > "...ck to the mysterious individual that is next to Skyler, right? We discover that one person was from Austria, and then we're going, who's this goth kid that Phil has been clear he does not know him? Phil Lyma..."
 
 </details>

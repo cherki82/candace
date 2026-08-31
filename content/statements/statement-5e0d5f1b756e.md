@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:21:28](/episodes/ep-a-e7HC6SeK8.md#t-00-21-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1288);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=1288s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > August 2nd is when we have our French Legionnaires arriving in America for a three-week training session in California, which is going to end on the 25th
 

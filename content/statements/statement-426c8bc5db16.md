@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:35:57](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2157);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2157s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > no member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue. This is clearly without question what happened on Monday in our hearing on anti-Semitism in America. This was my decision.
 

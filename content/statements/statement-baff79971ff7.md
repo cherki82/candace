@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:36:24](/episodes/ep-2T39-oADLj0.md#t-00-35-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2184);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=2184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was going to tour in Australia and the Zionist lobby found out and they publicly posted it was like the Zionist organization of Australia maybe it was ZOA publicly posted this thing this
 

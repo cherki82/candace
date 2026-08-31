@@ -26,10 +26,10 @@ type: "promise"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [01:06:23](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3983);return false;">Play</a>
+**Timestamp:** [01:05:37](/episodes/ep-Cq7nj9rxPdo.md#t-01-05-37) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3937s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And the number one thing that I will say—and I will do a deeper episode on this—is micro-schooling, right
+> And the number one thing that I will say—and I will do a deeper episode on this—is micro-schooling, right?
 
 ## Verification
 

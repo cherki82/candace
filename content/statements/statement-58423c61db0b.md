@@ -25,13 +25,13 @@ veracity: "mixed"
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Lockheed Martin](/entities/org-lockheed-martin.md) (org)
-- [Nashville, Tennessee](/entities/gpe-nashville-tennessee.md) (gpe)
+- [Nashville](/entities/gpe-nashville.md) (gpe)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:43:19](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2599);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2599s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > someone messaged me and let me know that Turning Point is shooting there. ... Super Bowl commercial here in Tennessee, ... in Nashville, ... working with a company where the CEO is from Lockheed Martin,
 

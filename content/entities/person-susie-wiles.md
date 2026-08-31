@@ -35,11 +35,11 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-susie-wiles-t-00-18-22">Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33" style="--pulse-height:67%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-susie-wiles-t-00-18-22" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-20" style="--pulse-height:67%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-26" style="--pulse-height:67%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-susie-wiles-t-00-12-49" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#t-00-21-19" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47" style="--pulse-height:33%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
@@ -50,9 +50,9 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33) | 3 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33) | 2 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-susie-wiles-t-00-18-22) | 3 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-20) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-26) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-susie-wiles-t-00-12-49) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-00-21-19) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47) | 1 |
@@ -110,10 +110,10 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:06:44](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-20)**
+**[00:06:42](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-26)**
 > "... takeover of his brand and of his legacy by pretending that his best friends in the world were like Susie Wiles. Susie Wiles and co. Somehow she made it onto the stage to eulogize him at this very public event. ..."
 
-**[00:06:57](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-20)**
+**[00:06:57](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-26)**
 > "...his brand and of his legacy by pretending that his best friends in the world were like Susie Wiles. Susie Wiles and co. Somehow she made it onto the stage to eulogize him at this very public event. It's so publi..."
 
 </details>
@@ -133,13 +133,10 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:47:36](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
 > "...on of his peers or the non-reaction of his peers who just want our money, right? And are asking for Susie Wiles. It's the craziest part of this whole thing for me. It was like, "Why Susie Wiles? I know it just f..."
-
-**[00:47:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
-> "they were asking for Susie Wiles to eulogize him"
 
 **[00:47:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
 > "...nd are asking for Susie Wiles. It's the craziest part of this whole thing for me. It was like, "Why Susie Wiles? I know it just feels really weird—like a weird pick for her to eulogize him." But yeah—and not may..."

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2802);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2802s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's the reason why the New York Post had the exclusive photos in the story, this New York Post for all intents and purposes, just a Mossad outfit. ... OK, they work on behalf of Israel.
 

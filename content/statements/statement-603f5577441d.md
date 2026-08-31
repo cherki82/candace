@@ -22,13 +22,13 @@ veracity: "true"
 ## About
 
 - [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md) (org)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:31:17](/episodes/ep-4JxgOclKzqg.md#t-00-30-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1877);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=1877s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, the State Bureau of Investigations, as you saw, can reach out to the FBI and help ask them to assist with certain testing and things of that nature. But the custody goes SBI and then FBI.
 

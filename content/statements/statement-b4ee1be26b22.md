@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:48:24](/episodes/ep-his-JBjlkh8.md#t-00-47-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2904);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2904s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million dollars, and we haven't even had our first day in court.
 

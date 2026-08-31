@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:26:17](/episodes/ep-kaWtDuoY_ns.md#t-00-26-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1577);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=1577s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's a Newsweek headline. They wrote Erika Kirk's high school talk sparks furious backlash from parents. ... Here's a Daily Beast. High school moves Erika Kirk event off campus after students revolt. ... Here is the local Arizona Republic, a high school group invited Erika Kirk to campus. Parents are not happy.
 

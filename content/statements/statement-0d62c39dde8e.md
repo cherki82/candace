@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:42:03](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2523);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2523s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point did cover their hotel rooms, but they were placed with a random person. ... they were told we need you to match Kid Rock's energy. They signed an NDA with that NDA expired one hour after the show.
 

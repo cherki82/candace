@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:09:39](/episodes/ep-AH1KVKkweUE.md#t-00-09-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(579);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=579s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That part's a bit strange. We do know it has Lance Twiggs' DNA alongside Tyler Robinson's DNA.
 

@@ -6,6 +6,11 @@ date: "2025-07-14"
 ---
 
 **Date:** 2025-07-14
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 14th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-07-14"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:20:00](/episodes/ep-WoXd4oLwd3w.md#event-event-2025-07-14-erika-kirk-spoke-at-james-kaddiss-calvar-t-00-19-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1200);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1200s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she speaks at James Kaddis' Calvary Chapel Church.

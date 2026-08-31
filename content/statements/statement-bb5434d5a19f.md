@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:06:02](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(362);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=362s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, Lori (Lori Frantzve) filed for Eurotech in June of 1993. What does it do? Nobody knows. But Rick (Richard Erpenbeck) was featured.
 

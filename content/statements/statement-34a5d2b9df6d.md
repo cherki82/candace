@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:45:55](/episodes/ep-E7P2ShoYDUA.md#t-00-45-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2755);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=2755s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The first charge is aggravated murder because that's what carries a ... death sentence in murder the state next of Utah. No, ... Great. The second charge is the felony discharge of a weapon. The next two charges are for obstruction of justice. ... The next two charges are for witness tampering. And ... The last charge is violence in front of a minor.
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:45:18](/episodes/ep-69A8TzAGHlU.md#t-00-45-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2718);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=2718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > of conspiracy and that she should be questioned okay her lack of interest in exploring possible other options instantly forgiving him was there a foreign influence she doesn't she doesn't care not only that but like her team is attacking joe kent for asking that question right her lying about dr lee trotter's words that is significant you are never going to remove that from the story colluding with
 

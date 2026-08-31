@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 151 mentions"
+description: "Romania (Places) - 154 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -17,10 +17,10 @@ _Type: Places_
 Source: [Member States | United Nations](https://www.un.org/about-us/member-states)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04">2026-01-09 · 00:10:04</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-romania-t-00-08-14">2025-10-31 · 00:08:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>151</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>154</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>55</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -31,6 +31,9 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-romania-t-00-00-00">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (29 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-romania-t-00-08-14" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-romania-t-00-26-57" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-18-27" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04" style="--pulse-height:31%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 9 mentions" title="2026-01-09 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-romania-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -61,6 +64,9 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-romania-t-00-08-14) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-romania-t-00-26-57) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-18-27) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04) | 9 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-romania-t-00-14-50) | 2 |
@@ -93,7 +99,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (151)</strong></summary>
+<summary><strong class="section-title">Raw mentions (154)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -670,6 +676,30 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 **[00:15:07](/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-14-55)**
 > "... an American military base in Romania."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:18:27](/episodes/ep-6J6lRZPQ4jk.md#t-00-18-27)**
+> "But that's what they set up always, which is like, I don't know how you are, I've seen people digging into her background, I've seen people speaking about her Romanian charity, I've seen people looking into her mother, all of that, I've seen all of that."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+
+**[00:27:24](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-romania-t-00-26-57)**
+> "They have been trafficking children from Romania"
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[00:08:22](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-romania-t-00-08-14)**
+> "...laundering around Ukraine and Romania, you're actually stepping on the heels of America..."
 
 </details>
 

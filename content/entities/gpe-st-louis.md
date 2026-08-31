@@ -32,7 +32,7 @@ Source: [City of St. Louis](https://www.stlouis-mo.gov/)
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-09-40">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-09-40" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 4 mentions" title="2025-10-31 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-20-11" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-19-59" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-st-louis-t-00-01-23" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-st-louis-t-00-07-58" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
@@ -41,7 +41,7 @@ Source: [City of St. Louis](https://www.stlouis-mo.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-09-40) | 4 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-20-11) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-19-59) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-st-louis-t-00-01-23) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-st-louis-t-00-07-58) | 1 |
 
@@ -72,7 +72,7 @@ Source: [City of St. Louis](https://www.stlouis-mo.gov/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-20-11)**
+**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-19-59)**
 > "...ernment Falcon 7X on two separate Wilmington runs for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. ..."
 
 </details>

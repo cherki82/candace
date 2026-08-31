@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:37:08](/episodes/ep-DEtFh2Ff-58.md#t-00-36-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2228);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=2228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was a flight from Kalispell to Bozeman. Bozeman is where the guys met up to go to Ferry Lake the following day. ... There was a flight, a private plane flight that went from Kalispell to Bozeman the next day. ... That's the day when everybody showed up and they had their security team retreat or something. I don't know what it was.
 

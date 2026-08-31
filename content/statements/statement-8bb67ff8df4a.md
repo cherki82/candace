@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:12:43](/episodes/ep-A39g5oqB_eM.md#t-00-12-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(763);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=763s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a lot of the staff that worked on the memorial, they had. ... 20-hour days for a week during the time of us grieving the loss of my husband and honestly I know several staff that didn't even sleep
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:08:40](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(520);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=520s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were told that there was footage of Tyler Robinson assembling the rifle on the roof. That is a lie. There was no footage of Tyler Robinson assembling the rifle on the roof. Blake Neff tweeted this the other day. He's lying through his teeth.
 

@@ -32,7 +32,7 @@ type: "accusation"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(455);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=455s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All the people that trusted you, Jews and Christians, including me, why would you platform anti-Semites like Candace and Tucker (Tucker Carlson)? There are many evangelical Christian Zionists who would never give these people the opportunity to spew their hatred. I'm one of them.
 

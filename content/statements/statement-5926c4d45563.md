@@ -24,23 +24,13 @@ veracity: "true"
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Appearances (2)
-
-### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(906);return false;">Play</a>
+**Timestamp:** [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-47) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=906s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we are told that he at first enters campus on this day at 8:07 a.m. TMZ shows us the footage—remember—of the man wearing a maroon t-shirt and shorts
-
-### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(906);return false;">Play</a>
-
-> TMZ shows us the footage—remember—of the man wearing a maroon t-shirt and shorts
 
 ## Verification
 

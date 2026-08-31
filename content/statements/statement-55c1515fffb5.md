@@ -25,13 +25,13 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
-- [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md) (gpe)
+- [Phoenix](/entities/gpe-phoenix.md) (gpe)
 
 ## Source
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:45:04](/episodes/ep-uC_GjKU8rs8.md#t-00-44-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2704);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2704s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they named the churches that they're going to be geo-fencing at. ... including the Dream City Church where Charlie (Charlie Kirk) spoke at once a month, whatever the situation was, that they just hosted Erika (Erika Kirk) in Phoenix. ... The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to. It's on the list.
 

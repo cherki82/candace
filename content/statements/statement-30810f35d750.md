@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:29:18](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1758);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I got a call. I got a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:28:47](/episodes/ep-ti5Fxrvegno.md#t-00-28-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1727);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1727s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I got a call. I got a call from Miss Erika Kirk, Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally.
 
@@ -48,7 +48,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:33:09](/episodes/ep-y8lak3CRwDw.md#t-00-33-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1989);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1989s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He met Erika at the Trump rally, but he maybe forgot. Maybe he had another long night in Romania, but he maybe forgot that he had already given a speech at Charlie's memorial and stated that Erika called him and said, how can I help? ... And then he put her behind Trump. So you had to know her before the rally.
 

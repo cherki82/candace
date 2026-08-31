@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:30:31](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1831);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1831s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was taken to a smaller regional hospital that was a little farther away—and was further away and was also less equipped for the trauma that he suffered—that he was taken to Timpanogos Regional Hospital. And also something new is that that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger—a lot of new stuff happening.
 

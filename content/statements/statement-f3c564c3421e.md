@@ -1,6 +1,6 @@
 ---
-title: "Benjamin Netanyahu calling Charlie Kirk and offering to take..."
-description: "\"Benjamin Netanyahu calling Charlie Kirk and offering to take Turning Point to the next level\" — Candace Owens"
+title: "Owens said Benjamin Netanyahu called Charlie Kirk and offere..."
+description: "\"Owens said Benjamin Netanyahu called Charlie Kirk and offered to take Turning Point USA to the next level.\" — Candace Owens"
 statement_id: "statement-f3c564c3421e"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Benjamin Netanyahu calling Charlie Kirk and offering to take Turning Point to the next level
+> Owens said Benjamin Netanyahu called Charlie Kirk and offered to take Turning Point USA to the next level.
 
 ## Attribution
 
@@ -25,23 +25,13 @@ type: "factual_claim"
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:22:11](/episodes/ep-a-e7HC6SeK8.md#t-00-21-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1331);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=1331s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> We have what I do think is a big deal, which is Benjamin Netanyahu (Benjamin Netanyahu) calling Charlie (Charlie Kirk) and offering to take Turning Point to the next level
-
-### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:28:58](/episodes/ep-a-e7HC6SeK8.md#t-00-28-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1738);return false;">Play</a>
-
-> We're not talking like, "Oh, a check that's gonna be reeled in for $5 million or $10 million or $50 million or like the $90 million that Turning Point USA raised in the first couple of weeks following Charlie's (Charlie Kirk's) assassination." We are talking like billionaire money— potentially billions...
+> what I do think is a big deal, which is Benjamin Netanyahu calling Charlie (Charlie Kirk) and offering to take Turning Point to the next level.
 
 ## Verification
 

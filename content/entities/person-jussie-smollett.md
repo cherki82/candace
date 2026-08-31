@@ -3,9 +3,17 @@ title: "Jussie Smollett"
 description: "Jussie Smollett (People) - 1 mention"
 id: "person-jussie-smollett"
 type: "PERSON"
+categories:
+  - "actor"
 ---
 
 _Type: People_
+
+**Categories:** actor
+
+**Entity verification:** verified
+> Canonical full name and actor identity match the episode's Jussie Smollett reference.
+Source: [Jussie Smollett - IMDb](https://www.imdb.com/name/nm0810620/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-jussie-smollett-t-00-03-41">2025-11-03 · 00:03:46</a></strong></div>
@@ -42,7 +50,7 @@ _Type: People_
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:03:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-jussie-smollett-t-00-03-41)**
-> "...ow it didn't come from anybody that was originally MAGA. This is like when Homeboy—who was the guy?—Jussie Smollett (Jussie Smollett) went out and he was like, "They said to me, 'This is MAGA country.'" And we were ..."
+> "This is like when Homeboy—who was the guy?—Jussie Smollett went out and he was like, "They said to me, 'This is MAGA country.'""
 
 </details>
 

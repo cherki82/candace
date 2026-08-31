@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:23:25](/episodes/ep-2tFYJf1klgY.md#t-00-23-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1405);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1405s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is the year that Erica (Erika Kirk) will claim that she went to Loyola Marymount in her junior year of college.
 

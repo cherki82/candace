@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:08:51](/episodes/ep-G3zdOeHpvS0.md#t-00-08-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(531);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=531s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point USA events when I toured, this is an anomaly. It would. Answer to that would be because, well, the paramedics would have seen the shattered road mic pieces and all of the other evidence which did not support a gunshot wound.
 

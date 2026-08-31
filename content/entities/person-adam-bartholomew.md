@@ -3,9 +3,17 @@ title: "Adam Bartholomew"
 description: "Adam Bartholomew (People) - 5 mentions"
 id: "person-adam-bartholomew"
 type: "PERSON"
+categories:
+  - "event livestreamer,source-local identified person"
 ---
 
 _Type: People_
+
+**Categories:** event livestreamer,source-local identified person
+
+**Entity verification:** verified
+> External footage licensing metadata credits Adam Bartholomew (@Lifeisdriving) for the Utah Valley University shooting footage, matching the transcript identity and event context.
+Source: [ViralHog footage credit: Adam Bartholomew @Lifeisdriving](https://viralhog.com/watch/file/396367332)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-adam-bartholomew-t-00-26-18">2025-12-05 · 00:26:43</a></strong></div>

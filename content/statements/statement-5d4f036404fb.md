@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:44:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2661);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2661s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, I taught rifles as a private citizen ... And I was an NRA instructor for many, ... many, many years
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:19:43](/episodes/ep-aPOyk1i2LOc.md#t-00-19-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1183);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=1183s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > no i didn't teach rifle no i taught rifles as a private citizen ... Mm-hmm. And I was an NRA instructor for many, ... many, many years alongside my gun ... shop.
 

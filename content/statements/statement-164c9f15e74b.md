@@ -23,7 +23,7 @@ type: "promise"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:23:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-22-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1386);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=1386s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, I'd like to stress to Turning Point USA that if you wanna make this work, we can do this today. We can do this tonight. We can do this at 1 a.m. We can do this tomorrow, the next day. We can do this through the end of the year—anytime, okay? Just send me a link, and we will appear virtually, which is entirely plausible. This is something that we desperately want.
 

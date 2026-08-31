@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:18:29](/episodes/ep-eMtjzXkQrsU.md#t-00-18-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just want to really underscore here that it is entirely appropriate for us to now state that Salem Media is working as a foreign agent of Israel.
 

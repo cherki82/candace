@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:13:29](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(809);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=809s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Right. Erika Kirk carefully described to Megyn Kelly—she sat down with Megyn Kelly and talked about how Charlie Kirk, look at the tears in her eye, through many tears—she saw this video three weeks before he died. Charlie Kirk was in Aspen with some donors, and he said, if anything ever happens to me, if I die in three weeks, make Erika (Erika Kirk), my wife, the CEO and chairman of the company, right?
 

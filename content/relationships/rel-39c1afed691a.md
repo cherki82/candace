@@ -15,7 +15,7 @@ object: "person-candace-owens"
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
-- [00:42:43](/episodes/ep-6J6lRZPQ4jk#t-00-42-43): _Ali Beth Stuckey does the same like tactic of attacking people, sniping them._
+- [00:38:12](/episodes/ep-6J6lRZPQ4jk#t-00-38-12): _BLM uses this tactic repeatedly, and now Candace has taken a page out of their book._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

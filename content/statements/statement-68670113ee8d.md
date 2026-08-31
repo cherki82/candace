@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:41:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2477);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2477s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nicole Rothstein, it's going to sound ridiculous, but this is the reality, ... if Erica (Erika Kirk) is telling the truth. ... In other words, zero blood relation, ... not even kind of related,
 

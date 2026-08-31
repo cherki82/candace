@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2615);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=2615s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He could not bear me ridiculing Erica (Erika Kirk). Over Shabbat Shalom, this is what he wrote on X, I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.
 

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:48:29](/episodes/ep-OgRyiOAVtWU.md#t-00-48-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2909);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2909s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know if Tyler Robinson pulled the trigger. I don't know if he was on the roof and he was the one who fired the gun. ... But the insane conspiracy theories that are being floated that are implicating everyone and anyone involved that are unsubstantiated and unfalsifiable in their vagueness.
 

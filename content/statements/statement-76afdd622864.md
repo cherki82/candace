@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:08:34](/episodes/ep-CEF7gQRWYCE.md#t-00-08-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(514);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=514s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That then subsequently became the ADL after the ritualistic murder of a Catholic girl named Mary Phagan. There was no hiding that anymore.
 

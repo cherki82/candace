@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:53:24](/episodes/ep-69A8TzAGHlU.md#t-00-53-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3204);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=3204s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That pedophilia is satanic. That a satanic pedophile. like Jeffrey Epstein worked for Israel. These are, this is abundantly true.
 

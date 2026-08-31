@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:30:18](/episodes/ep-5zgkrOaCCj4.md#t-00-29-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=1818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now we discovered that a Jewish woman put together this group, and she has been very involved on pro-Israel causes long before Charlie (Charlie Kirk) was assassinated, and there are 92 members, and they are looking for now personal information, which is why this woman excused herself from the group and said this is now getting, this seems to me to be getting dangerous.
 

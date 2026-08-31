@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [01:18:00](/episodes/ep-E7P2ShoYDUA.md#t-01-18-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4680);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=4680s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Why Turning Point USA doesn't want people investigating and exploring other leads in the Charlie Kirk assassination boggles the mind.
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:39:17](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2357);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we know the Black Sea Rotational Force is going to be deployed for six months. Again, this will be BSRF 13. ... They kind of name it after the year it is. from February to August as a special purpose marine air ground task force.
 

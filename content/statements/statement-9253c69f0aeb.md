@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2019);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=2019s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Larry Guinta, by the way, or Guinta, I don't know if I'm saying that right, is Erika (Erika Kirk)'s stepfather. So they've known each other. The Farnsworths, the Bowyers, and the Frantzves have known each other. At least since 2014 on paper
 

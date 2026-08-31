@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:45:28](/episodes/ep-1QZ4X6q1DPg.md#t-00-45-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2728);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=2728s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And to also wipe away his legacy by deleting the old catalog of all of the footage of Charlie (Charlie Kirk) speaking on college campuses. It seems very odd if you want to honor his legacy to sort of make him go away.
 

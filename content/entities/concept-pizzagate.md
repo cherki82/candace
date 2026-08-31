@@ -79,7 +79,7 @@ _No relationships extracted yet._
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
 - [00:15:10](/episodes/ep-CEF7gQRWYCE.md#t-00-14-45) (Citation) **Candace Owens**: ["The FBI has formally acknowledged that pizza is used as a code word am..."](/statements/statement-6154728a1662.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 

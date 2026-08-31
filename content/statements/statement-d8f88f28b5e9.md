@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:16:49](/episodes/ep-mLvJqdxS-FY.md#t-00-16-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1009);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=1009s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Those, whatever was seized was sent to the FBI lab for processing? ... Yes.
 

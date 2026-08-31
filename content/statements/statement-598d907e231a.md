@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=1s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So a week before Charlie (Charlie Kirk) lost his life, he expressed some concerns about the finances at Turning Point USA.
 

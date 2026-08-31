@@ -22,10 +22,10 @@ type: "promise"
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:31:54](/episodes/ep-czVBmqZP6Ss.md#t-00-31-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1914);return false;">Play</a>
+**Timestamp:** [00:31:34](/episodes/ep-czVBmqZP6Ss.md#t-00-31-02) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I will release every single text message
+> You put a shill in Charlie’s chair, in Charlie’s company, and you try to tell us to follow that individual, I will be an enemy of you. ... I will release every single text message.
 
 ## Verification
 

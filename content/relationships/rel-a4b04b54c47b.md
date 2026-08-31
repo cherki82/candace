@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Tim Pool](/entities/person-tim-pool) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
+
+- [00:52:22](/episodes/ep-581dILVcEE4#t-00-52-22): _L. Hodges writes, "I find it insane how influencers Tim Pool were speaking up against you regarding Turning Point USA and you no longer being invited to AmFest."_
 
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 
@@ -19,7 +23,7 @@ object: "person-candace-owens"
 
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
-- [00:44:36](/episodes/ep-es7PWdFGoFI#t-00-44-36): _Tim Poole has now gone out and extraordinarily claimed that I have the same security as Charlie Kirk and that I have a fraud_
+- [00:44:10](/episodes/ep-es7PWdFGoFI#t-00-44-10): _but further to sort of them just creating and making things up, Tim Pool has now gone out and extraordinarily claimed that I have the same security as Charlie Kirk and that I have a fraud and that actually I have the exact same security._
 
 **[Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc)**
 

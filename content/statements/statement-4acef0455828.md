@@ -30,7 +30,7 @@ type: "prediction"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:46:26](/episodes/ep-i8m_6D4QGmk.md#t-00-46-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2786);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2786s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And control death, and then we control everything. And make no mistake, Trump will, if they tell him to, at the behest of Bibi (Benjamin Netanyahu) or Miriam Adelson, send your sons and daughters to die for Israel.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:57:00](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3420);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the lie that you told about the surgeon going rogue Erica (Erika Kirk) how about responding to that ... The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a part of the conversation. You lied about that, Erica (Erika Kirk). ... and to claim that you weren't on the phone when you were and you facilitated that entire conversation.
 

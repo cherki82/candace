@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:42:59](/episodes/ep-7FS1tUeSfdE.md#t-00-42-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2579);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=2579s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his estate was basically stolen from him ... by the very people that he was fighting. ... he died and had his entire estate and the Beatles catalog that he owned taken from him.
 

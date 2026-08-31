@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:36:04](/episodes/ep-581dILVcEE4.md#t-00-35-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2164);return false;">Play</a>
+**Timestamp:** [00:36:04](/episodes/ep-581dILVcEE4.md#t-00-35-38) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=2164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Vibe check, right? But what's interesting is he allows us to now date—or rather put some time markers here—on how long the phone call was between Mikey and Erika, right?
 

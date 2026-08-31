@@ -5,11 +5,19 @@ id: "org-house-appropriations-committee"
 type: "ORG"
 aliases:
   - "Appropriations Committee"
+categories:
+  - "United States congressional committee"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Appropriations Committee
+
+**Categories:** United States congressional committee
+
+**Entity verification:** verified
+> The committee's official House website confirms the canonical name House Committee on Appropriations; the existing graph display name House Appropriations Committee is the transcript-supported common form.
+Source: [House Committee on Appropriations](https://appropriations.house.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-house-appropriations-committee-t-00-35-37">2025-12-20 · 00:35:37</a></strong></div>
@@ -18,7 +26,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -58,6 +66,28 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Has Member (1)</summary>
+
+- **[Mark Amodei](/entities/person-mark-amodei.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:35:37](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37): “in the House Appropriations Committee, of which I am a member”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Mark Amodei](/entities/person-mark-amodei.md)** member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:35:37](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37): “in the House Appropriations Committee, of which I am a member”
+
+</details>
+
+</details>
 
 </details>

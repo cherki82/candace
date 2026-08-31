@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:04:44](/episodes/ep-2T39-oADLj0.md#t-00-04-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(284);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=284s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Gloria Steinem was sponsored by the CIA,
 

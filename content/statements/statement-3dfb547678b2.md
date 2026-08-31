@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [01:04:40](/episodes/ep-q7f8r-THr84.md#t-01-03-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3880);return false;">Play</a>
+**Timestamp:** [01:04:40](/episodes/ep-q7f8r-THr84.md#t-01-04-24) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3880s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bill Ackman says he's offering a million dollars to whoever—any information he has—regarding the person who assassinated Charlie Kirk
 

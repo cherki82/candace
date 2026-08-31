@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:55:59](/episodes/ep-2T39-oADLj0.md#t-00-55-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3359);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3359s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In terms of his faith journey, they lied about the Hampton Summit. They lied about the fact that he had said, I have no choice but to abandon the pro-Israel cause.
 

@@ -15,7 +15,7 @@ object: "person-tucker-carlson"
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
-- [00:37:11](/episodes/ep-2WEHTk0Xewg#t-00-37-11): _Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative._
+- [00:37:09](/episodes/ep-2WEHTk0Xewg#t-00-37-09): _Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu narrative._
 
 ### Related
 

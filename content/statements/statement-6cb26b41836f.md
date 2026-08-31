@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:02:42](/episodes/ep-B9TyCs-6o_0.md#t-00-02-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(162);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=162s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We've been told that this individual, Robinson, is a lone gunman and maybe he is. But the investigation that I was a part of, the National Counterterrorism Center was a part of, we were stopped from continuing to investigate.
 

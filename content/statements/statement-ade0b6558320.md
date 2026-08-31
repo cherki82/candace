@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:44:12](/episodes/ep-1mYNOqzAdXs.md#t-00-44-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2652);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2652s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then it tells us that the bullet jacket, the fragments from the bullet jacket could not be identified or excluded as having been fired from the Exhibit One rifle based on. and agreement of all discernible class characteristics.
 

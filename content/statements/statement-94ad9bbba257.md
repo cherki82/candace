@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:56:57](/episodes/ep-YeEtS7nix3o.md#t-00-56-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3417);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3417s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think that we've gone wrong here, that women should prioritize family and children way above career, that they should try to find their husband before they're 25.
 

@@ -28,7 +28,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,9 +37,9 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19" style="--pulse-height:50%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-19" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19" style="--pulse-height:40%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-18" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-14" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#t-00-38-09" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 10 mentions" title="2025-12-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-16" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
@@ -50,9 +50,9 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19) | 5 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-19) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19) | 4 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-18) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-14) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-38-09) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01) | 10 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-16) | 1 |
@@ -137,7 +137,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18)**
+**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-14)**
 > "... I thought that would be a great get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist lette..."
 
 </details>
@@ -145,22 +145,19 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-19)**
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-18)**
 > "...ltra experiment that happened that I believe it looked very much like prisoner 2093 could have been Jean-Michel Trogneux. And then this happens. And I did not at all think there could be a connection, but this French ang..."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19)**
 > "... forms, Brigitte is listed as Jean Michel and listed as a male."
 
 **[00:57:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-02)**
 > "...re registered as a dude named Jean Michel.""
-
-**[00:57:21](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-02)**
-> "you were born Jean-Michel Trogneux, you transitioned"
 
 **[00:58:05](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-42)**
 > "...harges to change your name to Jean Michel way back when, when this wasn't even a viral stor..."
@@ -180,13 +177,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jean-Michel Trogneux (2)</strong></summary>
+<summary><strong class="section-title">Statements about Jean-Michel Trogneux (1)</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
-
-- [00:56:40](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) (Claim) **Candace Owens**: ["Brigitte Macron is listed as Jean Michel and listed as male on French ..."](/statements/statement-5a51ff97e1c4.md)
-  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
 - [00:58:14](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-42) (Accusation) **Candace Owens**: ["Brigitte Macron was born Jean-Michel Trogneux and transitioned"](/statements/statement-304406e304ac.md)
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)

@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1721);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1721s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.
 

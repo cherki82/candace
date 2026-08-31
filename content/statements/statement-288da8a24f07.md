@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [01:01:52](/episodes/ep-GY6GWceEqtQ.md#t-01-01-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3712);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=3712s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And like I said, I've said so many times, ... any Turning Point USA person is welcome to this platform. ... I have said, Blake Neff, if you would like to come, you can come onto this show. ... Andrew Kolvet, please.
 

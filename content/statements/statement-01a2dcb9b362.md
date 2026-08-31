@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:50:23](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3023);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=3023s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The attachment I had already began pulling up the threads of Erika hanging out at this modeling firm. ... Uh, where Epstein was hanging out. Jean-Luc Brunel was the founder of it, and I had wondered about Erika's connections—potential connections—to Epstein world. Now we have what further connections? Did that just get rebuilt around Charlie Kirk? Um, part of Epstein's network—a great place, what is it, what are they concentrating? Launder money, right? Traffic people, humans, into organizations. I mean...
 

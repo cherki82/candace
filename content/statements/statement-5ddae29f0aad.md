@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:28:46](/episodes/ep-Vu6Y24pqhZs.md#t-00-28-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1726);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1726s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he helped Trump raise a ton of money ahead of his second term by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Wynn in attendance, and they all sort of cut Trump these big checks.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(303);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=303s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nebraska also once hosted its own cattle barons ball that might be relevant. They eventually from the cattle barons ball minted their own separate 501c3 referred to as cattlemen's ball, which is the same exact idea, but it benefits a different cancer center, the Fred and Pamela Buffett Cancer Center.
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:05:36](/episodes/ep-E7P2ShoYDUA.md#t-00-05-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(336);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=336s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And suddenly we receive an email from the Crucible team. The Crucible team. It's actually saying, never mind, Joe Rogan has now made an offer to host this discussion down in Texas. ... So, and I'm quoting this, this changes everything.
 

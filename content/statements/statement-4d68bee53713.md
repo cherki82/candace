@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:08:50](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(530);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The plane that flew to Tucson, Arizona on September 8th, two days before Charlie (Charlie Kirk)'s assassination, landed and hung out in Tucson for about four hours before it carried on to the intel base in Fort Huachuca, Arizona, where it stayed overnight. ... Now, before departing for El Paso, Texas, the next morning—mid-morning on the 9th—it leaves for Texas.
 

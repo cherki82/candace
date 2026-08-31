@@ -1,8 +1,8 @@
 ---
-title: "Tyler Robinson was instructed to merely drop off his gun, wa..."
-description: "\"Tyler Robinson was instructed to merely drop off his gun, walks onto campus to simply drop off his gun at the chicken coop place.\" — Candace Owens"
+title: "Local residents theorized, without proof, that Tyler Robinso..."
+description: "\"Local residents theorized, without proof, that Tyler Robinson was instructed only to drop off the gun near the chicken coop.\" — Anonymous Source #4 (Ep sreYYcID-QY)"
 statement_id: "statement-69c23282dd2a"
-speaker: "Candace Owens"
+speaker: "Anonymous Source #4 (Ep sreYYcID-QY)"
 type: "opinion"
 ---
 
@@ -10,22 +10,23 @@ type: "opinion"
 
 ## Statement
 
-> Tyler Robinson was instructed to merely drop off his gun, walks onto campus to simply drop off his gun at the chicken coop place.
+> Local residents theorized, without proof, that Tyler Robinson was instructed only to drop off the gun near the chicken coop.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous Source #4 (Ep sreYYcID-QY)](/entities/anon-src-sreYYcID-QY-004.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** anonymous local residents
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:25:46](/episodes/ep-sreYYcID-QY.md#t-00-25-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1546);return false;">Play</a>
+**Timestamp:** [00:25:13](/episodes/ep-sreYYcID-QY.md#t-00-24-33) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1513s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Walks onto campus to simply drop off his gun at the chicken coop place
+> The locals are theorizing— ... again, we have no proof of this, ... They think—and again, they're floating a theory here—that Tyler Robinson was instructed to merely drop off his gun, okay? Walks onto campus to simply drop off his gun at the chicken coop place.
 
 ## Verification
 

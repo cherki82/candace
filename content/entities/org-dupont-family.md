@@ -28,7 +28,7 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -156,10 +156,10 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 **[00:31:00](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-30-38)**
 > "...adies messaged me and said, "Oh, you figured it out. It's Pierre du Pont?!?" I had mentioned Pierre du Pont on yesterday's show, and this took my breath away. I will be honest: I cried really hard yesterday ..."
 
-**[00:31:49](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-30-38)**
+**[00:31:49](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-31-21)**
 > "...onaire French American donor. And I would like a clean answer as to whether or not it is Mr. Pierre du Pont. Yeah. Because this would be a devastatingly dark story. And my sources are very sure—very sure—tha..."
 
-**[00:34:31](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-30-38)**
+**[00:34:31](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-34-06)**
 > "...think it's really important that we learn the truth about what happened. Who's Pierre? Is it Pierre du Pont? And has Turning Point been paid? Obviously it wouldn't be on this year's taxes. You're not going t..."
 
 **[00:56:12](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-55-43)**
@@ -214,9 +214,8 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 <summary>Founded By (1)</summary>
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): “...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): “...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an...”
 
 </details>
@@ -229,7 +228,7 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 - **[Lisa Dean](/entities/person-lisa-dean.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “...It appeared that Lisa Dean, who is a DuPont, didn't approve...”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker.”
 
 </details>
 
@@ -246,9 +245,8 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 </details>
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): “...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): “...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an...”
 
 </details>
@@ -256,7 +254,7 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 - **[Lisa Dean](/entities/person-lisa-dean.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “...It appeared that Lisa Dean, who is a DuPont, didn't approve...”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker.”
 
 </details>
 
@@ -265,7 +263,7 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about DuPont family (5)</strong></summary>
+<summary><strong class="section-title">Statements about DuPont family (7)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
@@ -279,15 +277,20 @@ Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5)</summary>
 
-- [00:07:03](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) (Claim) **Candace Owens** (via quoted article): ["Robert Richards the Fourth was in 2009 convicted of raping his three-y..."](/statements/statement-479c680fd9b3.md)
+- [00:04:57](/episodes/ep-a-e7HC6SeK8.md#t-00-04-57) (Accusation) **Anonymous Source #3 (Ep a-e7HC6SeK8)** (via read message): ["A Wilmington tipster asserted that the FBI had hidden offices, maybe i..."](/statements/statement-d9b84d5a93e8.md)
+  - Also about: [FBI](/entities/org-fbi.md), [France](/entities/gpe-france.md)
+
+- [00:07:03](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) (Claim) **Vanity Fair** (via quoted article): ["Robert Richards the Fourth was in 2009 convicted of raping his three-y..."](/statements/statement-479c680fd9b3.md)
   - Also about: [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
 
-- [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) (Claim) **Candace Owens**: ["John DuPont shot Olympic wrestler David Schultz dead in the driveway o..."](/statements/statement-9a8d4a44b905.md)
+- [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) (Claim) **Vanity Fair** (via quoted article): ["John DuPont shot Olympic wrestler David Schultz dead in the driveway o..."](/statements/statement-9a8d4a44b905.md)
   - Also about: [David Schultz](/entities/person-david-schultz.md), [John DuPont](/entities/person-john-dupont.md)
 
-- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Candace Owens** (via paraphrase): ["the money traced back to the DuPont family. It appeared that Lisa Dean..."](/statements/statement-7c3e83eb0a33.md)
+- [00:10:20](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) (Claim) **Vanity Fair** (via quoted article): ["Vanity Fair reported that a Las Vegas sex worker's decomposing body wa..."](/statements/statement-0cd5b2b1df5b.md)
+
+- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Dominick Dunne** (via quoted article): ["Dominick Dunne reported that money for the killing traced back to the ..."](/statements/statement-7c3e83eb0a33.md)
   - Also about: [Christopher Moseley](/entities/person-christopher-moseley.md), [Lisa Dean](/entities/person-lisa-dean.md)
 
 </details>

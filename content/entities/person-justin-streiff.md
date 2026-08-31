@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 102 mentions"
+description: "Justin Streiff (People) - 100 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ _Type: People_
 Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13">2025-09-25 · 00:06:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-26">2025-09-25 · 00:06:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50">2026-08-14 · 02:46:56</a></strong></div>
 <div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>102</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,11 +37,11 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-justin-streiff-t-00-00-01">BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13" style="--pulse-height:50%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 7 mentions" title="2025-09-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-26" style="--pulse-height:50%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 7 mentions" title="2025-09-25 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-justin-streiff-t-00-40-13" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50" style="--pulse-height:21%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04" style="--pulse-height:57%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 8 mentions" title="2025-12-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04" style="--pulse-height:36%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 5 mentions" title="2025-12-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-12" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-20" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-justin-streiff-t-00-17-53" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -81,11 +81,11 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13) | 7 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-26) | 7 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-justin-streiff-t-00-40-13) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50) | 3 |
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04) | 8 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04) | 5 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-12) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-20) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-justin-streiff-t-00-17-53) | 1 |
@@ -127,7 +127,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -546,30 +546,21 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (8 mentions)</summary>
-
-**[00:00:42](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04)**
-> "It's Justin. Justin was in the room"
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5 mentions)</summary>
 
 **[00:02:21](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04)**
-> "It's Justin (Justin Streiff)."
-
-**[00:02:22](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04)**
-> "Justin (Justin Streiff) was in the room."
-
-**[00:02:24](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04)**
 > "It was just Justin (Justin Streiff) and Erika (Erika Kirk)."
 
-**[00:03:25](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-48)**
+**[00:03:22](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-48)**
 > "...the conversation started with Justin (Justin Streiff)."
 
-**[00:57:27](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-57-19)**
+**[00:57:27](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-57-17)**
 > "... genuinely think that Justin (Justin Streiff) did a great job reffing that conversation yester..."
 
-**[01:06:17](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-01-06-03)**
+**[01:06:17](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-01-05-51)**
 > "...ell, by that, I mean, Justin (Justin Streiff) kind of said, the temperature is a little hot ri..."
 
-**[01:07:08](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-01-06-47)**
+**[01:07:05](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-01-07-05)**
 > "But I think Justin thought that it would be better if after just so ..."
 
 </details>
@@ -578,10 +569,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
 **[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50)**
-> "And he announces that Justin Strife (Justin Strife) is going to be the new COO, taking over for Tyler Bowyer (Tyler Bowyer)—who was the COO."
+> "And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO."
 
 **[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-26-49)**
-> "And a few of them had signified that one of the things that was being whispered about—that people thought was quite odd—that they learned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife (Justin Strife):"
+> "And a few of them had signified that one of the things that was being whispered about—that people thought was quite odd—that they learned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife:"
 
 **[00:27:49](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-27-29)**
 > "They said that Justin (Justin Strife) had placed an immediate call to a donor prospect..."
@@ -592,7 +583,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:31:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02)**
-> "...s running the company, I would have said, "Let's put in place an interim CEO," right? Someone below Justin Strife (Justin Strife)—I think was the COO. I would have put in an interim CEO and allowed people to figur..."
+> "Someone below Justin Strife—I think was the COO."
 
 </details>
 
@@ -607,22 +598,22 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (7 mentions)</summary>
 
-**[00:06:45](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13)**
+**[00:06:45](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-26)**
 > "Feeling like Justin Bieber, because it's not clicking for me."
 
-**[00:21:38](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13)**
-> "...irst and foremost announcing that, "Dear Team America, effective immediately, again, September 2nd, Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020, Ju..."
+**[00:21:26](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-26)**
+> "I'm gonna skip to the relevant portions. He's first and foremost announcing that, "Dear Team America, effective immediately, again, September 2nd, Justin Streiff is taking on a new elevated role with Turning Point USA as its COO."
 
-**[00:21:53](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-53)**
+**[00:21:53](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-26)**
 > "Since joining TPUSA in 2020, Justin has led Turning Point's fundraising division and,..."
 
-**[00:22:04](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-53)**
-> "...n this role, I have empowered Justin, among other priorities, to engage in an organiza..."
+**[00:21:59](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-59)**
+> "Now we're gonna jump to that last big paragraph. "In this role, I have empowered Justin (Justin Streiff), among other priorities, to engage in an organizational-wide DOGE effort."
 
-**[00:22:17](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-53)**
+**[00:22:17](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-59)**
 > "Justin will be assembling a small team to assist in this..."
 
-**[00:22:25](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-53)**
+**[00:22:25](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-59)**
 > "...is forthcoming initiative and Justin's expanded role."
 
 **[00:22:38](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-22-38)**
@@ -639,7 +630,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Coo Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:21:24](/episodes/ep-A39g5oqB_eM.md#t-00-21-11): “Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin (Justin Streiff) and that's why Justin (Justin Streiff) had been appointed the role of COO because he was literally I remember phone calls when Charlie (Charlie Kirk) and I would take our night walks and it would be 10 o'clock at night and him and Justin (Justin Streiff) would just be talking about”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “heard that i went to Justin Streiff when there was communication between us to the coo and i specifically asked about that i said i heard this and this person definitely knows Charlie (Charlie Kirk) he knows Erika (Erika Kirk) and you know is there any truth they said no no no that's not true well fast forward to today and they fired a lot of people and you know a lot of people are are speaking and somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA.”
@@ -647,6 +638,8 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “the most important person at that company becomes Justin Streiff because he's been promoted to COO just seven days earlier”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:00:35](/episodes/ep-7FS1tUeSfdE.md#t-00-00-01): “And on that note, I also learned an interesting thing about Justin Streiff, the COO. He became the COO of Turning Point USA seven days before Charlie (Charlie Kirk) died.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:14:54](/episodes/ep-tXoI0TTKVrs.md#t-00-14-39): “So I intentionally addressed my email where I asked, was this doctored to Justin Streiff, who is the COO, to Andrew Kolvet, who is the official spokesperson of Turning Point USA and to their lawyer.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:26](/episodes/ep-K5GjF53bfN4.md#t-00-21-26): “Justin Streiff is taking on a new elevated role with Turning Point USA as its COO.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO.”
 
 </details>
 
@@ -656,11 +649,12 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Met With (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-44): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:15:30](/episodes/ep-7FS1tUeSfdE.md#t-00-14-57): “He was, as you will recall, also the person that Erika (Erika Kirk) brought with her for our four-hour sit-down meeting.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk).”
 
 </details>
 
@@ -691,7 +685,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13): “Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:26](/episodes/ep-K5GjF53bfN4.md#t-00-21-26): “Justin Streiff is taking on a new elevated role with Turning Point USA as its COO.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “Justin Strife is going to be the new COO”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:18:10](/episodes/ep-X92MllIHDzw.md#t-00-17-53): “I instantly reached out to somebody at Turning Point USA ... Justin Streiff”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:06:30](/episodes/ep-YeEtS7nix3o.md#t-01-06-30): “I messaged Justin Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at Turning Point USA who could give an official response.”
@@ -713,7 +707,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13): “Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:26](/episodes/ep-K5GjF53bfN4.md#t-00-21-26): “Justin Streiff is taking on a new elevated role with Turning Point USA as its COO.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “Justin Strife is going to be the new COO”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:18:10](/episodes/ep-X92MllIHDzw.md#t-00-17-53): “I instantly reached out to somebody at Turning Point USA ... Justin Streiff”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:06:30](/episodes/ep-YeEtS7nix3o.md#t-01-06-30): “I messaged Justin Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at Turning Point USA who could give an official response.”
@@ -728,7 +722,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has COO this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:21:24](/episodes/ep-A39g5oqB_eM.md#t-00-21-11): “Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin (Justin Streiff) and that's why Justin (Justin Streiff) had been appointed the role of COO because he was literally I remember phone calls when Charlie (Charlie Kirk) and I would take our night walks and it would be 10 o'clock at night and him and Justin (Justin Streiff) would just be talking about”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “heard that i went to Justin Streiff when there was communication between us to the coo and i specifically asked about that i said i heard this and this person definitely knows Charlie (Charlie Kirk) he knows Erika (Erika Kirk) and you know is there any truth they said no no no that's not true well fast forward to today and they fired a lot of people and you know a lot of people are are speaking and somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA.”
@@ -736,15 +730,18 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “the most important person at that company becomes Justin Streiff because he's been promoted to COO just seven days earlier”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:00:35](/episodes/ep-7FS1tUeSfdE.md#t-00-00-01): “And on that note, I also learned an interesting thing about Justin Streiff, the COO. He became the COO of Turning Point USA seven days before Charlie (Charlie Kirk) died.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:14:54](/episodes/ep-tXoI0TTKVrs.md#t-00-14-39): “So I intentionally addressed my email where I asked, was this doctored to Justin Streiff, who is the COO, to Andrew Kolvet, who is the official spokesperson of Turning Point USA and to their lawyer.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:26](/episodes/ep-K5GjF53bfN4.md#t-00-21-26): “Justin Streiff is taking on a new elevated role with Turning Point USA as its COO.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-44): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:15:30](/episodes/ep-7FS1tUeSfdE.md#t-00-14-57): “He was, as you will recall, also the person that Erika (Erika Kirk) brought with her for our four-hour sit-down meeting.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk).”
 
 </details>
 
@@ -770,9 +767,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:22:08](/episodes/ep-A39g5oqB_eM.md#t-00-21-54): “working with Justin (Justin Streiff) and the executive leadership teams to make sure that all of those plans come into effect 2030 and beyond but I again am so grateful for all of you I'm so proud of all of you you honor my husband so well all of you do and”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:03:22](/episodes/ep-es7PWdFGoFI.md#t-00-02-48): “It was a lot. There's a lot going on. Okay. And the conversation started with Justin (Justin Streiff). very sensibly saying, what are we looking to accomplish here? Like, what is the actual aim of this conversation? And he was pretty clear and Erika (Erika Kirk) was very clear that they were sort of most upset with what I, obviously a bit of a fever pitch, when I tweeted that it was a godforsaken company and people should not give money to it.”
 
 </details>
 
@@ -821,7 +819,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (30)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (31)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
@@ -845,7 +843,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 - [00:16:46](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26) (Claim) **Anonymous Source #3 (Ep 7FS1tUeSfdE)** (via read message): ["Justin Streiff was overheard on the phone yelling that all of the mone..."](/statements/statement-8b661529362d.md)
   - Also about: [Turning Point Action](/entities/org-turning-point-action.md)
 
-- [00:18:43](/episodes/ep-7FS1tUeSfdE.md#t-00-18-18) (Claim) **Anonymous Source #4 (Ep 7FS1tUeSfdE)** (via read message): ["On the day Charlie Kirk died, Justin Streiff called a printer to at le..."](/statements/statement-739c44db267e.md)
+- [00:18:43](/episodes/ep-7FS1tUeSfdE.md#t-00-18-18) (Claim) **Anonymous Source #4 (Ep 7FS1tUeSfdE)** (via read message): ["Owens alleged that, on the day Charlie Kirk died, Justin Streiff calle..."](/statements/statement-739c44db267e.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Stop, in the Name of God](/entities/work-stop-in-the-name-of-god.md)
 
 - [00:20:44](/episodes/ep-7FS1tUeSfdE.md#t-00-20-24) (Claim) **Candace Owens**: ["Justin Streiff also runs Winning Team Publishing, a company started by..."](/statements/statement-618d006894b7.md)
@@ -974,16 +972,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) (Claim) **Candace Owens**: ["Candace Owens said her private meeting lasted four hours and 30 minute..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Mia Grant](/entities/person-mia-grant.md)
-
-- [00:02:06](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) (Claim) **Candace Owens**: ["The meeting with Erika Kirk and Justin Streiff lasted four hours and 3..."](/statements/statement-42464183ec72.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -993,8 +985,22 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 - [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Strife was announced as the new COO of Turning Point USA on Sep..."](/statements/statement-51eadcc75ceb.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
-- [00:27:29](/episodes/ep-a-e7HC6SeK8.md#t-00-27-29) (Claim) **Candace Owens**: ["A Turning Point USA source claims Justin Strife placed a phone call to..."](/statements/statement-c1f179233d39.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pierre S. du Pont](/entities/person-pierre-s-du-pont.md)
+- [00:27:29](/episodes/ep-a-e7HC6SeK8.md#t-00-27-29) (Claim) **Anonymous Source #4 (Ep a-e7HC6SeK8)** (via read message): ["Turning Point USA sources alleged that Justin Streiff placed an immedi..."](/statements/statement-c1f179233d39.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pierre (French-American donor; identity unverified)](/entities/anon-src-a-e7HC6SeK8-008.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3)</summary>
+
+- [00:21:13](/episodes/ep-K5GjF53bfN4.md#t-00-20-42) (Claim) **Charlie Kirk** (via quoted document): ["A purported internal memo attributed to Charlie Kirk announced Justin ..."](/statements/statement-2ac1c1599c51.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:21:13](/episodes/ep-K5GjF53bfN4.md#t-00-20-42) (Claim) **Charlie Kirk** (via quoted document): ["In a purported internal memo, Charlie Kirk announced that Justin Strei..."](/statements/statement-4e425a7be618.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:21:59](/episodes/ep-K5GjF53bfN4.md#t-00-21-59) (Claim) **Charlie Kirk** (via quoted document): ["In a purported internal memo, Charlie Kirk empowered Justin Streiff to..."](/statements/statement-c432fe4f7d42.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:09:01](/episodes/ep-OgRyiOAVtWU.md#t-00-08-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(541);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=541s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here is a second never before seen photo, and it's another shot of that mysterious object. that many people, surgeons included, have identified as a burned shirt. ... Again, we can't say that definitively, but I'll tell you what I like about this photo before we get close to it. Maybe it is a burned shirt, maybe it's not a burned shirt.
 

@@ -30,7 +30,7 @@ type: "prediction"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:09:56](/episodes/ep-I0OaY6Gryqk.md#t-00-09-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(596);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=596s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If I didn't terminate Obama's horrible deal that he made, the Iran nuclear deal, you would have had a nuclear war four years ago. ... You would have had nuclear holocaust and you would have had it again if we didn't bomb the site.
 

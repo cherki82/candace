@@ -1,6 +1,6 @@
 ---
-title: "the footage of Tyler Robinson turning himself in... is now m..."
-description: "\"the footage of Tyler Robinson turning himself in... is now missing\" — Candace Owens"
+title: "Candace Owens said it seemed that footage of Tyler Robinson ..."
+description: "\"Candace Owens said it seemed that footage of Tyler Robinson turning himself in might now be missing\" — Candace Owens"
 statement_id: "statement-0919782fb3e7"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> the footage of Tyler Robinson turning himself in... is now missing
+> Candace Owens said it seemed that footage of Tyler Robinson turning himself in might now be missing
 
 ## Attribution
 
@@ -20,13 +20,17 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
+
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:40:39](/episodes/ep-sImMM04XdWY.md#t-00-40-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2439);return false;">Play</a>
+**Timestamp:** [00:40:25](/episodes/ep-sImMM04XdWY.md#t-00-40-20) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=2425s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Well, now, mysteriously, the footage of Tyler Robinson turning himself in—which should in theory show his dad and him walking in; his dad turned him in
+> Well, now, mysteriously, the footage of Tyler Robinson turning himself in—which should in theory show his dad and him walking in; his dad turned him in. ... Well, it doesn't seem like we're ever going to be able to get that footage because it's now missing, question mark.
 
 ## Verification
 

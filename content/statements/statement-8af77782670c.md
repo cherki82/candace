@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:00:20](/episodes/ep-his-JBjlkh8.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(20);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=20s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And after a very long diatribe in which they wildly misrepresent the public and global investigation of Charlie (Charlie Kirk)'s assassination, they at long last issued a public invitation or a challenge.
 

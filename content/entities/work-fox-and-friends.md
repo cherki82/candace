@@ -17,7 +17,7 @@ _Type: Works & Media_
 Source: [Fox & Friends | Fox News](https://www.foxnews.com/shows/fox-and-friends)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-work-fox-and-friends-t-00-26-19">2025-09-17 · 00:27:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-work-fox-and-friends-t-00-26-19">2025-09-17 · 00:26:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#t-00-31-36">2026-08-19 · 00:31:36</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -60,7 +60,7 @@ Source: [Fox & Friends | Fox News](https://www.foxnews.com/shows/fox-and-friends
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:27:00](/episodes/ep-2WEHTk0Xewg.md#ent-work-fox-and-friends-t-00-26-19)**
+**[00:26:54](/episodes/ep-2WEHTk0Xewg.md#ent-work-fox-and-friends-t-00-26-19)**
 > "...en to Trump (Donald Trump) on Fox & Friends. (Clip of Donald Trump)"
 
 </details>

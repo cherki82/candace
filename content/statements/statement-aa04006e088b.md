@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:05:02](/episodes/ep-qZ8RWfyuewQ.md#t-00-04-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(302);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To be clear with you guys, it is real. It is not AI. People were suspicious. Is this a real photo? ... So back in 2019, I shared that because I'm actually.
 

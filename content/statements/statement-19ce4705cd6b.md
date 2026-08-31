@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:40:30](/episodes/ep-2T39-oADLj0.md#t-00-40-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2430);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=2430s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > yeah it was just a full court they were like just start report mass reporting her for violence and violent rhetoric and they did that and then I got I had no strikes and then I went to all strikes overnight and YouTube demonetized us we were demonetized for six months I think it was like September it was four months and so that was
 

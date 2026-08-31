@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:38:53](/episodes/ep-BxN2-aeMYIs.md#t-00-38-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2333);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2333s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie went so hard against the Epstein files. ... Charlie did not support Jeffrey Epstein. He would not have supported Trump saying to look away on the Jeffrey Epstein matter
 

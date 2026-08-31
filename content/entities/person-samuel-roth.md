@@ -5,11 +5,19 @@ id: "person-samuel-roth"
 type: "PERSON"
 aliases:
   - "Roth"
+categories:
+  - "publishing and First Amendment litigation"
 ---
 
 _Type: People_
 
 **Also known as:** Roth
+
+**Categories:** publishing and First Amendment litigation
+
+**Entity verification:** verified
+> The U.S. Supreme Court case record identifies publisher Samuel Roth, matching the episode's free-speech litigation context.
+Source: [Roth v. United States, 354 U.S. 476 (1957)](https://supreme.justia.com/cases/federal/us/354/476/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-samuel-roth-t-00-12-52">2025-11-03 · 00:13:24</a></strong></div>
@@ -46,7 +54,7 @@ _Type: People_
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:13:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-samuel-roth-t-00-12-52)**
-> "Samuel Roth (Samuel Roth)—actually, that's his name—fought for that decision in court."
+> "Samuel Roth—actually, that's his name—fought for that decision in court."
 
 </details>
 

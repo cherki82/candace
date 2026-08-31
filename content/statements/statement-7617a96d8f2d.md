@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1089);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But Ben Shapiro is like a cancer, and that cancer spreads. ... It's a cancer and it metastasizes.
 

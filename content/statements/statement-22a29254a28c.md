@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:27:42](/episodes/ep-SubDoZWHARo.md#t-00-27-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1662);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1662s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She has money and connections. She can call Vice President J.D. Vance. She can get the Treasury Secretary Scott Bessent to issue a letter on demand, demanding you stop looking into their finances.
 

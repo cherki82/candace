@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:24:53](/episodes/ep-jsqUIkszZd0.md#t-00-24-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1493);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Following our initial meeting with the Marxes, we released the Victor Marx Signature Series rifle at the SHOT Show in 2024. ... The Marxes participated in the release, attending our show booth for several hours each of the four days of the show.
 

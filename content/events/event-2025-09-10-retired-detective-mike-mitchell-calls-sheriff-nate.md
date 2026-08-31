@@ -7,6 +7,7 @@ time: "20:02"
 ---
 
 **Date:** 2025-09-10 at 20:02
+**Date precision:** Day
 
 ## Event
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:38:43](/episodes/ep-1CFDtD0IgEg.md#t-00-38-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2323);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2323s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We know that Tomahawk missiles are typically fired from ships and submarines, and we know that on the day of the attack, America had a carrier strike group in the area. This is, I'll get up for you, a satellite image of their carrier strike group with the USS Abraham Lincoln and ... an aircraft carrier and then three warships around it in the Arabian Sea three days before the attack. We have another image which we've been able to use to place them on the day of the attack, based on the information shown on this monitor here, and that puts the carrier strike group right within range of Minab.
 

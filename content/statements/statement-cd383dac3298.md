@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:40:09](/episodes/ep-amqTMimDr0A.md#t-00-40-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2409);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2409s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Twitch (Stephen "tWitch" Boss) died in 2002 at a motel less than a mile from his house from a self-inflicted gunshot wound. ... He checked in to the Oak Tree Inn. And his body was discovered by motel staff on Tuesday. He checked in on a Monday. ... He was just 40 years old and he was pronounced dead at the scene just after 11 a.m. ... I think I said he died in 2002. I meant to say 2022.
 

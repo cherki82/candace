@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:55:28](/episodes/ep-zSKrxIUMNqw.md#t-00-54-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3328);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3328s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > hey, what Israel is doing to the Palestinians is wrong.
 

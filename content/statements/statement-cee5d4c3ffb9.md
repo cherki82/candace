@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:31:09](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1869);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1869s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who used to work for the sheriff's department but tyler robinson knows him because he is uh was his boy scouts coach or whatever i don't know how boy scouts work um his boy scouts leader or whatever and so he was the one that said to him they have your prince on a gun and like it's going to be easier this way and he could went to his house and said two options here they're going to burst through the door you're gonna get the swat team you're gonna have guns to the faces of you your mother your ... Or your father or you're going to go and peacefully see what they have. And he's like, I didn't do it.
 

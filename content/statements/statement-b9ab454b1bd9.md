@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:33:21](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2001);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2001s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that's not that's putting it mildly. I mean, she has been committed multiple times.
 

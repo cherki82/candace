@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,13 +24,13 @@ veracity: "mixed"
 - [Seth Dillon](/entities/person-seth-dillon.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [The Hamptons](/entities/gpe-the-hamptons.md) (gpe)
+- [Hamptons](/entities/gpe-hamptons.md) (gpe)
 
 ## Source
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:36:55](/episodes/ep-4YgrOhhy708.md#t-00-36-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2215);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2215s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's evil. ... Now what's evil is you lied. ... And now you're adjusting your story. Everybody go back and watch the clips of them discussing what happened in the Hamptons. And she is correct. I never said that he was blackmailed. Charlie (Charlie Kirk) described what happened in the Hamptons as he was being morally blackmailed.
 

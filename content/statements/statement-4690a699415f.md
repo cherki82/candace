@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:09:21](/episodes/ep-YeEtS7nix3o.md#t-01-09-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4161);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=4161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do think it's very strange that they entered into relationships with all these AI companies following his death who specialize in making after-death videos
 

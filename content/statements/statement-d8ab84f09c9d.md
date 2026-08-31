@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:30:01](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1801);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then when you look into who's writing these articles, like Victoria Churchill, you note that she has a connection to AIPAC. So AIPAC is pushing this.
 

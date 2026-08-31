@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:06:05](/episodes/ep-HZvwbfePe7o.md#t-00-05-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(365);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=365s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was not just saying this privately. People have shared clips of him saying the same publicly. He said, "If ADL people are telling me to get rid of Candace (Candace Owens), I told them to lose my number if they have anything to say about Candace (Candace Owens)."
 

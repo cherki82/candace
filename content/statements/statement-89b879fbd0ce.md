@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:42:52](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2572);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2572s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Air Force Base at Davis-Monthan, and then he flew from Tucson to Fort Huachuca on a most crucial date, September 8th.
 

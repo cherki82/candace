@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:38:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-38-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2325);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2325s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that article appears in the Jezebel, Jezebel.com regarding the witch's cursed place on Charlie (Charlie Kirk)'s life. That was at 9.49 a.m. All of this is in Arizona time. ... Exactly one hour later, to the minute, Erika (Erika Kirk) breaks her years-long Twitter silence, and she tweets out a Bible verse, Ephesians 4, by grace you have been saved through faith.
 

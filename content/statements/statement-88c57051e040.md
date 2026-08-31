@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:25:18](/episodes/ep-r1PS67aRmcA.md#t-00-25-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1518);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=1518s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I spoke at YWLS in 2024, right after I was fired from the Daily Wire
 

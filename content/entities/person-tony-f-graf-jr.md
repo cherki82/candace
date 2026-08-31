@@ -22,7 +22,7 @@ _Type: People_
 Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court-info/judges-bios/district-courts/fourth-district-court/tony-f-graf-jr.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18">2025-10-01 · 00:06:19</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48">2025-10-01 · 00:06:19</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#t-00-16-15">2026-07-22 · 00:16:46</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -34,9 +34,9 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#t-00-25-38" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#t-00-16-15" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
@@ -44,7 +44,7 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-25-38) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#t-00-16-15) | 1 |
 
@@ -75,10 +75,10 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:06:19](/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18)**
+**[00:06:19](/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48)**
 > "That's not it, though. There were also some other new people, and I forgot to mention the judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was"
 
-**[00:06:32](/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18)**
+**[00:06:32](/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48)**
 > "...erseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox. I was a..."
 
 </details>
@@ -94,7 +94,7 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 - **[Spencer Cox](/entities/person-spencer-cox.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-05-48): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
 
 </details>
 
@@ -118,7 +118,7 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 - **[Spencer Cox](/entities/person-spencer-cox.md)** appointed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-05-48): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
 
 </details>
 

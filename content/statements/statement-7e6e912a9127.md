@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:24:14](/episodes/ep-JQjCAsfoXEE.md#t-00-23-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1454);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1454s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the hospital—that you were told that there was a credible threat against me and Tucker (Tucker Carlson). Specifically, you told me
 

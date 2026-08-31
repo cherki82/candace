@@ -11,7 +11,11 @@ object: "person-shawn-ryan"
 
 ## [Brian Harpole](/entities/person-brian-harpole) interviewed by [Shawn Ryan](/entities/person-shawn-ryan)
 
-### Evidence (9 mentions)
+### Evidence (12 mentions)
+
+**[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
+
+- [00:24:10](/episodes/ep-581dILVcEE4#t-00-24-10): _First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan._
 
 **[BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU)**
 
@@ -20,6 +24,10 @@ object: "person-shawn-ryan"
 **[Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU)**
 
 - [00:05:10](/episodes/ep-9CuC1yf8-PU#t-00-05-10): _Brian Harpole, who joined Sean Ryan for a car crash of an interview_
+
+**[BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88)**
+
+- [00:41:03](/episodes/ep-9k2xrAC0H88#t-00-41-03): _Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event._
 
 **[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
 
@@ -32,6 +40,10 @@ object: "person-shawn-ryan"
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:03:34](/episodes/ep-VMNWMXX1vO8#t-00-03-34): _his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show_
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:15:13](/episodes/ep-es7PWdFGoFI#t-00-15-13): _Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan)._
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 

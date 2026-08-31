@@ -1,6 +1,6 @@
 ---
 title: "South Korea"
-description: "South Korea (Places) - 45 mentions"
+description: "South Korea (Places) - 47 mentions"
 id: "gpe-south-korea"
 type: "GPE"
 aliases:
@@ -24,12 +24,12 @@ _Type: Places_
 Source: [Member States | United Nations](https://www.un.org/about-us/member-states)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-48">2025-11-06 · 00:46:52</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-south-korea-t-00-09-41">2025-11-04 · 00:09:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-south-korea-t-00-20-43">2026-04-02 · 00:20:54</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,8 +38,10 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-korea-t-00-50-14">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (26 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-48" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00" style="--pulse-height:15%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-south-korea-t-00-09-41" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-39" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-korea-t-00-24-50" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00" style="--pulse-height:12%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-korea-t-00-50-14" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 26 mentions" title="2026-01-09 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-south-korea-t-00-31-08" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
@@ -56,8 +58,10 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-48) | 2 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00) | 4 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-south-korea-t-00-09-41) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-39) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-korea-t-00-24-50) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-korea-t-00-50-14) | 26 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-south-korea-t-00-31-08) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-30) | 2 |
@@ -76,7 +80,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
@@ -251,30 +255,43 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
-
-**[00:00:03](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00)**
-> "went first to Korea for a couple of days"
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
 
 **[00:00:10](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00)**
 > "...ick turnaround to go first to Korea for a couple of days and then off to Japan."
 
-**[00:28:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-28-37)**
-> "...an Flood) was with Charlie in Korea."
+**[00:28:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-28-26)**
+> "No, well, that checks out because Dan Flood was with Charlie in Korea."
 
-**[00:29:19](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-28-37)**
+**[00:29:14](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-29-04)**
 > "He is in Korea doing an event."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:25:24](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-korea-t-00-24-50)**
+> "Charlie (Charlie Kirk) is in Korea for a couple of days."
 
 </details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:46:52](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-48)**
+**[00:46:48](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-39)**
 > "... one. You know why he went to Korea and Japan?"
 
-**[00:47:13](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-48)**
+**[00:47:06](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-39)**
 > "...he probably went to Japan and Korea because it's an awesome opportunity."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:09:41](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-south-korea-t-00-09-41)**
+> "...'s very last overseas trip to Korea."
 
 </details>
 
@@ -288,7 +305,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about South Korea (7)</strong></summary>
+<summary><strong class="section-title">Statements about South Korea (8)</strong></summary>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
@@ -323,6 +340,14 @@ _No relationships extracted yet._
 
 - [01:11:11](/episodes/ep-wcD2khO3rOA.md#t-01-10-30) (Claim) **Candace Owens** (via quoted article): ["Hyun-bo Son was accused of violating South Korea’s Public Official Ele..."](/statements/statement-7ebe5221d50a.md)
   - Also about: [Hyun-bo Son](/entities/person-hyun-bo-son.md), [South Korea's Public Official Election Act](/entities/law-south-korea-public-official-election-act.md), [South Korea's Local Education Autonomy Act](/entities/law-south-korea-local-education-autonomy-act.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:29:14](/episodes/ep-t4U7NjnUEgc.md#t-00-29-04) (Claim) **Candace Owens**: ["Owens said Charlie Kirk attended an event in Korea on September 5 and ..."](/statements/statement-63c30899ddce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Japan](/entities/gpe-japan.md), [CNN](/entities/org-cnn.md)
 
 </details>
 

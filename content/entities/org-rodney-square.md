@@ -20,7 +20,7 @@ _Type: Organizations_
 Source: [Rodney Square](https://en.wikipedia.org/wiki/Rodney_Square)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-19">2025-11-19 · 00:08:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-27">2025-11-19 · 00:08:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48">2025-12-01 · 00:32:13</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
@@ -32,16 +32,16 @@ Source: [Rodney Square](https://en.wikipedia.org/wiki/Rodney_Square)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-19">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-27">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-19" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-27" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-19) | 3 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-27) | 3 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48) | 3 |
 
 </details>
@@ -69,13 +69,13 @@ Source: [Rodney Square](https://en.wikipedia.org/wiki/Rodney_Square)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
 
-**[00:08:27](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-19)**
+**[00:08:27](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-27)**
 > "...e vehicles are connected to 920 North King Street, which is at a place that is marketed also as one Rodney Square." "Nearly every federal vehicle that visits the airport will pass through King Street at least once..."
 
 **[00:10:15](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-10-15)**
 > "... June of 1997, the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801." "That is your line to know that it is a ..."
 
-**[00:10:47](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-10-15)**
+**[00:10:46](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-10-15)**
 > "...for a page titled 675." Okay? We did that. We confirmed that. "Wilmington Resident Office Suite 404 1 Rodney Square." And so we can confirm this is like he says or she says the Department of Justice's own directory ..."
 
 </details>

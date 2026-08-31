@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:18:53](/episodes/ep-amqTMimDr0A.md#t-00-18-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1133);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1133s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's visual timelines that show Charlie (Charlie Kirk)'s body being carried to a vehicle within minutes of being shot. Apparently he was still alive at the time. Again, I know that only because my security was talking to his security in the car.
 

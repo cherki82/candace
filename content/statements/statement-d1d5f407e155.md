@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:51:21](/episodes/ep-I0OaY6Gryqk.md#t-00-51-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3081);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=3081s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > again strange just given the context of hey you're in the middle of a war and like you're getting coffee what like this is how you're trying to prove that you're alive this is the whole thing is very strange and i started thinking i don't know if i think he's dead but he's injured maybe i thought maybe he's injured there and they're using these hd highly produced cameras uh because they're making his face i don't know i don't know what to think but i know that that's not normal behavior here
 

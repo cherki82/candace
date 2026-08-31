@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:47:49](/episodes/ep-eLgD5yUVbko.md#t-00-47-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2869);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=2869s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The state does not intend to offer evidence obtained through forensic extractions of electronics seized in this case. ... It does, however, intend to offer two exhibits which used cameras to record the contents of text messages.
 

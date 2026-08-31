@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:19:59](/episodes/ep-3QJqtW_NOSI.md#t-00-19-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1199);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1199s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in this case, it was the International Police Task Force. That was an arm of the United Nations Civilian Police Force. ... They were created by NATO. ... Except they were exactly the ones who were charged with trafficking the children, covering it up, the United Nations, DynCorp, forcing them into prostitution.
 

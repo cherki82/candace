@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:04:04](/episodes/ep-581dILVcEE4.md#t-00-03-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(244);return false;">Play</a>
+**Timestamp:** [00:04:04](/episodes/ep-581dILVcEE4.md#t-00-03-51) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we are looking at anywhere between 12 to 14 quote-unquote Egyptians that were on this flight and deplaned on September 4th
 

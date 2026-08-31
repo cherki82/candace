@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:03:58](/episodes/ep-YFmRH8p5lt0.md#t-00-03-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(238);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=238s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were estimating like approximately 18 people were on the plane that came over, and far less were on the way back. Where did these people go?
 

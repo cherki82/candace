@@ -29,7 +29,7 @@ type: "citation"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:19:57](/episodes/ep-AH1KVKkweUE.md#t-00-19-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=1197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And according to his LinkedIn, he was the marksmanship instructor for the Marines from 2009 to 2014 at Camp Pendleton, which is in California. ... He's been deployed in combat in Afghanistan. He was also deployed in humanitarian work in Japan for the Marines before he arrived into Utah.
 

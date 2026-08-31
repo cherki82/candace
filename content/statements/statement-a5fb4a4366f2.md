@@ -1,6 +1,6 @@
 ---
-title: "Federal agents swept through and collected all available foo..."
-description: "\"Federal agents swept through and collected all available footage from locals near UVU campus to control the narrative about Charlie Kirk's shooting\" — Candace Owens"
+title: "Owens suggested federal agents sought all available local fo..."
+description: "\"Owens suggested federal agents sought all available local footage so they could control the narrative.\" — Candace Owens"
 statement_id: "statement-a5fb4a4366f2"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Federal agents swept through and collected all available footage from locals near UVU campus to control the narrative about Charlie Kirk's shooting
+> Owens suggested federal agents sought all available local footage so they could control the narrative.
 
 ## Attribution
 
@@ -26,8 +26,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:04:09](/episodes/ep-sreYYcID-QY.md#t-00-03-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(249);return false;">Play</a>
+**Timestamp:** [00:05:08](/episodes/ep-sreYYcID-QY.md#t-00-04-43) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=308s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They pretend that they want more information, but in reality, they want to make sure that they have all of the information, all of the footage, so that they can control the narrative.
 

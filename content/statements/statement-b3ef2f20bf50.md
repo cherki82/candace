@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:22:21](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were also the ones that came up with a report with my face on it claiming that Christ is King was suddenly anti-Semitic. ... And Dr. Jordan Peterson all trying to convince you in a psyop that if you think Christ is king, you might be falling for the dark tetrad.
 

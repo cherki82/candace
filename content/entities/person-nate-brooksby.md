@@ -158,7 +158,7 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
 **[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
-> "... TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to get him here." After Ch..."
+> "Washington County Sheriff Nate Brooksby held a press conference."
 
 </details>
 
@@ -252,9 +252,10 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 <summary>Sheriff Of (2)</summary>
 
 - **[Washington County](/entities/gpe-washington-county.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:40:42](/episodes/ep-sImMM04XdWY.md#t-00-40-42): “On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference.”
 
 </details>
 
@@ -293,9 +294,10 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 </details>
 
 - **[Washington County](/entities/gpe-washington-county.md)** has sheriff this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:40:42](/episodes/ep-sImMM04XdWY.md#t-00-40-42): “On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference.”
 
 </details>
 

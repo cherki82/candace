@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:42:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2529);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2529s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For what reason? Then he concedes, yes, we politely declined having Netanyahu on the show. So what? And yes, months later, CK took a call from him after he wrote him a letter. Again, so what?
 

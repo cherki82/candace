@@ -26,7 +26,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -234,11 +234,12 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Formerly Dated (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:20:20](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20): “At this time, according to our timeline, Erika was dating Cabot Phillips.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:43:55](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46): “I didn't say this is Erika's ex-boyfriend from 2017.”
 
 </details>
 
@@ -250,7 +251,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:51](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27): “And I know that he does the morning wire up a daily wire.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 
 </details>
@@ -263,17 +264,18 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:51](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27): “And I know that he does the morning wire up a daily wire.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly dated this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:20:20](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20): “At this time, according to our timeline, Erika was dating Cabot Phillips.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:43:55](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46): “I didn't say this is Erika's ex-boyfriend from 2017.”
 
 </details>
 
@@ -282,7 +284,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cabot Phillips (10)</strong></summary>
+<summary><strong class="section-title">Statements about Cabot Phillips (7)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
@@ -317,24 +319,16 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
 
-- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Witness Mitch identified Cabot Phillips as the person he saw at Fort H..."](/statements/statement-113b092b6b74.md)
-  - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+- [00:42:01](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Owens said social-media material appeared to show that Erika Kirk and ..."](/statements/statement-fa70a647a5e4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Mitch tentatively identified Cabot Phillips from a photo, but Owens ca..."](/statements/statement-b16f405410db.md)
-  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
-- [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) (Claim) **Candace Owens**: ["Cabot Phillips is missing from the Morning Wire show from September 4t..."](/statements/statement-88ef12af870f.md)
+- [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) (Claim) **Candace Owens**: ["Owens said she did not find Cabot Phillips on Morning Wire from Septem..."](/statements/statement-88ef12af870f.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
-
-- [00:43:36](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) (Claim) **Candace Owens**: ["Cabot Phillips' father is taking a lot of money from the Adelsons and ..."](/statements/statement-ac23843213dd.md)
-
-- [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) (Claim) **Candace Owens**: ["Erika Kirk previously dated Cabot Phillips, a Daily Wire employee, in ..."](/statements/statement-b153bb3657cc.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The Daily Wire](/entities/org-the-daily-wire.md)
-
-- [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) (Accusation) **Candace Owens**: ["Owens alleged, based on social-media material, that Erika Kirk and Cab..."](/statements/statement-fa70a647a5e4.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

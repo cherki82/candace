@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:23:53](/episodes/ep-H9p2ZGHAs9A.md#t-00-23-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1433);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1433s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > How random. And the history of how this program developed is pretty precise. In 2010, the very year that Tyler Bowyer went over to Romania, Arizona State University became the site of an Honorary Consulate General of Romania in Arizona, effectively, just to understand that, a Romanian embassy.
 

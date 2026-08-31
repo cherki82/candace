@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:29:37](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1777);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1777s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was the closest person to Charlie (Charlie Kirk) while he was beginning to date Erika (Erika Kirk), okay? No one spent more time with him or spoke to him more. He did not know these things about Erika Kirk, or Erika Frantzve was the name at the time. We had no idea that she was telling people that she knew the people that were in Kanye's (Kanye West's) orbit when he sent that tweet out.
 

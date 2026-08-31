@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:09:05](/episodes/ep-OEAHy3SsIiI.md#t-00-08-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(545);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=545s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So he's going to be at AmFest and he's not only just going to be at AmFest, he's going to walk out right after Erika Kirk opens up AmFest. And we just sort of expect the public to be fine with that.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:15:30](/episodes/ep-ti5Fxrvegno.md#t-00-15-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(930);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) allowing Ben Shapiro to open at AmFest behind her.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:34:43](/episodes/ep-eMtjzXkQrsU.md#t-00-34-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2083);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2083s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To free resources to address more pressing priorities, excuse me, and end risks of further weaponization and abuses of prosecutorial discretion, the Foreign Influence Task Force shall be disbanded. Recourse to criminal charges under the Foreign Agents Registration Act and 18 code 951 shall be limited to instances of alleged conduct similar to more traditional espionage by foreign government actors.
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [01:01:37](/episodes/ep-X92MllIHDzw.md#t-01-01-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3697);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=3697s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will pursue that alibi in earnest. I'm going to send them a video so they know what I'm talking about. I don't know if it's just like translations getting lost over text message. Hopefully I'll have an update for you guys by Monday.
 

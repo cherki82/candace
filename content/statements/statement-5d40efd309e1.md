@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:44:44](/episodes/ep-FFQ9675oqRI.md#t-00-44-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2684);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=2684s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, he cared about family life more. He did believe the words that he said about women staying home and raising kids and adding more value and that men should be the ones working these ridiculous hours.
 

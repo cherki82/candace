@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:12:44](/episodes/ep-G3zdOeHpvS0.md#t-00-12-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(764);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=764s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Suddenly on October 8th at the University of Nevada in Reno, Charlie (Charlie Kirk) has it on the inside of his shirt.
 

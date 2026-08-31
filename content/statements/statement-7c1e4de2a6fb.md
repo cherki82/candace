@@ -1,17 +1,17 @@
 ---
-title: "Seth Dillon was out there demanding that Charlie Kirk take m..."
-description: "\"Seth Dillon was out there demanding that Charlie Kirk take me off the roster, pull me off stage\" — Tucker Carlson"
+title: "Tucker Carlson accused Seth Dillon of demanding that Charlie..."
+description: "\"Tucker Carlson accused Seth Dillon of demanding that Charlie Kirk remove Carlson from the Turning Point roster and stage because Carlson had said thin...\" — Tucker Carlson"
 statement_id: "statement-7c1e4de2a6fb"
 speaker: "Tucker Carlson"
-type: "factual_claim"
+type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Seth Dillon was out there demanding that Charlie Kirk take me off the roster, pull me off stage
+> Tucker Carlson accused Seth Dillon of demanding that Charlie Kirk remove Carlson from the Turning Point roster and stage because Carlson had said things Dillon or Benjamin Netanyahu did not like.
 
 ## Attribution
 
@@ -24,10 +24,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:47:18](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2838);return false;">Play</a>
+**Timestamp:** [00:47:27](/episodes/ep-2WEHTk0Xewg.md#t-00-47-27) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2847s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Seth Dillon was out there demanding that Charlie (Charlie Kirk) take me off the roster—pull me off stage—because I had said things that Benjamin Netanyahu (Benjamin Netanyahu) didn't like or that he didn't like or whatever
+> Seth Dillon was out there demanding that Charlie (Charlie Kirk) take me off the roster—pull me off stage—because I had said things that Benjamin Netanyahu didn't like or that he didn't like or whatever.
 
 ## Verification
 
@@ -48,4 +48,4 @@ Tucker Carlson confirmed that Seth Dillon and others were demanding Charlie Kirk
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

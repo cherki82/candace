@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:08:11](/episodes/ep-y8lak3CRwDw.md#t-00-07-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Same thing everywhere. Anyway, in 2009, just two years later, after they joined the EU, the Romanian parliament passes a law to regulate gambling. ... OK, they decide you will now need a license to operate a casino, which basically means you have to spend a lot of money to get this license to become a licensed operator of casinos. ... this thing and so we'll do these deals and poor people now you can't get into this industry But also in that same order, they did criminalize like online gambling.
 

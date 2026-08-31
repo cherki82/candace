@@ -6,6 +6,11 @@ date: "1990-03"
 ---
 
 **Date:** 1990-03
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “Three months after the execution”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1990-03"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:57:00](/episodes/ep-DdPjoy5W-wY.md#event-event-1990-03-gica-popa-died-by-suicide-three-months-a-t-00-56-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3420);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Three months after the execution, he shot himself in the head in his office

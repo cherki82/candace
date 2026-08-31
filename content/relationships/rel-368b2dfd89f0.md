@@ -11,7 +11,7 @@ object: "org-pure-talk"
 
 ## [America's Warrior Partnership](/entities/org-americas-warrior-partnership) funded by [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -40,6 +40,10 @@ object: "org-pure-talk"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:48:40](/episodes/ep-q1NRQQAYS_Q#t-00-48-40): _PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide._
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:47:36](/episodes/ep-w1oqQbR_bYs#t-00-47-36): _through their Roundup for Charity program, they've been able to donate over half a million dollars to America's Warrior Partnership._
 
 ### Related
 

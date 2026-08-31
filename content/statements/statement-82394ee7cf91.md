@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:37:53](/episodes/ep-X92MllIHDzw.md#t-00-37-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the issue is that Epstein is a Jewish spy. probably working with Israel. That's the dilemma there. He's working with Israeli intelligence.
 

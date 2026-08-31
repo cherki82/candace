@@ -1,26 +1,31 @@
 ---
 title: "COVID-19 Pandemic"
-description: "COVID-19 Pandemic (Events) - 21 mentions"
+description: "COVID-19 Pandemic (Events) - 20 mentions"
 id: "event-covid-19-pandemic"
 type: "EVENT"
 aliases:
   - "COVID"
   - "COVID-19 pandemic"
+categories:
+  - "public health"
+  - "pandemic"
 ---
 
 _Type: Events_
 
 **Also known as:** COVID, COVID-19 pandemic
 
+**Categories:** public health, pandemic
+
 > **Possibly overlapping entity records:** [COVID-19](/entities/concept-covid-19). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-03-19">2025-09-16 · 01:03:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-02-59">2025-09-16 · 01:03:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-covid-19-pandemic-t-00-53-34">2025-12-20 · 00:53:43</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -29,16 +34,15 @@ _Type: Events_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-00-00">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-03-19" style="--pulse-height:40%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-02-59" style="--pulse-height:40%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#t-00-46-51" style="--pulse-height:20%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-event-covid-19-pandemic-t-00-23-58" style="--pulse-height:40%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-51-33" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-51-59" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-event-covid-19-pandemic-t-00-27-54" style="--pulse-height:20%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-03-39" style="--pulse-height:40%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-event-covid-19-pandemic-t-00-46-13" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-18-57" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-18-51" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48" style="--pulse-height:20%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-event-covid-19-pandemic-t-00-35-51" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-00-00" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 5 mentions" title="2025-12-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-covid-19-pandemic-t-00-53-34" style="--pulse-height:60%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 </div>
@@ -46,16 +50,15 @@ _Type: Events_
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-03-19) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-02-59) | 2 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#t-00-46-51) | 1 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-event-covid-19-pandemic-t-00-23-58) | 2 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-51-33) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-51-59) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-event-covid-19-pandemic-t-00-27-54) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-03-39) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-event-covid-19-pandemic-t-00-46-13) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-18-57) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-18-51) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48) | 1 |
-| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-event-covid-19-pandemic-t-00-35-51) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-00-00) | 5 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-event-covid-19-pandemic-t-00-53-34) | 3 |
 
@@ -65,7 +68,7 @@ _Type: Events_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
@@ -77,7 +80,7 @@ _Type: Events_
 > "...treat over 30 conditions like COVID, strep throat, pneumonia, plus more."
 
 **[00:53:40](/episodes/ep-w1oqQbR_bYs.md#ent-event-covid-19-pandemic-t-00-53-34)**
-> "Unaffected COVID writes, go Max, Candice, go Max."
+> "Unaffected COVID writes, go Max, Candace, go Max."
 
 </details>
 
@@ -102,14 +105,6 @@ _Type: Events_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
-
-**[00:36:28](/episodes/ep-his-JBjlkh8.md#ent-event-covid-19-pandemic-t-00-35-51)**
-> "...r right at your fingertips. Inside, you'll find core prescriptions to treat over 30 conditions like COVID, strep throat, pneumonia, and more. No more waiting rooms or pharmacy lines. Just modernized medici..."
-
-</details>
-
-<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48)**
@@ -120,7 +115,7 @@ _Type: Events_
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:18:57](/episodes/ep-7RLtGgkTh9o.md#t-00-18-57)**
+**[00:18:57](/episodes/ep-7RLtGgkTh9o.md#t-00-18-51)**
 > "... some sort of authority, or they have expertise in this area that they fact-check. And I think post-COVID we're all ready to digest that these are psychological operations. Courtney—at that time—Courtney L..."
 
 </details>
@@ -148,14 +143,14 @@ _Type: Events_
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
 **[00:28:08](/episodes/ep-5autG89PW6w.md#ent-event-covid-19-pandemic-t-00-27-54)**
-> "...ts. We have been proven right so many times in the recent past, right? Whether we're speaking about COVID—people that had to actually take a stance before people were then suddenly government: "Oh, admits—..."
+> "Whether we're speaking about COVID—people that had to actually take a stance before the government then suddenly admits: 'Oh yeah, we were lying."
 
 </details>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:51:59](/episodes/ep-t1YtLS1n8Vs.md#t-00-51-33)**
+**[00:51:59](/episodes/ep-t1YtLS1n8Vs.md#t-00-51-59)**
 > "...ou always have a right to your own children, which is ridiculous that we have to say this. But post-COVID you saw, they'll inoculate your kids. They'll be like, “Actually, we don't just own their minds; we..."
 
 </details>
@@ -182,10 +177,10 @@ _Type: Events_
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[01:03:38](/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-03-19)**
+**[01:03:33](/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-02-59)**
 > "...he read ads?" Oh, are you the same Bill Ackman that made an absurd amount of money while we were in COVID lockdowns and we couldn't work? Are you the same Bill Ackman who, like, turned that into, like, bil..."
 
-**[01:06:06](/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-05-24)**
+**[01:06:03](/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-05-44)**
 > "...'t read these ads. It's Bill Ackman. It's like, "How could you put ads in here? I can hedge against COVID and make billions, but you, little girl, don't read an ad." Okay, I'm freaking out again. Back to T..."
 
 </details>
@@ -200,7 +195,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about COVID-19 Pandemic (2)</strong></summary>
+<summary><strong class="section-title">Statements about COVID-19 Pandemic (3)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
@@ -215,6 +210,14 @@ _No relationships extracted yet._
 
 - [00:24:03](/episodes/ep-QZWSsq8ZWzw.md#t-00-23-58) (Claim) **Candace Owens**: ["Thomas Matthew Crooks started as a Trump supporter but did a radical t..."](/statements/statement-d7ef82e30120.md)
   - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:36:39](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said Charlie Kirk refused to carry out mass layoffs duri..."](/statements/statement-adc8512c7e33.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:22:44](/episodes/ep-MhakwJxK-Zk.md#t-00-22-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1364);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1364s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who's really running our CIA is a broader question. ... It certainly isn't Trump (Donald Trump). They are certainly not reporting to Donald J. Trump. I will say that.
 

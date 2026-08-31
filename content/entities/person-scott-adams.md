@@ -21,7 +21,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-39-00">2026-01-13 · 00:39:13</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -29,10 +29,10 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-43">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-scott-adams-t-00-52-22" style="--pulse-height:25%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44" style="--pulse-height:75%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-43" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -40,7 +40,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-scott-adams-t-00-52-22) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44) | 4 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-43) | 4 |
 
 </details>
@@ -69,13 +69,10 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:07:58](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
 > "...remember that we both watched Scott Adams."
-
-**[00:08:03](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
-> "Scott Adams explained the Kanye tweet significance"
 
 **[00:08:08](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
 > "So I didn't know who Scott Adams was, but I remember vividly watching him draw on ..."
@@ -138,6 +135,19 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:09](/episodes/ep-c5BcKF91iec.md#t-00-12-41): “It was actually Scott Adams, who did a video that I'll never forget when that happened. And he said like it ripped a hole in the universe—this tweet—and it was never supposed to happen.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Scott Adams (1)</strong></summary>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:08:41](/episodes/ep-Cq7nj9rxPdo.md#t-00-08-30) [✓] (Opinion) ["Scott Adams said Kanye West ripped a hole in reality with seven words and freed ..."](/statements/statement-217b9e987557.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

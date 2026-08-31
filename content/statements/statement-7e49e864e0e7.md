@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:24:27](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1467);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1467s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's given over 200 million dollars to the president. He puts her on the stage. He says that she's influenced his own policy and attitudes toward Israel.
 

@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:39:20](/episodes/ep-qZ8RWfyuewQ.md#t-00-39-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=2360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And everyone is asking why I even went to the White House Correspondents Center. And it was because many of the journalists in that room have attempted to dehumanize me. ... And I wanted to meet some of them face to face, quite frankly. Why have a conversation about me when you can have a conversation with me?
 

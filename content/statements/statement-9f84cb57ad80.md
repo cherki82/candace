@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:28:16](/episodes/ep-Cq7nj9rxPdo.md#t-00-27-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1696);return false;">Play</a>
+**Timestamp:** [00:28:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-27-53) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I know for a fact Charlie's neck was not destroyed. Certainly was not destroyed.
+> I know for a fact Charlie (Charlie Kirk)'s neck was not destroyed. Certainly was not destroyed.
 
 ## Verification
 

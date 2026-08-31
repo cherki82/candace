@@ -6,6 +6,11 @@ date: "1990"
 ---
 
 **Date:** 1990
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1990”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1990"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:32:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-32-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1964);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1964s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica's great grandmother who died in 1990,

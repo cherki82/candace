@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:07:25](/episodes/ep-EtLHqDbxqks.md#t-01-07-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4045);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4045s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And who was Ben Shapiro at lunch with? In fact, I'd like to know so much that if somebody can provide evidence of who he was at lunch with, because I have a hunch, I have a hunch of who he was with in LA when this happened, I will put up $10,000 bounty on that piece of information.
 

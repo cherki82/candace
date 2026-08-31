@@ -6,57 +6,16 @@ date: "2025-11-05"
 ---
 
 **Date:** 2025-11-05
+**Date precision:** Day
 
 ## Event
 
 > Pentagon grants press pass to conservative activist Laura Loomer.
 
-## Mentioned In (6 times)
-
-### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
-
-**Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:47:39](/episodes/ep-LATnak75Si0.md#event-event-2025-11-05-pentagon-grants-press-pass-to-conservative-activis-t-00-28-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2859);return false;">▶️ Play</a>
-
-> ur first order. Trust me—you are going to be so impressed. So visit riverbendranch.com and use promo code Candace at checkout. I also want to tell you guys about SaunaSpace because when you're a mom w
-
-### 2. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:30:37](/episodes/ep-ja26iltROkM.md#t-00-30-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1837);return false;">▶️ Play</a>
-
-> e-unquote federal felonies." And then he says, "F Israel-first Laura Loomer," as just a little side note. And then he shows all the T-shirts on Amazon becau
-
-### 3. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:35:19](/episodes/ep-ja26iltROkM.md#t-00-34-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2119);return false;">▶️ Play</a>
-
-> unquote federal felonies." And then he says, "F Israel-first
-
-### 4. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+## Mentioned In
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:09:26](/episodes/ep-5autG89PW6w.md#t-00-09-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(566);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=566s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > ill. We're on the side of truth. We are so chill. Laura Loomer, who is legally just—you know—not allowed to own a gun because she's a literal lunatic, had the ner
-
-### 5. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1614);return false;">▶️ Play</a>
-
-> weekend—this is real. A real live tweet came from Laura Loomer, our resident psycho. She tweeted this. She's been attacking me nonstop. "As p
-
-### 6. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:28:34](/episodes/ep-ja26iltROkM.md#t-00-28-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1714);return false;">▶️ Play</a>
-
-> irst Laura Loomer," as just a little side note. And then he shows all the T-shirts on Amazon because—like, obviously you can buy yourself an FBI costume for Halloween if you'd like to. But that wasn't

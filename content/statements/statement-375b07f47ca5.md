@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:09:36](/episodes/ep-cZxHqYsWRYg.md#t-00-09-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(576);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=576s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bill Erpenbeck served 21 years after pleading guilty to defrauding banks of $34 million. That was back in April of 2003. ... So he was a home builder who funneled the proceeds from home closings back to his company and himself. ... So his crimes left hundreds of homebuyers on the hook for millions of dollars in unpaid mortgages.
 

@@ -29,7 +29,7 @@ type: "promise"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:05:41](/episodes/ep-1hcjQGgvxUY.md#t-00-05-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This Valentine's Day, ... I am going to touch your butt.
 

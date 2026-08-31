@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:13:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-13-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(833);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=833s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can be what you are, but I would advise you do it quietly, Trump, because MAGA is no longer commanded by you and you know it, you know it.
 

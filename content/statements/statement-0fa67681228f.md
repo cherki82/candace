@@ -23,7 +23,7 @@ type: "promise"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:43:22](/episodes/ep-sreYYcID-QY.md#t-00-42-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2602);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2602s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then Charlie (Charlie Kirk) had had enough, and I've got a lot more that's gonna come out about what happened at Turning Point
 

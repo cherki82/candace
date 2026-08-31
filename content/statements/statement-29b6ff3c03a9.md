@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:05:15](/episodes/ep-CEF7gQRWYCE.md#t-00-04-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(315);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=315s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Freud knew that the children were being abused in Vienna and he created a social science psychology to help gaslight those children.
 

@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:27:42](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1662);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1662s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That could mean Clinton-style blackmail against Trump. Trump or something far more morbid. We do not know for sure whether that is happening, but the mere possibility is haunting enough to keep the president up at night. He is under a level of pressure that most people cannot fathom with rabid Israel firsters viciously harassing him anytime he dares to stray even slightly from their favorite country's agenda.
 

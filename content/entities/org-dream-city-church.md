@@ -124,7 +124,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <details>
 <summary>Based In (1)</summary>
 
-- **[Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)**
+- **[Phoenix](/entities/gpe-phoenix.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”
@@ -189,7 +189,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <details>
 <summary>Referenced By (6)</summary>
 
-- **[Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)** location of this
+- **[Phoenix](/entities/gpe-phoenix.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”

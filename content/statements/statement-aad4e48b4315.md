@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:12:06](/episodes/ep-SKNJPul29zU.md#t-00-12-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(726);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=726s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > censorship. The more the pro-Israel crowd and Zionists attempt to censor people and intimidate them, the more counterproductive they're being for their own cause Right. because
 

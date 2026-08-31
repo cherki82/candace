@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-03-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(182);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=182s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > confirmed for a fact that she lied. She lied to my face, actually regarding the superman neck because she blamed that on Andrew Kolvet said that he went rogue that Dr. Lee Trotter also went rogue violated HIPAA that they hopped on the phone and did this without her consent or knowledge and on top of that Andrew (Andrew Kolvet) then sends out a tweet i'm i told you confirmed she the doctor did not violate HIPAA it was actually a three-way call all. ... And the statement pertaining to Superman neck came from her. Andrew Kolvet in that regard was doing Erika (Erika Kirk)'s bidding.
 

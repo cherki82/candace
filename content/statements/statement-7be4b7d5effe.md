@@ -3,11 +3,11 @@ title: "Owens described the Freud family as the real father of moder..."
 description: "\"Owens described the Freud family as the real father of modern propaganda\" — Candace Owens"
 statement_id: "statement-7be4b7d5effe"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:36:40](/episodes/ep-sreYYcID-QY.md#t-00-36-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2200);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2200s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who's the real father of modern propaganda, okay
 
@@ -48,4 +48,4 @@ Historical sources support a narrower claim: Edward Bernays, Sigmund Freud's nep
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

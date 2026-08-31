@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:09:46](/episodes/ep-MUA9ebCF4Ow.md#t-00-09-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(586);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=586s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Before that speech that I gave in July, we had a conversation about this backstage right before I went on. And I was fulminating and getting all red in the face—like I often do, to my shame—and I was mad thinking about this and thinking about ... the effort by the neocons in the United States to draw us into another forever war with Iran. ... And also Epstein was in the news, and it was clear to me that ... you know, Epstein's probably not like a Mossad agent or something, but Epstein clearly had contact with Israeli intelligence and American intelligence and French intelligence. But the only one you're not allowed to talk about is Israeli intelligence. ... And I said that to Charlie (Charlie Kirk), and I said, "But I'm not gonna say that because I don't wanna make your donors mad. ... lose a bunch of funding." And he looked at me—I'll never forget it—and said, "Go all the way. Do it. Go all the way." I said, "Man, you know a lot of things I can talk about. I don't need to talk about that." And he said, "Do it."
 

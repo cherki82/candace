@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:52:51](/episodes/ep-wcD2khO3rOA.md#t-00-52-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3171);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3171s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This vast and bewildering multinational could be called Moon Inc. It is a sprawling collection of churches, nonprofit foundations, and for-profit holding companies. ... the Unification Church's investment is an important cog in a global machine that Moon uses to boost his credibility, spread his spiritual doctrine, and win political influence
 

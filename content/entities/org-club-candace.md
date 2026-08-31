@@ -1,6 +1,6 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 102 mentions"
+description: "Club Candace (Organizations) - 101 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
@@ -9,15 +9,14 @@ aliases:
 categories:
   - "membership platform"
   - "Candace Owens media"
+  - "membership program"
 ---
 
 _Type: Organizations_
 
 **Also known as:** book club, Club Candace
 
-**Categories:** membership platform, Candace Owens media
-
-> **Possibly overlapping entity records:** [Club Candace](/entities/work-club-candace). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** membership platform, Candace Owens media, membership program
 
 **Entity verification:** verified
 > Candace Owens' official site identifies Club Candace as the canonical premium membership platform referenced in the episode.
@@ -26,8 +25,8 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30">2025-09-15 · 01:01:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-club-candace-t-01-01-38">2026-07-23 · 01:01:51</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>102</strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>101</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,34 +38,36 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-club-candace-t-00-00-43">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30" style="--pulse-height:10%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-club-candace-t-01-06-45" style="--pulse-height:10%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-club-candace-t-01-06-59" style="--pulse-height:10%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-club-candace-t-00-14-22" style="--pulse-height:80%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 8 mentions" title="2025-09-24 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-club-candace-t-00-45-39" style="--pulse-height:10%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-club-candace-t-00-45-35" style="--pulse-height:10%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-club-candace-t-00-02-02" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-club-candace-t-00-56-38" style="--pulse-height:40%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 4 mentions" title="2025-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-club-candace-t-01-04-00" style="--pulse-height:20%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-club-candace-t-01-14-20" style="--pulse-height:10%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-11" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-club-candace-t-01-14-50" style="--pulse-height:10%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-38" style="--pulse-height:40%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-club-candace-t-00-00-43" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 10 mentions" title="2025-10-28 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-club-candace-t-00-14-01" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-club-candace-t-00-44-47" style="--pulse-height:10%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-club-candace-t-00-51-00" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-46-33" style="--pulse-height:40%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-38-31" style="--pulse-height:60%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-club-candace-t-00-55-58" style="--pulse-height:20%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-club-candace-t-01-06-23" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-38-31" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 5 mentions" title="2025-11-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-club-candace-t-00-55-44" style="--pulse-height:10%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-club-candace-t-01-06-43" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-00-53-29" style="--pulse-height:40%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-12" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-09" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-club-candace-t-00-06-23" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-13" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-46-12" style="--pulse-height:40%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-08-18" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-27" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-46-35" style="--pulse-height:40%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-08-58" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-club-candace-t-00-36-45" style="--pulse-height:30%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-club-candace-t-00-54-16" style="--pulse-height:30%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-club-candace-t-00-56-18" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-club-candace-t-00-42-55" style="--pulse-height:20%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-club-candace-t-00-38-04" style="--pulse-height:10%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-club-candace-t-00-49-38" style="--pulse-height:10%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-club-candace-t-00-44-52" style="--pulse-height:10%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39" style="--pulse-height:20%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25" style="--pulse-height:10%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-04-41" style="--pulse-height:60%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
@@ -82,34 +83,36 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30) | 1 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-club-candace-t-01-06-45) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-club-candace-t-01-06-59) | 1 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-club-candace-t-00-14-22) | 8 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-club-candace-t-00-45-39) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-club-candace-t-00-45-35) | 1 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-club-candace-t-00-02-02) | 2 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-club-candace-t-00-56-38) | 4 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-club-candace-t-01-04-00) | 2 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-club-candace-t-01-14-20) | 1 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-11) | 5 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-club-candace-t-01-14-50) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-38) | 4 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-club-candace-t-00-00-43) | 10 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-club-candace-t-00-14-01) | 2 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-club-candace-t-00-44-47) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-club-candace-t-00-51-00) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-46-33) | 4 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-38-31) | 6 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-club-candace-t-00-55-58) | 2 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-club-candace-t-01-06-23) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-38-31) | 5 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-club-candace-t-00-55-44) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-club-candace-t-01-06-43) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-00-53-29) | 4 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-12) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-09) | 2 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-club-candace-t-00-06-23) | 2 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-13) | 2 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-46-12) | 4 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-08-18) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-27) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-46-35) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-08-58) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-club-candace-t-00-36-45) | 3 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-club-candace-t-00-54-16) | 3 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-club-candace-t-00-56-18) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-club-candace-t-00-42-55) | 2 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-club-candace-t-00-38-04) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-club-candace-t-00-49-38) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49) | 3 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-club-candace-t-00-44-52) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-04-41) | 6 |
@@ -126,7 +129,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+<summary><strong class="section-title">Raw mentions (101)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
@@ -229,10 +232,18 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
 
 **[00:55:39](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39)**
-> "Book Club is great"
+> "one Club Candace tier"
 
 **[00:54:18](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-54-18)**
 > "...e into what we discuss on our book club"
+
+</details>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:45:14](/episodes/ep-hWTdXHGQ8R4.md#ent-org-club-candace-t-00-44-52)**
+> "Club Candace, join Club Candace. Go to candaceowens.com. We've..."
 
 </details>
 
@@ -247,6 +258,14 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
 **[01:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-01-00-35)**
 > "I know I owe you guys a book club, but we'll see you soon."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:50:14](/episodes/ep-t4U7NjnUEgc.md#ent-org-club-candace-t-00-49-38)**
+> "You can also sign up for our book club. You can gift somebody with a subscription to our..."
 
 </details>
 
@@ -308,10 +327,10 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:08:58](/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-08-18)**
+**[00:08:58](/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-08-58)**
 > "...e Macron. We urge you to provide this correspondence to legal counsel promptly. They sent it to the Club Candace info. I was totally—a random box sent it to—so we didn't get it. We go back to our timeline. That's..."
 
-**[00:47:15](/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-47-10)**
+**[00:47:15](/episodes/ep-sImMM04XdWY.md#ent-org-club-candace-t-00-47-02)**
 > "...we have signed copies that are also available on the CandaceOwens.com website. By the way, tomorrow book club will be at 6 p.m. Eastern because today is my son's birthday. And I did not calculate that when I s..."
 
 </details>
@@ -319,16 +338,16 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
 
-**[00:46:53](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-46-12)**
+**[00:46:51](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-46-35)**
 > "...t americanfinancing.net/owens, americanfinancing.net/owens. All right, you guys, some housekeeping. Book club is going to be tomorrow at six o'clock p.m. Eastern. Also reminding you, we have new merch on the w..."
 
-**[00:49:45](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-49-41)**
+**[00:49:39](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-49-21)**
 > "... are growing more radical and more dangerous in their demands. And they are, like if you were in my book club, you understand this, they are trained psychopaths like they conducted experiments to figure out ho..."
 
-**[00:56:01](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-55-30)**
+**[00:56:00](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-55-26)**
 > "...cias, Candace Owens. Love that. Well, you guys, we will see you tomorrow. Don't forget that we have book club at 6 p.m. Eastern. If you would like to support us, head to candaceowens.com. Sign up for a subscri..."
 
-**[00:56:06](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-55-30)**
+**[00:56:04](/episodes/ep-SKGUzGHymcI.md#ent-org-club-candace-t-00-55-26)**
 > "...stern. If you would like to support us, head to candaceowens.com. Sign up for a subscription to the book club. Stay while you're there. We have a tremendous series on vaccines. A part of this evil, of course, ..."
 
 </details>
@@ -336,10 +355,10 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:47:38](/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-13)**
+**[00:47:37](/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-27)**
 > "...clude books, and that runs through to Cyber Monday. So do not miss out. And reminding you guys that book club this week is going to be on Thursday. I don't know if I even told you guys that. I think we sent ou..."
 
-**[00:47:52](/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-13)**
+**[00:47:52](/episodes/ep-581dILVcEE4.md#ent-org-club-candace-t-00-47-27)**
 > "...you this for the first time on the show that we bumped it to six o'clock Eastern on Thursday. So no book club tonight. We'll have it at 6 PM Eastern on Thursday. Top comment from yesterday's episode is from Ab..."
 
 </details>
@@ -358,10 +377,10 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
-**[00:18:37](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-12)**
+**[00:18:35](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-09)**
 > "...ely must read that book. You have to understand how this thing works. This is why I put together my book club—because it's so much that you just start to wonder what is real, what is fake. Are we actually livi..."
 
-**[00:19:34](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-57)**
+**[00:19:29](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-19-29)**
 > "...itually so offensive that we go, "There's no way all of this can be going on." And then you join my book club and you read Hollywood Babylon—you're like, "Oh, this is actually how the system was built in Holly..."
 
 </details>
@@ -386,24 +405,21 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[01:06:56](/episodes/ep-vwG1juDCQZQ.md#ent-org-club-candace-t-01-06-23)**
+**[01:06:49](/episodes/ep-vwG1juDCQZQ.md#ent-org-club-candace-t-01-06-43)**
 > "...nd I've been on this journey. And so that feels good as well. I don't know what I'll say other than book club people—everybody that signed up on the website, candaceowens.com. And we didn't know what we were d..."
 
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:56:09](/episodes/ep-LATnak75Si0.md#ent-org-club-candace-t-00-55-58)**
+**[00:56:07](/episodes/ep-LATnak75Si0.md#ent-org-club-candace-t-00-55-44)**
 > "...t movement. Theodore Herzl, his connection to him—why they were connected. We talk about this on my book club. Even if you can't join the book club, you can still buy those books. And so I would start with "Th..."
-
-**[00:56:11](/episodes/ep-LATnak75Si0.md#ent-org-club-candace-t-00-55-58)**
-> "...tion to him—why they were connected. We talk about this on my book club. Even if you can't join the book club, you can still buy those books. And so I would start with "The Assault on Truth" by Jeffrey Masson,..."
 
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (5 mentions)</summary>
 
 **[00:38:31](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-38-31)**
 > "... I'm gonna take a brief break because I know that you guys have a lot of comments, and we also have book club tonight. And we're gonna get deeper, by the way, into that sort of guiding theology when we get bac..."
@@ -411,17 +427,14 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 **[00:39:23](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-39-05)**
 > "... we done wrong to be treated like this?" This book is really an aha moment, and I'm excited for the book club. I'm excited, and I understand why Zionists infiltrated it, but we're not going to stop. But first,..."
 
-**[00:44:57](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-44-40)**
+**[00:44:55](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-44-34)**
 > "...ys, I'm sorry. Nope. Sorry. And this is going to get—I bet you the people that are going through my book club—by the end of this, you're going to see that there was a conscious movement—as I said at the end—at..."
 
-**[00:45:38](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-45-19)**
+**[00:45:38](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-45-13)**
 > "...nd that's what we see happening. So I can't do a deep dive on the dinosaur thing right now, but the book club—we're going to go there eventually. And I just can—I don't know. I just—I see a bigger picture, a b..."
 
-**[00:50:20](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-50-14)**
+**[00:50:20](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-49-54)**
 > "...'s a picture here that's coming together. Anyways, you guys, we have to jump off because we do have book club tonight. So I will see you guys in the Zionist infiltration on our book club. We finally did it, gu..."
-
-**[00:50:23](/episodes/ep-Qfwr08Ebczo.md#ent-org-club-candace-t-00-50-14)**
-> "...off because we do have book club tonight. So I will see you guys in the Zionist infiltration on our book club. We finally did it, guys. We went viral, and they're stealing clips from behind the paywall. If you..."
 
 </details>
 
@@ -453,7 +466,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:45:07](/episodes/ep-iHav0PPzUz8.md#ent-org-club-candace-t-00-44-47)**
+**[00:45:02](/episodes/ep-iHav0PPzUz8.md#ent-org-club-candace-t-00-44-47)**
 > "...ity that it is sickening to watch them do this. It really shows you—for those of you that are in my book club—what I was talking about when we read that last book about how they do this after death. They fight..."
 
 </details>
@@ -505,29 +518,26 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (5 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
 
-**[01:00:51](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-11)**
+**[01:00:51](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-38)**
 > "...nding that and are therefore being called crazy. About the history of Sigmund Freud, the book in my book club. If you can't join the book club, that's fine. You should read The Assault on Truth to understand w..."
 
-**[01:00:54](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-11)**
+**[01:00:56](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-00-38)**
 > "...g called crazy. About the history of Sigmund Freud, the book in my book club. If you can't join the book club, that's fine. You should read The Assault on Truth to understand what sorts of lies these people ar..."
 
-**[01:03:02](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-02-24)**
+**[01:03:02](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-02-32)**
 > "...Owens), I have been a fan since 2018." "Finally got my wife on board last year." "She's now in your book club and a loyal fan, and we never miss an episode." "We love you so much, crisis queen." Tell her thank..."
 
-**[01:03:07](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-02-24)**
+**[01:03:06](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-02-32)**
 > "...isode." "We love you so much, crisis queen." Tell her thank you. We're definitely a bit wild in the book club. Book club gets—you know—we go there. We go there, for sure. But it's fun; it's very chill, and you..."
-
-**[01:03:09](/episodes/ep-pc3pxRyNFZk.md#ent-org-club-candace-t-01-03-09)**
-> "... love you so much, crisis queen." Tell her thank you. We're definitely a bit wild in the book club. Book club gets—you know—we go there. We go there, for sure. But it's fun; it's very chill, and you know that ..."
 
 </details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
-**[01:14:58](/episodes/ep-2Riv3I7D0Yk.md#ent-org-club-candace-t-01-14-20)**
+**[01:14:58](/episodes/ep-2Riv3I7D0Yk.md#ent-org-club-candace-t-01-14-50)**
 > "...r show—as many of you guys have—you can head to CandaceOwens.com. You can sign up; you can join our book club. You can buy our—we don't know, no, but we know—brand stuff. Join us in prison when Laura Loomer se..."
 
 </details>
@@ -566,7 +576,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 **[00:02:10](/episodes/ep-t1YtLS1n8Vs.md#ent-org-club-candace-t-00-02-02)**
 > "...the ADL was born out of a Jewish Freemason organization known as B'nai B'rith. Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We're discussing; we're reading rig..."
 
-**[00:05:50](/episodes/ep-t1YtLS1n8Vs.md#ent-org-club-candace-t-00-05-39)**
+**[00:05:50](/episodes/ep-t1YtLS1n8Vs.md#ent-org-club-candace-t-00-05-22)**
 > "...he family member as a source. Do that in your own spare time. In fact, maybe I should add it to the book club list anyways. The reason why I'm telling you that is because there is a crucial—it really is a very..."
 
 </details>
@@ -574,7 +584,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:45:53](/episodes/ep-K5GjF53bfN4.md#ent-org-club-candace-t-00-45-39)**
+**[00:45:53](/episodes/ep-K5GjF53bfN4.md#ent-org-club-candace-t-00-45-35)**
 > "...If you guys would like to support us in any capacity, always can head to CandaceOwens.com, join the book club, learn about vaccines if you're a parent, or"
 
 </details>
@@ -611,7 +621,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[01:07:02](/episodes/ep-2WEHTk0Xewg.md#ent-org-club-candace-t-01-06-45)**
+**[01:07:02](/episodes/ep-2WEHTk0Xewg.md#ent-org-club-candace-t-01-06-59)**
 > "...t are watching this right now. You guys—when you buy gear, when you sign up, if you're a part of my book club—that's who funds me. It is the people. JJ Bullard writes: "If you declare with your mouth 'Jesus is..."
 
 </details>

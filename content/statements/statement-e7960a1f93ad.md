@@ -32,7 +32,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:21:24](/episodes/ep-A39g5oqB_eM.md#t-00-21-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1284);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1284s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin ... I have his journals that are aware of the plans.
 

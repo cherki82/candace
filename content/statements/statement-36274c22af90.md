@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:13:25](/episodes/ep-4JxgOclKzqg.md#t-00-13-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(805);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=805s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, Mr Farnsworth originally provided, I believe, a flash drive to Lieutenant O'Brien with one of the local agencies, and a short time after that, on September 10th, he provided downloadable versions, electronic versions, to Agent Mortenson.
 

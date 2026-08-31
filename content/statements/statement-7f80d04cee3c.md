@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:28:12](/episodes/ep-581dILVcEE4.md#t-00-27-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1692);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=1692s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Shouldn't you have told the student? You shouldn't have said to the student, "Hey, we're looking at a map" because it's amazing—it's 2025, and there's this thing called Google Maps.
 

@@ -29,7 +29,7 @@ type: "citation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:20:21](/episodes/ep-tXoI0TTKVrs.md#t-00-20-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1221);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1221s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We had first heard back from the NSA who informed us that the request was redirected to the Department of War.
 

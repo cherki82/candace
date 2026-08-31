@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:14:14](/episodes/ep-69A8TzAGHlU.md#t-00-14-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(854);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=854s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's trying to assert that he is a private citizen. Now, let's take a look at this. Despite two podcast appearances, Harpole remains a private individual and not a limited purpose public figure. ... He has social media accounts that he does not use for posting content. He has no public platforms to effectively rebut or counteract statements. ... And his involvement in the controversy is limited to two defensive appearances. He did not seek publicity or attempt to influence public debate.
 

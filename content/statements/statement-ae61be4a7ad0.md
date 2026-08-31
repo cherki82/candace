@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:49:38](/episodes/ep-2T39-oADLj0.md#t-00-49-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2978);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=2978s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > know what I'm saying so we were this very unlikely duo and I thought he was guilty I thought there had to have been some guilt I mean there were so many women that were coming out but this is how the media is effective at psychology is that they know if they say something over and over again it becomes true and actually I realized I didn't know anything about the case and when I took a look at it I was shocked there is no question that Harvey Weinstein should not be in prison right now and that
 

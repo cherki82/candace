@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:22:01](/episodes/ep-AoYZel7_cGQ.md#t-00-22-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1321);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=1321s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So regarding Hansen, the person alleged with proof that I deemed to be credible, that the reason that Charlie (Charlie Kirk) was brought to Hansen and was ultimately moved was because the company refused to take part in a quote-unquote mock burial. ... So I am told that Hansen declined to participate in a mock burial, so Turning Point USA then had to shop around. And ultimately, they landed upon the Catholic Church because of Erika (Erika Kirk)'s very strong ties to the priests.
 

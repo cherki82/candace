@@ -5,11 +5,19 @@ id: "org-10th-special-forces-group"
 type: "ORG"
 aliases:
   - "10th Special Forces"
+categories:
+  - "United States Army Special Forces"
 ---
 
 _Type: Organizations_
 
 **Also known as:** 10th Special Forces
+
+**Categories:** United States Army Special Forces
+
+**Entity verification:** verified
+> Official U.S. Army Special Operations Command page confirms the canonical unit name 10th Special Forces Group (Airborne).
+Source: [U.S. Army Special Operations Command — 10th Special Forces Group (Airborne)](https://www.army.mil/usasoc/?from=org)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-10th-special-forces-group-t-00-38-03">2025-12-17 · 00:38:03</a></strong></div>
@@ -18,7 +26,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,6 +63,28 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Based In (1)</summary>
+
+- **[Colorado Springs](/entities/gpe-colorado-springs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:03](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Whoever flew under this incredibly highly sensitive call sign, SAM-000, on August 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special Forces Group.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Colorado Springs](/entities/gpe-colorado-springs.md)** location of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:03](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Whoever flew under this incredibly highly sensitive call sign, SAM-000, on August 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special Forces Group.”
+
+</details>
+
+</details>
 
 </details>

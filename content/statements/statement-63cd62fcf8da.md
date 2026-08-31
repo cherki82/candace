@@ -22,15 +22,15 @@ type: "factual_claim"
 
 ## About
 
-- [Tristar](/entities/org-tristar.md) (org)
+- [Tri Star Sports and Entertainment Group](/entities/org-tri-star-sports-and-entertainment-group.md) (org)
 - [Lou Taylor](/entities/person-lou-taylor.md) (person)
 - [Jamie Spears](/entities/person-jamie-spears.md) (person)
 
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:08:21](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(501);return false;">Play</a>
+**Timestamp:** [00:08:21](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=501s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tristar—that is Lou Taylor's company—was hired to serve as the tour's business manager, handling its finances and accounting, and the tour grossed an estimated $130 million—money that was now under the control of Lou Taylor and Jamie Spears, the father.
 

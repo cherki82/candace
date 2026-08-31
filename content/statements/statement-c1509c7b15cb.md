@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:18:25](/episodes/ep-X92MllIHDzw.md#t-00-17-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1105);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1105s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he replied that she never lived in China and that she said, I'm sure he took that right to her, that she never lived in China, that she only went there on a trip for a couple of weeks to see the Great Wall of China.
 

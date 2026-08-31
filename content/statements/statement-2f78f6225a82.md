@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:13:03](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(783);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=783s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Sigmund Freud is explicit that they create the science to mask their religion. Their religion consists of ritualistic sacrifice, harming innocent children.
 

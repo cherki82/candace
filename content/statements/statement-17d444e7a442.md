@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:05:53](/episodes/ep-a2bZf4fic10.md#t-00-05-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(353);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=353s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can now say confidently that there is black tempered shattered glass all over the car where Charlie Kirk's chest region would have been, according to the story that Frank Turek and Brian Harpole told.
 

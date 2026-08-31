@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1176);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1176s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough ... when Mark Burnett took over MGM became a chairperson of MGM they did acquire he was owned he owned summer house
 

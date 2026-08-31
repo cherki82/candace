@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:32:48](/episodes/ep-4DvYXBn_5JI.md#t-00-32-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1968);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1968s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > but I abstained I completely abstained from that until I received information from people who would know who know the kids very well and said not only is that not her son it's not her daughter
 

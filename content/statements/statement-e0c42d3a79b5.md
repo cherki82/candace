@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:10:36](/episodes/ep-DEtFh2Ff-58.md#t-00-10-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(636);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=636s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So yeah, I am suggesting that they all met up at Scottsdale Airport. My very strong opinion is that is what transpired on that day based on the evidence that is sitting before us
 

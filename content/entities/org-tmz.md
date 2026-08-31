@@ -27,7 +27,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,13 +37,13 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-tmz-t-00-39-23" style="--pulse-height:45%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 5 mentions" title="2025-09-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-tmz-t-00-10-09" style="--pulse-height:18%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-tmz-t-00-15-06" style="--pulse-height:9%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-tmz-t-00-14-47" style="--pulse-height:9%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-tmz-t-00-10-23" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 11 mentions" title="2025-09-18 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tmz-t-00-14-44" style="--pulse-height:9%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tmz-t-00-14-22" style="--pulse-height:9%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-tmz-t-00-19-19" style="--pulse-height:9%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tmz-t-00-27-53" style="--pulse-height:18%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-13-19" style="--pulse-height:45%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-05" style="--pulse-height:27%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 3 mentions" title="2025-11-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-11" style="--pulse-height:27%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 3 mentions" title="2025-11-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-tmz-t-00-28-18" style="--pulse-height:27%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-26" style="--pulse-height:9%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-tmz-t-00-48-13" style="--pulse-height:9%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
@@ -60,13 +60,13 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-tmz-t-00-39-23) | 5 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-tmz-t-00-10-09) | 2 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-tmz-t-00-15-06) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-tmz-t-00-14-47) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-tmz-t-00-10-23) | 11 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-tmz-t-00-14-44) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-tmz-t-00-14-22) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-tmz-t-00-19-19) | 1 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tmz-t-00-27-53) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-13-19) | 5 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-05) | 3 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-11) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-tmz-t-00-28-18) | 3 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-26) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-tmz-t-00-48-13) | 1 |
@@ -172,13 +172,13 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
 
-**[00:09:40](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-05)**
+**[00:09:30](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-11)**
 > "...riveway in the now infamous footage of the alleged shooter, right, which was somehow distributed by TMZ. We don't know how that happened. Should probably be investigated further because that's a lot of c..."
 
-**[00:11:32](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-11-07)**
+**[00:11:14](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-11-14)**
 > "...at they could have staged some of that, which they eventually edited maybe a bit and released it to TMZ in that timeframe. What we do know factually—and we don't have to surmise—is that there were eyewit..."
 
-**[00:19:06](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-18-25)**
+**[00:19:06](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-18-58)**
 > "...e just discussed. That sure as heck could be a white RAV4. The second piece of footage being the... TMZ released footage of somebody else in the neighborhood of him walking. Yep, that sure as heck could ..."
 
 </details>
@@ -189,16 +189,16 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 **[00:13:21](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-13-19)**
 > "...ately release that? Now, again, you should recall that the very next morning on September the 11th, TMZ already had the doorbell cam footage, okay? So that means that the FBI already had the footage, rig..."
 
-**[00:15:29](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-29)**
+**[00:15:29](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-25)**
 > "...ace Owens)? In fact, how about just giving me any of the footage that your family rushed to give to TMZ? Why did they rush to give it to TMZ? By the way, you definitely said you were at your cousin's hou..."
 
-**[00:15:33](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-29)**
+**[00:15:33](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-25)**
 > "...iving me any of the footage that your family rushed to give to TMZ? Why did they rush to give it to TMZ? By the way, you definitely said you were at your cousin's house and that you hadn't seen the foota..."
 
-**[00:15:50](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-29)**
+**[00:15:50](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-25)**
 > "...tly, your cousin, close enough to go to their house, but your cousin decides to give the footage to TMZ before you can even see it. Okay, maybe the feds gave it. That's another assumption. That's the onl..."
 
-**[00:16:01](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-29)**
+**[00:16:01](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-15-57)**
 > "...feds gave it. That's another assumption. That's the only two options. Either your cousin gave it to TMZ, or the feds gave a portion of it to TMZ, which begs the question, why were we not told about the w..."
 
 </details>
@@ -225,7 +225,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#ent-org-tmz-t-00-14-44)**
+**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#ent-org-tmz-t-00-14-22)**
 > "... Yesterday, I pretty casually mentioned to you guys something: that the doorbell cam footage, which TMZ happened upon somehow, was from a street upon which a ton of employees that work for Caldera Engine..."
 
 </details>
@@ -234,7 +234,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (11 mentions)</summary>
 
 **[00:10:43](/episodes/ep-sreYYcID-QY.md#ent-org-tmz-t-00-10-23)**
-> "...o sort of hyper-focus on the doorbell cam footage, right? Because that mysteriously made its way to TMZ the morning after Charlie Kirk's assassination. Can we actually... what time did that footage make ..."
+> "Because that mysteriously made its way to TMZ the morning after Charlie (Charlie Kirk)'s assassination."
 
 **[00:10:56](/episodes/ep-sreYYcID-QY.md#ent-org-tmz-t-00-10-23)**
 > "...did that footage make its way? Just so I can take a look. I'm gonna go on to day two here. When did TMZ release the footage? Well, I don't know exactly the exact day they released the footage. I think it..."
@@ -261,7 +261,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 > "...l paper, a local news source. Why would you hit up the New York Post? Which Utah citizen thought of TMZ first? Was it them or was it the feds? Well, we were able to stalk that. OK, we were able—because g..."
 
 **[00:14:28](/episodes/ep-sreYYcID-QY.md#ent-org-tmz-t-00-14-12)**
-> "...eneral. Secondly, like I said, this clip is from the morning after Charlie Kirk's assassination. So TMZ had already publicized that footage. And so that strikes me as a little odd. That would stipulate t..."
+> "So TMZ had already publicized that footage."
 
 **[00:14:33](/episodes/ep-sreYYcID-QY.md#ent-org-tmz-t-00-14-12)**
 > "...either the feds—like I said—collected that footage the night before and then immediately gave it to TMZ, or this guy himself gave it to TMZ before he gave it to the feds. So we're looking into Erwin, and..."
@@ -271,7 +271,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:15:06](/episodes/ep-2WEHTk0Xewg.md#ent-org-tmz-t-00-15-06)**
+**[00:15:06](/episodes/ep-2WEHTk0Xewg.md#ent-org-tmz-t-00-14-47)**
 > "...overnor is going to say it—that we are told that he at first enters campus on this day at 8:07 a.m. TMZ shows us the footage—remember—of the man wearing a maroon t-shirt and shorts. That's how this day b..."
 
 </details>
@@ -279,7 +279,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:10:22](/episodes/ep-q7f8r-THr84.md#ent-org-tmz-t-00-10-09)**
+**[00:10:17](/episodes/ep-q7f8r-THr84.md#ent-org-tmz-t-00-10-09)**
 > "...s the same person that we see walking across with a limp, right, that footage which was provided by TMZ? Also, you will notice that nowhere in this indictment as we go on are they going to mention what G..."
 
 **[00:10:32](/episodes/ep-q7f8r-THr84.md#ent-org-tmz-t-00-10-09)**
@@ -297,7 +297,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 > "...deo they presented. So the first bit of proof regarding that day happened at 8:07 a.m. According to TMZ, they have footage, and we're gonna show you it, which shows a man at 8:07 a.m., so hours before th..."
 
 **[00:41:09](/episodes/ep-czVBmqZP6Ss.md#ent-org-tmz-t-00-41-09)**
-> "...with a white logo, and light-colored shoes. So what's interesting, already confusing to me, is that TMZ shows him already walking. We're supposed to believe he walked, parked his car and then walked onto..."
+> "So what's interesting, already confusing to me, is that TMZ shows him already walking."
 
 **[00:41:35](/episodes/ep-czVBmqZP6Ss.md#ent-org-tmz-t-00-41-09)**
 > "...ep going. We don't need to poke holes. Let's just keep going with the narrative. Then we're back to TMZ and they release that at 11:49 a.m. they have footage of the shooter, who has now changed his outfi..."
@@ -312,48 +312,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Interviewed (1)</summary>
-
-- **[Erwin Steele](/entities/person-erwin-steele.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:45](/episodes/ep-sreYYcID-QY.md#t-00-02-05): “His name—you're going to see—is Erwin Steele. Let's watch that footage of Erwin Steele the next morning.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Operates (1)</summary>
-
-- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:32](/episodes/ep-sreYYcID-QY.md#t-00-02-05): “the mainstream media has been controlled by the CIA since Operation Mockingbird.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
-
-- **[Erwin Steele](/entities/person-erwin-steele.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:45](/episodes/ep-sreYYcID-QY.md#t-00-02-05): “His name—you're going to see—is Erwin Steele. Let's watch that footage of Erwin Steele the next morning.”
-
-</details>
-
-- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** operated by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:32](/episodes/ep-sreYYcID-QY.md#t-00-02-05): “the mainstream media has been controlled by the CIA since Operation Mockingbird.”
-
-</details>
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

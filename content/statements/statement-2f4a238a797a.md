@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:22:55](/episodes/ep-iB-YtO3UZOg.md#t-00-22-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1375);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1375s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am told that at some point in the 10 o'clock a.m. hour. ... On September 10th, so to be clear, and this is crucial, over two hours before Charlie was shot, the Timpanogos hospital staff directed everyone who was in the emergency room into a different wing of the hospital.
 

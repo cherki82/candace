@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:44:48](/episodes/ep-i8m_6D4QGmk.md#t-00-44-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2688);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2688s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Something that lives in my mind rent-free is Norman Finkelstein informing me that Israel had a literal and actual government policy known as mowing the lawn in Gaza, where the IDF would just at random begin shooting and killing Palestinians to ensure that the population didn't grow.
 

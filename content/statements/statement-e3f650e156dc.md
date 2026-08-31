@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [02:22:24](/episodes/ep--9MOUvgGyi4.md#t-02-22-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8544);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=8544s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so with, and I'll just describe, you know, the most likely ballistic profile that I would. profile that I would be looking at for this type of day and I don't see the body I'm ... just here I haven't even seen pictures I saw you know the immediate aftermath of those videos but we haven't seen you know the body so just again if there was no exit and there was a fragment of the bullet And the found in the body, and I think I heard somewhere that there was other lead fragments found inside. ... I don't know if that's true or not. ... But what you're looking at is a potentially a subsonic 300 blackout that perhaps wasn't shot with the suppressor installed on it. ... and did not did not go through and separated when it hit and a piece of the jacket coming off and separating
 

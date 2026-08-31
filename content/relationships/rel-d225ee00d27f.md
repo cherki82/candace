@@ -11,11 +11,19 @@ object: "person-candace-owens"
 
 ## [Josh Hammer](/entities/person-josh-hammer) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (3 mentions)
+
+**[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
+
+- [00:49:34](/episodes/ep-LATnak75Si0#t-00-49-34): _On top of that, we have Josh Hammer—who just looks evil, just looks like a Bond villain_
 
 **[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
 
-- [00:10:47](/episodes/ep-ewBzjVe3LNQ#t-00-10-47): _God doesn't want you to follow Tucker Carlson on Instagram. Josh Hammer is amazing. Candace is possessed by a demon._
+- [01:13:08](/episodes/ep-ewBzjVe3LNQ#t-01-13-08): _It's just like such an obviously bad person. He lied and they'll go out of their way to protect those individuals._
+
+**[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
+
+- [00:44:21](/episodes/ep-pc3pxRyNFZk#t-00-44-21): _Josh Hammer. He's an idiot. He really is an idiot._
 
 ### Related
 

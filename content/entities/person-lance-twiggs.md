@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 226 mentions"
+description: "Lance Twiggs (People) - 266 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -21,12 +21,12 @@ _Type: People_
 Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44">2025-09-16 · 00:00:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-07-02">2026-08-21 · 01:07:02</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>226</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>67</strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>266</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>63</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,12 +35,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (35 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45" style="--pulse-height:57%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 20 mentions" title="2025-09-16 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01" style="--pulse-height:11%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44" style="--pulse-height:57%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 20 mentions" title="2025-09-16 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01" style="--pulse-height:94%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 33 mentions" title="2025-09-17 · 33 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-08" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-lance-twiggs-t-00-06-51" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-lance-twiggs-t-00-11-13" style="--pulse-height:9%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42" style="--pulse-height:34%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 12 mentions" title="2025-09-29 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-person-lance-twiggs-t-00-49-29" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56" style="--pulse-height:29%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-49-29" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-lance-twiggs-t-01-06-38" style="--pulse-height:9%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-43-37" style="--pulse-height:29%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
@@ -67,12 +69,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45) | 20 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01) | 4 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44) | 20 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01) | 33 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-08) | 2 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-person-lance-twiggs-t-00-06-51) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-lance-twiggs-t-00-11-13) | 3 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42) | 12 |
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56) | 5 |
-| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-lance-twiggs-t-00-49-29) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56) | 10 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-49-29) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-lance-twiggs-t-01-06-38) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-43-37) | 10 |
@@ -101,7 +105,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (226)</strong></summary>
+<summary><strong class="section-title">Raw mentions (266)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -757,13 +761,13 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
 
-**[00:50:12](/episodes/ep-c5BcKF91iec.md#ent-person-lance-twiggs-t-00-49-29)**
+**[00:50:12](/episodes/ep-c5BcKF91iec.md#t-00-49-29)**
 > "...andace Owens is a fraud"—from Lance Bass."
 
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (10 mentions)</summary>
 
 **[00:30:10](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56)**
 > "...na give you a quick update on Lance Twigg."
@@ -779,6 +783,21 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[00:39:18](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-38-46)**
 > "And you're telling me Lance Twigg—for whatever reason—you released him immediately ..."
+
+**[00:38:16](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-38-02)**
+> "...ernment lied when they said, "Lance—you know—I'm obviously paraphrasing here—he came ..."
+
+**[00:40:07](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-40-07)**
+> "Anyways, we were told by Lance's family—who, by the way, own the apartment that th..."
+
+**[00:40:28](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-40-07)**
+> "it was either Lance, or it was the feds."
+
+**[00:40:33](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-40-07)**
+> "...ondering: you know, if you're Lance and you really got swept up in this and you're so..."
+
+**[00:40:45](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-40-07)**
+> "No, no—it seems Lance has similarly been in an unknown location since t..."
 
 </details>
 
@@ -824,88 +843,203 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
 
-**[00:44:47](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23)**
-> "that ridiculous made-up text chain between Tyler Robinson and his lover Lance"
+**[00:11:45](/episodes/ep-K5GjF53bfN4.md#ent-person-lance-twiggs-t-00-11-13)**
+> "...n the raid that took place of Lance's house where Tyler Robinson was living at the time..."
+
+**[00:11:47](/episodes/ep-K5GjF53bfN4.md#ent-person-lance-twiggs-t-00-11-13)**
+> "...o update whatsoever on Lance (Lance Twiggs). You know, he just completely fell to the waysid..."
+
+**[00:12:06](/episodes/ep-K5GjF53bfN4.md#ent-person-lance-twiggs-t-00-11-57)**
+> "...ng any questions about Lance (Lance Twiggs). And my instinct has always been that the feds i..."
 
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+
+**[00:07:24](/episodes/ep-QZWSsq8ZWzw.md#ent-person-lance-twiggs-t-00-06-51)**
+> "Oh, Lance, oh, Lance, wherefore art thou, Lance? Deny thy f..."
+
+**[00:07:30](/episodes/ep-QZWSsq8ZWzw.md#ent-person-lance-twiggs-t-00-07-30)**
+> "And if thou wilt not, Lance, thee bullet, me, my handprint. It was me."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+
+**[00:44:47](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-08)**
+> "that ridiculous made-up text chain between Tyler Robinson and his lover Lance"
+
+**[00:44:45](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-08)**
+> "... Tyler Robinson and his lover Lance—they're hilarious."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (33 mentions)</summary>
 
 **[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
 > "...2-year-old alleged killer of Charlie (Charlie Kirk), Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search is "retrieve." Look it up. When was the last time that you use..."
 
-**[00:25:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-54)**
+**[00:25:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-51)**
 > "...t apparently what happens is then they bring Lance in. At 11 p.m.-ish—we'll tell you around 11 p.m.—Lance Twiggs is brought in for questioning. Okay, and shortly thereafter, that apartment is raided. And I say ov..."
 
-**[00:36:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-53)**
+**[00:36:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-46)**
 > "... yet. They released him instantly, and they said "job done." So I would like more information about Lance Twiggs. Okay, I already don't like that mom received a bachelor of science from Stanford University in psy..."
 
 **[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
 > "... is a federal level of corruption and conspiracy involved in this murder, okay? From George Zinn to Lance Twiggs, the unanswered questions were like: What was he doing at home? What does he do for a living? Did t..."
+
+**[00:03:06](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-02-43)**
+> "...h these text messages between Lance and Tyler."
+
+**[00:04:55](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-04-55)**
+> "...was shot, the roommate—that's Lance—received a text message from Robinson which said,..."
+
+**[00:05:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-04-55)**
+> "And so Lance—I don't know what he does all day, but he can do ..."
+
+**[00:05:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-04-55)**
+> "And Lance then runs. I'm saying he ran, prances—who knows—a..."
+
+**[00:05:48](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-05-32)**
+> "Then we find out that Lance, I guess, decided to take a picture and then text..."
+
+**[00:05:56](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-05-32)**
+> "...nd here is where he asks him. Lance says, "Tyler, what? You're joking, right?" Becaus..."
+
+**[00:06:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-06-08)**
+> "So Lance is like, "What? You're joking." And Robinson says..."
+
+**[00:06:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-06-08)**
+> "...ys to him—I assume right away—Lance says, "You weren't the one who did it, right?""
+
+**[00:09:47](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-09-23)**
+> "he then says to Lance that he's looking to get that rifle, right? He sa..."
+
+**[00:10:19](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-10-06)**
+> "He asks him—Lance asks him—"Why did you do this?" And Robinson says..."
+
+**[00:11:34](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-11-30)**
+> "And then he tells Lance that "I'm wishing I had circled back and grabbed ..."
+
+**[00:13:53](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-13-38)**
+> "...urs—away from where Tyler and Lance live together."
+
+**[00:19:56](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-19-38)**
+> "...ngs. And when I speak also to Lance's family, they are confirming what the source is te..."
+
+**[00:20:28](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-20-20)**
+> "...ause Robinson says—he says to Lance—"Delete this exchange.""
+
+**[00:22:34](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-22-15)**
+> "...esn't seem suicidal. And then Lance comes back and says, "I'm much more worried about..."
+
+**[00:22:41](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-22-15)**
+> "... is that we're not talking to Lance."
+
+**[00:22:43](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-22-15)**
+> "...uh. If you're going, "Wow, if Lance is really not guilty and he hasn't done anything,..."
+
+**[00:22:52](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-22-52)**
+> "No, Lance is not doing that because Tyler right here says, ..."
+
+**[00:24:26](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-16)**
+> "...this is what I confirmed with Lance's family because I said, "Wait a second. You owned ..."
+
+**[00:24:28](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-16)**
+> "When did they pick up Lance? When did Lance go in? When did the home that you..."
+
+**[00:25:07](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-51)**
+> "...at happens is then they bring Lance in."
+
+**[00:25:27](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-51)**
+> "...hen they first raid Tyler and Lance's apartment."
+
+**[00:25:53](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-25-37)**
+> "According to Lance's family, this is when they seized his electronics...."
+
+**[00:25:58](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-25-37)**
+> "...they told us that—quite oddly—Lance gets released right back to his parents. Right—no..."
+
+**[00:26:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-25-37)**
+> "Lance just gets released to his parents while they're r..."
+
+**[00:26:38](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-26-19)**
+> "... said, early hours: Tyler and Lance have their apartment raided, and the device is se..."
+
+**[00:27:45](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-27-33)**
+> "... He's gonna make it seem like Lance doesn't even exist, but let's start it off and li..."
+
+**[00:35:46](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-46)**
+> "... out that for whatever reason Lance is being protected. There's no way you release th..."
+
+**[00:41:41](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
+> "...ir messages? Why can't I read Lance's messages?"
 
 </details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (20 mentions)</summary>
 
-**[00:00:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
+**[00:00:44](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44)**
 > "...ased, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki..."
 
-**[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
+**[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44)**
 > "...ng his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is kind of presenting him as this do-gooder. You might be interested to know that..."
 
-**[00:18:30](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-18-12)**
+**[00:18:30](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-18-30)**
 > "...erent perspective when it comes to Tyler's trans boyfriend, okay? Tyler's trans boyfriend's name is Lance Twiggs. And they are very shocked. In fact, the people that are intimately involved in the situation are s..."
 
-**[00:18:58](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-18-56)**
+**[00:18:55](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-18-30)**
 > "...onna go through that. And again, I'm gonna tell you what his family is saying. I'm referring now to Lance Twiggs. Let's get to what the indictment tells us about him. Police interviewed Robinson's roommate, a bio..."
 
-**[00:20:05](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-19-40)**
+**[00:20:05](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-19-48)**
 > "...nson, which said, quote, "Drop what you are doing and look under my keyboard." The roommate, Lance (Lance Twiggs), then looks under his keyboard and he finds a note that states, quote, "I had the opportunity to t..."
 
 **[00:26:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-25-29)**
 > "...nd he needs to go back and get his rifle, right? This kid could have, and I'm speaking about Lance (Lance Twiggs), could have contacted immediately and said, I'm getting a confession right now. I don't like that ..."
 
-**[00:26:51](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-26-51)**
+**[00:26:46](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-26-46)**
 > "... Robinson says, "You are all I worry about, love. I'm much more worried—" The roommate says, Lance (Lance Twiggs) says, "I'm much more worried about you." Robinson says, "Don't talk to the media, please. Don't ta..."
 
-**[00:28:27](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-28-27)**
+**[00:28:25](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-28-25)**
 > "...s strange from the beginning that for whatever reason, we're not hearing too much about this Lance (Lance Twiggs) guy other than like he's been extremely cooperative. He's handed over his messages. I'm not implyi..."
 
-**[00:28:41](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-28-27)**
+**[00:28:39](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-28-25)**
 > "...n like he's been extremely cooperative. He's handed over his messages. I'm not implying that Lance (Lance Twiggs) was involved. I am implying that it's weird that we're not hearing more about him. Right? You're t..."
 
-**[00:29:06](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-06)**
+**[00:29:02](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-02)**
 > "...lassmates, are telling me he's a good kid. So I go into our tips box and it turns out that actually Lance Twiggs's family has tried to reach out to me over the weekend. Obviously I was in a very aggrieved state a..."
 
-**[00:29:34](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-34)**
+**[00:29:28](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-28)**
 > "...nd I can tell you this exclusively, is that the house that Tyler Robinson was living in with Lance (Lance Twiggs) is owned by them. Tyler Robinson is paying rent to them, okay? So they know Lance (Lance Twiggs), ..."
 
-**[00:30:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-30-01)**
+**[00:29:58](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-58)**
 > "...e (Lance Twiggs) is owned by them. Tyler Robinson is paying rent to them, okay? So they know Lance (Lance Twiggs), obviously, and I'm going to cushion this with allegedly, allegedly, allegedly—it isn't allegedly ..."
 
-**[00:30:20](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-30-01)**
+**[00:30:20](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-58)**
 > "...ay until we can hear both sides, okay? I'm gonna pull this up because I took notes regarding Lance (Lance Twiggs), because I wanna know everything, okay? Lance (Lance Twiggs), they told us, went to live with his ..."
 
-**[00:30:28](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-30-01)**
+**[00:30:28](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-58)**
 > "... because I took notes regarding Lance (Lance Twiggs), because I wanna know everything, okay? Lance (Lance Twiggs), they told us, went to live with his relatives, so no longer in the house with his mother and fath..."
 
-**[00:32:06](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-06)**
+**[00:32:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-01)**
 > ".... There's, like, nothing problematic. There's no prodding. They don't buy the story. Okay. Lance's (Lance Twiggs's) family is telling me that they are not buying the current story and that they feel that more peo..."
 
-**[00:33:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-47)**
+**[00:32:52](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-46)**
 > "...been living together for at least a year, that they had not met Tyler, despite the fact that Lance (Lance Twiggs) had wanted to foster that meeting, that the two of them, this couple, Tyler and Lance (Lance Twigg..."
 
-**[00:33:20](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-47)**
+**[00:33:20](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-46)**
 > "...Lance's (Lance Twiggs's) family, and that Tyler was paying rent to Lance (Lance Twiggs). And Lance (Lance Twiggs) then, of course, was forwarding that payment to them. Now, I had asked them about another persiste..."
 
 **[00:33:58](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-33-29)**
 > "...eading up to the shooting there was unusual traffic in the driveway where Tyler Robinson and Lance (Lance Twiggs) lived. Cars that were not recognized in the neighborhood. This was not a couple that hosted people..."
 
-**[00:34:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-34-45)**
+**[00:34:43](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-34-43)**
 > "...We are taking a look at everybody, because if I don't feel good about what we're hearing, okay, and Lance Twiggs's family doesn't feel good about what we're hearing, and we've got Decoy Boy, who's apparently invo..."
 
 **[01:12:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-01-12-39)**
@@ -937,7 +1071,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Roommate Of (2)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:42:35](/episodes/ep-1mYNOqzAdXs.md#t-00-42-11): “I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlier time.”
@@ -946,6 +1080,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:32:21](/episodes/ep-d7VsbEIWkP8.md#t-00-32-00): “So it was just Bradley (former roommate; surname unverified), the military guy, Lance (Lance Twiggs) and Tyler Robinson living as roommates until November of 2024.”
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:21:55](/episodes/ep-5zgkrOaCCj4.md#t-00-21-55): “And then we know he will drive back home. This is according to Lance (Lance Twiggs)'s testimony. Lance (Lance Twiggs) will testify that he sees him when he wakes up. ... They're face to face in their apartment.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:27:12](/episodes/ep-aPOyk1i2LOc.md#t-00-27-06): “And it could also be a reasonable explanation for why we have Matt Robinson's prints on this. Obviously, Lance Twiggs, even if he has prints on things they live together, that doesn't really mean anything.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:04:55](/episodes/ep-2WEHTk0Xewg.md#t-00-04-55): “the roommate—that's Lance—received a text message from Robinson”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:19:03](/episodes/ep-q7f8r-THr84.md#t-00-19-03): “Police interviewed Robinson's roommate, a biological male who was involved in a romantic relationship with Robinson.”
 
 </details>
 
@@ -972,7 +1108,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** dating this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:33:42](/episodes/ep-nPhCKwJ6ye8.md#t-01-33-02): “Lance was his boyfriend. That is a that is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:12:25](/episodes/ep-EtLHqDbxqks.md#t-00-12-25): “A very easy feat because he was his roommate and his boyfriend.”
@@ -980,11 +1116,13 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10): “Then suddenly the boyfriend, Lance (Lance Twiggs), testifies that he's never spoken to him about LGBTQ issues. So I guess for the first time he spoke to him about it after he killed Charlie Kirk via text message.”
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:05:12](/episodes/ep-5zgkrOaCCj4.md#t-00-05-12): “It just suddenly dawned on me this weekend. The sheer stupidity, the ever increasing stupidity of the Tyler Robinson narrative that we are to believe that this uber intelligent kid, remember Tyler Robinson had above a 4.0 GPA, and we are to believe also that he wanted to get away with this crime that's expressed to his furry lover via text. Remember, he allegedly wrote this in the confession messages to Lance (Lance Twiggs). He wrote, quote, to be honest, I had.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:02:59](/episodes/ep-aPOyk1i2LOc.md#t-01-02-59): “Lance was his boyfriend. That is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01): “Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs.”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:14:30](/episodes/ep-q7f8r-THr84.md#t-00-14-30): “Robinson began to date his roommate, which is a biological male who was transitioning genders.”
 
 </details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** roommate of this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:42:35](/episodes/ep-1mYNOqzAdXs.md#t-00-42-11): “I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlier time.”
@@ -993,6 +1131,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:32:21](/episodes/ep-d7VsbEIWkP8.md#t-00-32-00): “So it was just Bradley (former roommate; surname unverified), the military guy, Lance (Lance Twiggs) and Tyler Robinson living as roommates until November of 2024.”
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:21:55](/episodes/ep-5zgkrOaCCj4.md#t-00-21-55): “And then we know he will drive back home. This is according to Lance (Lance Twiggs)'s testimony. Lance (Lance Twiggs) will testify that he sees him when he wakes up. ... They're face to face in their apartment.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:27:12](/episodes/ep-aPOyk1i2LOc.md#t-00-27-06): “And it could also be a reasonable explanation for why we have Matt Robinson's prints on this. Obviously, Lance Twiggs, even if he has prints on things they live together, that doesn't really mean anything.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:04:55](/episodes/ep-2WEHTk0Xewg.md#t-00-04-55): “the roommate—that's Lance—received a text message from Robinson”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:19:03](/episodes/ep-q7f8r-THr84.md#t-00-19-03): “Police interviewed Robinson's roommate, a biological male who was involved in a romantic relationship with Robinson.”
 
 </details>
 
@@ -1008,7 +1148,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Lance Twiggs (6)</strong></summary>
+<summary><strong class="section-title">Statements by Lance Twiggs (5)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
@@ -1040,17 +1180,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 </details>
 
-<details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
-
-- [00:30:28](/episodes/ep-q7f8r-THr84.md#t-00-30-01) [○] (Claim) ["Lance Twiggs's family allegedly told me that his parents kicked him out during h..."](/statements/statement-007478182ea9.md)
-
-</details>
-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (67)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (63)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1263,7 +1396,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:07:37](/episodes/ep-2T39-oADLj0.md#t-01-07-20) (Accusation) **Candace Owens**: ["I think Lance Twiggs is the person walking with the backpack in the fo..."](/statements/statement-1e89fc34f72c.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 
@@ -1276,54 +1409,50 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (5)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1)</summary>
 
-- [00:02:43](/episodes/ep-2WEHTk0Xewg.md#t-00-02-22) (Opinion) **Candace Owens**: ["The text messages released between Tyler Robinson and Lance Twiggs app..."](/statements/statement-6e09814c7e56.md)
+- [00:11:45](/episodes/ep-K5GjF53bfN4.md#t-00-11-13) (Claim) **Candace Owens**: ["We haven't received any updates whatsoever on the raid that took place..."](/statements/statement-baa1d7d044f1.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:25:14](/episodes/ep-2WEHTk0Xewg.md#t-00-24-54) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["Lance Twiggs was brought in for questioning around 11 PM on September ..."](/statements/statement-eccfcb1802fb.md)
-  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:25:14](/episodes/ep-2WEHTk0Xewg.md#t-00-24-54) (Claim) **Candace Owens** (via paraphrase): ["Lance Twiggs was brought in for questioning around 11pm on September 1..."](/statements/statement-55d2ce6e34fb.md)
-
-- [00:31:46](/episodes/ep-2WEHTk0Xewg.md#t-00-31-35) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Discord denied that the messages existed on its ser..."](/statements/statement-48a69a1c0de4.md)
-  - Also about: [Discord](/entities/org-discord.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:36:20](/episodes/ep-2WEHTk0Xewg.md#t-00-35-53) (Claim) **Candace Owens**: ["Lance Twiggs' mother has a bachelor of science degree from Stanford Un..."](/statements/statement-e08295ef33b1.md)
 
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (11)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
 
-- [00:00:56](/episodes/ep-q7f8r-THr84.md#t-00-00-45) (Claim) **Candace Owens**: ["I just spoke to a family member who told me a lot about Lance Twiggs"](/statements/statement-8765c46185e8.md)
-
-- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-06-59) (Claim) **Tyler Robinson** (via quoted speech): ["Tyler Robinson told his lover/roommate to delete incriminating text me..."](/statements/statement-666a203b4adc.md)
+- [00:02:43](/episodes/ep-2WEHTk0Xewg.md#t-00-02-02) (Opinion) **Candace Owens**: ["The text messages released between Tyler Robinson and Lance Twiggs app..."](/statements/statement-6e09814c7e56.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:18:30](/episodes/ep-q7f8r-THr84.md#t-00-18-12) (Claim) **Candace Owens**: ["Tyler's trans boyfriend's name is Lance Twiggs."](/statements/statement-052d175ec6ab.md)
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (10)</summary>
+
+- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-07-21) (Claim) **Utah County Attorney's Office** (via quoted document): ["Tyler Robinson told his lover/roommate to delete incriminating text me..."](/statements/statement-666a203b4adc.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:19:54](/episodes/ep-q7f8r-THr84.md#t-00-19-40) (Claim) **Candace Owens**: ["On September 10, 2025, Tyler Robinson sent text message to roommate sa..."](/statements/statement-667c3542eeb2.md)
+- [00:18:30](/episodes/ep-q7f8r-THr84.md#t-00-17-49) (Claim) **Candace Owens**: ["Tyler's trans boyfriend's name is Lance Twiggs."](/statements/statement-052d175ec6ab.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:20:14](/episodes/ep-q7f8r-THr84.md#t-00-19-40) (Claim) **Candace Owens**: ["Lance Twiggs found a note under keyboard stating 'I had the opportunit..."](/statements/statement-378f6c7c2692.md)
+- [00:19:54](/episodes/ep-q7f8r-THr84.md#t-00-19-48) (Claim) **Tyler Robinson** (via quoted document): ["Tyler Robinson reportedly texted his roommate, 'Drop what you are doin..."](/statements/statement-667c3542eeb2.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:20:05](/episodes/ep-q7f8r-THr84.md#t-00-19-48) (Claim) **Tyler Robinson** (via quoted document): ["Tyler Robinson reportedly left a note stating, 'I had the opportunity ..."](/statements/statement-378f6c7c2692.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:29:12](/episodes/ep-q7f8r-THr84.md#t-00-29-06) (Claim) **Candace Owens**: ["Lance Twiggs's family reached out to me and told me details about him"](/statements/statement-58d4a991d3cc.md)
-
-- [00:29:34](/episodes/ep-q7f8r-THr84.md#t-00-29-06) (Claim) **Candace Owens**: ["The house that Tyler Robinson was living in with Lance Twiggs is owned..."](/statements/statement-53137958a430.md)
+- [00:27:42](/episodes/ep-q7f8r-THr84.md#t-00-27-42) (Accusation) **Candace Owens**: ["Candace Owens alleged that the published text-message excerpts were 'c..."](/statements/statement-ccd630038698.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:29:58](/episodes/ep-q7f8r-THr84.md#t-00-29-34) (Claim) **Candace Owens**: ["The house that Tyler Robinson was living in with Lance Twiggs is owned..."](/statements/statement-c554632adb3e.md)
+- [00:29:28](/episodes/ep-q7f8r-THr84.md#t-00-29-28) (Claim) **Lance Twiggs family member sources (identities unverified)** (via quoted speech): ["Lance Twiggs's family reportedly said they owned the home where Twiggs..."](/statements/statement-c8d5e18bf6cc.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:29:58](/episodes/ep-q7f8r-THr84.md#t-00-29-34) (Claim) **Candace Owens**: ["House where Tyler Robinson lived with Lance Twiggs is owned by Lance T..."](/statements/statement-c8d5e18bf6cc.md)
+- [00:29:34](/episodes/ep-q7f8r-THr84.md#t-00-29-28) (Claim) **Lance Twiggs family member sources (identities unverified)** (via quoted speech): ["The house that Tyler Robinson was living in with Lance Twiggs is owned..."](/statements/statement-53137958a430.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:30:35](/episodes/ep-q7f8r-THr84.md#t-00-30-01) (Claim) **Candace Owens**: ["Lance Twiggs's parents allegedly kicked him out during his junior year..."](/statements/statement-4ca1e3c57b76.md)
+- [00:30:28](/episodes/ep-q7f8r-THr84.md#t-00-29-58) (Accusation) **Lance Twiggs family member sources (identities unverified)** (via quoted speech): ["Lance Twiggs's family members reportedly alleged that his parents kick..."](/statements/statement-007478182ea9.md)
 
-- [00:33:58](/episodes/ep-q7f8r-THr84.md#t-00-33-29) (Claim) **Candace Owens**: ["There was unusual traffic with many cars outside the house where Tyler..."](/statements/statement-a0b3fbe39aea.md)
+- [00:30:35](/episodes/ep-q7f8r-THr84.md#t-00-29-58) (Claim) **Lance Twiggs family member sources (identities unverified)** (via quoted speech): ["Lance Twiggs's parents allegedly kicked him out during his junior year..."](/statements/statement-4ca1e3c57b76.md)
+
+- [00:33:29](/episodes/ep-q7f8r-THr84.md#t-00-33-29) (Claim) **Tyler Robinson classmate and neighborhood sources (identities unverified)** (via quoted speech): ["Neighborhood sources reportedly observed unusual vehicle traffic at th..."](/statements/statement-5f3d26fcb63c.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>

@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:45:40](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=2740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had communication with Lance's family early on. They said to me it was completely insane that Lance was not taken into custody. ... they are telling you that the relationship between lance and the feds is unnatural
 

@@ -15,7 +15,7 @@ object: "person-megyn-kelly"
 
 **[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
 
-- [00:33:26](/episodes/ep-Qt0VHV-POCg#t-00-33-26): _Megyn Kelly: How do you feel about the investigation into Charlie's death? Can we have faith in it?_
+- [00:33:26](/episodes/ep-Qt0VHV-POCg#t-00-33-26): _How do you feel about the investigation into Charlie's death?_
 
 ### Related
 

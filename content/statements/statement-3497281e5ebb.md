@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:12:39](/episodes/ep-HYn0P-P1wUw.md#t-00-12-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(759);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=759s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk)'s text messages, that was a pretty big one showing that he was in fact abandoning the pro-Israel cause 48 hours before he was assassinated, despite the fact that everyone lied about that fact.
 

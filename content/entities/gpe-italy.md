@@ -1,6 +1,6 @@
 ---
 title: "Italy"
-description: "Italy (Places) - 30 mentions"
+description: "Italy (Places) - 31 mentions"
 id: "gpe-italy"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [Italy – EU country | European Union](https://european-union.europa.eu/principles-countries-history/eu-countries/italy_en)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50">2026-01-28 · 00:48:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-italy-t-00-53-00">2025-11-15 · 00:53:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-03-51-36">2026-08-14 · 03:51:36</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +30,7 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-02-05-30">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-italy-t-00-53-00" style="--pulse-height:17%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-italy-t-00-37-46" style="--pulse-height:17%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-italy-t-00-29-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-italy-t-00-53-00) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-italy-t-00-37-46) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-italy-t-00-29-57) | 3 |
@@ -70,7 +72,7 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -229,6 +231,14 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 
 **[00:48:28](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-48-28)**
 > "and so yeah we're flying to Italy to film with bulls but they were imported from Sp..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:53:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-italy-t-00-53-00)**
+> "It was gifted to me by a priest while I was out in Wyoming, and it is from St. Michael's Holy Cave in Italy."
 
 </details>
 

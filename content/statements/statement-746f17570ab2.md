@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:34:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-34-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2079);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=2079s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was supposed to go on that tour in Australia, but I got blocked by the Zionist lobby of Australia.
 

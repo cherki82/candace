@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:06:35](/episodes/ep-ja26iltROkM.md#t-00-06-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(395);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=395s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the first thing that I think I should make abundantly clear is I am relieved that Erika Kirk is at the head of Turning Point USA, because just like I alluded to last week—and which I will double down on now—I believe that people within that company betrayed Charlie (Charlie Kirk), okay? That's just what I believe right now.
 
@@ -37,7 +37,7 @@ type: "accusation"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:06:25](/episodes/ep-ja26iltROkM.md#t-00-06-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(385);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=385s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's just what I believe right now.
 

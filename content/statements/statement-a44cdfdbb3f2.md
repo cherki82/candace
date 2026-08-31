@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,13 +24,13 @@ veracity: "mixed"
 - [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md) (person)
 - [S. Arthur Spiegel](/entities/person-s-arthur-spiegel.md) (person)
 - [Kathleen Brinkman](/entities/person-kathleen-brinkman.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:11:29](/episodes/ep-cZxHqYsWRYg.md#t-00-11-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(689);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=689s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, Tony Erpenbeck, that's dad, had been in a federal medical prison in Lexington for just a few months when he tried to hire someone to murder and kidnap the people connected with putting him and his son behind bars. ... He wanted then senior U.S. District Judge S. Arthur Spiegel and then retired Assistant U.S. Attorney Kathleen Brinkman killed. ... Tony (Tony Erpenbeck) also targeted an FBI agent's children.
 

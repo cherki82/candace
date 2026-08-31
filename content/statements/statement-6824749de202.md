@@ -3,7 +3,7 @@ title: "in the very week that Charlie Kirk (Charlie Kirk) was assass..."
 description: "\"in the very week that Charlie Kirk (Charlie Kirk) was assassinated, he was saying that he wanted me back on the roster\" — Candace Owens"
 statement_id: "statement-6824749de202"
 speaker: "Candace Owens"
-type: "accusation"
+type: "factual_claim"
 ---
 
 **Status:** ○ Not yet verified
@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:42:55](/episodes/ep-sreYYcID-QY.md#t-00-42-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2575);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2575s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in fact, in the very week that Charlie (Charlie Kirk) was assassinated, he was saying that he wanted me back on the roster
 
@@ -33,4 +33,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** Yes

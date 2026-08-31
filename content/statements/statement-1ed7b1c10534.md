@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:35:52](/episodes/ep-7RLtGgkTh9o.md#t-00-35-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2152);return false;">Play</a>
+**Timestamp:** [00:35:52](/episodes/ep-7RLtGgkTh9o.md#t-00-35-31) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=2152s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bill Ackman gave a presentation—don't forget—and told these younger people that they shouldn't aspire to own homes. They should just want to rent.
 

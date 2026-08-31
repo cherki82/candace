@@ -6,6 +6,11 @@ date: "2025-04"
 ---
 
 **Date:** 2025-04
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “in April 2025”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-04"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:25:27](/episodes/ep-X92MllIHDzw.md#event-event-2025-04-courage-house-nevada-purchased-a-40-acre-t-00-25-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1527);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1527s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in April 2025, it purchased a 40 acre property in Washoe County, Nevada,

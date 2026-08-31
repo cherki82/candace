@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:12:07](/episodes/ep-cPidFQDJLbo.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(727);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=727s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If I had to guess, I would say it's because you're protecting someone. Who is that someone? Maybe you're protecting something. ... What is that something?
 

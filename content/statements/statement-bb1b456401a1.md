@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:19:21](/episodes/ep-Pb7UlpRdW6U.md#t-00-18-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1161);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, I think what's happening is our government is competing with China to create a surveillance state happening, right?
 

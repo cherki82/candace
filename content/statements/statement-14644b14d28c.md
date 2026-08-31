@@ -7,7 +7,7 @@ type: "promise"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:34:32](/episodes/ep-his-JBjlkh8.md#t-00-34-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2072);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2072s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I accept it with whistles and bells—everything. I fully accept. ... I say, let's do it tomorrow.
 
@@ -39,7 +39,7 @@ veracity: "false"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:34:14](/episodes/ep-his-JBjlkh8.md#t-00-33-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2054);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2054s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can pick the place. You can pick the time. ... I say we do it tomorrow.
 
@@ -47,7 +47,7 @@ veracity: "false"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [01:05:03](/episodes/ep-his-JBjlkh8.md#t-01-04-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3903);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=3903s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, I'll do this tomorrow. ... I don't have to be in person. ... We can live-stream this.
 

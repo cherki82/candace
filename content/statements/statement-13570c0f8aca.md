@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:09:01](/episodes/ep-d7VsbEIWkP8.md#t-00-08-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(541);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=541s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Let's make it 500K, right? I just have the hunch, this feeling, gut instinct that you're maybe being backed by Turning Point USA or their affiliates in this debate request.
 
@@ -37,7 +37,7 @@ type: "opinion"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:34:58](/episodes/ep-HGtMfbePDKk.md#t-00-34-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2098);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=2098s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But we all saw how this went down. He goes to TPUSA headquarters and suddenly he's got a lot of money to throw around to call Candace out on Piers Morgan and Joe Rogan and so the public can take from that what they will. ... And, and whatever this transition happened for him it certainly was after he went to Turning Point USA headquarters and sat down with Erika and the executive team like I said let's not draw any conclusions there's no evidence he says he's his own horse this just is coming from him we'll leave it at that
 

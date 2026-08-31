@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:25:00](/episodes/ep-wcD2khO3rOA.md#t-00-24-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Falwell Senior, senior. ... But Jerry Falwell Sr. was the one actually taking the photos? ... yeah they um I remember him and his wife there
 

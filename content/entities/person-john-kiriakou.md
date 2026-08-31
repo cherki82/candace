@@ -135,7 +135,7 @@ Source: [About | John Kiriakou](https://johnkiriakou.com/about/)
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
 
 - [00:32:04](/episodes/ep-4JxgOclKzqg.md#t-00-32-04) [✓] (Claim) ["Kiriakou said that because a kid from Utah allegedly shot Charlie Kirk in Utah a..."](/statements/statement-c34029d141ff.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

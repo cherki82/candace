@@ -6,6 +6,15 @@ date: "2018-11-29"
 ---
 
 **Date:** 2018-11-29
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “back in 2018”
+
+**Normalization note:** The Independent dates the Thursday protest reported on November 30, 2018, to November 29, 2018.
+
+**Date source:** [https://www.independent.co.uk/news/world/americas/laura-loomer-twitter-hq-video-ban-handcuffs-facebook-jack-dorsey-ilhan-omar-islam-a8660351.html](https://www.independent.co.uk/news/world/americas/laura-loomer-twitter-hq-video-ban-handcuffs-facebook-jack-dorsey-ilhan-omar-islam-a8660351.html)
 
 ## Event
 
@@ -13,18 +22,18 @@ date: "2018-11-29"
 
 ## Mentioned In (2 times)
 
-### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
-
-**Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [01:10:24](/episodes/ep-LATnak75Si0.md#event-event-2018-11-29-laura-loomer-handcuffed-herself-to-twitt-t-00-48-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4224);return false;">▶️ Play</a>
-
-> chained herself to Twitter headquarters and made it like a Jewish thing when they kicked her off of Twitter back in 2018.
-
-### 2. An Open Letter To President Donald Trump (My Response) | Can...
+### 1. An Open Letter To President Donald Trump (My Response) | Can...
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:33:27](/episodes/ep-ZIH5-V6UPkg.md#event-event-2018-11-29-laura-loomer-handcuffed-herself-to-twitt-t-00-32-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2007);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2007s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she once chained herself to X, to Twitter headquarters. It was actually Twitter
+
+### 2. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+
+**Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+**Timestamp:** [00:48:38](/episodes/ep-LATnak75Si0.md#event-event-2018-11-29-laura-loomer-handcuffed-herself-to-twitt-t-00-48-11) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=2918s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> she chained herself to Twitter headquarters and made it like a Jewish thing

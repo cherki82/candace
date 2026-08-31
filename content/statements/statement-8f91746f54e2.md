@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:04:47](/episodes/ep-tXoI0TTKVrs.md#t-00-04-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(287);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=287s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When she herself made a mockery of the Bible, she took to X to claim that, and no big deal, I don't care, but then proceeded to author more than 23 tweets in response to people calling her out. Take a look. We obviously can't read all these.
 

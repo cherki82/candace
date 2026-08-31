@@ -6,6 +6,11 @@ date: "2025-09-14"
 ---
 
 **Date:** 2025-09-14
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 14th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-14"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:07:40](/episodes/ep-c5BcKF91iec.md#event-event-2025-09-14-succession-plan-at-turning-point-usa-mad-t-00-07-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(460);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=460s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So on September 14th, we were made aware of this succession plan.

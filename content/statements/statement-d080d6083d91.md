@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:05:39](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(339);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=339s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it's just two days after she received her real estate license in New York. All of this happening a few weeks after she meets Charlie (Charlie Kirk).
 

@@ -3,9 +3,17 @@ title: "San Juan Capistrano"
 description: "San Juan Capistrano (Places) - 1 mention"
 id: "gpe-san-juan-capistrano"
 type: "GPE"
+categories:
+  - "California city"
 ---
 
 _Type: Places_
+
+**Categories:** California city
+
+**Entity verification:** verified
+> The official municipal site confirms San Juan Capistrano, California.
+Source: [City of San Juan Capistrano](https://www.sanjuancapistrano.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-san-juan-capistrano-t-00-09-14">2025-11-13 · 00:09:35</a></strong></div>

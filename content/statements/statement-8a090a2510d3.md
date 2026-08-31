@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(68);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=68s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, the fallout from Victor Marx's interview yesterday is trending all across social media and it inspired me to send out a few preservation letters in my ongoing lawsuit with Brian Harpole.
 

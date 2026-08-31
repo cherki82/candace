@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:13:52](/episodes/ep-9naMwS0kMBE.md#t-00-13-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(832);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=832s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > two police officers go into the theater and they pull her into a police car and personally say that they take her to a hospital.
 

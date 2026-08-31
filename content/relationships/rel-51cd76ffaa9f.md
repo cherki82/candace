@@ -15,7 +15,7 @@ object: "person-thomas-sowell"
 
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 
-- [00:09:54](/episodes/ep-w1oqQbR_bYs#t-00-09-54): _Ben had his team reach out and schedule an interview with Thomas Soul_
+- [00:10:08](/episodes/ep-w1oqQbR_bYs#t-00-10-08): _Ben had his team reach out and schedule an interview with Thomas Sowell_
 
 ### Related
 

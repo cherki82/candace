@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:16:30](/episodes/ep-mLvJqdxS-FY.md#t-00-16-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(990);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=990s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they determined that the Fulton Library stood out because there were unattended items there at the bus stops that were away from the courtyard area. And so to them they thought. ... Yes, you had a backpack, a jacket, as well as some gloves, and there may have been some other things, I just don't recall them right now.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:01:03](/episodes/ep-k8ueJdPFel4.md#t-00-01-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(63);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=63s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And further to that point, Trump (Donald J. Trump) has apparently allowed Mark Levin's special class of psychos to go after Tucker Carlson. ... They want to imprison him. They are explicit in that demand. And he has just revealed that the CIA has been spying on him.
 

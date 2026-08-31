@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:01:05](/episodes/ep-eMtjzXkQrsU.md#t-00-00-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(65);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=65s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Speaking of which Israel, you would like, probably would like to know this, they are going to be upping their spend on American propaganda to almost a billion dollars this year.
 

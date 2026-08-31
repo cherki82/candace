@@ -3,9 +3,14 @@ title: "Me Too"
 description: "Me Too (Concepts) - 5 mentions"
 id: "concept-me-too"
 type: "CONCEPT"
+categories:
+  - "social movement"
+  - "sexual harassment advocacy"
 ---
 
 _Type: Concepts_
+
+**Categories:** social movement, sexual harassment advocacy
 
 > **Possibly overlapping entity records:** [Me Too movement](/entities/concept-me-too-movement). These records share a name or alias; compare their histories before treating either count as complete.
 
@@ -26,7 +31,7 @@ _Type: Concepts_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-concept-me-too-t-00-13-27" style="--pulse-height:100%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57" style="--pulse-height:50%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-19" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-09" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-me-too-t-00-37-01" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -35,7 +40,7 @@ _Type: Concepts_
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-concept-me-too-t-00-13-27) | 2 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-19) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-09) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-me-too-t-00-37-01) | 1 |
 
 </details>
@@ -57,7 +62,7 @@ _Type: Concepts_
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:11:19](/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-19)**
+**[00:11:19](/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-09)**
 > "...hird plane, which I found to be quite odd. I reported on it, and the Zionists immediately seemed to me too panicked, right? They issued what I describe as a false debunking regarding the point that I was ma..."
 
 </details>
@@ -65,7 +70,7 @@ _Type: Concepts_
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:52:23](/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57)**
+**[00:52:17](/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57)**
 > "...frey Epstein possibly being a Mossad agent or asset or affiliated with—that's been turned around on me too, to you must be anti-Semitic. What the hell? That's such bullshit. The same people who say you can ..."
 
 </details>

@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:31:25](/episodes/ep-tXoI0TTKVrs.md#t-00-31-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1885);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1885s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's an unbelievable, beautiful 1,400 hectare private island in the middle of the Mediterranean. We were on a friend's boat and we stopped for a swim. ... Effectively, that's how we found it. We swam to the islands, we went on a hike barefoot all the way up to the top, and we were just captivated and it stayed with us ever since. And over the course of many years, we developed the opportunity to help realize its potential and transform it, but with a lot of restraint and care because the land is so beautiful that really the architecture has to be.
 

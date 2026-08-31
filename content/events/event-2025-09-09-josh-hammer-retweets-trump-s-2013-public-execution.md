@@ -7,153 +7,34 @@ time: "21:09"
 ---
 
 **Date:** 2025-09-09 at 21:09
+**Date precision:** Day
 
 ## Event
 
 > Josh Hammer retweets Trump's 2013 public execution tweet.
 
-## Mentioned In (18 times)
+## Mentioned In (3 times)
 
-### 1. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
-
-**Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:00:16](/episodes/ep-2Riv3I7D0Yk.md#event-event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(16);return false;">▶️ Play</a>
-
-> new schedule. Where should we begin? Okay, well, Josh Hammer, because that's certainly getting a little more interesting, maybe a bit darker than we had anticipated. Because just 16 hours before Char
-
-### 2. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
-
-**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:00:17](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(17);return false;">▶️ Play</a>
-
-> iro and Josh Hammer. He didn't even know Candace. His last words before he died were, "Honor the Sabbath and buy Josh Hammer's book." Yeah. And als
-
-### 3. Shocking Revelation About The Egyptian Planes... | Candace E...
-
-**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:29:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-29-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1787);return false;">▶️ Play</a>
-
-> ew? Can you tell us, Blake Neff? Can you tell us, Mikey McCoy? Or was he just full of fluff? Just full of fluff at the end. Just really just wanted Josh Hammer's
-
-### 4. Shocking Revelation About The Egyptian Planes... | Candace E...
-
-**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:31:15](/episodes/ep-ZAuuSq_j2_w.md#t-00-30-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1875);return false;">▶️ Play</a>
-
-> ew? Can you tell us, Blake Neff? Can you tell us, Mikey McCoy? Or was he just full of fluff? Just full of fluff at the end. Just really just wanted Josh Hammer's
-
-### 5. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
-
-**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:00:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(10);return false;">▶️ Play</a>
-
-> vince the world that he was actually besties with Ben Shapiro and Josh Hammer. He didn't even know Candace. His last words before he died were, "
-
-### 6. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:49:58](/episodes/ep-2WEHTk0Xewg.md#t-00-49-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2998);return false;">▶️ Play</a>
-
-> t. They could have said anything, by the way—like Josh Hammer. I know how you were messaging him. Like, release the messages, buddy. Just release all of your thr
-
-### 7. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
+### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:33:11](/episodes/ep-c5BcKF91iec.md#t-00-32-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1991);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=1991s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > about what happened on 9/10. We should start with Josh Hammer, by the way, because he really has now become the king of defying no stereotypes— where we last lef
 
-### 8. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+### 2. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:13:26](/episodes/ep-5autG89PW6w.md#t-00-13-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(806);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=806s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at was not in the chat. Like I'm just like, "Hey, Josh Hammer received this message." That'd be so dumb. But like I said, these people were desperate for it not
 
-### 9. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
-
-**Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(134);return false;">▶️ Play</a>
-
-> n May. What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like tha
-
-### 10. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
-
-**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1813);return false;">▶️ Play</a>
-
-> s." I'm going to guess it's either Seth Dillon or Josh Hammer. Could not be, but I'm just putting that out there because of the style of the messages. And he say
-
-### 11. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
-
-**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:41:22](/episodes/ep-q7f8r-THr84.md#t-00-41-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2482);return false;">▶️ Play</a>
-
-> I Know What You Did This Summer. Okay, gotta add Josh Hammer's face to that poster as well, because suddenly everybody's talking. So let's buckle up for some mo
-
-### 12. Why Isn't The Trump Family Asking Questions About Charlie Ki...
-
-**Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
-**Timestamp:** [00:20:04](/episodes/ep-Qt0VHV-POCg.md#t-00-19-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1204);return false;">▶️ Play</a>
-
-> u feel nothing? There's just nothing. It's like a Josh Hammer thing. They don't feel any sense of shame at all. And they can just go, go, go, go, go and pretend
-
-### 13. Shocking Revelation About The Egyptian Planes... | Candace E...
-
-**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:29:24](/episodes/ep-ZAuuSq_j2_w.md#t-00-29-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1764);return false;">▶️ Play</a>
-
-> the way, he had a very busy night before. He told Josh Hammer that his book was the greatest thing and everyone should buy Josh Hammer's book. He had that meetin
-
-### 14. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
-
-**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
-**Timestamp:** [00:18:06](/episodes/ep-JQjCAsfoXEE.md#t-00-17-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1086);return false;">▶️ Play</a>
-
-> t's kind of a repeat thing in this investigation. Josh Hammer lies; I get attacked. Turning Point just stays silent. They know he's lying, but they allow the lie
-
-### 15. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 3. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:00:08](/episodes/ep-2Riv3I7D0Yk.md#event-event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8);return false;">▶️ Play</a>
+**Timestamp:** [00:06:32](/episodes/ep-2Riv3I7D0Yk.md#event-event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution-t-00-06-13) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=392s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> new schedule. Where should we begin? Okay, well, Josh Hammer, because that's certainly getting a little more interesting, maybe a bit darker than we had anticip
-
-### 16. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
-
-**Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:16:22](/episodes/ep-LATnak75Si0.md#t-00-15-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(982);return false;">▶️ Play</a>
-
-> You were never Trump. If you're telling us that MAGA is now
-
-### 17. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:50:03](/episodes/ep-2WEHTk0Xewg.md#t-00-49-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3003);return false;">▶️ Play</a>
-
-> didn't do that. They could have said anything, by the way—li
-
-### 18. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
-
-**Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:06:41](/episodes/ep-2Riv3I7D0Yk.md#event-event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(401);return false;">▶️ Play</a>
-
-> Here it is. Here is that retweet. Trump wrote on April 19th, 2013: "Should be public execution for all to see. You will end this bull fast." And Josh Hammer just rep
+> He retweeted something that President Donald Trump had sent a full 12 years ago about public executions.

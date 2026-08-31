@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:20:40](/episodes/ep-ds6umq1rHAw.md#t-00-20-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1240);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1240s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Of course, when he died, the trustee of the board became Frank William Gay, his trusted Mormon, who, it would be discovered later, was at one point working with the CIA.
 

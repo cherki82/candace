@@ -1,6 +1,6 @@
 ---
-title: "Cabot Phillips is missing from the Morning Wire show from Se..."
-description: "\"Cabot Phillips is missing from the Morning Wire show from September 4th to September 10th\" — Candace Owens"
+title: "Owens said she did not find Cabot Phillips on Morning Wire f..."
+description: "\"Owens said she did not find Cabot Phillips on Morning Wire from September 4 through September 10, while noting that he was not a daily host\" — Candace Owens"
 statement_id: "statement-88ef12af870f"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "false"
 
 ## Statement
 
-> Cabot Phillips is missing from the Morning Wire show from September 4th to September 10th
+> Owens said she did not find Cabot Phillips on Morning Wire from September 4 through September 10, while noting that he was not a daily host
 
 ## Attribution
 
@@ -24,23 +24,13 @@ veracity: "false"
 - [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Cabot Phillips](/entities/person-cabot-phillips.md) (person)
 
-## Appearances (2)
-
-### 1. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
+## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2579);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2579s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I checked and he's missing from the morning wire. He doesn't do it daily, but he does it enough times that I noticed that he is missing from September 4th to the September 10th on that show.
-
-### 2. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
-
-**Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:43:06](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2586);return false;">Play</a>
-
-> I noticed that he is missing from September 4th to the September 10th on that show
 
 ## Verification
 

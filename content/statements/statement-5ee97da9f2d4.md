@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:33:24](/episodes/ep-JQjCAsfoXEE.md#t-00-32-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2004);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2004s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I would say an organization of that size that misses their deadline—their tax deadline—for the first time, that's a little weird. Yes, they did.
 

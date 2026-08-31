@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:07:06](/episodes/ep-9hRcfSrri70.md#t-00-06-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(426);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=426s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't get the logic. And he said that's in the preview of law enforcement. He meant in the purview of law enforcement.
 

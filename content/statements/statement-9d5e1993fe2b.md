@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:10:53](/episodes/ep-BxN2-aeMYIs.md#t-00-10-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(653);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=653s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then that plane flies from El Paso to Andrews Air Force Base in Washington, D.C. The reason that flight was relevant and caught a lot of attention early on was because it used a SAM call sign, SAM 702.
 

@@ -281,7 +281,7 @@ youtube_url: "https://www.youtube.com/watch?v=xi8SYJTUXPM"
   - About: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Israel](/entities/gpe-israel.md)
 - [00:17:28](#t-00-17-09) [◐] (Claim) **Candace Owens**: ["The gun patent that interested Lori Frantzve and Larry Guinta is now approved an..."](/statements/statement-c5d141a804da.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md)
-- [00:18:21](#t-00-18-21) [○] (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)**: ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pending gun pa..."](/statements/statement-2c06601c490a.md)
+- [00:18:21](#t-00-18-21) [○] (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)**: ["Owens alleged that, in late 2016, Lori Frantzve and Larry Guinta met the holders..."](/statements/statement-2c06601c490a.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md), [GTEC Industries](/entities/org-gtec-industries.md)
 - [00:19:10](#t-00-18-56) [○] (Claim) **Candace Owens**: ["Lori Frantzve was doing government deals involving GTEC Industries' electromagne..."](/statements/statement-bfdbc1e5443e.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [GTEC Industries](/entities/org-gtec-industries.md), [Electromagnetic pulse](/entities/concept-electromagnetic-pulse.md)

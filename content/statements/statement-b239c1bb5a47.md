@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:05:08](/episodes/ep-_cNtgris8Ik.md#t-00-04-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(308);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=308s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Broadly speaking, yes, everything that we saw Terrell do in terms of violating the crime scene, using Charlie's chair to climb up and remove the camera. ... that was behind Charlie's head and then taking that SD card and inserting it into his pocket, potentially altering it, could indeed register as a very serious legal offense. ... In the state of Utah, he could be charged with a felony for tampering with evidence, just as he suggests, which is defined under the Utah code as altering, destroying, concealing, or removing a thing or item with the purpose of impairing its veracity or availability of the thing or item in the preceding or investigation.
 

@@ -21,7 +21,7 @@ _Type: People_
 Source: [Influencer Tate brothers, who face human trafficking charges in Romania, arrive in the US | AP](https://www.ap.org/news-highlights/spotlights/2025/influencer-tate-brothers-who-face-human-trafficking-charges-in-romania-arrive-in-the-us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02">2025-09-25 · 00:36:20</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02">2025-09-25 · 00:36:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45">2026-08-06 · 00:55:45</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>16</strong></div>
@@ -37,8 +37,8 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02" style="--pulse-height:17%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17" style="--pulse-height:17%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27" style="--pulse-height:50%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-55-02" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-tate-t-00-49-40" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-01-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
@@ -49,8 +49,8 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 |---|---|---:|
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27) | 3 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-02) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-tate-t-00-49-40) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-01-29) | 6 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45) | 1 |
@@ -109,7 +109,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:26:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
 > "...er when she messaged me about Andrew Tate."
@@ -117,15 +117,12 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 **[00:26:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
 > "... someone on her show that was Andrew Tate's—one of the accusers' lawyers."
 
-**[00:27:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
-> "messaged me about Andrew Tate accusers lawyer"
-
 </details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
-**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04)**
+**[00:55:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-02)**
 > "She has sent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tuc..."
 
 </details>
@@ -141,7 +138,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
+**[00:36:15](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
 > "...unded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my ..."
 
 </details>
@@ -230,7 +227,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave ..."](/statements/statement-e74fc96d3122.md)
+- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-02) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave ..."](/statements/statement-e74fc96d3122.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 
 </details>

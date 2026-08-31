@@ -27,8 +27,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:03:40](/episodes/ep-SKGUzGHymcI.md#t-00-03-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(220);return false;">Play</a>
+**Timestamp:** [00:03:40](/episodes/ep-SKGUzGHymcI.md#t-00-03-12) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=220s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On the morning of Charlie (Charlie Kirk)'s assassination, the plane that had initially carried over the 12 or 14 quote-unquote Egyptians six days earlier—that plane, the yellow plane, departed on the morning at 7:14 a.m. local time from Provo, Utah. ... It arrived in Wilmington, Delaware at 11:51 a.m. Eastern. ... so about two and a half hours before Charlie (Charlie Kirk) is shot.
 

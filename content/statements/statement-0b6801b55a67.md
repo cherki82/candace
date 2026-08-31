@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:38:44](/episodes/ep-uC_GjKU8rs8.md#t-00-38-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2324);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2324s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to reach the campaign adds a new prong part into israel's u.s communication blitz implementing a 1.5 million dollar per a month contract for ai driven social media activity with former trump campaign strategist brad parscale and a contract with a firm called bridge partners to create an influencer network called the esther project
 

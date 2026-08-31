@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:14:29](/episodes/ep-DdPjoy5W-wY.md#t-00-13-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(869);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=869s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this human wanted power and she seized it. That's why she didn't even flinch. She didn't even wait a week.
 

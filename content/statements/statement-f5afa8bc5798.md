@@ -22,10 +22,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:11:16](/episodes/ep-aDlhjfW6hz8.md#t-00-10-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(676);return false;">Play</a>
+**Timestamp:** [00:10:30](/episodes/ep-aDlhjfW6hz8.md#t-00-10-30) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=630s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> There's nothing gory about this footage from the back
+> So in the short run, he agrees that rather than send the footage, he will get onto a FaceTime call with me and he will show me the footage on his computer. He did that, and I watched the footage, and I'm going to tell you what I saw. ... There's nothing gory about this footage from the back. The thing that really stood out to me—and I just kept asking him to replay it over and over and over again—is that there's no blood. There's no blood from the back.
 
 ## Verification
 

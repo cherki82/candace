@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:05:02](/episodes/ep-3QJqtW_NOSI.md#t-00-04-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(302);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it is the very reason why, when we discovered that Erika Kirk—or I should say Erika Frantzve—while she was living in New York City was hanging around—we discovered she was hanging around at the Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates. ... Again, the people who worked there alleged that Erika (Erika Kirk) was the point of contact for the model apartment and they find it to be suspicious because Jeffrey Epstein was often at their offices. ... These Eastern European women that they were bringing in for quote unquote suits described as men involved in the business and a lot of these women, they reflect, sort of disappeared.
 

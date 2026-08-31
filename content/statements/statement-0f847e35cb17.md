@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [01:01:28](/episodes/ep-eMtjzXkQrsU.md#t-01-01-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3688);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=3688s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That includes bots, guys. They are, in fact, using bot campaigns. They use fake accounts. Their idea is to flood the zone in comment sections, so be aware of that.
 

@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3473);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3473s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I basically said that the message of the church, my message, the message of the gospel, blessed are the peacemakers. ... And I will continue to speak out loud against war, looking to promote peace, promoting dialogue and multilateral relationships among the states to look for just solutions to problems. ... Too many people are suffering in the world today. Too many innocent people are being killed, and I think someone has to stand up and say there's a better way to do it.
 

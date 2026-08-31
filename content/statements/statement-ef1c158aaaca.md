@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:36:56](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2216);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2216s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was at my mom's doctor's appointment. I had my phone and I see the video come in of him flinging out the hats. ... He's been shot. Get the kids. Get security. Get the kids. Get the kids. He's been shot. I sprinted out of her treatment center and just collapsed in the middle of the parking lot.
 

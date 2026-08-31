@@ -17,7 +17,7 @@ _Type: People_
 Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.com/watch?v=ZAsV0fHGBiM)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16">2025-10-02 · 00:28:52</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-23">2025-10-02 · 00:28:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-38-15">2026-06-13 · 00:38:25</a></strong></div>
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
@@ -31,7 +31,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-elizabeth-lane-t-00-01-20">EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16" style="--pulse-height:75%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-23" style="--pulse-height:75%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-elizabeth-lane-t-00-04-51" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-elizabeth-lane-t-00-39-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-elizabeth-lane-t-00-21-34" style="--pulse-height:75%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-23) | 3 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-elizabeth-lane-t-00-04-51) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-elizabeth-lane-t-00-39-57) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-elizabeth-lane-t-00-21-34) | 3 |
@@ -200,10 +200,10 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
-**[00:28:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16)**
+**[00:28:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-23)**
 > "...ta have a lawyer that's working for the prosecution, right? Well, that's what's going on. Recently, Elizabeth Lane went on the Redacted podcast, and she discussed how the prosecutor is picking his opponent in the T..."
 
-**[00:29:05](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16)**
+**[00:29:05](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-23)**
 > "Take a listen to her explain that. [CLIP ATTRIBUTION: Elizabeth Lane and host speaking in this clip.]"
 
 **[00:29:07](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-29-07)**

@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [01:01:14](/episodes/ep-69A8TzAGHlU.md#t-01-00-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3674);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=3674s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here is his tweet about alleged hate speech, hateful rhetoric, said another way. He wrote on May 2nd, 2024, hate speech does not exist legally in America. ... There's ugly speech, there's gross speech, there's evil speech, and all of it is protected by the First Amendment. ... Keep America free.
 

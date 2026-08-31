@@ -1,8 +1,8 @@
 ---
-title: "Turning Point USA announced a livestream responding to Owens..."
-description: "\"Turning Point USA announced a livestream responding to Owens's claims for December 15, 2025\" — Candace Owens"
+title: "Jesse Kaag said the .30-06 is a very hard round to stop afte..."
+description: "\"Jesse Kaag said the .30-06 is a very hard round to stop after his ballistic test penetrated the water jugs.\" — Jesse Kaag"
 statement_id: "statement-96fc390f7ed0"
-speaker: "Candace Owens"
+speaker: "Jesse Kaag"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,27 +11,27 @@ veracity: "true"
 
 ## Statement
 
-> Turning Point USA announced a livestream responding to Owens's claims for December 15, 2025
+> Jesse Kaag said the .30-06 is a very hard round to stop after his ballistic test penetrated the water jugs.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Jesse Kaag](/entities/person-jesse-kaag.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** 1ShotTV
 
 ## About
 
-- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Jesse Kaag](/entities/person-jesse-kaag.md) (person)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:40:45](/episodes/ep-Kmt6HgRjckU.md#t-00-40-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2445);return false;">Play</a>
+**Timestamp:** [00:32:46](/episodes/ep-Kmt6HgRjckU.md#t-00-32-25) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1966s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> TP USA podcast to debunk things scheduled for the 15th
+> Well, we definitely penetrated our water jugs and I don't think this is gonna help to stop the conspiracy theories. ... The .30-06 is a very hard round to stop.
 
 ## Verification
 

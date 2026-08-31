@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:17:59](/episodes/ep-A39g5oqB_eM.md#t-00-17-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1079);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1079s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point USA and Turning Point Action will steam ahead, ... We have Charlie (Charlie Kirk) would want us to get back to work and that's what we're doing.
 

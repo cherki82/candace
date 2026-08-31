@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:23:27](/episodes/ep-r1PS67aRmcA.md#t-00-23-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1407);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=1407s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I sense that the pro-Israel lobby is on the brink of collapse.
 

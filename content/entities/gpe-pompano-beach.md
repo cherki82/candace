@@ -3,9 +3,17 @@ title: "Pompano Beach"
 description: "Pompano Beach (Places) - 1 mention"
 id: "gpe-pompano-beach"
 type: "GPE"
+categories:
+  - "Florida city"
 ---
 
 _Type: Places_
+
+**Categories:** Florida city
+
+**Entity verification:** verified
+> The official municipal site confirms Pompano Beach, Florida.
+Source: [City of Pompano Beach](https://www.pompanobeachfl.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-pompano-beach-t-00-18-59">2025-11-13 · 00:19:12</a></strong></div>

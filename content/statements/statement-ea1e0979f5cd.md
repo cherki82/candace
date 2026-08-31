@@ -1,8 +1,8 @@
 ---
 title: "Robinson implied that he was the shooter and stated that he ..."
-description: "\"Robinson implied that he was the shooter and stated that he could not go to jail and that he just wanted to end things.\" — Candace Owens"
+description: "\"Robinson implied that he was the shooter and stated that he could not go to jail and that he just wanted to end things.\" — Utah County Attorney's Office"
 statement_id: "statement-ea1e0979f5cd"
-speaker: "Candace Owens"
+speaker: "Utah County Attorney's Office"
 type: "accusation"
 ---
 
@@ -14,16 +14,17 @@ type: "accusation"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Utah County probable cause statement
 
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:15:47](/episodes/ep-q7f8r-THr84.md#t-00-15-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(947);return false;">Play</a>
+**Timestamp:** [00:15:47](/episodes/ep-q7f8r-THr84.md#t-00-15-09) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=947s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And as they discussed the situation, Robinson implied—"implied" is the word they use here—that he was the shooter and stated that he could not go to jail and that he just wanted to end things
 

@@ -1,6 +1,6 @@
 ---
 title: "Seth Dillon"
-description: "Seth Dillon (People) - 69 mentions"
+description: "Seth Dillon (People) - 70 mentions"
 id: "person-seth-dillon"
 type: "PERSON"
 categories:
@@ -19,33 +19,34 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33">2025-09-15 · 00:18:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-seth-dillon-t-00-51-46">2026-07-23 · 00:51:46</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-34-51">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (11 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-35-00">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33" style="--pulse-height:55%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 6 mentions" title="2025-09-15 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-40-20" style="--pulse-height:45%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47" style="--pulse-height:36%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-40-15" style="--pulse-height:36%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 4 mentions" title="2025-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47" style="--pulse-height:27%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-seth-dillon-t-00-29-48" style="--pulse-height:9%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-01-58" style="--pulse-height:18%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-seth-dillon-t-00-08-20" style="--pulse-height:9%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33" style="--pulse-height:18%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-seth-dillon-t-00-44-21" style="--pulse-height:9%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-34-51" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 11 mentions" title="2025-10-30 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-35-00" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 11 mentions" title="2025-10-30 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-seth-dillon-t-00-34-46" style="--pulse-height:27%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37" style="--pulse-height:45%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42" style="--pulse-height:9%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-50" style="--pulse-height:18%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-39" style="--pulse-height:18%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39" style="--pulse-height:9%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56" style="--pulse-height:9%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56" style="--pulse-height:18%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-seth-dillon-t-00-30-03" style="--pulse-height:18%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-52-45" style="--pulse-height:9%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-seth-dillon-t-00-40-43" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-57-40" style="--pulse-height:9%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -63,20 +64,21 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33) | 6 |
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-40-20) | 5 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47) | 4 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-40-15) | 4 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47) | 3 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-seth-dillon-t-00-29-48) | 1 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-01-58) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-seth-dillon-t-00-08-20) | 1 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33) | 2 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-seth-dillon-t-00-44-21) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-34-51) | 11 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-35-00) | 11 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-seth-dillon-t-00-34-46) | 3 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37) | 5 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-50) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-39) | 2 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39) | 1 |
-| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56) | 2 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-seth-dillon-t-00-30-03) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-52-45) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-seth-dillon-t-00-40-43) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-57-40) | 1 |
@@ -99,7 +101,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -226,10 +228,24 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
 
-**[00:46:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56)**
+**[00:30:28](/episodes/ep-es7PWdFGoFI.md#ent-person-seth-dillon-t-00-30-03)**
+> "... been clear about that. Like, Seth Dillon definitively pressed Charlie (Charlie Kirk) at th..."
+
+**[00:30:53](/episodes/ep-es7PWdFGoFI.md#ent-person-seth-dillon-t-00-30-46)**
+> "...when I wasn't going, oh, well Seth Dillon killed Charlie Kirk. I just like, this happened, ..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:46:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56)**
 > "I know Alex and Lila really well. I know Seth"
+
+**[00:45:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-18)**
+> "I know Seth."
 
 </details>
 
@@ -244,10 +260,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
-**[00:24:01](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-50)**
+**[00:24:01](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-39)**
 > "...on my radar since you were involved in creating the lie—the alibi lie—for the Hamptons retreat with Seth Dillon. You lied, okay? Seth Dillon did press Charlie (Charlie Kirk). Charlie (Charlie Kirk) himself descr..."
 
-**[00:24:12](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-50)**
+**[00:24:11](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-39)**
 > "...volved in creating the lie—the alibi lie—for the Hamptons retreat with Seth Dillon. You lied, okay? Seth Dillon did press Charlie (Charlie Kirk). Charlie (Charlie Kirk) himself described the Hamptons event as an..."
 
 </details>
@@ -297,13 +313,13 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (11 mentions)</summary>
 
-**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-34-51)**
+**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-35-00)**
 > "Anyways, Seth Dillon—another resident psycho on X who pretended once u..."
 
-**[00:35:18](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-34-51)**
+**[00:35:18](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-35-00)**
 > "And yes, this is the same Seth Dillon at that notorious Hamptons Summit—who I told you ..."
 
-**[00:35:36](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-35-27)**
+**[00:35:36](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-35-00)**
 > "... that in large part thanks to Seth Dillon, who was leading the pack on questioning Charlie ..."
 
 **[00:37:39](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-37-39)**
@@ -315,19 +331,19 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 **[00:39:32](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-39-12)**
 > "And Seth Dillon, you're aware of this because you put him through..."
 
-**[00:45:22](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-44-47)**
+**[00:45:15](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-44-47)**
 > "...pressing him at the Hamptons. Seth Dillon, Josh Hammer on the text—hearing what he was goin..."
 
-**[00:47:51](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-47-29)**
+**[00:47:51](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-47-26)**
 > "...hin the struggle session—that Seth Dillon was putting—actually was this on a separate show?"
 
-**[00:48:05](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-47-29)**
+**[00:48:05](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-48-05)**
 > "Okay, listen to what Seth Dillon says about why Nick Fuentes is a terrible human."
 
-**[00:54:18](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-53-44)**
+**[00:54:18](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-54-05)**
 > "...hich is going to deeply upset Seth Dillon."
 
-**[00:59:56](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-59-56)**
+**[00:59:53](/episodes/ep-iHav0PPzUz8.md#ent-person-seth-dillon-t-00-59-53)**
 > "...blicly like this—when you see Seth Dillon and Josh Hammer out there—you better bet there's ..."
 
 </details>
@@ -343,7 +359,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:04:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33)**
+**[00:04:07](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33)**
 > "...k)'s views were changing. He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel. ..."
 
 **[00:04:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-04-17)**
@@ -366,7 +382,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 > "...arlie Kirk) had written him back in May. What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not ..."
 
 **[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
-> "...you kind of removed the names that were involved in this conversation. Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him, and Seth Dillon and Josh ..."
+> "Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him, and Seth Dillon and Josh Hammer—Josh Hammer didn't jump on him in that moment—were not happy."
 
 </details>
 
@@ -374,43 +390,37 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
 
 **[00:30:13](/episodes/ep-ja26iltROkM.md#ent-person-seth-dillon-t-00-29-48)**
-> "... close friend of Charlie Kirk (Charlie Kirk) shared these messages." I'm going to guess it's either Seth Dillon or Josh Hammer. Could not be, but I'm just putting that out there because of the style of the messa..."
+> "I'm going to guess it's either Seth Dillon or Josh Hammer."
 
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
 
-**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
+**[00:47:11](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
 > "...line that much. But there was a huge effort by people—some of whom I know and have helped and like— Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously..."
 
 **[00:47:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
-> "Seth Dillon of the Babylon Bee, someone who had his own problems with free speech"
-
-**[00:47:25](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
 > "...e, for example. Someone who had his own problems with free speech—who was famously canceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there d..."
 
-**[00:47:29](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-47-29)**
+**[00:47:27](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-47-27)**
 > "...anceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there demanding that Charlie (Charlie Kirk) take me off the roster—pull me off stage—becaus..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4 mentions)</summary>
 
-**[00:40:32](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-40-20)**
-> "...tic this situation under control, because they know I'm telling the truth, okay? Frantic calls from Seth Dillon, oh my God. The truth is that Charlie (Charlie Kirk) was under immense pressure and he was facing f..."
+**[00:40:32](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-40-15)**
+> "Frantic calls from Seth Dillon, oh my God. The truth is that Charlie (Charlie Kirk) was under immense pressure and he was facing financial threats over his shifting stance on Israel, over who he was hosting, over—from his podcast to people that were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson)."
 
-**[00:40:52](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-40-20)**
-> "Frantic calls from Seth Dillon, oh my God. The truth is that Charlie was under immense pressure"
-
-**[00:41:45](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-41-45)**
+**[00:41:45](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-41-27)**
 > "...y're all like, you know, at every layer, Charlie (Charlie Kirk) was facing pressure, questions from Seth Dillon. There's no way around that truth that they were not happy with his position, his modified position..."
 
-**[00:42:32](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-42-21)**
+**[00:42:32](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-42-01)**
 > "...ted, 'I think that Benjamin Netanyahu should resign,'" that he would then be unfairly attacked. And Seth Dillon then allegedly pipes up and goes back and forth with him quite aggressively, saying like, yeah, bec..."
 
-**[00:43:40](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-43-40)**
+**[00:43:39](/episodes/ep-q7f8r-THr84.md#ent-person-seth-dillon-t-00-43-25)**
 > "...esentation by Benjamin Netanyahu and his echo here in America, of which I would say Josh Hammer and Seth Dillon are part of that echo, okay? I am in no way attacking that narrative and associating it with the ev..."
 
 </details>
@@ -430,7 +440,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 **[00:19:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
 > "...te right now to be polite when it comes to the answers that I am demanding, okay? This is me out to Seth Dillon last night. I sent him Bill Ackman's tweets because, you know, he tweeted, “I feel incredibly privi..."
 
-**[00:23:59](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+**[00:23:58](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
 > "If you've been listening to my show, Seth Dillon, I was going to go out to Seth Dillon"
 
 **[00:25:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-25-24)**
@@ -473,9 +483,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <summary>Affiliated With (1)</summary>
 
 - **[The Babylon Bee](/entities/org-babylon-bee.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:31:24](/episodes/ep-4YgrOhhy708.md#t-00-31-24): “Seth Dillon gets up there of the Babylon Bee”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:47:11](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47): “Seth Dillon of the Babylon Bee, for example.”
 
 </details>
 
@@ -487,19 +498,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07): “Seth Dillon definitively pressed Charlie at this event.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Critic Of (1)</summary>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:28](/episodes/ep-es7PWdFGoFI.md#t-00-30-03): “I think I've been clear about that. Like, Seth Dillon definitively pressed Charlie (Charlie Kirk) at this event. Whether it was in a hypothetical, which it was in a hypothetical, but he got fired up in the hypothetical, of Charlie (Charlie Kirk) discussing, potentially tweeting something against Bibi Netanyahu, it did lead to this firecracker moment.”
 
 </details>
 
@@ -511,7 +510,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:47:20](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47): “Seth Dillon of the Babylon Bee... a huge effort by people to attack Tucker”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:47:27](/episodes/ep-2WEHTk0Xewg.md#t-00-47-27): “Seth Dillon was out there demanding that Charlie (Charlie Kirk) take me off the roster—pull me off stage—because I had said things that Benjamin Netanyahu didn't like or that he didn't like or whatever.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:35:00](/episodes/ep-YFmRH8p5lt0.md#t-00-34-46): “Seth Dillon is angry.”
 
 </details>
@@ -548,19 +547,19 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details>
-<summary>Friend Of (1)</summary>
+<summary>Interviewed By (1)</summary>
 
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:47:20](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47): “I like Seth Dillon. I had him on a couple of times.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Met With (4)</summary>
+<summary>Met With (2)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -570,24 +569,13 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “you were present when Ackman lost his mind on Charlie and when Benjamin invited him to Israel”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “according to Charlie (Charlie Kirk), he felt that he was being morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others.”
-
-</details>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:58](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “He was unable to speak to me, but he did place some frantic calls to Turning Point USA.”
-
-</details>
-
-- **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:40](/episodes/ep-czVBmqZP6Ss.md#t-00-19-58): “I decided to message him last night about this Hamptons meeting.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:24:11](/episodes/ep-MUA9ebCF4Ow.md#t-00-23-39): “Seth Dillon did press Charlie (Charlie Kirk). Charlie (Charlie Kirk) himself described the Hamptons event as an intervention.”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:04:07](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33): “He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel.”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:42:32](/episodes/ep-q7f8r-THr84.md#t-00-42-01): “And Seth Dillon then allegedly pipes up and goes back and forth with him quite aggressively, saying like, yeah, because that would be antisemitic.”
 
 </details>
 
@@ -606,7 +594,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -627,7 +615,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07): “Seth Dillon definitively pressed Charlie at this event.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:28](/episodes/ep-es7PWdFGoFI.md#t-00-30-03): “I think I've been clear about that. Like, Seth Dillon definitively pressed Charlie (Charlie Kirk) at this event. Whether it was in a hypothetical, which it was in a hypothetical, but he got fired up in the hypothetical, of Charlie (Charlie Kirk) discussing, potentially tweeting something against Bibi Netanyahu, it did lead to this firecracker moment.”
 
 </details>
 
@@ -661,18 +649,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 
 </details>
 
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer [as Charlie's close friend who shared the messages]”
-
-</details>
-
-- **[Candace Owens](/entities/person-candace-owens.md)** met with this
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:40](/episodes/ep-czVBmqZP6Ss.md#t-00-19-58): “I decided to message him last night about this Hamptons meeting.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:47:20](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47): “I like Seth Dillon. I had him on a couple of times.”
 
 </details>
 
@@ -684,24 +664,13 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “you were present when Ackman lost his mind on Charlie and when Benjamin invited him to Israel”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “according to Charlie (Charlie Kirk), he felt that he was being morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others.”
-
-</details>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:58](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “He was unable to speak to me, but he did place some frantic calls to Turning Point USA.”
-
-</details>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** target of criticism from this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:24:11](/episodes/ep-MUA9ebCF4Ow.md#t-00-23-39): “Seth Dillon did press Charlie (Charlie Kirk). Charlie (Charlie Kirk) himself described the Hamptons event as an intervention.”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:04:07](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33): “He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel.”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:42:32](/episodes/ep-q7f8r-THr84.md#t-00-42-01): “And Seth Dillon then allegedly pipes up and goes back and forth with him quite aggressively, saying like, yeah, because that would be antisemitic.”
 
 </details>
 
@@ -731,10 +700,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (4)</summary>
 
 - [00:33:59](/episodes/ep-4YgrOhhy708.md#t-00-33-59) [◐] (Claim) ["The Hamptons meeting was not an aggressive intervention; it was a retreat Charli..."](/statements/statement-fc07fcf11e2b.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [The Hamptons](/entities/gpe-the-hamptons.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Hamptons](/entities/gpe-hamptons.md)
 
 - [00:34:48](/episodes/ep-4YgrOhhy708.md#t-00-34-43) [✓] (Claim) ["There was heated debate about Israel at the Hamptons retreat, and Charlie Kirk i..."](/statements/statement-5084ad821833.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [The Hamptons](/entities/gpe-the-hamptons.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Hamptons](/entities/gpe-hamptons.md)
 
 - [00:35:56](/episodes/ep-4YgrOhhy708.md#t-00-35-56) [◐] (Accusation) ["Candace Owens lied by portraying the Hamptons retreat as Jews trying to blackmai..."](/statements/statement-47a0c1108c21.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Seth Dillon](/entities/person-seth-dillon.md)
@@ -747,7 +716,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Seth Dillon (17)</strong></summary>
+<summary><strong class="section-title">Statements about Seth Dillon (19)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -777,19 +746,19 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (5)</summary>
 
 - [00:35:56](/episodes/ep-4YgrOhhy708.md#t-00-35-56) (Accusation) **Seth Dillon**: ["Candace Owens lied by portraying the Hamptons retreat as Jews trying t..."](/statements/statement-47a0c1108c21.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The Hamptons](/entities/gpe-the-hamptons.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Hamptons](/entities/gpe-hamptons.md)
 
 - [00:36:10](/episodes/ep-4YgrOhhy708.md#t-00-36-10) (Accusation) **Seth Dillon**: ["Candace Owens's 'I Know What You Did Last Summer' image implied Seth D..."](/statements/statement-51f7f0ee15a7.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [I Know What You Did Last Summer](/entities/work-i-know-what-you-did-last-summer-1997.md)
 
 - [00:36:55](/episodes/ep-4YgrOhhy708.md#t-00-36-21) (Accusation) **Candace Owens**: ["Seth Dillon lied and adjusted his account of the Hamptons meeting; Can..."](/statements/statement-60802df79ae0.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The Hamptons](/entities/gpe-the-hamptons.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Hamptons](/entities/gpe-hamptons.md)
 
 - [00:38:41](/episodes/ep-4YgrOhhy708.md#t-00-38-02) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer lied about the Hamptons meeting; it was he..."](/statements/statement-6e4c4e59c566.md)
-  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The Hamptons](/entities/gpe-the-hamptons.md)
+  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Hamptons](/entities/gpe-hamptons.md)
 
 - [00:39:35](/episodes/ep-4YgrOhhy708.md#t-00-39-25) (Accusation) **Candace Owens**: ["Seth Dillon, Turning Point USA figures, and their allies are protectin..."](/statements/statement-e16516e79333.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The Hamptons](/entities/gpe-the-hamptons.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Hamptons](/entities/gpe-hamptons.md)
 
 </details>
 
@@ -802,12 +771,9 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:30:34](/episodes/ep-es7PWdFGoFI.md#t-00-30-07) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons retreat in a hypothet..."](/statements/statement-a1c5ecc4394f.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-
-- [00:30:59](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons event in a hypothetic..."](/statements/statement-3f92cbaa3000.md)
+- [00:30:28](/episodes/ep-es7PWdFGoFI.md#t-00-30-03) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons event in a hypothetic..."](/statements/statement-3f92cbaa3000.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
@@ -815,14 +781,22 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
-- [00:35:18](/episodes/ep-iHav0PPzUz8.md#t-00-34-51) (Accusation) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons Summit a couple of we..."](/statements/statement-f0c2628006da.md)
+- [00:35:18](/episodes/ep-iHav0PPzUz8.md#t-00-35-00) (Accusation) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons Summit a couple of we..."](/statements/statement-f0c2628006da.md)
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:44:32](/episodes/ep-pc3pxRyNFZk.md#t-00-44-21) (Accusation) **Candace Owens** (via paraphrase): ["Owens accused Josh Hammer of lying and said his public statement claim..."](/statements/statement-7fe163330e69.md)
+  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Hamptons](/entities/gpe-hamptons.md)
 
 </details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
 
-- [00:04:14](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-a81ef1a260d0.md)
+- [00:04:14](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Opinion) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-a81ef1a260d0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Josh Hammer](/entities/person-josh-hammer.md)
 
 - [00:04:25](/episodes/ep-2Riv3I7D0Yk.md#t-00-04-17) (Claim) **Candace Owens**: ["Seth Dillon was more vocal of the two parties in the Hamptons in terms..."](/statements/statement-498e69fe5e18.md)
@@ -831,25 +805,27 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (4)</summary>
 
-- [00:05:11](/episodes/ep-K5GjF53bfN4.md#t-00-05-05) (Claim) **Candace Owens**: ["Natasha Hausdorff and Seth Dillon were at the Hamptons meeting, and Se..."](/statements/statement-db58e00a8ec8.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58) (Accusation) **Candace Owens**: ["Josh Hammer and Seth Dillon have not been honest or forthcoming about ..."](/statements/statement-352decbb4217.md)
+  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-</details>
+- [00:02:40](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) (Accusation) **Candace Owens**: ["Owens said she believed Josh Hammer and Seth Dillon were lying by omis..."](/statements/statement-4a3091721785.md)
+  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-<details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
+- [00:05:11](/episodes/ep-K5GjF53bfN4.md#t-00-05-11) (Accusation) **Candace Owens**: ["Seth Dillon was the one that was applying pressure to him, and Seth Di..."](/statements/statement-0d37b073c27f.md)
+  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:47:18](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) (Accusation) **Tucker Carlson** (via quoted speech): ["Seth Dillon of the Babylon Bee was demanding that Charlie Kirk take Tu..."](/statements/statement-b6186ebec191.md)
+- [00:05:11](/episodes/ep-K5GjF53bfN4.md#t-00-05-11) (Accusation) **Candace Owens**: ["Natasha Hausdorff and Seth Dillon were at the Hamptons meeting, and Se..."](/statements/statement-db58e00a8ec8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Natasha Hausdorff](/entities/person-natasha-hausdorff.md)
 
 </details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
 
-- [00:42:34](/episodes/ep-q7f8r-THr84.md#t-00-42-21) (Accusation) **Candace Owens**: ["Seth Dillon allegedly went back and forth aggressively with Charlie Ki..."](/statements/statement-81d5d5252702.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:42:32](/episodes/ep-q7f8r-THr84.md#t-00-42-01) (Accusation) **Hamptons gathering attendee sources (identities unverified)** (via quoted speech): ["Hamptons gathering attendee sources reportedly alleged that Seth Dillo..."](/statements/statement-81d5d5252702.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
 

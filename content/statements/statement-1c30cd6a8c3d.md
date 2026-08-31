@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:45:44](/episodes/ep-sKuYLNx3iRo.md#t-00-45-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2744);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2744s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Semafor actually produced a chart showing the decline of a daily wire. It's remarkable. The revenue growth has slowed. ... They've admitted that they had no subscriber growth this past year. Their advertising, go back to the advertising on the right hand side, seeing how that has dropped.
 

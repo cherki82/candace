@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2986);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=2986s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The rumor is that Turning Point Action was missing $10 million and Turning Point Action actually built a backdoor. It has connections to Erika's mother.
 

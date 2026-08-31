@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:03:31](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(211);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=211s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The one that is in St. George, Utah, which is where Tyler Robinson was. was brought in is lodge number 33 okay 33 also being the country code for paris now americans are not used to the discussion about freemasonry so this all felt very new and i feel like people weren't really ready to have this conversation because we go to public school we're told like paul revere they don't tell you that he was like a rosha crucial freemason but he was like the british are coming the british are coming he actually never actually said that either
 

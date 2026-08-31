@@ -81,7 +81,7 @@ _No relationships extracted yet._
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
 
 - [00:12:02](/episodes/ep-BxN2-aeMYIs.md#t-00-11-52) (Claim) **Candace Owens**: ["Pete Hegseth was photographed in Washington, D.C., at 3 p.m. on Septem..."](/statements/statement-be73fd658149.md)
-  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>
 

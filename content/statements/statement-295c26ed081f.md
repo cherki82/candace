@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1464);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1464s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He has his bag, as assistants do, have been many of these events, and he's speaking, he's speaking with Dan Flood, and this is around 12-15, I'm going to show you that, you can see he's wearing a bright blue shirt in the corner there, that's him talking, you could just catch him with his bag that's pointing, and then what happens after that, Dan's obviously talking into his shirt, then Nate (Nate Walker), With, I guess we're less than T minus 10 before the explosive goes off, suddenly he's upstairs when that happens. He is, this is him immediately following the explosive around 1225, so about I guess a minute and 45 seconds afterward. Here he is up near the flag of Hall's walkway. putting on sunglasses and he doesn't have his bag it
 

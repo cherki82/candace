@@ -1,6 +1,6 @@
 ---
 title: "National Counterterrorism Center"
-description: "National Counterterrorism Center (Organizations) - 3 mentions"
+description: "National Counterterrorism Center (Organizations) - 4 mentions"
 id: "org-national-counterterrorism-center"
 type: "ORG"
 aliases:
@@ -21,13 +21,13 @@ _Type: Organizations_
 Source: [About - National Counterterrorism Center](https://www.odni.gov/about/mission-centers-directorates/nctc/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-national-counterterrorism-center-t-00-04-47">2026-03-17 · 00:04:47</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-national-counterterrorism-center-t-00-20-35">2025-10-29 · 00:21:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-national-counterterrorism-center-t-00-02-42">2026-03-23 · 00:02:42</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,7 @@ Source: [About - National Counterterrorism Center](https://www.odni.gov/about/mi
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-national-counterterrorism-center-t-00-04-47">HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-national-counterterrorism-center-t-00-20-35" style="--pulse-height:50%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-national-counterterrorism-center-t-00-04-47" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-national-counterterrorism-center-t-00-02-42" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
@@ -42,6 +43,7 @@ Source: [About - National Counterterrorism Center](https://www.odni.gov/about/mi
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-national-counterterrorism-center-t-00-20-35) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-national-counterterrorism-center-t-00-04-47) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-national-counterterrorism-center-t-00-02-42) | 1 |
 
@@ -51,7 +53,7 @@ Source: [About - National Counterterrorism Center](https://www.odni.gov/about/mi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
@@ -69,6 +71,14 @@ Source: [About - National Counterterrorism Center](https://www.odni.gov/about/mi
 
 **[00:14:25](/episodes/ep-I0OaY6Gryqk.md#ent-org-national-counterterrorism-center-t-00-13-58)**
 > "director of National Counterterrorism Center, could not have come at a better time. What? Like..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:21:09](/episodes/ep-Qt0VHV-POCg.md#ent-org-national-counterterrorism-center-t-00-20-35)**
+> "National Counterterrorism Center"
 
 </details>
 
@@ -91,7 +101,26 @@ Source: [About - National Counterterrorism Center](https://www.odni.gov/about/mi
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Has Director (1)</summary>
+
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:21:09](/episodes/ep-Qt0VHV-POCg.md#t-00-20-35): “They lead the National Counterterrorism Center—Joe Kent does—and”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Joe Kent](/entities/person-joe-kent.md)** director of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:21:09](/episodes/ep-Qt0VHV-POCg.md#t-00-20-35): “They lead the National Counterterrorism Center—Joe Kent does—and”
+
+</details>
 
 - **[Joe Kent](/entities/person-joe-kent.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>

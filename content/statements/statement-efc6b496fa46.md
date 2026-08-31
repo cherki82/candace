@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:24:07](/episodes/ep-X92MllIHDzw.md#t-00-23-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1447);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1447s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > but what we can be certain of regarding Nelda Buckman is that she is an executive producer, she's also an artist, she's also a philanthropist, and like Erika, which is the compelling part here, she has done extensive work with foster children and in particular sex trafficking victims.
 

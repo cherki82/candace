@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:32:32](/episodes/ep-UYkXV9mYbT4.md#t-00-32-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1952);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=1952s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The summary, again, just summary, DNA reports produced by the FBI and the ATF indicate that both agencies recovered minute quantities of DNA on various items of evidence, which the reports opine consist of mixtures of up to five or more individuals.
 

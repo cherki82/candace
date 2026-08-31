@@ -31,7 +31,7 @@ Source: [About Fortune](https://fortune.com/about-us/)
 <p>Highest activity: <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-fortune-t-00-07-02">Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-fortune-t-00-52-06" style="--pulse-height:50%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-fortune-t-00-49-53" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-fortune-t-00-49-47" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-fortune-t-00-07-02" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-fortune-t-00-46-24" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 </div>
@@ -40,7 +40,7 @@ Source: [About Fortune](https://fortune.com/about-us/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-fortune-t-00-52-06) | 1 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-fortune-t-00-49-53) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-fortune-t-00-49-47) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-fortune-t-00-07-02) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-fortune-t-00-46-24) | 1 |
 
@@ -74,7 +74,7 @@ Source: [About Fortune](https://fortune.com/about-us/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
 
-**[00:50:00](/episodes/ep-pc3pxRyNFZk.md#ent-org-fortune-t-00-49-53)**
+**[00:50:00](/episodes/ep-pc3pxRyNFZk.md#ent-org-fortune-t-00-49-47)**
 > "...s there so that it cannot be a threat to Israel or to Egypt? I think that both sides are spending a fortune on military. I think neither side really wants to have a terrorist organization enclave right betwe..."
 
 </details>

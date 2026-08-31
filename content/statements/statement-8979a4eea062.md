@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:35:15](/episodes/ep-iB-YtO3UZOg.md#t-00-35-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2115);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2115s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This next person said that they're a transplant coordinator, previously a scrub nurse in the OR for years, and I worked at a level one trauma center. I have scrubbed in on more gunshot wounds than I could ever count. ... I have never seen thoracic trauma or hemorrhaging, for that matter, in a gunshot wound to the head or neck. ... There would have to have been a blunt force trauma to the chest, which would make a lot of sense if his microphone exploded under his shirt.
 

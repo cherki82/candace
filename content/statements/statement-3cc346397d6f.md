@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:43:09](/episodes/ep-cPidFQDJLbo.md#t-00-43-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2589);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=2589s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I apologized to Theo (Theo Von). He knows I love him and we he said that and we laughed and we joked around about it and I apologize for the way I talked about this ... it certainly wasn't like trying to paint him out like he's damaged or treat him like a child
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:05:31](/episodes/ep-HZvwbfePe7o.md#t-00-04-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(331);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=331s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's absurd. I toured with him every year. I had a contract with Turning Point USA to do just that.
 

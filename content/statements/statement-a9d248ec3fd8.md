@@ -20,13 +20,13 @@ type: "factual_claim"
 
 ## About
 
-- [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md) (gpe)
+- [Phoenix](/entities/gpe-phoenix.md) (gpe)
 
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:39:27](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2367);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2367s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So then I determined that the place in question is not a hospital at all. There's no way anyone would describe it as a hospital. ... It would be more appropriately described as an IV therapy place. If you were going to compare it to anything, it is a holistic clinic, which is a good thing. I'm all for holistic medicine.
 

@@ -1,6 +1,6 @@
 ---
 title: "JAY-Z"
-description: "JAY-Z (People) - 18 mentions"
+description: "JAY-Z (People) - 16 mentions"
 id: "person-jay-z"
 type: "PERSON"
 aliases:
@@ -25,8 +25,8 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-jay-z-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09">2026-02-11 · 00:38:48</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -38,10 +38,9 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jay-z-t-00-21-12">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-jay-z-t-00-09-13" style="--pulse-height:40%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-jay-z-t-00-50-50" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-42" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-jay-z-t-00-50-40" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-26" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-jay-z-t-00-38-34" style="--pulse-height:20%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-jay-z-t-00-47-54" style="--pulse-height:20%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jay-z-t-00-21-12" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-jay-z-t-00-04-02" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 5 mentions" title="2026-02-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
@@ -51,10 +50,9 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-jay-z-t-00-09-13) | 2 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jay-z-t-00-50-50) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-42) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jay-z-t-00-50-40) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-26) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-jay-z-t-00-38-34) | 1 |
-| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-jay-z-t-00-47-54) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jay-z-t-00-21-12) | 5 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-jay-z-t-00-04-02) | 5 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09) | 1 |
@@ -65,7 +63,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -124,17 +122,9 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
-
-**[00:47:57](/episodes/ep-ZAuuSq_j2_w.md#ent-person-jay-z-t-00-47-54)**
-> "...You guys can keep sitting by yourselves forever, cool kids. Can we get the real kids? I don't know. Jay-Z writes: "The way they set the time and said it's confirmed. Confirmed with who?" Amongst themselves..."
-
-</details>
-
-<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:28:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-42)**
+**[00:28:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-26)**
 > "...y run Vegas? And a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy." "Jay-Z, Beyoncé—and she also owns the home church, Churchome, to get Bieber from Hillsong." I looked that ..."
 
 </details>
@@ -142,7 +132,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:51:03](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jay-z-t-00-50-50)**
+**[00:51:03](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jay-z-t-00-50-40)**
 > "...t Mar-a-Lago doesn't mean that it's not a gangster. It's no different. It's no different from where Jay-Z came from in the projects selling crack. It's just wearing a ball gown. It's at Mar-a-Lago. But tha..."
 
 </details>
@@ -154,7 +144,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 > "...ado, and I put on a Kanye song, you know, on my playlist, and Charlie (Charlie Kirk) goes, “Is this Jay-Z?” I almost made him pull over the vehicle. I was like, “Are you kidding me? Okay, I understand that..."
 
 **[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-jay-z-t-00-09-13)**
-> "...y, I understand that you don't do culture, but like, come on, you don't know the difference between Jay-Z and Kanye?” And he didn't, and I explained to him the difference. I was like, “Okay, you got to get..."
+> "Okay, I understand that you don't do culture, but like, come on, you don't know the difference between Jay-Z (Jay-Z) and Kanye (Kanye West)?" And he didn't, and I explained to him the difference."
 
 </details>
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:41:11](/episodes/ep-_vg7ucP1E0g.md#t-00-40-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2471);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=2471s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Grieving widows do not lie about threats that their husbands were facing the night before their death. They don't lie about that stuff.
 

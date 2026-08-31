@@ -26,10 +26,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:05:34](/episodes/ep-pc3pxRyNFZk.md#t-00-04-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(334);return false;">Play</a>
+**Timestamp:** [00:05:34](/episodes/ep-pc3pxRyNFZk.md#t-00-05-11) 
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=334s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They did not recover a bullet from a .30-06. ... If they had found a .30-06 bullet, Charlie Kirk's (Charlie Kirk's) death certificate certainly would have reflected that. ... when the gun and the bullet are known, they are reflected onto the death certificate, okay? ... There is not one reflected onto Charlie Kirk's (Charlie Kirk's) death certificate because they did not recover a bullet from a .30-06.
+> They did not recover a bullet from a .30-06. They didn't recover a bullet from a .30-06. This didn't happen, okay? If they had found a .30-06 bullet, Charlie Kirk's death certificate certainly would have reflected that. In suicide situations—that's just one example; medical examiners, feel free to chime in— I've spoken to quite a few, but when the gun and the bullet are known, they are reflected onto the death certificate, okay? There is not one reflected onto Charlie Kirk's death certificate because they did not recover a bullet from a .30-06.
 
 ## Verification
 

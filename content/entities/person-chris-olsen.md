@@ -5,15 +5,23 @@ id: "person-chris-olsen"
 type: "PERSON"
 aliases:
   - "@ChrisOlsen"
+categories:
+  - "social media content creator"
 ---
 
 _Type: People_
 
 **Also known as:** @ChrisOlsen
 
+**Categories:** social media content creator
+
+**Entity verification:** verified
+> Simon & Schuster's official author page identifies Chris Olsen as a TikTok comedy creator and lists Instagram @ChrisOlsen, matching the source introduction.
+Source: [Chris Olsen - Official Publisher Page](https://www.simonandschuster.com/authors/Chris-Olsen/232967289)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-23">2025-09-19 · 00:44:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-23">2025-09-19 · 00:44:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-47">2025-09-19 · 00:44:56</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-47">2025-09-19 · 00:44:56</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -24,15 +32,15 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-23">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-47">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-23" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-47" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-23) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-47) | 1 |
 
 </details>
 </section>
@@ -45,7 +53,7 @@ _Type: People_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:44:56](/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-23)**
+**[00:44:56](/episodes/ep-aDlhjfW6hz8.md#ent-person-chris-olsen-t-00-44-47)**
 > "This is Chris Olsen, @ChrisOlsen. He's actually over on Instagram."
 
 </details>

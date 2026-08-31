@@ -1,40 +1,43 @@
 ---
-title: "Mikey McCoy appeared to have an extra spring in his step tha..."
-description: "\"Mikey McCoy appeared to have an extra spring in his step that made Turning Point USA insiders uncomfortable in the aftermath of Charlie Kirk's assassi...\" — Candace Owens"
+title: "Turning Point USA insiders conveyed the sentiment that Mikey..."
+description: "\"Turning Point USA insiders conveyed the sentiment that Mikey McCoy appeared to have an extra spring in his step that made them uncomfortable after Cha...\" — Turning Point USA insiders (identity unverified)"
 statement_id: "statement-1325ae7f0365"
-speaker: "Candace Owens"
-type: "factual_claim"
+speaker: "Turning Point USA insiders (identity unverified)"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Mikey McCoy appeared to have an extra spring in his step that made Turning Point USA insiders uncomfortable in the aftermath of Charlie Kirk's assassination
+> Turning Point USA insiders conveyed the sentiment that Mikey McCoy appeared to have an extra spring in his step that made them uncomfortable after Charlie Kirk's assassination and seemed all too happy to assume Charlie Kirk's position.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Turning Point USA insiders (identity unverified)](/entities/anon-src-Qfwr08Ebczo-019.md) (Anonymous Source)
 
-**Delivery:** Made directly
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** communications from Turning Point USA insiders
 
 ## About
 
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:08:59](/episodes/ep-Qfwr08Ebczo.md#t-00-08-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(539);return false;">Play</a>
+**Timestamp:** [00:08:29](/episodes/ep-Qfwr08Ebczo.md#t-00-08-16) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=509s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> that the, you know, supercalifragilisticexpialidocious Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath
+> it is a fact that that was the number one sentiment that we received from our Turning Point USA insiders following Charlie Kirk's assassination—that the, you know, supercalifragilisticexpialidocious Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath, and that he seemed all too happy to assume Charlie Kirk's position
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

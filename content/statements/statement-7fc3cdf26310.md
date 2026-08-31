@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:10:35](/episodes/ep-EtLHqDbxqks.md#t-00-10-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(635);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=635s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I maintained that Tyler Robinson's parents did not. ... Did not turn him in. Okay. That was a mainstreamed lie.
 

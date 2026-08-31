@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:32:00](/episodes/ep-qZ8RWfyuewQ.md#t-00-31-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1920);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1920s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so I reached out to her on Instagram ahead of this show. ... I reached out yesterday and I think the day before on Instagram, on Twitter and via text asking her to simply confirm that she in fact shot the video and that it was not given to her by somebody else. ... I got no response.
 

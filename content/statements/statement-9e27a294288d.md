@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1154);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1154s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then that same year, Jeffrey Epstein begins giving money to Arizona State University specifically for their Origins Project.
 

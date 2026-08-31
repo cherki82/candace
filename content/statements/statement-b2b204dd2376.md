@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:50:02](/episodes/ep-wcD2khO3rOA.md#t-00-49-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3002);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3002s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Later would bail Liberty University out. The person in the email said roughly the amount was 20 to 40 million dollars in the mid 1990s.
 

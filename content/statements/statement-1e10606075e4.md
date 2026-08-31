@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:52:35](/episodes/ep-SKNJPul29zU.md#t-00-52-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3155);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=3155s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > us these documents to his defense to his defense so like they're like they haven't even given it to utah forget the sbn hasn't given to the sbi the defense doesn't have it and they're like how are we going to have this hearing when they're going to get up there and essentially put on a show trial and say your honor look at these messages where they're like we don't even know those messages are real right
 

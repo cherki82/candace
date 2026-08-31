@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:09:33](/episodes/ep-3QJqtW_NOSI.md#t-00-09-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(573);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=573s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That plane has been a source of interest due to a meeting which Mitch Snow stumbled upon that morning accidentally. ... And the meeting in which Mitch Snow believes that he saw Brian Harpole. Okay. Maybe, maybe he didn't. I was always open to that.
 

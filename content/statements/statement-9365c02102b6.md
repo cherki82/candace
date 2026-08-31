@@ -1,6 +1,6 @@
 ---
-title: "Amazon came out and said that it was a technical error becau..."
-description: "\"Amazon came out and said that it was a technical error because I guess you can adjust the dates.\" — Candace Owens"
+title: "Owens said she thought Amazon had attributed the listing dat..."
+description: "\"Owens said she thought Amazon had attributed the listing date to a technical error because dates can be adjusted.\" — Candace Owens"
 statement_id: "statement-9365c02102b6"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Amazon came out and said that it was a technical error because I guess you can adjust the dates.
+> Owens said she thought Amazon had attributed the listing date to a technical error because dates can be adjusted.
 
 ## Attribution
 
@@ -19,13 +19,17 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Amazon](/entities/org-amazon.md) (org)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:40:46](/episodes/ep-K5GjF53bfN4.md#t-00-40-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2446);return false;">Play</a>
+**Timestamp:** [00:41:20](/episodes/ep-K5GjF53bfN4.md#t-00-40-43) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=2480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Yeah, I think Amazon came out and said that it was a technical error because I guess you can adjust the dates
+> I have a picture of a screenshot supposedly verified. Yeah, I think Amazon came out and said that it was a technical error because I guess you can adjust the dates.
 
 ## Verification
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:03:08](/episodes/ep-69A8TzAGHlU.md#t-00-02-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(188);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=188s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the daily wire used to sue me in arbitration for two years straight i'm not going to name the firm even though the lawyer is publicly tweeting and also has a youtube channel so it's not hard to find but i will just say that's another coincidence very tired of this guy altogether mostly because he speaks like he's consumed helium anyway let's get into brian harpole's stated grievances okay
 

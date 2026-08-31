@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:37:09](/episodes/ep-1IY2oD-_xVA.md#t-00-37-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2229);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2229s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Money was a hero because he told the world that his experiment succeeded. And it wasn't until a young man comes out and tells his story that people realize not only did it not succeed, but he abused those boys horribly.
 

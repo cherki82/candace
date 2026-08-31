@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(585);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=585s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ahmed Qureshi, that is Zachariah (Zachariah Qureshi)'s father, he is an 06 in the Navy. ... That means he's a commanding officer.
 

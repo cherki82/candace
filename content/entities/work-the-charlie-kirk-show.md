@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 54 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 63 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -22,10 +22,10 @@ _Type: Works & Media_
 Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving 6 Months After Tragic Death](https://www.megynkelly.com/watch/charlie-kirks-friends-and-producers-on-how-turning-point-is-thriving-6-months-after-tragic-death/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17">2025-10-29 · 00:26:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-work-the-charlie-kirk-show-t-00-56-30">2025-09-22 · 00:57:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-24-21">2026-08-21 · 00:24:21</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>63</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -36,9 +36,16 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-work-the-charlie-kirk-show-t-00-56-30" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-work-the-charlie-kirk-show-t-00-10-37" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-13-12" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17" style="--pulse-height:17%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#t-00-20-31" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-charlie-kirk-show-t-00-02-14" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-02-12" style="--pulse-height:25%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-work-the-charlie-kirk-show-t-00-25-05" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-09-15" style="--pulse-height:25%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-work-the-charlie-kirk-show-t-00-48-42" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-04" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-charlie-kirk-show-t-00-45-32" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -67,9 +74,16 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-work-the-charlie-kirk-show-t-00-56-30) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-work-the-charlie-kirk-show-t-00-10-37) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-13-12) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-the-charlie-kirk-show-t-00-02-14) | 3 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-02-12) | 3 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-work-the-charlie-kirk-show-t-00-25-05) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-09-15) | 3 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-work-the-charlie-kirk-show-t-00-48-42) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-04) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-the-charlie-kirk-show-t-00-45-32) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18) | 1 |
@@ -100,7 +114,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (63)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -356,6 +370,36 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:48:42](/episodes/ep-es7PWdFGoFI.md#ent-work-the-charlie-kirk-show-t-00-48-42)**
+> "...on on their show yesterday on the Charlie Kirk Show about this trial, the upcoming trial about Tyler ..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:09:23](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-09-15)**
+> "... Turning Point USA family, my Charlie Kirk Show family, when you go after the people that I love,..."
+
+**[00:14:17](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-14-06)**
+> "The Charlie Kirk show is my family. You know, like she's just expanding..."
+
+**[00:19:01](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-18-46)**
+> "...es right now, because this is the Charlie Kirk Show fam."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:25:14](/episodes/ep-t4U7NjnUEgc.md#ent-work-the-charlie-kirk-show-t-00-25-05)**
+> "...st thought this is a producer Charlie Kirk show, but it is interesting that somebody, and this wo..."
+
+</details>
+
+<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
 
 **[00:02:43](/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-02-12)**
@@ -384,6 +428,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:20:31](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31)**
+> "to host Charlie Kirk's (Charlie Kirk) show because they wanted to keep it going."
+
+</details>
+
+<details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
 
 **[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17)**
@@ -391,6 +443,30 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 **[00:27:03](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-27-03)**
 > "...soon as Charlie got shot, we were told by Andrew Kolvet—who was now missing from today's episode of the Charlie Kirk show—that it was because Charlie was very explicit. Charlie was very explicit. Charlie said, "If I ever ..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:13:48](/episodes/ep-5autG89PW6w.md#t-00-13-12)**
+> "He did this on the Charlie (Charlie Kirk) show."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:11:05](/episodes/ep-K5GjF53bfN4.md#ent-work-the-charlie-kirk-show-t-00-10-37)**
+> "...riends he saw every day doing the Charlie Kirk show."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+
+**[00:57:06](/episodes/ep-ja26iltROkM.md#ent-work-the-charlie-kirk-show-t-00-56-30)**
+> "On The Charlie Kirk Show last week"
 
 </details>
 

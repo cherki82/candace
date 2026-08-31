@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:06:00](/episodes/ep-iB-YtO3UZOg.md#t-00-06-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's married to a woman named Dr. Ashley Brown Guajardo. And here she is. Meet Ashley.
 

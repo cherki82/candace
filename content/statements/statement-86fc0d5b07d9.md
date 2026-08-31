@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:23:11](/episodes/ep-FFQ9675oqRI.md#t-00-23-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1391);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1391s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So it was 81% margin, 76, 75, like full on blowouts in the Republican primary in your district in Kentucky. And now it's within a couple of points and you could lose. ... The money poured into this race from outside of Kentucky is basically pushing you to the point of almost losing, and you may lose.
 

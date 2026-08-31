@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:43:44](/episodes/ep-3QJqtW_NOSI.md#t-00-43-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2624);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2624s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And like I said, everything about Kash Patel makes my skin crawl. He's obviously up to no good. It's so obvious. ... That's what he gives off. He gives off like he's temperamental, like he's not really in control and like somebody else is pulling the strings and also remarkably petty.
 

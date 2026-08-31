@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:19:47](/episodes/ep-5autG89PW6w.md#t-00-19-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1187);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > people should know that there is an underground movement of truth-tellers in this moment, okay? There is an underground movement of knights all around the world—from mom sleuths to government employees, like he said, to personal assistants, to Turning Point USA donors—who are working together to bring justice to Charlie (Charlie Kirk) because we don't like the way this feels.
 

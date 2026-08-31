@@ -62,7 +62,7 @@ _Type: Dates_
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
 **[00:04:27](/episodes/ep-Cq7nj9rxPdo.md#ent-date-april-13th-t-00-04-13)**
-> "...lf because of the lyrics. And I have this old text that I'm going to show you from Charlie. This is April 13th, 2018. This is what I said to him just so you can kind of get the vibe of what was going on. I said..."
+> "This is April 13th, 2018."
 
 </details>
 
@@ -81,8 +81,8 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:04:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) (Claim) **Candace Owens**: ["On April 13th 2018, Candace told Charlie that Kanye West was writing a..."](/statements/statement-19b05c92f8e5.md)
-  - Also about: [Kanye West](/entities/person-kanye-west.md)
+- [00:04:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) (Claim) **Candace Owens** (via read message): ["In an April 13, 2018 text, Candace Owens told Charlie Kirk that Kanye ..."](/statements/statement-19b05c92f8e5.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:06:20](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(380);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=380s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 13 defendants, including former intelligence agents, soldiers, and businessmen, face possible life sentences. Prosecutors allege that the group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the Athenor Lodge in the Paris suburb of Puteaux, at least four Freemasons.
 

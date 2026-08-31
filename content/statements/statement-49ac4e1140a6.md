@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:23:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1403);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1403s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There is no way in hell that Donald Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term. ... And now it's widely reported that on Truth Social, that's the job of Natalie Harp.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:24:54](/episodes/ep-i8m_6D4QGmk.md#t-00-24-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1494);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1494s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And despite an overwhelming amount of evidence mounting to the contrary, Erika is so godly that she even helped to validate the implausible parts of the narrative regarding Tyler Robinson. ... The implausible parts, like the neck stopping a .30-06 bullet. She came up and crafted the Superman steel neck and all.
 

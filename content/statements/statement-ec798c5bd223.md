@@ -26,10 +26,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:56:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3383);return false;">Play</a>
+**Timestamp:** [00:56:13](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Kabbalah very much is the reason for this push in culture for transgenderism
+> Kabbalah very much is the reason for this push in culture for transgenderism.
 
 ## Verification
 

@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:18:38](/episodes/ep-iHav0PPzUz8.md#t-00-18-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1118);return false;">Play</a>
+**Timestamp:** [00:18:38](/episodes/ep-iHav0PPzUz8.md#t-00-18-37) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can see that it routinely flies through Paris. And I noticed—and you can take your time to freeze this and go through everything, as I'm not gonna read it all—I noticed that the trend here is that it always flies to an Air Force base, okay?
 

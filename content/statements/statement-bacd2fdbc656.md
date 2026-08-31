@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:04:06](/episodes/ep-cZxHqYsWRYg.md#t-00-03-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(246);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=246s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that witness, his name is Richard Erpenbeck. I'll show you that here. Now, what I am blurring out on this document. ... is it had his address, which allowed me to definitively confirm which Rick (Richard Erpenbeck) we were speaking about.
 

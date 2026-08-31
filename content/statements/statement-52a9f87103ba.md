@@ -18,13 +18,17 @@ veracity: "true"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Rob McCoy](/entities/person-rob-mccoy.md) (person)
+- [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md) (org)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:13:35](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(815);return false;">Play</a>
+**Timestamp:** [00:13:35](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=815s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California
 

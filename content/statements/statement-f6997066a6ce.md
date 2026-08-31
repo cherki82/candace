@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:36:24](/episodes/ep-581dILVcEE4.md#t-00-36-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2184);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=2184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By the way, Jeff Long also has a very extensive military career.
 

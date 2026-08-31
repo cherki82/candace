@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:06:51](/episodes/ep-7FS1tUeSfdE.md#t-00-06-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(411);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The video clip of Erika Kirk leaving the ballroom area and stating, quote, ‘I just want to go home,’ is driving our highest organic engagement of all incident-related content across platforms. ... The current assessment of that digital item is that it has generated the strongest emotional response. It is our strongest emotional response asset associated with the incident.
 

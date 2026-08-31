@@ -24,11 +24,11 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45">2025-10-31 · 00:41:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-18-21">2026-04-21 · 00:18:21</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
 <div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,9 +39,10 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45" style="--pulse-height:39%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-scottsdale-t-00-39-10" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14" style="--pulse-height:17%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55" style="--pulse-height:11%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14" style="--pulse-height:28%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04" style="--pulse-height:22%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-20-18" style="--pulse-height:11%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-44" style="--pulse-height:22%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04" style="--pulse-height:17%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 3 mentions" title="2025-12-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-scottsdale-t-00-35-13" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-22" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-scottsdale-t-00-26-53" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-scottsdale-t-00-17-08" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
@@ -65,9 +66,10 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45) | 7 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-scottsdale-t-00-39-10) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14) | 3 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55) | 2 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14) | 5 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-20-18) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-44) | 4 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04) | 3 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-scottsdale-t-00-35-13) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-22) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-scottsdale-t-00-26-53) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-scottsdale-t-00-17-08) | 2 |
@@ -366,13 +368,18 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:35:36](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-scottsdale-t-00-35-13)**
+> "...is Pierre (Pierre Falcone) in Scottsdale and I had mentioned that he had a partner, Pierre..."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
 
 **[00:12:04](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04)**
 > "this person who lives in Scottsdale, Arizona and is a billionaire, and that is where ..."
-
-**[00:12:17](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04)**
-> "Pierre Falcone lives in Scottsdale Arizona where Turning Point USA is based"
 
 **[00:17:43](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-17-32)**
 > "...ut, he actually reappeared in Scottsdale."
@@ -383,15 +390,12 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (5 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
 
-**[00:27:44](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14)**
+**[00:27:44](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-44)**
 > "...'s the one that departed from Scottsdale at eight o'clock a.m., landed into Provo at 10:06..."
 
-**[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-51)**
-> "... and immediately departed for Scottsdale, landing into Scottsdale at 12:44 p.m."
-
-**[00:28:03](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-51)**
+**[00:28:03](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-44)**
 > "...Kirk) got shot because that's Scottsdale time."
 
 **[00:28:27](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-28-27)**
@@ -405,10 +409,10 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:20:20](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55)**
+**[00:20:18](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-20-18)**
 > "...that that plane that departed Scottsdale at eight local time and landed at about 10 a.m. l..."
 
-**[00:20:47](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-20-39)**
+**[00:20:44](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-20-18)**
 > "...—or maybe you were working in Scottsdale on that day at a terminal—we're looking for a pla..."
 
 </details>
@@ -498,7 +502,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Residence Of (1)</summary>
+<summary>Residence Of (2)</summary>
 
 - **[Vance Voetberg](/entities/person-vance-voetberg.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -507,10 +511,17 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
+- **[Pierre Falcone](/entities/person-pierre-falcone.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04): “this person who lives in Scottsdale, Arizona and is a billionaire, and that is where Turning Point USA is based, knowing this person's background is incredibly compelling, okay? This individual that they mentioned that we should take a look into or learn more about, his name is Pierre Falcone.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -540,17 +551,24 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
+- **[Pierre Falcone](/entities/person-pierre-falcone.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04): “this person who lives in Scottsdale, Arizona and is a billionaire, and that is where Turning Point USA is based, knowing this person's background is incredibly compelling, okay? This individual that they mentioned that we should take a look into or learn more about, his name is Pierre Falcone.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Scottsdale, Arizona (17)</strong></summary>
+<summary><strong class="section-title">Statements about Scottsdale, Arizona (15)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
 
-- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pend..."](/statements/statement-2c06601c490a.md)
+- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["Owens alleged that, in late 2016, Lori Frantzve and Larry Guinta met t..."](/statements/statement-2c06601c490a.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md), [GTEC Industries](/entities/org-gtec-industries.md)
 
 </details>
@@ -578,7 +596,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
 
 - [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-21) (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in ..."](/statements/statement-2e1bf770157c.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -613,16 +631,10 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
 
-- [00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-11-24) (Claim) **Candace Owens**: ["Pierre Falcone lives in Scottsdale, Arizona and is a billionaire"](/statements/statement-8ee090060b24.md)
-  - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md)
-
-- [00:12:11](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Pierre Falcone lives in Scottsdale, Arizona, is a billionaire, and tha..."](/statements/statement-9f2ac6d1359d.md)
+- [00:12:11](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Owens said Pierre Falcone was a billionaire living in Scottsdale, Ariz..."](/statements/statement-9f2ac6d1359d.md)
   - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Pierre Falcone disappeared from France after winning his appeal and re..."](/statements/statement-369784a0dc5c.md)
-  - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md)
 
 - [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said Pierre Falcone reappeared in Scottsdale after leaving Franc..."](/statements/statement-c0f9aad35580.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Pierre Falcone](/entities/person-pierre-falcone.md)

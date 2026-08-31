@@ -24,7 +24,7 @@ veracity: "false"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:14:15](/episodes/ep-YFmRH8p5lt0.md#t-00-13-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(855);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=855s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this is interesting to me. Turning Point USA has their first-ever Faith Pastor Summit. I spelled that wrong there—the Faith
 

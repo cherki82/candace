@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:20:13](/episodes/ep-i8m_6D4QGmk.md#t-00-19-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1213);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1213s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He believed firmly that Erika was going to be president someday.
 

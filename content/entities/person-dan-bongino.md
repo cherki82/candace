@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 47 mentions"
+description: "Dan Bongino (People) - 45 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10">2025-10-06 · 00:38:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32">2026-08-14 · 02:36:32</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,7 +36,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22" style="--pulse-height:37%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-44" style="--pulse-height:26%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22) | 7 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-44) | 5 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25) | 1 |
@@ -75,7 +75,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -252,27 +252,21 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (7 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (5 mentions)</summary>
 
-**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22)**
+**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-44)**
 > "...ard the rumors obviously that Dan Bongino, which it looks like Trump has just confirmed is ..."
 
-**[00:25:03](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-25-03)**
+**[00:25:02](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-44)**
 > "...ump) said that he thinks that Dan (Dan Bongino) wants to get back to his show."
 
-**[00:25:07](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-25-03)**
-> "I think Dan (Dan Bongino) has probably realized,"
-
-**[00:25:13](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-25-03)**
+**[00:25:07](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-44)**
 > "... have been wondering why Dan (Dan Bongino) has been silent, I would say effectively silent ..."
 
-**[01:00:58](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-01-00-33)**
-> "Dan Bongino stepped down."
-
-**[01:01:00](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-01-00-33)**
+**[01:00:56](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-01-00-18)**
 > "Candace and Dan (Dan Bongino) should work together at maybe a few shows togeth..."
 
-**[01:01:17](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-01-01-17)**
+**[01:01:17](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-01-01-03)**
 > "... Charlie Kirk was a friend of Dan Bongino's."
 
 </details>
@@ -320,7 +314,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 - **[FBI](/entities/org-fbi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22): “Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-44): “Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16): “About Butler, I know that Trump (Donald Trump) shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI.”
 
 </details>
@@ -328,19 +322,12 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details>
-<summary>Friend Of (3)</summary>
+<summary>Friend Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “Charlie Kirk was a friend of Dan Bongino's.”
-
-</details>
-
-- **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “He was also a friend of Kash Patel's”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-03): “Charlie Kirk was a friend of Dan Bongino's.”
 
 </details>
 
@@ -366,7 +353,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -385,7 +372,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 - **[FBI](/entities/org-fbi.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22): “Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-44): “Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16): “About Butler, I know that Trump (Donald Trump) shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI.”
 
 </details>
@@ -393,14 +380,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “Charlie Kirk was a friend of Dan Bongino's.”
-
-</details>
-
-- **[Kash Patel](/entities/person-kash-patel.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “He was also a friend of Kash Patel's”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-03): “Charlie Kirk was a friend of Dan Bongino's.”
 
 </details>
 
@@ -429,7 +409,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
 - [00:12:59](/episodes/ep-N4uM8Jdr410.md#t-00-12-59) [✓] (Claim) ["Dan Bongino said the suspect was not cooperating and the available video was gra..."](/statements/statement-94f2c908e946.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
 
 </details>
 
@@ -506,10 +486,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
 
-- [00:25:02](/episodes/ep-9k2xrAC0H88.md#t-00-24-22) (Claim) **Candace Owens**: ["Dan Bongino is stepping down as FBI Assistant Director to return to hi..."](/statements/statement-af3f171dece5.md)
+- [00:25:02](/episodes/ep-9k2xrAC0H88.md#t-00-24-44) (Claim) **Candace Owens**: ["Dan Bongino is stepping down as FBI Assistant Director to return to hi..."](/statements/statement-af3f171dece5.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
-- [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-25-03) (Opinion) **Candace Owens**: ["Dan Bongino has been effectively silent on the Charlie Kirk situation ..."](/statements/statement-ea9956416bb5.md)
+- [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-24-44) (Opinion) **Candace Owens**: ["Dan Bongino has been effectively silent on the Charlie Kirk situation ..."](/statements/statement-ea9956416bb5.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

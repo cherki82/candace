@@ -30,16 +30,16 @@ veracity: "mixed"
 ### 1. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:22:07](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1327);return false;">Play</a>
+**Timestamp:** [00:22:07](/episodes/ep-7RLtGgkTh9o.md#t-00-21-34) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1327s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Courtney—who is writing a book on this, so I'm not exposing anything—told me that she was given LSD at this age.
 
 ### 2. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:21:28](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1288);return false;">Play</a>
+**Timestamp:** [00:21:28](/episodes/ep-7RLtGgkTh9o.md#t-00-20-53) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1288s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She explained to me that she was a toddler and she was experimented on at the Haight-Ashbury Clinic
 

@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 50 mentions"
+description: "Australia (Places) - 51 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -20,9 +20,9 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26">2026-06-26 · 00:48:26</a></strong></div>
 <div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,14 +34,14 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28" style="--pulse-height:17%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-australia-t-01-02-20" style="--pulse-height:50%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-gpe-australia-t-00-58-31" style="--pulse-height:17%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-08-45" style="--pulse-height:67%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-09-05" style="--pulse-height:83%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 5 mentions" title="2025-10-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-australia-t-00-01-25" style="--pulse-height:17%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-35" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-52" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-australia-t-00-28-16" style="--pulse-height:17%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-australia-t-00-50-57" style="--pulse-height:17%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09" style="--pulse-height:17%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-32-52" style="--pulse-height:17%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-52-20" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-australia-t-00-22-44" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -65,14 +65,14 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-australia-t-01-02-20) | 3 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-australia-t-00-58-31) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-08-45) | 4 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-09-05) | 5 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24) | 3 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-australia-t-00-01-25) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-35) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-52) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-australia-t-00-28-16) | 1 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-australia-t-00-50-57) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-32-52) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-52-20) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-australia-t-00-22-44) | 1 |
@@ -95,7 +95,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -268,7 +268,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:33:17](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09)**
+**[00:33:09](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-32-52)**
 > "I saw these military-grade bots when they wanted me canceled from Australia"
 
 </details>
@@ -284,7 +284,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:52:04](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26)**
+**[00:52:03](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26)**
 > "... of your show since you were on the Daily Wire. Foreign Muslim immigrants are swarming into Europe, Australia, Canada, and the US, and I wanted to see if you had an opinion on Israel's involvement in that." Ye..."
 
 </details>
@@ -300,11 +300,11 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:04:10](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-35)**
+**[00:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-52)**
 > "...e. Now it's kind of together. It's "Tucker Carlson in Kamala zones," but thank you. I want to thank Australia. We see you, Australia. Tony Burke, thank you for banning us from an entire country. Even though I ..."
 
-**[00:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-35)**
-> "...ether. It's "Tucker Carlson in Kamala zones," but thank you. I want to thank Australia. We see you, Australia. Tony Burke, thank you for banning us from an entire country. Even though I didn't do nothing—I lit..."
+**[00:04:07](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-52)**
+> "...ut thank you. I want to thank Australia."
 
 </details>
 
@@ -326,24 +326,27 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > "...chael) writes that from Australia. Thank you, Michael (Michael). I love that what I say has reached Australia. I wish that I was not banned from Australia, but you know me—I'm a super bad criminal, bad to the ..."
 
 **[00:44:38](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24)**
-> "... Michael (Michael). I love that what I say has reached Australia. I wish that I was not banned from Australia, but you know me—I'm a super bad criminal, bad to the bone. I won't worship Israel. Stacey Massey (..."
+> "I wish that I was not banned from Australia, but you know me—I'm a super bad criminal, bad to the bone."
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (5 mentions)</summary>
 
-**[01:09:27](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-08-45)**
+**[01:09:29](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-09-05)**
 > "...oey from Friends. Do they know that we know now? Amazing work as always. Much love and support from Australia. And if anything—God forbid—happened to you, I promise we would all ride at dawn." Thank you. I kno..."
 
-**[01:11:20](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-10-55)**
+**[01:11:18](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-11-10)**
 > "...s—working on a wedding in Dubrovnik. Josie Ells writes, "God bless you. We are rooting for you from Australia." I hope you're rooting for me to get into Australia. "By uncovering the flaws in the U.S., you've ..."
 
-**[01:11:22](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-10-55)**
+**[01:11:24](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-11-10)**
 > "...s, "God bless you. We are rooting for you from Australia." I hope you're rooting for me to get into Australia. "By uncovering the flaws in the U.S., you've opened our eyes to the demonism that we are under in ..."
 
-**[01:11:32](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-10-55)**
+**[01:11:32](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-11-10)**
 > "...an show you some Aussie love." Even that—you know—it's up to the Supreme Court or the High Court of Australia. And if it happens, even that was meant to be because I still can't believe that I'm like banned fr..."
+
+**[01:09:23](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-09-05)**
+> "...s. Much love and support from Australia."
 
 </details>
 
@@ -387,7 +390,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Australia (6)</strong></summary>
+<summary><strong class="section-title">Statements about Australia (7)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>
@@ -425,9 +428,17 @@ _No relationships extracted yet._
 </details>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1)</summary>
+
+- [00:04:07](/episodes/ep-vwG1juDCQZQ.md#t-00-03-52) (Claim) **Candace Owens**: ["Owens said Australian minister Tony Burke had banned her from Australi..."](/statements/statement-4cfcc5a64063.md)
+  - Also about: [Tony Burke](/entities/person-tony-burke.md)
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
-- [01:11:47](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-36) (Accusation) **Candace Owens**: ["The Zionist lobby prevented Candace Owens from entering Australia even..."](/statements/statement-a978adf8b773.md)
+- [01:11:32](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-10) (Accusation) **Candace Owens**: ["The Zionist lobby prevented Candace Owens from entering Australia even..."](/statements/statement-a978adf8b773.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

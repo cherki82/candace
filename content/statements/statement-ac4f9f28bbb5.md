@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:14:58](/episodes/ep-YeEtS7nix3o.md#t-00-14-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(898);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=898s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to still have to provide for your family to get onto this plane because you're, you know, being a tough guy and to have this medical emergency happen in a country where you have basically been fundamentally told throughout your entire career they are the enemy and to immediately get an appointment to immediately get a CAT scan and to immediately get a surgery and to get the treatment that he had he's still in recovery he is still in Russia
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:23:03](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1383);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1383s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We are, after all, supplying Israel with white phosphorus, the chemical to burn Lebanese civilians alive. Did we know more about the pager attack than we let on?
 

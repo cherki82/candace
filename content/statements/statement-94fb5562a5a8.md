@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:04:40](/episodes/ep-4YgrOhhy708.md#t-00-04-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's been clear that JAY-Z's got some sort of a relationship with the feds. I tend to believe a lot of the stuff that Kanye (Kanye West) said.
 

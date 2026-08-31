@@ -1,16 +1,16 @@
 ---
-title: "Kanye West never wrote the statement distancing himself from..."
-description: "\"Kanye West never wrote the statement distancing himself from Blexit - one of his handlers did\" — Candace Owens"
+title: "Owens alleged Kanye West never wrote the statement distancin..."
+description: "\"Owens alleged Kanye West never wrote the statement distancing himself from Blexit and that one of his handlers did\" — Candace Owens"
 statement_id: "statement-fcbab06d38d1"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Kanye West never wrote the statement distancing himself from Blexit - one of his handlers did
+> Owens alleged Kanye West never wrote the statement distancing himself from Blexit and that one of his handlers did
 
 ## Attribution
 
@@ -26,9 +26,9 @@ type: "factual_claim"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:14:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(893);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=893s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Kanye never wrote this statement—one of his handlers did
+> Kanye (Kanye West) never wrote this statement—one of his handlers did—but he said,
 
 ## Verification
 
@@ -36,4 +36,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** No

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:18:54](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1134);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1134s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And yeah, he's tried to take over a lot of companies hostilely, including mine before it even got started.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:35:34](/episodes/ep-DYD_QHMPwqM.md#t-00-35-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2134);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=2134s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > like I said these planes have been tracking Turning Point USA faith people
 

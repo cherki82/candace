@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:07:44](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(464);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=464s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Exclusive FBI concludes Trump (Donald Trump) shooter crooks acted alone after unprecedented global investigation. Now, he says the investigation was shut down, yet here it is on the record in November.
 

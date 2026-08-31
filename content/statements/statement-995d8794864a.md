@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:08:02](/episodes/ep-SKGUzGHymcI.md#t-00-07-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(482);return false;">Play</a>
+**Timestamp:** [00:08:02](/episodes/ep-SKGUzGHymcI.md#t-00-07-52) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=482s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can guarantee you that the vehicles affiliated with this workspace arrived and left inside the same window as SUBTT...that the plane and those vehicles are connected to 920 North King Street
 

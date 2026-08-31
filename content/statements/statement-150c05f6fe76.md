@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:55:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-55-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3352);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=3352s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Blake Neff responded and said they did not cut out the portion of him discussing Erika (Erika Kirk) and her insinuation that Charlie (Charlie Kirk) would want to still be dead if he had the option because of the faith movement. ... the full Charlie Kirk podcast episode still has Blake Neff's comments but it is cut out on the the twitter stream which is where we initially saw it so they cut out of the twitter stream it is still available on the rumble site
 

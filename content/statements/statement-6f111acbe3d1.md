@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:32:51](/episodes/ep-IqHsl7d2dos.md#t-00-32-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1971);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1971s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't believe there was an exit wound on the other side. Otherwise, that would have been bleeding too. ... And we weren't trying to stop bleeding on the back of his neck. We were trying to stop it on the front. ... and I do not think there was an exit wound in the back of the neck. ... Maybe there was, but it would seem like we would have to be stopping blood from that angle too, if that were the case.
 

@@ -1,24 +1,25 @@
 ---
-title: "the money traced back to the DuPont family. It appeared that..."
-description: "\"the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted ...\" — Candace Owens"
+title: "Dominick Dunne reported that money for the killing traced ba..."
+description: "\"Dominick Dunne reported that money for the killing traced back to the DuPont family and that it appeared Lisa Dean and Christopher Moseley had the vic...\" — Dominick Dunne"
 statement_id: "statement-7c3e83eb0a33"
-speaker: "Candace Owens"
+speaker: "Dominick Dunne"
 type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her husband, Christopher Moseley, had her killed
+> Dominick Dunne reported that money for the killing traced back to the DuPont family and that it appeared Lisa Dean and Christopher Moseley had the victim killed.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Dominick Dunne](/entities/person-dominick-dunne.md) (Quoted)
 
-**Delivery:** Paraphrased
-**Original Source:** Vanity Fair reporting by Dominick Dunne, followed by Candace Owens’s inference
+**Delivery:** Quoted from article
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Dominick Dunne report in Vanity Fair
 
 ## About
 
@@ -30,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(632);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=632s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And as Dominick Dunne reported in Vanity Fair, the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her husband, Christopher Moseley, had her killed.
 

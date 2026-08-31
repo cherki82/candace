@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:18:19](/episodes/ep-1IY2oD-_xVA.md#t-00-18-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1099);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1099s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We're never going to know any of those answers. Put it out of your mind because in 1975, the military orders the destruction of all the files related to MKUltra.
 

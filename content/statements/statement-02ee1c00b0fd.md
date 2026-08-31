@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:29:32](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1772);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1772s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then we know that he's at home. When he appears in his home studio for Charlie Kirk's show, he does not go to the office on this day and we're going to have to fit him into taking Lori (Lori Frantzve) to a treatment center.
 

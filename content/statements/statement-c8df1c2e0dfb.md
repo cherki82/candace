@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [01:01:25](/episodes/ep-_cNtgris8Ik.md#t-01-00-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3685);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3685s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bigfoot believer writes something that really saddens me is knowing in my gut that Tyler Robinson made friends with the bad crowd and is now sitting in jail for something that he did not do and will most likely be given life imprisonment if not death. ... I have a 22 year old and I think about that and it hurts my soul. You know, I've said. ... From the beginning that I think he's got mixed up in something. I know that he was around campus that day because of a source.
 

@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:54:26](/episodes/ep-HYn0P-P1wUw.md#t-00-54-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3266);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=3266s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > three of the individuals were described as the instigators and they were then ordered to have their social media accounts suspended for six months retweets. She feels harassed by the truth. You can harass people with the truth now. And to be clear, all of them were ordered to attend an online course regarding hate speech.
 

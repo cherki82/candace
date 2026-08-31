@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:29:40](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1780);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1780s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So that's interesting. I do want to jog your memory, though, because I was. I was sitting here going, one of the biggest lies that makes me so angry that people keep repeating, and there is no truth to this, there's no truth to this, is that Tyler Robinson's dad handed him in, that Tyler Robinson confessed to the crime, and there's not a shred of proof to this. First and foremost, it does not pass the common sense test, okay?
 

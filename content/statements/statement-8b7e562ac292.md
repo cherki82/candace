@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:02:16](/episodes/ep-adJ4LNGp84I.md#t-00-02-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(136);return false;">Play</a>
+**Timestamp:** [00:02:16](/episodes/ep-adJ4LNGp84I.md#t-00-01-52) 
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The venue was indeed secured in quick order, but that was because they had help from the White House, and Turning Point did not book that venue back in May, so we can formally debunk that
 

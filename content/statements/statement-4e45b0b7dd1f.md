@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:39:51](/episodes/ep-i8m_6D4QGmk.md#t-00-39-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2391);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2391s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is the cancer-causing agent that is in the weed killer. We know it causes cancer. MAHA mom spot.
 

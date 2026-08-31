@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:15:21](/episodes/ep-4YgrOhhy708.md#t-00-14-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(921);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=921s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you go online right now, ... her address as a widow to the nation has 4.1 million views on Charlie Kirk's YouTube channel. ... It also has 36,000 comments.
 

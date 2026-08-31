@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:19:06](/episodes/ep-tB5SXXmd9vU.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1146);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1146s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Do you mind answering yes or no: If anybody who trained with the French Foreign Legion was on the ground on September 10th at Utah Valley University
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:02:09](/episodes/ep-4JxgOclKzqg.md#t-00-02-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(129);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=129s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Down the cameras, particularly actually taking down one camera, the camera behind Charlie (Charlie Kirk)'s head. And this turned out was less than four minutes after Charlie (Charlie Kirk) was hit.
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:14:25](/episodes/ep-ds6umq1rHAw.md#t-00-14-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was in pain from injuries that he had endured over his lifetime. So he began taking painkillers and he then developed severe debilitating OCD, which made him avoid all contact with the outside world because he was a germophobe.
 

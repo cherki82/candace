@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:11:58](/episodes/ep-k1b1NDCrNFs.md#t-00-11-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(718);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And a girlfriend of mine contacted me and said, hey, there's this guy who is purporting to have never before seen footage from the UVU event. ... He just kind of never did that. He sent me a clip here, a clip there, a link to somebody else's footage. He just sort of kept kicking the can down the road. And eventually I just felt like something was off.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:30:19](/episodes/ep-4JxgOclKzqg.md#t-00-30-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1819);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=1819s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Kolvet), Erika (Erika Kirk) in particular, you guys are really starting to partner with people who are interested in trying to psychologically go after me and my family, torment us publishing things about my children's cars and the vehicles that they travel in.
 

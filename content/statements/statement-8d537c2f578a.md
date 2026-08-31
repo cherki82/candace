@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(136);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > just yesterday, that we scooped the Daily Wire's cringe new show designed quite literally with the intention to mock me and Tucker Carlson.
 

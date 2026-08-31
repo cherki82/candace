@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:50:51](/episodes/ep-OEAHy3SsIiI.md#t-00-50-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3051);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=3051s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was left under the impression after my meeting with Erika (Erika Kirk) that Andrew Kolvet had gone rogue, right? ... Their excuse was like, okay, no, you were telling the truth. But Andrew Kolvet went rogue. ... But I'm very clear that that's what I was told, right?
 
@@ -37,7 +37,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [01:11:19](/episodes/ep-9naMwS0kMBE.md#t-01-11-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4279);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=4279s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika told me to my face that Andrew went rogue.
 
@@ -45,7 +45,7 @@ type: "accusation"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:56:02](/episodes/ep-Wjul6YV6izo.md#t-00-55-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3362);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=3362s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the whole thing that Erika told me in my face about that was it was crazy at that time and Andrew Kolvet again went rogue in that interview with Alex Clark.
 
@@ -53,7 +53,7 @@ type: "accusation"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:22:38](/episodes/ep-DYD_QHMPwqM.md#t-00-22-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1358);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1358s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet, she heard the story and she said that Andrew Kolvet and the surgeon went rogue.
 

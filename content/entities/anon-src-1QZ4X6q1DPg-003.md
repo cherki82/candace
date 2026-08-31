@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
 
-- [00:18:18](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-18) [?] (Claim) ["An inside source told Candace Owens that Erika Kirk was named in Charlie Kirk's ..."](/statements/statement-c9e654be5ab7.md)
+- [00:18:18](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-18) [?] (Claim) ["An inside source told Candace Owens that Erika Kirk may have been named in Charl..."](/statements/statement-c9e654be5ab7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

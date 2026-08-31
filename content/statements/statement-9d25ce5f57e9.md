@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:08:13](/episodes/ep-jTj9Ip46r4w.md#t-00-07-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(493);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like Erica (Erika Kirk), having been slated to record something alongside Bibi (Benjamin Netanyahu) and Ben Shapiro. No one even believed me. I tweeted that about a month ago.
 

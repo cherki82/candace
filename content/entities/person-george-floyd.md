@@ -17,7 +17,7 @@ _Type: People_
 Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biography/George-Floyd)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-26">2025-09-19 · 00:38:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-23">2025-09-19 · 00:38:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-george-floyd-t-00-08-51">2026-05-28 · 00:09:07</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
@@ -31,9 +31,9 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-26" style="--pulse-height:50%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-23" style="--pulse-height:50%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-george-floyd-t-00-10-53" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-24" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-41" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-floyd-t-00-51-23" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-george-floyd-t-00-43-41" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -46,9 +46,9 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-26) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-23) | 2 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-george-floyd-t-00-10-53) | 2 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-24) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-41) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-george-floyd-t-00-51-23) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-george-floyd-t-00-43-41) | 1 |
@@ -119,7 +119,7 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
 
-**[00:39:15](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52)**
+**[00:39:16](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52)**
 > "the lessons of the George Floyd movement"
 
 **[00:38:46](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-16)**
@@ -136,10 +136,10 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:55:48](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-24)**
+**[00:55:41](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-41)**
 > "We can criticize corrupt Jews without blanket anti-Semitism critiquing George Floyd"
 
-**[00:55:52](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-24)**
+**[00:55:52](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-41)**
 > "...nket anti-Semitism critiquing George Floyd because he died of fentanyl and the hospital isn'..."
 
 </details>
@@ -158,7 +158,7 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:38:30](/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-26)**
+**[00:38:30](/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-23)**
 > "...were in 2016 that were fighting against this? The same administration that was going, oh, well, the George Floyd death—radical Dems, BLM, speech laws. It was wrong when the left did it. And it's wrong now that th..."
 
 **[00:40:31](/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-40-16)**

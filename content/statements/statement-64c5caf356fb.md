@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:45:11](/episodes/ep-7FS1tUeSfdE.md#t-00-44-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2711);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=2711s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they're trying to get her out of all these events because students don't want to go. They don't want to buy tickets. ... Chapters are closing.
 

@@ -6,6 +6,11 @@ date: "2026-05-20"
 ---
 
 **Date:** 2026-05-20
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “today”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-05-20"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:15:57](/episodes/ep-cPidFQDJLbo.md#event-event-2026-05-20-candace-owens-sent-paramount-a-legal-pre-t-00-15-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(957);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=957s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I also sent one to Paramount, not so tactical. I am willing to get into the weeds here.

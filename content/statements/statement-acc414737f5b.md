@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(615);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=615s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You may ask why this happened in the first place and I'll give you my best information and here is where it gets big." "In June of 1997, the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801."...
 

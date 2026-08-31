@@ -21,7 +21,7 @@ _Type: People_
 Source: [Ms. Rachel](https://en.wikipedia.org/wiki/Ms._Rachel)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-32">2025-10-02 · 00:46:46</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-36">2025-10-02 · 00:46:46</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-rachel-accurso-t-01-01-22">2026-01-29 · 01:01:36</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
@@ -35,14 +35,14 @@ Source: [Ms. Rachel](https://en.wikipedia.org/wiki/Ms._Rachel)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-rachel-accurso-t-00-00-13">Candace x Bassem Youssef | Candace Ep 298</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-32" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-36" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-rachel-accurso-t-00-00-13" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-32) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-36) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-rachel-accurso-t-00-00-13) | 4 |
 
 </details>
@@ -73,7 +73,7 @@ Source: [Ms. Rachel](https://en.wikipedia.org/wiki/Ms._Rachel)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:46:46](/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-32)**
+**[00:46:46](/episodes/ep-t1YtLS1n8Vs.md#ent-person-rachel-accurso-t-00-46-36)**
 > "Miss Rachel and Greta Thunberg are Hamas."
 
 </details>

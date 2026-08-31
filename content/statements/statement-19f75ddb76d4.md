@@ -23,8 +23,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:07:05](/episodes/ep-581dILVcEE4.md#t-00-07-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(425);return false;">Play</a>
+**Timestamp:** [00:07:05](/episodes/ep-581dILVcEE4.md#t-00-06-55) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=425s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > up now. These are our five plates as follows: a white 2025 Toyota Camry. This had an Arizona license plate, and that number
 

@@ -35,7 +35,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22" style="--pulse-height:11%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-14" style="--pulse-height:11%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-29" style="--pulse-height:11%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35" style="--pulse-height:11%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32" style="--pulse-height:22%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
@@ -74,7 +74,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-14) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-29) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32) | 2 |
@@ -451,7 +451,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 **[00:10:04](/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46)**
 > "She sat down with the New York Times."
 
-**[00:11:36](/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46)**
+**[00:11:10](/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46)**
 > "She sat down with the New York Times"
 
 </details>
@@ -486,7 +486,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:20:40](/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-14)**
+**[00:20:40](/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-29)**
 > "...nt identities and that they are perhaps all from overseas. And it turns out that there have been... The New York Times has reported on Russian-Ukrainian spies that are building new lives for themselves with new IDs in ..."
 
 </details>
@@ -495,7 +495,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
 
 **[00:50:22](/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22)**
-> "...sten. (Clip: Governor Cox) I know you heard that report by Matt Gutman and this latest reporting in the New York Times that some of the suspect's acquaintances were allegedly talking to him online and joking and though..."
+> "I know you heard that report by Matt Gutman and this latest reporting in the New York Times that some of the suspect's acquaintances were allegedly talking to him online and joking and thought they recognized him from those early photos."
 
 </details>
 

@@ -1,34 +1,42 @@
 ---
 title: "Lou Taylor"
-description: "Lou Taylor (People) - 28 mentions"
+description: "Lou Taylor (People) - 27 mentions"
 id: "person-lou-taylor"
 type: "PERSON"
+categories:
+  - "entertainment business management"
 ---
 
 _Type: People_
 
+**Categories:** entertainment business management
+
+**Entity verification:** verified
+> Lou Taylor’s official biography confirms her canonical public name and role as founder and CEO of Tri Star Sports and Entertainment Group.
+Source: [Lou Taylor – CEO of Tri Star Sports & Entertainment Group](https://loutaylor.net/)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39">2025-11-15 · 00:05:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-30-07">2025-11-15 · 00:30:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-12">2025-11-15 · 00:05:38</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-29-53">2025-11-15 · 00:30:25</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (28 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-12">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (27 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 28 mentions" title="2025-11-15 · 28 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-12" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 27 mentions" title="2025-11-15 · 27 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39) | 28 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-12) | 27 |
 
 </details>
 </section>
@@ -36,22 +44,19 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (28 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (27 mentions)</summary>
 
-**[00:05:39](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39)**
+**[00:05:38](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-12)**
 > "...ist. Now, so that we can have a little bit more of a gist—particularly who they were referencing—is Lou Taylor. Lou Taylor apparently was very much involved. That is what has been heavily insinuated—and even by..."
 
-**[00:05:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39)**
+**[00:05:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-12)**
 > "... that we can have a little bit more of a gist—particularly who they were referencing—is Lou Taylor. Lou Taylor apparently was very much involved. That is what has been heavily insinuated—and even by Britney Spe..."
 
 **[00:06:14](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-06-14)**
-> "... effectively infiltrated. Take a listen. (Brett Cooper clip) We need to understand a little more of Lou Taylor's history. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help ma..."
-
-**[00:06:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-06-14)**
-> "... Take a listen. (Brett Cooper clip) We need to understand a little more of Lou Taylor's history. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears. A..."
+> "We need to understand a little more of Lou Taylor's history. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears."
 
 **[00:06:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-06-14)**
 > "... a year later—Lou was going on TV shows as the family's spokesperson to speak on behalf of Britney. Lou Taylor is the business manager for Britney Spears' father, mother, and younger sister, Jamie Lynn. Lou, go..."
@@ -59,35 +64,35 @@ _Type: People_
 **[00:07:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-07-26)**
 > "...ie Senior had around this time allegedly filed for bankruptcy. He had done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of $40,000. Now, we don't know why, but he had just filed for bank..."
 
-**[00:08:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-08-11)**
+**[00:08:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-08-06)**
 > "...be under his control, Mr. Spears committed her to an eight-month tour named Circus. Tristar—that is Lou Taylor's company—was hired to serve as the tour's business manager, handling its finances and accounting, ..."
 
-**[00:08:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-08-11)**
+**[00:08:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-08-06)**
 > "...o control their money. So what we're describing here is effectively an infiltration. And instantly, Lou Taylor talking about God and prayers—that's a lot of what you start to see. And then when you look beneath..."
 
 **[00:10:35](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-20)**
-> "... be in the C-suite or to be the heads of companies at all. And as Brett Cooper is about to lay out, Lou Taylor's qualifications are somewhat lacking. Take it away again, Brett Cooper. (Brett Cooper clip) Now an..."
+> "And as Brett Cooper is about to lay out, Lou Taylor's qualifications are somewhat lacking. Take it away again, Brett Cooper. (Brett Cooper clip)"
 
 **[00:10:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
-> "..., Brett Cooper. (Brett Cooper clip) Now another thing that I think is important to understand about Lou Taylor is that Lou is not a talent manager. She's not here to just oversee brands or help deals be made. S..."
+> "Now another thing that I think is important to understand about Lou Taylor is that Lou is not a talent manager."
 
-**[00:10:58](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
+**[00:10:53](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
 > "...kind of thing. She was playing the role of business manager, which is a financial role. Even though Lou Taylor had no financial background—she was not even an accountant. And most business managers—my business ..."
 
-**[00:11:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
+**[00:11:04](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
 > "...nd—she was not even an accountant. And most business managers—my business manager—is an accountant. Lou Taylor actually started her career in a church working alongside her husband, who at the time was a pastor..."
 
 **[00:11:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
 > "...of his income that he was making off of Britney Spears from the conservatorship to the church where Lou Taylor's husband was a pastor. Read this. Mr. Spears at times gave 10% of his conservatorship income to th..."
 
-**[00:12:49](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-12-38)**
+**[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-12-38)**
 > "...tithing. Since I put onto my Instagram stories that—what is this? You're telling me that this woman Lou Taylor also was involved in the Calvary Chapel? And I was not paying attention to anything that was going ..."
 
-**[00:13:13](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-13-13)**
+**[00:13:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-13-11)**
 > "...l, I put this up on my stories this morning, and two other people reached out to me who worked with Lou Taylor and described exactly what she's referring to—this system of tithing that Lou Taylor makes them say..."
 
-**[00:14:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-13-53)**
-> "...ohan—you might not remember this, but he got in front of a mic speaking to the press and called out Lou Taylor. Take a listen. (Michael Lohan clip) When Lindsay was supposed to go into Morningstar rehab, they s..."
+**[00:14:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-13-52)**
+> "Suddenly her dad, Michael Lohan—you might not remember this, but he got in front of a mic speaking to the press and called out Lou Taylor."
 
 **[00:14:19](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-14-12)**
 > "...rted to reconstruct everything there for Lindsay to accommodate her. Sean "Chapman" Holly, Sean and Lou Taylor leaked that to the press because they wanted Lindsay to get out sooner and have her in UCLA so she ..."
@@ -104,25 +109,25 @@ _Type: People_
 **[00:16:18](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-07)**
 > "...e mayor of Thousand Oaks and is the pastor of the large Calvary Chapel church there. Before Rob and Lou Taylor moved to Brentwood, Tennessee. I think Rob and Lou Taylor moved to Brentwood, Tennessee. They lived..."
 
-**[00:16:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-07)**
+**[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-07)**
 > "...lvary Chapel church there. Before Rob and Lou Taylor moved to Brentwood, Tennessee. I think Rob and Lou Taylor moved to Brentwood, Tennessee. They lived in Fort Lauderdale, Florida, and attended a very large Ca..."
 
-**[00:16:49](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-49)**
+**[00:16:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-48)**
 > "... their church in Brentwood, Tennessee. That's interesting. It would be foolish for us to think that Lou Taylor does not know Rob McCoy—exactly, right? All these people live in Thousand Oaks, California, and he'..."
 
-**[00:17:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-49)**
+**[00:17:10](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-48)**
 > "...o me. So there you go. Brett Cooper has mentioned that Courtney Love has also had allegations about Lou Taylor. We all know who Courtney Love is. If for nothing else, it's because the media has convinced most p..."
 
-**[00:25:51](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-25-15)**
+**[00:25:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-25-39)**
 > "... was October of last year. This is Bob Bryar. He writes, "Easy answer for that." "Don't forget that Lou Taylor was my business manager for 18 years." "We just separated in September because the Kardashians are ..."
 
-**[00:28:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-27-58)**
+**[00:28:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-27-42)**
 > "...t at the time that she sent it, I was like, "I don't know any of this." I'm not up on—she mentioned Lou Taylor. And I'm like, "What are you talking about?" So I'm going to read this to you. Okay. I just took a ..."
 
-**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-28-42)**
+**[00:28:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-28-26)**
 > "...that doesn't drink, doesn't gamble, but they run Vegas? And a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy." "Jay-Z, Beyoncé—and she also owns the home church, Churchome, to get..."
 
-**[00:30:25](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-30-07)**
+**[00:30:25](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-29-53)**
 > "... psychological operations started to take place. And now, of course, we learn that this church that Lou Taylor's husband is a pastor at has this background that involves the CIA. They even explicitly tell the t..."
 
 </details>
@@ -133,43 +138,168 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Owns (1)</summary>
+<summary>Formerly Lived In (1)</summary>
 
-- **[Tristar](/entities/org-tristar.md)**
+- **[Fort Lauderdale](/entities/gpe-fort-lauderdale.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:08:15](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11): “Tristar—that is Lou Taylor's company”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... They lived in Fort Lauderdale, Florida”
 
 </details>
 
 </details>
 
 <details>
-<summary>Works For (1)</summary>
+<summary>Formerly Worked For (5)</summary>
 
 - **[Bob Bryar](/entities/person-bob-bryar.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15): “Lou Taylor was my business manager for 18 years”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:48](/episodes/ep-7RLtGgkTh9o.md#t-00-25-39): “This is Bob Bryar. He writes, "Easy answer for that." "Don't forget that Lou Taylor was my business manager for 18 years." "We just separated in September because the Kardashians are the slimiest pile of garbage on the planet."”
+
+</details>
+
+- **[Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-05-56): “We need to understand a little more of Lou Taylor's history. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears.”
+
+</details>
+
+- **[Jamie Spears](/entities/person-jamie-spears.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): “Lou Taylor is the business manager for Britney Spears' father, mother, and younger sister, Jamie Lynn.”
+
+</details>
+
+- **[Lynne Spears](/entities/person-lynne-spears.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): “Lou Taylor is the business manager for Britney Spears' father, mother, and younger sister, Jamie Lynn.”
+
+</details>
+
+- **[Britney Spears](/entities/person-britney-spears.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:11:45](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28): “Britney has now accused Lou of playing a major role in her exploitation. And even though Lou denies all of this and continues to deny everything through emails obtained through Britney's trials, it is clear that in some way, Lou was involved. This is from the LA Times. Britney Spears' lawyer emails show ex-business manager helped set up conservatorship.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Married To (1)</summary>
 
-- **[Bob Bryar](/entities/person-bob-bryar.md)** employs this
+- **[Rob Taylor](/entities/person-rob-taylor.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15): “Lou Taylor was my business manager for 18 years”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:11:04](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43): “Lou Taylor actually started her career in a church working alongside her husband”
 
 </details>
 
-- **[Tristar](/entities/org-tristar.md)** owned by this
+</details>
+
+<details>
+<summary>Member Of (1)</summary>
+
+- **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:08:15](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11): “Tristar—that is Lou Taylor's company”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:28:30](/episodes/ep-7RLtGgkTh9o.md#t-00-28-26): “Lou Taylor for Kim Kardashian and Diddy. ... Christian non-denominational, but she's LDS. ... Born and raised LDS.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Mentored By (1)</summary>
+
+- **[Bob Coy](/entities/person-bob-coy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... they were mentored by a man named Bob Coy”
+
+</details>
+
+</details>
+
+<details>
+<summary>Owns (1)</summary>
+
+- **[Tri Star Sports and Entertainment Group](/entities/org-tri-star-sports-and-entertainment-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:08:15](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06): “Tristar—that is Lou Taylor's company”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (9)</summary>
+
+- **[Fort Lauderdale](/entities/gpe-fort-lauderdale.md)** former residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... They lived in Fort Lauderdale, Florida”
+
+</details>
+
+- **[Bob Bryar](/entities/person-bob-bryar.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:48](/episodes/ep-7RLtGgkTh9o.md#t-00-25-39): “This is Bob Bryar. He writes, "Easy answer for that." "Don't forget that Lou Taylor was my business manager for 18 years." "We just separated in September because the Kardashians are the slimiest pile of garbage on the planet."”
+
+</details>
+
+- **[Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-05-56): “We need to understand a little more of Lou Taylor's history. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears.”
+
+</details>
+
+- **[Jamie Spears](/entities/person-jamie-spears.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): “Lou Taylor is the business manager for Britney Spears' father, mother, and younger sister, Jamie Lynn.”
+
+</details>
+
+- **[Lynne Spears](/entities/person-lynne-spears.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): “Lou Taylor is the business manager for Britney Spears' father, mother, and younger sister, Jamie Lynn.”
+
+</details>
+
+- **[Britney Spears](/entities/person-britney-spears.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:11:45](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28): “Britney has now accused Lou of playing a major role in her exploitation. And even though Lou denies all of this and continues to deny everything through emails obtained through Britney's trials, it is clear that in some way, Lou was involved. This is from the LA Times. Britney Spears' lawyer emails show ex-business manager helped set up conservatorship.”
+
+</details>
+
+- **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)** has member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:28:30](/episodes/ep-7RLtGgkTh9o.md#t-00-28-26): “Lou Taylor for Kim Kardashian and Diddy. ... Christian non-denominational, but she's LDS. ... Born and raised LDS.”
+
+</details>
+
+- **[Bob Coy](/entities/person-bob-coy.md)** mentored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07): “Rob and Lou Taylor moved to Brentwood, Tennessee. ... they were mentored by a man named Bob Coy”
+
+</details>
+
+- **[Tri Star Sports and Entertainment Group](/entities/org-tri-star-sports-and-entertainment-group.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:08:15](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06): “Tristar—that is Lou Taylor's company”
 
 </details>
 
@@ -201,11 +331,11 @@ _Type: People_
 - [00:07:47](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) (Claim) **Brett Cooper** (via quoted speech): ["Within months of the 0,000 loan from Lou Taylor's firm, the conservato..."](/statements/statement-e74d5b9de84d.md)
   - Also about: [Britney Spears](/entities/person-britney-spears.md), [Jamie Spears](/entities/person-jamie-spears.md)
 
-- [00:08:20](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) (Claim) **Brett Cooper** (via quoted speech): ["The Circus tour grossed an estimated 130 million dollars that was unde..."](/statements/statement-7e7dcf0a3fd9.md)
+- [00:08:20](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06) (Claim) **Brett Cooper** (via quoted speech): ["The Circus tour grossed an estimated 130 million dollars that was unde..."](/statements/statement-7e7dcf0a3fd9.md)
   - Also about: [Jamie Spears](/entities/person-jamie-spears.md)
 
-- [00:08:21](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) (Claim) **Brett Cooper** (via quoted speech): ["Tristar (Lou Taylor's company) was hired to serve as the Circus tour's..."](/statements/statement-63cd62fcf8da.md)
-  - Also about: [Tristar](/entities/org-tristar.md), [Jamie Spears](/entities/person-jamie-spears.md)
+- [00:08:21](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06) (Claim) **Brett Cooper** (via quoted speech): ["Tristar (Lou Taylor's company) was hired to serve as the Circus tour's..."](/statements/statement-63cd62fcf8da.md)
+  - Also about: [Tri Star Sports and Entertainment Group](/entities/org-tri-star-sports-and-entertainment-group.md), [Jamie Spears](/entities/person-jamie-spears.md)
 
 - [00:10:58](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor had no financial background - she was not even an accountan..."](/statements/statement-2f68e534045a.md)
 
@@ -220,14 +350,14 @@ _Type: People_
 - [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["According to financial documents in the public domain, Jamie Spears Sr..."](/statements/statement-d6a45b1203c0.md)
   - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Jamie Spears](/entities/person-jamie-spears.md)
 
-- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
+- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-01) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
 
-- [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13) (Accusation) **Candace Owens**: ["Lou Taylor makes clients give 10 percent to the church if they want to..."](/statements/statement-4241430d8a39.md)
+- [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-11) (Accusation) **Candace Owens**: ["Lou Taylor makes clients give 10 percent to the church if they want to..."](/statements/statement-4241430d8a39.md)
 
-- [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13) (Accusation) **Anonymous Source #3 (Ep 7RLtGgkTh9o)** (via read message): ["Lou Taylor makes clients say 10% has to go to the church if they want ..."](/statements/statement-e484aed1011f.md)
+- [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-11) (Accusation) **Anonymous Source #3 (Ep 7RLtGgkTh9o)** (via read message): ["Lou Taylor makes clients say 10% has to go to the church if they want ..."](/statements/statement-e484aed1011f.md)
 
-- [00:13:44](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13) (Accusation) **Candace Owens**: ["Lou Taylor directs clients to invest in other companies without reveal..."](/statements/statement-b40b6244b0f4.md)
+- [00:13:44](/episodes/ep-7RLtGgkTh9o.md#t-00-13-11) (Accusation) **Candace Owens**: ["Lou Taylor directs clients to invest in other companies without reveal..."](/statements/statement-b40b6244b0f4.md)
 
 - [00:14:21](/episodes/ep-7RLtGgkTh9o.md#t-00-14-12) (Accusation) **Michael Lohan** (via quoted speech): ["Sean Chapman Holly and Lou Taylor leaked Lindsay Lohan rehab informati..."](/statements/statement-87ffc4776b74.md)
   - Also about: [Lindsay Lohan](/entities/person-lindsay-lohan.md)
@@ -259,13 +389,13 @@ _Type: People_
 - [00:16:42](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07) (Claim) **Candace Owens**: ["Rob and Lou Taylor were mentored by Bob Coy who has been embroiled in ..."](/statements/statement-6782e104e480.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Bob Coy](/entities/person-bob-coy.md)
 
-- [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) (Accusation) **Bob Bryar** (via quoted tweet): ["Bob Bryar wrote that the Kardashians were the slimiest pile of garbage..."](/statements/statement-488c2abc1a03.md)
+- [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-39) (Accusation) **Bob Bryar** (via quoted tweet): ["Bob Bryar wrote that the Kardashians were the slimiest pile of garbage..."](/statements/statement-488c2abc1a03.md)
   - Also about: [Bob Bryar](/entities/person-bob-bryar.md)
 
-- [00:28:52](/episodes/ep-7RLtGgkTh9o.md#t-00-28-42) (Claim) **Courtney Love** (via read message): ["Lou Taylor manages Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and she ..."](/statements/statement-89caeb027e43.md)
+- [00:28:52](/episodes/ep-7RLtGgkTh9o.md#t-00-28-26) (Claim) **Courtney Love** (via read message): ["Lou Taylor manages Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and she ..."](/statements/statement-89caeb027e43.md)
   - Also about: [Justin Bieber](/entities/person-justin-bieber.md)
 
-- [00:29:18](/episodes/ep-7RLtGgkTh9o.md#t-00-28-42) (Claim) **Courtney Love** (via read message): ["Lou Taylor was born and raised LDS"](/statements/statement-e2b51641c6b2.md)
+- [00:29:18](/episodes/ep-7RLtGgkTh9o.md#t-00-29-08) (Claim) **Courtney Love** (via read message): ["Lou Taylor was born and raised LDS"](/statements/statement-e2b51641c6b2.md)
   - Also about: [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
 
 </details>

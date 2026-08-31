@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:17:31](/episodes/ep-1QZ4X6q1DPg.md#t-00-16-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1051);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1051s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The board already knew that the plan, what the plan was, because they talked about it with Charlie (Charlie Kirk).
 

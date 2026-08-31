@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:06:46](/episodes/ep-7ERqbYElOfs.md#t-00-06-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(406);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=406s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > From the lodges, roughly 20 members are among those in the dock. Other defendants include four officers from France's DGSE, Foreign Intelligence Service, three police officers, six executives, a security guard, a doctor, an engineer.
 

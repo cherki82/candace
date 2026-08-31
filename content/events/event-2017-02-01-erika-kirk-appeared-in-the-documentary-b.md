@@ -6,6 +6,11 @@ date: "2017-02-01"
 ---
 
 **Date:** 2017-02-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “On February 1st”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2017-02-01"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:13:53](/episodes/ep-_vg7ucP1E0g.md#event-event-2017-02-01-erika-kirk-appeared-in-the-documentary-b-t-00-13-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(833);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=833s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she then appears in this documentary that's called Blackstart by Petria Patrick.

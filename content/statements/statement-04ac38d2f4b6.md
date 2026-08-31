@@ -20,11 +20,15 @@ type: "accusation"
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [United States Congress](/entities/org-united-states-congress.md) (org)
+
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:30:36](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1836);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1836s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Members of Congress are actively being blackmailed
 

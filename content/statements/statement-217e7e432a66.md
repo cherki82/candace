@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:04:25](/episodes/ep-puuMVxEu5NU.md#t-00-04-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(265);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=265s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, so we uh we usually bring a couple shirts um to the to the campus stops and uh I asked Charlie (Charlie Kirk) in the car, I go, Charlie (Charlie Kirk) what what shirt do you wanna wear? He goes, I wanna wear the freedom shirt. That uh that's not controversial.
 

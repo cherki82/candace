@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:11:59](/episodes/ep-E7P2ShoYDUA.md#t-00-11-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(719);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=719s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the person replies that they thought it was implied. Because our contract says the debate will be live streamed.
 

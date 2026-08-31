@@ -28,16 +28,16 @@ type: "factual_claim"
 ### 1. EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Be...
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(443);return false;">Play</a>
+**Timestamp:** [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=443s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Federal agents removed the hospital surveillance footage.
 
 ### 2. EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Be...
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:07:19](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">Play</a>
+**Timestamp:** [00:07:19](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Federal agents removed the hospital surveillance footage.
 

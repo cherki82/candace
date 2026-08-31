@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:14:25](/episodes/ep-E7P2ShoYDUA.md#t-00-14-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Gerald (Gerald Morgan) decided to do a live call in from my kid's playroom just outside the studio. ... And it was actually in complete violation to what we agreed to because one thing the contract did stipulate was no filming outside of this studio.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:04:13](/episodes/ep-d7VsbEIWkP8.md#t-00-04-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(253);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=253s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nobody actually knows. She's never presented a single shred of evidence thus far that Israel ever worked. ... to murder Kirk
 

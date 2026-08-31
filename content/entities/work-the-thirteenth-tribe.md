@@ -3,9 +3,18 @@ title: "The Thirteenth Tribe"
 description: "The Thirteenth Tribe (Works & Media) - 1 mention"
 id: "work-the-thirteenth-tribe"
 type: "WORK"
+categories:
+  - "history book"
+  - "Khazar history"
 ---
 
 _Type: Works & Media_
+
+**Categories:** history book, Khazar history
+
+**Entity verification:** verified
+> WorldCat identifies The Thirteenth Tribe: The Khazar Empire and Its Heritage as a 1976 book by Arthur Koestler, matching the title and context in the transcript.
+Source: [The thirteenth tribe: the Khazar Empire and its heritage | WorldCat](https://search.worldcat.org/title/2204510)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-thirteenth-tribe-t-01-06-18">2025-09-15 · 01:06:54</a></strong></div>
@@ -42,7 +51,7 @@ _Type: Works & Media_
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
 
 **[01:06:54](/episodes/ep-czVBmqZP6Ss.md#ent-work-the-thirteenth-tribe-t-01-06-18)**
-> "...)’s murder and I took my mask off. It’s hard being a black conservative. Please look into the book ‘The Thirteenth Tribe.’” I've heard a lot about that book. It's about the origin of the Ashkenazi Jews, the Khazars. Yeah..."
+> "It’s hard being a black conservative. Please look into the book ‘The Thirteenth Tribe.’”"
 
 </details>
 

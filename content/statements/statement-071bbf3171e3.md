@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:26:31](/episodes/ep-ti5Fxrvegno.md#t-00-26-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1591);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1591s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That video blew up, but I didn't have any lawyers sent after me. Instead, it was private investigators asking how I found this information, asking me to send them links.
 

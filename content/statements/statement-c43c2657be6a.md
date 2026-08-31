@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:40:02](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6002);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6002s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i and that's why i want them to know is it's i know because of how committed these people are to satan because they literally hired satanists to run psychological operations in the military as we covered uh michael aquino and um paul about like literally temple of set was at Fort Huachuca like they an avowed ... started his own temple of set everything and that was the reason they hired him they're like these are the qualifications we're looking for you gotta listen my podcast very interesting
 

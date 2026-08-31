@@ -26,8 +26,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:08:13](/episodes/ep-581dILVcEE4.md#t-00-07-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(493);return false;">Play</a>
+**Timestamp:** [00:08:13](/episodes/ep-581dILVcEE4.md#t-00-07-40) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a fifth car, which we know was rented. That is a gray or silver 2025 Toyota 4Runner, Utah license plate number Z349AA. ... Five vehicles which were secured by Duncan Aviation.
 

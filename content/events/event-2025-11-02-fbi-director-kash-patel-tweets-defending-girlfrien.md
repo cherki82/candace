@@ -6,6 +6,15 @@ date: "2025-11-02"
 ---
 
 **Date:** 2025-11-02
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “over the weekend”
+
+**Normalization note:** Contemporaneous report dates Patel's X post to Sunday, 2025-11-02.
+
+**Date source:** [https://www.mediaite.com/politics/beyond-pathetic-kash-patel-trashes-report-he-used-an-fbi-jet-to-watch-his-country-music-sensation-girlfriend-perform/](https://www.mediaite.com/politics/beyond-pathetic-kash-patel-trashes-report-he-used-an-fbi-jet-to-watch-his-country-music-sensation-girlfriend-perform/)
 
 ## Event
 
@@ -14,7 +23,7 @@ date: "2025-11-02"
 ## Mentioned In
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:00:46](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(46);return false;">▶️ Play</a>
+**Timestamp:** [00:38:42](/episodes/ep-K1tFD7FfoCU.md#t-00-38-33) 
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=2322s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> of it, and we're going to discuss it. And lastly, Kash Patel is now officially the most embarrassing human being in the United States. Welcome back to Candace. So obviously a major theme of this podca
+> The disgustingly baseless attacks against Alexis—a true patriot and the woman I'm proud to

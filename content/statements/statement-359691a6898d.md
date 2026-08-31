@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:23:24](/episodes/ep-3QJqtW_NOSI.md#t-00-22-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1404);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I know since Stephen Feinberg. ... has said that he has divested from Cerberus Capital, but that kind of always just means like it's on hold and he still does have financial ties to them, which are unclear.
 

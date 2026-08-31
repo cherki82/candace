@@ -3,9 +3,18 @@ title: "Thomas Sowell"
 description: "Thomas Sowell (People) - 12 mentions"
 id: "person-thomas-sowell"
 type: "PERSON"
+categories:
+  - "economics"
+  - "education policy"
 ---
 
 _Type: People_
+
+**Categories:** economics, education policy
+
+**Entity verification:** verified
+> Hoover Institution confirms the canonical name Thomas Sowell, his fellowship, and authorship of Inside American Education.
+Source: [Thomas Sowell | Hoover Institution](https://www.hoover.org/profiles/thomas-sowell)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-sowell-t-00-17-52">2025-09-24 · 00:18:16</a></strong></div>
@@ -97,7 +106,7 @@ _Type: People_
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): “Ben had his team reach out and schedule an interview with Thomas Soul”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:10:08](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55): “Ben had his team reach out and schedule an interview with Thomas Sowell”
 
 </details>
 
@@ -121,7 +130,7 @@ _Type: People_
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): “Ben had his team reach out and schedule an interview with Thomas Soul”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:10:08](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55): “Ben had his team reach out and schedule an interview with Thomas Sowell”
 
 </details>
 
@@ -142,10 +151,10 @@ _Type: People_
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
-- [00:10:14](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) (Accusation) **Candace Owens**: ["Ben Shapiro scheduled an interview with Thomas Sowell specifically to ..."](/statements/statement-68d706432609.md)
+- [00:09:49](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20) (Accusation) **Candace Owens**: ["Owens alleged that Ben Shapiro arranged a Thomas Sowell interview as a..."](/statements/statement-68d706432609.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:10:23](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) (Claim) **Candace Owens**: ["Ben Shapiro interview with Thomas Sowell was published on November 17,..."](/statements/statement-7abccb564d21.md)
+- [00:10:08](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) (Claim) **Candace Owens**: ["Owens said Ben Shapiro had his team schedule a Thomas Sowell interview..."](/statements/statement-7abccb564d21.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>

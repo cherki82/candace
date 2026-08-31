@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia (Organizations) - 28 mentions"
+description: "Wikipedia (Organizations) - 30 mentions"
 id: "org-wikipedia"
 type: "ORG"
 aliases:
@@ -22,8 +22,8 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">2025-10-29 · 00:00:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-wikipedia-t-00-24-32">2026-08-07 · 00:25:00</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 13 mentions" title="2025-10-29 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-wikipedia-t-00-11-02" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-wikipedia-t-00-13-15" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-wikipedia-t-00-11-54" style="--pulse-height:15%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-wikipedia-t-00-42-10" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-wikipedia-t-00-35-10" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
@@ -54,6 +55,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00) | 13 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-wikipedia-t-00-11-02) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-wikipedia-t-00-13-15) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-wikipedia-t-00-11-54) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-wikipedia-t-00-42-10) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-wikipedia-t-00-35-10) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48) | 1 |
@@ -70,7 +72,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -153,6 +155,17 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 
 **[00:42:24](/episodes/ep-A39g5oqB_eM.md#ent-org-wikipedia-t-00-42-10)**
 > "if his Wikipedia is to be believed for a little bit,"
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+
+**[00:11:54](/episodes/ep-es7PWdFGoFI.md#ent-org-wikipedia-t-00-11-54)**
+> "...ica's pastor and then had the Wikipedia updated and said, I'm assuming he had it updated ..."
+
+**[00:40:14](/episodes/ep-es7PWdFGoFI.md#ent-org-wikipedia-t-00-39-39)**
+> "...ay, they changed my husband's Wikipedia and said that he was a Qatari, like he had a Qata..."
 
 </details>
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:40:24](/episodes/ep-Vu6Y24pqhZs.md#t-00-40-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2424);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=2424s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I do believe Charlie (Charlie Kirk) found out something when he looked into his organization and wanted to know where the money was coming from and where it was going to.
 

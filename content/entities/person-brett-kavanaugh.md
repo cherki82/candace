@@ -3,9 +3,18 @@ title: "Brett Kavanaugh"
 description: "Brett Kavanaugh (People) - 1 mention"
 id: "person-brett-kavanaugh"
 type: "PERSON"
+categories:
+  - "United States judiciary"
+  - "Supreme Court"
 ---
 
 _Type: People_
+
+**Categories:** United States judiciary, Supreme Court
+
+**Entity verification:** verified
+> The Supreme Court official biography confirms the canonical name Brett M. Kavanaugh; the transcript uses the ordinary short form Brett Kavanaugh.
+Source: [Current Members - Supreme Court of the United States](https://www.supremecourt.gov/about/biographies.aspx)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-brett-kavanaugh-t-00-13-27">2025-09-11 · 00:13:33</a></strong></div>
@@ -42,7 +51,7 @@ _Type: People_
 <summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
 
 **[00:13:33](/episodes/ep-_dRaEO47-co.md#ent-person-brett-kavanaugh-t-00-13-27)**
-> "...m, Israel—you name it, we were there. And there was always a new t-shirt to print out: “Justice for Brett Kavanaugh,” he sends to me. “How's this one?” I love it. We just loved the t-shirts. That was the thing. The ..."
+> "And there was always a new t-shirt to print out: "Justice for Brett Kavanaugh," he sends to me."
 
 </details>
 

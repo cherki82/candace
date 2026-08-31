@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:52:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-52-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3121);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=3121s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's a shame that Trump (Donald Trump) proved to be the ultimate Trojan horse that is walking in this technocracy, allowing the military to do what they are doing. He, I guess, has already made his bargain and understands, you know, the consequences for his soul.
 

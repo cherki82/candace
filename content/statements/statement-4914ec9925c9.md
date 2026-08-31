@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:13:35](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(815);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=815s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On March 25th, the Daily Wire CEO Jeremy Boreing (Jeremy Boreing) joined Fuentes (Nick Fuentes) on X for a live audio chat room
 

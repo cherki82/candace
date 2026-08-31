@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:09:52](/episodes/ep-c5BcKF91iec.md#t-00-09-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(592);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=592s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Except Mikey did not have blood anywhere near him because Mikey was behind the tent when Charlie got shot
 
@@ -37,7 +37,7 @@ veracity: "true"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:09:57](/episodes/ep-c5BcKF91iec.md#t-00-09-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=597s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Except Mikey did not have blood anywhere near him because Mikey was behind the tent when Charlie got shot, and Mikey in less than a second does something that I find to be quite strange
 

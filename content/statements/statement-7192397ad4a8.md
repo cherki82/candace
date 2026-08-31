@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [01:02:28](/episodes/ep-_cNtgris8Ik.md#t-01-02-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3748);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3748s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the idea that he's the one who fired the shot at charlie kirk i don't even know if a shot was fired i don't even believe a shot was fired from losi center so forget whether or not he fired some miracle bullet shot in one and done and then jump off a rooftop absolutely not i don't buy that i'm at zero percent that's what i meant i am at zero percent that tyler robinson shot and killed charlie kirk from losi rooftop ... open to other theories about how he could have been involved and whether he got swept up in something because of Lance, who I find to be remarkably suspicious.
 

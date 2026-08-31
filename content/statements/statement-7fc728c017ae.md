@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:25:16](/episodes/ep-IqHsl7d2dos.md#t-00-25-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1516);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1516s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Gold Apollo had zero clue that they are working with the Mossad. ... When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show. ... Everything is controlled by us behind the scene. In their experience, everything is normal. Everything was 100% kosher, including businessmen, marketing, engineers, showroom, everything.
 

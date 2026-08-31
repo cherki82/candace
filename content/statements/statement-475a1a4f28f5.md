@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA refused PPP loans during the pandemic"
-description: "\"Turning Point USA refused PPP loans during the pandemic\" — Andrew Kolvet"
+title: "Andrew Kolvet said Charlie Kirk declined a PPP loan during t..."
+description: "\"Andrew Kolvet said Charlie Kirk declined a PPP loan during the pandemic even though Turning Point USA could have used the money\" — Andrew Kolvet"
 statement_id: "statement-475a1a4f28f5"
 speaker: "Andrew Kolvet"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Turning Point USA refused PPP loans during the pandemic
+> Andrew Kolvet said Charlie Kirk declined a PPP loan during the pandemic even though Turning Point USA could have used the money
 
 ## Attribution
 
@@ -19,15 +19,21 @@ veracity: "mixed"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Culture Apothecary with Alex Clark
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Paycheck Protection Program](/entities/concept-paycheck-protection-program.md) (concept)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:36:39](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2199);return false;">Play</a>
+**Timestamp:** [00:36:41](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=2201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> During the pandemic, he refused to do mass layoffs like everybody else in the country was doing
+> Said no to the—whatever that check was. ... Yeah, the PPE loans, right? ... I always get PPP and PPE mixed up. ... Yeah, but it was a good amount of money that, at the time, we could have used. ... He put out a company statement saying, you know, this was tempting for sure, but we're going to say no.
 
 ## Verification
 

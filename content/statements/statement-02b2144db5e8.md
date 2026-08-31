@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:04:20](/episodes/ep-4YgrOhhy708.md#t-00-04-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(260);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=260s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > everyone actually in America should speak English.
 

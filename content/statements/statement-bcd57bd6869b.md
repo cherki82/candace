@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -26,7 +26,7 @@ veracity: "true"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:39:32](/episodes/ep-c5BcKF91iec.md#t-00-38-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2372);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2372s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Went on to say, "Anyway, I am not sure if I will live to see the end of this revolution.
 

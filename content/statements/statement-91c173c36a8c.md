@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:21:34](/episodes/ep-7FS1tUeSfdE.md#t-00-21-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=1294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Receiving money from Winning Team Publishing, and would, I would imagine, stand to benefit greatly from high book sales. ... Donald Trump Jr.— ... too I would imagine since he's the co-founder of the company stood to benefit from those book sales
 

@@ -6,6 +6,11 @@ date: "2019"
 ---
 
 **Date:** 2019
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “published in 2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:36:06](/episodes/ep-xi8SYJTUXPM.md#event-event-2019-the-spectator-published-an-article-title-t-00-36-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2166);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2166s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which was called the tale of Laura Loomer, which was published in 2019

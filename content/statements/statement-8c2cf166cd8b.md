@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:31:00](/episodes/ep-VMNWMXX1vO8.md#t-00-30-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1860);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1860s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were not foreign to death threats or I personally got rape threats. We have kidnapping threats. Like we're not, it's not something that's foreign to us.
 

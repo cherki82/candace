@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:04:26](/episodes/ep-SKNJPul29zU.md#t-01-03-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3866);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=3866s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, look, you tend to provide receipts when you have them, right? And so everyone was denying what you were saying about the very real pressure campaign that Charlie (Charlie Kirk) was undergoing. ... And when you released those text messages, I was like, oh my gosh, like this is this is a big deal.
 

@@ -25,23 +25,13 @@ veracity: "true"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:34:33](/episodes/ep-sreYYcID-QY.md#t-00-33-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2073);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2073s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A few weeks before his death, I spoke to Charlie (Charlie Kirk). I invited him to visit Israel again.
-
-### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
-
-**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:34:28](/episodes/ep-sreYYcID-QY.md#t-00-33-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2068);return false;">Play</a>
-
-> A few weeks before his death, I spoke to Charlie (Charlie Kirk)
 
 ## Verification
 

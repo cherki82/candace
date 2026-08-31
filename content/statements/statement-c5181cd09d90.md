@@ -25,7 +25,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(969);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=969s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > More specifically, according to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S
 
@@ -33,7 +33,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(959);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=959s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > More specifically, according to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S
 

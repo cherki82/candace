@@ -1,6 +1,6 @@
 ---
 title: "United States Armed Forces"
-description: "United States Armed Forces (Organizations) - 22 mentions"
+description: "United States Armed Forces (Organizations) - 23 mentions"
 id: "org-united-states-armed-forces"
 type: "ORG"
 aliases:
@@ -24,13 +24,13 @@ _Type: Organizations_
 Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branches/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59">2025-11-05 · 00:51:29</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59">2025-11-05 · 00:51:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-54-41">2026-06-26 · 00:55:06</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-armed-forces-t-00-37-21" style="--pulse-height:33%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-armed-forces-t-00-11-14" style="--pulse-height:33%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-25" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-48" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
@@ -63,6 +64,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-armed-forces-t-00-37-21) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-armed-forces-t-00-11-14) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-25) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-48) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05) | 1 |
@@ -80,7 +82,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -178,6 +180,14 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:11:14](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-armed-forces-t-00-11-14)**
+> "...lip is there were pictures of United States military men in that house."
+
+</details>
+
+<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
 
 **[00:18:28](/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15)**
@@ -215,7 +225,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59)**
+**[00:51:25](/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59)**
 > "...dministration has been infiltrated, and there are extremely evil people that are at the helm of the United States military and that are... not caring at all about American lives in my viewpoint—not taking a stance whatsoev..."
 
 </details>
@@ -238,7 +248,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details>
-<summary>Formerly Employed (2)</summary>
+<summary>Formerly Employed (3)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -251,6 +261,13 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:05:07](/episodes/ep-2tFYJf1klgY.md#t-00-04-42): “Nancy's brother, Paul Tracy Gerard... Gerard Jr. would follow in his father's footsteps. He was a major in the military in 1977”
+
+</details>
+
+- **[Harry Myers](/entities/person-harry-myers.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:22:43](/episodes/ep-t4U7NjnUEgc.md#t-00-22-17): “being accused of being a bomb threat because I was Special Forces in the military, EOD in the military.”
 
 </details>
 
@@ -269,7 +286,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -296,6 +313,13 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:05:07](/episodes/ep-2tFYJf1klgY.md#t-00-04-42): “Nancy's brother, Paul Tracy Gerard... Gerard Jr. would follow in his father's footsteps. He was a major in the military in 1977”
+
+</details>
+
+- **[Harry Myers](/entities/person-harry-myers.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:22:43](/episodes/ep-t4U7NjnUEgc.md#t-00-22-17): “being accused of being a bomb threat because I was Special Forces in the military, EOD in the military.”
 
 </details>
 

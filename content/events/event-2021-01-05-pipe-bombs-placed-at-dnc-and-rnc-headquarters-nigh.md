@@ -6,6 +6,11 @@ date: "2021-01-05"
 ---
 
 **Date:** 2021-01-05
+**Date precision:** Day
+
+## Date Record
+
+**Normalization note:** Date confirmed from transcript
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2021-01-05"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:07:31](/episodes/ep-YaZfwLQ7vrI.md#event-event-2021-01-05-pipe-bombs-placed-at-dnc-and-rnc-headquarters-nigh-t-00-07-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(451);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=451s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > sident that the feds were involved because of the pipe bombs. That was it. I knew they were involved when I heard that pipe bombs were mysteriously dropped off the night before at the DNC headquarters
 
@@ -25,6 +30,6 @@ date: "2021-01-05"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:07:37](/episodes/ep-YaZfwLQ7vrI.md#event-event-2021-01-05-pipe-bombs-placed-at-dnc-and-rnc-headquarters-nigh-t-00-07-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(457);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=457s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pipe bombs were mysteriously dropped off the night before at the DNC headquarters, RNC headquarters

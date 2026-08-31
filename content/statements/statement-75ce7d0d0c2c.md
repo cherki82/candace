@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1977);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=1977s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But what was Mitch (Mitch Snow)'s story? The substance of it was that he saw Brian Harpole at Fort Huachuca. He felt he had almost certainly seen Brian Harpole at a meeting that was concluding on September 9th, the day before Charlie was assassinated, early in the morning.
 

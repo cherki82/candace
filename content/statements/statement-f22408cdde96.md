@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:27:53](/episodes/ep-DdPjoy5W-wY.md#t-00-27-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1673);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1673s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There it is, Bachelor of Science, Political Science and International Relations and elsewhere on other bios. They said, Candace, not only is that not true, but it's not possible.
 
@@ -41,7 +41,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:18:11](/episodes/ep-KpxIBWkNsSs.md#t-00-18-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1091);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=1091s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > With a double degree, I should mention, you can take a look at this, her LinkedIn page in political science and international relations. This is the old LinkedIn page. It since has been removed.
 

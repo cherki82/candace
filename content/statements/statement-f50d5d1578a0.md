@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:13:01](/episodes/ep-Vu6Y24pqhZs.md#t-00-12-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(781);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=781s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I would argue, or a lawyer in court, that would be impossible for this specific naked model of gun. ... didn't see one
 

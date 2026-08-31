@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:37:28](/episodes/ep-2tFYJf1klgY.md#t-00-37-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2248);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=2248s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But they didn't. We learned that in 2007, they then opened an investigation into him for the following reasons. Reason number one is because while employed by the Bank of Corbin to perform title searches on certain properties, Rick (Richard William Erpenbeck) didn't inform the bank that other mortgages already existed on those properties. ... So they were issuing loans to multiple people for the same property, right? This means a failure to disclose this information resulted in the Bank of Corbin issuing loans on four of the properties that were already encumbered by pre-existing mortgages.
 

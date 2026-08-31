@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:57:22](/episodes/ep-aPOyk1i2LOc.md#t-01-57-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7042);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=7042s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were, my sources at the U.S. Marshals were saying they were basically sent on a wild goose chase that ... day.
 

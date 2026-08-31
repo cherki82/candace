@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:27:02](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1622);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1622s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this is a pretty strong series of tips that I received that Erika (Erika Kirk). ... was with a woman named Tracy Martin. ... she was with Erika (Erika Kirk) when Mikey (Mikey McCoy) and Elizabeth (Elizabeth McCoy) called. ... In fact, I'm being told that her and her mother were not together.
 

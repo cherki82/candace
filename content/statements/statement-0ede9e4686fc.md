@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(917);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=917s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At the age of 18, Victor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during peacetime stateside, no deployments before he was discharged.
 

@@ -1,14 +1,18 @@
 ---
 title: "John Yep"
-description: "John Yep (People) - 6 mentions"
+description: "John Yep (People) - 7 mentions"
 id: "person-john-yep"
 type: "PERSON"
+aliases:
+  - "Johnny Yep"
 categories:
   - "Catholics for Catholics"
   - "Catholic political activism"
 ---
 
 _Type: People_
+
+**Also known as:** Johnny Yep
 
 **Categories:** Catholics for Catholics, Catholic political activism
 
@@ -17,13 +21,13 @@ _Type: People_
 Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https://cforc.com/2025/09/john-yep-shares-final-heartfelt-salute-to-a-brother-in-arms-and-beloved-friend-charlie-kirk/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13">2026-02-03 · 00:35:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-john-yep-t-00-39-45">2025-12-20 · 00:39:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-58-25">2026-03-17 · 00:58:33</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,6 +35,7 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-john-yep-t-00-39-45" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-24-36" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 </div>
@@ -38,6 +43,7 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-john-yep-t-00-39-45) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-24-36) | 3 |
 
@@ -47,7 +53,7 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3 mentions)</summary>
@@ -74,6 +80,14 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 
 **[00:36:39](/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-36-39)**
 > "...share more of it on stage but John Yep randomly visited me i call him John Yep because i..."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:39:45](/episodes/ep-w1oqQbR_bYs.md#ent-person-john-yep-t-00-39-45)**
+> "...g a discussion at dinner with Johnny Yep, who runs Catholic for Catholics, and we were sor..."
 
 </details>
 
@@ -107,7 +121,26 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Works For (1)</summary>
+
+- **[Catholics for Catholics](/entities/org-catholics-for-catholics.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:39:45](/episodes/ep-w1oqQbR_bYs.md#t-00-39-45): “Johnny Yep, who runs Catholic for Catholics”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Catholics for Catholics](/entities/org-catholics-for-catholics.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:39:45](/episodes/ep-w1oqQbR_bYs.md#t-00-39-45): “Johnny Yep, who runs Catholic for Catholics”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

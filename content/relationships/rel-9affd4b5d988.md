@@ -11,7 +11,7 @@ object: "org-tax-network-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Tax Network USA](/entities/org-tax-network-usa)
 
-### Evidence (9 mentions)
+### Evidence (10 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -44,6 +44,10 @@ object: "org-tax-network-usa"
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 
 - [00:45:38](/episodes/ep-X3VKJVJ7cN4#t-00-45-38): _Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems._
+
+**[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
+
+- [00:23:31](/episodes/ep-ewBzjVe3LNQ#t-00-23-31): _They are not on your side. Obviously, get protected the right way with Tax Network USA and start the process of settling your tax burden once and for all._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

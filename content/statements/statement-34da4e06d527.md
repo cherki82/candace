@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [01:01:09](/episodes/ep-iHav0PPzUz8.md#t-01-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3669);return false;">Play</a>
+**Timestamp:** [01:01:09](/episodes/ep-iHav0PPzUz8.md#t-01-00-29) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=3669s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So enjoy and learn about the author—learn about what he went through to tell the truth about the fact that Sigmund Freud was factually defending his pedophile friends.
 

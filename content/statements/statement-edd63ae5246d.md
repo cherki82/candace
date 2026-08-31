@@ -28,8 +28,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2565);return false;">Play</a>
+**Timestamp:** [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-09) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=2565s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his relationship with Bob Coy—not to be confused with Pastor Rob McCoy—but Bob Coy, the one from Fort Lauderdale,
 

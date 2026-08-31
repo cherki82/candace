@@ -24,7 +24,7 @@ veracity: "unverifiable"
 ## About
 
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
-- [BYU](/entities/org-byu.md) (org)
+- [Brigham Young University](/entities/org-brigham-young-university.md) (org)
 - [Hawaii](/entities/gpe-hawaii.md) (gpe)
 - [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md) (org)
 
@@ -32,7 +32,7 @@ veracity: "unverifiable"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2860);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=2860s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am saying they pluck from students and their Hawaii campus in particular, again, I'll have more information for you on this. ... They pull people out of the pool of Hawaii and in Jerusalem in particular, they approach students because they are the cream of the crop. ... they approach them about working for the CIA.
 

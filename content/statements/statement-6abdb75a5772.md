@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:39:03](/episodes/ep-4YgrOhhy708.md#t-00-38-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2343);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2343s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) says he didn't offer to take turning point to the next level. ... Andrew Kolvet says that he did offer to take Turning Point to the next level and now he wants to go back and not address that point again because everything I told you was true.
 

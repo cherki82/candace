@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:24:57](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1497);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1497s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I met Andrew (Andrew Breitbart) when I was 17 years old and remained his friend until his tragic death. I signed on with Breitbart News two weeks before Andrew (Andrew Breitbart)'s death because I believed in his mission.
 

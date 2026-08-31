@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:05:34](/episodes/ep-JQjCAsfoXEE.md#t-00-05-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(334);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=334s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People that are tied to Israel are making threats against me and Tucker (Tucker Carlson), demanding that we be canceled.
 

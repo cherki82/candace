@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:21:43](/episodes/ep-B9TyCs-6o_0.md#t-00-21-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1303);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1303s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at 102 utah time so 39 minutes after charlie is shot at 12 23 Andrew Kolvet messages the group and he says he's telling them for communications we can confirm publicly that he's been shot
 

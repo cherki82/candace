@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3058);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=3058s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i'd like to revisit some of these school shootings i'm wondering if children were being trafficked and administrators found out and they ended up dead
 

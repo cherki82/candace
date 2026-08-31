@@ -1,6 +1,6 @@
 ---
-title: "Look up Abraham Polak. He won awards for saying they were th..."
-description: "\"Look up Abraham Polak. He won awards for saying they were the Khazars and tracing them back.\" — Candace Owens"
+title: "Owens said Abraham Polak won awards for tracing Ashkenazi Je..."
+description: "\"Owens said Abraham Polak won awards for tracing Ashkenazi Jews to the Khazars\" — Candace Owens"
 statement_id: "statement-308e974c1975"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Look up Abraham Polak. He won awards for saying they were the Khazars and tracing them back.
+> Owens said Abraham Polak won awards for tracing Ashkenazi Jews to the Khazars
 
 ## Attribution
 
@@ -19,13 +19,17 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Abraham Polak](/entities/person-abraham-polak.md) (person)
+
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [01:07:10](/episodes/ep-czVBmqZP6Ss.md#t-01-07-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4030);return false;">Play</a>
+**Timestamp:** [01:06:59](/episodes/ep-czVBmqZP6Ss.md#t-01-06-18) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=4019s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He won awards for saying they were the Khazars and tracing them back
+> It's about the origin of the Ashkenazi Jews, the Khazars. ... Look up Abraham Polak. He won awards for saying they were the Khazars and tracing them back.
 
 ## Verification
 

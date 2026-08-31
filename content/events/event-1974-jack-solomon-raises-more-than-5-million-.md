@@ -6,6 +6,11 @@ date: "1974"
 ---
 
 **Date:** 1974
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1974”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1974"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:46:09](/episodes/ep-ZAsV0fHGBiM.md#t-00-46-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2769);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2769s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Per his bio, in 1974, Jack gathered more than $5 million to purchase United Coin,

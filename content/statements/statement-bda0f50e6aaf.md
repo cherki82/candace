@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:39:20](/episodes/ep-his-JBjlkh8.md#t-00-39-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, she is apparently not allowed to own a gun because of various psychotic events that required her hospitalization.
 

@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:03:10](/episodes/ep-E7P2ShoYDUA.md#t-00-02-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(190);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=190s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In my entire career ever anywhere, leading up to them arriving at my house. So foremost, just to back it up, you will recall that Andrew Wilson demanded that I publicly negotiate the terms of the agreement on X. ... He's like, no, this must be negotiated publicly, please. So we literally refused to email like a normal human being until we agreed to the debate claim that until we agreed to the format, you know, three and a half hours minimally until I accepted that.
 

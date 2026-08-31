@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:12:26](/episodes/ep-AoYZel7_cGQ.md#t-00-12-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(746);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=746s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so, just a quick note on that: I did check with people inside the courtroom that day, and they're saying that this clip that was shown—we're about to show in just a sec—doesn't include the, I believe, a different angle is what I'm led to believe. At least, again, I didn't see it, but there is a portion where you can see him kind of roll over the railing, assemble the weapon. It's a little obscured by the railing.
 

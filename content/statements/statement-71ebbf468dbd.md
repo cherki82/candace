@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:20:38](/episodes/ep-IqHsl7d2dos.md#t-00-20-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1238);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1238s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was later discovered that underaged foreign models who were recruited from MC2 were being housed in apartments that were owned by Jeffrey Epstein and Jeffrey Epstein's brother while they were awaiting work visas, which made them uniquely susceptible to abuse.
 

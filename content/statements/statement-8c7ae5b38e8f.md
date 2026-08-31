@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:43:26](/episodes/ep-ds6umq1rHAw.md#t-00-42-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2606);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=2606s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Hey, it's unbelievable, Andrew (Andrew Kolvet). Your PR strategy is a nightmare. So I am challenging you. I am asserting definitively that I had nothing to do with that Daily Mail article.
 

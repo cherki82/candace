@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:28:13](/episodes/ep-sKuYLNx3iRo.md#t-00-28-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1693);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=1693s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We got to the hospital somewhere around 1230. ... He was shot right, like maybe 12:20. It took us like 10 minutes to get there, maybe 15. We had no—just an SUV. We had no lights. We were just screaming.
 

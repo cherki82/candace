@@ -6,6 +6,11 @@ date: "2026-06-21"
 ---
 
 **Date:** 2026-06-21
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Father's Day post”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-06-21"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:58:50](/episodes/ep-VMNWMXX1vO8.md#t-00-58-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3530);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and she used a clip of Charlie at a TPUSA event with sparklers.

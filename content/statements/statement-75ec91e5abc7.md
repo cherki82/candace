@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:27:57](/episodes/ep-jsqUIkszZd0.md#t-00-27-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1677);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1677s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He then explained that his team was actually going to capture or execute Jimmy Barbecue, the top gang leader of Haiti.
 

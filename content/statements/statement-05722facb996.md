@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:04:16](/episodes/ep-Pb7UlpRdW6U.md#t-00-03-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(256);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=256s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A sitting president has survived not one, not two, but three separate shooting assassination attempts, all in the span of just under two years.
 

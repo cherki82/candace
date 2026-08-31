@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:03:13](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(193);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=193s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this Egyptian military plane had departed on the morning of Charlie's (Charlie Kirk's) assassination.
 

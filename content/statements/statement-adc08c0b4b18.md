@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:08:11](/episodes/ep-G3zdOeHpvS0.md#t-00-08-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because they knew that he would fail it and that would not help them in court if Tyler Robinson, who they say they got after a 33-hour manhunt, 33 hours on a minute over.
 

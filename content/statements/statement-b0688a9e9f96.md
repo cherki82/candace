@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:16:51](/episodes/ep-Ux1kzgQxkws.md#t-01-16-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4611);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4611s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One of them is a fugitive from justice wanted by Interpol in the United States government, Gal Luft, who is a former IDF officer.
 

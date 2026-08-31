@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:47:03](/episodes/ep-AH1KVKkweUE.md#t-00-46-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2823);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2823s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's the other thing. I think we've proven that they've told lies about what happened on that day or I guess rather they're having faulty memories. They haven't told the whole truth, maybe the truth, but not the whole truth about what happened on that day. And they haven't been forthcoming and there's no reason.
 

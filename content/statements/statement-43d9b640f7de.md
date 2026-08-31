@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:03:47](/episodes/ep-YFmRH8p5lt0.md#t-00-03-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(227);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > foreigner, actually—who informed me that the people who came in on that plane were not the people that went out on that plane.
 

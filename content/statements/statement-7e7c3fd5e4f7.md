@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:56:33](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3393);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=3393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I know our liars and I know our sexual deviants. So what's actually driving that? And I think the answer is prior existing relationships, military relationships.
 

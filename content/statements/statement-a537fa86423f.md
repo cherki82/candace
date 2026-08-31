@@ -25,7 +25,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:44:33](/episodes/ep-his-JBjlkh8.md#t-00-44-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2673);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2673s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like we could actually call them and say, "Hey, I have very specific information and accounts that you can trace because the president of France allegedly paid $1.5 million for my assassination.
 
@@ -33,7 +33,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:04:32](/episodes/ep-tB5SXXmd9vU.md#t-00-04-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(272);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=272s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said there was a paper trail that Macron (Emmanuel Macron) allegedly paid $1.5 million.
 

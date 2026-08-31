@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:05:38](/episodes/ep-4YgrOhhy708.md#t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(338);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=338s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This means that the, I would say, unnecessary Super Bowl political lines that were drawn ... by Turning Point USA was not successful in terms of drawing people away from the NFL's viewership. Now, in case you missed it, when Bad Bunny was announced,
 

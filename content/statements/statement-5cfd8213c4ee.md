@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:03:17](/episodes/ep-Ux1kzgQxkws.md#t-00-03-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > no possibility not even remotely beyond the fact that i wasn't even there i mean i spent probably you know over the course of four years maybe um 25 days at the white house like 25 nights 30 if i you know being fair and so It's just, you know, it was an easy, easy, you know, I'm an easy target and understandably so.
 

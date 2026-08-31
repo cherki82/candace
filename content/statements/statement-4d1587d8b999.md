@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:49:16](/episodes/ep-his-JBjlkh8.md#t-00-49-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2956);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2956s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Speaking of which, Charlie (Charlie Kirk)—whose death is exposing this matrix in ways I do not even think that we can fully comprehend in this moment just yet—we asked the question and we can't find the answer as to where Brigitte Macron was on the dates that the Egyptian plane
 

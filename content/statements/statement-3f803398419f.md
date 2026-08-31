@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:07:49](/episodes/ep-mFuno0TuuQQ.md#t-00-07-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(469);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=469s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you lied to my face as we sat down in that hotel and we spoke for four hours. ... Every single evil thing that was done to me was done with your blessing and I consider the onslaught of attacks that I had to endure, ... they were evil because you knew I was telling the truth and you authorized people with an incredible amount of money. ... You allowed these people to lie and to say that Charlie (Charlie Kirk) and I hadn't spoken since 2019. ... You authorized it and I now know that.
 

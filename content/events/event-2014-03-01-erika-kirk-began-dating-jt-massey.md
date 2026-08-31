@@ -6,6 +6,15 @@ date: "2014-03-01"
 ---
 
 **Date:** 2014-03-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “March 1st”
+
+**Normalization note:** Exact day is stated in the source transcript at 2784.468 seconds.
+
+**Date source:** [https://www.youtube.com/watch?v=DdPjoy5W-wY](https://www.youtube.com/watch?v=DdPjoy5W-wY)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2014-03-01"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:44:47](/episodes/ep-DdPjoy5W-wY.md#event-event-2014-03-01-erika-kirk-began-dating-jt-massey-t-00-46-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2687);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2687s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In March, we know that Erika is going to begin dating somebody else
 
@@ -25,6 +34,6 @@ date: "2014-03-01"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:46:24](/episodes/ep-DdPjoy5W-wY.md#event-event-2014-03-01-erika-kirk-began-dating-jt-massey-t-00-46-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2784);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2784s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So March 1st we went on our first date yes

@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:18:54](/episodes/ep-Ux1kzgQxkws.md#t-01-18-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4734);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4734s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He lived in Delaware. Everybody to think that you can think what every one of my dad is that literally my dad never bought a stock or a bond because he made a commitment in 1972 when he was 30 years old after Watergate never to own a stock or a bond. ... And he did. My dad was the poorest person ever to enter the presidency and the poorest person, not poorest.
 

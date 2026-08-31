@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:25:34](/episodes/ep-QRS_hR7NXaQ.md#t-00-25-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1534);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1534s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then call Erika (Erika Kirk) three seconds late. I mean, three minutes later, three plus minutes later, and then add Erika (Erika Kirk) to the line while your wife is on the phone.
 

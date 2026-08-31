@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:27:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-26-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1629);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1629s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They are lying to the public about everything—except this time it's regarding Charlie Kirk.
 

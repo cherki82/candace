@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:06:06](/episodes/ep-wcD2khO3rOA.md#t-01-05-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3966);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3966s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It tells us also in 1995 ... It gave a $3.5 million grant to the Christian Heritage Foundation ... which later bought a portion of Liberty University's debt ... Last year, News World Communications ... lent $400,000 to Liberty at a 6% interest according to the promissory note.
 

@@ -27,16 +27,16 @@ type: "factual_claim"
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:12:29](/episodes/ep-iHav0PPzUz8.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(749);return false;">Play</a>
+**Timestamp:** [00:12:29](/episodes/ep-iHav0PPzUz8.md#t-00-11-47) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=749s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I reported that even more curiously that Egyptian military plane had previously only ever been to the United States twice in that past year. And both times it was in the lead-up—in the weeks leading up to Charlie (Charlie Kirk)'s assassination.
 
 ### 2. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:12:29](/episodes/ep-iHav0PPzUz8.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(749);return false;">Play</a>
+**Timestamp:** [00:12:29](/episodes/ep-iHav0PPzUz8.md#t-00-11-47) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=749s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I reported that even more curiously that Egyptian military plane had previously only ever been to the United States twice in that past year
 

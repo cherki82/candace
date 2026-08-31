@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:32:29](/episodes/ep-A39g5oqB_eM.md#t-00-32-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1949);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1949s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > like I said, able to confirm that Helene (Helene Bartz)— ... Bartz. So again, to give you these names, Helene Bartz started the school, and I confirmed that she did indeed prior to worked at Shaklee. ... She actually ran the Shaklee Center in Arlington Heights.
 

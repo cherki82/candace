@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:06:05](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(365);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=365s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The first car rented was a silver 2025 Toyota RAV4. The Utah license plate number is T09-20-2ZS. The second car was a white 2025 Toyota Camry. Arizona license plate: CWNN872.
 

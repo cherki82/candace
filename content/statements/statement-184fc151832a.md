@@ -1,8 +1,8 @@
 ---
-title: "Steve Bannon said Jeffrey Epstein was the key that picks the..."
-description: "\"Steve Bannon said Jeffrey Epstein was the key that picks the lock to understanding how the world works\" — Steve Bannon"
+title: "Milo Yiannopoulos said Steve Bannon had described Jeffrey Ep..."
+description: "\"Milo Yiannopoulos said Steve Bannon had described Jeffrey Epstein as 'the key that picks the lock.'\" — Milo Yiannopoulos"
 statement_id: "statement-184fc151832a"
-speaker: "Steve Bannon"
+speaker: "Milo Yiannopoulos"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,15 +11,15 @@ veracity: "true"
 
 ## Statement
 
-> Steve Bannon said Jeffrey Epstein was the key that picks the lock to understanding how the world works
+> Milo Yiannopoulos said Steve Bannon had described Jeffrey Epstein as 'the key that picks the lock.'
 
 ## Attribution
 
-**Speaker:** [Steve Bannon](/entities/person-steve-bannon.md) (Quoted)
+**Speaker:** [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md) (Quoted)
 
-**Delivery:** Paraphrased
-**Read/Quoted by:** [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
-**Original Source:** Bannon's War Room / TPUSA Student Action Summit
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Timcast
 
 ## About
 
@@ -29,10 +29,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:26:01](/episodes/ep-Kmt6HgRjckU.md#t-00-25-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1561);return false;">Play</a>
+**Timestamp:** [00:26:09](/episodes/ep-Kmt6HgRjckU.md#t-00-26-07) 
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=1569s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He said that Epstein was the key that picks the lock, right
+> He said that Epstein was the key that picks the lock, right?
 
 ## Verification
 

@@ -11,11 +11,12 @@ object: "person-rob-mccoy"
 
 ## [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel) employs [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo)**
 
 - [00:13:34](/episodes/ep-Qfwr08Ebczo#t-00-13-34): _Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California._
+- [00:15:30](/episodes/ep-Qfwr08Ebczo#t-00-15-30): _McCoy will become the emeritus pastor and will still preach regularly at the church_
 
 ### Related
 

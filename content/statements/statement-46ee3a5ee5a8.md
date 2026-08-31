@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:29:24](/episodes/ep-tXoI0TTKVrs.md#t-00-28-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1764);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1764s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He invested in a genocide before it happened, presented plans for what they would do once genocide was completed.
 

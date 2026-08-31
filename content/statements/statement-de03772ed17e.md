@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:34:13](/episodes/ep-Pb7UlpRdW6U.md#t-00-34-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2053);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=2053s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Secondly, I want to say this. We do not put handcuffs on our sponsors. We do not put handcuffs on our sponsors. ... In fact, we were very intentional when we restarted the show after everything I went through the Daily Wire to have personal conversations and to make it very clear that we don't want those kinds of advertisers that are going to balk when it comes to a fight.
 

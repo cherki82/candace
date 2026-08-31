@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:04:39](/episodes/ep-YeEtS7nix3o.md#t-00-04-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(279);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=279s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Petersburg because she wanted to see the churches or anything like that. She was there because she was attending and speaking at the St. ... Petersburg International Economic Forum. alongside Vladimir Putin, Alexander Dugin, and other members of the Russian government and the intel community.
 

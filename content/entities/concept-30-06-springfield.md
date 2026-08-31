@@ -1,6 +1,6 @@
 ---
 title: ".30-06 Springfield"
-description: ".30-06 Springfield (Concepts) - 5 mentions"
+description: ".30-06 Springfield (Concepts) - 10 mentions"
 id: "concept-30-06-springfield"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ _Type: Concepts_
 Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saami.org/wp-content/uploads/2025/03/SAAMI-Z299.4-CFR-2025-Centerfire-Rifle-Approved-2-10-2025.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-30-06-springfield-t-00-16-58">2026-06-22 · 00:16:58</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-30-06-springfield-t-00-29-26">2025-11-04 · 00:29:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-30-06-springfield-t-00-20-59">2026-07-16 · 00:21:18</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,9 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-30-06-springfield-t-00-44-01">I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-30-06-springfield-t-00-29-26" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-30-06-springfield-t-00-20-17" style="--pulse-height:75%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-30-06-springfield-t-00-15-44" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-30-06-springfield-t-00-44-01" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-30-06-springfield-t-00-20-59" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
@@ -44,6 +47,9 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-30-06-springfield-t-00-29-26) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-30-06-springfield-t-00-20-17) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-30-06-springfield-t-00-15-44) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-30-06-springfield-t-00-44-01) | 4 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-30-06-springfield-t-00-20-59) | 1 |
 
@@ -53,7 +59,7 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -77,6 +83,36 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 
 **[00:58:17](/episodes/ep-VMNWMXX1vO8.md#ent-concept-30-06-springfield-t-00-57-50)**
 > ".30-06 just gets stopped and bounces down and ricochets,..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:16:10](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-30-06-springfield-t-00-15-44)**
+> "...harlie Kirk)'s neck stopped a .30-06 bullet because Charlie (Charlie Kirk) ate salad. ..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
+
+**[00:20:33](/episodes/ep-vwG1juDCQZQ.md#ent-concept-30-06-springfield-t-00-20-17)**
+> "...e being that he was shot by a .30-06 and stopped the bullet when, in a normal circumst..."
+
+**[00:20:46](/episodes/ep-vwG1juDCQZQ.md#ent-concept-30-06-springfield-t-00-20-17)**
+> "Like, .30-06 would decapitate someone. And because they've bee..."
+
+**[00:42:32](/episodes/ep-vwG1juDCQZQ.md#ent-concept-30-06-springfield-t-00-42-01)**
+> "...oke to like 10 hunters, and a .30-06 should have decapitated him.""
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:29:51](/episodes/ep-Qfwr08Ebczo.md#ent-concept-30-06-springfield-t-00-29-26)**
+> "...—until you acknowledge that a 30-06 did not go through his neck, did not get stopped ..."
 
 </details>
 

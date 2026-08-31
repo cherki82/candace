@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:44:47](/episodes/ep-DdPjoy5W-wY.md#t-00-44-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2687);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2687s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In March, we know that Erika (Erika Kirk) is going to begin dating somebody else, and his name is JT Massey, and he's a minor league baseball player.
 

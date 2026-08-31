@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:32:08](/episodes/ep-QRS_hR7NXaQ.md#t-00-31-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1928);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1928s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because a fan caught Erika (Erika Kirk) at a basketball game and then it was like oh oh yeah a if was it a football game Skylar (show producer; surname unverified) a football game and then it was like oh oh oh okay we you've been asking for this Fort Huachuca thing blah blah and then they gave they gave me something i didn't ask for maybe i wasn't clear but across weeks i'm just trying to get a basic alibi for september eighth and I'm just kind of getting pushed around and then finally they give me something and a couple of days later they send me a cease and desist and they they mentioned Fort Huachuca I I
 

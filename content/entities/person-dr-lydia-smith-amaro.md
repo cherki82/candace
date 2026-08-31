@@ -5,11 +5,19 @@ id: "person-dr-lydia-smith-amaro"
 type: "PERSON"
 aliases:
   - "Lydia Smith-Amaro"
+categories:
+  - "medical examiner"
 ---
 
 _Type: People_
 
 **Also known as:** Lydia Smith-Amaro
+
+**Categories:** medical examiner
+
+**Entity verification:** verified
+> The episode's visible chart and narration identify Dr. Lydia Smith-Amaro as the referenced medical examiner; verification is limited to that source-local identity and does not endorse the surrounding claims.
+Source: [Charlie Ripped A Hole In Reality | Candace Ep 253](https://www.youtube.com/watch?v=Cq7nj9rxPdo)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lydia-smith-amaro-t-00-29-20">2025-10-28 · 00:29:42</a></strong></div>
@@ -17,8 +25,8 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,23 +63,40 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Works For (1)</summary>
+
+- **[United States Army](/entities/org-united-states-army.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20): “The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with— ... She's a major in the Army.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[United States Army](/entities/org-united-states-army.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20): “The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with— ... She's a major in the Army.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dr. Lydia Smith-Amaro (3)</strong></summary>
+<summary><strong class="section-title">Statements about Dr. Lydia Smith-Amaro (1)</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
-
-- [00:29:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lydia Smith-Amaro, the medical examiner who worked on Charlie Kirk..."](/statements/statement-85da81f71cfa.md)
-
-- [00:29:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lydia Smith-Amaro is the medical examiner and a major in the Army"](/statements/statement-634d800bc6df.md)
-  - Also about: [United States Army](/entities/org-united-states-army.md)
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
 - [00:30:00](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lydia Smith-Amaro is from the Ericsson family and claims to be a d..."](/statements/statement-2cf79be0bc70.md)
-  - Also about: [Leif Ericsson](/entities/person-leif-ericsson.md)
+  - Also about: [Leif Erikson](/entities/person-leif-erikson.md)
 
 </details>
 

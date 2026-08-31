@@ -23,7 +23,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35">2025-10-06 · 01:01:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52">2026-08-17 · 01:11:23</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
@@ -36,8 +36,9 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59">Candace x Bassem Youssef | Candace Ep 298</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35" style="--pulse-height:12%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-34-51" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-piers-morgan-t-00-27-54" style="--pulse-height:12%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-35-00" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37" style="--pulse-height:38%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-piers-morgan-t-00-33-05" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11" style="--pulse-height:38%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
@@ -52,8 +53,9 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-34-51) | 2 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37) | 4 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-piers-morgan-t-00-27-54) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-35-00) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-piers-morgan-t-00-33-05) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59) | 8 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11) | 3 |
@@ -190,7 +192,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
 
 **[00:55:53](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37)**
 > "...is is just me, this is me and Piers Morgan, this is our thing."
@@ -198,10 +200,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 **[00:55:47](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37)**
 > "Piers Morgan is playing stupid when he eats the fed slop of JF..."
 
-**[00:55:50](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37)**
-> "Oh yeah, I did sit down with Piers Morgan this morning."
-
-**[00:57:46](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-57-41)**
+**[00:57:41](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-57-33)**
 > "...on writes, here is the money, Piers."
 
 </details>
@@ -209,11 +208,19 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-34-51)**
+**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-35-00)**
 > "... just telling jokes—went onto Piers Morgan and decided to put Dave Smith—who I love—through ..."
 
-**[00:47:53](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-47-29)**
-> "Okay, it was not Piers Morgan, right, Skyler?"
+**[00:47:53](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-47-26)**
+> "Okay, it was not Piers Morgan, right, Skyler (Skyler (Schuyler Pryor))?"
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:28:22](/episodes/ep-5autG89PW6w.md#ent-person-piers-morgan-t-00-27-54)**
+> "which is why I was very happy to hear former Navy SEAL Rob O'Neill explain this plainly when he went on Piers Morgan's show the other day."
 
 </details>
 

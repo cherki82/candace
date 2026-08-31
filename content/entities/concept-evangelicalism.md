@@ -1,6 +1,6 @@
 ---
 title: "Evangelicalism"
-description: "Evangelicalism (Concepts) - 15 mentions"
+description: "Evangelicalism (Concepts) - 19 mentions"
 id: "concept-evangelicalism"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evangelical-church-Protestantism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-43">2026-01-12 · 00:16:24</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-evangelicalism-t-00-38-18">2025-10-30 · 00:38:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46">2026-07-16 · 00:35:22</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,10 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-43">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-evangelicalism-t-00-38-18" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-evangelicalism-t-00-52-27" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-evangelicalism-t-00-40-48" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-evangelicalism-t-00-15-44" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-43" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-evangelicalism-t-00-58-46" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-evangelicalism-t-00-44-06" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
@@ -50,6 +54,10 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-evangelicalism-t-00-38-18) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-evangelicalism-t-00-52-27) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-evangelicalism-t-00-40-48) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-evangelicalism-t-00-15-44) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-43) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-evangelicalism-t-00-58-46) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-evangelicalism-t-00-44-06) | 1 |
@@ -67,7 +75,7 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -161,6 +169,38 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 
 **[00:20:18](/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-19-52)**
 > "...eping a leg inside of growing evangelical organizations?"
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:16:00](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-evangelicalism-t-00-15-44)**
+> "...Charlie Kirk) was a committed evangelical who only liked Catholic architecture. That's a li..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:41:05](/episodes/ep-vwG1juDCQZQ.md#ent-concept-evangelicalism-t-00-40-48)**
+> "That's not—he was a committed evangelical." Say, "I don't know." Just say, "I don't know." ..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[00:52:59](/episodes/ep-YFmRH8p5lt0.md#ent-concept-evangelicalism-t-00-52-27)**
+> "...hurches, those of you who are evangelical, who follow these evangelical influencers—you are..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+
+**[00:38:18](/episodes/ep-iHav0PPzUz8.md#ent-concept-evangelicalism-t-00-38-18)**
+> "...obviously he's speaking about evangelical Christians in general and saying that this violat..."
 
 </details>
 

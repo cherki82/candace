@@ -26,7 +26,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <div><span>Episodes</span><strong>23</strong></div>
 <div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,10 +39,10 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-ian-carroll-t-00-33-36" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-ian-carroll-t-00-22-45" style="--pulse-height:14%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 7 mentions" title="2025-10-27 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02" style="--pulse-height:43%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-03-49" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44" style="--pulse-height:14%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-42" style="--pulse-height:14%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-39" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45" style="--pulse-height:29%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
@@ -67,10 +67,10 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-ian-carroll-t-00-33-36) | 1 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-ian-carroll-t-00-22-45) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38) | 7 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02) | 3 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-03-49) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18) | 2 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-42) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-39) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45) | 2 |
@@ -249,13 +249,10 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
 
-**[00:05:11](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18)**
-> "he would love to meet Ian Carroll and I guess he's watching his stuff"
-
-**[00:31:44](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18)**
-> "...he said he would love to meet Ian Carroll (Ian Carroll) and I guess he's watching his stuff..."
+**[00:31:42](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-42)**
+> "...he said he would love to meet Ian Carroll and I guess he's watching his stuff and I will ob..."
 
 </details>
 
@@ -270,19 +267,16 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11)**
+**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-03-49)**
 > "...t be lied to by are lying to us. Juan Antonio writes: "Candace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore. Form a coalition: share editors, push promotion, and spark Occupy Wall Street 2.0 ..."
 
-**[01:04:38](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11)**
+**[01:04:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-31)**
 > "...already do behind the scenes. I haven't done that with Jimmy Dore, but anything these other people— Ian Carroll: we text regularly. Dave Smith: we text regularly when we're sharing information or asking each oth..."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
-
-**[00:37:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02)**
-> "James Lee, Ian Carroll, Sam Parker discovered video"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:40:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02)**
 > "... to the people who had pulled this out—who had discovered this over the weekend. So like James Lee, Ian Carroll, Sam Parker. And here is what Andrew Kolvet had to say. (Andrew Kolvet speaking) He's going to tell..."
@@ -322,7 +316,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
 **[00:22:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-ian-carroll-t-00-22-45)**
-> "...listen. (Clip of Josh Hammer:) "Precisely, as you as you mentioned, there have been people who like Ian Carroll, and it pains me just to mention her name—Candace (Candace Owens)—because I know how close she was ..."
+> ""Precisely, as you as you mentioned, there have been people who like Ian Carroll, and it pains me just to mention her name—Candace (Candace Owens)—because I know how close she was and maybe still is to Charlie (Charlie Kirk)—um, but at the end of the day she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. Um, but then you have the people who are sort of a bit more in the middle—"
 
 </details>
 
@@ -395,9 +389,10 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:02:22](/episodes/ep-k1b1NDCrNFs.md#t-00-02-22): “I have actually never had Ian Carroll's address. I think he kind of lives like a nomad. They were operating, it appears to me like under some delusion that he was a regular co-host of this show or a host of the show and that he worked for me when actually, as you all know, he just filled in for me while I was on maternity leave last year.”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 01:04:37](/episodes/ep-vwG1juDCQZQ.md#t-01-04-31): “Ian Carroll: we text regularly.”
 
 </details>
 
@@ -422,7 +417,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ian Carroll (3)</strong></summary>
+<summary><strong class="section-title">Statements about Ian Carroll (2)</strong></summary>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
@@ -437,14 +432,6 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 
 - [00:42:14](/episodes/ep-OEAHy3SsIiI.md#t-00-41-37) (Accusation) **Candace Owens**: ["Candace Owens alleged that Paramount Tactical Solutions and Valhalla V..."](/statements/statement-376f124fdf15.md)
   - Also about: [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md), [Valhalla VFT](/entities/org-valhalla-vft.md), [Mitch Snow](/entities/person-mitch-snow.md)
-
-</details>
-
-<details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
-
-- [00:22:45](/episodes/ep-2Riv3I7D0Yk.md#t-00-22-12) (Accusation) **Josh Hammer** (via quoted speech): ["Candace Owens and Ian Carroll have chosen to hijack Charlie Kirk's dea..."](/statements/statement-d6d263540089.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

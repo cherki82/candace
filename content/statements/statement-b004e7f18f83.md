@@ -1,37 +1,39 @@
 ---
-title: "Donald Trump tweeted on April 19th, 2013 calling for public ..."
-description: "\"Donald Trump tweeted on April 19th, 2013 calling for public executions\" — Donald J. Trump"
+title: "Josh Hammer said Charlie Kirk's heart was 'absolutely in the..."
+description: "\"Josh Hammer said Charlie Kirk's heart was 'absolutely in the right place' and that he was navigating 'very choppy waters' over Israel.\" — Josh Hammer"
 statement_id: "statement-b004e7f18f83"
-speaker: "Donald J. Trump"
-type: "factual_claim"
+speaker: "Josh Hammer"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Donald Trump tweeted on April 19th, 2013 calling for public executions
+> Josh Hammer said Charlie Kirk's heart was 'absolutely in the right place' and that he was navigating 'very choppy waters' over Israel.
 
 ## Attribution
 
-**Speaker:** [Donald J. Trump](/entities/person-donald-trump.md) (Quoted)
+**Speaker:** [Josh Hammer](/entities/person-josh-hammer.md) (Quoted)
 
-**Delivery:** Quoted from tweet
+**Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** JTV interview
 
 ## About
 
-- [Donald J. Trump](/entities/person-donald-trump.md) (person)
+- [Josh Hammer](/entities/person-josh-hammer.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:06:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(401);return false;">Play</a>
+**Timestamp:** [00:26:50](/episodes/ep-2Riv3I7D0Yk.md#t-00-26-31) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=1610s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Trump wrote on April 19th, 2013: "Should be public execution for all to see
+> I mean, it doesn't make any sense. It literally simply does not make sense. His heart was absolutely in the right place. Again, he was trying to navigate kind of some very choppy waters stuff.
 
 ## Verification
 
@@ -52,4 +54,4 @@ Trump tweeted on April 19, 2013 about Boston bombers calling for public executio
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

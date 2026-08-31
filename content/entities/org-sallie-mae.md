@@ -3,13 +3,21 @@ title: "Sallie Mae"
 description: "Sallie Mae (Organizations) - 2 mentions"
 id: "org-sallie-mae"
 type: "ORG"
+categories:
+  - "student lending"
 ---
 
 _Type: Organizations_
 
+**Categories:** student lending
+
+**Entity verification:** verified
+> Sallie Mae's official company page confirms the canonical brand and its student-loan business, matching the episode context.
+Source: [About Us | Sallie Mae](https://www.salliemae.com/about/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-sallie-mae-t-00-46-33">2025-11-03 · 00:47:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-sallie-mae-t-00-47-17">2025-11-03 · 00:47:24</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-sallie-mae-t-00-47-17">2025-11-03 · 00:47:21</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -44,8 +52,8 @@ _Type: Organizations_
 **[00:47:14](/episodes/ep-K1tFD7FfoCU.md#ent-org-sallie-mae-t-00-46-33)**
 > "...a ton of loans—student loans, Sallie Mae loans."
 
-**[00:47:24](/episodes/ep-K1tFD7FfoCU.md#ent-org-sallie-mae-t-00-47-17)**
-> "Sallie Mae had a big collapse, and they said, 'You can't go back for your senior year because we can no longer fund you to go back for your senior year.'"
+**[00:47:21](/episodes/ep-K1tFD7FfoCU.md#ent-org-sallie-mae-t-00-47-17)**
+> "Sallie Mae had a big collapse, and they said, "You can't go back for your senior year because we can no longer fund you to go back for your senior year.""
 
 </details>
 

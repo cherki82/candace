@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:49:56](/episodes/ep-hWTdXHGQ8R4.md#t-00-49-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2996);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2996s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we want to get together our Erika (Erika Kirk) series ... just doing a general background separating fact from fiction there has been some fiction people misread things and there have been some facts and there are still question marks ... we will will give you more on that for sure
 

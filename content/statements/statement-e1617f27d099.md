@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2089);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's just a lie. Chapter three is just a lie. I was not naming Erika. I said nice things about Erika, about her speech. Didn't start covering Erika until Erika lied to my face in December
 

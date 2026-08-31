@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:14:46](/episodes/ep-7ERqbYElOfs.md#t-00-14-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(886);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=886s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I'm just going to throw it back here to when I told people that the DGSE in Paris was involved and had also put a hit on me. Here that is, which came in November, my old tweet saying that I had a source inside of the French government because I did that told me that their GIGN intervention group was involved in the assassination.
 

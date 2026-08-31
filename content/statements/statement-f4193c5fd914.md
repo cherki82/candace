@@ -1,17 +1,17 @@
 ---
-title: "we got chased out of a Philadelphia restaurant by Antifa, an..."
-description: "\"we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie Kirk\" — Candace Owens"
+title: "Candace Owens accused Antifa of chasing her and Charlie Kirk..."
+description: "\"Candace Owens accused Antifa of chasing her and Charlie Kirk out of a Philadelphia restaurant and throwing water and an egg on Kirk.\" — Candace Owens"
 statement_id: "statement-f4193c5fd914"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie Kirk
+> Candace Owens accused Antifa of chasing her and Charlie Kirk out of a Philadelphia restaurant and throwing water and an egg on Kirk.
 
 ## Attribution
 
@@ -20,13 +20,19 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Antifa](/entities/org-antifa.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:15:22](/episodes/ep-_dRaEO47-co.md#t-00-14-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(922);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=922s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> forget the infamous day that we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an
+> I mean, of course, who could forget the infamous day that we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie (Charlie Kirk)?
 
 ## Verification
 
@@ -47,4 +53,4 @@ Confirmed: In August 2018, Charlie Kirk and Candace Owens were confronted at Gre
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

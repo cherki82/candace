@@ -1,6 +1,6 @@
 ---
-title: "He also said ... that he knows guns, and the gun that the FB..."
-description: "\"He also said ... that he knows guns, and the gun that the FBI found was not the gun that he saw, that the gun that he saw was smaller.\" — Candace Owens"
+title: "Owens said the anonymous eyewitness had extensive firearms e..."
+description: "\"Owens said the anonymous eyewitness had extensive firearms experience and helped train people\" — Candace Owens"
 statement_id: "statement-ac0a6691553c"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,22 +10,25 @@ type: "factual_claim"
 
 ## Statement
 
-> He also said ... that he knows guns, and the gun that the FBI found was not the gun that he saw, that the gun that he saw was smaller.
+> Owens said the anonymous eyewitness had extensive firearms experience and helped train people
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (anonymous_source)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:24:55](/episodes/ep-UBkFkg4UNY8.md#t-00-24-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1495);return false;">Play</a>
+**Timestamp:** [00:22:28](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=1348s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> So he also said something that we had not heard, which is that he knows guns, and the gun that the FBI found was not the gun that he saw—that the gun that he saw was smaller
+> I don't want to give too many identifying details here, but this person himself has a lot of experience with guns and knows guns and, you know, helps to train people in that sort of a capacity.
 
 ## Verification
 

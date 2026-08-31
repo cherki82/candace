@@ -6,6 +6,11 @@ date: "2025-05"
 ---
 
 **Date:** 2025-05
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “back in May”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-05"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(269);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > calling about the letter that Charlie wrote him back in May.

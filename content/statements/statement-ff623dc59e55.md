@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:33:05](/episodes/ep-ZzAT2xijKGQ.md#t-00-32-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1985);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1985s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point tried to remove it from the podcast. They did actually remove it from the podcast
 

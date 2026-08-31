@@ -3,9 +3,18 @@ title: "Turning Point Endowment"
 description: "Turning Point Endowment (Organizations) - 4 mentions"
 id: "org-turning-point-endowment"
 type: "ORG"
+categories:
+  - "Turning Point network"
+  - "nonprofit supporting organization"
 ---
 
 _Type: Organizations_
+
+**Categories:** Turning Point network, nonprofit supporting organization
+
+**Entity verification:** verified
+> Turning Point USA official Form 990 identifies Turning Point Endowment by this canonical name as a related 501(c)(3) supporting organization.
+Source: [Turning Point USA Form 990, fiscal year ending June 30, 2021](https://www.tpusa.com/wp-content/uploads/Financial-Reports/2020%E2%80%932021/TP%20USA%20-%20Form%20990%20-%20FY%20Ending%20June%2030%202021.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-34-07">2025-11-17 · 00:34:30</a></strong></div>
@@ -14,7 +23,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,7 +56,7 @@ _Type: Organizations_
 **[00:38:29](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-38-06)**
 > "...rs they were sending money to Turning Point Endowment."
 
-**[00:41:27](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-22)**
+**[00:41:26](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-22)**
 > "In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch."
 
 **[00:41:41](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-22)**
@@ -60,7 +69,55 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Audited By (1)</summary>
+
+- **[Baker Tilly](/entities/org-baker-tilly.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Funded By (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:38:29](/episodes/ep-JQjCAsfoXEE.md#t-00-38-06): “This dip happens because in prior years they were sending money to Turning Point Endowment. ... Turning Point USA is taking in donations and then sending the money to their endowment to invest in the stock market.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Baker Tilly](/entities/org-baker-tilly.md)** audited this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:38:29](/episodes/ep-JQjCAsfoXEE.md#t-00-38-06): “This dip happens because in prior years they were sending money to Turning Point Endowment. ... Turning Point USA is taking in donations and then sending the money to their endowment to invest in the stock market.”
+
+</details>
+
+</details>
 
 </details>
 

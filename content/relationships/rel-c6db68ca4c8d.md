@@ -19,7 +19,7 @@ object: "person-ben-shapiro"
 
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 
-- [00:00:19](/episodes/ep-w1oqQbR_bYs#t-00-00-19): _He seems to be taking multiple stages and demanding an allegiance to Erica Kirk_
+- [00:00:12](/episodes/ep-w1oqQbR_bYs#t-00-00-12): _He seems to be taking multiple stages and demanding an allegiance to Erika Kirk._
 
 ### Related
 

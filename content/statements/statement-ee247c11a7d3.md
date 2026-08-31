@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [01:13:29](/episodes/ep-9naMwS0kMBE.md#t-01-13-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4409);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=4409s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we were speaking about the American Cancer Society, which seems the person who gave me that tip about Dan Flood and said that he ran with these people said that money is being funneled, that it's just a money laundering operation to pay off dirty cops through ... the Cattlemen's Ball, Cattle Barons Ball
 

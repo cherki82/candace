@@ -11,11 +11,15 @@ object: "org-the-daily-wire"
 
 ## [Alyssa Cordova](/entities/person-alyssa-cordova) formerly worked for [The Daily Wire](/entities/org-the-daily-wire)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ)**
 
 - [00:41:24](/episodes/ep-QRS_hR7NXaQ#t-00-41-24): _he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file_
+
+**[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
+
+- [00:44:41](/episodes/ep-vwG1juDCQZQ#t-00-44-41): _Alyssa Cordova was formerly the PR person—head PR person at Daily Wire._
 
 ### Related
 

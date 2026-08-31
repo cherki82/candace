@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(210);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=210s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Our master timeline we've created is the month of June, because we know that during the month of June, according to Tucker Carlson. And other people who have come out and spoken about this, Charlie goes head to head with Bibi Netanyahu. And Charlie wins, by the way, in the moment. He lobbies in the month of June for President Trump not to get involved in Israel's war with Iran.
 

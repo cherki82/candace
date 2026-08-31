@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:22:33](/episodes/ep-HGtMfbePDKk.md#t-00-22-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1353);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1353s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Naturally, Erika Kirk and Turning Point USA partnered with her anyway, out of what we can only assume is their ever-increasing desperation to smear me and all of those who are researching the many flaws in the Charlie Kirk assassination story.
 

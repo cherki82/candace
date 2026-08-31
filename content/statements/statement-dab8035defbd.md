@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:43:24](/episodes/ep-3QJqtW_NOSI.md#t-00-43-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2604);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2604s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Oh, it can be because the Federal Bureau of Investigation is not investigating. They've never investigated. They've always been corrupt, you guys.
 

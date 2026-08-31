@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:21:03](/episodes/ep-Wjul6YV6izo.md#t-00-20-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1263);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=1263s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they would have known everything about you that's how they work before everyone is seated stacy sheridan's job literally is to know everything about that person their net worth she she'll know your dad's net worth your mom's net worth she would tell charlie she whispered in charlie's ear that person and then charlie would go have the conversation that was the whole reason they brought her on that's what stacy's brilliant at
 

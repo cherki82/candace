@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:02:31](/episodes/ep-Ux1kzgQxkws.md#t-00-02-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(151);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the bureau of uh probation in which i was drug tested randomly for over the course of two years while i went through my trials and things like that but beyond that is that uh uh directly to your question i wasn't even there not only there but people have to understand is where that cocaine was found was you know the visitor's entrance underneath the that is where visitors come in and
 

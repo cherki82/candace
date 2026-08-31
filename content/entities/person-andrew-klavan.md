@@ -21,7 +21,7 @@ _Type: People_
 Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-contact/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35">2025-11-06 · 00:03:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13">2025-11-06 · 00:03:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-andrew-klavan-t-00-59-06">2026-07-16 · 00:59:15</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>16</strong></div>
@@ -35,7 +35,7 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-21-50">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35" style="--pulse-height:62%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13" style="--pulse-height:62%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-21-50" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 8 mentions" title="2025-12-20 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-16" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02" style="--pulse-height:12%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35) | 5 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13) | 5 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-21-50) | 8 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-16) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02) | 1 |
@@ -105,30 +105,30 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 > "...y intimated that to you, like Andrew Kolvet has a memory, Erika Kirk has a memory, and..."
 
 **[00:41:14](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
-> "...a three-way call with him and Andrew and Erica."
+> "I should also mention that the surgeon said, and again, this is through a third party person, so it's on direct line between me and the surgeon, that he absolutely did not violate HIPAA when he suggested, hey, maybe it's a frangible bullet, but rather that it was a three-way call with him and Andrew and Erika."
 
 **[00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
-> "...Erica's telling the truth and Andrew Kolvet was flying blind."
+> "I don't know if he's telling the truth or if Erika's telling the truth and Andrew Kolvet was flying blind."
 
 </details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
-**[00:03:48](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35)**
+**[00:03:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13)**
 > "Andrew Klavan: Christ is King."
 
-**[00:22:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35)**
-> "Andrew's going to talk about it."
+**[00:22:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13)**
+> "Andrew (Andrew Kolvet)'s going to talk about it. Everyone's going to talk about it. And they don't want to talk about the stuff that we care about."
 
-**[00:59:59](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35)**
+**[00:59:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13)**
 > "Tom Paul writes: "Andrew Kolvet on Alex Clark show discussed how Charlie's..."
 
-**[01:00:41](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35)**
-> "Didn't Andrew offer up an explanation?"
+**[01:00:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13)**
+> "Yes: regarding that heart still beating if he instantly went to heaven. Didn't Andrew (Andrew Kolvet) offer up an explanation?"
 
-**[01:00:58](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35)**
-> "...g—since they mentioned it—for Andrew or Frank Turek to respond to."
+**[01:00:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-13)**
+> "But maybe he still had a pulse. Again: this would be a great thing—since they mentioned it—for Andrew (Andrew Kolvet) or Frank Turek to respond to."
 
 </details>
 

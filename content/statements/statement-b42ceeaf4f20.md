@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:37:55](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2275);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2275s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was actually given the travel logs for Brian Harpole, and it is entirely possible that Brian Harpole could have made it for that meeting. I can tell you that definitively, Brian Harpole could have made it to that base for that early morning meeting
 

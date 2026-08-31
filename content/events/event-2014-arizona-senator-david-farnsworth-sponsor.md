@@ -6,6 +6,11 @@ date: "2014"
 ---
 
 **Date:** 2014
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2014”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2014"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:32:45](/episodes/ep-HYn0P-P1wUw.md#event-event-2014-arizona-senator-david-farnsworth-sponsor-t-00-32-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1965);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1965s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At the time, David Farnsworth was actually sponsoring the bill

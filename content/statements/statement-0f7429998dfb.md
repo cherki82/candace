@@ -32,7 +32,7 @@ veracity: "false"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:58:11](/episodes/ep-k1b1NDCrNFs.md#t-00-57-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=3491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You got donors who say that the Charlie (Charlie Kirk) voice saying that he appoints Erika (Erika Kirk) as CEO, which you guys allege took place at the Aspen events. Donors that were in attendance say that that did not happen. Blake (Blake Neff), what say you? Can you please drop the video?
 

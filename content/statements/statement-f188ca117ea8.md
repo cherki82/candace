@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:36:06](/episodes/ep-wcD2khO3rOA.md#t-00-36-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2166);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2166s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I really can't describe the sense of abandonment and fear and disassociation that you experience when your family abandons you... Did you ever really feel like you had a choice?... No
 

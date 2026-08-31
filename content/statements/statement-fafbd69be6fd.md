@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1728);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1728s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Before we get to what he had to say about Bari Weiss, I want to remind you that Bari Weiss started and is a part-owner, at least, of The Free Press before that—before she went on to CBS News.
 

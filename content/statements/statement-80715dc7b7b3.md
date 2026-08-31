@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:06:17](/episodes/ep-ChuWo-n49B8.md#t-00-06-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(377);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=377s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were also told that there is a video of Tyler Robinson taking the shot in 4K by the influencers. That is a lie. I proved to you that was a lie. They're now moving the goalposts and pretending that they never said it. There was no video of any person taking the shot actually.
 

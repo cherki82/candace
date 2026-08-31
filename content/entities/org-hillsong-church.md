@@ -1,6 +1,6 @@
 ---
 title: "Hillsong Church"
-description: "Hillsong Church (Organizations) - 4 mentions"
+description: "Hillsong Church (Organizations) - 5 mentions"
 id: "org-hillsong-church"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About Hillsong Church](https://hillsong.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-hillsong-church-t-00-43-23">2026-02-28 · 00:43:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-hillsong-church-t-00-28-26">2025-11-15 · 00:28:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-hillsong-church-t-01-03-10">2026-02-28 · 01:03:44</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,12 +35,14 @@ Source: [About Hillsong Church](https://hillsong.com/about/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-hillsong-church-t-00-43-23">Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-hillsong-church-t-00-28-26" style="--pulse-height:25%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-hillsong-church-t-00-43-23" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-hillsong-church-t-00-28-26) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-hillsong-church-t-00-43-23) | 4 |
 
 </details>
@@ -49,7 +51,7 @@ Source: [About Hillsong Church](https://hillsong.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (4 mentions)</summary>
@@ -65,6 +67,14 @@ Source: [About Hillsong Church](https://hillsong.com/about/)
 
 **[01:03:44](/episodes/ep-cZxHqYsWRYg.md#ent-org-hillsong-church-t-01-03-10)**
 > "The Vifa writes, went to Hillsong in Oslo in my 20s. I remember how creepy it was b..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:28:52](/episodes/ep-7RLtGgkTh9o.md#ent-org-hillsong-church-t-00-28-26)**
+> ""Jay-Z, Beyoncé—and she also owns the home church, Churchome, to get Bieber from Hillsong.""
 
 </details>
 

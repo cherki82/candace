@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:04:55](/episodes/ep-h76ZN-xXC6c.md#t-00-04-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then you can see come 2000 at the at the end of the you're being brainwashed tour we're going to scroll through here i don't know when exactly this event was but i do know this was his fall of 2024 now you see he's got a RØDE microphone clipped ... flipped onto him on top of the handheld mic.
 

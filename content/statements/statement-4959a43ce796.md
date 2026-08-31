@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:11:17](/episodes/ep-1IY2oD-_xVA.md#t-00-11-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(677);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=677s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > as we learned, were married in Marblehead, Massachusetts. We still cannot find a single shred of proof regarding that union having taken place, but we do acknowledge that it is the birthplace of the Marine Corps Aviation, although whether that marriage took place in the 80s, whether that marriage took place in the 90s, or whether...
 

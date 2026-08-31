@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:05:56](/episodes/ep-1hcjQGgvxUY.md#t-00-05-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(356);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=356s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica (Erika Kirk) then says sec. ... Sex too, ... but not from you, ... lol. ... You always make me laugh. ... I don't bat for the other team just yet.
 

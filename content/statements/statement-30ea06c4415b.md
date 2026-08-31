@@ -20,14 +20,14 @@ type: "accusation"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [United States Department of Justice](/entities/org-united-states-department-of-justice.md) (org)
 
 ## Source
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:46:32](/episodes/ep-Wjul6YV6izo.md#t-00-46-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2792);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=2792s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look over here, Theodore, because we have actually been inefficient the entire time that we've been in office. We are actually doing nothing but trying to grab headlines rather than to actually solve crimes that are being committed mostly by us. Okay.
 

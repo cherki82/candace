@@ -24,8 +24,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:29:01](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1741);return false;">Play</a>
+**Timestamp:** [00:29:01](/episodes/ep-2WEHTk0Xewg.md#t-00-28-27) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1741s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When encountered in person by investigators in Washington County on September 12th in the early morning hours, Robinson was observed in consistent clothing with those surveillance images
 

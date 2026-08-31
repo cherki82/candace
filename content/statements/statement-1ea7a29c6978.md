@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:15:41](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(941);return false;">Play</a>
+**Timestamp:** [00:15:41](/episodes/ep-2WEHTk0Xewg.md#t-00-15-28) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=941s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > From 8:07 a.m., when he walked onto campus, to when he is then seen walking back onto campus at 11:51—that's about four hours
 

@@ -6,6 +6,11 @@ date: "2025-09-19"
 ---
 
 **Date:** 2025-09-19
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 19th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-19"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:06:57](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-09-19-terrell-farnsworth-showed-candace-owens--t-00-06-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(417);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=417s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On September 19th, he did that. And gratefully, I moved to record that FaceTime call
 
@@ -25,6 +30,6 @@ date: "2025-09-19"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:05:20](/episodes/ep-xi8SYJTUXPM.md#event-event-2025-09-19-terrell-farnsworth-showed-candace-owens--t-00-05-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(320);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=320s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on the 19th he sort of broke and said okay no let's just get on the call

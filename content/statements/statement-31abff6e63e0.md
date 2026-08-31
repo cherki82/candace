@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:11:57](/episodes/ep-7FS1tUeSfdE.md#t-00-11-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(717);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=717s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > First part is talking about approved message emphasized the president is secured. ... that say that there's no credible there's no foreign threats.
 

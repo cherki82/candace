@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:42:52](/episodes/ep-X92MllIHDzw.md#t-00-42-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2572);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2572s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I saw Marjorie Greene say this is about female victims. It's actually not about female victims. It's about the integrity of our government.
 

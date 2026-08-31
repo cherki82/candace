@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:24:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1464);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1464s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we learned from a source that a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned and confirmed had three federal agencies working together in one building
 

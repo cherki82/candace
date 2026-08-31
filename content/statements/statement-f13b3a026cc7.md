@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:49:36](/episodes/ep-G3zdOeHpvS0.md#t-00-49-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2976);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=2976s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I cannot ignore the behavior of this administration when it comes to Epstein. And I think like the rest of the world, our general vibe, our gut, our intuition tells us that Israel was involved in Charlie Kirk's assassination.
 

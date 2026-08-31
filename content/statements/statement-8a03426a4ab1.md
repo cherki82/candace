@@ -1,8 +1,8 @@
 ---
-title: "Owens presented flight-tracking material identifying Air For..."
-description: "\"Owens presented flight-tracking material identifying Air Force C-37A tail 99-0404 and inferred a Tucson-to-Fort-Huachuca leg from a transponder gap be...\" — Candace Owens"
+title: "An anonymous flight-tracking tipster reported that C-37A tai..."
+description: "\"An anonymous flight-tracking tipster reported that C-37A tail 99-0404 flew from Colorado Springs to Tucson on September 8, its transponder then appear...\" — C-37A flight email tipster (identity unverified)"
 statement_id: "statement-8a03426a4ab1"
-speaker: "Candace Owens"
+speaker: "C-37A flight email tipster (identity unverified)"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -11,27 +11,29 @@ veracity: "mixed"
 
 ## Statement
 
-> Owens presented flight-tracking material identifying Air Force C-37A tail 99-0404 and inferred a Tucson-to-Fort-Huachuca leg from a transponder gap before a reported Fort-Huachuca departure on September 9, 2025
+> An anonymous flight-tracking tipster reported that C-37A tail 99-0404 flew from Colorado Springs to Tucson on September 8, its transponder then appeared to turn off, and it next appeared departing Fort Huachuca on September 9
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [C-37A flight email tipster (identity unverified)](/entities/anon-src-6DhWawD4ZiM-003.md) (Anonymous Source)
 
 **Delivery:** Read from message
-**Original Source:** Anonymous tip and flight-tracking screenshots presented by Candace Owens
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Email from flight-tracking tipster
 
 ## About
 
 - [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md) (gpe)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
+- [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md) (vehicle)
 
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:44:00](/episodes/ep-6DhWawD4ZiM.md#t-00-43-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2640);return false;">Play</a>
+**Timestamp:** [00:44:22](/episodes/ep-6DhWawD4ZiM.md#t-00-44-11) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=2662s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> On September 8th, it flew from Colorado Springs to Tucson. Then five hours later from Tucson, and then the transponder appears to be turned off. However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews.
+> On September 8th, it flew from Colorado Springs to Tucson. Then five hours later from Tucson, and then the transponder appears to be turned off. ... However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso and then El Paso back to Andrews Air Force Base.
 
 ## Verification
 

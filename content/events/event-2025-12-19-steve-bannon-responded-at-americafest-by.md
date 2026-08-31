@@ -6,6 +6,15 @@ date: "2025-12-19"
 ---
 
 **Date:** 2025-12-19
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “at AmericaFest”
+
+**Normalization note:** AP reports Shapiro spoke opening night and Bannon responded the next night; AmericaFest opened 2025-12-18, so Bannon response date is 2025-12-19.
+
+**Date source:** [https://apnews.com/article/f5e506321669034433ff1dac411ec2e3](https://apnews.com/article/f5e506321669034433ff1dac411ec2e3)
 
 ## Event
 
@@ -15,6 +24,6 @@ date: "2025-12-19"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:18:09](/episodes/ep-zSKrxIUMNqw.md#event-event-2025-12-19-steve-bannon-responded-at-americafest-by-t-00-18-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1089);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But Ben Shapiro is like a cancer, and that cancer spreads.

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:24:28](/episodes/ep-CMcktj3Egfo.md#t-00-23-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1468);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1468s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He had a male mentor. ... Who bought him and everyone in his family, allegedly, brand new cars. ... And this daddy mentor of his is the one that pushed for Jerry Falwell Sr. to give Johnnie a position with Liberty University. ... That man's name is Ron Godwin, Johnnie's mentor.
 

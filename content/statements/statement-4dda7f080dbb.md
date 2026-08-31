@@ -24,7 +24,7 @@ veracity: "true"
 ## About
 
 - [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Summit Hills Country Club](/entities/org-summit-hills-country-club.md) (org)
 - [Crestview Hills, Kentucky](/entities/gpe-crestview-hills-kentucky.md) (gpe)
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:17:25](/episodes/ep-cZxHqYsWRYg.md#t-00-17-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1045);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1045s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Erpenbeck name was back in the news in 2009 when FBI agents dug up a cooler full of cash from Summit Hills Country Club in Crestview Hills. ... A friend had buried money that he received from Erpenbeck on the course next to Erpenbeck's former home. ... Erpenbeck had hoped to use that money after he got out of prison.
 

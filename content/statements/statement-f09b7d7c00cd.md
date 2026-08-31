@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:40:49](/episodes/ep-y8lak3CRwDw.md#t-00-40-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2449);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2449s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rob McCoy was the person who organized the Nashville Covenant School memorial in 2023 because it just so happened that Turning Point was having a pastor's summit down the road when that happened, when the shooting happened.
 

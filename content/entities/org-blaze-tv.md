@@ -6,11 +6,20 @@ type: "ORG"
 aliases:
   - "BlazeTV"
   - "The Blaze"
+categories:
+  - "news media"
+  - "streaming media"
 ---
 
 _Type: Organizations_
 
 **Also known as:** BlazeTV, The Blaze
+
+**Categories:** news media, streaming media
+
+**Entity verification:** verified
+> Official BlazeTV site confirms the canonical BlazeTV brand used in the Glenn Beck interview context.
+Source: [BlazeTV](https://www.blazetv.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-blaze-tv-t-00-16-17">2025-12-12 · 00:16:30</a></strong></div>

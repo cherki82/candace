@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:24:40](/episodes/ep-IqHsl7d2dos.md#t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1480);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have an incredible array of possibilities of creating foreign companies that have in no way been traced back to Israel, shell companies over shell companies who affect the supply chain to our favor.
 

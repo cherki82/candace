@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:20:26](/episodes/ep-SubDoZWHARo.md#t-00-20-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1226);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1226s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am told the truth is again that there was immediate parental backlash already that kept happening because she was announced and they basically said, OK, this is an optional event.
 

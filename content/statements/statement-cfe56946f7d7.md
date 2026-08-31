@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(490);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=490s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then suddenly the boyfriend, Lance (Lance Twiggs), testifies that he's never spoken to him about LGBTQ issues. So I guess for the first time he spoke to him about it after he killed Charlie Kirk via text message. Again, it's a very serious lie that has now been debunked because it means the motive has evaporated. The political motive has evaporated. He said they didn't even speak about politics. He had never mentioned the name Charlie Kirk to him. Ever.
 

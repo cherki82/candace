@@ -1,6 +1,6 @@
 ---
-title: "He inspired millions of Americans of all ages to think criti..."
-description: "\"He inspired millions of Americans of all ages to think critically, to courageously stand for truth and to live with faith and purpose.\" — Candace Owens"
+title: "Owens said Charlie Kirk inspired millions of Americans of al..."
+description: "\"Owens said Charlie Kirk inspired millions of Americans of all ages to think critically, stand courageously for truth, and live with faith and purpose\" — Candace Owens"
 statement_id: "statement-09608bdcd1a9"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> He inspired millions of Americans of all ages to think critically, to courageously stand for truth and to live with faith and purpose.
+> Owens said Charlie Kirk inspired millions of Americans of all ages to think critically, stand courageously for truth, and live with faith and purpose
 
 ## Attribution
 
@@ -19,13 +19,17 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:58:18](/episodes/ep-czVBmqZP6Ss.md#t-00-57-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3498);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=3498s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He inspired millions of Americans of all ages to think critically, to courageously stand for truth and to live with faith and purpose
+> He inspired millions of Americans of all ages to think critically, to courageously stand for truth and to live with faith and purpose.
 
 ## Verification
 

@@ -1,36 +1,38 @@
 ---
-title: "Israel bombed Qatar on September 9th, violating internationa..."
-description: "\"Israel bombed Qatar on September 9th, violating international law\" — Candace Owens"
+title: "Alex Jones said he had seen no evidence Israel killed Charli..."
+description: "\"Alex Jones said he had seen no evidence Israel killed Charlie Kirk and wanted ballistics and forensic evidence before assigning motive.\" — Alex Jones"
 statement_id: "statement-72b470641d27"
-speaker: "Candace Owens"
-type: "factual_claim"
+speaker: "Alex Jones"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Israel bombed Qatar on September 9th, violating international law
+> Alex Jones said he had seen no evidence Israel killed Charlie Kirk and wanted ballistics and forensic evidence before assigning motive.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Alex Jones](/entities/person-alex-jones.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Alex Jones show clip
 
 ## About
 
 - [Israel](/entities/gpe-israel.md) (gpe)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:11:22](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(682);return false;">Play</a>
+**Timestamp:** [00:55:38](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-02) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=3338s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> 9:29 a.m., he tweets in favor of Israel and throws shade at Donald Trump and Qatar, and all of this is related to what went on on September 9th, which is that Israel bombed Qatar for no reason, violating international law, which they tend to do a lot
+> Now, this doesn't prove Israel killed him or a lobby around that, because I've seen no evidence. You know, they said in security detail it was Israeli. They weren't. It was just the first knee-jerk reaction. I said you can certainly say Israel's a suspect, but I said, 'I need to see proof. We need to figure out the ballistics and who really shot him and all that before we then, you know, start saying, okay, you know, motive.'
 
 ## Verification
 
@@ -51,4 +53,4 @@ Israel conducted airstrike in Doha, Qatar on September 9, 2025, targeting Hamas 
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

@@ -1,6 +1,6 @@
 ---
-title: "No civil war ever was organic. Not even our civil war was or..."
-description: "\"No civil war ever was organic. Not even our civil war was organic. It's a bunch of Freemason lodges, deep state government involvement.\" — Candace Owens"
+title: "Owens opined that no civil war, including the American Civil..."
+description: "\"Owens opined that no civil war, including the American Civil War, was organic and attributed such wars to Freemason lodges and deep-state government i...\" — Candace Owens"
 statement_id: "statement-844b601e127d"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> No civil war ever was organic. Not even our civil war was organic. It's a bunch of Freemason lodges, deep state government involvement.
+> Owens opined that no civil war, including the American Civil War, was organic and attributed such wars to Freemason lodges and deep-state government involvement.
 
 ## Attribution
 
@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:13:11](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > instinctively that none of these civil wars are organic. No civil war ever was organic. Not even our civil war was organic. It's a bunch of Freemason lodges, deep state government involvement
 

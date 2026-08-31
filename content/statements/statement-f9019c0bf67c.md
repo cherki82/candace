@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:08:51](/episodes/ep-tXoI0TTKVrs.md#t-00-08-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(531);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=531s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) should be able to easily explain why she chooses to partner with people for faith who are credibly accused, one way or the other, in a court of law, as Greg Laurie is, of trafficking people from Romania.
 

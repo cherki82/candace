@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:08:54](/episodes/ep-I0OaY6Gryqk.md#t-00-08-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(534);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=534s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were, if we didn't do the attack or if I'll go a step further, if I didn't terminate the Iran nuclear deal given to us, one of the worst deals ever made by Barack Hussein Obama. Remember when they sent Boeing 757s over there loaded with cash. ... Hundreds of millions of dollars. You would have been very happy. This was a wonderful. They said hundreds of millions. People forget that. Does anybody remember? ... Right. You remember hundreds of millions of dollars in a Boeing 757. I think that two of them loaded. They took the seats out. ... And they put cash. And it was so much that there wasn't a bank in Virginia, Maryland or D.C. that had any money left. ... They stripped them of all their money, put it into planes, sent it to Iran almost as ransom.
 

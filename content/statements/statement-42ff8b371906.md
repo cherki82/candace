@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:44:11](/episodes/ep-SKNJPul29zU.md#t-00-43-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2651);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2651s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so I choose to believe him when he says that, you know, Miriam Adelson loves Israel more than the. more than the United States, that she's got a lot of money, that she, you know, is a big donor. Like, I mean, he's communicating to us, listen, I'm doing what I'm doing because she bought me.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,13 +24,13 @@ veracity: "unverifiable"
 ## About
 
 - [Joe Kent](/entities/person-joe-kent.md) (person)
-- [Department of Justice](/entities/org-department-of-justice.md) (org)
+- [United States Department of Justice](/entities/org-united-states-department-of-justice.md) (org)
 
 ## Source
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:16:19](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(979);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=979s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's an absolute loser. We only wanted him when he was willing to sacrifice his family. And then, of course, Mark Levin again is going to say, now the DOJ should open a criminal investigation to determine if Kent leaked any classified information.
 

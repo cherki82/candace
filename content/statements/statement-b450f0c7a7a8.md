@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:13:24](/episodes/ep-FFQ9675oqRI.md#t-00-13-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(804);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=804s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was another person who has a video and has sent evidence. It's a still of the video. ... We checked that. That's not AI. It is definitively an angle that other people have not seen, but they want me to pay a partial portion before they send the full 30-second video.
 

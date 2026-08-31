@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:10:49](/episodes/ep-7ERqbYElOfs.md#t-00-10-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(649);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=649s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the businessman who called the hit on this alleged Mossad agent spy was Jean-Luc Bagure. He was the ringleader along with his other free masonic brothers, a guy named Frederick Vaglio and Daniel Bellew. Now, Daniel Bellew was a retired intelligence officer and the hitmen say that Daniel is the one that told them that they were doing this on behalf of the government.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:41:52](/episodes/ep-Ux1kzgQxkws.md#t-00-41-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2512);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by the way, everybody knows this because every painting that I sold, everybody that bought a painting had to pay about a quarter million dollars to defend themselves before an impeachment hearing.
 

@@ -6,6 +6,7 @@ date: "2025-09-03"
 ---
 
 **Date:** 2025-09-03
+**Date precision:** Day
 
 ## Event
 
@@ -14,7 +15,7 @@ date: "2025-09-03"
 ## Mentioned In
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:21:00](/episodes/ep-sImMM04XdWY.md#t-00-20-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1260);return false;">▶️ Play</a>
+**Timestamp:** [00:20:57](/episodes/ep-sImMM04XdWY.md#event-event-2025-09-03-35-state-leaders-meet-in-paris-to-discuss-ukraine-t-00-20-57) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=1257s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> harlie's assassination. I was in a state of trauma, and not for a single second during that state of trauma did I believe that Turning Point USA would later be involved in what seems li
+> this remarkable—and I would assume rare, I don't know, but—35 state leaders meet to discuss Ukraine

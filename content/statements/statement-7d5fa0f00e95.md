@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:48:51](/episodes/ep-1mYNOqzAdXs.md#t-00-48-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2931);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2931s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > dan flood gets offered a bonus and a raise from Erika (Erika Kirk) okay totally normal maybe you should add that to the daily mail article not the most normal thing to do actually you got one job and you failed it you don't offer that person a promotion
 

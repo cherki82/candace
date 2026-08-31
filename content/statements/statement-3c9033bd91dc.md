@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:12:38](/episodes/ep-tXoI0TTKVrs.md#t-00-12-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(758);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's nasty behind the scenes and she directs these hits that are coming at people, people that question her, the authority that's been handed over to her. And as I told you guys before, it was her who personally made phone calls to people telling them not to attend the Catholic for Catholics event that I did back in March. She made phone calls to priests, bishops.
 

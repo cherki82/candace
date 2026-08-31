@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:32:52](/episodes/ep-SKNJPul29zU.md#t-00-32-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1972);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=1972s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > radical nature of Trump (Donald Trump)'s tweets right now. ... of a madman. I don't have time to read all of this. And at its core, it's just he's being instructed to attack people who don't support Israel.
 

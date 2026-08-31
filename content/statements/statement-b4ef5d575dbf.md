@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:26:24](/episodes/ep-VMNWMXX1vO8.md#t-00-26-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1584);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1584s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This we could not. And I kept looking, I mean, strenuously, we could not find a single example in human history where someone's wife. ... just assumed their corporate role as CEO and chairman of their company following a death, not even an assassination, just a death, generally speaking.
 

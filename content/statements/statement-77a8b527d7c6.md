@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:36:32](/episodes/ep-5autG89PW6w.md#t-00-36-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2192);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=2192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's much more likely that Lance Twigg is the one that is walking in that maroon shirt. His build
 

@@ -1,6 +1,6 @@
 ---
 title: "Joe Kent"
-description: "Joe Kent (People) - 107 mentions"
+description: "Joe Kent (People) - 108 mentions"
 id: "person-joe-kent"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>25</strong></div>
-<div><span>Relationships</span><strong>34</strong></div>
+<div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,7 +36,8 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <p>Highest activity: <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-kent-t-00-00-00">EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314</a> (33 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35" style="--pulse-height:15%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 5 mentions" title="2025-10-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-10-23" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-09-52" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-joe-kent-t-00-56-05" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-kent-t-00-00-42" style="--pulse-height:58%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 19 mentions" title="2026-03-17 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-joe-kent-t-00-43-59" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-kent-t-00-00-00" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 33 mentions" title="2026-03-23 · 33 mentions"><span></span></a>
@@ -61,7 +62,8 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35) | 5 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-10-23) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-09-52) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-joe-kent-t-00-56-05) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-kent-t-00-00-42) | 19 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-joe-kent-t-00-43-59) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-kent-t-00-00-00) | 33 |
@@ -87,7 +89,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -477,9 +479,17 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:56:19](/episodes/ep-es7PWdFGoFI.md#ent-person-joe-kent-t-00-56-05)**
+> "...ting mad at Tulsi Gabbard and Joe Kent for trying to look into a potential terrorist ang..."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-10-23)**
+**[00:10:20](/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-09-52)**
 > "...the black 4Runner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or..."
 
 </details>
@@ -615,6 +625,18 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details>
+<summary>Director Of (1)</summary>
+
+- **[National Counterterrorism Center](/entities/org-national-counterterrorism-center.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:21:09](/episodes/ep-Qt0VHV-POCg.md#t-00-20-35): “They lead the National Counterterrorism Center—Joe Kent does—and”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Worked For (1)</summary>
 
 - **[National Counterterrorism Center](/entities/org-national-counterterrorism-center.md)**
@@ -671,7 +693,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details>
-<summary>Referenced By (17)</summary>
+<summary>Referenced By (18)</summary>
 
 - **[Alex Clark](/entities/person-alex-clark.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -773,6 +795,13 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 
 </details>
 
+- **[National Counterterrorism Center](/entities/org-national-counterterrorism-center.md)** has director this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:21:09](/episodes/ep-Qt0VHV-POCg.md#t-00-20-35): “They lead the National Counterterrorism Center—Joe Kent does—and”
+
+</details>
+
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -841,7 +870,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
 
 - [00:33:26](/episodes/ep-4JxgOclKzqg.md#t-00-33-14) (Accusation) **Candace Owens**: ["Owens said it was very strange that Kash Patel apparently shut down Jo..."](/statements/statement-b00f742e4138.md)
-  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md)
 
 </details>
 
@@ -945,7 +974,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 - [00:16:03](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57) (Accusation) **Taylor Budowich** (via quoted post): ["Joe Kent was a crazed egomaniac who was often at the center of nationa..."](/statements/statement-d7b4b4111ae5.md)
 
 - [00:16:19](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57) (Accusation) **Mark Levin** (via quoted post): ["The Department of Justice should open a criminal investigation to dete..."](/statements/statement-83445a0989bf.md)
-  - Also about: [Department of Justice](/entities/org-department-of-justice.md)
+  - Also about: [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
 
 - [00:29:06](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52) (Accusation) **Candace Owens**: ["Kash Patel blocked investigation into whether foreign actors were invo..."](/statements/statement-c94e2d48b97f.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

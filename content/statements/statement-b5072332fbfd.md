@@ -28,8 +28,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1561);return false;">Play</a>
+**Timestamp:** [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-44) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=1561s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He comes back, and his last correspondence was, "I got you covered."
 

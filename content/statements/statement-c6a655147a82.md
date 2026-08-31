@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:17:16](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1036);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1036s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But we need we're going to need a thousand more. more people in this room this time next year to win across the country and set ourselves up for the future so get excited about that and without further ado go ahead and hand off the microphone here to the wonderful Erika Kirk
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:26:25](/episodes/ep-amqTMimDr0A.md#t-00-26-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1585);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1585s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I will put out another bounty similarly for $25,000 for the person who can tell me who in Charlie (Charlie Kirk)'s car was speaking to who on Ben (Ben Shapiro)'s security team.
 

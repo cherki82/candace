@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (19 mentions)
+### Evidence (23 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -36,6 +36,10 @@ object: "org-turning-point-usa"
 **[BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU)**
 
 - [00:50:06](/episodes/ep-69A8TzAGHlU#t-00-50-06): _After watching this show, I would say that I had a damn good reason to suspect Turning Point USA, that they were complicit in a cover-up of what happened._
+
+**[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
+
+- [00:11:13](/episodes/ep-6J6lRZPQ4jk#t-00-11-13): _Turning Point USA lied about that._
 
 **[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
 
@@ -65,6 +69,10 @@ object: "org-turning-point-usa"
 
 - [00:03:50](/episodes/ep-HZvwbfePe7o#t-00-03-50): _But nothing he has done—nothing Turning Point USA has done or participated in—has been more evil to me than attempting to rewrite and, frankly, delete the very well-documented and storied history and friendship between me and Charlie Kirk._
 
+**[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
+
+- [00:42:48](/episodes/ep-LATnak75Si0#t-00-42-48): _it feels to me like Turning Point is engaged in a cover-up._
+
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:17:52](/episodes/ep-UYkXV9mYbT4#t-00-17-52): _Because I think it's pretty clear that the feds are working with Turning Point USA and all evidence points to the fact that the feds are dirty in this case._
@@ -77,6 +85,10 @@ object: "org-turning-point-usa"
 
 - [01:08:06](/episodes/ep-YeEtS7nix3o#t-01-08-06): _Why is Turning Point being so weird about this video ... I believe that this video was doctored, and I believe they know it's doctored._
 
+**[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
+
+- [00:10:47](/episodes/ep-ZAuuSq_j2_w#t-00-10-47): _I maintain that Turning Point is engaged in a cover-up._
+
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 
 - [00:26:54](/episodes/ep-amqTMimDr0A#t-00-26-54): _But I wanted to just really underscore how despicable the Turning Point USA team has been in their lies._
@@ -88,6 +100,10 @@ object: "org-turning-point-usa"
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 
 - [00:28:51](/episodes/ep-h76ZN-xXC6c#t-00-28-51): _they lied through their teeth until I dropped the receipts what was the response from Turning Point to be angry_
+
+**[Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc)**
+
+- [00:52:55](/episodes/ep-t4U7NjnUEgc#t-00-52-55): _it is, by the way, a fact that in recent in the last year, they even hired former cartel weapons traffickers at Turning Point USA who found God._
 
 ### Related
 

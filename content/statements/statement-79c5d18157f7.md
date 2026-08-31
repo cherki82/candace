@@ -1,6 +1,6 @@
 ---
-title: "It was at this time that Benjamin Netanyahu was called and C..."
-description: "\"It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel.\" — Candace Owens"
+title: "Owens said Charlie Kirk described the Hamptons weekend as an..."
+description: "\"Owens said Charlie Kirk described the Hamptons weekend as an intervention.\" — Candace Owens"
 statement_id: "statement-79c5d18157f7"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel.
+> Owens said Charlie Kirk described the Hamptons weekend as an intervention.
 
 ## Attribution
 
@@ -25,31 +25,13 @@ type: "factual_claim"
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (3)
-
-### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
-
-**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:16:28](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(988);return false;">Play</a>
-
-> It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel
-
-### 2. They Are Lying About Charlie Kirk. | Candace Ep 235
-
-**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:20:53](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1253);return false;">Play</a>
-
-> So I will again put it out there, Seth, Bill Ackman, and to the other individuals who I have not yet named but who are going to be named later this week, who were at the Hamptons when Charlie was put under pressure, when Benjamin Netanyahu called him and invited...
-
-### 3. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:02:52](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(172);return false;">Play</a>
+**Timestamp:** [00:02:57](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I tell you about Benjamin Netanyahu (Israeli PM) calling Charlie (Charlie Kirk) and inviting him to Israel
+> And Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response to me speaking about that, where he himself did not actually address my point about the quote-unquote "intervention," which is how Charlie (Charlie Kirk) described it himself.
 
 ## Verification
 

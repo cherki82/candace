@@ -26,8 +26,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:49:02](/episodes/ep-2WEHTk0Xewg.md#t-00-48-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2942);return false;">Play</a>
+**Timestamp:** [00:49:02](/episodes/ep-2WEHTk0Xewg.md#t-00-48-55) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > By the way, I'm not accusing anyone of being involved in that murder. I'm not trying to mutter darkly or imply anything. There's a lot we don't know about who murdered Charlie (Charlie Kirk) and why, but I don't know, and I'm not gonna pretend that I do.
 

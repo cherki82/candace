@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:28:46](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1726);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1726s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The actual building is called the Bracebridge Complex. It spans over 1 million square feet. It seems it was originally built for the Maryland Bank as their bank headquarters from 1995 until 2006, when Bank of America acquired it. In 2018—remember, that's going to be the year that Macron (Emmanuel Macron) comes to power—Bank of America pulled out of a few of the buildings and they left it completely empty.
 

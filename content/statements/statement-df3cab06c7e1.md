@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:18:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-17-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1106);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1106s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The facility will require about nine gigawatts of power, which is more than the entire state of Utah currently consumes.
 

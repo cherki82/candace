@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's almost as if the emergency room had been completely cleared for Turning Point USA.
 
@@ -37,7 +37,7 @@ type: "opinion"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [01:10:56](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4256);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=4256s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > doesn't indicate that Connor was there that day but I am interested in who was there because nobody has been this is in ER why don't we have one person who's like I was there with my daughter because she broke her arm and I was in the waiting room and saw them all come in it's almost as if the entire space was cleared cleared for them
 

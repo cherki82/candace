@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift"
-description: "Taylor Swift (People) - 38 mentions"
+description: "Taylor Swift (People) - 37 mentions"
 id: "person-taylor-swift"
 type: "PERSON"
 aliases:
@@ -21,10 +21,10 @@ _Type: People_
 Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16">2025-11-06 · 00:38:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-03">2025-11-06 · 00:38:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26">2026-08-19 · 00:50:40</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -35,7 +35,8 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-42">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 7 mentions" title="2025-11-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-03" style="--pulse-height:36%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-taylor-swift-t-00-42-16" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-taylor-swift-t-00-13-35" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-42" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 14 mentions" title="2026-01-21 · 14 mentions"><span></span></a>
@@ -53,7 +54,8 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16) | 7 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-03) | 5 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-taylor-swift-t-00-42-16) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-taylor-swift-t-00-13-35) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-42) | 14 |
@@ -73,7 +75,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -220,33 +222,35 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
-**[00:23:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48)**
+**[00:23:51](/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48)**
 > "Like if it's a Taylor Swift concert, no one's gonna question if there's tons of jets that are coming in and there's tons of trucks that are coming in."
 
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (7 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
-**[00:38:34](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16)**
+**[00:42:40](/episodes/ep-YaZfwLQ7vrI.md#ent-person-taylor-swift-t-00-42-16)**
+> "I'm not going to platform Taylor Swift."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
+
+**[00:38:34](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-03)**
 > "Lila: I am sure that if Taylor Swift tweets that it took her team a year to put together her tour"
 
-**[00:38:34](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16)**
-> "...ila: I am sure that if Taylor Swift tweets that it took her team a year to put togeth..."
-
-**[00:38:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16)**
+**[00:38:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-03)**
 > "I toured Taylor Swift at campus events, and we were able to pull the ev..."
 
-**[00:42:07](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-41-49)**
+**[00:42:01](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-42-01)**
 > "And the next time Taylor Swift tweets about her experience,"
 
-**[00:42:12](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-41-49)**
+**[00:42:12](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-42-01)**
 > "Not true to Taylor Swift.""
 
-**[00:42:19](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-41-49)**
-> "No fans ran up at me, Taylor Swift."
-
-**[00:42:20](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-41-49)**
+**[00:42:18](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-42-01)**
 > "So obviously Taylor Swift's lying because it didn't happen to me."
 
 </details>

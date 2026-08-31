@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:29:20](/episodes/ep-_cNtgris8Ik.md#t-00-29-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1760);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1760s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said if they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that? ... No lawyer, if they have exculpatory evidence that proves the timeline's wrong, that proves the parents don't actually think it, would not use that evidence because those lawyers are then basically binding their client over for three years in prison for something that he didn't actually do. ... They absolutely would have presented that evidence at preliminary hearing, okay?
 

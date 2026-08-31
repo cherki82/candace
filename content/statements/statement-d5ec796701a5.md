@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:09:49](/episodes/ep-QRS_hR7NXaQ.md#t-00-09-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(589);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=589s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a million Iraqi civilians, civilians that were killed,
 

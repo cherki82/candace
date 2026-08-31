@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(164);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Victim's wife is arriving at 3.30. 2J436.
 

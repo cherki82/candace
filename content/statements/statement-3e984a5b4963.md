@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:46:47](/episodes/ep-9hRcfSrri70.md#t-00-46-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2807);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=2807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'd be interested to know if that was if it ever made its way to the SBI when it was on the flash drive or if they were only presented with that portion zoomed in. I even noted that all of the cameras stopped running at like the 26 minute mark. If you look at his statement, it tells you how long the videos that he gave were and all of them are 26 minutes plus some seconds, except for one of them, which is 23 minutes.
 

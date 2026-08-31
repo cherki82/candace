@@ -6,6 +6,15 @@ date: "2026-01-29"
 ---
 
 **Date:** 2026-01-29
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the day before the Epstein files were released”
+
+**Normalization note:** Normalized 'the day before' from the DOJ's January 30, 2026 release date; this date enrichment does not independently verify the reported White House visit.
+
+**Date source:** [https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files](https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2026-01-29"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2018);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2018s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew visited the White House the day before the Epstein files were released
 
@@ -25,6 +34,6 @@ date: "2026-01-29"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:01:18](/episodes/ep-3QJqtW_NOSI.md#event-event-2026-01-29-candace-owens-said-andrew-kolvet-visited-t-00-01-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(78);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=78s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet was mysteriously seen at the White House, particularly in the executive office

@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:05:02](/episodes/ep-YeEtS7nix3o.md#t-00-05-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(302);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But you know how difficult it is to get into Russia? Like you don't get into Russia unless Russia invites you.
 

@@ -1,6 +1,6 @@
 ---
-title: "you're wearing jeans, and you're wearing the maroon shirt."
-description: "\"you're wearing jeans, and you're wearing the maroon shirt.\" — Candace Owens"
+title: "Owens said the person in the Dairy Queen photo was wearing j..."
+description: "\"Owens said the person in the Dairy Queen photo was wearing jeans and a maroon shirt.\" — Candace Owens"
 statement_id: "statement-18fca0369b74"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> you're wearing jeans, and you're wearing the maroon shirt.
+> Owens said the person in the Dairy Queen photo was wearing jeans and a maroon shirt.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:06:14](/episodes/ep-sreYYcID-QY.md#t-00-06-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(374);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=374s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm looking at this photo, and you're wearing jeans, and you're wearing the maroon shirt
 

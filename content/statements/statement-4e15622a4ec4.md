@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:06:49](/episodes/ep-G3zdOeHpvS0.md#t-00-06-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(409);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=409s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When I showed up, I took pictures of what it looked like. They had taken out about 10 inches of the dirt around the hole.
 

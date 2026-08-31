@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(14486);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=14486s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do still believe that there is more evidence which supports that there are more people involved and that Tyler Robinson has been set up and that none of the evidence that was presented was in any way overwhelming
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [03:08:21](/episodes/ep-aPOyk1i2LOc.md#t-03-08-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(11301);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=11301s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do still believe that there is more evidence which supports that there are more people involved and that Tyler Robinson has been set up and that none of the evidence that was presented was in any way overwhelming
 

@@ -1,32 +1,37 @@
 ---
-title: "Kanye West tweets, “I love the way Candace Owens thinks.”"
-description: "\"Kanye West tweets, “I love the way Candace Owens thinks.”\" — Candace Owens"
+title: "Kanye West tweeted, “I love the way Candace Owens thinks.”"
+description: "\"Kanye West tweeted, “I love the way Candace Owens thinks.”\" — Kanye West"
 statement_id: "statement-05ad1744a15a"
-speaker: "Candace Owens"
-type: "factual_claim"
+speaker: "Kanye West"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Kanye West tweets, “I love the way Candace Owens thinks.”
+> Kanye West tweeted, “I love the way Candace Owens thinks.”
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Kanye West](/entities/person-kanye-west.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from tweet
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Twitter
+
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:10:09](/episodes/ep-_dRaEO47-co.md#t-00-09-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(609);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=609s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> old albums on repeat, suddenly Kanye West tweets, “I love the way Candace (Candace Owens) thinks.” The excitement, okay? We were certain that
+> So you can only imagine when just a couple of months later, we've been listening to Kanye's old albums on repeat, suddenly Kanye West tweets, “I love the way Candace (Candace Owens) thinks.”
 
 ## Verification
 
@@ -47,4 +52,4 @@ Confirmed: Kanye West tweeted 'I love the way Candace Owens thinks' on April 21,
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

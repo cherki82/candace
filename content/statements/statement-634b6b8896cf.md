@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:37:02](/episodes/ep-Dkxa9OUA9K8.md#t-01-36-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5822);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=5822s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think it's Erika (Erika Kirk). ... I think it was Erika (Erika Kirk) who brought these people around and pushed Charlie (Charlie Kirk) to have relationships with them. ... That's my viewpoint.
 

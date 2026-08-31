@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:21:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-21-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1289);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They know how to insulate you. They know how to watch you and encourage you to self-destruct. because they perceive you as weak, and weakness is a means for them to fulfill their own ends.
 

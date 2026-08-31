@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:00:11](/episodes/ep-X92MllIHDzw.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(11);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=11s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a person stationed at Fort Huachuca who claimed publicly that they had seen Erika at Fort Huachuca. They were certain of it. And then they sort of got chased offline and they deleted it.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:05:27](/episodes/ep-YeEtS7nix3o.md#t-01-05-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3927);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3927s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I will say definitively that I believe that this clip is doctored.
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:39:44](/episodes/ep-c5BcKF91iec.md#t-00-39-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2384);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2384s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe you were the piece that God meant me to meet that will finish the fight
 

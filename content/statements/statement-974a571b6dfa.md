@@ -20,13 +20,19 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Republican National Committee](/entities/org-republican-national-committee.md) (org)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
-**Timestamp:** [00:02:09](/episodes/ep-_dRaEO47-co.md#t-00-02-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(129);return false;">Play</a>
+**Timestamp:** [00:02:38](/episodes/ep-_dRaEO47-co.md#t-00-02-03) 
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And I sat down with Charlie (Charlie Kirk) on our first trip together. He flips over this little paper menu ... as we're waiting for our flight, and he takes out this pen, and he just starts drawing a map ... of what he wants to happen into the future, what the Turning Point organization will become. ... And what he had envisioned was for Turning Point USA to become the biggest conservative student organization—not just in the nation, by the way, but in the world. ... He kind of scrawled and scribbled, and wrote that his structure is currently a 501(c)(3), and he's sitting there talking to me: “But here's what we can do in the future, and here's how, and then I'm going to probably take control of the RNC.” ... I mean, he's 23 years old, right? ... And he's talking, speaking to me about how he's going to... ... take over the RNC. The person that he adored the most—like, really, never in a million years did he think that he was going to meet him, and of course he did—was Rush Limbaugh (Rush Limbaugh).
+> And what he had envisioned was for Turning Point USA to become the biggest conservative student organization—not just in the nation, by the way, but in the world. ... He kind of scrawled and scribbled, and wrote that his structure is currently a 501(c)(3), and he's sitting there talking to me: “But here's what we can do in the future, and here's how, and then I'm going to probably take control of the RNC.” ... I mean, he's 23 years old, right? ... And he's talking, speaking to me about how he's going to... ... take over the RNC.
 
 ## Verification
 

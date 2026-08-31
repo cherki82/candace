@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:13:01](/episodes/ep-amqTMimDr0A.md#t-00-12-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(781);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=781s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He continued, it is so transactional. I am repulsed by it. For years, I was called a Jewish shill, and now they say I am a Hamas agent.
 

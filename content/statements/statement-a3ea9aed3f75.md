@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:51:37](/episodes/ep-d7VsbEIWkP8.md#t-00-51-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3097);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=3097s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We are recognizing that you committed a genocide in broad daylight. We are recognizing that you are simultaneously trying to spread that cancer across Spain and punish them for having the courage to say that.
 

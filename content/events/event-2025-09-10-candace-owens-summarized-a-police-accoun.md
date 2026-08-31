@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th of 2025”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:15:44](/episodes/ep-5zgkrOaCCj4.md#event-event-2025-09-10-candace-owens-summarized-a-police-accoun-t-00-15-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(944);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=944s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He then went, again, this is according to the police, to Chick-fil-A on campus.

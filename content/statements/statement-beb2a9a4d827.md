@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:45:12](/episodes/ep-xjzb_t5Tk9o.md#t-00-45-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2712);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2712s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In three weeks, they killed more children from the Palestinian side more than Israeli kids were killed all through 75 years.
 

@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:40:10](/episodes/ep-iB-YtO3UZOg.md#t-00-40-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2410);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to remind you guys that there is still zero evidence, zero concrete evidence that has been produced that there was ever even a gun on the Losee Center.
 

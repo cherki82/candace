@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=3109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe she had more loyalty to people that brought her in— ... —Tyler Bowyer and the Farnsworths and her mother. They go back, and that's what she was serving while she was married to Charlie (Charlie Kirk). ... I think that that's what the evidence points to.
 

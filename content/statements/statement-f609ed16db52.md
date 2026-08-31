@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:16:41](/episodes/ep-mFuno0TuuQQ.md#t-00-16-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1001);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1001s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Kolvet) told me that Bibi (Benjamin Netanyahu) offered to take Turning Point USA to the next level and that Charlie (Charlie Kirk) turned him down in the Hamptons at the dinner that you were a part of.
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:39:10](/episodes/ep-y8lak3CRwDw.md#t-00-38-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2350);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2350s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know. Left and right always blame each other. We refuse to consider the very real possibility that there is a criminal syndicate that controls both sides and feeds the narrative instantly to the newspapers and to their agents all throughout the media.
 

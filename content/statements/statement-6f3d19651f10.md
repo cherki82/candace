@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:00:18](/episodes/ep-DYD_QHMPwqM.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(18);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=18s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's also married to a dude because he's gay, so that makes sense.
 

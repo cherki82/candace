@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:27:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1662);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=1662s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We haven't seen him talk. He hasn't said he did it. He hasn't said he didn't do it. There's no, no, like, independent video of him talking about it. And then there was footage of him, like, at a yoga shop. ... Like way across town, like 20 minutes later
 

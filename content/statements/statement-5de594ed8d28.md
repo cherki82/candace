@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:23:40](/episodes/ep-UYkXV9mYbT4.md#t-00-23-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1420);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=1420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In total, they, and they're referring to Tyler Robinson's team, has received approximately 20,000 files excluding digital electronic discovery, which was provided on a hard drive during that meeting on March 12th. ... It amounts to approximately 12 terabytes of data and over 600,000 files.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:45:10](/episodes/ep-xi8SYJTUXPM.md#t-00-44-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2710);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, with the amount of stuff they have to look through, we looked, they dumped 600,000 files on them in March.
 

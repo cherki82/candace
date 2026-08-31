@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:28:06](/episodes/ep-69A8TzAGHlU.md#t-00-27-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1686);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=1686s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Those aren't even his messages. Those are Dan Flood's messages. And he admits that finally in this lawsuit that those are Dan Flood's messages.
 

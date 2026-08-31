@@ -23,13 +23,13 @@ veracity: "true"
 
 - [Bill Montgomery](/entities/person-bill-montgomery.md) (person)
 - [United States Air Force](/entities/org-united-states-air-force.md) (org)
-- [Lincoln, Nebraska](/entities/gpe-lincoln-nebraska.md) (gpe)
+- [Lincoln](/entities/gpe-lincoln.md) (gpe)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1736);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1736s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln, ... Nebraska.
 

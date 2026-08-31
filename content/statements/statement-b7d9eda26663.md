@@ -1,8 +1,8 @@
 ---
 title: "Mikey McCoy was 23 years old at the time Charlie Kirk was sh..."
-description: "\"Mikey McCoy was 23 years old at the time Charlie Kirk was shot\" — Erika Kirk"
+description: "\"Mikey McCoy was 23 years old at the time Charlie Kirk was shot\" — Montage Voice B (identity unverified)"
 statement_id: "statement-b7d9eda26663"
-speaker: "Erika Kirk"
+speaker: "Montage Voice B (identity unverified)"
 type: "factual_claim"
 ---
 
@@ -14,17 +14,22 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Erika Kirk](/entities/person-erika-kirk.md) (Quoted)
+**Speaker:** [Montage Voice B (identity unverified)](/entities/anon-src-Qfwr08Ebczo-012.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** embedded praise montage
+
+## About
+
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:03:06](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(186);return false;">Play</a>
+**Timestamp:** [00:03:06](/episodes/ep-Qfwr08Ebczo.md#t-00-03-06) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie Kirk was shot was 23 and was a hero that day
 

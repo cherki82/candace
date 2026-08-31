@@ -6,6 +6,11 @@ date: "2026-07-13"
 ---
 
 **Date:** 2026-07-13
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-07-13"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:10:13](/episodes/ep-X3VKJVJ7cN4.md#event-event-2026-07-13-blake-neff-posted-on-x-criticizing-canda-t-00-09-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(613);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=613s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I decided against my better judgment to briefly turn on Candace. Okay, like you watch every episode.

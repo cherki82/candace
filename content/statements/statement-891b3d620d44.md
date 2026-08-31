@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:46:15](/episodes/ep-WoXd4oLwd3w.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2775);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2775s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Quest, so A and B is not us, C, the need for consultation with one or more other agencies or the Department of War Components having a substantial interest in either the determination or the subject matter of the records.
 

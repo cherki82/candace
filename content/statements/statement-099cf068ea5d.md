@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:18:55](/episodes/ep-wcD2khO3rOA.md#t-00-18-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1135);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1135s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rob McCoy's father, Roy Edgar McCoy, ran psychological operations for naval intelligence to shape public perception.
 

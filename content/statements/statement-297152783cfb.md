@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:58:23](/episodes/ep-mLvJqdxS-FY.md#t-00-58-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3503);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=3503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth and that maybe it's time to listen.
 

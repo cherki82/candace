@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:57:38](/episodes/ep-q7f8r-THr84.md#t-00-57-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3458);return false;">Play</a>
+**Timestamp:** [00:57:38](/episodes/ep-q7f8r-THr84.md#t-00-57-31) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3458s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then once Charlie (Charlie Kirk) was shot, they said, "Nevermind, put it back on the building." Charlie (Charlie Kirk) himself had alluded to a tremendous loss of money coming in and we'll speak about that more
 

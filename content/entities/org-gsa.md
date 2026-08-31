@@ -5,16 +5,24 @@ id: "org-gsa"
 type: "ORG"
 aliases:
   - "General Services Administration"
-  - "Government Services Administration"
+categories:
+  - "United States federal agency"
+  - "federal fleet management"
 ---
 
 _Type: Organizations_
 
-**Also known as:** General Services Administration, Government Services Administration
+**Also known as:** General Services Administration
+
+**Categories:** United States federal agency, federal fleet management
+
+**Entity verification:** verified
+> Official GSA guidance confirms the General Services Administration name and its GSA Fleet vehicle-management role.
+Source: [GSA — Motor Vehicle Policy Customer Guide](https://www.gsa.gov/policy-regulations/policy/motor-vehicle-management-policy/motor-vehicle-policy-customer-guide)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-41-44">2025-12-18 · 00:41:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-50-24">2025-12-18 · 00:50:24</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-50-12">2025-12-18 · 00:50:19</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -25,15 +33,15 @@ _Type: Organizations_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-47-03">EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-46-50">EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-47-03" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-46-50" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-47-03) | 6 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-46-50) | 6 |
 
 </details>
 </section>
@@ -46,7 +54,7 @@ _Type: Organizations_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
 
-**[00:47:03](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-47-03)**
+**[00:46:57](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-46-50)**
 > "Um, they got into one of the GSA's, um, for anybody in the military that knows about..."
 
 **[00:41:50](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-41-44)**
@@ -61,7 +69,7 @@ _Type: Organizations_
 **[00:48:00](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-47-31)**
 > "...here, they're reserved at any GSA where they have VIPs that come in."
 
-**[00:50:24](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-50-24)**
+**[00:50:19](/episodes/ep-ewBzjVe3LNQ.md#ent-org-gsa-t-00-50-12)**
 > "...don't know if it was the same GSA vehicle returning or a different one, but that di..."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Earth"
-description: "Earth (Places) - 11 mentions"
+description: "Earth (Places) - 12 mentions"
 id: "gpe-earth"
 type: "GPE"
 aliases:
@@ -21,10 +21,10 @@ _Type: Places_
 Source: [Facts About Earth | NASA Science](https://science.nasa.gov/earth/facts/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-earth-t-00-34-34">2026-01-14 · 00:34:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-earth-t-00-41-05">2025-12-02 · 00:41:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-earth-t-02-17-39">2026-08-14 · 02:17:39</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Facts About Earth | NASA Science](https://science.nasa.gov/earth/facts/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-earth-t-00-07-19">OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-earth-t-00-41-05" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-earth-t-00-34-34" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-earth-t-00-40-00" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-earth-t-00-07-05" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [Facts About Earth | NASA Science](https://science.nasa.gov/earth/facts/
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-earth-t-00-41-05) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-earth-t-00-34-34) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-earth-t-00-40-00) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-earth-t-00-07-05) | 1 |
@@ -65,7 +67,7 @@ Source: [Facts About Earth | NASA Science](https://science.nasa.gov/earth/facts/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
@@ -142,6 +144,14 @@ Source: [Facts About Earth | NASA Science](https://science.nasa.gov/earth/facts/
 
 **[00:34:34](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-earth-t-00-34-34)**
 > "... become creators of things on earth that's all the way by the way you guys part of my..."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:41:14](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-earth-t-00-41-05)**
+> "He felt like Earth was his planet."
 
 </details>
 

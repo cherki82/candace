@@ -1,6 +1,6 @@
 ---
 title: "Goldco"
-description: "Goldco (Organizations) - 20 mentions"
+description: "Goldco (Organizations) - 22 mentions"
 id: "org-goldco"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About Goldco](https://goldco.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48">2025-10-01 · 00:23:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-42">2025-10-01 · 00:23:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-goldco-t-00-21-14">2026-05-11 · 00:21:31</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -33,9 +33,11 @@ Source: [About Goldco](https://goldco.com/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-42">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-42" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-goldco-t-00-23-58" style="--pulse-height:33%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-goldco-t-00-25-29" style="--pulse-height:33%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-goldco-t-00-39-53" style="--pulse-height:67%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-goldco-t-00-32-47" style="--pulse-height:67%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-goldco-t-00-21-32" style="--pulse-height:67%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
@@ -51,7 +53,9 @@ Source: [About Goldco](https://goldco.com/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48) | 3 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-42) | 3 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-goldco-t-00-23-58) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-goldco-t-00-25-29) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-goldco-t-00-39-53) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-goldco-t-00-32-47) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-goldco-t-00-21-32) | 2 |
@@ -69,7 +73,7 @@ Source: [About Goldco](https://goldco.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
@@ -173,15 +177,31 @@ Source: [About Goldco](https://goldco.com/about/)
 </details>
 
 <details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+
+**[00:26:07](/episodes/ep-YaZfwLQ7vrI.md#ent-org-goldco-t-00-25-29)**
+> "Also, when I tell you guys about Goldco, because what are you doing today to protect your tomorrow?"
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:24:37](/episodes/ep-K1tFD7FfoCU.md#ent-org-goldco-t-00-23-58)**
+> "...ing in here to tell you about GoldCo because what are you doing today to protect your ..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
 
-**[00:23:48](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48)**
+**[00:23:48](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-42)**
 > "...I want to tell you guys about GoldCo, because according to reports, Fed Chair Jerome P..."
 
-**[00:24:06](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48)**
+**[00:24:06](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-42)**
 > "...ith the award-winning company GoldCo, because they sell precious metals like gold and ..."
 
-**[00:24:20](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48)**
+**[00:24:20](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-42)**
 > "... you just want peace of mind, GoldCo makes it easy."
 
 </details>

@@ -32,7 +32,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:49:11](/episodes/ep-1IY2oD-_xVA.md#t-00-48-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2951);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2951s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the pageant world for me was something that was not a form of narcissism. It was more along the terms of being a steward for my state, especially as it hit our hundredth year celebration.
 
@@ -40,7 +40,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:33:15](/episodes/ep-cZxHqYsWRYg.md#t-00-32-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1995);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1995s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the pageant world for me was something that was not a form of narcissism. It was more along the terms of being a steward for my state, especially as it hit our hundredth year celebration.
 

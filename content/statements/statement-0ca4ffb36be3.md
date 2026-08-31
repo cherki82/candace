@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(454);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=454s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jeffrey Epstein worked for the Rothschilds. You were looking at a picture of the Rothschilds at their surrealist ball.
 

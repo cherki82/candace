@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:31:22](/episodes/ep-BxN2-aeMYIs.md#t-00-31-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1882);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1882s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So Natalie Jean Beisner tweeted this. Candace's daughter is going to grow up to be a mega bitch or in prison or both.
 

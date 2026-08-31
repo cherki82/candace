@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:24:51](/episodes/ep-CEF7gQRWYCE.md#t-00-24-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The fact that you can't find like the Adelsons in here is completely ridiculous. The people that are still in power, like they're active agents in America today are all being protected,
 

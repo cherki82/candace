@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:21:25](/episodes/ep-5autG89PW6w.md#t-00-20-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1285);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1285s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The very day before Charlie (Charlie Kirk) died, he expressed that he thought he was going to be killed. He told these people, "I think they're going to kill me," okay?
 
@@ -36,7 +36,7 @@ type: "factual_claim"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:23:19](/episodes/ep-cPidFQDJLbo.md#t-00-22-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1399);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1399s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In the midst of him texting those closest to him and saying, they're going to kill me. Tomorrow, I think I am going to be killed.
 

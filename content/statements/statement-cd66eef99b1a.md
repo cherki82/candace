@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:07:53](/episodes/ep-mLvJqdxS-FY.md#t-00-07-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(473);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=473s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Axon body force system also logs and records the specific reason a video stops or device turns off. All of this information can be seen on the Axon site that the police have access to and can review.
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:31:41](/episodes/ep-UYkXV9mYbT4.md#t-00-31-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1901);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=1901s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Please, I just want the case to be fast, she said on Fox News. This is hard. I just want, I'm asking them to move along fast.
 

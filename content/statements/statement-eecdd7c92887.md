@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:06:54](/episodes/ep-Dkxa9OUA9K8.md#t-00-06-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(414);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=414s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My stepfather, he put one hand on my wrist, and he put his finger over my trigger finger. ... And then he pushed and I pulled and I shot the guy in the head and it killed him and he shoved him in the hole and he buried him. ... He wrapped the pistol with a handkerchief and he said, if you ever tell anybody what I've done, he said, I know where this body is. ... And he said, I'll tell the police. It's your fingerprints on this pistol. And he says, they'll arrest you.
 

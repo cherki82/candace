@@ -3,9 +3,18 @@ title: "Breland Holland"
 description: "Breland Holland (People) - 2 mentions"
 id: "person-breland-holland"
 type: "PERSON"
+categories:
+  - "youth podcaster"
+  - "Charlie Kirk interviewee"
 ---
 
 _Type: People_
+
+**Categories:** youth podcaster, Charlie Kirk interviewee
+
+**Entity verification:** verified
+> The source names Breland Holland twice as the fourth-grade podcaster Charlie Kirk interviewed; a separately published transcript of Owens later discussing the same episode independently repeats the full name and context.
+Source: [Transcript: Candace Owens on Part Of The Problem Podcast #1325](https://singjupost.com/transcript-candace-owens-on-part-of-the-problem-podcast-1325/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-breland-holland-t-00-18-22">2025-10-29 · 00:18:45</a></strong></div>

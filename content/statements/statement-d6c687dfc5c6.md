@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:43:57](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2637);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2637s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Makes Fort Huachuca stand out as the center of a trip, for one, because Bradley Hansell remained on the ground the longest there. For 19 hours, that's the longest stop in his trip, he opted to stay overnight at Fort Huachuca before departing the next day for El Paso. He did a quick little 20-minute helicopter tour of the border on that morning as well.
 

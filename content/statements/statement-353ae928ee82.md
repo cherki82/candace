@@ -1,8 +1,8 @@
 ---
-title: "her independent podcast, Candace, has reached the top global..."
-description: "\"her independent podcast, Candace, has reached the top global ranking according to Podscribe data\" — Candace Owens"
+title: "A Grok summary read by Owens said her independent podcast ha..."
+description: "\"A Grok summary read by Owens said her independent podcast had reached the top global ranking according to Podscribe data.\" — Grok"
 statement_id: "statement-353ae928ee82"
-speaker: "Candace Owens"
+speaker: "Grok"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,22 +11,28 @@ veracity: "true"
 
 ## Statement
 
-> her independent podcast, Candace, has reached the top global ranking according to Podscribe data
+> A Grok summary read by Owens said her independent podcast had reached the top global ranking according to Podscribe data.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Grok](/entities/work-grok.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Grok
+
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Podscribe](/entities/org-podscribe.md) (org)
 
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(117);return false;">Play</a>
+**Timestamp:** [00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-57) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=117s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Conservative commentator Candace Owens announced on Thursday that her independent podcast, Candace, has reached the top global ranking according to Podscribe data following her 2024 departure from the Daily Wire
+> Conservative commentator Candace Owens announced on Thursday that her independent podcast, Candace, has reached the top global ranking according to Podscribe data following her 2024 departure from the Daily Wire.
 
 ## Verification
 

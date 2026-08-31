@@ -1,6 +1,6 @@
 ---
-title: "Candace says she could never have forgiven Tyler Robinson fo..."
-description: "\"Candace says she could never have forgiven Tyler Robinson for his role in Charlie Kirk's assassination\" — Candace Owens"
+title: "Owens said she could never have forgiven Tyler Robinson for ..."
+description: "\"Owens said she could never have forgiven Tyler Robinson for whatever part he played in Charlie Kirk's assassination.\" — Candace Owens"
 statement_id: "statement-84f522080f3f"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Candace says she could never have forgiven Tyler Robinson for his role in Charlie Kirk's assassination
+> Owens said she could never have forgiven Tyler Robinson for whatever part he played in Charlie Kirk's assassination.
 
 ## Attribution
 
@@ -21,14 +21,15 @@ type: "opinion"
 ## About
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:09:43](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(583);return false;">Play</a>
+**Timestamp:** [00:09:31](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=571s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I could have never—and I know that so many people agree with this—I could have never forgiven Tyler Robinson for whatever part he played in this
+> I could have never—and I know that so many people agree with this—I could have never forgiven Tyler Robinson for whatever part he played in this.
 
 ## Verification
 

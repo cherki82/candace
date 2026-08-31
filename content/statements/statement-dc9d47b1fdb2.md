@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:17:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1033);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=1033s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You're the kind of person who sees coded messages in the number 33 but then ignores evidence like DNA on a rifle or Tyler Robinson's own family members turning him in.
 

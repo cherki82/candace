@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:24:45](/episodes/ep-1CFDtD0IgEg.md#t-00-24-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1485);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1485s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's a USU officer. And don't forget that unusually, Charlie (Charlie Kirk) had an event 10 days later back in Utah that was supposed to take place at USU. ... That was 10 days later. him and his partner that I'm forgetting his name the other person who was guarding so they were doing their threat assessment and then this took place and then they jumped in and started helping but they were not there I can confirm they were not there in coordination with Charlie (Charlie Kirk) security or in coordination with UVU police on that day
 

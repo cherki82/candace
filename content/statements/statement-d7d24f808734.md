@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:07:19](/episodes/ep-ZzAT2xijKGQ.md#t-00-06-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > soon people won't be able to make new humans anymore but I guess that would be la la land great because we can just design them in a lab
 

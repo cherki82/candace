@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:01:18](/episodes/ep-3QJqtW_NOSI.md#t-00-01-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(78);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=78s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The day before Andrew Kolvet was mysteriously seen at the White House, particularly in the executive office building, he attempted at the same time to fake a live show. ... What I mean is essentially he pre-recorded a Charlie Kirk show episode with Kash Patel as his guest. ... Kash Patel was helping him do this to present as though he was in Arizona, when in fact Andrew Kolvet was in Washington, D.C., taking a meeting.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:37:10](/episodes/ep-k8ueJdPFel4.md#t-00-36-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2230);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=2230s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Over the last three years, especially we have watched Zionists bend the fabric of reality. They have purchase views, influencers, and journalists. ... They have activated millions of online bots. They even went so far as to stage an open takeover of TikTok when they grew incensed that the youth was sympathetic to Palestine.
 

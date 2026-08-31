@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:21:34](/episodes/ep-jTj9Ip46r4w.md#t-00-21-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the beginning matters. The beginning matters deeply. We opened this series reading Elizabeth Lane. the investigative journalist, her thesis that she presented that Erika Kirk might be a psychopath and a sociopath, but a psychopath.
 

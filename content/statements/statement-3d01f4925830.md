@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:27:37](/episodes/ep-5zgkrOaCCj4.md#t-00-27-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1657);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=1657s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But then she discovered that in the high res photos, it appears that George Zinn has some sort of a device that's fallen.
 

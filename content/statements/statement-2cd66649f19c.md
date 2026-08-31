@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:01:45](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(105);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=105s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They wanted to all get out there and say that because they didn't want us to learn that Charlie (Charlie Kirk) had actually abandoned their cause entirely.
 

@@ -1,17 +1,17 @@
 ---
-title: "He felt that Benjamin Netanyahu was a very destructive force"
-description: "\"He felt that Benjamin Netanyahu was a very destructive force\" — Tucker Carlson"
+title: "Tucker Carlson said Charlie Kirk felt Benjamin Netanyahu was..."
+description: "\"Tucker Carlson said Charlie Kirk felt Benjamin Netanyahu was a very destructive force.\" — Tucker Carlson"
 statement_id: "statement-6cd5eaf0cdb7"
 speaker: "Tucker Carlson"
-type: "factual_claim"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> He felt that Benjamin Netanyahu was a very destructive force
+> Tucker Carlson said Charlie Kirk felt Benjamin Netanyahu was a very destructive force.
 
 ## Attribution
 
@@ -24,10 +24,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2665);return false;">Play</a>
+**Timestamp:** [00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2659s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force
+> He felt that Benjamin Netanyahu was a very destructive force.
 
 ## Verification
 
@@ -48,4 +48,4 @@ Verified as a direct quotation attribution. The primary episode recording plays 
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

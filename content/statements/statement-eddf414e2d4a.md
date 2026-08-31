@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:42:43](/episodes/ep-SKNJPul29zU.md#t-00-42-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2563);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2563s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think they have blackmail on him. I don't know. I don't know how deep it goes. I also think just keeping it real, Trump (Donald Trump) is a very corrupt person. I mean, he loves money and I think it's easy to buy him.
 

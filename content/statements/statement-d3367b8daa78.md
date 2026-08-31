@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:38:37](/episodes/ep-AH1KVKkweUE.md#t-00-38-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2317);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2317s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I can say concretely, here's where I stand. We do not want U.S. boots on the ground. ... We do not want American kinetic involvement. Make sure we don't go to war against Iran, which would be a profound mistake for our country. ... I don't think we should bomb Iranian nuclear facilities. I just don't.
 

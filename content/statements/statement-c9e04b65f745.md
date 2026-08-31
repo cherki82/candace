@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:46:45](/episodes/ep-amqTMimDr0A.md#t-00-46-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2805);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2805s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In September 2025, Connie (Stephen Boss's mother; surname unverified), who is Twitch (Stephen "tWitch" Boss)'s mother, filed a petition for grandparent visitation against Allison (Stephen Boss's widow; surname unverified), alleging that her relationship with her grandchildren has changed following her son's death, describing it as unilateral and retaliatory decision by the dancer. ... In 2026, the case was dismissed by a judge
 

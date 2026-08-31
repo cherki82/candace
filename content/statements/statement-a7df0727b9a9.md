@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:13:24](/episodes/ep-DdPjoy5W-wY.md#t-00-13-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(804);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=804s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Forget the complete strangers, but also people who just knew her and did it publicly like Tucker Carlson. Do you guys remember that? He alone, his alp company raised $5.4 million for her. ... Okay, this is still up. He set out to raise six. They raised 5.4 million. I actually think it was less than he just kept it was blowing through it. So they kept raising it and raising it and raising it. 5.4 million dollars very clearly to help provide for Kirk family's future.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:28:56](/episodes/ep-SubDoZWHARo.md#t-00-28-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1736);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1736s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > of a Jane Austen novel, my love? One which doesn't feature company employees who witnessed the shooting and for some incomprehensible reason neglected to call 911 but instead rushed to remove cameras within minutes?
 

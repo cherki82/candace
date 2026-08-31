@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:08:49](/episodes/ep-his-JBjlkh8.md#t-00-08-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(529);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=529s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They did not issue him first aid when he fell down. ... There was nobody who pulled out any gauze and tried to stop the bleeding.
 

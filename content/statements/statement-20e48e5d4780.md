@@ -1,16 +1,16 @@
 ---
-title: "Benjamin Netanyahu lied about his relationship with Charlie ..."
-description: "\"Benjamin Netanyahu lied about his relationship with Charlie Kirk and tried to redirect grief toward support for Israel\" — Tucker Carlson"
+title: "Tucker Carlson accused Benjamin Netanyahu of making Charlie ..."
+description: "\"Tucker Carlson accused Benjamin Netanyahu of making Charlie Kirk's death about himself and redirecting public grief toward support for Netanyahu's pro...\" — Tucker Carlson"
 statement_id: "statement-20e48e5d4780"
 speaker: "Tucker Carlson"
-type: "opinion"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Benjamin Netanyahu lied about his relationship with Charlie Kirk and tried to redirect grief toward support for Israel
+> Tucker Carlson accused Benjamin Netanyahu of making Charlie Kirk's death about himself and redirecting public grief toward support for Netanyahu's projects.
 
 ## Attribution
 
@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:43:21](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2601);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2601s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Basically made it all about him and all about his country—immediately trying to take the energy, the sadness, the grief that people felt over Charlie (Charlie Kirk)'s murder and redirect it towards support for whatever project he's involved in
 
@@ -39,4 +39,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** No

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:18:46](/episodes/ep-puuMVxEu5NU.md#t-00-18-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1126);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1126s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, not jeans. It was all tactical. He definitely had a face mask on. At the range we were at, we were about 175 yards from him. ... I couldn't tell if he was wearing gloves, so I couldn't tell race because all of his skin was covered, but I know he was wearing completely all black.
 

@@ -1,6 +1,6 @@
 ---
 title: "Sean Feucht"
-description: "Sean Feucht (People) - 18 mentions"
+description: "Sean Feucht (People) - 19 mentions"
 id: "person-sean-feucht"
 type: "PERSON"
 aliases:
@@ -15,16 +15,15 @@ _Type: People_
 
 **Categories:** musician and political activist
 
-> **Possibly overlapping entity records:** [Sean Foyt](/entities/person-sean-foyt). These records share a name or alias; compare their histories before treating either count as complete.
-
 **Entity verification:** verified
-> Pastor-summit participant named in the episode.
+> Sean Feucht’s official biography confirms his canonical name and identifies him as a speaker, author, missionary, artist, activist, and movement founder, matching the episode’s ministry context.
+Source: [About — Sean Feucht](https://www.seanfeucht.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20">2025-10-31 · 00:10:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-sean-feucht-t-00-58-29">2026-01-09 · 00:58:33</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -37,6 +36,7 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 15 mentions" title="2025-10-31 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01" style="--pulse-height:13%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-sean-feucht-t-00-32-11" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-sean-feucht-t-00-58-29" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -45,6 +45,7 @@ _Type: People_
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20) | 15 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01) | 2 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-sean-feucht-t-00-32-11) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-sean-feucht-t-00-58-29) | 1 |
 
 </details>
@@ -53,13 +54,21 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
 
 **[00:58:33](/episodes/ep-wcD2khO3rOA.md#ent-person-sean-feucht-t-00-58-29)**
 > "... McCoy, as I showed you that, Sean Feucht. They were going to lead this up."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:32:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-sean-feucht-t-00-32-11)**
+> "...y shady backgrounds—including Sean Foyt—there's like an article from September 30th talki..."
 
 </details>
 

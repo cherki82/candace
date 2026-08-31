@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:02:09](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(129);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=129s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I'm pointing that out because I have been continually underlining that theme across the board, various decoys like George Zinn arrested for child pornography. Seems like he was put up for this job of saying, I did it, I did it.
 

@@ -39,7 +39,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-04-30">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#t-00-55-02" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-states-marine-corps-t-00-22-30" style="--pulse-height:11%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-states-marine-corps-t-00-22-28" style="--pulse-height:11%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-united-states-marine-corps-t-00-16-19" style="--pulse-height:22%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-marine-corps-t-00-16-09" style="--pulse-height:22%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-marine-corps-t-00-26-10" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
@@ -72,7 +72,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-55-02) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-states-marine-corps-t-00-22-30) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-states-marine-corps-t-00-22-28) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-united-states-marine-corps-t-00-16-19) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-marine-corps-t-00-16-09) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-marine-corps-t-00-26-10) | 1 |
@@ -439,7 +439,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:22:30](/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-states-marine-corps-t-00-22-30)**
+**[00:22:30](/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-states-marine-corps-t-00-22-28)**
 > "...ut of habit from being in the Marine Corps, and people were still screaming and running."
 
 </details>

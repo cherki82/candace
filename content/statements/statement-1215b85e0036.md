@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:32:10](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1930);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This person told me that the bomb dogs couldn't find it.
 

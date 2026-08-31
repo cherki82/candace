@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [01:07:29](/episodes/ep-mLvJqdxS-FY.md#t-01-07-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4049);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=4049s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and i maintain my position that the charlie kirk assassination until i'm presented with you True evidence to the contrary, not influencers, ... looks to me like it was a military operation.
 

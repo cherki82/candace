@@ -1,6 +1,6 @@
 ---
-title: "Something that Charlie was passionately against"
-description: "\"Something that Charlie was passionately against\" — Candace Owens"
+title: "Charlie Kirk was passionately against speech restrictions ta..."
+description: "\"Charlie Kirk was passionately against speech restrictions targeting criticism of Israel\" — Candace Owens"
 statement_id: "statement-0a6c8139c39d"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,22 +10,27 @@ type: "factual_claim"
 
 ## Statement
 
-> Something that Charlie was passionately against
+> Charlie Kirk was passionately against speech restrictions targeting criticism of Israel
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
+**Delivery:** Paraphrased
 **Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:37:40](/episodes/ep-aDlhjfW6hz8.md#t-00-36-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2260);return false;">Play</a>
+**Timestamp:** [00:37:37](/episodes/ep-aDlhjfW6hz8.md#t-00-37-37) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2257s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Something that Charlie was passionately against, okay?
+> Something that Charlie was passionately against, okay? And we can show you next week clips of him hosting the debate about speech and Israel and whether or not everything was antisemitism.
 
 ## Verification
 

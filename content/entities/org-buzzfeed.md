@@ -79,7 +79,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:17:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-12) (Accusation) **Candace Owens**: ["BuzzFeed cut a clip from the UK Q&A event stripping the question and f..."](/statements/statement-4ea59713a26b.md)
+- [00:17:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-12) (Accusation) **Candace Owens**: ["Owens said someone, whom she believed was at BuzzFeed, cut the UK even..."](/statements/statement-4ea59713a26b.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

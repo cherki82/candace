@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:19:08](/episodes/ep-MUA9ebCF4Ow.md#t-00-18-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1148);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=1148s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So going back to our timeline, I will remind you: it was July 18th—according to the local Utah news, they found this out. It was July 18th that UVU Turning Point chapter requested to have Charlie (Charlie Kirk) speak.
 

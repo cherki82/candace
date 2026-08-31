@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:05:35](/episodes/ep-X92MllIHDzw.md#t-00-05-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > but he actually graduated from high school in Sierra Vista and then trained in judo at Fort Huachuca.
 

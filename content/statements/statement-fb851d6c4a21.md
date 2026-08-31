@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2049);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2049s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She said, God hates you at Real Candace O. It's why he gave Charlie to Erika and why you didn't even get. ... and get to say goodbye to him. God hates you. Look in the mirror and internalize how much God hates you. We all hate you. ... Humanity hates you and you are irredeemable.
 

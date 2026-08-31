@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:31:42](/episodes/ep-a2bZf4fic10.md#t-00-31-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1902);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=1902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mikey (Michael McCoy) was impacted by this in a way that leads me to believe that Mikey (Michael McCoy) did not know that Charlie Kirk was going to die on that day. Do I think Mikey (Michael McCoy)... knew something was going to happen with the speed that he called his wife. Do I think that Mikey (Michael McCoy) was prepared for Charlie Kirk to die that day? No, I do not believe that.
 

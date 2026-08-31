@@ -11,11 +11,15 @@ object: "person-michael-mccoy"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
 - [00:35:14](/episodes/ep-I0OaY6Gryqk#t-00-35-14): _that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even_
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:27:51](/episodes/ep-K1tFD7FfoCU#t-00-27-51): _That was my reason for going after Andrew Kolvet, Mikey McCoy._
 
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 

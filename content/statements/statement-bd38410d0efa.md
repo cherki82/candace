@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:18:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=1101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We've never debated that. What we have said is that there is no evidence that that particular rifle was fired.
 

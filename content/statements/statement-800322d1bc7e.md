@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:19:54](/episodes/ep-h76ZN-xXC6c.md#t-00-19-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1194);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1194s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is the courtyard where it all happened. It's now open to the public again. There's lots of people coming here, placing flowers, cards, things like that. The university is already making some changes. They're replacing the grass where Charlie Kirk was speaking with pavers.
 

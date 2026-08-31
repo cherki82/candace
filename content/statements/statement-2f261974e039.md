@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2267);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=2267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the 30-06 was supposed to go through and and that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down we were never supposed to see anything again because it didn't go through
 

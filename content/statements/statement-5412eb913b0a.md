@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3599);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=3599s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And to see the Trump brothers, to see Donald Trump himself. Kash Patel, who Charlie pushed for him to lead the FBI, had him on his podcast. ... J.D. Vance like, you know, came out of nowhere. Charlie was like not sleeping to make that happen. ... And to see all of these people have zero interest in the obvious holes in the story, even if ultimately the holes get filled and there's a picture that makes sense, which.
 

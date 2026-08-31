@@ -23,8 +23,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:29:47](/episodes/ep-MUA9ebCF4Ow.md#t-00-29-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1787);return false;">Play</a>
+**Timestamp:** [00:29:47](/episodes/ep-MUA9ebCF4Ow.md#t-00-29-33) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=1787s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can now confirm that those two hospitals do not. ... They do not share information. ... Timpanogos Hospital is owned by HCA, which uses a charting system called VDI. ... Utah Valley Hospital is owned by IHC, and they run on a system called Epic—which many of you guys emailed me about. ... They are not interlinked. ... These two hospitals do not speak to each other. ... If a patient has never been to Timpanogos Hospital but they have been to Utah Valley, their info would not come up at all in Timpanogos' system.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 **Timestamp:** [00:12:41](/episodes/ep-iHav0PPzUz8.md#t-00-12-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(761);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=761s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The tail number you can see here is SUBTT. And this is a screenshot again from FlightRadar.
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:08:17](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(497);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=497s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his statement. I always thought he was a nice guy, but I always thought he was weak on security, very weak on security. ... But when I read his statement, I realized that. It's a good thing that he's out because he said that Iran was not a threat.
 

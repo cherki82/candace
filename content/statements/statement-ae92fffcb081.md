@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:18:36](/episodes/ep-Pb7UlpRdW6U.md#t-00-17-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1116);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1116s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it's going to suck up a significant amount of water in an area that has been hit by severe drought in recent years.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [01:07:37](/episodes/ep-eLgD5yUVbko.md#t-01-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4057);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=4057s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And even in the events that she's doing, they're faking the question and answer segment. Like they're pre-planned. I've seen people doing videos about that. We have received emails. ... It's all like to create the illusion of speech, but there actually isn't any speech.
 

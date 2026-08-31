@@ -1,6 +1,6 @@
 ---
 title: "Pennsylvania"
-description: "Pennsylvania (Places) - 11 mentions"
+description: "Pennsylvania (Places) - 12 mentions"
 id: "gpe-pennsylvania"
 type: "GPE"
 aliases:
@@ -21,10 +21,10 @@ _Type: Places_
 Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#t-00-42-31">2026-01-20 · 00:42:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-gpe-pennsylvania-t-00-30-43">2025-11-18 · 00:31:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#t-00-00-43">2026-07-16 · 00:01:10</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-pennsylvania-t-00-10-16">Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-pennsylvania-t-00-30-43" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-42-31" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-pennsylvania-t-00-32-17" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-32-10" style="--pulse-height:40%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
@@ -46,6 +47,7 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-pennsylvania-t-00-30-43) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-42-31) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-pennsylvania-t-00-32-17) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-10) | 2 |
@@ -59,7 +61,7 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -121,6 +123,14 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 
 **[00:42:31](/episodes/ep-9naMwS0kMBE.md#t-00-42-31)**
 > "...k it could go back to Butler, Pennsylvania. And I don't know if."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:31:04](/episodes/ep-581dILVcEE4.md#ent-gpe-pennsylvania-t-00-30-43)**
+> "...ervice just called locally in Pennsylvania and was like, "Hey, that looks like trouble up th..."
 
 </details>
 

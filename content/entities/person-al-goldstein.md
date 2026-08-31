@@ -5,11 +5,19 @@ id: "person-al-goldstein"
 type: "PERSON"
 aliases:
   - "Goldstein"
+categories:
+  - "publishing"
 ---
 
 _Type: People_
 
 **Also known as:** Goldstein
+
+**Categories:** publishing
+
+**Entity verification:** verified
+> The New York Times obituary identifies Al Goldstein as the publisher associated with Screw, matching the episode context.
+Source: [Al Goldstein, a Publisher Who Took the Romance Out of Sex, Dies at 77](https://www.nytimes.com/2013/12/20/business/media/al-goldstein-pornography-publisher-dies-at-77.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-al-goldstein-t-00-12-52">2025-11-03 · 00:12:52</a></strong></div>
@@ -46,10 +54,10 @@ _Type: People_
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:12:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-al-goldstein-t-00-12-52)**
-> "Our boy Al Goldstein (Al Goldstein) took happy credit for that, right?"
+> "Our boy Al Goldstein took happy credit for that, right?"
 
 **[00:13:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-al-goldstein-t-00-12-52)**
-> "By the way, Al Goldstein (Al Goldstein) was right—that actually has happen..."
+> "By the way, Al Goldstein was right—that actually has happened."
 
 </details>
 

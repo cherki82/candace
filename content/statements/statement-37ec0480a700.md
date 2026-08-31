@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:20:32](/episodes/ep-MhakwJxK-Zk.md#t-00-20-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1232);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Check out this headline, Times of Israel. Gaza Humanitarian Foundation taps U.S. evangelical leader Johnny Moore as the new chairman. ... It tells us that he was appointed as the new executive chairman of the Gaza Humanitarian Foundation, which is the U.S. and Israel-backed organization providing aid to Gazans. ... Its previous CEO, Jake Wood, quit last week and the Boston Consulting Group abandoned the project today.
 

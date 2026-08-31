@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:17:58](/episodes/ep-HZvwbfePe7o.md#t-00-17-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1078);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=1078s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is, quote, we got him, we are taking him to the hospital. Okay. Maybe that was supposed to be to the operator. ... Maybe it was supposed to be said, almost sounds to me almost like a status update, followed by chaos, followed by a voice saying, get out of the way. ... followed by what sounds like high rates of speed is coming across so the car is moving quickly. ... But here's where it gets super interesting. Also, allegedly, allegedly not for long, the statement, get that off of him, get that off of him is captured on this alleged 911 call.
 

@@ -1,8 +1,8 @@
 ---
-title: "He writes, \"I can get close to it, but there is a squad car ..."
-description: "\"He writes, \"I can get close to it, but there is a squad car parked right by it.\"\" — Candace Owens"
+title: "Tyler Robinson allegedly wrote to Lance, \"I can get close to..."
+description: "\"Tyler Robinson allegedly wrote to Lance, \"I can get close to it, but there is a squad car parked right by it.\"\" — Tyler Robinson"
 statement_id: "statement-62e7fbce1aee"
-speaker: "Candace Owens"
+speaker: "Tyler Robinson"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,22 +11,23 @@ veracity: "true"
 
 ## Statement
 
-> He writes, "I can get close to it, but there is a squad car parked right by it."
+> Tyler Robinson allegedly wrote to Lance, "I can get close to it, but there is a squad car parked right by it."
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Tyler Robinson](/entities/person-tyler-robinson.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** alleged text messages to Lance Twiggs
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:02:45](/episodes/ep-sreYYcID-QY.md#t-00-02-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(165);return false;">Play</a>
+**Timestamp:** [00:02:45](/episodes/ep-sreYYcID-QY.md#t-00-02-45) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=165s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He writes, "I can get close to it, but there is a squad car parked right by it." Squad car
+> He writes, "I can get close to it, but there is a squad car parked right by it."
 
 ## Verification
 

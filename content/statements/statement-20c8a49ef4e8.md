@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [01:01:18](/episodes/ep-X92MllIHDzw.md#t-01-01-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3678);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=3678s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think he was obviously we can prove that he was tracked by the military. I mean, turning point was established in part by Bill Montgomery, who was Air Force involved with the Air Force.
 

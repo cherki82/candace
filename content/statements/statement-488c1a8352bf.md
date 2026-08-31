@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:31:33](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1893);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1893s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the day before, actually, I had booked an interview for him that he was not super pleased that I booked for him, but it was it was a good reason for doing it. ... But he was he was like, you know what, I'm tired now and I want to focus on the tour tomorrow. ... So you're going to you're going to guest host the show tomorrow. So I guest hosted the show that morning.
 

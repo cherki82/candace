@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:08:27](/episodes/ep-Ux1kzgQxkws.md#t-01-08-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4107);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4107s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the president of the United States of America has posted images of himself as a king. I think half a dozen times now,
 

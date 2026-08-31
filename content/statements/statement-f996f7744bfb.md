@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:29:44](/episodes/ep-tXoI0TTKVrs.md#t-00-29-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1784);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1784s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you share verses and goals on your Instagram and make everything look super pretty. And so don't mind the genocide that my family is benefiting from, you know, genocide was a little icky over in Gaza. We are going to benefit from that financially, but what are we going to do with all this money that we are, that we've now earned from this genocide?
 

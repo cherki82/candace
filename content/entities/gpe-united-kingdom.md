@@ -1,6 +1,6 @@
 ---
 title: "United Kingdom"
-description: "United Kingdom (Places) - 45 mentions"
+description: "United Kingdom (Places) - 50 mentions"
 id: "gpe-united-kingdom"
 type: "GPE"
 aliases:
@@ -27,8 +27,8 @@ Source: [GOV.UK](https://www.gov.uk/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,7 +41,12 @@ Source: [GOV.UK](https://www.gov.uk/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27" style="--pulse-height:14%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-08-46" style="--pulse-height:50%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 7 mentions" title="2025-09-24 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-36-02" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-44-22" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-52-22" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 14 mentions" title="2025-10-28 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-02-55" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#t-00-21-34" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-02-49" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-32-19" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
@@ -64,7 +69,12 @@ Source: [GOV.UK](https://www.gov.uk/)
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27) | 2 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-46) | 7 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-36-02) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-44-22) | 1 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-52-22) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) | 14 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#t-00-21-34) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-02-49) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16) | 2 |
@@ -87,7 +97,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -228,9 +238,25 @@ Source: [GOV.UK](https://www.gov.uk/)
 </details>
 
 <details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:21:54](/episodes/ep-DqGNvi36ol8.md#t-00-21-34)**
+> "not just in the UK, the USA, and France, as well as in dozens of oth..."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:03:09](/episodes/ep-a-e7HC6SeK8.md#t-00-02-55)**
+> "and in the UK, and one of the fathers is a real bookworm, right..."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (14 mentions)</summary>
 
-**[00:00:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00)**
+**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00)**
 > "Someone—and I believe it was someone at BuzzFeed—cut a clip of a video from the Q&A portion of that UK event."
 
 **[00:13:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-13-32)**
@@ -246,7 +272,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 > "... was nothing happening in the UK."
 
 **[00:14:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-13-32)**
-> "..."Charlie, we should go to the UK."
+> "I'm like, "Charlie (Charlie Kirk), we should go to the UK."
 
 **[00:14:10](/episodes/ep-Cq7nj9rxPdo.md#t-00-13-32)**
 > "We need to go to the UK."
@@ -271,6 +297,30 @@ Source: [GOV.UK](https://www.gov.uk/)
 
 **[01:04:51](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15)**
 > "... of Israel when he was in the UK, and he married me."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:52:44](/episodes/ep-c5BcKF91iec.md#t-00-52-22)**
+> "...ling that needed to go to the UK, and I met my husband."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:44:22](/episodes/ep-5autG89PW6w.md#t-00-44-22)**
+> "another level of donations for Charlie (Charlie Kirk) through introductions that he made for Charlie (Charlie Kirk)—and a donor who, ironically, this is the very donor that when I said to Charlie (Charlie Kirk), "We need to be in the UK. We need to be in the UK," and he was like, "Well, I know somebody who I could maybe have set up an event. We can start Turning Point UK," and that event was when I first laid eyes on George—not when I spoke to him, but when I actually first laid eyes on him."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:36:15](/episodes/ep-K5GjF53bfN4.md#t-00-36-02)**
+> "... Andrew Tate is also from the UK, and my husband knew him before he met me, which ..."
 
 </details>
 
@@ -304,7 +354,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 <summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
 **[00:13:27](/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27)**
-> "... you look cool. We really did go everywhere. I mean, all 50 states, Canada, down to the border, the United Kingdom, Israel—you name it, we were there. And there was always a new t-shirt to print out: “Justice for B..."
+> "I mean, all 50 states, Canada, down to the border, the United Kingdom, Israel—you name it, we were there."
 
 **[00:17:19](/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27)**
 > "And in the UK, which I didn't expect to happen."

@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:53:06](/episodes/ep-5zgkrOaCCj4.md#t-00-52-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=3186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Oh, he is right-handed. There is no question it's actually in the documents that he is right-handed. If you go look in the court thing, he's taking notes with his right hand.
 

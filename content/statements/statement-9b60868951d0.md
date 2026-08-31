@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:53:30](/episodes/ep-cPidFQDJLbo.md#t-00-53-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3210);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=3210s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Israel didn't do nothing. They've never done anything other than assassinate a sitting president of the United States.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:19:46](/episodes/ep-ti5Fxrvegno.md#t-00-19-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and I have to her face when I've had her on the show, I get on well with Candace (Candace Owens), but some of the stuff she's been doing in relation to Erika Kirk, Brigitte Macron and others, I do think is really regrettable kind of conspiracy theory nonsense just to click some money.
 

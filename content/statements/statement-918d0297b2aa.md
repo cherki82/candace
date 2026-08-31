@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:06:01](/episodes/ep-N4uM8Jdr410.md#t-00-06-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(361);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=361s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > General, same to you. So this rifle, so this .30-06, it's a powerful rifle. What do you make of this narrative that the bullet might have hit Charlie Kirk's spine, which would explain why the damage wasn't what you would typically see with a rifle like that from that range? ... Absolutely not. I'm with Rob. Something exploded on him. But I don't have to get into the details because I'm not in a court of law having to prove a darn thing.
 

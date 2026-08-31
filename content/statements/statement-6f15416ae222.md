@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:23:05](/episodes/ep-HGtMfbePDKk.md#t-00-22-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1385);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1385s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What I saw was an organization struggling, struggling to weather a storm that would have been unthinkable a year ago, struggling to grieve, struggling to navigate near constant threats and harassment, and wondering each day what false storyline Candace Owens will come up with next.
 

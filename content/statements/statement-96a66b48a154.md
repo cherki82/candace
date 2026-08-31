@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:46:25](/episodes/ep-9naMwS0kMBE.md#t-00-46-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2785);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2785s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was ritualistic. It was ritualistic. I'm going to slaughter an innocent man in front of you and you're going to like it and you're going to take it and then you're going to go back and support me again.
 

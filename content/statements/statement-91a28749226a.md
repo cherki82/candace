@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:13:27](/episodes/ep-ds6umq1rHAw.md#t-00-13-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(807);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was Frank William Gay who would then begin hiring people around him, hiring what became known as the Mormon Mafia.
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:16:55](/episodes/ep-CMcktj3Egfo.md#t-00-16-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1015);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1015s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he had separated it from the church, wanting the finances not to be mingled with the church, which was something that his father had not done.
 

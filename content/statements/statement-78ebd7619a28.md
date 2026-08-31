@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:03:27](/episodes/ep-a2bZf4fic10.md#t-00-03-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(207);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=207s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I certainly believe he did pick up clothes and bury them at Dairy Queen.
 

@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:03:06](/episodes/ep-DdPjoy5W-wY.md#t-00-02-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And now I have to be the sole provider for my children. And again, this is not a business card opportunity. There's something very biblical in a woman honoring her husband and stepping up and standing in.
 

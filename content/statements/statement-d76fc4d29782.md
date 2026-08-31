@@ -31,7 +31,7 @@ type: "citation"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:19:10](/episodes/ep-3QJqtW_NOSI.md#t-00-19-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1150);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1150s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I want to be clear because I downloaded her book over this past weekend and was speed reading through it that the trafficked underage women were coming from Ukraine, Croatia, Bosnia, and of course, Romania.
 

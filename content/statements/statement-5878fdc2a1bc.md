@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:06:23](/episodes/ep-sKuYLNx3iRo.md#t-00-06-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(383);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=383s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Uh, the patient information to the staff there. I end up getting on top of him and cutting the shirt that he had on off—that white Freedom shirt—and so I cut it off so they could get to him. I didn't articulate this to them, but I wanted to get that stuff off so they could put a defibrillator on him.
 

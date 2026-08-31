@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:03:38](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(218);return false;">Play</a>
+**Timestamp:** [00:03:38](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-28) 
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=218s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You should know this happened in 1913
 

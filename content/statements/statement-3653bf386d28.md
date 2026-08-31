@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:20:30](/episodes/ep-9CuC1yf8-PU.md#t-00-20-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1230);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1230s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that is when Charlie Kirk was shot. It was in the neck and I watched the blood just spurt out all over his body as he slumped over and fell down. I believe that he was dead on impact, but it sounds like he is in critical condition.
 

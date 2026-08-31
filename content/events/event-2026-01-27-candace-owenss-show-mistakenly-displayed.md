@@ -6,6 +6,11 @@ date: "2026-01-27"
 ---
 
 **Date:** 2026-01-27
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-01-27"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:01:32](/episodes/ep-QdM9jLwjwLw.md#event-event-2026-01-27-candace-owenss-show-mistakenly-displayed-t-00-01-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(92);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=92s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We made a mistake and showed you a picture of a man that is actually not named Bob Flood at all.

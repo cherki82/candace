@@ -11,7 +11,7 @@ object: "person-nick-fuentes"
 
 ## [Tucker Carlson](/entities/person-tucker-carlson) interviewed [Nick Fuentes](/entities/person-nick-fuentes)
 
-### Evidence (4 mentions)
+### Evidence (6 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -20,6 +20,14 @@ object: "person-nick-fuentes"
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
 - [00:07:28](/episodes/ep-K1tFD7FfoCU#t-00-07-28): _Tucker (Tucker Carlson) interviewed Nick Fuentes._
+
+**[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
+
+- [00:16:43](/episodes/ep-LATnak75Si0#t-00-16-43): _MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald Trump looked at us in our faces_
+
+**[EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo)**
+
+- [00:36:07](/episodes/ep-Qfwr08Ebczo#t-00-36-07): _I interviewed Nick Fuentes, who attacked my wife and my son and my dad._
 
 **[BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8)**
 

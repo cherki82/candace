@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:06:04](/episodes/ep-ChuWo-n49B8.md#t-00-05-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(364);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=364s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But what I'm saying is, I believe Andrew Kolvet admitted that Bill Ackman did not give him $1 million.
 

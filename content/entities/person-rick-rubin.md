@@ -3,9 +3,17 @@ title: "Rick Rubin"
 description: "Rick Rubin (People) - 2 mentions"
 id: "person-rick-rubin"
 type: "PERSON"
+categories:
+  - "music producer"
 ---
 
 _Type: People_
+
+**Categories:** music producer
+
+**Entity verification:** verified
+> Recording Academy artist profile confirms canonical name and music-producer identity.
+Source: [Rick Rubin | Artist | GRAMMY.com](https://qa.grammy.com/artists/rick-rubin/13812)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-rick-rubin-t-00-12-11">2025-10-28 · 00:12:27</a></strong></div>

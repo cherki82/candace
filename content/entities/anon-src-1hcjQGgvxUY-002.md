@@ -42,7 +42,7 @@ _No relationships extracted yet._
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
 
 - [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) [✗] (Citation) ["An anonymous TikTok creator says 40 FBI briefings mention a color of the day, an..."](/statements/statement-09584b6cf183.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [FBI](/entities/org-fbi.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

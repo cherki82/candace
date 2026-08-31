@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PragerU](/entities/org-prageru) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (7 mentions)
+### Evidence (11 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -21,9 +21,17 @@ object: "person-candace-owens"
 
 - [00:29:29](/episodes/ep-9naMwS0kMBE#t-00-29-29): _I worked at Prager University_
 
+**[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
+
+- [00:21:03](/episodes/ep-Cq7nj9rxPdo#t-00-21-03): _We kept doing the campuses and the campus tours, but I was officially working for PragerU._
+
 **[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
 
 - [00:08:19](/episodes/ep-K5GjF53bfN4#t-00-08-19): _I obviously worked for PragerU._
+
+**[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
+
+- [00:40:51](/episodes/ep-MUA9ebCF4Ow#t-00-40-51): _I worked for PragerU. I'm not a Mossad honeypot person, so that's not evidence._
 
 **[Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU)**
 
@@ -32,6 +40,11 @@ object: "person-candace-owens"
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:55:05](/episodes/ep-Wjul6YV6izo#t-00-55-05): _it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire_
+
+**[DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo)**
+
+- [00:00:06](/episodes/ep-YA1FxrDWNIo#t-00-00-06): _when I was working for Prager University._
+- [00:06:29](/episodes/ep-YA1FxrDWNIo#t-00-06-29): _when I was working for Prager University._
 
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 

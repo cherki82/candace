@@ -6,6 +6,11 @@ date: "2021-01-16"
 ---
 
 **Date:** 2021-01-16
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “January 16th, 2021”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2021-01-16"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:07:30](/episodes/ep-DdPjoy5W-wY.md#event-event-2021-01-16-proclaim-streetwear-products-first-appea-t-00-07-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(450);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you get married, it's running on its own. on its own, surely

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:32:34](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1954);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1954s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They do focused reports on, I think, really just me, things that I say. And they were really pushing and pedaling a couple years ago that Christ is King is anti-Semitic. They released this report during Lent. It backfired, obviously.
 

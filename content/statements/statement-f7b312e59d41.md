@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:12:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-12-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(726);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=726s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I found a video of me, Tucker (Tucker Carlson), and Charlie (Charlie Kirk) speaking backstage right before Tucker (Tucker Carlson) went out
 

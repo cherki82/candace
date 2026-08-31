@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:23:33](/episodes/ep-SKGUzGHymcI.md#t-00-23-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1413);return false;">Play</a>
+**Timestamp:** [00:23:33](/episodes/ep-SKGUzGHymcI.md#t-00-22-47) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1413s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) found something out. That's it guys. Charlie (Charlie Kirk) found something out and it cost him his life. That's the truth.
 

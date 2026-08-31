@@ -6,6 +6,11 @@ date: "2023"
 ---
 
 **Date:** 2023
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “at the end of 2023”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2023"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:08:51](/episodes/ep-amqTMimDr0A.md#event-event-2023-candace-owens-says-the-christ-is-king-co-t-00-08-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(531);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=531s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that began, as you guys know, in earnest at the end of 2023 with the Christ is King scandal

@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/newsweek)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-07">2025-10-08 · 00:15:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-43">2025-10-08 · 00:15:43</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-newsweek-t-00-38-16">2026-05-05 · 00:38:35</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -31,8 +31,8 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-newsweek-t-00-33-24">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-07" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-33" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-43" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-28" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-newsweek-t-00-33-24" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-newsweek-t-00-26-11" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-newsweek-t-00-24-38" style="--pulse-height:50%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
@@ -41,8 +41,8 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-07) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-33) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-43) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-28) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-newsweek-t-00-33-24) | 4 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-newsweek-t-00-26-11) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-newsweek-t-00-24-38) | 2 |
@@ -94,7 +94,7 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:49:38](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-33)**
+**[00:49:34](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-28)**
 > "... over us. You know what I mean? Like these are like Josh Hammer— is actually the editor at large at Newsweek. It's openly talking about his hostilities towards white men, right? Because he views Jewish people..."
 
 </details>
@@ -102,10 +102,10 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:15:43](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-07)**
+**[00:15:43](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-43)**
 > "... one point the editor-at-large of the Daily Wire, and he is currently the senior editor-at-large at Newsweek. Plus he hosts his own show. My point that I'm making here is he knows how to communicate, okay? Th..."
 
-**[00:18:05](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-18-01)**
+**[00:18:01](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-17-44)**
 > "... that he's even allowed—like there's just no consequence. It's like, yeah, well, editor-at-large at Newsweek. What are you gonna do? Eh, it's fine. You can hate white people. We all know that. It's fine, tota..."
 
 </details>
@@ -119,9 +119,10 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 <summary>Employs (1)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-28): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-43): “He was at one point the editor-at-large of the Daily Wire, and he is currently the senior editor-at-large at Newsweek.”
 
 </details>
 
@@ -131,9 +132,10 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 <summary>Referenced By (1)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-28): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-43): “He was at one point the editor-at-large of the Daily Wire, and he is currently the senior editor-at-large at Newsweek.”
 
 </details>
 

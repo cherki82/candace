@@ -1,17 +1,17 @@
 ---
-title: "The New York Post had exclusive photos of Jeffrey Epstein de..."
-description: "\"The New York Post had exclusive photos of Jeffrey Epstein death and Ghislaine Maxwell at In-N-Out, and consistently breaks stories before other outlet...\" — Candace Owens"
+title: "Owens sarcastically characterized the New York Post as the o..."
+description: "\"Owens sarcastically characterized the New York Post as the outlet that receives every major exclusive, citing photographs related to Jeffrey Epstein's...\" — Candace Owens"
 statement_id: "statement-404d9f5a5b4c"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> The New York Post had exclusive photos of Jeffrey Epstein death and Ghislaine Maxwell at In-N-Out, and consistently breaks stories before other outlets
+> Owens sarcastically characterized the New York Post as the outlet that receives every major exclusive, citing photographs related to Jeffrey Epstein's death and Ghislaine Maxwell.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:18:20](/episodes/ep-2WEHTk0Xewg.md#t-00-18-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1100);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1100s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > press conference is that exclusively our guys—our resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)—it's always the New York Post, okay
 
@@ -48,4 +48,4 @@ The claim about NY Post exclusives is partially true. They did publish photos of
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

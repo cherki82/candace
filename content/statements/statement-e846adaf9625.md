@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:49:07](/episodes/ep-5NQyGuRYbU8.md#t-00-48-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2947);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2947s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's a million different ways you could run with Turning Point USA because it just grew so remarkably corrupt in such a short space of time and they're just behaving like they have everything to hide.
 

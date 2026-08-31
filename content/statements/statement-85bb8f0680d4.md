@@ -23,7 +23,7 @@ veracity: "false"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:04:05](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(245);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And during the discussion with the officer that showed up, Tyler certainly refers to it as his car, not his vehicle, because that's how most English speakers refer to a car—unless they're in the military or on the police force.
 

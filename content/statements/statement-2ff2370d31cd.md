@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2141);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2141s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission.
 

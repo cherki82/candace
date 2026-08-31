@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:55:51](/episodes/ep-wcD2khO3rOA.md#t-00-55-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3351);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3351s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Executives of unification-related entities have acknowledged that money from Japan and Korea are fueling their U.S. operations. But the magnitude and the mechanism of those payments, as well as their exact sources, have eluded investigators on three continents
 

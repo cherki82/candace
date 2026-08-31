@@ -7,7 +7,7 @@ type: "citation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:04:59](/episodes/ep-4YgrOhhy708.md#t-00-04-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(299);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=299s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nielsen estimates that 128 million people watched the Super Bowl game last night, forgetting the halftime performance. ... That number increased to 135 million viewers during the halftime performance. So people got up and were like, I don't want to watch the, you know, I'm not watching the whole Super Bowl match,
 

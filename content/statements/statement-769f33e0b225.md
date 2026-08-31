@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:35:03](/episodes/ep-c5BcKF91iec.md#t-00-34-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2103);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2103s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie writes, "Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this. You know, I'm talking to lawyers."
 

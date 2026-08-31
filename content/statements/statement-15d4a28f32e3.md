@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:11:36](/episodes/ep-OEAHy3SsIiI.md#t-00-10-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(696);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=696s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I messaged and I said, who did this? Who approved this? ... And the answer that I got, you're not going to believe this or you will believe this, that the person who approved this tent was the amazing Elizabeth McCoy.
 

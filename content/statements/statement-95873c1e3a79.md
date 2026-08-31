@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:16:58](/episodes/ep-h76ZN-xXC6c.md#t-00-16-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1018);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1018s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The first guy, you know, the second guy that I hadn't talked to on the phone basically said, hey, look, we're not talking to anybody. ... He says this is above our pay grade. The FBI and the state, the governor and the FBI, that's what they told me. ... The governor and the FBI said they want this done by Monday and we need to get it done. ... We're not asking questions. We're not talking to the media.
 

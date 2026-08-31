@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:50:02](/episodes/ep-2Riv3I7D0Yk.md#t-00-49-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3002);return false;">Play</a>
+**Timestamp:** [00:50:02](/episodes/ep-2Riv3I7D0Yk.md#t-00-49-38) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=3002s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It terrifies me to think that on the day that Charlie (Charlie Kirk) died, I got multiple phone calls from people who said that me and Tucker (Tucker Carlson) should lay low because we're also on the list
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:35:38](/episodes/ep-SKNJPul29zU.md#t-00-35-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2138);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2138s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And anything I've said about Israel is not anti-Semitic. Israel has carried out a genocide, continues to carry out a genocide in Gaza. They were occupying 53% of the territory. Now they're occupying 64%. Just last night, I read an article about how they quietly redrew the map of the area of Gaza that they're going to occupy.
 

@@ -3,9 +3,17 @@ title: "George Webb"
 description: "George Webb (People) - 1 mention"
 id: "person-george-webb"
 type: "PERSON"
+categories:
+  - "investigative journalist"
 ---
 
 _Type: People_
+
+**Categories:** investigative journalist
+
+**Entity verification:** verified
+> George Webb's publication identifies him by canonical name and as an investigative reporter, matching the introduced clip.
+Source: [The George Webb Investigates Case File](https://georgewebb.substack.com/p/the-george-webb-investigates-case)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-webb-t-00-24-11">2025-10-28 · 00:24:31</a></strong></div>
@@ -61,7 +69,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:25:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39) [○] (Claim) ["Ziklag was the organization for Christian right donors of $25 million and above ..."](/statements/statement-61471533362f.md)
+- [00:24:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39) [○] (Claim) ["George Webb said Charlie Kirk was meeting with NAR, that NAR involved Christian-..."](/statements/statement-61471533362f.md)
   - About: [Ziklag](/entities/org-ziklag.md)
 
 </details>

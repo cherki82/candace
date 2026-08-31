@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:23:02](/episodes/ep-puuMVxEu5NU.md#t-00-23-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1382);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1382s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Focused in because the shooter is on top of the building on the far north side, maybe the CS building. ... Just east of the library, he's wearing jeans, black shirt, black mask, long rifle.
 

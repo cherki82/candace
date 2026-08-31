@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:03:55](/episodes/ep-SKGUzGHymcI.md#t-00-03-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(235);return false;">Play</a>
+**Timestamp:** [00:03:55](/episodes/ep-SKGUzGHymcI.md#t-00-03-50) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=235s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk)'s gonna get shot at 12:23
 

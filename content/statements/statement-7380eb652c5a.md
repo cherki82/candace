@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:04:30](/episodes/ep-X92MllIHDzw.md#t-00-04-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(270);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=270s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then no, I wasn't being trolled. As evidence of this, they actually provided me with movie posters which were professionally shot and the movie which was entitled November Renaissance.
 

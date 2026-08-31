@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:03:27](/episodes/ep-LATnak75Si0.md#t-00-02-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(207);return false;">Play</a>
+**Timestamp:** [00:03:27](/episodes/ep-LATnak75Si0.md#t-00-03-14) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=207s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You literally get these requests months before you start sorting through them...For my April 2024 event, here is when we started planning...this email came in October of 2023.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:21:45](/episodes/ep-SKNJPul29zU.md#t-00-21-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1305);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=1305s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Can we just address how brazenly obvious like okay when every pro-israel media figure comes out at the same time and basically says oh there's no big deal with the epstein files they shouldn't be released you're giving it away
 

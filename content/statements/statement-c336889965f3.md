@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -21,13 +21,13 @@ veracity: "true"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:03:56](/episodes/ep-QRS_hR7NXaQ.md#t-00-03-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(236);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=236s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The FBI announcing that it has found the passport of one of the hijackers who was on board one of those two planes that hit the Twin Towers on Tuesday morning.
 

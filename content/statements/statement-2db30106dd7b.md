@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:07:51](/episodes/ep-DdPjoy5W-wY.md#t-00-07-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(471);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=471s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's the earliest indication on Wayback Machine that clothing items were actually available for sale on the website.
 

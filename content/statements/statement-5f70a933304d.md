@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:36:46](/episodes/ep-SgVcnx4Oh30.md#t-00-36-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2206);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2206s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > okay i'm just gonna say i don't believe that at all i'm sorry i just i i just it's so stupid i'm not even gonna tell you i don't believe it's like it's like if you don't know that that's stupid that he infiltrated the gang in 48 hours like it's just that's so dumb i'm so tired of dumb that's not how that works okay you don't just go up to gangs on the street as a nice looking white boy with the camera and say hey i just wanted to sort of like see what you're doing here what's going on okay just to stop that's stupid of course that's dumb ... i'm sorry nick i know you're young i hope you know whoever is your contact that has you infiltrating antifa and infiltrating el salvador at the age of 23 years old it just feels like sean penn young to me like oh sean penn's always there with the cartels never gets hurt always is a part of a movie i just i don't like stupid that did not happen okay that did not just happen he didn't wander into a fella and meet up with gang members of the camera and they were like you know it's cool come here see what we're up to anyway
 
@@ -37,7 +37,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:29:36](/episodes/ep-KpxIBWkNsSs.md#t-00-29-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1776);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=1776s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm just gonna say I don't believe that at all. I'm sorry. I just I just it's so stupid. I'm not even gonna tell you why I don't believe it's like it's like if you don't know that that's stupid that he infiltrated the gang in 48 hours like it's just that's so dumb. ... I hope, you know, whoever is your contact that has you infiltrating Antifa and infiltrating El Salvador at the age of 23 years old, it just feels like Sean Penn young to me. ... I should also be clear that when we're using the term we say someone's fed jacketed doesn't mean that this person is a fed themselves it just means that they clearly have connections with the government and they are being sort of just kind of put upon us
 

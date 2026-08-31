@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:44:53](/episodes/ep-CEF7gQRWYCE.md#t-00-44-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2693);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2693s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's now twice lied about a Dan Flood message. First, she said it didn't exist. Then she said maybe it did exist, but actually it was on Telegram, which Charlie had set to clear. And that's why she never saw it. That's a lie.
 
@@ -40,7 +40,7 @@ veracity: "unverifiable"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:23:11](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1391);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1391s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Number two, she told us that Charlie (Charlie Kirk) did not text anyone the night before in fear for his life. That's what she told Glenn Beck. ... Number three, even builds upon that lie because then we were told, well, the reason for that is because Dan Flood and Andrew Kolvet messaged him on a third party app and that's why I didn't know that was set for deletion. Well, the reality, as I broke to you all the other day, is that Dan Flood actually messaged him on iMessage.
 
@@ -48,7 +48,7 @@ veracity: "unverifiable"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:14:24](/episodes/ep-ti5Fxrvegno.md#t-00-14-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(864);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=864s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and then she said that was a mistake no it must have been on telegram they sent that and then i confirmed my person that had access to dan flood's phone that it wasn't sent on telegram it was sent an i message so she lied to me she lied twice she lied once and then she lied again to me and i don't like when people lie to my face paw print number three
 

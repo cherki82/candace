@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:01:00](/episodes/ep-9hRcfSrri70.md#t-00-01-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(60);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=60s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, I got a strange press request today. Blake Neff is now entering the foray. He's speaking to reporters who wants everyone to know that I'm just jealous of Erika (Erika Kirk).
 

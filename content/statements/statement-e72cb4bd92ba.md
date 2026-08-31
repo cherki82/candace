@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:36:29](/episodes/ep-9naMwS0kMBE.md#t-00-36-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2189);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2189s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What ends up happening is he then says that they compelled him or supported him, not compelled him, but pushed him and pushed him to go on a date with a guy and to have his first kiss. ... it was very obvious to me that they were grooming him ... thinking he was a homosexual because he was just probably an inexperienced shy kid
 

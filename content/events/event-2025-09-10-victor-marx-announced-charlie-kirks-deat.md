@@ -7,6 +7,11 @@ time: "13:13"
 ---
 
 **Date:** 2025-09-10 at 13:13
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "13:13"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:24:40](/episodes/ep-1mYNOqzAdXs.md#event-event-2025-09-10-victor-marx-announced-charlie-kirks-deat-t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1480);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he posted that information at 1 13 p.m Utah time mountain standard
 
@@ -26,7 +31,7 @@ time: "13:13"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [02:05:11](/episodes/ep--9MOUvgGyi4.md#event-event-2025-09-10-victor-marx-announced-charlie-kirks-deat-t-02-04-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7511);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=7511s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he also happened to be the first person that we can find that announced that Charlie Kirk was dead.
 
@@ -34,7 +39,7 @@ time: "13:13"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:01:50](/episodes/ep-Dkxa9OUA9K8.md#event-event-2025-09-10-victor-marx-announced-charlie-kirks-deat-t-00-01-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(110);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=110s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > publicly announce that Charlie Kirk had passed away on September 10th on social media
 
@@ -42,6 +47,6 @@ time: "13:13"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:04:49](/episodes/ep-cPidFQDJLbo.md#t-00-04-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(289);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > first to post a video that was later on removed saying that Charlie had passed

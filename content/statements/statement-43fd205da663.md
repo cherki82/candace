@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:12:21](/episodes/ep-iHav0PPzUz8.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(741);return false;">Play</a>
+**Timestamp:** [00:12:21](/episodes/ep-iHav0PPzUz8.md#t-00-11-47) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=741s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I reported that on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport
 

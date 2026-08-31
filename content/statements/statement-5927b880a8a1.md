@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:05:50](/episodes/ep-gG4ZoYUjUc8.md#t-00-05-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(350);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=350s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > also, I can confirm to you today that on September 9th, amongst a smaller pool of TPUSA employees, Charlie (Charlie Kirk) sent a text saying the day before he died that he wanted to invite me to AMFest.
 

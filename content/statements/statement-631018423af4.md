@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:39:55](/episodes/ep-X92MllIHDzw.md#t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2395);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2395s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He led people into a Capitol with a bullhorn and said, ignore police, storm the barriers as if he had fed, like he had fed instructions. And we know for a fact, he was informed the night before, the night before by Milo Yiannopoulos. That the feds were going to beat that there was there was some Fed trap happening. And despite that, he went with a bullhorn, didn't just attend, he had a bullhorn and he's telling people to storm and he doesn't get arrested.
 

@@ -21,7 +21,7 @@ _Type: Organizations_
 Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/about)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47">2025-09-17 · 00:47:18</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47">2025-09-17 · 00:47:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-babylon-bee-t-00-37-11">2026-08-07 · 00:37:38</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
@@ -110,7 +110,7 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47)**
+**[00:47:11](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47)**
 > "... there was a huge effort by people—some of whom I know and have helped and like— Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously canceled. I like S..."
 
 </details>
@@ -124,9 +124,10 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 <summary>Referenced By (1)</summary>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:31:24](/episodes/ep-4YgrOhhy708.md#t-00-31-24): “Seth Dillon gets up there of the Babylon Bee”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:47:11](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47): “Seth Dillon of the Babylon Bee, for example.”
 
 </details>
 

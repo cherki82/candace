@@ -23,21 +23,11 @@ veracity: "true"
 
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
-## Appearances (2)
-
-### 1. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
-
-**Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:12:38](/episodes/ep-vwG1juDCQZQ.md#t-00-12-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(758);return false;">Play</a>
-
-> to have seen the autopsy report, to have seen the different evidence portions that have been collected. I trust our team
-
-### 2. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
+## Source
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:17:18](/episodes/ep-7ERqbYElOfs.md#t-00-17-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1038);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1038s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, everyone always has to think there's more to the story. Well, sometimes there's not. I've seen the autopsy report.
 

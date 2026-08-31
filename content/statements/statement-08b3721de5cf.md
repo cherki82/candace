@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:15:38](/episodes/ep-LATnak75Si0.md#t-00-15-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
+**Timestamp:** [00:15:38](/episodes/ep-LATnak75Si0.md#t-00-15-38) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Just to be clear, even Donald (Donald Trump) Trump—President Trump—dedicated 900% more ... Truth Social posts to ensuring that Mamdani would lose than to ensuring that Charlie (Charlie Kirk)'s murderer was found—900% increase in messaging coming from him, since he didn't even send one message about investigating Charlie (Charlie Kirk)'s murder.
+> Just to be clear, even Donald Trump—President Trump—dedicated 900% more Truth Social posts to ensuring that Mamdani would lose than to ensuring that Charlie (Charlie Kirk)'s murderer was found—900% increase in messaging coming from him, since he didn't even send one message about investigating Charlie (Charlie Kirk)'s murder.
 
 ## Verification
 

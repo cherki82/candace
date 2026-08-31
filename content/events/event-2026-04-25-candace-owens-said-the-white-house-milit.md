@@ -7,6 +7,11 @@ time: "21:49"
 ---
 
 **Date:** 2026-04-25 at 21:49
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “approximately 9.49 p.m.”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "21:49"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:08:00](/episodes/ep-7FS1tUeSfdE.md#event-event-2026-04-25-candace-owens-said-the-white-house-milit-t-00-08-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(480);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > all communication channels should amplify this clip further, coordinate with digital partners
 
@@ -26,7 +31,7 @@ time: "21:49"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:08:33](/episodes/ep-Pb7UlpRdW6U.md#event-event-2026-04-25-candace-owens-said-the-white-house-milit-t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(513);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=513s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > all communications channels should amplify this clip, coordinate with our digital partners
 
@@ -34,6 +39,6 @@ time: "21:49"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:35:52](/episodes/ep-1QZ4X6q1DPg.md#event-event-2026-04-25-candace-owens-said-the-white-house-milit-t-00-35-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2152);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=2152s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Video clip of Erika Kirk leaving the ballroom area and stating, I just want to go home

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:31:02](/episodes/ep-Vu6Y24pqhZs.md#t-00-31-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1862);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1862s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jean-Luc Brunel like sent Jeffrey Epstein, I think, is it eight-year-old triplets for his birthday? ... Maybe they were 10 years old triplets for his birthday.
 

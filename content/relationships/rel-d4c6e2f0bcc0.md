@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) appeared with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (9 mentions)
+### Evidence (12 mentions)
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -29,6 +29,11 @@ object: "person-charlie-kirk"
 
 - [00:35:58](/episodes/ep-_cNtgris8Ik#t-00-35-58): _said okay what like I watched that clip and that's not what was happening then they obviously move on and by the way he says oh well then later on she gets obsessed with Jews first off he's talking about a gap of 2018 when I was speaking about nationalism on stage with Charlie by the way they're leaving that part out as well I was with Charlie and journalists were in the room and nobody had a problem with it at all and then BuzzFeed pulls the clip months later And then he fast forward and says, oh,_
 
+**[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
+
+- [00:05:47](/episodes/ep-_dRaEO47-co#t-00-05-47): _Because like I said, people were not going to buy tickets to hear me and Charlie Kirk speak._
+- [00:15:12](/episodes/ep-_dRaEO47-co#t-00-15-12): _Just literally me, Charlie (Charlie Kirk) and Sarah, who was his assistant at the time, just playing the hype music._
+
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
 - [00:57:22](/episodes/ep-ds6umq1rHAw#t-00-57-22): _a 15-minute compilation video of you and Charlie (Charlie Kirk) laughing together on YouTube_
@@ -36,6 +41,10 @@ object: "person-charlie-kirk"
 **[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
 
 - [00:12:21](/episodes/ep-hWTdXHGQ8R4#t-00-12-21): _Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him._
+
+**[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
+
+- [00:58:39](/episodes/ep-pc3pxRyNFZk#t-00-58-39): _many videos of you both._
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

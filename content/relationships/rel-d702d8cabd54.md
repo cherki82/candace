@@ -11,11 +11,15 @@ object: "person-tucker-carlson"
 
 ## [Ben Shapiro](/entities/person-ben-shapiro) criticized [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE)**
 
 - [00:19:33](/episodes/ep-CEF7gQRWYCE#t-00-19-33): _Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock._
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:09:57](/episodes/ep-K1tFD7FfoCU#t-00-09-57): _Ben Shapiro (clip): Tucker Carlson, you see, is a coward._
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 

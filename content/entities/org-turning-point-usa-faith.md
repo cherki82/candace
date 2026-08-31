@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 74 mentions"
+description: "Turning Point USA Faith (Organizations) - 75 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -26,10 +26,10 @@ _Type: Organizations_
 Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50">2025-10-01 · 00:43:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-42">2025-10-01 · 00:43:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53">2026-06-24 · 00:59:22</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -40,15 +40,17 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-turning-point-usa-faith-t-00-08-14">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-42" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-turning-point-usa-faith-t-00-50-43" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39" style="--pulse-height:65%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 11 mentions" title="2025-10-29 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-turning-point-usa-faith-t-00-08-14" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 17 mentions" title="2025-10-31 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01" style="--pulse-height:47%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 8 mentions" title="2025-11-10 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-59" style="--pulse-height:18%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-33" style="--pulse-height:18%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16" style="--pulse-height:35%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 6 mentions" title="2025-11-13 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-02" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-faith-t-00-52-08" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-turning-point-usa-faith-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00" style="--pulse-height:47%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
@@ -63,15 +65,17 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-42) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-usa-faith-t-00-50-43) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39) | 11 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-turning-point-usa-faith-t-00-08-14) | 17 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01) | 8 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-59) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-33) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16) | 6 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-02) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24) | 2 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-faith-t-00-52-08) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-turning-point-usa-faith-t-00-14-50) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00) | 8 |
@@ -88,7 +92,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (75)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -205,13 +209,18 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[00:18:18](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07)**
+**[00:18:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07)**
 > "here Israeli planes lead to the front door of Turning Point USA faith."
 
-**[00:18:20](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07)**
-> "...nes lead to the front door of Turning Point USA faith."
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:52:28](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-faith-t-00-52-08)**
+> "Turning point faith, man. I love that it is so faithful. You know, we..."
 
 </details>
 
@@ -229,7 +238,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:32:26](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07)**
+**[00:32:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-02)**
 > "... what is happening inside of these churches. And I am definitively not letting go—obviously—of this TPUSA faith infiltration, which is what it looks like to me. We're going to take a brief break, and we're going..."
 
 </details>
@@ -260,13 +269,13 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
 
-**[00:26:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-59)**
+**[00:25:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-33)**
 > "... keep trucking along. Also, as we continue to paint this picture of the corruption of faith, right? TPUSA Faith has got my attention. I learned that there was another pastor who was close with Charlie (Charlie K..."
 
-**[00:36:09](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-35-39)**
+**[00:36:03](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-36-03)**
 > "... That's what it's looking like to me. And tomorrow, we're gonna get into the characters involved in TPUSA Faith and this random strand of sex scandal—sex and trafficking and weapons scandal that keeps happening,..."
 
-**[00:36:22](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-36-22)**
+**[00:36:22](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-36-03)**
 > "We're not gonna not look into Turning Point Faith because, oh, you're not allowed—it's untouchable ..."
 
 </details>
@@ -395,9 +404,17 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:51:21](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-usa-faith-t-00-50-43)**
+> "Many extremely ethical people helped to build Turning Point and all associated groups—Turning Point Action and Turning Point Faith."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:43:09](/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50)**
+**[00:43:09](/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-42)**
 > "...o a company that is shilling for Israel. I have people that are telling me that they're handing out TPUSA Faith packets and, like, Israel is mentioned eight times. Someone submitted it to me. I read it. It's rid..."
 
 </details>
@@ -445,7 +462,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith...”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:48](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to recruit pastors and other church leaders to be active in local and national political issues.”
 
 </details>
 
@@ -467,9 +484,8 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <summary>Has Chairman (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:04:08](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:17](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): “Rob McCoy is obviously now the co-chair of TPUSA Faith.”
 
 </details>
@@ -526,9 +542,8 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** chairman of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:04:08](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:17](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): “Rob McCoy is obviously now the co-chair of TPUSA Faith.”
 
 </details>
@@ -536,7 +551,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith...”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:48](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to recruit pastors and other church leaders to be active in local and national political issues.”
 
 </details>
 
@@ -602,7 +617,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:12:04](/episodes/ep-es7PWdFGoFI.md#t-00-11-58) (Accusation) **Candace Owens**: ["Rob McCoy claimed on stage at the memorial to be 'America's pastor' an..."](/statements/statement-f7572e40a6e9.md)
+- [00:11:54](/episodes/ep-es7PWdFGoFI.md#t-00-11-54) (Accusation) **Candace Owens**: ["Candace Owens said Rob McCoy called himself 'America's pastor' at the ..."](/statements/statement-f7572e40a6e9.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
@@ -610,7 +625,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:32:34](/episodes/ep-7RLtGgkTh9o.md#t-00-32-07) (Opinion) **Candace Owens**: ["Turning Point USA Faith looks like an infiltration"](/statements/statement-08c2b9841c5a.md)
+- [00:32:34](/episodes/ep-7RLtGgkTh9o.md#t-00-32-02) (Opinion) **Candace Owens**: ["Turning Point USA Faith looks like an infiltration"](/statements/statement-08c2b9841c5a.md)
 
 </details>
 

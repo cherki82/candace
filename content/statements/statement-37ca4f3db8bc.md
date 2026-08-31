@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:13:38](/episodes/ep-WoXd4oLwd3w.md#t-00-13-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, that could bring us to a sort of logical explanation as to Trump (Donald Trump)'s behavior thereafter, because I believe that Trump (Donald Trump) betrayed Charlie Kirk by a similar lack of investigation into who killed Charlie Kirk. He betrayed himself and he betrayed Charlie Kirk.
 

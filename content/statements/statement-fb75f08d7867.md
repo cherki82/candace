@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:15:43](/episodes/ep-his-JBjlkh8.md#t-00-15-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(943);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=943s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am struck by the fact that you're still trying to conflate an annual audit with Charlie (Charlie Kirk)'s explicit request to put together a DOGE department seven days before he died.
 

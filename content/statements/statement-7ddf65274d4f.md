@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:43:03](/episodes/ep-MhakwJxK-Zk.md#t-00-42-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2583);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2583s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay. People at Turning Point told me when they began deleting episodes, they thought it was so strange.
 

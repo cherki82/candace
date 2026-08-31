@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:45:13](/episodes/ep-AH1KVKkweUE.md#t-00-45-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2713);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2713s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will assert over and over again, Charlie (Charlie Kirk) was betrayed and we are completely being lied to and people in his inner core and circle are a part and parcel of those lies. ... They are the creator of those lies, perpetuators of some of those lies, and they will be exposed.
 

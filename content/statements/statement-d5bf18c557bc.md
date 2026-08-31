@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1921);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1921s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then I told you guys that, having asked this question through an official channel, Turning Point USA, I received a response alleging that Erika never lived there. So that's coming from Erika. She actually never lived there. They said that she simply visited for two weeks. You know, like a tourist just to visit the Great Wall and perhaps see other monuments in history.
 

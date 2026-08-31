@@ -1,8 +1,8 @@
 ---
-title: "Owens displayed or recounted a social-media comment she attr..."
-description: "\"Owens displayed or recounted a social-media comment she attributed to Erika Kirk cousin Nicole Rothstein saying Erika was half Jewish\" — Candace Owens"
+title: "Nicole Rothstein said she was Erika Kirk's cousin and that E..."
+description: "\"Nicole Rothstein said she was Erika Kirk's cousin and that Erika was half Jewish\" — Nicole Rothstein"
 statement_id: "statement-c902a0c9287a"
-speaker: "Candace Owens"
+speaker: "Nicole Rothstein"
 type: "factual_claim"
 ---
 
@@ -10,15 +10,15 @@ type: "factual_claim"
 
 ## Statement
 
-> Owens displayed or recounted a social-media comment she attributed to Erika Kirk cousin Nicole Rothstein saying Erika was half Jewish
+> Nicole Rothstein said she was Erika Kirk's cousin and that Erika was half Jewish
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Quoted)
+**Speaker:** [Nicole Rothstein](/entities/person-nicole-rothstein.md) (Quoted)
 
 **Delivery:** Quoted from social media post
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Social-media comment recounted by Candace Owens
 
 ## About
 
@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2685);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2685s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nicole Rothstein was like, I'm her cousin, she's half Jewish
 

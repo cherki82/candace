@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:06:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-06-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(415);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=415s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler, it turns out—which has already been revealed—was accepted into Utah State University, not Utah Valley.
 

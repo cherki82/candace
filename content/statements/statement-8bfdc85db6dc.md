@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2623);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2623s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ghislaine Maxwell says 29 Epstein associates cut secret DOJ deals. ... Six names readily available if you unredact them. Co-conspirators named, ... but we got them when you unredact them.
 

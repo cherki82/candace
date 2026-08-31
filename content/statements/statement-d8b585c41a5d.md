@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:24:20](/episodes/ep-mLvJqdxS-FY.md#t-00-23-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1460);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=1460s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So what I'm getting is that somebody at the FBI lab authored that we should know who that person is because that just stinks to high heaven.
 

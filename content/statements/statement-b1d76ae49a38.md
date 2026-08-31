@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:55:26](/episodes/ep-69A8TzAGHlU.md#t-00-55-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3326);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=3326s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to note that many myths arose around Mengele in the camp, such as the alleged sewing together of twins, which did not happen, simply because Mengele saw himself as a scientist, a theoretician, a man conducting research.
 

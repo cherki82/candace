@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:15:29](/episodes/ep-9naMwS0kMBE.md#t-00-15-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(929);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=929s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when her father passed, she was not mentioned in his obituary. His daughter who was tragically murdered not terribly long before he died was not mentioned in his obituary.
 

@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:13:55](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(835);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=835s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We broke the story that that video is likely not authentic. People with direct knowledge tell me that, yes, certainly a question was asked, but the answer which Charlie (Charlie Kirk) gave was simply that he trusted his lieutenants at the company to figure things out in the event of his absence. His mind just was not there.
 

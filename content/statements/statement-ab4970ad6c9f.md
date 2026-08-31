@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:22:30](/episodes/ep-1CFDtD0IgEg.md#t-00-22-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1350);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1350s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After that went off, it's plausible that this unknown person could have planted the screwdriver.
 

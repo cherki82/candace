@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:17:41](/episodes/ep-YFmRH8p5lt0.md#t-00-17-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1061);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=1061s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > April 2nd, TPUSA Faith— ... co-chaired by Rob McCoy—kicks off their tour with an event headed by Sean Feucht in Jefferson City, Missouri the very next day while this plane is here.
 

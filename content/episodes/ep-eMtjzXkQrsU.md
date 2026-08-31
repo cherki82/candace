@@ -317,7 +317,7 @@ youtube_url: "https://www.youtube.com/watch?v=eMtjzXkQrsU"
 - **2025-09-09**: [Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.](/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md)
 - **2025-09-09 15:54**: [Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.](/events/event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t.md)
 - **2025-09-09 18:00**: [Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.](/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo.md)
-- **2025-09-10**: [Charlie Kirk was assassinated at Utah Valley University.](/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md)
+- **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
 - **2025-09-12**: [Benjamin Netanyahu denies that Israel killed Charlie Kirk on Greta Van Susteren's show](/events/event-2025-09-12-benjamin-netanyahu-denies-that-israel-ki.md)
 - **2025-09-18**: [Dhillon Law Group registers Clocktower X and Show Faith by Works with FARA for Israel-related campaigns](/events/event-2025-09-18-dhillon-law-group-registers-clocktower-x.md)
 - **2025-09-21**: [Charlie Kirk's memorial is geofenced](/events/event-2025-09-21-charlie-kirks-memorial-is-geofenced.md)

@@ -1,6 +1,6 @@
 ---
 title: "Book of Genesis"
-description: "Book of Genesis (Works & Media) - 6 mentions"
+description: "Book of Genesis (Works & Media) - 7 mentions"
 id: "work-book-of-genesis"
 type: "WORK"
 aliases:
@@ -21,10 +21,10 @@ _Type: Works & Media_
 Source: [Genesis | Old Testament | Britannica](https://www.britannica.com/topic/Genesis-Old-Testament)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-book-of-genesis-t-00-07-44">2026-01-22 · 00:08:18</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-book-of-genesis-t-00-44-34">2025-11-04 · 00:44:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-work-book-of-genesis-t-00-53-56">2026-03-03 · 00:53:56</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Genesis | Old Testament | Britannica](https://www.britannica.com/topic/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-book-of-genesis-t-00-07-44">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-book-of-genesis-t-00-44-34" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-book-of-genesis-t-00-07-44" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-book-of-genesis-t-00-06-40" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-book-of-genesis-t-00-05-43" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
@@ -44,6 +45,7 @@ Source: [Genesis | Old Testament | Britannica](https://www.britannica.com/topic/
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-work-book-of-genesis-t-00-44-34) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-book-of-genesis-t-00-07-44) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-work-book-of-genesis-t-00-06-40) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-work-book-of-genesis-t-00-05-43) | 2 |
@@ -55,7 +57,7 @@ Source: [Genesis | Old Testament | Britannica](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
@@ -92,6 +94,14 @@ Source: [Genesis | Old Testament | Britannica](https://www.britannica.com/topic/
 
 **[00:10:37](/episodes/ep-gG4ZoYUjUc8.md#ent-work-book-of-genesis-t-00-10-20)**
 > "He's got to flip to Genesis and understand that even when they are behaving m..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:44:40](/episodes/ep-Qfwr08Ebczo.md#ent-work-book-of-genesis-t-00-44-34)**
+> "...ed during the global flood of Genesis."
 
 </details>
 

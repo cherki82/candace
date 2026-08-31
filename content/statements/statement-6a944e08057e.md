@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:03:05](/episodes/ep-3QJqtW_NOSI.md#t-00-02-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(185);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was rather when Charlie (Charlie Kirk) and Erika (Erika Kirk) went on their first date. In August of 2018, that was the exact same time frame when the Epstein (Jeffrey Epstein) scandal initially broke out, right? It was the unsealing of a lawsuit between Ghislaine Maxwell and Virginia (Virginia Giuffre), the young woman who was at the source of the Epstein (Jeffrey Epstein) scandal, a defamation lawsuit, and it led to this massive exposé in the Miami Herald, a full piece on Jeffrey Epstein and the sweet deal that he got.
 

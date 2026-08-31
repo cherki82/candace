@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:19:12](/episodes/ep-ChuWo-n49B8.md#t-00-19-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1152);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1152s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, I'll show you this. The group chat got exposed because a member of the group went rogue and was like, I'm done with this. This is no longer healthy for me. Here is what she said over two tweets. Shady Lady Katie wrote. Coordinated efforts are coming from some of these people. Here are all the names who were in this group chat. I'm sharing information, background checks, reporting accounts, whining and complaining all day about Candace Owens and even sharing Candace's own home address in this group chat. However, I will say that not everyone here participated. Some just lurked. Anyway, I am out of here. X is a digital, unfruitful wasteland, and I have a real life and SHIT to do. Go live your lives and build something.
 

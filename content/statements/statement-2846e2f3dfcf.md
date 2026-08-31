@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:22:00](/episodes/ep-VMNWMXX1vO8.md#t-00-21-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1320);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=1320s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But before all of this, I used to take the kids to the office pretty much daily—sometimes, because Gigi (Charlie and Erika Kirk's daughter; full name unconfirmed) would have dance class and stuff like that... ... every other day, whatever.
 

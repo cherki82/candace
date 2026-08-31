@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:04:28](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(268);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=268s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I wanted to secure the footage for Erika (Erika Kirk) so that she wouldn't have to see the footage of Charlie (Charlie Kirk) being shot in 4K.
 

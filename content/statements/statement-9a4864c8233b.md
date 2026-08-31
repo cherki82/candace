@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:22:25](/episodes/ep-amqTMimDr0A.md#t-00-22-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1345);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that happened when the extraordinarily wealthy Jewish man in Atlanta named Leo Frank, who owned a factory and was president of the Atlanta B'nai B'rith chapter, assaulted and murdered an impoverished 13-year-old Catholic girl named Mary Phagan. ... He was convicted of this crime, despite trying to blame it on a poor, illiterate Black janitor who also worked for him at the factory.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:58:02](/episodes/ep-Dkxa9OUA9K8.md#t-00-57-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3482);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=3482s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that was a rescue of a mom who had been held captive nine years. She was kidnapped as a teenager, had two children inside of captivity of ISIS, and we planned a mission for six months, executed in five days. ... It's documented, and she's back home with her family.
 

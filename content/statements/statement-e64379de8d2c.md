@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:04:33](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you right now, it's worse than anyone can imagine. Um, today I was at the festival field and they're not allowing anybody in, but the relationships that we have with special forces commanders here with the IDF, um, are extensive and they are taking us to places so that we can tell the world and America especially what has happened.
 

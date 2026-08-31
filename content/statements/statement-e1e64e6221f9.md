@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:25:24](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1524);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1524s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, this is how it works. Charlie (Charlie Kirk) was taken out. He was stepping on the toes of very powerful people who were going to make a lot of money off of this Iran war.
 

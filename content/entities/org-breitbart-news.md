@@ -35,7 +35,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-38">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (33 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-38" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 33 mentions" title="2026-01-07 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-36" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-38) | 33 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-36) | 1 |
@@ -191,13 +191,10 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
 **[00:46:06](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
 > "...ex Marlow speaking), who runs Breitbart News, was their guest for the day on the show."
-
-**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
-> "Alex Marlow who runs Breitbart News"
 
 </details>
 
@@ -212,7 +209,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 - **[Alex Marlow](/entities/person-alex-marlow.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “Alex Marlow, who runs Breitbart News, was their guest for the day”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “It's going to get even more interesting though, because Alex Marlow (Alex Marlow speaking), who runs Breitbart News, was their guest for the day on the show.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:15](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15): “including the editor-in-chief Alex Marlow and editor-at-large John Nolte”
 
 </details>
@@ -230,10 +227,11 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <summary>Formerly Employed (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35): “I have resigned from Breitbart News as editor at large.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:32](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20): “while Ben was at Breitbart before he turned his back and betrayed them too”
 
 </details>
 
@@ -319,10 +317,11 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35): “I have resigned from Breitbart News as editor at large.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:32](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20): “while Ben was at Breitbart before he turned his back and betrayed them too”
 
 </details>
 
@@ -343,7 +342,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 - **[Alex Marlow](/entities/person-alex-marlow.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “Alex Marlow, who runs Breitbart News, was their guest for the day”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): “It's going to get even more interesting though, because Alex Marlow (Alex Marlow speaking), who runs Breitbart News, was their guest for the day on the show.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:15](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15): “including the editor-in-chief Alex Marlow and editor-at-large John Nolte”
 
 </details>

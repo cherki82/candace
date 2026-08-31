@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(850);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=850s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i feel like i have a charlie gpt or something in the back of my head ... we are not going to do the weird ai thing we've been pitched on that multiple times i'm just like guys no no not not at all
 

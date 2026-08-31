@@ -28,8 +28,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:27:18](/episodes/ep-9k2xrAC0H88.md#t-00-27-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1638);return false;">Play</a>
+**Timestamp:** [00:27:18](/episodes/ep-9k2xrAC0H88.md#t-00-26-38) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=1638s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They roped off the vehicle that we took out of there as a crime scene
 

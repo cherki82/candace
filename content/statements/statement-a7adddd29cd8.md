@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:18:21](/episodes/ep-1CFDtD0IgEg.md#t-00-18-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that's what brought us to Officer Bagley (Christopher Bagley)'s unusual testimony where his body cam dies seemingly without warning at exactly the right time. And there's a ton of warning that should have been happening.
 

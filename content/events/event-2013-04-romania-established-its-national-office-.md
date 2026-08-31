@@ -6,6 +6,11 @@ date: "2013-04"
 ---
 
 **Date:** 2013-04
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “in April”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2013-04"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:39:07](/episodes/ep-DdPjoy5W-wY.md#event-event-2013-04-romania-established-its-national-office--t-00-38-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2347);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this year the Romanian government establishes the national office for gambling games in April.

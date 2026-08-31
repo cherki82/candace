@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:28:37](/episodes/ep-ZGxnf5cj4Uw.md#t-00-27-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1717);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=1717s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the shooting, and that his car was in the driveway of the now infamous TMZ footage—which showed the shooter walking twice that day
 

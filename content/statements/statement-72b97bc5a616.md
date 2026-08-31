@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:26:16](/episodes/ep-1hcjQGgvxUY.md#t-00-26-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1576);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1576s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning point employees were told that she got the news when she was with her mom and then she drove herself back home.
 

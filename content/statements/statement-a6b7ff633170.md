@@ -33,7 +33,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1874);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1874s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The person claims that Bill (Bill Montgomery) and his wife and a certain Robert Flood, who is in Dan Flood's family, ... said that they knew each other since before the school even got started. They were all working for this evangelical company, ... The Shaklee Corporation is still in existence today.
 

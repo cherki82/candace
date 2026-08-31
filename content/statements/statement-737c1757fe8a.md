@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:28:23](/episodes/ep-YeEtS7nix3o.md#t-00-27-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1703);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1703s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What is it about Russia as a fact that it is no longer communist? It hasn't been communist, Dana, for over 30 years.
 

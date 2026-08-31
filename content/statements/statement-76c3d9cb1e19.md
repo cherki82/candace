@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:04:01](/episodes/ep-YeEtS7nix3o.md#t-00-03-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(241);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=241s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who's paying for it? We're paying for it because it's a family vacation. We pay for our own vacations.
 

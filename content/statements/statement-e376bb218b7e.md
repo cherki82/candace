@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:19:54](/episodes/ep-EtLHqDbxqks.md#t-01-19-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4794);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4794s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Keep going, Max. I personally think that Lance (Lance Twiggs) is blackmailed. Based on the conversations I've had about Lance (Lance Twiggs), he was into some weird internet stuff. Easy person to blackmail. And to get himself out of something, he threw in Tyler Robinson. That's my opinion.
 

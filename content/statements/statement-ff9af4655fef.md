@@ -1,16 +1,16 @@
 ---
-title: "Charlie Kirk resented that Benjamin Netanyahu was using the ..."
-description: "\"Charlie Kirk resented that Benjamin Netanyahu was using the United States to prosecute his wars for the benefit of his country, which was shameful and...\" — Tucker Carlson"
+title: "Tucker Carlson said Charlie Kirk resented what Kirk believed..."
+description: "\"Tucker Carlson said Charlie Kirk resented what Kirk believed was Benjamin Netanyahu's use of the United States to prosecute wars for Israel's benefit,...\" — Tucker Carlson"
 statement_id: "statement-ff9af4655fef"
 speaker: "Tucker Carlson"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Charlie Kirk resented that Benjamin Netanyahu was using the United States to prosecute his wars for the benefit of his country, which was shameful and bad for the United States.
+> Tucker Carlson said Charlie Kirk resented what Kirk believed was Benjamin Netanyahu's use of the United States to prosecute wars for Israel's benefit, which Kirk regarded as shameful, embarrassing, and bad for the United States.
 
 ## Attribution
 
@@ -23,23 +23,13 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:44:34](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2674);return false;">Play</a>
+**Timestamp:** [00:44:30](/episodes/ep-2WEHTk0Xewg.md#t-00-44-30) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2670s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He was—above all—resentful that he believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and bad for the United States. And he resented it.
-
-### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:44:34](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2674);return false;">Play</a>
-
-> He was—above all—resentful that he believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and bad for the United States
+> He was—above all—resentful that he believed Benjamin Netanyahu was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and bad for the United States. And he resented it.
 
 ## Verification
 
@@ -47,4 +37,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

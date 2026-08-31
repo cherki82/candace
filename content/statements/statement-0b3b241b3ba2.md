@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:25:12](/episodes/ep-BxN2-aeMYIs.md#t-00-24-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1512);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he didn't even get cleared in the first administration because of his past and ties to British intelligence—his ties to British intelligence. So he's been accused of being a spy for a long time.
 

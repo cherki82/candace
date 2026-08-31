@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:18:40](/episodes/ep-SKNJPul29zU.md#t-01-18-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4720);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4720s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have a pretty strict policy right now. You are against what's happening in Gaza. That means to your core, you're a good person.
 

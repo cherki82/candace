@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:39:04](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2344);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=2344s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The state has also indicated that the FBI is in the process of conducting a second comparative bullet analysis as well as a bullet lead analysis that these analyses are not yet complete.
 

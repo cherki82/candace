@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:06:16](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(376);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She filed for TechMetrics International 1993 and in the available 1998 docs pertaining to it, Richard Erpenbeck is again listed as the secretary.
 

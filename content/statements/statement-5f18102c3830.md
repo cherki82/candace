@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:50:36](/episodes/ep-aDlhjfW6hz8.md#t-00-49-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3036);return false;">Play</a>
+**Timestamp:** [00:50:36](/episodes/ep-aDlhjfW6hz8.md#t-00-50-15) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=3036s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That dropped, and they began using those advertisements for that drink on August 31st. So the absolute earliest that could have been taken is August 31st.
 

@@ -6,6 +6,13 @@ date: "2024-07-20"
 ---
 
 **Date:** 2024-07-20
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 20th”
+
+**Normalization note:** Date matches stated 'July 20th'
 
 ## Event
 
@@ -15,6 +22,6 @@ date: "2024-07-20"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:11:11](/episodes/ep-mKXdKV-OBog.md#event-event-2024-07-20-subtt-makes-longest-trip-from-cairo-thro-t-00-10-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(671);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=671s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > talked about SUBTT, which came in for its longest trip—that'

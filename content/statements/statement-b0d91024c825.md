@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:48:01](/episodes/ep-DqGNvi36ol8.md#t-00-47-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2881);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2881s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look, I do think it would be one of the dumbest moves ever if they coordinated my assassination at Turning Point USA headquarters.
 

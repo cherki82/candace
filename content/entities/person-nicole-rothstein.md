@@ -21,8 +21,8 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-nicole-rothstein-t-00-38-38">2026-06-26 · 00:39:16</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>16</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -166,7 +166,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “I'm her cousin”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:44:42](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30): “Nicole Rothstein was like, I'm her cousin”
 
 </details>
 
@@ -178,7 +178,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “This Nicole Rothstein who defends her in the comments currently”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:44:30](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30): “This Nicole Rothstein who defends her in the comments currently”
 
 </details>
 
@@ -214,14 +214,14 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 - **[Erika Kirk](/entities/person-erika-kirk.md)** cousin of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “I'm her cousin”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:44:42](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30): “Nicole Rothstein was like, I'm her cousin”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “This Nicole Rothstein who defends her in the comments currently”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:44:30](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30): “This Nicole Rothstein who defends her in the comments currently”
 
 </details>
 
@@ -252,7 +252,20 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nicole Rothstein (6)</strong></summary>
+<summary><strong class="section-title">Statements by Nicole Rothstein (1)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) [○] (Claim) ["Nicole Rothstein said she was Erika Kirk's cousin and that Erika was half Jewish"](/statements/statement-c902a0c9287a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Nicole Rothstein (5)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (4)</summary>
@@ -272,12 +285,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
-- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) (Claim) **Candace Owens**: ["Erika Kirk is half Jewish according to her cousin Nicole Rothstein"](/statements/statement-86cb14abbe01.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) (Claim) **Candace Owens** (via quoted post): ["Owens displayed or recounted a social-media comment she attributed to ..."](/statements/statement-c902a0c9287a.md)
+- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) (Claim) **Nicole Rothstein** (via quoted post): ["Nicole Rothstein said she was Erika Kirk's cousin and that Erika was h..."](/statements/statement-c902a0c9287a.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

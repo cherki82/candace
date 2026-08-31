@@ -25,8 +25,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:24:14](/episodes/ep-SKGUzGHymcI.md#t-00-23-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1454);return false;">Play</a>
+**Timestamp:** [00:24:14](/episodes/ep-SKGUzGHymcI.md#t-00-23-33) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1454s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A gang of demented psychopaths rule over us and their solution to being caught doing psychopathic things is to murder us.
 

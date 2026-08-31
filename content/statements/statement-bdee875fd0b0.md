@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:39:55](/episodes/ep-EtLHqDbxqks.md#t-00-39-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2395);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2395s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She testifies that she only received four of them in an envelope, a manila envelope. So three disappeared. Of the four that she got, three of them were unusable, and then she was left with one, which she labeled 6A. That's what they're discussing, this bullet jacket fragment. She gives this a range of diameter and describes in detail why she gave it that range and how confident she was that you were looking for a bullet that would be
 

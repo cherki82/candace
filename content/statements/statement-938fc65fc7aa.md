@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:00:07](/episodes/ep-H9p2ZGHAs9A.md#t-00-00-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=7s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm just telling you right now, if Erika Kirk is ever on a ticket, I am not voting for Erika Kirk.
 

@@ -6,6 +6,11 @@ date: "2026-02-08"
 ---
 
 **Date:** 2026-02-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “last night”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-02-08"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:05:31](/episodes/ep-4YgrOhhy708.md#event-event-2026-02-08-bad-bunny-performed-the-super-bowl-halft-t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(331);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=331s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he had a successful Super Bowl halftime performance in terms of the metrics.

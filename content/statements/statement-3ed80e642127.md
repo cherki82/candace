@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:53:00](/episodes/ep-VMNWMXX1vO8.md#t-00-53-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3180);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3180s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I know for a fact that in past interviews, scripts were handed to her before she went out at the very beginning of this thing.
 

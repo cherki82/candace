@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:11:54](/episodes/ep-9naMwS0kMBE.md#t-00-11-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(714);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=714s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jessica Ghawi was in that food court. she paid her bill at like i don't remember 6 20 or something like that and three minutes later the shooting started but in those three minutes she said she had a really weird feeling in her stomach decided she didn't want to be around and she walked out and i thought that's weird um she has this premonition that something bad's going to happen then a mall gets shot up And then a few weeks later, she dies in a mass shooting.
 

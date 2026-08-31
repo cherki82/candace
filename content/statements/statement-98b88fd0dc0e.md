@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:02:23](/episodes/ep-JQjCAsfoXEE.md#t-00-02-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(143);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=143s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pastor Rob McCoy—let's not forget him too—because he's the spawn of naval psychological intelligence, psychological campaigns upon the public.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:36:09](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2169);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2169s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you're taking a ton of money from Zionists. Can you just own that, Dan (Dan Patrick)? ... Own the fact that you, like everybody else, it's just outright purchased. You're outright purchased by Israel.
 

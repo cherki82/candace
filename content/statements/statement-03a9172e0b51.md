@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:36:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-36-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2185);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But it isn't. And now this is what I found out about coming here to the United States. ... As someone who comes from the third world country where we are used to censorship and we are used to, you know, not telling the truth as it is, here nobody will hide the truth but they will choose not to tell it and they will tell other stuff and give it a bigger mic.
 

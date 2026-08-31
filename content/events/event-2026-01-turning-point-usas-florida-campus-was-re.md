@@ -6,6 +6,11 @@ date: "2026-01"
 ---
 
 **Date:** 2026-01
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “at the beginning of this year; in January”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-01"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:20:41](/episodes/ep-X92MllIHDzw.md#event-event-2026-01-turning-point-usas-florida-campus-was-re-t-00-20-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1241);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1241s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the $10 million gift and renaming the headquarters. Now Nelda gave an interview

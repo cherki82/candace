@@ -27,7 +27,7 @@ type: "promise"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [01:06:55](/episodes/ep-eLgD5yUVbko.md#t-01-06-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4015);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=4015s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will get to the bottom of that. I know who was at that event now. ... I'm working on that. Like I said, I'm always have background investigations going on and I'm dead focused on that.
 

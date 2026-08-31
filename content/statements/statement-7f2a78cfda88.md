@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:22:37](/episodes/ep-czVBmqZP6Ss.md#t-00-21-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1357);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, I will also call upon—since we're having fun—Turning Point USA to release the audio of what Charlie— because I was in communication with Charlie at this time, because I knew exactly which donors were pressuring him and why, exactly which people that they were insisting Charlie allow to...
 

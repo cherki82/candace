@@ -7,7 +7,7 @@ type: "promise"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [01:01:20](/episodes/ep-HYn0P-P1wUw.md#t-01-00-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3680);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=3680s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, I reached out to him and we are going to make that happen. When? I don't know. It will likely be on a Friday.
 

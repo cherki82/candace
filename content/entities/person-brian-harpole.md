@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 340 mentions"
+description: "Brian Harpole (People) - 341 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -21,12 +21,12 @@ _Type: People_
 Source: [Security chief recounts moments after Charlie Kirk was shot](https://www.deseret.com/politics/2025/11/18/brian-harpole-moments-following-charlie-kirk-assassination/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22">2025-11-18 · 00:21:32</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-brian-harpole-t-00-21-41">2026-08-19 · 00:22:10</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>340</strong></div>
-<div><span>Statements by</span><strong>25</strong></div>
-<div><span>Statements about</span><strong>114</strong></div>
+<div><span>Episodes</span><strong>52</strong></div>
+<div><span>Mentions</span><strong>341</strong></div>
+<div><span>Statements by</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>109</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,14 +35,15 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-brian-harpole-t-00-00-01">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (41 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-31" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01" style="--pulse-height:12%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01" style="--pulse-height:22%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 9 mentions" title="2025-11-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-24" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-brian-harpole-t-00-08-43" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-43" style="--pulse-height:15%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 6 mentions" title="2025-12-09 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39" style="--pulse-height:10%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-22" style="--pulse-height:12%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 5 mentions" title="2025-12-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-01-00-13" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09" style="--pulse-height:24%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 10 mentions" title="2025-12-17 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-brian-harpole-t-00-15-06" style="--pulse-height:12%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 5 mentions" title="2025-12-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-35" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 8 mentions" title="2025-12-17 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19" style="--pulse-height:17%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 7 mentions" title="2025-12-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-brian-harpole-t-00-37-47" style="--pulse-height:22%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 9 mentions" title="2026-01-05 · 9 mentions"><span></span></a>
@@ -91,14 +92,15 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22) | 8 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-31) | 4 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01) | 5 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01) | 9 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-24) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01) | 4 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-brian-harpole-t-00-08-43) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-43) | 6 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39) | 4 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-22) | 5 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-01-00-13) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55) | 2 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09) | 10 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-brian-harpole-t-00-15-06) | 5 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-35) | 8 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15) | 3 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19) | 7 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-brian-harpole-t-00-37-47) | 9 |
@@ -149,7 +151,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (340)</strong></summary>
+<summary><strong class="section-title">Raw mentions (341)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -1255,49 +1257,63 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
-**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15)**
+**[00:01:32](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15)**
 > "Brian Harpole"
 
 **[00:56:15](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15)**
-> "...tage that you were looking at Brian Harpole, maybe he's got a brother in the military, who kn..."
+> "If you had to put it at a percentage that you were looking at Brian Harpole (TPUSA security), maybe he's got a brother in the military, who knows, right?"
 
 **[00:56:48](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15)**
-> "... at a percentage that you saw Brian Harpole, what percentage would you put it at?"
+> "If you had to put it at a percentage that you saw Brian Harpole (TPUSA security), what percentage would you put it at?"
 
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (10 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (8 mentions)</summary>
 
-**[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09)**
+**[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-35)**
 > "we recognized this increase in this botted activity after we started speaking about Fort Huachuca. We talked about Fort Huachuca. We talked about the Elvis guy. He's convinced that he saw Brian Harpole."
 
-**[00:33:38](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09)**
-> "He's convinced that he saw Brian Harpole."
-
-**[00:41:04](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
-> "...d you first and foremost that Brian Harpole, when he sits down with Sean Ryan, tells us that ..."
+**[00:41:03](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
+> "Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event."
 
 **[00:41:19](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
 > "And I'm bringing up Brian Harpole, of course, because our eyewitness told us that h..."
 
 **[00:41:26](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
-> "He's convinced he saw Brian Harpole walking out of this big wig meeting on the 9th."
-
-**[00:41:30](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
 > "...t I can look into things that Brian Harpole has said to the public since things have transpir..."
 
 **[00:41:43](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-41-35)**
-> "Take a listen to Brian Harpole in his own words on Sean Ryan."
+> "Take a listen to Brian Harpole in his own words on Shawn Ryan."
 
 **[00:43:23](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-43-23)**
 > "...ear, I am not suggesting that Brian Harpole, obviously he's not going to be Sam, or is he goi..."
 
-**[00:46:27](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-46-10)**
+**[00:46:25](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-46-03)**
 > "...t we need to learn more about Brian Harpole's whereabouts."
 
-**[00:47:12](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-46-51)**
+**[00:47:12](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-47-12)**
 > "It is possible for Brian Harpole to be able to meet to make that meeting."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5 mentions)</summary>
+
+**[00:15:13](/episodes/ep-es7PWdFGoFI.md#ent-person-brian-harpole-t-00-15-06)**
+> "...security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan)."
+
+**[00:15:47](/episodes/ep-es7PWdFGoFI.md#ent-person-brian-harpole-t-00-15-47)**
+> "...ple that believe, like Brian (Brian Harpole), that with enough performance, he can sit down a..."
+
+**[00:46:52](/episodes/ep-es7PWdFGoFI.md#ent-person-brian-harpole-t-00-46-52)**
+> "They had Dan (Dan Flood) and Brian Harpole working for them. Initially, I told Charlie (Char..."
+
+**[00:47:28](/episodes/ep-es7PWdFGoFI.md#ent-person-brian-harpole-t-00-47-28)**
+> "...curately said that the Brian (Brian Harpole), the message he showed belonged to Dan (Dan Floo..."
+
+**[01:09:09](/episodes/ep-es7PWdFGoFI.md#ent-person-brian-harpole-t-01-09-09)**
+> "...kes zero sense. Erika, Brian (Brian Harpole) and so many others caught in these lies. This is..."
 
 </details>
 
@@ -1313,42 +1329,33 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:50:24](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39)**
-> "We can't confirm it was Brian Harpole"
-
-**[01:00:13](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39)**
-> "It was Brian Harpole."
-
-**[01:00:14](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39)**
+**[01:00:13](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-01-00-13)**
 > "Was it a Brian Harpole lookalike?"
 
-**[01:00:19](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39)**
+**[01:00:19](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-01-00-13)**
 > "He is certain he saw Brian Harpole."
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (6 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5 mentions)</summary>
 
-**[00:03:20](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-43)**
-> "the person that is with him is Brian Harpole"
+**[00:20:43](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-22)**
+> "...he person that is with him is Brian Harpole."
 
-**[00:20:43](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-43)**
-> "...he person that is with him is Brian Harpole (Brian Harpole)."
+**[00:21:16](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-21-02)**
+> "So he sees Brian Harpole come out, this older guy, and that he has, what t..."
 
-**[00:21:16](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-43)**
-> "So he sees Brian Harpole (Brian Harpole) come out, this older guy, and tha..."
+**[00:21:26](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-21-02)**
+> "... Brian, who he believes to be Brian Harpole, who he's not obviously recognized at that time."
 
-**[00:21:28](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-21-28)**
-> "... Brian, who he believes to be Brian Harpole (Brian Harpole),"
-
-**[00:21:34](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-21-28)**
-> "...would not have known that was Brian Harpole (Brian Harpole), but he remembers him obviously b..."
+**[00:21:34](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-21-02)**
+> "...would not have known that was Brian Harpole, but he remembers him obviously because then the ..."
 
 **[00:55:45](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-55-15)**
-> "...d because this Brian Harpole (Brian Harpole) thing has given me a chill and this Dan Flood (D..."
+> "And because this Brian Harpole thing has given me a chill and this Dan Flood stu..."
 
 </details>
 
@@ -1361,68 +1368,68 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
 
 **[00:00:01](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01)**
 > "...urning Point USA and their affiliates are really reaching a fever pitch because we can confirm that Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day. And I..."
 
-**[00:29:52](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-29-11)**
+**[00:29:52](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-29-24)**
 > "...920 King? I think that would be a good start. Anyways, we'll be right back, and I'll tell you about Brian Harpole's big lie when we come out of a few sponsors. All right, you guys. We know that too many people are..."
 
-**[00:32:35](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-31-59)**
+**[00:32:35](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-32-04)**
 > "... I mean? It's just getting longer and longer, and these misrepresentations are, of course, lies. So Brian Harpole obviously sat down with Sean Ryan, and he tried to explain how things went wrong and how it wasn't ..."
 
-**[00:33:24](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-33-24)**
+**[00:33:24](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-33-17)**
 > "...us are starting to speak. And now we are certain. So foremost, jog your memory of what he said—what Brian Harpole said to Sean Ryan. He describes a communication that—and he says it in a very odd way. I can tell y..."
-
-**[00:33:53](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-33-24)**
-> "...esenting a text message between Dan Flood and Chief Long. Take a listen to how he says it. (Clip of Brian Harpole) On Monday before— this correspondence went to Chief Long. "Hello, Chief Long. We received this mes..."
 
 </details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
 
-**[00:30:56](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-31)**
-> "...om. Now, our list of Turning Point lies is just getting longer every day. Yesterday we talked about Brian Harpole, the security guy who was not convincing at all. And he basically said, we didn't have drones becau..."
+**[00:30:52](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-24)**
+> "Now, our list of Turning Point lies is just getting longer every day. Yesterday we talked about Brian (Brian Harpole), the security guy who was not convincing at all."
 
 **[00:32:30](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-32-30)**
-> "... got to give it away. His team had drones, they were texting him footage when he was in the car. So Brian Harpole lied. You see, I used to lay in my grandma's bed and watch Judge Judy with my grandma growing up. A..."
+> "So Brian (Brian Harpole) lied. You see, I used to lay in my grandma's bed and watch Judge Judy with my grandma growing up."
 
-**[00:33:25](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-33-15)**
+**[00:33:22](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-33-15)**
 > "Brian (Brian Harpole) did this interview months later and they still d..."
 
 **[00:33:30](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-33-15)**
-> "... later and they still don't have their ducks in a row. By the way, elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie ..."
+> "By the way, elsewhere in that interview with Brian (Brian Harpole), the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie Kirk) ate 3,000 pounds of energy coming at him."
 
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (8 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
 
-**[00:21:32](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22)**
+**[00:21:32](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01)**
 > "...ropping receipts—kind of a little bit. We're going to talk about Blake Neff, who dropped a receipt; Brian Harpole, the security who dropped a receipt—right after a few of our sponsors. Many people have been vilifi..."
 
-**[00:24:10](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-24-10)**
+**[00:24:10](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-23-45)**
 > "...I want to be optimistic, so at least it's something. First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan. Now, Brian Harpole is one of Charlie (Charlie Kirk)'s ..."
 
-**[00:24:18](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-24-10)**
+**[00:24:18](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-23-45)**
 > "...any of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan. Now, Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members. On the day of the assassination..."
 
-**[00:24:53](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-24-53)**
+**[00:24:53](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-24-27)**
 > "For one, Brian offers up that the lack of security on the roofto..."
 
 **[00:25:08](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-25-08)**
-> "...rooftop can actually be attributed to the UVU police chief, Jeff Long. Here is what he had to say. (Brian Harpole Clip) On Monday before this correspondence went to Chief Long: "Hello, Chief Long." "We received th..."
+> "(Brian Harpole Clip) On Monday before this correspondence went to Chief Long: "Hello, Chief Long." "We received this message today from the student group.""
 
 **[00:27:47](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-27-47)**
 > "... has an extensive military background. I'm not interested in Jeff Long's participation in this, but Brian Harpole kind of sort of laments the fact that he won't speak up and people are losing their jobs. On the ba..."
 
-**[00:28:41](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-28-30)**
+**[00:28:38](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-28-27)**
 > "Look, I've worked with Brian."
 
 **[00:29:05](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-29-05)**
-> "...y since they have flown drones—many drones—at TPUSA events in the past. Here's his answer to that. (Brian Harpole Clip Continued) In your coordination with UVU, did they offer any assistance, anything at all? Yeah..."
+> "(Brian Harpole Clip Continued) In your coordination with UVU, did they offer any assistance, anything at all?"
+
+**[00:26:31](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-26-26)**
+> "I have an answer for what Brian could have done. You could have followed up becau..."
 
 </details>
 
@@ -1435,11 +1442,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:25:54](/episodes/ep-69A8TzAGHlU.md#t-00-25-32): “That doesn't ring true. That does not ring very true. Now, another interesting point of the lawsuit is he repeatedly claims that he's upset that I described him as having lied. Okay, well. You certainly lied by severe omission by not letting the viewers know that the text message that you were presenting on Sean Ryan were not between you and the UVU police chief long, right?”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:54:59](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca. Him saying Candace had his alibi, they know that is objectively not true.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30): “This did not happen. Brian Harpole, you are lying through your teeth.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:12:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55): “Shouldn't even exist Prior to Elon (Elon Musk) making that a thing about government accountability Charlie (Charlie Kirk)'s team did not fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told”
 
 </details>
 
@@ -1480,7 +1488,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1490,6 +1498,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:01:45](/episodes/ep-a2bZf4fic10.md#t-00-01-20): “...to separate who are the good guys and who are the bad guys, right? Just because Brian Harpole tells a lie, just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated, right?”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:08:32](/episodes/ep-AH1KVKkweUE.md#t-00-08-01): “I mean, Brian Harpole is definitively not the brightest among you, not the most trained among you.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
 
 </details>
 
@@ -1508,12 +1517,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Formerly Worked For (3)</summary>
+<summary>Formerly Worked For (4)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10): “I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan). And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean (Shawn Ryan). I think that's pretty clear. I don't believe he works there anymore.”
 
 </details>
 
@@ -1525,9 +1534,17 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00): “Charlie (Charlie Kirk)'s chief of security, Brian (Brian Harpole)”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:38:03](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49): “he was Charlie's security and I went on tour with Charlie for years”
+
+</details>
+
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
 
@@ -1537,7 +1554,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Interviewed By (2)</summary>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -1548,6 +1565,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34): “his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:05:10](/episodes/ep-9CuC1yf8-PU.md#t-00-04-55): “Brian Harpole, who joined Sean Ryan for a car crash of an interview”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:57:13](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50): “Yes, Brian (Brian Harpole) briefly discussed in that Sean Ryan interview how they caught a police tail”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 
 </details>
 
@@ -1555,18 +1575,6 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Met With (1)</summary>
-
-- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): “If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent.”
 
 </details>
 
@@ -1635,19 +1643,18 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:26:39](/episodes/ep-581dILVcEE4.md#t-00-26-26): “Brian Harpole is one of Charlie Kirk's long-term security team members”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-45): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:18](/episodes/ep-581dILVcEE4.md#t-00-23-45): “Now, Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members. On the day of the assassination, you'll recognize he's the guy that had the black strap.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:57](/episodes/ep-69A8TzAGHlU.md#t-00-06-57): “You implied that Charlie Kirk's security team, including Mr. Harpole, had insider knowledge about Kirk's assassination. Specifically, you questioned how the security team knew that Charlie Kirk was dead before official confirmation.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:00](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole... heads of security”
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:55:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-17): “the head of security there, he was one of the people walking out with the congressman...face, waxy look on his face, hand gestures, shoulder shrug, gait, approximate height, haircut, definitely walk past me.”
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:55:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-17): “the head of security there, he was one of the people walking out with the congressman”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:15](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): “If you had to put it at a percentage that you were looking at Brian Harpole (TPUSA security), maybe he's got a brother in the military, who knows, right?”
 
 </details>
 
@@ -1657,11 +1664,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Referenced By (18)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:25:54](/episodes/ep-69A8TzAGHlU.md#t-00-25-32): “That doesn't ring true. That does not ring very true. Now, another interesting point of the lawsuit is he repeatedly claims that he's upset that I described him as having lied. Okay, well. You certainly lied by severe omission by not letting the viewers know that the text message that you were presenting on Sean Ryan were not between you and the UVU police chief long, right?”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:54:59](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca. Him saying Candace had his alibi, they know that is objectively not true.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30): “This did not happen. Brian Harpole, you are lying through your teeth.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:12:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55): “Shouldn't even exist Prior to Elon (Elon Musk) making that a thing about government accountability Charlie (Charlie Kirk)'s team did not fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told”
 
 </details>
 
@@ -1680,7 +1688,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1690,6 +1698,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:01:45](/episodes/ep-a2bZf4fic10.md#t-00-01-20): “...to separate who are the good guys and who are the bad guys, right? Just because Brian Harpole tells a lie, just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated, right?”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:08:32](/episodes/ep-AH1KVKkweUE.md#t-00-08-01): “I mean, Brian Harpole is definitively not the brightest among you, not the most trained among you.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
 
 </details>
 
@@ -1703,7 +1712,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-45): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:57](/episodes/ep-69A8TzAGHlU.md#t-00-06-57): “You implied that Charlie Kirk's security team, including Mr. Harpole, had insider knowledge about Kirk's assassination. Specifically, you questioned how the security team knew that Charlie Kirk was dead before official confirmation.”
 
 </details>
@@ -1719,7 +1728,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10): “I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan). And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean (Shawn Ryan). I think that's pretty clear. I don't believe he works there anymore.”
 
 </details>
 
@@ -1731,18 +1740,26 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00): “Charlie (Charlie Kirk)'s chief of security, Brian (Brian Harpole)”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:38:03](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49): “he was Charlie's security and I went on tour with Charlie for years”
+
+</details>
+
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Yesterday we talked about Brian, the security guy who was not convincing at all... elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:33:30](/episodes/ep-SKGUzGHymcI.md#t-00-33-15): “By the way, elsewhere in that interview with Brian (Brian Harpole), the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie Kirk) ate 3,000 pounds of energy coming at him.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:10](/episodes/ep-69A8TzAGHlU.md#t-00-18-57): “you're saying you went on you went on Sean Ryan because of things that I was saying and that's what I was saying Again, it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing, which is he's suing me for saying that that interview was unconvincing, which made me feel weird and take a second look.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
@@ -1750,6 +1767,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34): “his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:05:10](/episodes/ep-9CuC1yf8-PU.md#t-00-04-55): “Brian Harpole, who joined Sean Ryan for a car crash of an interview”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:57:13](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50): “Yes, Brian (Brian Harpole) briefly discussed in that Sean Ryan interview how they caught a police tail”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 
 </details>
 
@@ -1757,13 +1777,6 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
-
-</details>
-
-- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): “If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent.”
 
 </details>
 
@@ -1810,9 +1823,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:50:05](/episodes/ep-uC_GjKU8rs8.md#t-00-49-36): “And I reached out to him before. I just didn't feel like animosity toward him at all because like I said, I had worked with him.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
 
 </details>
 
@@ -1821,7 +1835,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brian Harpole (25)</strong></summary>
+<summary><strong class="section-title">Statements by Brian Harpole (27)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4)</summary>
@@ -1937,17 +1951,28 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [✓] (Claim) ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [✓] (Claim) ["Brian Harpole said security had communicated with Utah Valley University police ..."](/statements/statement-a58305d015f8.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4)</summary>
 
 - [00:25:08](/episodes/ep-581dILVcEE4.md#t-00-25-08) [✓] (Claim) ["correspondence went to Chief Long: 'There is a student roof access pretty close ..."](/statements/statement-6f18d7b813ae.md)
 
-- [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-49) [○] (Claim) ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop security concerns..."](/statements/statement-b5072332fbfd.md)
+- [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-44) [○] (Claim) ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop security concerns..."](/statements/statement-b5072332fbfd.md)
   - About: [Jeff Long](/entities/person-jeff-long.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
-- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-05) [◐] (Claim) ["Harpole said his team could not fly a drone at UVU because the site was in Provo..."](/statements/statement-24c856b55eb8.md)
+- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-13) [◐] (Claim) ["Harpole said his team could not fly a drone at UVU because the site was in Provo..."](/statements/statement-24c856b55eb8.md)
   - About: [Provo](/entities/gpe-provo.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
-- [00:30:07](/episodes/ep-581dILVcEE4.md#t-00-29-50) [✓] (Claim) ["Harpole said Orem Police had an active drone unit and a mutual-aid agreement wit..."](/statements/statement-d7a252b38663.md)
+- [00:30:07](/episodes/ep-581dILVcEE4.md#t-00-29-57) [✓] (Claim) ["Harpole said Orem Police had an active drone unit and a mutual-aid agreement wit..."](/statements/statement-d7a252b38663.md)
   - About: [Orem Police Department](/entities/org-orem-police-department.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
@@ -1955,7 +1980,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (114)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (109)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
@@ -2094,6 +2119,14 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
+
+- [00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Shawn Ryan in an interview"](/statements/statement-bf4a6840e928.md)
+  - Also about: [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+</details>
+
+<details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (4)</summary>
 
 - [00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34) (Accusation) **Candace Owens**: ["Brian Harpole is suing me and claims he was forced to appear on The Sh..."](/statements/statement-100ae1249e4b.md)
@@ -2163,9 +2196,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2)</summary>
 
 - [00:36:29](/episodes/ep-FFQ9675oqRI.md#t-00-36-29) (Promise) **Erika Kirk** (via quoted speech): ["Erika Kirk told Candace Owens that Turning Point USA was preparing law..."](/statements/statement-67e33957a28b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:37:11](/episodes/ep-FFQ9675oqRI.md#t-00-37-11) (Claim) **Erika Kirk** (via quoted speech): ["Turning Point USA did not approve Brian Harpole going on the Sean Ryan..."](/statements/statement-c2f9a692a4bd.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -2354,10 +2390,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
-
-- [00:37:47](/episodes/ep-w1oqQbR_bYs.md#t-00-37-03) (Claim) **Candace Owens**: ["Brian Harpole could have made it to Fort Huachuca for the early mornin..."](/statements/statement-712747817fac.md)
-  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
 - [00:37:55](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) (Claim) **Candace Owens**: ["Owens says private travel logs made it possible for Brian Harpole to r..."](/statements/statement-b42ceeaf4f20.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
@@ -2368,12 +2401,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuc..."](/statements/statement-8de81100cf3e.md)
-  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
-
-- [00:56:54](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca mee..."](/statements/statement-d7c3e7e4fe7b.md)
+- [00:55:53](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-53) (Claim) **Mitch Snow**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca mee..."](/statements/statement-d7c3e7e4fe7b.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
@@ -2384,53 +2414,42 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [00:42:07](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole started security preparations for the UVU event on Augus..."](/statements/statement-0a8f4d44cf27.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
-- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-45) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
   - Also about: [Los Angeles](/entities/gpe-los-angeles.md), [Dallas](/entities/gpe-dallas.md)
 
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
+- [00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said she believed Turning Point USA's assertion that it ..."](/statements/statement-191d6deb062d.md)
   - Also about: [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Erika Kirk** (via quoted speech): ["Turning Point USA did not approve Brian Harpole going on the Sean Ryan..."](/statements/statement-c2f9a692a4bd.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:15:25](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on Sean Ryan'..."](/statements/statement-bc3031f9607f.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:15:26](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["TPUSA did not approve of Brian Harpole going on Sean Ryan's show"](/statements/statement-ad155f40cd87.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-96f90fe477d4.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
 
-- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Candace Owens** (via paraphrase): ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
+- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Brian Harpole** (via paraphrase): ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Candace Owens** (via paraphrase): ["Brian Harpole said security had communicated with UVU police to secure..."](/statements/statement-a58305d015f8.md)
+- [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Brian Harpole** (via paraphrase): ["Brian Harpole said security had communicated with Utah Valley Universi..."](/statements/statement-a58305d015f8.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
-- [01:00:36](/episodes/ep-6DhWawD4ZiM.md#t-01-00-25) (Claim) **Candace Owens**: ["The military source Harry believes he saw Brian Harpole at the Fort Hu..."](/statements/statement-f1dc8d72a7f2.md)
-  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+- [01:00:05](/episodes/ep-6DhWawD4ZiM.md#t-00-59-31) (Claim) **Candace Owens**: ["Owens said Harry Myers was certain he saw Brian Harpole at the Fort Hu..."](/statements/statement-f1dc8d72a7f2.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
 
-- [00:17:41](/episodes/ep-t4U7NjnUEgc.md#t-00-17-13) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers claimed he saw Brian Harpole at Joint Task Force Southern ..."](/statements/statement-e1f3b3a8c4ff.md)
+- [00:20:43](/episodes/ep-t4U7NjnUEgc.md#t-00-20-22) (Claim) **Candace Owens** (via paraphrase): ["Owens said, allegedly, that Harry Myers was certain one of the people ..."](/statements/statement-e1f3b3a8c4ff.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
@@ -2443,30 +2462,30 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2)</summary>
 
-- [00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01) (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Sean Ryan in an interview"](/statements/statement-bf4a6840e928.md)
+- [00:33:37](/episodes/ep-sImMM04XdWY.md#t-00-33-17) (Claim) **Candace Owens**: ["Candace Owens said Brian Harpole presented a text exchange between Dan..."](/statements/statement-d3fed1ca5537.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
 
-- [00:33:53](/episodes/ep-sImMM04XdWY.md#t-00-33-24) (Accusation) **Candace Owens**: ["Brian Harpole presented a text message between Dan Flood and Chief Lon..."](/statements/statement-01b7ecb55bfa.md)
-
-- [00:34:44](/episodes/ep-sImMM04XdWY.md#t-00-34-41) (Opinion) **Candace Owens**: ["Brian Harpole lied in his Sean Ryan interview by misrepresenting text ..."](/statements/statement-93e937c4f898.md)
+- [00:36:44](/episodes/ep-sImMM04XdWY.md#t-00-36-34) (Accusation) **Candace Owens**: ["Candace Owens accused Brian Harpole of being fundamentally dishonest b..."](/statements/statement-93e937c4f898.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md)
 
 </details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1)</summary>
 
-- [00:32:30](/episodes/ep-SKGUzGHymcI.md#t-00-32-21) (Accusation) **Candace Owens**: ["Brian Harpole lied about drones not being present on September 10th, c..."](/statements/statement-9d9d0fd07c5e.md)
+- [00:32:30](/episodes/ep-SKGUzGHymcI.md#t-00-32-18) (Accusation) **Candace Owens**: ["Brian Harpole lied about drones not being present on September 10th, c..."](/statements/statement-9d9d0fd07c5e.md)
 
 </details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
-- [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-49) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop securit..."](/statements/statement-b5072332fbfd.md)
+- [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-44) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop securit..."](/statements/statement-b5072332fbfd.md)
   - Also about: [Jeff Long](/entities/person-jeff-long.md)
 
-- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-05) (Claim) **Brian Harpole** (via quoted speech): ["Harpole said his team could not fly a drone at UVU because the site wa..."](/statements/statement-24c856b55eb8.md)
+- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-13) (Claim) **Brian Harpole** (via quoted speech): ["Harpole said his team could not fly a drone at UVU because the site wa..."](/statements/statement-24c856b55eb8.md)
   - Also about: [Provo](/entities/gpe-provo.md)
 
 </details>

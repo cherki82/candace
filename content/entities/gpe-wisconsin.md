@@ -3,9 +3,17 @@ title: "Wisconsin"
 description: "Wisconsin (Places) - 2 mentions"
 id: "gpe-wisconsin"
 type: "GPE"
+categories:
+  - "United States state"
 ---
 
 _Type: Places_
+
+**Categories:** United States state
+
+**Entity verification:** verified
+> The official State of Wisconsin portal confirms the canonical state name.
+Source: [State of Wisconsin](https://www.wisconsin.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-wisconsin-t-00-19-42">2025-11-13 · 00:20:03</a></strong></div>

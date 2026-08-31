@@ -1,8 +1,8 @@
 ---
-title: "House where Tyler Robinson lived with Lance Twiggs is owned ..."
-description: "\"House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's family and Tyler was paying rent to them\" — Candace Owens"
+title: "Lance Twiggs's family reportedly said they owned the home wh..."
+description: "\"Lance Twiggs's family reportedly said they owned the home where Twiggs and Tyler Robinson lived and that Robinson paid rent to them through Twiggs.\" — Lance Twiggs family member sources (identities unverified)"
 statement_id: "statement-c8d5e18bf6cc"
-speaker: "Candace Owens"
+speaker: "Lance Twiggs family member sources (identities unverified)"
 type: "factual_claim"
 ---
 
@@ -10,14 +10,15 @@ type: "factual_claim"
 
 ## Statement
 
-> House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's family and Tyler was paying rent to them
+> Lance Twiggs's family reportedly said they owned the home where Twiggs and Tyler Robinson lived and that Robinson paid rent to them through Twiggs.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Lance Twiggs family member sources (identities unverified)](/entities/anon-src-q7f8r-THr84-001.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Private family account relayed by Candace Owens
 
 ## About
 
@@ -27,15 +28,15 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:29:58](/episodes/ep-q7f8r-THr84.md#t-00-29-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1798);return false;">Play</a>
+**Timestamp:** [00:29:28](/episodes/ep-q7f8r-THr84.md#t-00-29-28) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=1768s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Tyler Robinson is paying rent to them, okay
+> what they told me, and I can tell you this exclusively, is that the house that Tyler Robinson was living in with Lance (Lance Twiggs) is owned by them. ... Tyler Robinson is paying rent to them, okay?
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** No

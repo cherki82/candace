@@ -1,6 +1,6 @@
 ---
 title: "Deep state"
-description: "Deep state (Concepts) - 9 mentions"
+description: "Deep state (Concepts) - 11 mentions"
 id: "concept-deep-state"
 type: "CONCEPT"
 categories:
@@ -13,10 +13,10 @@ _Type: Concepts_
 **Categories:** political discourse, conspiracy theory
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-00-00">2026-01-14 · 00:00:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48">2025-12-05 · 00:17:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-deep-state-t-00-22-32">2026-06-26 · 00:22:59</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,6 +27,7 @@ _Type: Concepts_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-00-00">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48" style="--pulse-height:67%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-00-00" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-deep-state-t-00-28-44" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-deep-state-t-00-24-00" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
@@ -36,6 +37,7 @@ _Type: Concepts_
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48) | 2 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-00-00) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-deep-state-t-00-28-44) | 3 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-deep-state-t-00-24-00) | 1 |
@@ -47,7 +49,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -93,6 +95,17 @@ _Type: Concepts_
 
 **[00:11:35](/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-11-02)**
 > "...me forward to reveal that the deep state had a technology which They stole, of course."
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
+
+**[00:17:15](/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48)**
+> "... the intuition that this is a deep state assassination?"
+
+**[00:17:22](/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48)**
+> "And we know that our deep state, the CIA, is involved in color revolutions all ar..."
 
 </details>
 

@@ -14,9 +14,11 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Rob McCoy](/entities/person-rob-mccoy.md) (Guest)
+**Speaker:** [Rob McCoy](/entities/person-rob-mccoy.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Faith Forward Show clip
 
 ## About
 
@@ -25,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:06:50](/episodes/ep-Qfwr08Ebczo.md#t-00-06-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(410);return false;">Play</a>
+**Timestamp:** [00:06:50](/episodes/ep-Qfwr08Ebczo.md#t-00-06-45) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk had a plan all the way through 2028 written out—written out
 

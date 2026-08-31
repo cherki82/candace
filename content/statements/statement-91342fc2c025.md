@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:33:43](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2023);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2023s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) said that if Charlie (Charlie Kirk) was given the choice to undo what happened and come back, he wouldn't. She thought because of what was unleashed by it.
 

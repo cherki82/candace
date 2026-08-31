@@ -1,6 +1,6 @@
 ---
 title: "Whole Foods Market"
-description: "Whole Foods Market (Organizations) - 9 mentions"
+description: "Whole Foods Market (Organizations) - 11 mentions"
 id: "org-whole-foods-market"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/company-info)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03">2026-01-21 · 00:57:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-whole-foods-market-t-00-39-04">2025-09-17 · 00:39:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-whole-foods-market-t-00-52-13">2026-08-18 · 00:52:13</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,8 +33,10 @@ Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/compan
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-whole-foods-market-t-00-39-04">Who Ordered The Hit On Charlie Kirk? | Candace Ep 237</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-whole-foods-market-t-00-39-04" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-whole-foods-market-t-00-26-45" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-whole-foods-market-t-00-26-21" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-whole-foods-market-t-00-38-19" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
@@ -49,6 +51,8 @@ Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/compan
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-whole-foods-market-t-00-39-04) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-whole-foods-market-t-00-26-45) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-whole-foods-market-t-00-26-21) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-whole-foods-market-t-00-38-19) | 1 |
@@ -65,7 +69,7 @@ Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/compan
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -136,6 +140,22 @@ Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/compan
 
 **[00:57:16](/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03)**
 > "Whole Foods"
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:27:20](/episodes/ep-YA1FxrDWNIo.md#ent-org-whole-foods-market-t-00-26-45)**
+> "...are also available at Target, Whole Foods, Amazon, CVS, and Walgreens."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
+
+**[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-whole-foods-market-t-00-39-04)**
+> "...are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. That's B-E-E-K-E-E-P..."
 
 </details>
 

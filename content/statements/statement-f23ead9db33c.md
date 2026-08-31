@@ -1,8 +1,8 @@
 ---
-title: "TPUSA says the reason Mikey McCoy walked away swiftly after ..."
-description: "\"TPUSA says the reason Mikey McCoy walked away swiftly after Charlie Kirk got shot is because Charlie himself told Mikey to do that in case of such cir...\" — Candace Owens"
+title: "Turning Point USA said Charlie Kirk had told Mikey McCoy wha..."
+description: "\"Turning Point USA said Charlie Kirk had told Mikey McCoy what to do if Kirk were shot\" — Turning Point USA"
 statement_id: "statement-f23ead9db33c"
-speaker: "Candace Owens"
+speaker: "Turning Point USA"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,14 +11,15 @@ veracity: "true"
 
 ## Statement
 
-> TPUSA says the reason Mikey McCoy walked away swiftly after Charlie Kirk got shot is because Charlie himself told Mikey to do that in case of such circumstances.
+> Turning Point USA said Charlie Kirk had told Mikey McCoy what to do if Kirk were shot
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Turning Point USA](/entities/org-turning-point-usa.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from social media post
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Turning Point USA statement
 
 ## About
 
@@ -29,10 +30,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7);return false;">Play</a>
+**Timestamp:** [00:00:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> For one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kirk) got shot is because Charlie himself told Mikey to do that.
+> Turning Point USA has issued a statement, a couple of statements actually. For one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kirk) got shot is because Charlie (Charlie Kirk) himself told Mikey (Michael McCoy) to do that. Charlie (Charlie Kirk) somehow drilled into Mikey McCoy's mind exactly what he should do in that circumstance.
 
 ## Verification
 

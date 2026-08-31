@@ -1,16 +1,16 @@
 ---
-title: "Bill Ackman replied with a 959-word essay in response to Can..."
-description: "\"Bill Ackman replied with a 959-word essay in response to Candace Owens speaking about the Hamptons weekend\" — Candace Owens"
+title: "Owens said Bill Ackman replied to her discussion of the Hamp..."
+description: "\"Owens said Bill Ackman replied to her discussion of the Hamptons weekend with a 959-word essay.\" — Candace Owens"
 statement_id: "statement-4ae1e19d2777"
 speaker: "Candace Owens"
-type: "accusation"
+type: "factual_claim"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Bill Ackman replied with a 959-word essay in response to Candace Owens speaking about the Hamptons weekend
+> Owens said Bill Ackman replied to her discussion of the Hamptons weekend with a 959-word essay.
 
 ## Attribution
 
@@ -27,10 +27,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:03:00](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(180);return false;">Play</a>
+**Timestamp:** [00:02:57](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And Bill Ackman replies with an essay
+> And Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response to me speaking about that, where he himself did not actually address my point about the quote-unquote "intervention," which is how Charlie (Charlie Kirk) described it himself.
 
 ## Verification
 
@@ -38,4 +38,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** Yes

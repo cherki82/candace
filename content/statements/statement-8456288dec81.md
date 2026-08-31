@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:32:07](/episodes/ep-G3zdOeHpvS0.md#t-00-32-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1927);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1927s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk)'s buddy microphone given to Turning Point USA more broadly given to Erika (Erika Kirk) to soak over Charlie (Charlie Kirk)'s necklace everything was handed over to Erika (Erika Kirk) why I suspect because they were ushering us into the era of the widow no one can question the widow you don't have a heart what do you mean how dare anybody question why she wants to wear her husband's pendant why she wants to cry over the bloody microphone as she raises money to the highest bidder
 

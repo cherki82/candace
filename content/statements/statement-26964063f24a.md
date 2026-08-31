@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do believe we're going to find out who killed Charlie Kirk I do believe Israel was involved and I mean I will find out who killed Charlie Kirk
 

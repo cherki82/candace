@@ -6,6 +6,11 @@ date: "2006-03-03"
 ---
 
 **Date:** 2006-03-03
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “March 3, 2006”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2006-03-03"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:30:27](/episodes/ep-Vu6Y24pqhZs.md#event-event-2006-03-03-a-released-flight-manifest-indicated-tha-t-00-30-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1827);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1827s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > from London to New York on March 3, 2006 indicates that Phelan flew with 12 other passengers

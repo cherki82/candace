@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:39:07](/episodes/ep-d7VsbEIWkP8.md#t-00-39-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2347);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=2347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the significant rise in grocery prices over the past six years and the fact that the rise is continuing not stopping and certainly not reversing is just a mathematical reality it can't be denied as a fact grocery prices have gone up 30 or more this decade
 

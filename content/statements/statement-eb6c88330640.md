@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:06:44](/episodes/ep-adJ4LNGp84I.md#t-00-06-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(404);return false;">Play</a>
+**Timestamp:** [00:06:44](/episodes/ep-adJ4LNGp84I.md#t-00-06-32) 
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was also informed that the coroner in this case was also brand spanking new
 

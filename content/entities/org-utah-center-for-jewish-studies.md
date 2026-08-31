@@ -148,7 +148,7 @@ Source: [Center Furthers Jewish-Mormon Kinship — Deseret News](https://www.des
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
 
 - [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) (Claim) **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center..."](/statements/statement-244d63ae0c3c.md)
-  - Also about: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Utah Valley University](/entities/org-utah-valley-university.md), [BYU](/entities/org-byu.md)
+  - Also about: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Brigham Young University](/entities/org-brigham-young-university.md)
 
 </details>
 

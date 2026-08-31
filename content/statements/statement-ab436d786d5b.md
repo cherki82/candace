@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election.
 

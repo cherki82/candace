@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:45:56](/episodes/ep-_cNtgris8Ik.md#t-00-45-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2756);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2756s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just want to address that because again, it's just, he's such a slime ball. That is the only time that I canceled an event with Turning Point USA. ... I had Turning Point USA event and I was like, I will literally give anything to be able to go and spend like he was like, of course you have to go. ... Of course you have to go, please just get me a substitute for who like who can speak for you. ... I then called Michael Knowles and asked him if he would sub for me. And I was unbelievably apologetic to the team. I had never, ever, ever in our entire working relationship had I ever canceled an event.
 

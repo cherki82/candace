@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:16:50](/episodes/ep-ozWJz2spBcI.md#t-00-16-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1010);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=1010s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > (Group chat clip:) So Charlie (Charlie Kirk) writes in this group chat, "Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker (Tucker Carlson). ... I'm thinking of inviting Candace (Candace Owens)." ... Charlie (Charlie Kirk) writes, "Jewish donors play into all of the stereotypes. ... I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause."
 

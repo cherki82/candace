@@ -42,7 +42,7 @@ _No relationships extracted yet._
   - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
 
 - [00:17:25](/episodes/ep-cZxHqYsWRYg.md#t-00-17-01) [✓] (Claim) ["In 2009 FBI agents recovered a cooler of cash buried at Summit Hills Country Clu..."](/statements/statement-4dda7f080dbb.md)
-  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Summit Hills Country Club](/entities/org-summit-hills-country-club.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [FBI](/entities/org-fbi.md), [Summit Hills Country Club](/entities/org-summit-hills-country-club.md)
 
 </details>
 

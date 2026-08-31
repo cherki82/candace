@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:23:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5001);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5001s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > isn't like the New York Times who had proudly published a piece like where they were saying there is about there is more tunnels inside the underneath Gaza more than the length of the New York time in the New York subway system
 

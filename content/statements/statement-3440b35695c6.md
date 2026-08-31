@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:16:34](/episodes/ep-VMNWMXX1vO8.md#t-00-16-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(994);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=994s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think his mic, the second redundant mic was rigged and it was meant to hit his chest. ... And then I think they had to pivot, because the shaped charge accidentally—instead of hitting his chest and causing that .30-06 diameter, as would happen with PETN explosives, as we've demonstrated to you in the past—it accidentally, because of how Charlie (Charlie Kirk) was crouched... ... It went up and hit his neck.
 

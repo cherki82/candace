@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 135 mentions"
+description: "Provo (Places) - 134 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -26,10 +26,10 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24">2026-08-03 · 00:13:40</a></strong></div>
 <div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>135</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,7 +39,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54" style="--pulse-height:28%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 5 mentions" title="2025-09-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40" style="--pulse-height:94%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 17 mentions" title="2025-10-30 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-42" style="--pulse-height:89%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 16 mentions" title="2025-10-30 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35" style="--pulse-height:56%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44" style="--pulse-height:39%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 7 mentions" title="2025-11-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00" style="--pulse-height:28%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
@@ -76,7 +76,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 |---|---|---:|
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15) | 1 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54) | 5 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40) | 17 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-42) | 16 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35) | 10 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44) | 7 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00) | 5 |
@@ -113,7 +113,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (135)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -498,16 +498,16 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 **[00:00:33](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-00-00)**
 > "...macro. And it's an answer perhaps to the question: What was the Egyptian military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware? Actually, we should fi..."
 
-**[00:03:23](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-03-23)**
+**[00:03:12](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-03-12)**
 > "...six days earlier—that plane, the yellow plane, departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern...."
 
-**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-20-11)**
+**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-19-59)**
 > "...eason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. Most of those don't even have major consulates. And ab..."
 
-**[00:27:44](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-27-14)**
+**[00:27:44](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-27-44)**
 > "...o eight passengers. That's the one that departed from Scottsdale at eight o'clock a.m., landed into Provo at 10:06 a.m. And then it immediately departed for Santa Barbara, landed into Santa Barbara and imm..."
 
-**[00:29:09](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-29-09)**
+**[00:29:05](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-29-05)**
 > "... Scottsdale. And I would like to know who specifically got onto this plane. And then they land into Provo at 3:31 p.m. The last plane that we have here is one that departed Santa Barbara at 2:19 p.m. local..."
 
 </details>
@@ -515,19 +515,19 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
 
-**[00:05:32](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00)**
+**[00:05:28](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00)**
 > "...ther. You guys knew they were coming in, and you watched them, and you knew what they were doing in Provo. And by the way, while we're checking in on these unanswered questions, has Turning Point mustered ..."
 
-**[00:08:41](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-08-20)**
+**[00:08:36](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-08-36)**
 > "...t born yesterday, I feel pretty confident concluding that these 12 to 14 Egyptians didn't drop into Provo, Utah, in the six days leading up to Charlie (Charlie Kirk)'s assassination to fix like a broken light on..."
 
-**[00:20:20](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-19-55)**
+**[00:20:18](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-20-18)**
 > "...that plane that departed Scottsdale at eight local time and landed at about 10 a.m. local time into Provo was owned by a Turning Point USA donor, T.W. Lewis. Actually, Turning Point USA is featured on T.W...."
 
-**[00:21:03](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-20-39)**
+**[00:21:01](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-21-01)**
 > "...n that plane. That is of interest to me because it wasn't Charlie (Charlie Kirk), and they got into Provo just ahead of the assassination, and it has to be somebody big. I don't think the students are flyi..."
 
-**[00:29:39](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-29-05)**
+**[00:29:39](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-29-13)**
 > "...ent thousands of dollars on drones last year and got the guy's license. But if the area lies in the Provo, Utah airspace, I can't fly it. That's a 107B. We can't break the rules, right? And then you had secondar..."
 
 </details>
@@ -594,58 +594,55 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (17 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (16 mentions)</summary>
 
-**[00:02:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40)**
+**[00:02:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-42)**
 > "They dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop."
 
-**[00:03:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40)**
+**[00:03:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-42)**
 > "It dips again to just over 300 feet over the Provo Airport runway."
 
-**[00:05:46](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40)**
+**[00:05:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-42)**
 > "But I will say that the Baugh-Maxfield plane—I'm gonna take you through what that was doing. It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m. local time."
 
-**[00:06:34](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-06-25)**
+**[00:06:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-06-23)**
 > "...ot of the online conspiracies that were taking shape, the plane was actually empty when it departed Provo en route to Arizona, where he and some of his friends were picked up, and they were turned home to ..."
 
-**[00:07:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-07-47)**
+**[00:07:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-07-44)**
 > "...ain Time, a private aircraft owned by one of our companies with the tail number N888KG departed the Provo Airport for Page, Arizona. Pursuant to a pre-scheduled flight plan, occupants at takeoff included t..."
 
-**[00:08:10](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-07-47)**
+**[00:08:05](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-07-44)**
 > "...I, Derek Maxfield, boarded that plane along with seven additional passengers for the return trip to Provo. We departed at PGA Airport in Arizona at approximately 1:40 and arrived at PVU at approximately 3:..."
 
-**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-11-49)**
+**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-11-47)**
 > "...hat on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptian military plane had previously only ever ..."
 
-**[00:12:53](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-12-53)**
+**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-12-46)**
 > "...hen I pointed out that this foreign military plane arrived on September 4th—so six days before—into Provo, Utah, and departed six days later on September 10th, they ignored the huge substance of this, which is w..."
 
-**[00:16:02](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-15-42)**
+**[00:16:02](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-16-02)**
 > "...r a fact, that plane was carrying military subcontractors. And for a fact, they were dropped off in Provo, okay? And that they did not make it back to Cairo. They showed you—I showed you—the plane left. Th..."
 
-**[00:16:37](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-16-22)**
+**[00:16:37](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-16-37)**
 > "...e Egyptian military subcontractors—what are Egyptian military subcontractors doing in the middle of Provo, Utah on the day that Charlie (Charlie Kirk) was assassinated? Okay. Again, I am saying as a fact, Kash P..."
 
-**[00:19:19](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-19-07)**
-> "...er 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? It didn't—no, it departed. That's right: September 10th, it de..."
-
-**[00:19:24](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-19-07)**
+**[00:19:19](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-19-19)**
 > "...k I'm missing one here, right? It didn't—no, it departed. That's right: September 10th, it departed Provo, Utah at 7:14 a.m. local time. Okay? And I am telling you that aboard that plane, it was not the same peo..."
 
-**[00:21:04](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-21-04)**
+**[00:20:58](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-20-34)**
 > "...t was because, look— joint military exercise between Egypt and America for some unknown reason, and Provo, Utah was the place they had to do this. And they decided to leave this plane, and maybe the people are s..."
 
-**[00:27:48](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-27-20)**
+**[00:27:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-27-14)**
 > "... that they landed in cities where there are Air Force bases. And the notable exception here is that Provo does not have an Air Force base. They have one in Salt Lake City, but they do not have one in Provo..."
 
-**[00:27:54](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-27-20)**
+**[00:27:54](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-27-54)**
 > "...Provo does not have an Air Force base. They have one in Salt Lake City, but they do not have one in Provo. So I hope that makes more sense there. Now let's switch gears. I can't wait to see what you guys d..."
 
-**[00:28:33](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-28-02)**
+**[00:28:33](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-28-33)**
 > "...ou saw randomly a bunch of people leading up to this between those dates. Let's see: it landed into Provo on 9/4, and then it departed on 9/10. There must have been hotels, presumably. Maybe they're stayin..."
 
-**[00:56:59](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-56-33)**
-> "...nt, but it was actually in Idaho. Right. 20 minutes—about 20 minutes out, right? He didn't get over Provo until 20 minutes after he was shot, right? That's what I said earlier. Okay, great. Perfect. Thank ..."
+**[00:56:59](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-56-59)**
+> "He didn't get over Provo until 20 minutes after he was shot, right?"
 
 </details>
 
@@ -683,13 +680,20 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Location Of (2)</summary>
 
 - **[Caldera Engineering](/entities/org-caldera-engineering.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “Caldera Engineering in Provo, Utah”
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah”
+
+</details>
+
+- **[Duncan Aviation](/entities/org-duncan-aviation.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:27:13](/episodes/ep-JQjCAsfoXEE.md#t-00-26-57): “I learned that oddly, Duncan Aviation—you know, where that plane was transponding from, the FBO in Provo—sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation.”
 
 </details>
 
@@ -708,7 +712,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Caldera Engineering](/entities/org-caldera-engineering.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -716,6 +720,13 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “Caldera Engineering in Provo, Utah”
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah”
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:18](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves”
+
+</details>
+
+- **[Duncan Aviation](/entities/org-duncan-aviation.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:27:13](/episodes/ep-JQjCAsfoXEE.md#t-00-26-57): “I learned that oddly, Duncan Aviation—you know, where that plane was transponding from, the FBO in Provo—sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation.”
 
 </details>
 
@@ -753,7 +764,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
 
 - [00:26:25](/episodes/ep-MhakwJxK-Zk.md#t-00-26-01) (Claim) **Candace Owens**: ["Waleed Mahmoud was aboard the Egyptian aircraft SU-BTV when it flew in..."](/statements/statement-9f81ab25d575.md)
-  - Also about: [Waleed Mahmoud](/entities/person-waleed-mahmoud.md), [SU-BTV](/entities/vehicle-su-btv.md), [Wilmington, Delaware](/entities/gpe-wilmington-delaware.md)
+  - Also about: [Waleed Mahmoud](/entities/person-waleed-mahmoud.md), [SU-BTV](/entities/vehicle-su-btv.md), [Wilmington](/entities/gpe-wilmington.md)
 
 </details>
 
@@ -837,10 +848,10 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
   - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
-  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood](/entities/person-walid-mahmood.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27 aboard Egyptian military plane S..."](/statements/statement-9a21f286b0b6.md)
-  - Also about: [Walid Mahmood](/entities/person-walid-mahmood.md)
+  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
 
 </details>
 
@@ -855,10 +866,10 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
-- [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) (Claim) **Candace Owens**: ["Owens said N560TW, an aircraft registered to T W Lewis-Aviation LLC, f..."](/statements/statement-fe34067004e8.md)
+- [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-20-18) (Claim) **Candace Owens**: ["Owens said N560TW, an aircraft registered to T W Lewis-Aviation LLC, f..."](/statements/statement-fe34067004e8.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-05) (Claim) **Brian Harpole** (via quoted speech): ["Harpole said his team could not fly a drone at UVU because the site wa..."](/statements/statement-24c856b55eb8.md)
+- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-13) (Claim) **Brian Harpole** (via quoted speech): ["Harpole said his team could not fly a drone at UVU because the site wa..."](/statements/statement-24c856b55eb8.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 </details>
@@ -889,7 +900,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
-- [00:27:31](/episodes/ep-iHav0PPzUz8.md#t-00-27-20) (Claim) **Candace Owens**: ["Provo does not have an Air Force base, unlike Salt Lake City"](/statements/statement-1b97f58bf34d.md)
+- [00:27:31](/episodes/ep-iHav0PPzUz8.md#t-00-27-14) (Claim) **Candace Owens**: ["Provo does not have an Air Force base, unlike Salt Lake City"](/statements/statement-1b97f58bf34d.md)
 
 </details>
 

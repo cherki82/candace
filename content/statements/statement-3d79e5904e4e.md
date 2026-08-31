@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -22,14 +22,14 @@ veracity: "mixed"
 ## About
 
 - [Kash Patel](/entities/person-kash-patel.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (person)
 
 ## Source
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2600);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2600s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kash Patel under oath said to Senator Kennedy, ... the FBI is not in possession of any criminal evidence that Epstein trafficked girls to anyone but himself. ... We know now that's not true. ... According to documents, ... Epstein had a worldwide sex trafficking ring.
 

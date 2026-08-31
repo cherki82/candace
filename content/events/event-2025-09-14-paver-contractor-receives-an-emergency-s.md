@@ -6,6 +6,11 @@ date: "2025-09-14"
 ---
 
 **Date:** 2025-09-14
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “on Sunday”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-14"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:15:25](/episodes/ep-h76ZN-xXC6c.md#event-event-2025-09-14-paver-contractor-receives-an-emergency-s-t-00-15-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(925);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=925s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I get a call and I don't answer my phones on Sunday. They left a message
 
@@ -25,6 +30,6 @@ date: "2025-09-14"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:06:21](/episodes/ep-G3zdOeHpvS0.md#event-event-2025-09-14-paver-contractor-receives-an-emergency-s-t-00-05-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(381);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=381s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Dan Merrill, who was the guy who was the paver who was called to come in on a Sunday.

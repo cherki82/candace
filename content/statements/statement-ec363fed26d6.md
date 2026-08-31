@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:19:06](/episodes/ep-SKGUzGHymcI.md#t-00-18-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1146);return false;">Play</a>
+**Timestamp:** [00:19:06](/episodes/ep-SKGUzGHymcI.md#t-00-18-39) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1146s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Four days later, on November 17th, 2022, it does Egypt to Wilmington, again, departing at 8:54 a.m., and this time it stays in Wilmington until November 20th. And only then returns to Cairo. So that is two Wilmington arrivals in the same week.
 

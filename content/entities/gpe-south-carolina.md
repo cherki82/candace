@@ -31,7 +31,7 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 <p>Highest activity: <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10">To My Friend, Charlie Kirk.</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10" style="--pulse-height:100%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-17" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-49" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-01-00-11" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
@@ -41,7 +41,7 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-17) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-49) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-01-00-11) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23) | 1 |
@@ -81,7 +81,7 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[01:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-17)**
+**[01:01:49](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-49)**
 > ".... The demons shriek the loudest when they are in the light. Brad Atkins writes: "Praying for you in South Carolina. The Lord Jesus Christ is King." Thank you, Brad. MD Turner writes: "You are top even though Austra..."
 
 </details>

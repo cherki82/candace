@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:22:59](/episodes/ep-c5BcKF91iec.md#t-00-22-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1379);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=1379s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's also the reason that I knew that Tyler Bowyer was lying when he tweeted, "And this guy was commanded by the police to take down the cameras."
 

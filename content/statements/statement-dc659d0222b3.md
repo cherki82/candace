@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:33:08](/episodes/ep-4YgrOhhy708.md#t-00-33-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1988);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1988s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > going back to Candace Owens ... do you think that anything Candace has said is anti-semitic ... No, I don't. ... I mean, I listen to her daily, ... and ... I haven't ... heard one thing out of her mouth that I would say is anti-Semitic.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,8 +28,8 @@ veracity: "mixed"
 ### 1. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:58:19](/episodes/ep-7RLtGgkTh9o.md#t-00-58-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3499);return false;">Play</a>
+**Timestamp:** [00:58:19](/episodes/ep-7RLtGgkTh9o.md#t-00-58-14) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=3499s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, our boys were guarding the poppy fields—and then in Afghanistan—and then we got an opioid crisis. And the Sackler family seems to be the only ones that benefited from that opioid crisis.
 
@@ -37,7 +37,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:56:33](/episodes/ep-y8lak3CRwDw.md#t-00-56-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3393);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=3393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Everybody knows they were guarding poppy fields. And everybody knows that we got an opioid crisis following that from the Sackler family.
 

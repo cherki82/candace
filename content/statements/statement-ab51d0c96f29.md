@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1891);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=1891s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she says a foreign linked influence network has been running coordinated operations against the Trump administration for 22 months ... I know it's real because they ran one against me. ... This is about creating chaos in the Republican Party.
 

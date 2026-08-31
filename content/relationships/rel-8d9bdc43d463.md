@@ -11,7 +11,7 @@ object: "org-american-financing"
 
 ## [SMART Equity Loan](/entities/work-smart-equity-loan) part of [American Financing](/entities/org-american-financing)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
 
@@ -20,6 +20,10 @@ object: "org-american-financing"
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 
 - [00:46:20](/episodes/ep-X3VKJVJ7cN4#t-00-46-20): _If that debt is starting to feel heavy, you should know that you're not alone. If you're a homeowner, you've likely looked at your mortgage rate and thought, I can't touch that. But with American Financing Smart Equity Loan, you don't have to._
+
+**[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
+
+- [00:56:51](/episodes/ep-czVBmqZP6Ss#t-00-56-51): _They've created the Smart Equity Loan, which is a solution designed to help you take control of your finances_
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1901);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1901s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth. And his first cousins are longtime Arizona congressman Eddie Farnsworth. I believe he left office in 2022. And also his brother, Eddie (Eddie Farnsworth)'s brother is David Farnsworth.
 

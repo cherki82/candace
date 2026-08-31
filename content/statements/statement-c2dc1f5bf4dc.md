@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:38:33](/episodes/ep-y8lak3CRwDw.md#t-00-38-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2313);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2313s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I have been very clear with you guys that I'm beginning to ponder all of these mass shootings that take place, whether these are actually military targets, politically guided targets and hits that they eventually just blame on some kid who's drugged out of his mind or a trans person, again, constantly engaging us in this left-right dialogue.
 

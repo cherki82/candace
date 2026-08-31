@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:31:24](/episodes/ep-SubDoZWHARo.md#t-00-31-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1884);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was something we were. You know, monitoring for days before the event, we actually had a high school event that was planned to be before the college event in the area that we had to cancel a few days before because of the increased online chatter that we were monitoring, our security team, I should say, was monitoring.
 

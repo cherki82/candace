@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:03:22](/episodes/ep-ja26iltROkM.md#t-00-03-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(202);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=202s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One moment Charlie (Charlie Kirk) was doing what he loved: arguing and debating on campus, fighting for the gospel and truth in front of a big crowd. And then he blinked. He blinked and saw his Savior in paradise.
 

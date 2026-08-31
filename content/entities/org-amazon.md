@@ -1,6 +1,6 @@
 ---
 title: "Amazon"
-description: "Amazon (Organizations) - 41 mentions"
+description: "Amazon (Organizations) - 46 mentions"
 id: "org-amazon"
 type: "ORG"
 aliases:
@@ -25,10 +25,10 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04">2025-09-17 · 00:39:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-amazon-t-00-42-56">2026-08-11 · 00:43:18</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,7 +40,7 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04" style="--pulse-height:67%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-amazon-t-00-55-46" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-amazon-t-00-28-21" style="--pulse-height:67%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46" style="--pulse-height:67%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-43" style="--pulse-height:67%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-amazon-t-00-26-45" style="--pulse-height:33%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-amazon-t-00-32-26" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-amazon-t-00-51-29" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
@@ -48,6 +48,11 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-amazon-t-00-42-13" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-amazon-t-00-37-19" style="--pulse-height:67%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-amazon-t-00-42-12" style="--pulse-height:67%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-amazon-t-00-50-20" style="--pulse-height:33%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-amazon-t-00-54-55" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-amazon-t-00-53-25" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-amazon-t-01-00-45" style="--pulse-height:33%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-amazon-t-00-54-53" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-amazon-t-00-50-07" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-amazon-t-00-57-03" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-amazon-t-00-44-08" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
@@ -75,7 +80,7 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04) | 2 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-amazon-t-00-55-46) | 3 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-amazon-t-00-28-21) | 2 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-43) | 2 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-amazon-t-00-26-45) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-amazon-t-00-32-26) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-amazon-t-00-51-29) | 3 |
@@ -83,6 +88,11 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-amazon-t-00-42-13) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-amazon-t-00-37-19) | 2 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-amazon-t-00-42-12) | 2 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-amazon-t-00-50-20) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-amazon-t-00-54-55) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-amazon-t-00-53-25) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-amazon-t-01-00-45) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-amazon-t-00-54-53) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-amazon-t-00-50-07) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-amazon-t-00-57-03) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-amazon-t-00-44-08) | 1 |
@@ -109,7 +119,7 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -264,6 +274,46 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 </details>
 
 <details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:55:32](/episodes/ep-9k2xrAC0H88.md#ent-org-amazon-t-00-54-53)**
+> "...u can just throw it into your Amazon cart for the Christmas season."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[01:01:21](/episodes/ep-es7PWdFGoFI.md#ent-org-amazon-t-01-00-45)**
+> "...Christmas, you can do that on Amazon."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:53:39](/episodes/ep-6J6lRZPQ4jk.md#ent-org-amazon-t-00-53-25)**
+> "The book is available on Amazon."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:55:00](/episodes/ep-6DhWawD4ZiM.md#ent-org-amazon-t-00-54-55)**
+> "...irectly, you can also head to Amazon now, throw it in your cart."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:50:20](/episodes/ep-t4U7NjnUEgc.md#ent-org-amazon-t-00-50-20)**
+> "...im a Sandwich is available on Amazon. It is also available at MakeHimASandwich.com. Yo..."
+
+</details>
+
+<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:42:35](/episodes/ep-Kmt6HgRjckU.md#ent-org-amazon-t-00-42-12)**
@@ -340,10 +390,10 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:41:15](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
-> "...great work. God bless." Thank you, James (James Moran). Renee (Renee) writes, "Have you covered the Amazon listing from September 9th for a book about Charlie (Charlie Kirk) with all the details, which were..."
+**[00:41:15](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-43)**
+> "Renee (viewer; surname unverified) writes, "Have you covered the Amazon listing from September 9th for a book about Charlie (Charlie Kirk) with all the details, which were pretty accurate, of what happened on the 10th?""
 
-**[00:41:21](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
+**[00:41:20](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-43)**
 > "... of what happened on the 10th?" I have a picture of a screenshot supposedly verified. Yeah, I think Amazon came out and said that it was a technical error because I guess you can adjust the dates. To be hon..."
 
 </details>
@@ -363,7 +413,7 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3 mentions)</summary>
 
 **[00:56:12](/episodes/ep-sreYYcID-QY.md#ent-org-amazon-t-00-55-46)**
-> "...d keep up the search for truth." Martin, did you see the book about Charlie Kirk's assassination on Amazon that was available the day before it happened? Praying for you and your family's safety. God bless ..."
+> "Martin, did you see the book about Charlie (Charlie Kirk)'s assassination on Amazon that was available the day before it happened?"
 
 **[00:56:28](/episodes/ep-sreYYcID-QY.md#ent-org-amazon-t-00-56-28)**
 > "...he day before it happened? Praying for you and your family's safety. God bless you. Christ is King. Amazon issued a response—apparently; this is my producer's note—blaming it on technical issues for the inc..."
@@ -379,7 +429,7 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 **[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04)**
 > "...to get 20% off your order. Beekeeper's Naturals products are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. That's B-E-E-K-E-E-P-E-R-Snaturals.com/Candace. Enter code Candace at checkout..."
 
-**[01:00:05](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-59-29)**
+**[00:59:59](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-59-29)**
 > "...er purity for maximum safety and effectiveness. This is not the sketchy stuff that you will find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular re..."
 
 </details>
@@ -390,5 +440,17 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Amazon (1)</strong></summary>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1)</summary>
+
+- [00:41:20](/episodes/ep-K5GjF53bfN4.md#t-00-40-43) (Claim) **Candace Owens**: ["Owens said she thought Amazon had attributed the listing date to a tec..."](/statements/statement-9365c02102b6.md)
+
+</details>
 
 </details>

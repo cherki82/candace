@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:26:15](/episodes/ep-_vg7ucP1E0g.md#t-00-26-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1575);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1575s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And this young woman in New York got me the proof of that proof that at the very least, Erika (Erika Kirk) was making that claim. What I can tell you is that neither me nor Charlie (Charlie Kirk) nor Kanye (Kanye West) knew that Erika (Erika Kirk) knew someone on Kanye's (Kanye West's) team.
 

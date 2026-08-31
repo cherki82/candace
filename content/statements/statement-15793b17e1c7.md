@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:19:13](/episodes/ep-N4uM8Jdr410.md#t-00-18-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1153);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1153s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's Beau Mason. You should know that Beau Mason was appointed to that position—commissioner of the Utah Department of Public Safety—on June 19th, 2025, by Governor Cox (Spencer Cox).
 

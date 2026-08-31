@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:37:36](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2256);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2256s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > August 27th, Dhillon Law Group begins drafting paperwork for Havas Media on behalf of Clocktower X LLC and Show Faith by Works LLC to legally geofence and to spread propaganda on behalf of Israel.
 

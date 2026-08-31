@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:18:03](/episodes/ep-k1b1NDCrNFs.md#t-00-17-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1083);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1083s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He says Brian (Brian Harpole) in his filing, he's going to say that his reason that he didn't respond to these messages. Was because he didn't want to grant me an exclusive. He didn't want me to make money off of clicks by telling me yes or no.
 

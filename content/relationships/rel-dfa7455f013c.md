@@ -1,15 +1,15 @@
 ---
-title: "Justin Bieber lives in Thousand Oaks, California"
-description: "Evidence for the relationship: Justin Bieber lives in Thousand Oaks, California"
+title: "Justin Bieber lives in Thousand Oaks"
+description: "Evidence for the relationship: Justin Bieber lives in Thousand Oaks"
 relationship_id: "rel-dfa7455f013c"
 subject: "person-justin-bieber"
 predicate: "lives in"
-object: "gpe-thousand-oaks-california"
+object: "gpe-thousand-oaks"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Justin Bieber](/entities/person-justin-bieber) lives in [Thousand Oaks, California](/entities/gpe-thousand-oaks-california)
+## [Justin Bieber](/entities/person-justin-bieber) lives in [Thousand Oaks](/entities/gpe-thousand-oaks)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "gpe-thousand-oaks-california"
 ### Related
 
 - [Justin Bieber](/entities/person-justin-bieber)
-- [Thousand Oaks, California](/entities/gpe-thousand-oaks-california)
+- [Thousand Oaks](/entities/gpe-thousand-oaks)

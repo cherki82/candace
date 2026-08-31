@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:13:18](/episodes/ep-YA1FxrDWNIo.md#t-00-12-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(798);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=798s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do not believe that that .30-06 that they showed—recovered in the bushes—was ever on the roof. I think it was in the bushes to start with.
 

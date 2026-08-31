@@ -28,8 +28,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:29:18](/episodes/ep-7RLtGgkTh9o.md#t-00-28-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1758);return false;">Play</a>
+**Timestamp:** [00:29:18](/episodes/ep-7RLtGgkTh9o.md#t-00-29-08) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then she says, "Christian non-denominational, but she's LDS." "Born and raised LDS."
 

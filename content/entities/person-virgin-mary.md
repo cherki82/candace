@@ -1,10 +1,11 @@
 ---
 title: "Virgin Mary"
-description: "Virgin Mary (People) - 3 mentions"
+description: "Virgin Mary (People) - 4 mentions"
 id: "person-virgin-mary"
 type: "PERSON"
 aliases:
   - "Our Lady"
+  - "Most Holy Theotokos"
 categories:
   - "Christianity"
   - "biblical figure"
@@ -12,7 +13,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Our Lady
+**Also known as:** Our Lady, Most Holy Theotokos
 
 **Categories:** Christianity, biblical figure
 
@@ -23,10 +24,10 @@ _Type: People_
 Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https://www.vatican.va/content/francesco/en/homilies/2014/documents/papa-francesco_20141212_nostra-signora-guadalupe.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55">2026-02-05 · 00:46:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-virgin-mary-t-00-59-59">2025-10-07 · 01:00:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#t-00-22-40">2026-07-21 · 00:23:03</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,8 +36,9 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55">An Open Letter To Erika Kirk | Candace Ep 303</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-person-virgin-mary-t-00-59-59">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-virgin-mary-t-00-59-59" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#t-00-24-36" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#t-00-22-40" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
@@ -45,6 +47,7 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-virgin-mary-t-00-59-59) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#t-00-24-36) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#t-00-22-40) | 1 |
@@ -55,7 +58,7 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -78,6 +81,14 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 
 **[00:46:31](/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55)**
 > "I have no doubt Charlie (Charlie Kirk) is in heaven with Our Lady praying for your protection."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[01:00:11](/episodes/ep-5autG89PW6w.md#ent-person-virgin-mary-t-00-59-59)**
+> "Amy writes: "Most Holy Theotokos, bless and protect the handmaid of God, Candace, and her family."
 
 </details>
 

@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:23:18](/episodes/ep-wcD2khO3rOA.md#t-01-22-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4998);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4998s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they do fund prager you and they do fund the daily wire and they are not you know evangelical christians they fund the mega churches they started Rob McCoy's church actually they funded it
 

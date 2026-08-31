@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:15:26](/episodes/ep-SgVcnx4Oh30.md#t-00-15-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(926);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=926s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What is Hopkinson aircraft? Why did it immediately feel shady to me? It felt to me like a CIA front, if I'm being honest. That's an opinion.
 

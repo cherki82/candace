@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:10:30](/episodes/ep-wcD2khO3rOA.md#t-01-10-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4230);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4230s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the possibility that my father could get arrested. And in fact, my father got arrested two days after he met Charlie.
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:05:36](/episodes/ep-his-JBjlkh8.md#t-00-05-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(336);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=336s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And you don't get to wiggle out of that by pretending that us playing the words of his own father, Rob McCoy—who I think is highly suspicious in all of this, he has a suspicious background— we played his own words as he tried to sanitize someone who spent time
 

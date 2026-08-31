@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:17:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-16-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1029s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One board member who wished to remain anonymous confirmed to the Daily Mail that he was personally involved with the personal financial and estate planning with the couple after they were married. ... And during those discussions, they made clear that if anything should happen to Kirk, his wife would be responsible for the organization that he had.
 

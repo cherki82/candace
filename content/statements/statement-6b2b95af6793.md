@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:23:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=1422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > much it was three years and it was on the DD 214.
 

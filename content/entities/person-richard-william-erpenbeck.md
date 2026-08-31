@@ -398,7 +398,7 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 - [00:38:20](/episodes/ep-2tFYJf1klgY.md#t-00-38-00) (Citation) **Candace Owens**: ["William Erpenbeck Jr. transferred 50% of his B&G Holdings stock to Bil..."](/statements/statement-3fac431b5442.md)
   - Also about: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Bill Erpenbeck Children, LLC](/entities/org-bill-erpenbeck-children-llc.md)
 
-- [00:39:36](/episodes/ep-2tFYJf1klgY.md#t-00-39-26) (Citation) **Candace Owens**: ["Richard William Erpenbeck prepared but did not record a deed transferr..."](/statements/statement-f3cf0c143740.md)
+- [00:39:36](/episodes/ep-2tFYJf1klgY.md#t-00-39-26) (Citation) **Candace Owens**: ["Richard William Erpenbeck reportedly prepared but did not record a dee..."](/statements/statement-f3cf0c143740.md)
   - Also about: [Anita Andrews](/entities/person-anita-andrews.md)
 
 - [00:40:16](/episodes/ep-2tFYJf1klgY.md#t-00-40-11) (Citation) **Candace Owens**: ["Richard William Erpenbeck's Kentucky law license was suspended in Augu..."](/statements/statement-2169a7c2197d.md)

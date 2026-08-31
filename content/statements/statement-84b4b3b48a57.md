@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:14:02](/episodes/ep-k8ueJdPFel4.md#t-00-13-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(842);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=842s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's what he has to say. Blake (Blake Neff) writes, since some silly claims are being made right now, no, Charlie Kirk did not, okay, hate, operative word being hate Ben Shapiro. ... Charlie (Charlie Kirk) and Ben (Ben Shapiro) deferred about the best direction for the conservative movement. Ben (Ben Shapiro) supported Ron DeSantis in the 2024 primary while Charlie (Charlie Kirk) was all in for Trump (Donald J. Trump) from the start. ... J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.
 

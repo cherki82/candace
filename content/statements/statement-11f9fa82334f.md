@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-10-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(681);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino across decades.
 

@@ -20,13 +20,13 @@ type: "factual_claim"
 
 ## About
 
-- [Stacey Sheridan](/entities/person-stacey-sheridan.md) (person)
+- [Stacy Sheridan](/entities/person-stacy-sheridan.md) (person)
 
 ## Source
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(275);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=275s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force Two. She's like the chief money person, essentially, at Turning Point USA. She was brought in to reel in the big donors.
 

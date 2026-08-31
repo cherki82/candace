@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:32:50](/episodes/ep-HZvwbfePe7o.md#t-00-32-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1970);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=1970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, can confirm I'm not in D.C. Same is true for our in-house lawyer and CMO. While we're at it, Candace (Candace Owens) claimed I was in D.C. on January 29th meeting with Top Brass and that I staged some elaborate prerecord with Kash Patel. Also false.
 

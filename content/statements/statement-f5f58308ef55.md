@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:23:02](/episodes/ep-9CuC1yf8-PU.md#t-00-23-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1382);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1382s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was excavated; why the feds were searching for Charlie Kirk's necklace. It explains why there appears to be shattered black ABS glass all over the SUV; why there is no available footage or any eyewitness reports of someone seen firing a shot from the Losee building, despite this being an active campus in the middle of the day; why the feds did not conduct a standard gunshot residue test when Tyler Robinson was brought in. It explains why Terrell Farnsworth violated the crime scene to remove the
 

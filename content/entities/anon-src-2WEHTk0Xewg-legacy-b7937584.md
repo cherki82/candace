@@ -1,15 +1,19 @@
 ---
 title: "FBI Spokesperson (Ep 2WEHTk0Xewg)"
-description: "FBI Spokesperson (Ep 2WEHTk0Xewg) (Anonymous Sources) - 0 mentions"
+description: "FBI Spokesperson (Ep 2WEHTk0Xewg) (Anonymous Sources) - 1 mention"
 id: "anon-src-2WEHTk0Xewg-legacy-b7937584"
 type: "ANONYMOUS_SOURCE"
+aliases:
+  - "Anonymous Source #1 (Ep 2WEHTk0Xewg)"
 ---
 
 _Type: Anonymous Sources_
 
+**Also known as:** Anonymous Source #1 (Ep 2WEHTk0Xewg)
+
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +23,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -38,7 +40,7 @@ _No relationships extracted yet._
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
 
-- [00:17:49](/episodes/ep-2WEHTk0Xewg.md#t-00-17-34) [✓] (Claim) ["FBI recovered high-powered bolt-action rifle used in shooting in wooded area whe..."](/statements/statement-f6efaa570bd5.md)
+- [00:17:49](/episodes/ep-2WEHTk0Xewg.md#t-00-17-49) [✓] (Claim) ["An unidentified FBI spokesperson said the agency had recovered what it believed ..."](/statements/statement-f6efaa570bd5.md)
 
 </details>
 

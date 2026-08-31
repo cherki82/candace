@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3004);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=3004s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then somebody noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a day, like he's constantly retweeting, he went completely radio silent for seven days. ... Seven days. which was definitively atypical. You can go and look up his pattern of tweeting.
 

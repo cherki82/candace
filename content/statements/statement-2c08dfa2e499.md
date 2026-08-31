@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:49:54](/episodes/ep-rupRLXmSndU.md#t-00-49-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2994);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=2994s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my husband was under a tremendous amount of stress in the end because they were pulling money from him and they were threatening him, you know, financially and he felt morally blackmailed by them and they were telling him who he could speak to and whose friends could be.
 

@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:16:46](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1006);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump (Donald Trump) told aides that he was very unhappy with some of his most influential supporters, including Charlie Kirk. Tucker Carlson and Megyn Kelly, all of whom were publicly urging the administration to come clean.
 

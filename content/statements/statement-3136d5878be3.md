@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:13:25](/episodes/ep-eMtjzXkQrsU.md#t-00-13-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(805);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=805s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > insane. That's insane. Israel also changes the orbit of the moon. Israel pushes the sun.
 

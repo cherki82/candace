@@ -3,13 +3,17 @@ title: "Mr. Brumetz"
 description: "Mr. Brumetz (People) - 3 mentions"
 id: "person-mr-brumetz"
 type: "PERSON"
-aliases:
-  - "Brumetz"
+categories:
+  - "French government official"
 ---
 
 _Type: People_
 
-**Also known as:** Brumetz
+**Categories:** French government official
+
+**Entity verification:** verified
+> The source visibly/narratively identifies only Mr. Brumetz as a French government official associated with the Macrons since 2017; given name remains unverified and no short alias is retained.
+Source: [Charlie Ripped A Hole In Reality | Candace Ep 253](https://www.youtube.com/watch?v=Cq7nj9rxPdo)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-mr-brumetz-t-00-57-02">2025-10-28 · 00:57:09</a></strong></div>

@@ -23,7 +23,7 @@ veracity: "mixed"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:23:13](/episodes/ep-mLvJqdxS-FY.md#t-00-22-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1393);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=1393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just a little refresher here. 70 to 80 percent of homicide victims are killed by people that they know.
 

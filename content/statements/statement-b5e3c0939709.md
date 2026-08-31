@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:54:55](/episodes/ep-h76ZN-xXC6c.md#t-00-54-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=3295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And knowing that the VA just kept denying him, his wife sent me all the evidence of that. ... He tried to get an appointment in May. And so to think that this happened, and they kept telling him, no, it's all in your head, he takes some Xanax, is unbelievably frustrating.
 

@@ -18,15 +18,20 @@ veracity: "true"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Zohran Mamdani](/entities/person-zohran-mamdani.md) (person)
+- [Andrew Cuomo](/entities/person-andrew-cuomo.md) (person)
+- [New York City](/entities/gpe-new-york-city.md) (gpe)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:09:53](/episodes/ep-LATnak75Si0.md#t-00-09-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(593);return false;">Play</a>
+**Timestamp:** [00:09:53](/episodes/ep-LATnak75Si0.md#t-00-09-41) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He won pretty handily against Andrew Cuomo—which, like five minutes ago, the Republican Party was telling us he was unbelievably corrupt and that he should be in prison
+> He won pretty handily against Andrew Cuomo—which, like five minutes ago, the Republican Party was telling us he was unbelievably corrupt and that he should be in prison.
 
 ## Verification
 

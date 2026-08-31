@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:50:32](/episodes/ep-puuMVxEu5NU.md#t-00-50-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3032);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=3032s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You've turned everything on its head. And so, yeah, at the end of the day, when people say that Turning Point USA died with Charlie (Charlie Kirk), they are correct. ... I don't know what this organization is. I hope they find their footing. ... The footing will not be found without the truth.
 

@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:20:13](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1213);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1213s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I followed up with the former Prime Minister, Naftali Bennett, and what he told me is that Mossad has not been active in the United States since the war against the United States, since the Jonathan Pollard scandal of 1987,
 

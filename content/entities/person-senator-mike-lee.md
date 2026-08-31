@@ -120,12 +120,12 @@ Source: [About Mike | U.S. Senator Mike Lee](https://www.lee.senate.gov/about-mi
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Formerly Employed (1)</summary>
 
 - **[Shaner Broderick](/entities/person-shaner-broderick.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “chosen for an internship with Senator Mike Lee of Utah.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah.”
 
 </details>
 
@@ -160,10 +160,10 @@ Source: [About Mike | U.S. Senator Mike Lee](https://www.lee.senate.gov/about-mi
 
 </details>
 
-- **[Shaner Broderick](/entities/person-shaner-broderick.md)** works for this
+- **[Shaner Broderick](/entities/person-shaner-broderick.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “chosen for an internship with Senator Mike Lee of Utah.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah.”
 
 </details>
 

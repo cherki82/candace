@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:18:54](/episodes/ep-hWTdXHGQ8R4.md#t-00-18-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1134);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1134s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) removed, I think I'm saying this, I'll say allegedly, I think it was Charlie (Charlie Kirk) who removed his wedding photo from his home set. He removed his wedding photo from his home set. I think that's where he went into his office for a bit.
 

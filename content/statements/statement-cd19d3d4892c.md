@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:37:48](/episodes/ep-4DvYXBn_5JI.md#t-00-37-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2268);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=2268s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Let's just click around, right? Here we go. It tells us here they do voice cloning. Yet another example of our AI capabilities is the recreation. ... A specific voice, voice cloning. Using a bespoke AI model for that exact voice, Using a bespoke AI model for that exact voice, there is no accent or colloquialism that we cannot generate. Case in point, this project for Fanatics Collectible, where we had to reproduce the unique timber and intonation of the deceased baseball commentator Skip Caray.
 

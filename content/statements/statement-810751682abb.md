@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:16:07](/episodes/ep-ti5Fxrvegno.md#t-00-15-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(967);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=967s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) said no for a fact to more Zionist control at Turning Point USA. ... Charlie (Charlie Kirk) said no to Bibi (Benjamin Netanyahu) coming on his show. So he was done being bullied by Zionist dollars.
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:11:58](/episodes/ep-tXoI0TTKVrs.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(718);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Barack Obama was created. His rise was not authentic. He was groomed from childhood. For the position that he eventually held.
 

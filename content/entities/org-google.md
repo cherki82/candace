@@ -1,6 +1,6 @@
 ---
 title: "Google"
-description: "Google (Organizations) - 59 mentions"
+description: "Google (Organizations) - 60 mentions"
 id: "org-google"
 type: "ORG"
 categories:
@@ -18,8 +18,8 @@ Source: [Google — About](https://about.google/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41">2025-09-24 · 00:24:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-07-26">2026-08-21 · 00:07:26</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,13 +34,14 @@ Source: [Google — About](https://about.google/)
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49" style="--pulse-height:10%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-google-t-00-19-32" style="--pulse-height:40%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 4 mentions" title="2025-10-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35" style="--pulse-height:10%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-google-t-01-01-05" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-01-01-05" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-25" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40" style="--pulse-height:10%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47" style="--pulse-height:10%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-40" style="--pulse-height:30%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-27-47" style="--pulse-height:10%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-38" style="--pulse-height:30%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-50-58" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20" style="--pulse-height:10%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-google-t-00-32-02" style="--pulse-height:10%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-45" style="--pulse-height:30%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-google-t-00-30-57" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-google-t-00-17-31" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
@@ -74,13 +75,14 @@ Source: [Google — About](https://about.google/)
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-google-t-00-19-32) | 4 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35) | 1 |
-| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-google-t-01-01-05) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-01-01-05) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-25) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47) | 1 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-40) | 3 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-27-47) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-38) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-50-58) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-google-t-00-32-02) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-45) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-google-t-00-30-57) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-google-t-00-17-31) | 1 |
@@ -112,7 +114,7 @@ Source: [Google — About](https://about.google/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -361,6 +363,14 @@ Source: [Google — About](https://about.google/)
 </details>
 
 <details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:32:34](/episodes/ep-6J6lRZPQ4jk.md#ent-org-google-t-00-32-02)**
+> "...sands of five-star reviews on Google and it holds a five-star rating on Trustpilot."
+
+</details>
+
+<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:49:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20)**
@@ -371,7 +381,7 @@ Source: [Google — About](https://about.google/)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:51:28](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25)**
+**[00:51:28](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-50-58)**
 > "... corruption, plain and simple. Black Fatigue writes: "Candace, and for those who are curious, go on Google and type in .30-06 damage, then click on the images, and now ask yourself if you think that Charlie..."
 
 </details>
@@ -379,13 +389,13 @@ Source: [Google — About](https://about.google/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
 
-**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-40)**
+**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-38)**
 > "... building looks like if you decided to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that mak..."
 
-**[00:15:30](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-14-53)**
+**[00:15:25](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-15-25)**
 > "...ther site in of itself or it is a front for something else. Back to 920 North King Street. When you Google FBI Wilmington Resident Agency, you should check the address in the Google info panel. You will lik..."
 
-**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-15-37)**
+**[00:15:37](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-15-25)**
 > "...s just a bank tower, you can confirm that 500 Delaware Ave is the borough's public-facing spot, but Google will tell you that 920 North King Street is also the FBI. That is not a mistake. The FBI is also st..."
 
 </details>
@@ -393,7 +403,7 @@ Source: [Google — About](https://about.google/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:28:15](/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47)**
+**[00:28:15](/episodes/ep-581dILVcEE4.md#t-00-27-47)**
 > "...tudent, "Hey, we're looking at a map" because it's amazing—it's 2025, and there's this thing called Google Maps. "So we're actually looking at a map, and we see where Charlie's (Charlie Kirk) gonna sit, and..."
 
 </details>
@@ -409,7 +419,7 @@ Source: [Google — About](https://about.google/)
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:28:44](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01)**
+**[00:28:40](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-25)**
 > "...gs. PDS Debt is A+ rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. Why? Because PDS has helped hundreds of thousands o..."
 
 </details>
@@ -417,7 +427,7 @@ Source: [Google — About](https://about.google/)
 <details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
 
-**[01:01:14](/episodes/ep-YFmRH8p5lt0.md#ent-org-google-t-01-01-05)**
+**[01:01:14](/episodes/ep-YFmRH8p5lt0.md#t-01-01-05)**
 > "..." I pray Jeremiah 29:11 over you and your family. Thank you. Voiceless writes, "I'd love to see how Google Trends line up with these flights, names of people who died in the shootings, shooters, et cetera."..."
 
 </details>

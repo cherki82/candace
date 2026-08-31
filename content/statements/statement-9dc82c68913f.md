@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(965);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=965s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And also the top one as well. I can show you here on the website that the BILT was awarded that money from the Department of Defense, particularly from the Air Force. The majority came in from the Air Force, 7.4 million from the Air Force and just under a quarter million from the Navy, bringing the total actually closer to $8 million that came in to them in June of this year.
 

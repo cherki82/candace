@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:36:27](/episodes/ep-YA1FxrDWNIo.md#t-00-36-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2187);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=2187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Did he also express that he wanted to bring me, Candace Owens, back because he was standing up for himself? And then did he—just 48 hours later—conveniently catch a bullet to the throat before our onstage reunion could happen?
 

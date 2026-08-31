@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:13:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(784);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=784s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This person wasn't just an author that was guessing when he wrote this book. He was in control of the Sigmund Freud archives and lost his entire career just trying to ring the alarm on what these scientists knew.
 

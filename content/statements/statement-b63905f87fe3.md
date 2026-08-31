@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:29:29](/episodes/ep-jsqUIkszZd0.md#t-00-29-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1769);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1769s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reason I'm here in Haiti doing all this high-risk missionary stuff is a while back we responded to the urgent requests of an orphanage that was under imminent threat. ... Of attack by what many consider the most notorious gang in Haiti, the 400 Mawozo. It broke my heart to think of the possibilities were this gang to attack to take control over that area.
 

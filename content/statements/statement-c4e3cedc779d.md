@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:45:34](/episodes/ep-GY6GWceEqtQ.md#t-00-45-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2734);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=2734s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my wife has been consistently disrespected by my family no matter how hard we have tried to come together as one. ... My mom has repeatedly invited women from my past into our lives in ways that clearly were intended to make us both uncomfortable.
 

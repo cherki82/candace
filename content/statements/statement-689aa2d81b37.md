@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:14:01](/episodes/ep-FFQ9675oqRI.md#t-00-13-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(841);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All of this to say, we are going to get our answer. And my every instinct is that the video was staged.
 

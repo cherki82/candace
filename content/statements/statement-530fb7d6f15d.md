@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:29:32](/episodes/ep--9MOUvgGyi4.md#t-01-29-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5372);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=5372s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I looked at him and I said, now I'm not doing another retooling prayer. I have figured out how to get rid of my own sin. ... And so if I was to just keep coming back to you for deliverance, then that would be me making an idol of you and that would be worshiping you.
 

@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(544);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=544s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica (Erika Kirk) saw a brand with Charlie (Charlie Kirk). ... She also saw that Charlie (Charlie Kirk) could one day become president of the United States if he wanted to. ... He was going to be a very important player in politics and she was not missing that ride.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:33:51](/episodes/ep-SKNJPul29zU.md#t-00-33-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2031);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2031s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we went into it with no strategy, no plan.
 

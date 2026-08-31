@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:43:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2590);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=2590s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > " Listen: just us knowing what it is and just the fact that so many people are awake to the reality that the assassination attempt was real—and that if it wasn't, we should be hearing from proper channels, not Cam Higby giggling like a little schoolgirl on the payroll o
 

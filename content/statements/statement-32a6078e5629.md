@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:40:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2406);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2406s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Meet Darla (Romanian Israeli woman; surname unverified), ... a Romanian Jew that now calls Israel home. ... She was sitting by my family's dedication sign for restoring the Zion Gate in Jerusalem.
 

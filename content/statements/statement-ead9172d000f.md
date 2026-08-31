@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-22-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1379);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=1379s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > super weird effectively said I will not confirm or deny that's to sum it all up ... But also this person cannot confirm or deny whether they saw Erika that day at their offices.
 

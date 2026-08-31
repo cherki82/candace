@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:18:39](/episodes/ep-X3VKJVJ7cN4.md#t-00-18-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1119);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1119s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, Danny Phillips was hired in May of 2025. According to his LinkedIn, he graduated from Ohio State University.
 

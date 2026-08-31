@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:40:45](/episodes/ep-cZxHqYsWRYg.md#t-00-40-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2445);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2445s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I prayed for God to just strip my ego from all of that stuff, all of that world, all of the plastic hat, crown stuff with the banner. It was never—it was me from the standpoint of a philanthropic side, but the hometown hero thing was just weird, and it was unhealthy, and it was just ego-fueling. So I locked myself in my room, basically turned into a hermit for about a good eight months. ... The only person I would see outside of my family was my pastor's wife.
 

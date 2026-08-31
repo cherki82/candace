@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:48:41](/episodes/ep-DdPjoy5W-wY.md#t-00-48-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2921);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2921s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can also show you because like I said this was her this was the year where she was just like I got to get famous somehow she also auditions for this show which we think is Diane von Furstenberg had a show called House of DVF it's fashion which ran for two seasons from 2014-2015 and Erika (Erika Kirk) auditions for that as well take a listen.
 

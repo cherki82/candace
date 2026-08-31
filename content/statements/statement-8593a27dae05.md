@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:31:42](/episodes/ep-5-HUyv9LyMg.md#t-00-31-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1902);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=1902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What that is actually is InstaClot, which is essentially instant gauze, and there's just one on the floor. ... there's only one on the floor there that we could see.
 

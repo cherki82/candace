@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:34:59](/episodes/ep-mLvJqdxS-FY.md#t-00-34-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2099);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=2099s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I have to be honest with you, Frank (Frank Turek), you just come across as a fraud. Right. There's a Christian fraud selling Christianity, but actually trying to socially engineer people.
 

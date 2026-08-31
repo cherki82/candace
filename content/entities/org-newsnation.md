@@ -32,7 +32,7 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 <p>Highest activity: <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14">DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 4 mentions" title="2025-09-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-20-55" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-newsnation-t-00-29-32" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -40,7 +40,7 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14) | 4 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-20-55) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-newsnation-t-00-29-32) | 1 |
 
 </details>
@@ -62,7 +62,7 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03)**
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-20-55)**
 > "...vernor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for the Orem Police, reco..."
 
 </details>

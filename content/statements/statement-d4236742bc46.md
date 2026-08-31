@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:15:42](/episodes/ep-i8m_6D4QGmk.md#t-00-15-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But a lot of times, the thing about Satanists—and also, even though it's a cult and the fact that it's hidden—there is still a side to diabolic psychology. ... Even when they remain hidden, they still want to show themselves in some way. They're still going to reveal themselves in something; they can't help it. And it's the same thing you see with Satanists. It's the same thing you see with Freemasons when they're involved in certain things. It's the same stuff you see across the board in these particular groups. And so they just tend to reveal stuff.
 

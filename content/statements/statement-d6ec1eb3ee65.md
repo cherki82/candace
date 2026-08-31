@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:36:57](/episodes/ep-cZxHqYsWRYg.md#t-00-36-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2217);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is also the year that she's going to graduate from Notre Dame Prep in the spring, receiving a full basketball and academic scholarship ... to Regis University, which is in Denver, Colorado. She's also named as a finalist for the Arizona Interscholastic Association's Everyday Heroes Award.
 

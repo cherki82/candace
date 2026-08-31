@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1475);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1475s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Next up, we have Pastor Greg Laurie's church, Harvest Church. Immediately, Erika (Erika Kirk) went on tour after Charlie (Charlie Kirk)'s assassination with Pastor Greg Laurie, and they are currently being taken through the court system because they are being credibly accused of trafficking from Romania.
 

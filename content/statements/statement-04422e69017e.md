@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:21:40](/episodes/ep-Ux1kzgQxkws.md#t-01-21-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4900);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4900s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, I mean, I went to Yale Law School. You know guys serving the Clinton administration. I was chairman of the board of the US UN World Food Program Which is the largest humanitarian organization in the world I served on 16 boards before I ever joined the board of Burisma or anything I taught at Georgetown for I was you know taught at the master's program with the school and for service for four years
 

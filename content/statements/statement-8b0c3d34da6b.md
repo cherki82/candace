@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:22:10](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1330);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1330s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > their Next Model Management in New York City, Faith Cates, who was the co-founder of it, had to step down because of her involvement with Jeffrey Epstein. She's like in his emails like 4,000 times, even after he got arrested for pedophilia.
 

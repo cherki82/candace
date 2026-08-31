@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:27:54](/episodes/ep-xjzb_t5Tk9o.md#t-01-27-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5274);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That in that book, he said that the Israelis, the Mossad knew quite well about the bombing, ... when it's going to happen, ... the Bloomer-Cedars-Bentz van that was going to be used in the attack, ... and they withheld the information from the American troops and they said like, well, let them deal with it.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:15:30](/episodes/ep-cPidFQDJLbo.md#t-00-15-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(930);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who's they? Who is they? They only wanted to kill Charlie (Charlie Kirk). You and the children are fine. How could you say that?
 

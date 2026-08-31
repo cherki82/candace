@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:32:00](/episodes/ep-SubDoZWHARo.md#t-00-31-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1920);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1920s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But it was a situation where they were trying to dox her travel and monitor her travel, suggesting different ways to that people could attack her.
 

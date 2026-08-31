@@ -23,9 +23,9 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:29:17](/episodes/ep-ja26iltROkM.md#t-00-29-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1757);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1757s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I never had a falling out with Charlie Kirk (Charlie Kirk).
+> I never had a falling out with Charlie Kirk.
 
 ## Verification
 

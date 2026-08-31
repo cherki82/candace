@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:33:19](/episodes/ep-HGtMfbePDKk.md#t-00-33-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1999);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was another option that also blew through, which was Joe Rogan reached out and said he would host out in Texas. ... In Texas, I've already said my one thing is I'm not traveling for this. So I declined to accept me having to travel down to Texas
 

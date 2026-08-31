@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:36:58](/episodes/ep-JQjCAsfoXEE.md#t-00-36-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2218);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2218s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They have missed them both. ... So this is unusual that they've left off three of them.
 

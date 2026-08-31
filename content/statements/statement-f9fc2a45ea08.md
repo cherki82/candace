@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:40:03](/episodes/ep-X92MllIHDzw.md#t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2403);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2403s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we know for a fact, he was informed the night before, the night before by Milo Yiannopoulos. That the feds were going to beat that there was there was some Fed trap happening.
 

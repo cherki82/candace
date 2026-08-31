@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:09:09](/episodes/ep-y8lak3CRwDw.md#t-00-09-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(549);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=549s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2010, when this is all going down, the United States announces, hey, we're going to put a military base out in Romania. ... Obviously, I'm oversimplifying here, but that's effectively what took place. And we know that in 2010, the Black Sea rotational force arrives and so does Tyler Bowyer.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:02:07](/episodes/ep-puuMVxEu5NU.md#t-00-02-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(127);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, that's not what Charlie (Charlie Kirk) was wearing on September 10th. For whatever reason, Charlie (Charlie Kirk) was wearing a customized Carhartt shirt, which was, we are thinking it's got to be either the one that is 50% polyester or 95% polyester. I'm going to show you that a photo of Charlie (Charlie Kirk) here and you can see in the right hand corner, we have that Carhartt logo.
 

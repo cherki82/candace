@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:04:24](/episodes/ep-BxN2-aeMYIs.md#t-00-04-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(264);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > As a refresher, we told you that we filed multiple FOIA requests.
 

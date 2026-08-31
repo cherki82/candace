@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:11:06](/episodes/ep-JQjCAsfoXEE.md#t-00-10-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(666);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=666s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then, of course, that made me only look further into the Egyptian planes, and I discovered that the planes had been tracking Charlie (Charlie Kirk).
 

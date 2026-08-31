@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:10:53](/episodes/ep-_vg7ucP1E0g.md#t-00-10-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(653);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=653s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Later on in the future, she's going to claim that this is the year that she launched Bible in 365. In a future post, she says, in 2016, I started Bible in 365 in my New York City apartment. That is objectively untrue according to corporate filings. OK, that just did not happen.
 

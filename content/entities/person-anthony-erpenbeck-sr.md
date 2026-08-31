@@ -216,10 +216,10 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (5)</summary>
 
 - [00:10:56](/episodes/ep-cZxHqYsWRYg.md#t-00-10-40) (Citation) **Candace Owens**: ["Lori Ann Erpenbeck told her lawyer that Tony Erpenbeck offered money t..."](/statements/statement-25baa798a75c.md)
-  - Also about: [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md), [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md), [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [FBI](/entities/org-fbi.md)
 
 - [00:11:29](/episodes/ep-cZxHqYsWRYg.md#t-00-11-21) (Citation) **Candace Owens**: ["Tony Erpenbeck tried from federal prison to hire someone to murder a f..."](/statements/statement-a44cdfdbb3f2.md)
-  - Also about: [S. Arthur Spiegel](/entities/person-s-arthur-spiegel.md), [Kathleen Brinkman](/entities/person-kathleen-brinkman.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [S. Arthur Spiegel](/entities/person-s-arthur-spiegel.md), [Kathleen Brinkman](/entities/person-kathleen-brinkman.md), [FBI](/entities/org-fbi.md)
 
 - [00:14:54](/episodes/ep-cZxHqYsWRYg.md#t-00-14-13) (Citation) **Candace Owens**: ["Bill Erpenbeck received a 30-year sentence and served 21 years after a..."](/statements/statement-29bd878d2ffc.md)
   - Also about: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md)

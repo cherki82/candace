@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:07:36](/episodes/ep-3QJqtW_NOSI.md#t-00-07-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(456);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=456s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Truly, I think the reason that they had disagreement was actually over a real estate deal. It wasn't because of Jeffrey. ... of Jeffrey Epstein's parties or anything inappropriate that he was doing.
 

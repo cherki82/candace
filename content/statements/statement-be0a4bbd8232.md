@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:24:24](/episodes/ep-SgVcnx4Oh30.md#t-00-24-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1464);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1464s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay so if we are relying on this text thread it would appear that Andrew Kolvet took two flights that day and neither of those flights were equipped with Wi-Fi and that's why he was out of pocket.
 

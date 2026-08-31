@@ -1,9 +1,9 @@
 ---
-title: "Xaviaer DuRousseau was at the Hamptons weekend meeting and c..."
-description: "\"Xaviaer DuRousseau was at the Hamptons weekend meeting and confirmed that Charlie Kirk called an argument about Israel moral blackmail\" — Candace Owens"
+title: "Xaviaer DuRousseau said Charlie Kirk called it moral blackma..."
+description: "\"Xaviaer DuRousseau said Charlie Kirk called it moral blackmail to argue that criticizing an Israeli politician indirectly empowers Hamas.\" — Xaviaer DuRousseau"
 statement_id: "statement-9dd67b93ebbf"
-speaker: "Candace Owens"
-type: "accusation"
+speaker: "Xaviaer DuRousseau"
+type: "factual_claim"
 veracity: "true"
 ---
 
@@ -11,23 +11,25 @@ veracity: "true"
 
 ## Statement
 
-> Xaviaer DuRousseau was at the Hamptons weekend meeting and confirmed that Charlie Kirk called an argument about Israel moral blackmail
+> Xaviaer DuRousseau said Charlie Kirk called it moral blackmail to argue that criticizing an Israeli politician indirectly empowers Hamas.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Xaviaer DuRousseau](/entities/person-xaviaer-durousseau.md) (Guest)
 
-**Delivery:** Paraphrased
-**Original Source:** Xaviaer DuRousseau public video and X post
-**Original Date:** 2025-09-16
+**Delivery:** Made directly
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:03:47](/episodes/ep-K5GjF53bfN4.md#t-00-03-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(227);return false;">Play</a>
+**Timestamp:** [00:04:52](/episodes/ep-K5GjF53bfN4.md#t-00-04-24) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=292s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Xavier DeRusso was there. ... He made a video where he formally addressed the weekend and explained that ... yes, Charlie (Charlie Kirk), and he uses the phrase "moral blackmail." ... He said it is moral blackmail if you say that somebody saying that a politician is bad, that you're then empowering a terrorist organization.
+> You need to do it logically and factually, otherwise you lose the debate. He said it is moral blackmail if you say that somebody saying that a politician is bad, that you're then empowering a terrorist organization.
 
 ## Verification
 
@@ -49,4 +51,4 @@ Verified as an attribution claim using DuRousseau's direct September 16, 2025 po
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** Yes

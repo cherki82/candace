@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:29:34](/episodes/ep-G3zdOeHpvS0.md#t-00-29-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1774);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1774s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The feds did not take a lot of this stuff into evidence. I mean, how pointedly ridiculous that they gave Erika (Erika Kirk) the necklace back.
 

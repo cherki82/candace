@@ -6,6 +6,11 @@ date: "2026-02"
 ---
 
 **Date:** 2026-02
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “has now dropped a video”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-02"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:24:24](/episodes/ep-mFuno0TuuQQ.md#event-event-2026-02-aubrey-leitch-posted-a-public-video-desc-t-00-24-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1464);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1464s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She has now dropped a video, and I'm going to play about five minutes of it so you can listen

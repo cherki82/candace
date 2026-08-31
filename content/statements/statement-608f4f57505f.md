@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:11:17](/episodes/ep-k8ueJdPFel4.md#t-00-11-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(677);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=677s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Given that Charlie (Charlie Kirk) was close with the president and that he represented a large constituency essential to Trump (Donald J. Trump), and given that many proponents of the war with Iran saw a U.S. attack as urgently necessary to the survival of Israel, it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.
 

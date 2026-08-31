@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 82 mentions"
+description: "Calvary Chapel (Organizations) - 80 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -25,10 +25,10 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22">2026-07-29 · 00:39:38</a></strong></div>
 <div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>82</strong></div>
+<div><span>Mentions</span><strong>80</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,15 +37,15 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (20 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-13-27" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-13-26" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-13" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 20 mentions" title="2025-11-13 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44" style="--pulse-height:80%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 16 mentions" title="2025-11-15 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-46" style="--pulse-height:45%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 9 mentions" title="2025-11-18 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-46-56" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44" style="--pulse-height:75%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 15 mentions" title="2025-11-15 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-57" style="--pulse-height:40%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-47-15" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-28-02" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-09-30" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42" style="--pulse-height:15%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-54-16" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52" style="--pulse-height:10%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
@@ -65,15 +65,15 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39) | 1 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19) | 5 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-13) | 4 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21) | 20 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44) | 16 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-46) | 9 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-46-56) | 2 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44) | 15 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-57) | 8 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-47-15) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-28-02) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15) | 2 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-30) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-54-16) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52) | 2 |
@@ -94,7 +94,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+<summary><strong class="section-title">Raw mentions (80)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -236,7 +236,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[00:09:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04)**
+**[00:09:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-30)**
 > "I've covered extensively how even just amongst the Cavalry Chapel, in particular,"
 
 </details>
@@ -255,7 +255,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47)**
+**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-28-02)**
 > "...ther you're talking about George Zinn or the person that jumped up and screamed or the pastors, the Calvary Chapel that for whatever reason kept getting into these scandals that we went over the other day. That doe..."
 
 </details>
@@ -263,28 +263,25 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:47:20](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-46-56)**
+**[00:47:15](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-47-15)**
 > "...opaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC ..."
 
-**[00:51:37](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-46-56)**
+**[00:51:37](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-t-00-47-15)**
 > "...e do know what this is really about. Soul Survivor writes, Calvary Global Network branched off from Calvary Chapel Association in 2017. Much like they infiltrated TPUSA, they started branching out into separate thi..."
 
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (8 mentions)</summary>
 
-**[00:38:14](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-46)**
+**[00:38:14](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-57)**
 > "...stor—America's pastor—Rob McCoy. I just think in general, by the way, I want to give a shout-out to Calvary Chapel because I knew nothing about Calvary Chapel before this investigation. These pastors are doing the ..."
 
-**[00:38:23](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-38-23)**
+**[00:38:21](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-57)**
 > "... I have never seen such an obvious and naked propagandist campaign in my life than me exploring the Calvary Chapel Church movement. So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple day..."
 
-**[00:38:53](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-38-23)**
-> "Calvary Chapel magazine with 'Stand with Israel' cover discussed"
-
 **[00:40:49](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
-> "...xwell campaign—like we had to have the Holocaust education. And I want you to imagine a world where Calvary Chapel churches get to decide how we're educated because somebody sent me an actual magazine that they hav..."
+> "And I want you to imagine a world where Calvary Chapel churches get to decide how we're educated because somebody sent me an actual magazine that they have."
 
 **[00:40:58](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
 > "...ow we're educated because somebody sent me an actual magazine that they have. Again, I'm new to the Calvary Chapel thing that's happening. I knew they were behind a lot of the attacks against me and Tucker (Tucker ..."
@@ -292,45 +289,45 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 **[00:41:09](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
 > "...r, but I hadn't realized how—like I said—naked in propaganda this is. This is this month's issue of Calvary Chapel magazine. Apparently they have their own magazine. And this is not parody. This is "Judeo Christian..."
 
-**[00:41:19](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
+**[00:41:17](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
 > "...have their own magazine. And this is not parody. This is "Judeo Christianity." This is the cover of Calvary Chapel magazine from this month. And it says, "Stand with Israel." It tells the story of "surfer to shephe..."
 
-**[00:42:42](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-42-16)**
-> "... obvious what happened here. And of course, Bibi (Benjamin Netanyahu) Netanyahu was involved in the Calvary Chapel churches. We're gonna get to that tomorrow: his relationship with Bob Coy—not to be confused with P..."
+**[00:42:42](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-42-09)**
+> "And of course, Bibi (Benjamin Netanyahu) was involved in the Calvary Chapel churches."
 
-**[00:42:45](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-42-16)**
+**[00:42:45](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-42-09)**
 > "...etanyahu) was involved in the Calvary Chapel churches."
 
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (16 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (15 mentions)</summary>
 
 **[00:00:50](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44)**
 > "...irk)'s assassination is pulling in all of these elements. And we need to speak a lot more about the Calvary Chapel and also Britney Spears. Britney Spears—suddenly Britney Spears is here. Britney Spears and everyth..."
 
-**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-03-30)**
+**[00:03:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-03-23)**
 > "... themes that we have been exploring. So, where did we leave off yesterday? Well, we spoke about the Calvary Chapel. We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across ..."
 
-**[00:04:40](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-04-14)**
+**[00:04:40](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-04-40)**
 > "...e me perk up—a flurry of emails, actually. Thank you guys—telling me to stay the course because the Calvary Chapel was also involved in Britney Spears' conservatorship. What? Excuse me. Now to be clear, I never got..."
 
-**[00:11:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-10-43)**
+**[00:11:04](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-10-43)**
 > "...ually started her career in a church working alongside her husband, who at the time was a pastor at Calvary Chapel in Brentwood, California. And interestingly enough, according to financial documents that are in th..."
 
-**[00:11:28](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-11-28)**
+**[00:11:28](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-10-43)**
 > "...was a pastor. Read this. Mr. Spears at times gave 10% of his conservatorship income to the Taylors' Calvary Chapel Brentwood—a practice known as tithing—according to a 2010 financial document. Mr. Spears gave tens ..."
 
 **[00:12:38](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
-> "...indsay Lohan into conservatorships. Oh, we're going to get there because as I started following the Calvary Chapel again—suddenly involved in that part that she's mentioning about the tithing. Since I put onto my I..."
+> "Oh, we're going to get there because as I started following the Calvary Chapel again—suddenly involved in that part that she's mentioning about the tithing."
 
-**[00:12:49](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
+**[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
 > "...am stories that—what is this? You're telling me that this woman Lou Taylor also was involved in the Calvary Chapel? And I was not paying attention to anything that was going on with Britney Spears at all. And I've ..."
 
 **[00:12:56](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
 > "...at seems to be happening with Calvary Chapels. And here's where we are."
 
-**[00:13:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-13-13)**
+**[00:13:44](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-13-11)**
 > "... that God will bless them and they'll pray over them. What is happening? How can there be this many Calvary Chapel scandals and stories? She also mentioned Lindsay Lohan. She's not lying there. Well-loved teenager,..."
 
 **[00:16:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-16-07)**
@@ -339,20 +336,17 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 **[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-16-07)**
 > "...or moved to Brentwood, Tennessee. They lived in Fort Lauderdale, Florida, and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy. We brought him up yesterday—the pedophile sca..."
 
-**[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-32-07)**
+**[00:32:02](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-32-02)**
 > "...ing to put this out there because I think a lot of people now need to start paying attention to the Calvary Chapel in whatever regard you're researching—whether it's Justin Bieber, as I just mentioned, whether you'..."
 
-**[00:52:41](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-52-23)**
+**[00:52:37](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-52-16)**
 > "...o getting into some more of these comments. Access Gaming writes, "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?" "That is the epicenter of the Family International mov..."
 
-**[00:55:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
+**[00:55:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-04)**
 > "...es where he can be the most deceptive. And what better place to go, right? People are showing up to Calvary Chapel because they love Jesus, and they want to pray. And suddenly they're starting to realize you're get..."
 
-**[00:55:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
+**[00:55:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-04)**
 > "...uddenly they're starting to realize you're getting a political message. Something is not right with Calvary Chapel. I stand by that. We lost someone that has an email and said—because I discussed Calvary Chapel's a..."
-
-**[00:55:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
-> "...ith Calvary Chapel. I stand by that. We lost someone that has an email and said—because I discussed Calvary Chapel's abuse history—they would no longer support us. Like, I've always been very clear on the topic of ..."
 
 </details>
 
@@ -422,21 +416,18 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
 
-**[00:32:45](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
+**[00:32:41](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-13)**
 > "...s, man. These pastors. Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Ja..."
 
-**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
-> "...arlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother wh..."
-
-**[00:33:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-33-02)**
+**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-55)**
 > "...ornia. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah. And later, what's interesting is he's behind Charlie (Charlie Kirk) when he gets out of th..."
 
-**[00:35:31](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-35-00)**
+**[00:35:27](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-35-27)**
 > "...r are we looking at an operation? That's the question that I have. Yeah, I would—if you are part of Calvary Chapel anywhere—I would just wonder if your pastor just came from the military. And if he—or if he's from ..."
 
-**[00:45:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-45-49)**
+**[00:45:53](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-45-27)**
 > "...e Oaks. I found that out. I guess Rob McCoy—he's actually even more amazing. He's had so many hats. Calvary Chapel outright purchased—for whatever reason—outright purchased the Christian Academy in 2009, I believe ..."
 
 </details>
@@ -444,7 +435,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)**
+**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26)**
 > "...e rather impeccable timing. Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right n..."
 
 </details>
@@ -463,6 +454,37 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Acquired (1)</summary>
+
+- **[Little Oaks School](/entities/org-little-oaks-school.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:45:53](/episodes/ep-MUA9ebCF4Ow.md#t-00-45-27): “Calvary Chapel outright purchased—for whatever reason—outright purchased the Christian Academy in 2009, I believe it was.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Attacked (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:40:58](/episodes/ep-581dILVcEE4.md#t-00-40-49): “Again, I'm new to the Calvary Chapel thing that's happening. I knew they were behind a lot of the attacks against me and Tucker (Tucker Carlson) this year, but I hadn't realized how—like I said—naked in propaganda this is.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:40:58](/episodes/ep-581dILVcEE4.md#t-00-40-49): “Again, I'm new to the Calvary Chapel thing that's happening. I knew they were behind a lot of the attacks against me and Tucker (Tucker Carlson) this year, but I hadn't realized how—like I said—naked in propaganda this is.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Attended By (1)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
@@ -476,12 +498,24 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:38:21](/episodes/ep-581dILVcEE4.md#t-00-37-57): “These pastors are doing the absolute most. I have never seen such an obvious and naked propagandist campaign in my life than me exploring the Calvary Chapel Church movement.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): “Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:54](/episodes/ep-7RLtGgkTh9o.md#t-00-16-48): “All these people live in Thousand Oaks, California, and he's been pastoring that church up until July of this year for a very long time.”
 
 </details>
 
@@ -500,12 +534,11 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details>
-<summary>Has Pastor (2)</summary>
+<summary>Has Pastor (3)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl— ... The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:22:58](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52): “And it's incredible to say that is in large part due to the Charlie Kirk assassination and us looking into the story, looking into the pastors that he surrounded himself with. And then we kind of looked into what this Calvary Chapel church was. It's a military operation. I mean, this is literally a CIA operation. ... People like Rob McCoy. who was one of the pastors that purported to be close to Charlie (Charlie Kirk).”
 
@@ -515,6 +548,13 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:20:00](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “And she speaks at James Kaddis' Calvary Chapel Church. ... James Kaddis is this like egyptian pastor that's like radically pro-israel”
+
+</details>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-13): “Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel”
 
 </details>
 
@@ -533,13 +573,55 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (12)</summary>
+
+- **[Little Oaks School](/entities/org-little-oaks-school.md)** acquired by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:45:53](/episodes/ep-MUA9ebCF4Ow.md#t-00-45-27): “Calvary Chapel outright purchased—for whatever reason—outright purchased the Christian Academy in 2009, I believe it was.”
+
+</details>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:42:42](/episodes/ep-581dILVcEE4.md#t-00-42-09): “And of course, Bibi (Benjamin Netanyahu) was involved in the Calvary Chapel churches.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:40:58](/episodes/ep-581dILVcEE4.md#t-00-40-49): “Again, I'm new to the Calvary Chapel thing that's happening. I knew they were behind a lot of the attacks against me and Tucker (Tucker Carlson) this year, but I hadn't realized how—like I said—naked in propaganda this is.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:40:58](/episodes/ep-581dILVcEE4.md#t-00-40-49): “Again, I'm new to the Calvary Chapel thing that's happening. I knew they were behind a lot of the attacks against me and Tucker (Tucker Carlson) this year, but I hadn't realized how—like I said—naked in propaganda this is.”
+
+</details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:29](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:04:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “At 18, Victor (Victor Marx) joined the Marine Corps, served for two years before he was discharged. At 21, he says he found Jesus and he started attending Calvary Chapel Church, my favorite church faith.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:38:21](/episodes/ep-581dILVcEE4.md#t-00-37-57): “These pastors are doing the absolute most. I have never seen such an obvious and naked propagandist campaign in my life than me exploring the Calvary Chapel Church movement.”
+
+</details>
+
+- **[Rob McCoy](/entities/person-rob-mccoy.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:54](/episodes/ep-7RLtGgkTh9o.md#t-00-16-48): “All these people live in Thousand Oaks, California, and he's been pastoring that church up until July of this year for a very long time.”
 
 </details>
 
@@ -551,11 +633,9 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** pastor of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl— ... The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church”
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): “the beliefs and the preferences of Rob McCoy who makes my skin crawl”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:22:58](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52): “And it's incredible to say that is in large part due to the Charlie Kirk assassination and us looking into the story, looking into the pastors that he surrounded himself with. And then we kind of looked into what this Calvary Chapel church was. It's a military operation. I mean, this is literally a CIA operation. ... People like Rob McCoy. who was one of the pastors that purported to be close to Charlie (Charlie Kirk).”
 
 </details>
@@ -567,17 +647,17 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 </details>
 
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)** pastor of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-13): “Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel”
+
+</details>
+
 - **[Erika Kirk](/entities/person-erika-kirk.md)** spoke at this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. ... And she speaks at James Kaddis' Calvary Chapel Church.”
-
-</details>
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): “Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States”
 
 </details>
 
@@ -615,14 +695,14 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) (Accusation) **Candace Owens**: ["Calvary Chapel has a pattern of establishing former pedophiles and dru..."](/statements/statement-f304e1a6e67f.md)
+- [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-30) (Accusation) **Candace Owens**: ["Calvary Chapel has a pattern of establishing former pedophiles and dru..."](/statements/statement-f304e1a6e67f.md)
 
 </details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-16) (Claim) **Candace Owens**: ["Benjamin Netanyahu had a relationship with Bob Coy from the Fort Laude..."](/statements/statement-edd63ae5246d.md)
+- [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-09) (Claim) **Candace Owens**: ["Benjamin Netanyahu had a relationship with Bob Coy from the Fort Laude..."](/statements/statement-edd63ae5246d.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bob Coy](/entities/person-bob-coy.md)
 
 </details>
@@ -630,7 +710,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3)</summary>
 
-- [00:04:56](/episodes/ep-7RLtGgkTh9o.md#t-00-04-14) (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-a6c091beb979.md)
+- [00:04:56](/episodes/ep-7RLtGgkTh9o.md#t-00-04-40) (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-a6c091beb979.md)
   - Also about: [Britney Spears](/entities/person-britney-spears.md)
 
 - [00:11:27](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor started her career in a church working alongside her husban..."](/statements/statement-a99a0c1efe32.md)

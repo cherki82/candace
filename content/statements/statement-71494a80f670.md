@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:03:24](/episodes/ep-DYD_QHMPwqM.md#t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(204);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=204s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, this man, it is alleged, was actually murdered for some of the research and the pieces that he were putting together because he was perhaps getting too close to the ultimate project of the elites.
 

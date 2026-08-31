@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:35:44](/episodes/ep-Wjul6YV6izo.md#t-00-35-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2144);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=2144s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No one should have had to have been thinking this way, that people were using our trauma and our emotions and our spirituality to manipulate us.
 

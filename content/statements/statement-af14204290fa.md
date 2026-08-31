@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:16:02](/episodes/ep-YA1FxrDWNIo.md#t-00-15-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(962);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=962s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because at 12:23—according to his metadata, because he sent it to me—Phil Lyman was inside of the building. And he must have then—immediately, according to our timeline—hit record, and he didn't run. He calmly walked out of Sorensen Building.
 

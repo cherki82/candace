@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:21:30](/episodes/ep-EtLHqDbxqks.md#t-01-21-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4890);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4890s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Somebody said to me, “What if they try to harm Erika (Erika Kirk) and then blame you?” Like, that's what it kind of seems like they're planting seeds for. Is that possible? Yeah, it is possible. Desperate feds, desperate measures.
 

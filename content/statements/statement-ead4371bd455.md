@@ -1,6 +1,6 @@
 ---
-title: "I can't find her. We stalked; we looked through databases; w..."
-description: "\"I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woma...\" — Candace Owens"
+title: "Owens said database searches and contact with Lance's family..."
+description: "\"Owens said database searches and contact with Lance's family did not identify a Sherry Steele living in the complex.\" — Candace Owens"
 statement_id: "statement-ead4371bd455"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that lives in that building complex.
+> Owens said database searches and contact with Lance's family did not identify a Sherry Steele living in the complex.
 
 ## Attribution
 
@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:18:52](/episodes/ep-sreYYcID-QY.md#t-00-18-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1132);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1132s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name
 

@@ -11,7 +11,7 @@ object: "person-justin-streiff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has COO [Justin Streiff](/entities/person-justin-streiff)
 
-### Evidence (6 mentions)
+### Evidence (8 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -28,6 +28,14 @@ object: "person-justin-streiff"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:19:58](/episodes/ep-B9TyCs-6o_0#t-00-19-58): _the most important person at that company becomes Justin Streiff because he's been promoted to COO just seven days earlier_
+
+**[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
+
+- [00:21:26](/episodes/ep-K5GjF53bfN4#t-00-21-26): _Justin Streiff is taking on a new elevated role with Turning Point USA as its COO._
+
+**[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
+
+- [00:24:56](/episodes/ep-a-e7HC6SeK8#t-00-24-56): _And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO._
 
 **[Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs)**
 

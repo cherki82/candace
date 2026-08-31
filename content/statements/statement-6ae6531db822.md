@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:11:56](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(716);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=716s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So, yesterday, we were kind of poking fun at the narrative that Phil Lyman seemed to be trying to spin—suggesting that, quote-unquote, "gothic girls" might have been suspicious, that they maybe could have been responsible or aware, at least, that the shooting was going to occur
 

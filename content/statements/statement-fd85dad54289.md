@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:54:25](/episodes/ep-SKGUzGHymcI.md#t-00-54-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3265);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=3265s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I think we have enough evidence to suggest that this was multinational. At the very least, we can accept that this was an international operation.
 

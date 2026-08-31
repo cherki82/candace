@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:08:26](/episodes/ep-WoXd4oLwd3w.md#t-00-08-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(506);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=506s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But the official, this is one of the investigators, called the investigation one of the largest mobilizations of FBI resources in history that continued to this day.
 

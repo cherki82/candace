@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:34:34](/episodes/ep-Dkxa9OUA9K8.md#t-00-34-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2074);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=2074s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There were two towns or sister towns, Mendenhall and McGee. It was in one of those. Yeah. In Simpson County, Mississippi.
 

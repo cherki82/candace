@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:24:59](/episodes/ep-A39g5oqB_eM.md#t-00-24-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1499);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1499s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the now fired employees are telling me no, ... She was in the office every day with Stacey Sheridan, ... running around with Stacey Sheridan, ... taking phone calls with Stacey Sheridan. That's like the head of the fundraising for Turning Point USA.
 

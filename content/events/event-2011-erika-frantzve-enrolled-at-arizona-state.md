@@ -6,6 +6,11 @@ date: "2011"
 ---
 
 **Date:** 2011
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2011”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2011"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:15:54](/episodes/ep-y8lak3CRwDw.md#event-event-2011-erika-frantzve-enrolled-at-arizona-state-t-00-15-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(954);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=954s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Frantzve enrolls into Arizona State University for her final year of college.
 
@@ -25,6 +30,6 @@ date: "2011"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:19:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1185);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika is going to enroll into ASU. For her final year of college from 2011-2012

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:33:45](/episodes/ep-IqHsl7d2dos.md#t-00-33-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2025);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=2025s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian (Brian Harpole) has twice gone on two podcasts and explained that they never conducted CPR because they were so focused on the wound. ... Frank Turek has now gone on multiple shows and claimed that he did do CPR.
 

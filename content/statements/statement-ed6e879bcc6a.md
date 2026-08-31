@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:37:16](/episodes/ep-BxN2-aeMYIs.md#t-00-37-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2236);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2236s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie was a fan of Thomas Massie, especially historically, liked him on war, liked him on being a budget hawk and spending, but he was pretty frustrated that Massie didn't vote ... in the affirmative on the Big Beautiful Bill
 

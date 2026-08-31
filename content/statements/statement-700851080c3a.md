@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:59:16](/episodes/ep-xjzb_t5Tk9o.md#t-00-59-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3556);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3556s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's incredible. I'm banned from an entire country over... for standing up for Palestinians, ... innocent Palestinian life, because we have to believe that Palestinians are animals or they'll ruin your life.
 

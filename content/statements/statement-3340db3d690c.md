@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:24:10](/episodes/ep-h76ZN-xXC6c.md#t-00-23-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > An explosion is also compelling because it would go some way of explaining why Terryl Farnsworth was instructed specifically to take the SD card. ... from the camera that was behind Charlie (Charlie Kirk)'s head
 

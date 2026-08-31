@@ -1,6 +1,6 @@
 ---
-title: "Dan Flood received a text message from Charlie Kirk the nigh..."
-description: "\"Dan Flood received a text message from Charlie Kirk the night before the assassination saying 'They're going to kill me'\" — Anonymous Source #1 (Ep es7PWdFGoFI)"
+title: "An unnamed person with access to Dan Flood's communications ..."
+description: "\"An unnamed person with access to Dan Flood's communications reportedly told Candace Owens that Flood received a message from Charlie Kirk saying, 'the...\" — Anonymous Source #1 (Ep es7PWdFGoFI)"
 statement_id: "statement-f4a80abe9a39"
 speaker: "Anonymous Source #1 (Ep es7PWdFGoFI)"
 type: "factual_claim"
@@ -10,13 +10,13 @@ type: "factual_claim"
 
 ## Statement
 
-> Dan Flood received a text message from Charlie Kirk the night before the assassination saying 'They're going to kill me'
+> An unnamed person with access to Dan Flood's communications reportedly told Candace Owens that Flood received a message from Charlie Kirk saying, 'they're going to kill me.'
 
 ## Attribution
 
 **Speaker:** [Anonymous Source #1 (Ep es7PWdFGoFI)](/entities/anon-src-es7PWdFGoFI-001.md) (Anonymous Source)
 
-**Delivery:** Read from message
+**Delivery:** Paraphrased
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** verbal communication
 
@@ -28,15 +28,15 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(400);return false;">Play</a>
+**Timestamp:** [00:06:34](/episodes/ep-es7PWdFGoFI.md#t-00-06-08) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=394s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And then somebody who had access to Dan (Dan Flood)'s communications, said that Dan (Dan Flood) similarly received a text message.
+> And then somebody who had access to Dan (Dan Flood)'s communications, said that Dan (Dan Flood) similarly received a text message. ... Somebody told me what it said, which was almost exactly what Andrew (Andrew Kolvet) said, which is, they're going to kill me.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** No

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:22:13](/episodes/ep-SKNJPul29zU.md#t-01-21-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4933);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4933s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And a lot of people don't know this. We wanted to assist Israel in turning. Syria into a failed state and we certainly succeeded in that mission so under Obama we started arming literal terrorists including like Al-Qaeda offshoots
 

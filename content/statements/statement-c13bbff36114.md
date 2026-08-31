@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:15:54](/episodes/ep-5NQyGuRYbU8.md#t-00-15-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(954);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=954s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have an incredible array of possibilities of creating foreign companies that have no way being traced back to Israel, shell companies over shell companies who affect the supply chain to our favor.
 

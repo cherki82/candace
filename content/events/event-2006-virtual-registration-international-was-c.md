@@ -6,6 +6,11 @@ date: "2006"
 ---
 
 **Date:** 2006
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “That year”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2006"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:36:17](/episodes/ep-cZxHqYsWRYg.md#t-00-36-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2177);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lori is going to have to close down virtual registration International Incorporated

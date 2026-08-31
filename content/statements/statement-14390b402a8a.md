@@ -1,6 +1,6 @@
 ---
-title: "Official committee records omit Mark Amodei from roll calls ..."
-description: "\"Official committee records omit Mark Amodei from roll calls 1 and 2 on September 9, 2025, and first list him on roll call 3\" — Candace Owens"
+title: "Owens said she was still working to verify reports that Mark..."
+description: "\"Owens said she was still working to verify reports that Mark Amodei missed two morning roll calls and appeared later on September 9\" — Candace Owens"
 statement_id: "statement-14390b402a8a"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,14 +11,13 @@ veracity: "true"
 
 ## Statement
 
-> Official committee records omit Mark Amodei from roll calls 1 and 2 on September 9, 2025, and first list him on roll call 3
+> Owens said she was still working to verify reports that Mark Amodei missed two morning roll calls and appeared later on September 9
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## About
 
@@ -29,9 +28,9 @@ veracity: "true"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2177);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> the internet interneted and realized that actually he missed two of the roll calls that happened in the morning and that he was present in the evening or late afternoon
+> Well, very quickly the internet interneted and realized that actually he missed two of the roll calls that happened in the morning and that he was present in the evening or late afternoon. We are still working to verify that.
 
 ## Verification
 

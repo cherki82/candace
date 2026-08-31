@@ -26,13 +26,13 @@ veracity: "true"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Lori Frantzve](/entities/person-lori-frantzve.md) (person)
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
-- [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md) (gpe)
+- [Phoenix](/entities/gpe-phoenix.md) (gpe)
 
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2149);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2149s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.
 

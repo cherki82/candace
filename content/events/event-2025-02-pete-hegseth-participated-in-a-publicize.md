@@ -6,6 +6,11 @@ date: "2025-02"
 ---
 
 **Date:** 2025-02
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “Germany in February of 2025”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-02"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:22:44](/episodes/ep-19vHhjF7-NA.md#event-event-2025-02-pete-hegseth-participated-in-a-publicize-t-00-22-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1364);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=1364s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Germany in February of 2025. And when I say like they propagandize these runs

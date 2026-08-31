@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:48:11](/episodes/ep-jTj9Ip46r4w.md#t-00-48-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2891);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=2891s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's too many lies. She is obviously not fit to be the CEO and chairman of Turning Point USA just on the basis of the amount of dishonesty that we can just show you using her own words, okay? Just using Erica (Erika Kirk)'s own words, trying to make sense of anything is a very difficult task.
 

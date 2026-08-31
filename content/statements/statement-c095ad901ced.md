@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:13:38](/episodes/ep-1hcjQGgvxUY.md#t-00-13-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But hindsight is 20-20, as we always say, and Jillian (Jillian Falcon) today is now 27 years old and she fully appreciates how absolutely weird this was and how absolutely weird it is and she's going back and she is wondering what exactly was this all about?
 

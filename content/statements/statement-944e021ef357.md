@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:23:19](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1399);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1399s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who was one of the pastors that purported to be close to Charlie (Charlie Kirk). ... He wasn't. Actually, Charlie (Charlie Kirk) couldn't stand him toward the end. So that's another big lie that a turning point should come out and tell the truth about.
 

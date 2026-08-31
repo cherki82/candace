@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:02:59](/episodes/ep-7FS1tUeSfdE.md#t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=179s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then at 9.25 p.m., so a little under an hour later, Sara Sidner, you will recall of CNN, she became the first person on. ... on social media to upload the now infamous I want to go home video of Erika Kirk. ... She posted it onto Instagram. ... That is 9.25 p.m. Eastern time, okay?
 

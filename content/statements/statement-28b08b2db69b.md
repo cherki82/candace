@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:20:54](/episodes/ep-9CuC1yf8-PU.md#t-00-20-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1254);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is remarkable. That is remarkable. Directly to his heart to now on the left side of his neck. But she wasn't done.
 

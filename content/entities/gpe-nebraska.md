@@ -36,7 +36,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 15 mentions" title="2025-10-31 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-nebraska-t-00-16-57" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-28" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-17-39" style="--pulse-height:20%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-04-42" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27) | 15 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-nebraska-t-00-16-57) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-28) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47) | 5 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-17-39) | 3 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-04-42) | 1 |
@@ -189,10 +189,10 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
 
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53)**
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-28)**
 > ".... This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay? They do this long stay, and..."
 
-**[00:16:56](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53)**
+**[00:16:56](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-28)**
 > "...longest stay actually that they have in Wilmington, okay? They do this long stay, and that's not in Nebraska. That long stay that I'm referring to is happening in Wilmington. They stay in Wilmington for six d..."
 
 **[00:20:29](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-20-22)**

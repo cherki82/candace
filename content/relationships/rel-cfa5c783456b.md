@@ -11,7 +11,11 @@ object: "org-fox-news"
 
 ## [Tucker Carlson](/entities/person-tucker-carlson) fired by [Fox News](/entities/org-fox-news)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:06:29](/episodes/ep-K1tFD7FfoCU#t-00-06-29): _That's also why they fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed._
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:01:41](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Never stop asking questions. It's what keeps you free. That was something that Charlie Kirk expressed often to his great many followers. The organization that he built was actually built upon that philosophy, and it has since done a complete and mysterious 180. They don't want us asking any questions specifically about Charlie Kirk's assassination.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:08:43](/episodes/ep-1mYNOqzAdXs.md#t-00-08-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(523);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=523s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At 1.27 p.m., Erika (Erika Kirk) departed West Palm Beach for the Georgia event. At 2.40, Erika (Erika Kirk) landed into Athens, Georgia. ... Erika (Erika Kirk) did not leave Athens until 639 p.m. She departed Athens and she headed back for Scottsdale.
 

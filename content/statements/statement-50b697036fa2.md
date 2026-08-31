@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:30:50](/episodes/ep-SgVcnx4Oh30.md#t-00-30-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1850);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1850s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A strong alibi would be if it was true, it would make it, like I said, impossible. And that's the fact that Andrew (Andrew Kolvet) hosted the first hour of the Charlie Kirk live show on September 10th. All right.
 

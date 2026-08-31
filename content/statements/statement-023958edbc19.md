@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:43:32](/episodes/ep-puuMVxEu5NU.md#t-00-43-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2612);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=2612s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Based on everything that I've seen, if I had to put together a story, I would say that's another decoy person who was told to get onto the rooftop, timed it perfectly, coordinated, this is when we're all going to do this, who knows hand signs, who knows what they're doing, and crouches down, people are recording that. ... Then they hear the sound of a shot, obviously, or sound of a just a boom, as I speak, in case it is the mic and all that's meant to be a distraction. ... And they were tasked with just crouching low and then running. I actually tend to agree with you on that. If we're allowed to think and investigate everything that I've pulled together, I do not believe that anybody described to me a person recoiling the conversations that I've had with the individual who you just heard from.
 

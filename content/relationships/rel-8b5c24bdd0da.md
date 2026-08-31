@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Mia Grant](/entities/person-mia-grant) cousin of [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:02:33](/episodes/ep-es7PWdFGoFI#t-00-02-33): _He was in a conference. And then I brought my cousin Mia (Mia Grant), you know, the one that has a really bad attitude._
 
 **[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
 

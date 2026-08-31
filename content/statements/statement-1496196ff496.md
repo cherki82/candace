@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:24:55](/episodes/ep-IqHsl7d2dos.md#t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1495);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1495s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We create a pretend world. We are a global production company. We write the screenplay. We're the directors, we're the producers, we're the main actors. ... The world is our state.
 

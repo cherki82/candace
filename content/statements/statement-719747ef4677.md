@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:32:45](/episodes/ep-ti5Fxrvegno.md#t-00-32-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1965);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1965s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when we dig up the relic of what that, what she was doing in corporate real estate, all we can find on Wayback Machine is that she had one listing.
 

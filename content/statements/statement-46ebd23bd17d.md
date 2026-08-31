@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:04:00](/episodes/ep-ds6umq1rHAw.md#t-00-03-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(240);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=240s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They loved to use bombs in Jerusalem in 1946. To be clear, the hotel at that time was operating as as the British military headquarters in Jerusalem. ... They just bombed it, killing 91 people in one go in 1946. And yes, that gang came to America and manifested here.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2321);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=2321s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They tell us at nine o'clock that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Brooksby. ... At 1026, the search warrants. For instance, Tyler Robinson arrived at Washington County Sheriff's Office with his parents.
 

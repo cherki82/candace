@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:42:01](/episodes/ep-9CuC1yf8-PU.md#t-00-42-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2521);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2521s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that is what I think so deeply disturbed me when I remembered that conversation that I had with Tucker (Tucker Carlson) and Megyn (Megyn Kelly), that Erika (Erika Kirk) was radically anti-Israel, that she hated the pastors around Charlie (Charlie Kirk). She was pushing Charlie (Charlie Kirk) in this direction. She has now completely dissociated from that previous person. She's now radically pro-Israel.
 

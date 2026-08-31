@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:03:43](/episodes/ep-k1b1NDCrNFs.md#t-00-03-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(223);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=223s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He never even served in the military. He had never been there. You recall this, right? Both of those things were eventually proven beyond a shadow of a doubt. Yes, he did serve. And yes, in fact, as I instantly said back to Ian (Ian Carroll), he definitively was at Fort Huachuca. I have his.
 

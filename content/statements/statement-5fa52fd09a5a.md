@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:34:30](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2070);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=2070s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At what would be 4.25 p.m. Utah time that Andrew jumps in and says, my internet just came back on.
 

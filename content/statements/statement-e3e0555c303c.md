@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:11:28](/episodes/ep-_cNtgris8Ik.md#t-00-11-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(688);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=688s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I was told, and I will say allegedly here, but actually Terrell was told to do the exact opposite. ... He ignored instructions like, hey, you should not disturb the crime scene. But he may have done so anyway out of nerves.
 

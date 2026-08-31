@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:17:19](/episodes/ep-ZzAT2xijKGQ.md#t-00-17-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jean-Luc Brunel in Paris, his agency MC2 modeling, Jean-Luc Brunel kills himself. The media doesn't want to mention the fact that they also had offices in Tel Aviv. uh Jean-Luc Brunel did
 

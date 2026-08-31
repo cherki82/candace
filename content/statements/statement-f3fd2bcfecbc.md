@@ -1,8 +1,8 @@
 ---
-title: "Surveillance footage of Tyler Robinson turning himself in to..."
-description: "\"Surveillance footage of Tyler Robinson turning himself in to Washington County Sheriff's office is missing after the 30-day retention period\" — Candace Owens"
+title: "Washington County Sheriff's Office stated that surveillance ..."
+description: "\"Washington County Sheriff's Office stated that surveillance footage responsive to a request concerning Tyler Robinson was no longer available after it...\" — Washington County Sheriff's Office"
 statement_id: "statement-f3fd2bcfecbc"
-speaker: "Candace Owens"
+speaker: "Washington County Sheriff's Office"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,14 +11,15 @@ veracity: "true"
 
 ## Statement
 
-> Surveillance footage of Tyler Robinson turning himself in to Washington County Sheriff's office is missing after the 30-day retention period
+> Washington County Sheriff's Office stated that surveillance footage responsive to a request concerning Tyler Robinson was no longer available after its 30-day retention period
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** public-records response quoted in KUER report
 
 ## About
 
@@ -27,10 +28,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:42:42](/episodes/ep-sImMM04XdWY.md#t-00-42-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2562);return false;">Play</a>
+**Timestamp:** [00:41:20](/episodes/ep-sImMM04XdWY.md#t-00-41-20) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=2480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> We just can't get one verifiable piece of evidence that Tyler Robinson even exists
+> The response: "Our office does not have any applicable records responsive to this request, as the surveillance footage is no longer available after the 30-day retention period."
 
 ## Verification
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:00:11](/episodes/ep-VMNWMXX1vO8.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(11);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=11s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I would like to formally announce at the top of the show that you guys were correct. I am with child. I'm expecting another child.
 

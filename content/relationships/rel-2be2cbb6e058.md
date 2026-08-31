@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (20 mentions)
+### Evidence (24 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -33,9 +33,17 @@ object: "person-candace-owens"
 
 - [00:41:58](/episodes/ep-BKcOm32ZEGk#t-00-41-58): _It's just been going on for two years... Like I just am not allowed to be fired from that company._
 
+**[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
+
+- [00:25:24](/episodes/ep-Cq7nj9rxPdo#t-00-25-24): _I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis._
+
 **[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
 
 - [00:11:19](/episodes/ep-G3zdOeHpvS0#t-00-11-19): _the external Zionist peer pressure since me leaving the Daily Wire._
+
+**[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
+
+- [00:52:03](/episodes/ep-MUA9ebCF4Ow#t-00-52-03): _I've been a fan of your show since you were on the Daily Wire._
 
 **[You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI)**
 
@@ -48,6 +56,10 @@ object: "person-candace-owens"
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [00:38:56](/episodes/ep-QdM9jLwjwLw#t-00-38-56): _When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?_
+
+**[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
+
+- [00:40:22](/episodes/ep-Qt0VHV-POCg#t-00-40-22): _And Norm Finkelstein—whose parents survived; one of his parents survived Auschwitz—was the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire._
 
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
@@ -84,6 +96,10 @@ object: "person-candace-owens"
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 
 - [00:02:29](/episodes/ep-uC_GjKU8rs8#t-00-02-29): _My real stalker in life is Ben Shapiro, okay? Since the day that I was fired from the Daily Wire, he has not stopped trying to bankrupt my family._
+
+**[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
+
+- [00:01:57](/episodes/ep-vwG1juDCQZQ#t-00-01-57): _following her 2024 departure from the Daily Wire._
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:12:57](/episodes/ep-c5BcKF91iec.md#t-00-12-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(777);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=777s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The only logical conclusion that I can come up with—and many others, because I've pressed—I said, "Play devil's advocate. I want you to advocate for Mikey McCoy. I want you to play lawyer, and you are representing your client, Mikey McCoy. What was he doing? How did he do it this quickly? No one could do this. The only logical conclusion we come up with was that Mikey was already on a phone call at 12:23 p.m.
 

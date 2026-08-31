@@ -1,15 +1,15 @@
 ---
-title: "Kenzie Kinney formerly worked for Potter's Fields Ministries"
-description: "Evidence for the relationship: Kenzie Kinney formerly worked for Potter's Fields Ministries"
+title: "Kenzie Kinney formerly worked for Potter's Field Ministries"
+description: "Evidence for the relationship: Kenzie Kinney formerly worked for Potter's Field Ministries"
 relationship_id: "rel-962a2d174adc"
 subject: "person-kenzie-kinney"
 predicate: "formerly worked for"
-object: "org-potters-fields-ministries"
+object: "org-potters-field-ministries"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Kenzie Kinney](/entities/person-kenzie-kinney) formerly worked for [Potter's Fields Ministries](/entities/org-potters-fields-ministries)
+## [Kenzie Kinney](/entities/person-kenzie-kinney) formerly worked for [Potter's Field Ministries](/entities/org-potters-field-ministries)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-potters-fields-ministries"
 ### Related
 
 - [Kenzie Kinney](/entities/person-kenzie-kinney)
-- [Potter's Fields Ministries](/entities/org-potters-fields-ministries)
+- [Potter's Field Ministries](/entities/org-potters-field-ministries)

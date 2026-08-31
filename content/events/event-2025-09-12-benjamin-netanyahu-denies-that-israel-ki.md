@@ -6,6 +6,11 @@ date: "2025-09-12"
 ---
 
 **Date:** 2025-09-12
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 12th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-12"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:38:16](/episodes/ep-eMtjzXkQrsU.md#t-00-38-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2296);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2296s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On September 12th, Bibi declares that Israel did not kill Charlie Kirk.

@@ -1,16 +1,17 @@
 ---
-title: "More than one person was involved in JFK's assassination"
-description: "\"More than one person was involved in JFK's assassination\" — Charlie Kirk"
+title: "Charlie Kirk said more than one person was involved in JFK's..."
+description: "\"Charlie Kirk said more than one person was involved in JFK's assassination.\" — Charlie Kirk"
 statement_id: "statement-190b120d1900"
 speaker: "Charlie Kirk"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
-> More than one person was involved in JFK's assassination
+> Charlie Kirk said more than one person was involved in JFK's assassination.
 
 ## Attribution
 
@@ -28,13 +29,27 @@ type: "factual_claim"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:02:40](/episodes/ep-Kmt6HgRjckU.md#t-00-02-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(160);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=160s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have to first acknowledge it, that more than one person did it.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Kirk's assertion conflicts with the Warren Commission's finding that no one assisted Oswald, but it resembles the later House committee's conclusion that Kennedy was probably assassinated as the result of a conspiracy. The House conclusion depended heavily on disputed acoustical evidence and did not identify a second participant. Because major official investigations reached different conclusions, the claim that more than one person was involved is mixed rather than conclusively true or false.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Warren Commission Report, Chapter 6: Investigation of Possible Conspiracy](https://www.archives.gov/research/jfk/warren-commission-report/chapter-6.html)
+- [House Select Committee on Assassinations Findings on Conspiracy](https://www.archives.gov/research/jfk/select-committee-report/part-1c.html)
+
+*Verified: 2026-08-30T05:44:29.607976*
 
 ---
 

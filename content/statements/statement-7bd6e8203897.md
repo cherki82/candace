@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:09:56](/episodes/ep-k8ueJdPFel4.md#t-00-09-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(596);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=596s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote, the Talmud is not biblical, but it is their rabbinical interpretations of Judaism. And then I wrote, I did a deep dive one week, and he wrote, thought crime, and I said, yep, this is the real Charlie Kirk, but they are now trying to package to us as, like, a faithful
 

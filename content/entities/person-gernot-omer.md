@@ -3,9 +3,18 @@ title: "Gernot Omer"
 description: "Gernot Omer (People) - 1 mention"
 id: "person-gernot-omer"
 type: "PERSON"
+categories:
+  - "software engineering"
+  - "Austria and Utah context"
 ---
 
 _Type: People_
+
+**Categories:** software engineering, Austria and Utah context
+
+**Entity verification:** verified
+> The official source episode explicitly introduces the canonical display name Gernot Omer at 10:16 and ties the visible person to a BearingPoint clip. Exact-name web searches found no authoritative independent profile, so this verifies only the source-used display name; it does not independently validate the reported employment, relocation, or photo-match claims.
+Source: [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](https://www.youtube.com/watch?v=YA1FxrDWNIo&t=616s)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-gernot-omer-t-00-10-16">2025-09-30 · 00:10:16</a></strong></div>
@@ -52,6 +61,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[BearingPoint](/entities/org-bearingpoint.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams. ... Very recently, he moved to Utah—according to his LinkedIn, which I hope doesn't get wiped. ... In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Lives In (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
@@ -65,14 +86,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Works For (2)</summary>
-
-- **[BearingPoint](/entities/org-bearingpoint.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams.”
-
-</details>
+<summary>Works For (1)</summary>
 
 - **[JPMorgan Chase](/entities/org-jpmorgan-chase.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -88,18 +102,18 @@ _Type: People_
 <details>
 <summary>Referenced By (3)</summary>
 
-- **[BearingPoint](/entities/org-bearingpoint.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams.”
-
-</details>
-
 - **[JPMorgan Chase](/entities/org-jpmorgan-chase.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29): “to become a software engineer for JPMorgan Chase.”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “he moved to Utah to become a software engineer for JPMorgan Chase.”
+
+</details>
+
+- **[BearingPoint](/entities/org-bearingpoint.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams. ... Very recently, he moved to Utah—according to his LinkedIn, which I hope doesn't get wiped. ... In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase.”
 
 </details>
 

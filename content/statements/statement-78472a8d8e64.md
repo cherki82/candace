@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:29:42](/episodes/ep-mFuno0TuuQQ.md#t-00-29-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1782);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1782s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, I wanted to also play for you guys, we had been wondering what had been going on behind the scenes at Turning Point USA, ... I think in the end there when she said. ... says that this was actually motivated by them going after people who they suspected were not loyal to Eric or people that didn't seem to fully buy what happened on September 10th, which by the way is everyone.
 

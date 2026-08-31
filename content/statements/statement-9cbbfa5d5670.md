@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:43:41](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2621);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2621s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So remember, there's only two videos of the quote unquote shooter on the roof, one which was shot from the side where you see somebody crouch down holding a gun
 

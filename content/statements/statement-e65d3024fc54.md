@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2658);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, this is the kid who sat across from me and said that people that are sub-Saharan just don't have a high IQ.
 

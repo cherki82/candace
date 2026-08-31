@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:01:46](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(106);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=106s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He is one of the people that helped to get Charlie (Charlie Kirk) to the vehicle
 

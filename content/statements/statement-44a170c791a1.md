@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:26:33](/episodes/ep-AoYZel7_cGQ.md#t-00-26-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1593);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=1593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So when I put that together, I am led to believe that it was indeed a mock burial done as a favor by a friend. Again, not illegal. I am led to believe that he was either before or after cremated. And the ceremony was for family and friends, you know, to have a funeral, but ultimately Charlie (Charlie Kirk) was not lowered into the ground on that day.
 

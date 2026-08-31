@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:03:23](/episodes/ep-ti5Fxrvegno.md#t-00-02-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(203);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because what Tracy (Tracy Martin) cannot deny is that her daughter is indeed Erika (Erika Kirk)'s assistant. I have confirmed that.
 

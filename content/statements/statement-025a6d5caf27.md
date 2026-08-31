@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:03:29](/episodes/ep-ozWJz2spBcI.md#t-00-02-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(209);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=209s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have at this moment no definitive understanding of what happened on the day that he was assassinated
 

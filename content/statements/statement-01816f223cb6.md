@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:03:53](/episodes/ep-7FS1tUeSfdE.md#t-00-03-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(233);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=233s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At approximately 9.49 p.m., so less than 20 minutes later after that video went out, the White House military office sent out an updated communication. ... Oddly, within that communication, they describe an amendment to the Erika Kirk video clip, the traction of which they were monitoring.
 

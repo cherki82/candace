@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:16:24](/episodes/ep-CEF7gQRWYCE.md#t-00-16-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(984);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=984s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > poorly redacted. Check this out. I give you permission to kill him. He is apparently with Olga. He lied to you. He lied to me. me and you can kind of make out the name here to be one Susan Hamblin
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:22:52](/episodes/ep-HGtMfbePDKk.md#t-00-22-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1372);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1372s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I asked Turning Point USA for an interview to find out what they were dealing with and what they saw as the path forward. ... They declined to go on the record, but they invited me to their Phoenix headquarters where I sat down with Erika and other leadership. ... They spent hours with me, they answered all my questions.
 

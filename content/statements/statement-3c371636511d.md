@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:16:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(970);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then we've got it departs on June 2nd, and it is not transponding, okay?
 

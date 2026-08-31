@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [01:06:38](/episodes/ep-2T39-oADLj0.md#t-01-06-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3998);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3998s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > yeah i think lance twigs is much more involved i don't think he took the shot either but i think he's more involved i think that tyler robinson's
 

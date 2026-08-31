@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:28:50](/episodes/ep-jTj9Ip46r4w.md#t-00-28-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1730);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Something else that you should know about this conspiracy—actually, rather, something that's definitely not a conspiracy; you just need to research things outside of Hollywood movies—you know that Italian mafia? It was actually Jewish, maybe Khazarian Jewish.
 

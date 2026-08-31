@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:10:03](/episodes/ep-sreYYcID-QY.md#t-00-09-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(603);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=603s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My suspicion—I maintain—is that there are multiple people that are involved
 

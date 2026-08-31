@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:34:44](/episodes/ep-iB-YtO3UZOg.md#t-00-34-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2084);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2084s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We'll stop there. But yeah, you get the point. And I do believe that there is so much evidence there that that's what happened, that he got hit by a shaped charge. And I think that there was no gun on the rooftop.
 

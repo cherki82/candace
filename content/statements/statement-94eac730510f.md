@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1011);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1011s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Last thing I'll say is this. At Turning Point Action, we have a ton of jobs posting in Arizona, Nevada, and New Hampshire.
 

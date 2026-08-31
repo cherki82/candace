@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2241);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2241s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he went to his friend billionaire Peter Thiel and asked for five million dollars and they wrote it as like a bridge loan or whatever
 

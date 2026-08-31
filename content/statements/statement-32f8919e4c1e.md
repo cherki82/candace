@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:24:36](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1476);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so she's trying to buy a congressional seat in Kentucky, along with the rest of these groups that are probably, by the way, getting her money as well.
 

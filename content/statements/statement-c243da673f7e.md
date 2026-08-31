@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:52:27](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3147);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=3147s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > not a shred of evidence have they produced to tie this to Tyler Robinson. Nothing.
 
@@ -38,7 +38,7 @@ veracity: "false"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:58:44](/episodes/ep-1hcjQGgvxUY.md#t-00-58-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3524);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=3524s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They have got their guy. It is Tyler Robinson with not a shred of evidence.
 

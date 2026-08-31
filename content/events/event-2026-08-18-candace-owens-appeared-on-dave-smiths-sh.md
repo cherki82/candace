@@ -6,6 +6,11 @@ date: "2026-08-18"
 ---
 
 **Date:** 2026-08-18
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-08-18"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:49:04](/episodes/ep-9hRcfSrri70.md#event-event-2026-08-18-candace-owens-appeared-on-dave-smiths-sh-t-00-49-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2944);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=2944s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i even did um dave's show yesterday dave smith's show and a lot of people keep saying this

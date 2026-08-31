@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:32:54](/episodes/ep-gG4ZoYUjUc8.md#t-00-32-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1974);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1974s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so another person set up this kind of fake Zoom. This employee is part time. It kind of set up this fake Zoom meeting. And so she's at home. She's logged in this meeting and her phone's ringing. I'm going to say allegedly, but this is what happened. Allegedly. her phone's ringing nonstop nonstop she doesn't recognize the number she doesn't know what's happening she's still on this call eventually she picks up and it's the general counsel and he's like hey i'm outside you're fired and come to the door and let me in to get your work computer and let me tell you something right now if you try to delete anything just so you know we've installed something and we'll we'll know that you did it
 

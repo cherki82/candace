@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:23:48](/episodes/ep-1IY2oD-_xVA.md#t-00-23-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1428);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1428s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jerri Frantzve. Well, not what she doesn't communicate in this report is that that's her family. Marjorie Wayland is her mom.
 

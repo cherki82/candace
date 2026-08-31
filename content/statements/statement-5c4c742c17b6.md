@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:07:48](/episodes/ep-tXoI0TTKVrs.md#t-00-07-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(468);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=468s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk), on the other hand, is simply not built for public life, right? That's why she did not want to face an empty crowd with J.D. Vance, and she instead chose to make up a Secret Service proof threat, which required her to fly home.
 

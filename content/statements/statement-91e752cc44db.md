@@ -25,14 +25,14 @@ veracity: "true"
 
 - [Jennifer Faumuina](/entities/person-jennifer-faumuina.md) (person)
 - [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md) (org)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md) (org)
 
 ## Source
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(997);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=997s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time to the FBI as part of the Joint Terrorism Task Force.
 

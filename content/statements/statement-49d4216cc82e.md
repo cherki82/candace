@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:42:37](/episodes/ep-X92MllIHDzw.md#t-00-42-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2557);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2557s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is not satanic pedophilia cult stuff. It is really run-of-the-mill prostitution and sex trafficking, but for an international political purpose. And it's important not to lose sight of that.
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:12:27](/episodes/ep-I0OaY6Gryqk.md#t-00-12-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(747);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=747s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The only country that has ever dropped nukes in the history of the world is us. OK. The same country that's always using this idea of the threat of nukes as an excuse to allow them to invade other countries. ... It's us, just something I noticed. We're the only ones that ever did that actually.
 

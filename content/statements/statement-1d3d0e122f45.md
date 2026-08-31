@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:58:49](/episodes/ep-ChuWo-n49B8.md#t-00-58-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3529);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=3529s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So there's that. I certainly don't think Tyler Robinson killed Charlie Kirk on a rooftop in action alone.
 

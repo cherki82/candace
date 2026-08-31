@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:10:00](/episodes/ep-CEF7gQRWYCE.md#t-00-09-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(600);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=600s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jeffrey Epstein, who worked on behalf of the Rothschilds, according to him. According to him, he wrote that in an email,
 

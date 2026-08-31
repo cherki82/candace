@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:49:24](/episodes/ep-SKNJPul29zU.md#t-00-49-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2964);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2964s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > both answered to Vegas and Tel Aviv, but it's clear to me that he is doing a great job for the people that he actually works for.
 

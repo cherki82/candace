@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:15:58](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(958);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=958s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But actually, the most effed up part about that interview was CBS's decision to bring Hunter Kozak to ask Erika (Erika Kirk) a question.
 

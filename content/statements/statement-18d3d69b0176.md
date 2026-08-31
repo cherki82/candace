@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:25:12](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1512);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1512s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was also involved in the military before that, as you guys know. After he left the military, he went to work for Bank of America Merrill Lynch and then stopped quickly to show Erika around the Black Sea rotational force.
 

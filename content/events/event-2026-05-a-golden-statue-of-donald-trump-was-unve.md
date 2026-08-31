@@ -6,6 +6,11 @@ date: "2026-05"
 ---
 
 **Date:** 2026-05
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “This has been unveiled”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-05"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:42:26](/episodes/ep-Pb7UlpRdW6U.md#event-event-2026-05-a-golden-statue-of-donald-trump-was-unve-t-00-42-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2546);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=2546s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a 22-foot golden statue of President Donald Trump at one of Florida's golf courses.

@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:16:38](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(998);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=998s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That would be, if true, that they used an AI program, which Blake Neff's reaction to me, I've been around, suggests that they did because it's just so much easier. Why would you just release the audio and not the video? ... Turning Point must release the video and disprove the notion that they made this up. Because the notion signifies that there was a plot, a plot to remove Charlie and then to use Charlie GPT to convince the world that it was effectively Charlie's dying wish for his wife to replace him, right?
 

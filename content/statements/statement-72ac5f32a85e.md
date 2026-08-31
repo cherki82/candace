@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:48:18](/episodes/ep-OEAHy3SsIiI.md#t-00-48-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2898);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2898s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > do you have proof of this? He says, but it's worth saying Erika (Erika Kirk) wasn't in some fort in Tucson.
 

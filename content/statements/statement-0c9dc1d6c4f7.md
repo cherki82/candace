@@ -23,8 +23,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:58:15](/episodes/ep-q7f8r-THr84.md#t-00-57-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3495);return false;">Play</a>
+**Timestamp:** [00:58:15](/episodes/ep-q7f8r-THr84.md#t-00-57-31) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3495s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He went on to Patrick Bet-David's podcast. ... He went on to Brandon Tatum's podcast. ... He went on to the Nelk Boys' podcast. ... Anybody find it weird he didn't do Charlie Kirk's show?
 

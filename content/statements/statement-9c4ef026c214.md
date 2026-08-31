@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1887);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1887s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think that's the reason that the Moonies cult was established in Korea during that time and that it is very likely that the entire thing was just a CIA operation and they are attempting that again, the Turning Point Faith.
 

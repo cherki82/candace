@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:10:55](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(655);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=655s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's not a true Christian. He's faced accusations of fraud, of embezzlement. I'm painting a picture for you.
 

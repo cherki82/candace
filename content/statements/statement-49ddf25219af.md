@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2832);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2832s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she was like well was he your source at the hospital and I said no Andrew Kolvet was ... she thought that he was my source at the hospital and it wasn't it was Andrew Kolvet
 

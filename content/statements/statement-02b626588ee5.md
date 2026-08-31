@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:12:34](/episodes/ep-2tFYJf1klgY.md#t-00-12-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(754);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=754s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But the most crucial part of 2005 is what Lori Frantzve is doing. Because people have pointed this out, but there is a relic that shows you that she received money from the government. ... Intellimet Laboratories. ... She's listed in the House bill budget. She's receiving money from the Department of Homeland Security.
 

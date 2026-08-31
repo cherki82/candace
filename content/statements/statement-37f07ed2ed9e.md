@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:14:31](/episodes/ep-1IY2oD-_xVA.md#t-00-14-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(871);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=871s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She gets married to a guy named Carl Pangerl. Carl Pangerl, spelled P-A-N-G-E-R-L, is five or six years her senior.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:31:04](/episodes/ep-G3zdOeHpvS0.md#t-00-30-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1864);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1864s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It went forward. The immediate blood spatter is on Charlie (Charlie Kirk)'s left hand and it is on the microphone and the feds deemed it appropriate to give that to Turning Point USA so that they could put it in a glass encasement and raise money off of it.
 

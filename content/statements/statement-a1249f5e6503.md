@@ -1,16 +1,16 @@
 ---
-title: "Charlie Kirk had 100 million dollars worth of donors and was..."
-description: "\"Charlie Kirk had 100 million dollars worth of donors and was tormented by a small, intense group who were offended by Tucker's speech about Israel unt...\" — Tucker Carlson"
+title: "Tucker Carlson accused a small, intense group of donors offe..."
+description: "\"Tucker Carlson accused a small, intense group of donors offended by his speech of tormenting Charlie Kirk until the day Kirk died.\" — Tucker Carlson"
 statement_id: "statement-a1249f5e6503"
 speaker: "Tucker Carlson"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Charlie Kirk had 100 million dollars worth of donors and was tormented by a small, intense group who were offended by Tucker's speech about Israel until the day he died.
+> Tucker Carlson accused a small, intense group of donors offended by his speech of tormenting Charlie Kirk until the day Kirk died.
 
 ## Attribution
 
@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:45:18](/episodes/ep-2WEHTk0Xewg.md#t-00-44-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2718);return false;">Play</a>
+**Timestamp:** [00:45:18](/episodes/ep-2WEHTk0Xewg.md#t-00-45-10) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But on him. I have no donors. He had $100 million worth of donors. And so, because he was involved in a different project from just yapping on the internet—which is what I do for a living— he was dependent to a great extent on his donors. Of course, it's a nonprofit. And they went after him and tormented him—not all, of course; many were supportive—but the ones who were offended by my speech—and there was a small, very intense group who tormented Charlie (Charlie Kirk) until the day he died. Two days before he died,
 
@@ -37,4 +37,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** No

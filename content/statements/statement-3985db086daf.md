@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:59:06](/episodes/ep-SKNJPul29zU.md#t-00-59-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3546);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=3546s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > AI of Charlie (Charlie Kirk) saying I appoint Erika (Erika Kirk) to be the CEO Erika (Erika Kirk) told me that he said that at an Aspen event I was okay great well the Aspen people who were at the event said that never happened these are the turning point USA donors who have contacted me and said Candace that is AI he did not say that Say
 

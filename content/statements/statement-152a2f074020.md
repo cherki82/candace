@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:03:04](/episodes/ep-HZvwbfePe7o.md#t-00-03-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(184);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's a spokesperson, right? By the way, a fun update on that Daily Mail article wherein direct quotations were used to assert a family friend of Erika (Erika Kirk)'s confirmed, and Erika (Erika Kirk) refers to me as the B word in private.
 

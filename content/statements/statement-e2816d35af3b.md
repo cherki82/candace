@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(995);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=995s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you will recall that Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated and she confirmed to them that the least traumatizing part. ... About Charlie (Charlie Kirk)'s assassination was the prospect of her now having to raise her children alone. ... She wasn't traumatized by that idea because she had seen the example set for her by her mother growing up.
 

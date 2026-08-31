@@ -1,0 +1,27 @@
+---
+title: "2007: Lou Taylor hired to manage Jamie Lynn Spears, begi..."
+description: "2007 - Lou Taylor hired to manage Jamie Lynn Spears, begins involvement with Britney Spears family"
+event_id: "event-2007-lou-taylor-hired-to-manage-jamie-lynn-sp"
+date: "2007"
+---
+
+**Date:** 2007
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2007”
+
+**Normalization note:** Corrected invented first-day precision: transcript states only 2007.
+
+## Event
+
+> Lou Taylor hired to manage Jamie Lynn Spears, begins involvement with Britney Spears family
+
+## Mentioned In
+
+**Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+**Timestamp:** [00:06:14](/episodes/ep-7RLtGgkTh9o.md#event-event-2007-lou-taylor-hired-to-manage-jamie-lynn-sp-t-00-06-14) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=374s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn

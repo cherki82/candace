@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:48:03](/episodes/ep-xi8SYJTUXPM.md#t-00-47-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2883);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2883s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I had wondered because I learned early on that she had moved the body a couple of times.
 

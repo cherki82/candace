@@ -3,9 +3,17 @@ title: "Post Falls"
 description: "Post Falls (Places) - 1 mention"
 id: "gpe-post-falls"
 type: "GPE"
+categories:
+  - "Idaho city"
 ---
 
 _Type: Places_
+
+**Categories:** Idaho city
+
+**Entity verification:** verified
+> The official municipal site confirms Post Falls, Idaho.
+Source: [City of Post Falls](https://www.postfalls.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-post-falls-t-00-20-23">2025-11-13 · 00:20:23</a></strong></div>

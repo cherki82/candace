@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-12-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(747);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=747s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his LinkedIn also informs us that Ahmed (Ahmed Qureshi) co-founded BILT back in 2015 when he was full time as an 05.
 

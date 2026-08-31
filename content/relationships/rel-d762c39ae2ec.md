@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Ben Shapiro](/entities/person-ben-shapiro) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
+
+- [00:42:59](/episodes/ep-6J6lRZPQ4jk#t-00-42-59): _If you were a friend to Charlie and you were committed to truth, then when Ben (Ben Shapiro) lied and said that he never had any issues with Charlie, and I said, that's not true._
 
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 

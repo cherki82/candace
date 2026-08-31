@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:43:13](/episodes/ep-d7VsbEIWkP8.md#t-00-42-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2593);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=2593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Blake Neff has a chart. He wrote this. Americans literally spend less of their income on food than any other country on the planet.
 

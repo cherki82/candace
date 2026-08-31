@@ -1,6 +1,6 @@
 ---
 title: "Shaffer Security Group"
-description: "Shaffer Security Group (Organizations) - 4 mentions"
+description: "Shaffer Security Group (Organizations) - 5 mentions"
 id: "org-shaffer-security-group"
 type: "ORG"
 aliases:
@@ -17,17 +17,17 @@ _Type: Organizations_
 **Categories:** private security, risk management
 
 **Entity verification:** verified
-> Founder Greg Shaffer's official biography confirms the canonical company name Shaffer Security Group.
-Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
+> Official company press page confirms Shaffer Security Group and its Charlie Kirk security coverage; transcript Schaeffer spelling is incorrect.
+Source: [Shaffer Security Group - Press](https://shaffersecuritygroup.com/press/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-shaffer-security-group-t-00-11-05">2026-01-19 · 00:11:26</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#t-00-46-13">2025-12-16 · 00:46:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#t-00-06-56">2026-02-05 · 00:07:16</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,7 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#t-00-49-23">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-es7PWdFGoFI.md#t-00-46-13" style="--pulse-height:50%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-shaffer-security-group-t-00-11-05" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-49-23" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#t-00-06-56" style="--pulse-height:50%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
@@ -43,6 +44,7 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#t-00-46-13) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-shaffer-security-group-t-00-11-05) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-49-23) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56) | 1 |
@@ -53,7 +55,7 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
@@ -82,10 +84,37 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 
 </details>
 
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13)**
+> "he had Schaeffer security"
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Formerly Employed (2)</summary>
+
+- **[Dan Flood](/entities/person-dan-flood.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
+
+</details>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Hired By (1)</summary>
@@ -100,7 +129,7 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 </details>
 
 <details>
-<summary>Operated By (1)</summary>
+<summary>Operated By (2)</summary>
 
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -109,10 +138,31 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 
 </details>
 
+- **[Gregory Shaffer](/entities/person-gregory-shaffer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Dan Flood](/entities/person-dan-flood.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
+
+</details>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
+
+</details>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -125,6 +175,13 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:11:26](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05): “Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer.”
+
+</details>
+
+- **[Gregory Shaffer](/entities/person-gregory-shaffer.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement.”
 
 </details>
 

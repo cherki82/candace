@@ -20,17 +20,13 @@ type: "opinion"
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** Breitbart show
 
-## About
-
-- [Candace Owens](/entities/person-candace-owens.md) (person)
-
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:46:55](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2815);return false;">Play</a>
+**Timestamp:** [00:46:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-49) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=2809s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> they get really—they almost get—they get a high off of like the idea of like that they're doing something that's daring or out there.
+> It's sort of addictive in the same way a lot of social media stuff is addictive or in the way like—honestly—something like pornography is addictive or something like they get really—they almost get—they get a high off of like the idea of like that they're doing something that's daring or out there."
 
 ## Verification
 

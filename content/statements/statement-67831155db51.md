@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:10:59](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(659);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=659s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The camera is a wide angle camera and was always used as such. However... In the footage that Terrell (Terrell Farnsworth) has selectively shared with Candace (Candace Owens), you cannot see the ground.
 

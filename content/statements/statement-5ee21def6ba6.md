@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:05:12](/episodes/ep-DEtFh2Ff-58.md#t-00-04-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(312);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet was aboard this flight. I feel very confident stating that if he comes out and says he wasn't. ... I'll adjust, right? But looking at all the facts, let's think about it. The flight takes off five minutes after Charlie is shot, okay?
 

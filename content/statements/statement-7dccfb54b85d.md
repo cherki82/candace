@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:16:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(980);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=980s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Larry (Larry Guinta) and Lori (Lori Frantzve) and the other two decided that for this business they would issue the public notice in the Arizona Chinese News, okay? Here is proof, which they filed with the state of their public notice. They got it notarized by Arizona Chinese American Publication saying, hey, we did it, we ticked off that box. So by filing about what our business was going to be, it's done. Cool. This is in December 2017. You can see the state received it on December 6th. They signed this on December 1st. OK, now the Arizona Chinese newspaper,
 

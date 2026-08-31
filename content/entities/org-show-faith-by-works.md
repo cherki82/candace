@@ -1,6 +1,6 @@
 ---
 title: "Show Faith by Works, LLC"
-description: "Show Faith by Works, LLC (Organizations) - 13 mentions"
+description: "Show Faith by Works, LLC (Organizations) - 14 mentions"
 id: "org-show-faith-by-works"
 type: "ORG"
 aliases:
@@ -23,13 +23,13 @@ _Type: Organizations_
 Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)](https://efile.fara.gov/ords/fara/f?p=API:REGISTRANTDOCS-F_HTML:::::F_HTML_REG_NUM,F_HTML_CC,F_HTML_DOC_TYPE:7653,,)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-show-faith-by-works-t-00-36-07">2026-05-04 · 00:36:07</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-show-faith-by-works-t-00-47-15">2025-11-19 · 00:47:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16">2026-05-27 · 00:35:16</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-show-faith-by-works-t-00-36-07">Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-show-faith-by-works-t-00-47-15" style="--pulse-height:17%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-show-faith-by-works-t-00-36-07" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 6 mentions" title="2026-05-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-show-faith-by-works-t-00-13-48" style="--pulse-height:83%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 5 mentions" title="2026-05-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-show-faith-by-works-t-00-01-56" style="--pulse-height:17%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
@@ -46,6 +47,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-show-faith-by-works-t-00-47-15) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-show-faith-by-works-t-00-36-07) | 6 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-show-faith-by-works-t-00-13-48) | 5 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-show-faith-by-works-t-00-01-56) | 1 |
@@ -57,7 +59,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -118,6 +120,14 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 
 </details>
 
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+
+**[00:47:15](/episodes/ep-SKGUzGHymcI.md#ent-org-show-faith-by-works-t-00-47-15)**
+> "...C in San Diego by the name of Show Faith by Works."
+
+</details>
+
 </details>
 
 <details open>
@@ -127,9 +137,22 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 <summary>Based In (1)</summary>
 
 - **[San Diego, California](/entities/gpe-san-diego.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:37:42](/episodes/ep-uC_GjKU8rs8.md#t-00-37-13): “A newly formed company with a San Diego address, Show Faith by Works, is run by Chad Schnitzger, a prominent Christian conservative activist in California.”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:47:15](/episodes/ep-SKGUzGHymcI.md#t-00-47-15): “Top comment from last episode. Is from Yearning for the Truth from yesterday's episode. This person writes, There is a current propaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC in San Diego by the name of Show Faith by Works.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Funded By (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:47:15](/episodes/ep-SKGUzGHymcI.md#t-00-47-15): “Top comment from last episode. Is from Yearning for the Truth from yesterday's episode. This person writes, There is a current propaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC in San Diego by the name of Show Faith by Works.”
 
 </details>
 
@@ -187,13 +210,20 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:36:26](/episodes/ep-uC_GjKU8rs8.md#t-00-36-07): “The principle of the company, to be clear, is Israel's Ministry of Foreign Affairs. Their stated purpose is to target Christians in the United States with anti-Palestinian and pro-Israel messaging.”
 - [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:02:11](/episodes/ep-FFQ9675oqRI.md#t-00-01-56): “Show Faith by Works LLC, that's that FARA-registered propaganda arm of the Israeli Foreign Ministry.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:47:15](/episodes/ep-SKGUzGHymcI.md#t-00-47-15): “Top comment from last episode. Is from Yearning for the Truth from yesterday's episode. This person writes, There is a current propaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC in San Diego by the name of Show Faith by Works.”
 
 </details>
 
@@ -206,9 +236,10 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 </details>
 
 - **[San Diego, California](/entities/gpe-san-diego.md)** location of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:37:42](/episodes/ep-uC_GjKU8rs8.md#t-00-37-13): “A newly formed company with a San Diego address, Show Faith by Works, is run by Chad Schnitzger, a prominent Christian conservative activist in California.”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:47:15](/episodes/ep-SKGUzGHymcI.md#t-00-47-15): “Top comment from last episode. Is from Yearning for the Truth from yesterday's episode. This person writes, There is a current propaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC in San Diego by the name of Show Faith by Works.”
 
 </details>
 
@@ -261,7 +292,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
   - Also about: [Dhillon Law Group](/entities/org-dhillon-law-group.md), [Foreign Agents Registration Act](/entities/law-fara.md)
 
 - [00:41:16](/episodes/ep-uC_GjKU8rs8.md#t-00-41-16) (Citation) **Candace Owens**: ["The FARA documents specifically list geofencing and targeting in Tucso..."](/statements/statement-0844694d3bfd.md)
-  - Also about: [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+  - Also about: [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Phoenix](/entities/gpe-phoenix.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

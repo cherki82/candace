@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:36:10](/episodes/ep-4YgrOhhy708.md#t-00-36-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > put my face on a movie poster for I Know What You Did Last Summer suggesting that I had a role in his murder, ... like I played a role in his murder. ... That's why someone tried to kill me and my family and got arrested in Texas.
 

@@ -6,6 +6,11 @@ date: "2019"
 ---
 
 **Date:** 2019
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:19:36](/episodes/ep-CMcktj3Egfo.md#event-event-2019-erika-kirk-appeared-on-the-television-pr-t-00-19-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1176);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=1176s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough

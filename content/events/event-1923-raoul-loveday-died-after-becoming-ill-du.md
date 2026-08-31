@@ -6,6 +6,11 @@ date: "1923"
 ---
 
 **Date:** 1923
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1923”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1923"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:02:54](/episodes/ep-1IY2oD-_xVA.md#event-event-1923-raoul-loveday-died-after-becoming-ill-du-t-00-02-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(174);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=174s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But probably the one story that ranks supreme is something that happened in 1923 in Sicily.

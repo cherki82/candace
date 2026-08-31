@@ -208,7 +208,7 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 
 </details>
 
-- **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)**
+- **[FBI](/entities/org-fbi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37): “I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time to the FBI as part of the Joint Terrorism Task Force.”
@@ -257,7 +257,7 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 
 </details>
 
-- **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)** employs this
+- **[FBI](/entities/org-fbi.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37): “I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time to the FBI as part of the Joint Terrorism Task Force.”
@@ -289,7 +289,7 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) [✓] (Claim) ["Jennifer Faumuina said she had been with the State Bureau of Investigation for e..."](/statements/statement-91e752cc44db.md)
-  - About: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - About: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [FBI](/entities/org-fbi.md)
 
 </details>
 
@@ -336,7 +336,7 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
   - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
-  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [FBI](/entities/org-fbi.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)
 
 - [00:17:23](/episodes/ep-N4uM8Jdr410.md#t-00-16-59) (Citation) **Candace Owens**: ["Candace Owens said records showed Jennifer Faumuina playing basketball..."](/statements/statement-ad68f2bea48c.md)
   - Also about: [Hawaii](/entities/gpe-hawaii.md), [Ogden, Utah](/entities/gpe-ogden-utah.md), [Weber State University](/entities/org-weber-state-university.md)

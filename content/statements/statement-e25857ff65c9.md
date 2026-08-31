@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:11:42](/episodes/ep-EtLHqDbxqks.md#t-00-11-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(702);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=702s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I also expressed to you that Tyler Robinson was not political. Crucial. and that it came from a family of Trumpers.
 

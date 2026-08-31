@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:37:15](/episodes/ep-Ux1kzgQxkws.md#t-00-37-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2235);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2235s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > um you know the chinese billionaire that's now in prison and you know that there's like a chinese spy or whatever you know where he got arrested on his boat and all that crap is it i mean there is a go listen to it go listen to the recorded conversation in which they say like the laptop like we got them we like you know so we put all we collected all the salacious pictures and we put them out there
 

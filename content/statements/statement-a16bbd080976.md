@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:21:01](/episodes/ep-7ERqbYElOfs.md#t-00-21-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1261);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1261s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, it's just super interesting because Justin (Justin Streiff) told me he arranged all the planes that day. So I don't know how Mikey (Michael McCoy) arranged what Justin (Justin Streiff) arranged or who's telling the truth doesn't even matter anymore.
 

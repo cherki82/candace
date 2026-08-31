@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:16:38](/episodes/ep-ds6umq1rHAw.md#t-00-16-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(998);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=998s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was aboard a jet, actually, a jet that was owned by a man named Robert Graff, G-R-A-F. ... He was the founder of Robert Graff, Inc., which became Duncan Aviation. His business partner was Donald Duncan.
 

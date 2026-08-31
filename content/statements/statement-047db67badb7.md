@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:15:22](/episodes/ep-H9p2ZGHAs9A.md#t-00-15-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(922);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=922s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They are active for two years, so we can discern that it was issued on October 24th of 2018.
 

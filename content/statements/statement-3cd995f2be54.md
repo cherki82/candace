@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:40:29](/episodes/ep-19vHhjF7-NA.md#t-00-40-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2429);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2429s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's why they have deep hatred for Russia because Russia put an end to the Khazarian Empire. So my conspiracy theory to jump onto yours is that they're doing all of this and then they're going to take Russia. Like Russia is they've got beef with actually it was two countries that took out the Khazarian Empire. It was Russia and Persia.
 

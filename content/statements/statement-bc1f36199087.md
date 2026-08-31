@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:10:34](/episodes/ep-c5BcKF91iec.md#t-00-09-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(634);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=634s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is how long it takes for Mikey McCoy to put the phone to his ear
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:10:49](/episodes/ep-c5BcKF91iec.md#t-00-10-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(649);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=649s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We decided to slow this clip down, and we're gonna watch this clip slowed down so you can see that it is exactly 834 milliseconds from the time that you hear the shot. That is how long it takes for Mikey McCoy to put the phone to his ear.
 

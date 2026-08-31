@@ -16,6 +16,8 @@ _Type: Anonymous Sources_
 
 **Categories:** show producer, identity unverified
 
+> **Possibly overlapping entity records:** [Schuyler Pryor](/entities/person-schuyler-pryor). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > The source identifies Skylar only by first name and role; no surname is supplied, so the record preserves an explicit identity caveat.
 Source: [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)

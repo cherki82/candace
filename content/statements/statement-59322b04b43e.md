@@ -25,7 +25,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:10:12](/episodes/ep-czVBmqZP6Ss.md#t-00-09-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(612);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=612s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm saying you're severely misrepresenting the contents that in May, Charlie was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs, free speech here in America
 
@@ -33,7 +33,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:10:27](/episodes/ep-czVBmqZP6Ss.md#t-00-09-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(627);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=627s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm saying you're severely misrepresenting the contents that in May, Charlie was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs, free speech here in America
 

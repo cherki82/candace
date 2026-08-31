@@ -1,6 +1,6 @@
 ---
 title: "Mark from Candace's production team (surname unidentified)"
-description: "Mark from Candace's production team (surname unidentified) (Anonymous Sources) - 2 mentions"
+description: "Mark from Candace's production team (surname unidentified) (Anonymous Sources) - 5 mentions"
 id: "anon-src-bkcom32zegk-mark-production-team"
 type: "ANONYMOUS_SOURCE"
 categories:
@@ -16,18 +16,49 @@ _Type: Anonymous Sources_
 > Transcript and cleanup context support the first name Mark and production-team role but not a canonical surname; represented as a caveated anonymous source.
 
 <div class="entity-summary-grid">
-<div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#t-00-31-07">2025-10-31 · 00:31:07</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#t-00-41-45">2025-10-31 · 00:42:21</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#t-00-38-56">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-38-56" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-38-56) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (3 mentions)</summary>
+
+**[00:39:20](/episodes/ep-YFmRH8p5lt0.md#t-00-38-56)**
+> "Is that what you were saying, Mark?"
+
+**[00:31:07](/episodes/ep-YFmRH8p5lt0.md#t-00-31-07)**
+> "Mark has made a note"
+
+**[00:42:21](/episodes/ep-YFmRH8p5lt0.md#t-00-41-45)**
+> "bring that up, Mark"
+
+</details>
 
 </details>
 

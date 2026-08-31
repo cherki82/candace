@@ -22,17 +22,17 @@ veracity: "true"
 
 ## About
 
-- [Branko International](/entities/org-branko-international.md) (org)
-- [Arkady Gaidemak](/entities/person-arkady-gaidemak.md) (person)
+- [Brenco International](/entities/org-brenco-international.md) (org)
+- [Arkadi Gaydamak](/entities/person-arkadi-gaydamak.md) (person)
 - [Pierre Falcone](/entities/person-pierre-falcone.md) (person)
 
 ## Source
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:13:57](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(837);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=837s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They're using this company, which is known as Branko International, to sell these arms to the Angolan president. Now, Branko International is run by this guy, his name is Arkady Gademak. ... And his partner is Pierre Falcone.
+> They're using this company, which is known as Brenco International, to sell these arms to the Angolan president. Now, Brenco International is run by this guy, his name is Arkadi Gaydamak. ... And his partner is Pierre Falcone.
 
 ## Verification
 

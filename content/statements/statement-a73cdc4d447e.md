@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:13:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-13-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(813);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=813s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And prior, I wasn't at that event. I was in the other SUV.
 

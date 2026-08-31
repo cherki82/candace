@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:05:37](/episodes/ep-I0OaY6Gryqk.md#t-00-05-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(337);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=337s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Early in this administration, high-ranking Israeli officials and influential members of the American media deployed a misinformation campaign that wholly undermined your America First platform and sowed pro-war sentiments to encourage a war with Iran.
 

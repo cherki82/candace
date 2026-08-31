@@ -22,15 +22,15 @@ veracity: "false"
 ## About
 
 - [The Daily Wire](/entities/org-the-daily-wire.md) (org)
-- [John Lewis](/entities/person-john-lewis-daily-wire.md) (person)
+- [Jon Lewis](/entities/person-jon-lewis.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1524);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1524s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. ... That was Jon Lewis.
+> I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.
 
 ## Verification
 

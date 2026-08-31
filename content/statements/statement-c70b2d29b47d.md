@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:45:08](/episodes/ep-ds6umq1rHAw.md#t-00-44-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2708);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=2708s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, it's a fact Mikey (Michael McCoy) did have two phones when him and Charlie (Charlie Kirk) walked into the event. The reason why I have not commented on that and also Blake Neff oddly saying I put that phone away, that implies there's another phone.
 

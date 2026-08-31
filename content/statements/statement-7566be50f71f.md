@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was a, I don't know, I want to say probably 30 or 40 minutes. ... There was a report. ... There was a report. Yeah, it was before I knew before Trump put the true social out.
 

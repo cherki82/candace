@@ -3,9 +3,18 @@ title: "Loren Cunningham"
 description: "Loren Cunningham (People) - 1 mention"
 id: "person-loren-cunningham"
 type: "PERSON"
+categories:
+  - "Christian missions"
+  - "Youth With A Mission"
 ---
 
 _Type: People_
+
+**Categories:** Christian missions, Youth With A Mission
+
+**Entity verification:** verified
+> YWAM official founder biography confirms Loren Cunningham founded Youth With A Mission and discusses his shared seven-spheres insight with Bill Bright.
+Source: [Our Founders | Youth With A Mission](https://ywam.org/about-us/our-founders)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-loren-cunningham-t-00-13-59">2025-11-10 · 00:14:09</a></strong></div>

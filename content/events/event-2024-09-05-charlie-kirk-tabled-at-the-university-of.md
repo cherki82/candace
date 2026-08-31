@@ -6,6 +6,11 @@ date: "2024-09-05"
 ---
 
 **Date:** 2024-09-05
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 5, 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024-09-05"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:14:51](/episodes/ep-xi8SYJTUXPM.md#event-event-2024-09-05-charlie-kirk-tabled-at-the-university-of-t-00-14-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(891);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=891s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here is Charlie on September 5, 2024, the brainwashed tour, the University of Wisconsin.
 
@@ -25,6 +30,6 @@ date: "2024-09-05"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:12:20](/episodes/ep-G3zdOeHpvS0.md#event-event-2024-09-05-charlie-kirk-tabled-at-the-university-of-t-00-12-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(740);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is September 5th, the University of Wisconsin in Madison. Well, he had no mic.

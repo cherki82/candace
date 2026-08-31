@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:05:04](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(304);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=304s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Terrell (associate present at the scene; surname and spelling unverified) starts recording him. It is so chilling to hear Charlie (Charlie Kirk) basically describe regarding Butler what we have all recognized regarding his assassination.
 

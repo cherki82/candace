@@ -1,8 +1,8 @@
 ---
 title: "We were part of a mission going down to the border of JTF-6 ..."
-description: "\"We were part of a mission going down to the border of JTF-6 assigned from 10th Mountain, replacing a Marine Corps unit that had an incident\" — Anonymous Source #4 (Ep ewBzjVe3LNQ)"
+description: "\"We were part of a mission going down to the border of JTF-6 assigned from 10th Mountain, replacing a Marine Corps unit that had an incident\" — Mitch Snow"
 statement_id: "statement-e8d167e7b955"
-speaker: "Anonymous Source #4 (Ep ewBzjVe3LNQ)"
+speaker: "Mitch Snow"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #4 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-004.md) (Guest)
+**Speaker:** [Mitch Snow](/entities/person-mitch-snow.md) (Guest)
 
 **Delivery:** Made directly
 
@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
 **Timestamp:** [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1578);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=1578s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division. Previously, there had been a Marine Corps unit there.
 

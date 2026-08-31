@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:15:15](/episodes/ep-y8lak3CRwDw.md#t-00-15-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(915);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=915s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In April of 2011, at the end of his spring semester, he is elected by the Arizona Senate to serve as a student representative to the Arizona Board of Regents. It says that the state Senate has confirmed ASU undergraduate Tyler Storm Bowyer as the new student regent for the Arizona Board of Regents. It begins a two-year term beginning on July 1st.
 

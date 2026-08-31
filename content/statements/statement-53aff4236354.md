@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:15:02](/episodes/ep-5autG89PW6w.md#t-00-14-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(902);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did share it with some people in government because it happened really quick. It took 33 hours for authorities to get their suspect. And in those first moments, we wanted no stone unturned. We wanted to leave nothing unturned. So I shared it with a few people.
 

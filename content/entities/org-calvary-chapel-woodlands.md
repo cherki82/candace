@@ -3,9 +3,17 @@ title: "Calvary Chapel of the Woodlands"
 description: "Calvary Chapel of the Woodlands (Organizations) - 1 mention"
 id: "org-calvary-chapel-woodlands"
 type: "ORG"
+categories:
+  - "Texas Calvary Chapel congregation"
 ---
 
 _Type: Organizations_
+
+**Categories:** Texas Calvary Chapel congregation
+
+**Entity verification:** verified
+> Houston Chronicle reporting and the church statement confirm the canonical name Calvary Chapel of the Woodlands.
+Source: [Houston Chronicle: Pastor of Woodlands church arrested](https://www.houstonchronicle.com/news/houston-texas/crime/article/pastor-woodlands-church-arrested-child-porn-19453667.php)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-woodlands-t-00-18-59">2025-11-13 · 00:19:33</a></strong></div>

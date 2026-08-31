@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:15:30](/episodes/ep-G3zdOeHpvS0.md#t-00-15-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(930);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's a few moments beforehand. We can see Philip Goldsberry has the RODE Wireless Pro microphone in his hand and he's approaching Charlie (Charlie Kirk) with it.
 

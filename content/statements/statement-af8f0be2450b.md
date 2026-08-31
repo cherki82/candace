@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:20:57](/episodes/ep-ChuWo-n49B8.md#t-00-20-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1257);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1257s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Barron Coleman, hey, did you see this video? Give him a call. Like, did you find this? Did you cover this topic? Tell me what he knows. No one's coordinating to take down Erika Kirk. We're just coordinating to figure out who killed Charlie Kirk.
 

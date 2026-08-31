@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1325);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1325s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in 1969, lo and behold, speaking of. Speaking of the book Chaos, when the military was just spiking the ball, psychological operations, moon landing, whenever you're ready, the Manson murders, whenever you're ready, all military.
 

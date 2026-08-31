@@ -6,6 +6,11 @@ date: "2025-09"
 ---
 
 **Date:** 2025-09
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “right after he passed”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:01:12](/episodes/ep-9CuC1yf8-PU.md#event-event-2025-09-candace-owens-said-turning-point-usa-sol-t-00-00-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(72);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=72s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One that he was wearing, the one that TPUSA moved to sell like hotcakes right after he passed.

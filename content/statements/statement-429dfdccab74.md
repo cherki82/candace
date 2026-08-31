@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:10:58](/episodes/ep-SKNJPul29zU.md#t-01-10-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4258);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4258s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I don't think you'd be pursuing this if you felt like there was an adequate investigation being done. And I myself agree with you that there isn't an adequate investigation being done.
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:18:01](/episodes/ep-wcD2khO3rOA.md#t-01-17-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4681);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I feel strongly that an operation to assassinate Charlie Kirk took place in that day, and people are implicated... I think we've discovered the why.
 

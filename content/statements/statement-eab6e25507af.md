@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:21:34](/episodes/ep-Pb7UlpRdW6U.md#t-00-21-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I would say now with the amount of high resolution video and surveillance that is built into every street corner. ... That's how they solve a lot of crimes.
 

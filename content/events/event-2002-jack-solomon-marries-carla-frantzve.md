@@ -6,6 +6,11 @@ date: "2002"
 ---
 
 **Date:** 2002
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2002”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2002"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:44:23](/episodes/ep-ZAsV0fHGBiM.md#event-event-2002-jack-solomon-marries-carla-frantzve-t-00-43-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2663);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2663s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What is factual is that Jack Solomon eventually marries Carla Frantzve in 2002.

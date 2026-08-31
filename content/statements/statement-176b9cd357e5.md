@@ -25,7 +25,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:07:09](/episodes/ep-his-JBjlkh8.md#t-00-06-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(429);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=429s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And typically those events are decided at least the semester before.
 
@@ -33,7 +33,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(419);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=419s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And typically those events are decided at least the semester before.
 

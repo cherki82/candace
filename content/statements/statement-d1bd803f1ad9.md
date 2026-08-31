@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(542);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=542s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:11:59](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(719);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=719s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) is known throughout her community and deep network base as an influential and positive voice. The voice, her experience working on the developer side of the New York City real estate industry is a tremendous asset to her role as an agent.
 

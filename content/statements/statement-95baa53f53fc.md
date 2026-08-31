@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:59:46](/episodes/ep-I0OaY6Gryqk.md#t-00-59-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3586);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=3586s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > years. It's literal stalking, and there has not been an off tap. I have just become very used to it, and I can tell people ahead of time, 'Yeah, here's what you're gonna do. Here's what you're gonna do. Here's what I'm gonna do.' This is just what they do. I speak about it so people know that's happening, because it's important for people to understand what Megyn Kelly is going through is very real. It's psychotic. She's done nothing wrong other than tell the truth and not bend the knee to Israel.
 

@@ -1,6 +1,6 @@
 ---
 title: "Shabbat"
-description: "Shabbat (Concepts) - 33 mentions"
+description: "Shabbat (Concepts) - 40 mentions"
 id: "concept-shabbat"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-news-town-hall-erika-kirk-how-to-watch/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24">2026-02-04 · 00:25:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-shabbat-t-00-53-50">2025-09-16 · 00:54:19</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-concept-shabbat-t-00-40-13">2026-08-18 · 00:40:13</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,10 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-42-40">Bride Of Charlie: The Lost Years... | Episode 5</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-shabbat-t-00-53-50" style="--pulse-height:29%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-shabbat-t-00-00-00" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-concept-shabbat-t-00-02-09" style="--pulse-height:29%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-concept-shabbat-t-00-14-48" style="--pulse-height:29%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24" style="--pulse-height:43%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-shabbat-t-00-04-14" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-21" style="--pulse-height:57%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
@@ -57,6 +61,10 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-shabbat-t-00-53-50) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-shabbat-t-00-00-00) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-concept-shabbat-t-00-02-09) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-shabbat-t-00-14-48) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24) | 3 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-shabbat-t-00-04-14) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-21) | 4 |
@@ -80,7 +88,7 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -258,6 +266,47 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 
 **[00:26:26](/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-26-08)**
 > "...finished writing a book about the Sabbath."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:15:10](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-shabbat-t-00-14-48)**
+> "...rning Point will be hosting a Shabbat dinner."
+
+**[00:16:34](/episodes/ep-6J6lRZPQ4jk.md#ent-concept-shabbat-t-00-16-17)**
+> "...upcoming book on honoring the Shabbat, which I'm not gonna be doing because I'm Christi..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:02:22](/episodes/ep-6DhWawD4ZiM.md#ent-concept-shabbat-t-00-02-09)**
+> "...ous book, is coming out about the Sabbath and she's speaking about the quote unquote conspi..."
+
+**[00:37:04](/episodes/ep-6DhWawD4ZiM.md#ent-concept-shabbat-t-00-36-57)**
+> "... Jews and how TPUSA is having Shabbat dinner."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:00:17](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-shabbat-t-00-00-00)**
+> "...s before he died were, "Honor the Sabbath and buy Josh Hammer's book.""
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+
+**[00:54:19](/episodes/ep-q7f8r-THr84.md#ent-concept-shabbat-t-00-53-50)**
+> "...rew and writing a book on the Shabbat."
+
+**[00:54:26](/episodes/ep-q7f8r-THr84.md#ent-concept-shabbat-t-00-53-50)**
+> "I honor the Shabbat, literally the Jewish Sabbath. I visit Israel and..."
 
 </details>
 

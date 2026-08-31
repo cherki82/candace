@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2149);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=2149s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It just happens to go from Scottsdale in the morning to Provo, then from Provo to Santa Barbara at 1024, then from Santa Barbara, it goes to Scottsdale.
 

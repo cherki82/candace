@@ -7,6 +7,11 @@ time: "21:25"
 ---
 
 **Date:** 2026-04-25 at 21:25
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “at 9.25 p.m.”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "21:25"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:03:17](/episodes/ep-7FS1tUeSfdE.md#event-event-2026-04-25-sara-sidner-uploaded-erika-kirks-i-want--t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(197);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on social media to upload the now infamous I want to go home video of Erika Kirk.
 
@@ -26,6 +31,6 @@ time: "21:25"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:07:19](/episodes/ep-Pb7UlpRdW6U.md#event-event-2026-04-25-sara-sidner-uploaded-erika-kirks-i-want--t-00-06-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Sydney Sidener of CNN uploaded the video of Erika Kirk at 9.25 p.m.

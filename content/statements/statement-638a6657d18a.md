@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:16:46](/episodes/ep-QdM9jLwjwLw.md#t-00-16-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1006);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=1006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > describing the employees like a family to drive them to work like horses only to then fire them after a quarter billion is raised is wild. ... they were loyal employees and they said that they felt like they were being emotionally manipulated to think that they had to just work harder even beyond the 20-hour days they're working during the weekday
 

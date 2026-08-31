@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:19:54](/episodes/ep-ZGxnf5cj4Uw.md#t-00-19-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1194);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=1194s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > According to this post, he retired last January. Here it is. On the left, you have Brooksby.
 

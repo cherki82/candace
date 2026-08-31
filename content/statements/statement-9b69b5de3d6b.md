@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:39:59](/episodes/ep-i8m_6D4QGmk.md#t-00-39-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2399);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2399s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is from The Washington Post, because people went, why do this? They wrote: but the largely overshadowed part was the order's mention of something contentious in another way, the manufacture of munitions used by the United States military. Bayer, ... which makes glyphosate, is also the only company in the United States that manufactures a form of elemental phosphorus, which is called white phosphorus, which is used to make the weed killer. ... Phosphorus. That white phosphorus is also used to make munitions deployed as smoke screens and incendiary devices that can violently burn property or people.
 

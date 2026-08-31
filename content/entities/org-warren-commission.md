@@ -16,8 +16,8 @@ _Type: Organizations_
 Source: [Warren Commission Report — National Archives](https://www.archives.gov/research/jfk/warren-commission-report)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16">2025-10-02 · 00:28:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16">2025-10-02 · 00:28:23</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-27-51">2025-10-02 · 00:28:16</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-23">2025-10-02 · 00:28:23</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -28,15 +28,15 @@ Source: [Warren Commission Report — National Archives](https://www.archives.go
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-27-51">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-27-51" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-27-51) | 2 |
 
 </details>
 </section>
@@ -49,10 +49,10 @@ Source: [Warren Commission Report — National Archives](https://www.archives.go
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:28:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16)**
+**[00:28:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-27-51)**
 > "...d register under FARA. Anyways, how this works is that then you have to kind of put together like a Warren Commission, right? JFK, the Warren Commission, a complete and utter farce to pretend like the government's tak..."
 
-**[00:28:23](/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16)**
+**[00:28:23](/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-23)**
 > "... this works is that then you have to kind of put together like a Warren Commission, right? JFK, the Warren Commission, a complete and utter farce to pretend like the government's taking it seriously and investigating...."
 
 </details>

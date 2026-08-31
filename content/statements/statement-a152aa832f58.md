@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:37:49](/episodes/ep-nPhCKwJ6ye8.md#t-01-37-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5869);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=5869s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson was interviewed by a fed. They did not produce statements saying my son did this. My son, I believe my son did this.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:07:08](/episodes/ep-aPOyk1i2LOc.md#t-01-06-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4028);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=4028s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They did not produce statements saying my son did this. My son, I believe my son did this.
 

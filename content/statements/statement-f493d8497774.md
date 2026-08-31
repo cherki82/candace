@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:35:52](/episodes/ep-E7P2ShoYDUA.md#t-00-35-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2152);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=2152s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At this stage, I would say that I don't buy his assertion on the stand that he didn't check to see if anybody went on to the rooftop before he got up there. ... I do think that it's possible, it's at least plausible that the screwdriver was planted. I don't believe him. What I can say strongly is that his...
 

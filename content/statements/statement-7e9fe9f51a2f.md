@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:02:07](/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(127);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > lied to Megyn (Megyn Kelly)'s face
 

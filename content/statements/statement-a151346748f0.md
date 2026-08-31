@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:33:47](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2027);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=2027s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > there's now there's 12 lawsuits, actually. The original lawsuit was filed in September by two men. Claiming that Paul Havsgaard, he is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California. ... they're alleging that he abused them at a children's shelter in Bucharest, Romania. The allegations include children being tied. to radiators, being made to kneel down on walnut shells, being touched inappropriately, and being pimped out for sex.
 

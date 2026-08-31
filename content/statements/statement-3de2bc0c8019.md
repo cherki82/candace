@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:29:03](/episodes/ep-eMtjzXkQrsU.md#t-00-28-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1743);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1743s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet, according to a family source of his, so this was a source that came to me, ... That he lost money. He lost millions when Charlie (Charlie Kirk) said no to taking Turning Point USA to the next level.
 

@@ -1,6 +1,6 @@
 ---
-title: "Erika Kirk had Charlie Kirk's phone and was looking at his i..."
-description: "\"Erika Kirk had Charlie Kirk's phone and was looking at his iMessages but not Signal or Telegram messages\" — Candace Owens"
+title: "Candace Owens reported that Erika Kirk had Charlie Kirk's ph..."
+description: "\"Candace Owens reported that Erika Kirk had Charlie Kirk's phone and had been checking his iMessages, then learned that he also used Signal and Telegra...\" — Candace Owens"
 statement_id: "statement-103173d3a593"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Erika Kirk had Charlie Kirk's phone and was looking at his iMessages but not Signal or Telegram messages
+> Candace Owens reported that Erika Kirk had Charlie Kirk's phone and had been checking his iMessages, then learned that he also used Signal and Telegram and checked further after hearing Owens's claim.
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:07:01](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(421);return false;">Play</a>
+**Timestamp:** [00:06:43](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=403s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Erika (Erika Kirk) said that she has Charlie (Charlie Kirk)'s phone, she's looking at his iMessages, and it turns out that he, like everybody else, communicates on signal, he communicates on telegram
+> They owned that right away and explained, Erika (Erika Kirk) said that she has Charlie (Charlie Kirk)'s phone, she's looking at his iMessages, and it turns out that he, like everybody else, communicates on signal, he communicates on telegram, and when she heard me say that, they then went and looked, and yes, what I said was true.
 
 ## Verification
 

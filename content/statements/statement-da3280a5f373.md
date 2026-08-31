@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:11:32](/episodes/ep-9naMwS0kMBE.md#t-00-11-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(692);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=692s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What if there are just targets in the military just going in and killing people and then blaming it on on some tranny like at all times, a transgender person or right hard diehard MAGA guy just strapped up his guns and did something.
 

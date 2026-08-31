@@ -29,7 +29,7 @@ type: "prediction"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:04:40](/episodes/ep-ChuWo-n49B8.md#t-00-04-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were told, wait until the preliminary hearing. I was told that actually by Erika (Erika Kirk) herself saying, this is her lawyer. This is when we gather all the evidence. Then at the preliminary hearing, we have a chance to present that evidence and the public. Public will know much more.
 

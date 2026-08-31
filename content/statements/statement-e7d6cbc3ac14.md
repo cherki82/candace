@@ -24,9 +24,9 @@ veracity: "true"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(21);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=21s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And he was publicly executed
+> Charlie, my friend, is dead. ... And he was publicly executed.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "FaceTime"
-description: "FaceTime (Works & Media) - 28 mentions"
+description: "FaceTime (Works & Media) - 29 mentions"
 id: "work-facetime"
 type: "WORK"
 categories:
@@ -17,10 +17,10 @@ _Type: Works & Media_
 Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.apple.com/en-euro/105088)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-facetime-t-00-18-48">2025-10-27 · 00:18:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30">2025-09-19 · 00:10:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-facetime-t-00-07-52">2026-08-17 · 00:08:17</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +31,7 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43">The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30" style="--pulse-height:17%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-work-facetime-t-00-18-48" style="--pulse-height:17%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-facetime-t-00-06-43" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
@@ -48,6 +49,7 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-work-facetime-t-00-18-48) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-work-facetime-t-00-06-43) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39) | 3 |
@@ -67,7 +69,7 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
@@ -207,6 +209,14 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 
 **[00:18:48](/episodes/ep-c5BcKF91iec.md#ent-work-facetime-t-00-18-48)**
 > "...lie once I saw the footage on FaceTime when I realized that there was no blood on Charli..."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+
+**[00:10:30](/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30)**
+> "...e footage, he will get onto a FaceTime call with me and he will show me the footage on h..."
 
 </details>
 

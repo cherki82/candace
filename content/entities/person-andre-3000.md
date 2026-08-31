@@ -5,11 +5,19 @@ id: "person-andre-3000"
 type: "PERSON"
 aliases:
   - "Andre 3000"
+categories:
+  - "music,hip-hop,Outkast"
 ---
 
 _Type: People_
 
 **Also known as:** Andre 3000
+
+**Categories:** music,hip-hop,Outkast
+
+**Entity verification:** verified
+> Sony Music identifies André 3000 as the musician and Outkast member referenced by the transcript.
+Source: [André 3000 | Sony Music Entertainment France](https://www.sonymusic.fr/artist/andre-3000/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-andre-3000-t-00-34-58">2025-12-05 · 00:35:31</a></strong></div>

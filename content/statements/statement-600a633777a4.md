@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:45:25](/episodes/ep-cZxHqYsWRYg.md#t-00-45-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2725);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2725s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and his wife were accused of having—well, this is just word on the street—but they would have their congregants throw up into bags to get rid of big, bad spirits. That's just word on the street, allegedly.
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:38:39](/episodes/ep-SKNJPul29zU.md#t-00-38-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2319);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2319s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Armenians became, you know, they fled. Many went to Syria. They were forced to do a death march as my great-grandmother was, and she survived it, but my great-grandfather didn't. This is on my dad's side.
 

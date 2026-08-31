@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:44:13](/episodes/ep-A39g5oqB_eM.md#t-00-43-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2653);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2653s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > whether or not he means it. He speaks about his bipolar episode, ... said that he is on new meds, that 2025 or 2024 was a tough year for him and that this is not a PR move, that he is sorry to the people that he hurt.
 

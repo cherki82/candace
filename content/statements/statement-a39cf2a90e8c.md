@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:01:32](/episodes/ep-DYD_QHMPwqM.md#t-00-01-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(92);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=92s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But look at this email that Jeffrey Epstein authored to Woody (Woody Allen). It says the 23andMe kits arrived and will be delivered to Woody (Woody Allen) and Soon-Yi to their home today.
 

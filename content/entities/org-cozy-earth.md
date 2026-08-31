@@ -1,10 +1,11 @@
 ---
 title: "Cozy Earth"
-description: "Cozy Earth (Organizations) - 43 mentions"
+description: "Cozy Earth (Organizations) - 56 mentions"
 id: "org-cozy-earth"
 type: "ORG"
 aliases:
   - "cozyearth.com"
+  - "CozyEarth"
 categories:
   - "episode sponsor"
   - "home goods brand"
@@ -12,7 +13,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** cozyearth.com
+**Also known as:** cozyearth.com, CozyEarth
 
 **Categories:** episode sponsor, home goods brand
 
@@ -21,10 +22,10 @@ _Type: Organizations_
 Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00">2026-01-13 · 00:39:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34">2025-09-23 · 00:28:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-48">2026-08-04 · 00:29:58</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,22 +34,26 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-19">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34">Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-org-cozy-earth-t-00-41-35" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-cozy-earth-t-00-39-06" style="--pulse-height:67%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-19" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 6 mentions" title="2026-03-24 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-28-36" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 6 mentions" title="2026-04-13 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-cozy-earth-t-00-29-34" style="--pulse-height:83%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 5 mentions" title="2026-05-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35" style="--pulse-height:83%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48" style="--pulse-height:83%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-28-23" style="--pulse-height:83%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 8 mentions" title="2025-09-23 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-cozy-earth-t-00-42-05" style="--pulse-height:62%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 5 mentions" title="2025-10-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00" style="--pulse-height:38%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-cozy-earth-t-00-41-35" style="--pulse-height:50%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-cozy-earth-t-00-39-06" style="--pulse-height:50%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-19" style="--pulse-height:75%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 6 mentions" title="2026-03-24 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-28-36" style="--pulse-height:75%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 6 mentions" title="2026-04-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-cozy-earth-t-00-29-34" style="--pulse-height:62%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 5 mentions" title="2026-05-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35" style="--pulse-height:62%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48" style="--pulse-height:62%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-28-23" style="--pulse-height:62%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34) | 8 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-cozy-earth-t-00-42-05) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00) | 3 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-cozy-earth-t-00-41-35) | 4 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-cozy-earth-t-00-39-06) | 4 |
@@ -65,7 +70,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5 mentions)</summary>
@@ -241,6 +246,55 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 
 </details>
 
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (5 mentions)</summary>
+
+**[00:42:41](/episodes/ep-Qt0VHV-POCg.md#ent-org-cozy-earth-t-00-42-05)**
+> "Cozy Earth"
+
+**[00:42:56](/episodes/ep-Qt0VHV-POCg.md#ent-org-cozy-earth-t-00-42-49)**
+> "Cozy Earth offers a 100-night sleep trial."
+
+**[00:43:06](/episodes/ep-Qt0VHV-POCg.md#ent-org-cozy-earth-t-00-42-49)**
+> "... Black Friday coming early at Cozy Earth."
+
+**[00:43:17](/episodes/ep-Qt0VHV-POCg.md#ent-org-cozy-earth-t-00-42-49)**
+> "That's CozyEarth.com—code CANDACE—for up to 40% off in savings."
+
+**[00:43:23](/episodes/ep-Qt0VHV-POCg.md#ent-org-cozy-earth-t-00-42-49)**
+> "... mention that you heard about Cozy Earth here."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (8 mentions)</summary>
+
+**[00:28:37](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34)**
+> "...o want to tell you guys about Cozy Earth, because you work hard, you fight for your family..."
+
+**[00:28:51](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34)**
+> "That's why I love Cozy Earth."
+
+**[00:28:56](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34)**
+> "Cozy Earth is on a mission to make your evenings and every m..."
+
+**[00:29:07](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34)**
+> "Cozy Earth offers more than just clothing."
+
+**[00:29:28](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-29-18)**
+> "And just so you know, Cozy Earth stands by their quality."
+
+**[00:29:38](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-29-18)**
+> "You can head to CozyEarth.com and use code Candace at checkout for up to 40% of..."
+
+**[00:29:40](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-29-18)**
+> "...hem know that you heard about Cozy Earth right here."
+
+**[00:29:42](/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-29-18)**
+> "...ll elevate your downtime with Cozy Earth."
+
+</details>
+
 </details>
 
 <details open>
@@ -250,12 +304,13 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:39:30](/episodes/ep-ZZGWo6oDscc.md#t-00-39-00): “Fresh sheets, luxe towels, quality pajamas, those small changes completely change how your home feels. That's why I love Cozy Earth.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:51](/episodes/ep-UBkFkg4UNY8.md#t-00-28-34): “That's why I love Cozy Earth.”
 
 </details>
 
@@ -265,12 +320,13 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:39:30](/episodes/ep-ZZGWo6oDscc.md#t-00-39-00): “Fresh sheets, luxe towels, quality pajamas, those small changes completely change how your home feels. That's why I love Cozy Earth.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:51](/episodes/ep-UBkFkg4UNY8.md#t-00-28-34): “That's why I love Cozy Earth.”
 
 </details>
 

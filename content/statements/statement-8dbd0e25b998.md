@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=1740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We know Candace has seen all this. It's worth asking, why would she so deliberately misrepresent the evidence?
 

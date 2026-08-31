@@ -25,10 +25,10 @@ type: "prediction"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:59:46](/episodes/ep-iHav0PPzUz8.md#t-00-59-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3586);return false;">Play</a>
+**Timestamp:** [00:59:50](/episodes/ep-iHav0PPzUz8.md#t-00-59-13) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=3590s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> But look—it's going to be tough for Erika. It's got to be tough for Erika in this moment because she's going to be feeling that pressure in the same way that Charlie (Charlie Kirk) was getting that pressure from these top Jewish donors.
+> It's got to be tough for Erika (Erika (Erika Kirk)) in this moment because she's going to be feeling that pressure in the same way that Charlie (Charlie Kirk) was getting that pressure from these top Jewish donors.
 
 ## Verification
 

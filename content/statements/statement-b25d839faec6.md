@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:05:45](/episodes/ep-q7f8r-THr84.md#t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(345);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We also figure out that in the past, he has given interviews related to September 11th and Al Qaeda
 

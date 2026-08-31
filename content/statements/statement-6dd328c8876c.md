@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:05:24](/episodes/ep-wcD2khO3rOA.md#t-01-04-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3924);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3924s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Moon's most ambitious foray into the political process in recent years was the American Freedom Coalition, a conservative group that built popular support for Colonel Oliver L. North during the Iran-Contra probe. ... In addition to about $5 million, unificationists provided the personnel that gave the coalition its grassroots strength, former church members said.
 

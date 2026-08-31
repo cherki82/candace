@@ -5,11 +5,19 @@ id: "person-napoleon-bonaparte"
 type: "PERSON"
 aliases:
   - "Napoleon"
+categories:
+  - "French emperor and military leader"
 ---
 
 _Type: People_
 
 **Also known as:** Napoleon
+
+**Categories:** French emperor and military leader
+
+**Entity verification:** verified
+> Fondation Napoléon's historical timeline and public-history materials identify Napoleon Bonaparte, born in Ajaccio in 1769, matching the episode's historical reference.
+Source: [1769–1793: Napoleon Bonaparte's early years](https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-napoleon-bonaparte-t-00-04-18">2025-12-02 · 00:04:42</a></strong></div>

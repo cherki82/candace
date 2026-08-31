@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:36:43](/episodes/ep-3QJqtW_NOSI.md#t-00-36-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2203);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=2203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I decided to F my way into a new kind of woman. I wanted to destroy the Madonna, the special girl that I had worked so hard to be before an eight pound baby had torn my nether regions into two and replaced her with a, that's another word for slut that she has there that I don't want to say. ... And she writes, quote, let's give them a taste of their own medicine. I joke with friends. ... Was I punitive, making many men suffer for the crimes of one? ... I honestly didn't care.
 

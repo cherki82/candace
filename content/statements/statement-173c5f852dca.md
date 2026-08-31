@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:50:09](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3009);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=3009s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jeremy (Jeremy Boreing) decided to instead maniacally convey to me that they suspected that I might have been secretly working with Nick Fuentes and Tucker Carlson, like we're the three musketeers or something,
 

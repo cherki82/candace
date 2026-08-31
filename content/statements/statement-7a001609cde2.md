@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(322);return false;">Play</a>
+**Timestamp:** [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-49) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=322s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The bomb dogs were unable to locate the weapon in the field where it was eventually discovered, despite the fact that they had crawled over that area.
 

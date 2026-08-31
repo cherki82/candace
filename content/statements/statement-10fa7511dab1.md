@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:15:20](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(920);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=920s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > stationed at Fort Huachuca, a civilian commander that was stationed at Fort Huachuca, David Frodsham, was charged with running a child sex abuse ring.
 

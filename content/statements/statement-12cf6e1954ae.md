@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:15:54](/episodes/ep-y8lak3CRwDw.md#t-00-15-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(954);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=954s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lo and behold, after he's put into place as the student representative. For Arizona State University, Erika Kirk, well, Erika Frantzve enrolls into Arizona State University for her final year of college.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:19:23](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1163);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1163s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in May of 2011, Tyler Bowyer is going to get unusually elected to the Board of Regents. ... And then four months beyond that, Erika (Erika Kirk) is going to enroll into ASU. For her final year of college from 2011-2012
 

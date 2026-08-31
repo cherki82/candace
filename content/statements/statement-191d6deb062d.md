@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA did not approve of Brian Harpole going on ..."
-description: "\"Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show. They had no idea he was doing it and I don't believe he works there a...\" — Candace Owens"
+title: "Candace Owens said she believed Turning Point USA's assertio..."
+description: "\"Candace Owens said she believed Turning Point USA's assertion that it did not approve Brian Harpole's appearance on The Shawn Ryan Show and did not kn...\" — Candace Owens"
 statement_id: "statement-191d6deb062d"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show. They had no idea he was doing it and I don't believe he works there anymore
+> Candace Owens said she believed Turning Point USA's assertion that it did not approve Brian Harpole's appearance on The Shawn Ryan Show and did not know he was going; she added that she did not believe he still worked there.
 
 ## Attribution
 
@@ -27,15 +27,15 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(917);return false;">Play</a>
+**Timestamp:** [00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=913s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan). And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean (Shawn Ryan). I think that's pretty clear. I don't believe he works there anymore.
+> Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan). And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean (Shawn Ryan). I think that's pretty clear. I don't believe he works there anymore.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** No

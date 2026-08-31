@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:35:17](/episodes/ep-5autG89PW6w.md#t-00-34-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2117);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=2117s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > here—that the person who was walking up the stairs killed Charlie (Charlie Kirk). In fact, my suspicion is that
 

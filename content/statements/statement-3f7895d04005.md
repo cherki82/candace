@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:39:54](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2394);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2394s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > if you look at the timestamps, two hours after that, I and a few others were in a small Zoom chat, a small Zoom. Zoom call with Charlie Kirk the night before he was killed, that Charlie organized. Charlie organized this Zoom call for the express purpose of trying to make sure that he had all the best answers, the best messaging advice for how to speak about Jewish-Christian relations and the Israel question on college campuses.
 

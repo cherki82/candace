@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:20:39](/episodes/ep-1IY2oD-_xVA.md#t-00-20-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1239);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1239s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 1983, DuPont completes the largest merger in corporate history with Conoco Oil, and they're able to do this thanks to Reagan and George Bush being in office, deregulating things, making it easier for private corporations to go in and do bigger deals.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:16:05](/episodes/ep-zSKrxIUMNqw.md#t-00-15-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(965);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=965s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when I read the lawsuit and I realized they were trying to stage a hostile takeover of the rights to his movie. ... And they sent out Ryan Reynolds and Blake Lively to go and get it.
 

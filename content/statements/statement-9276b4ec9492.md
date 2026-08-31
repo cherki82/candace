@@ -23,8 +23,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:16:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(970);return false;">Play</a>
+**Timestamp:** [00:16:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-44) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lie number three is that Charlie (Charlie Kirk)'s neck stopped a .30-06 bullet because Charlie (Charlie Kirk) ate salad. He had strong bones. It was a modern-day Christian miracle. That's a lie. The offender is Andrew Kolvet.
 

@@ -1,6 +1,6 @@
 ---
 title: "Alyssa Cordova"
-description: "Alyssa Cordova (People) - 8 mentions"
+description: "Alyssa Cordova (People) - 9 mentions"
 id: "person-alyssa-cordova"
 type: "PERSON"
 aliases:
@@ -21,31 +21,31 @@ _Type: People_
 Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Barrett Media](https://barrettmedia.com/2026/05/21/alyssa-cordova-the-jeremy-boreing-show/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37">2025-11-06 · 00:44:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-06">2025-11-06 · 00:44:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-alyssa-cordova-t-00-29-15">2026-05-06 · 00:29:15</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-06">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-alyssa-cordova-t-00-28-09" style="--pulse-height:25%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-alyssa-cordova-t-00-32-33" style="--pulse-height:25%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-alyssa-cordova-t-00-41-24" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-alyssa-cordova-t-00-29-15" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-06" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-alyssa-cordova-t-00-28-09" style="--pulse-height:20%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-alyssa-cordova-t-00-32-33" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-alyssa-cordova-t-00-41-24" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-alyssa-cordova-t-00-29-15" style="--pulse-height:20%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37) | 4 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-06) | 5 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-alyssa-cordova-t-00-28-09) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-alyssa-cordova-t-00-32-33) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-alyssa-cordova-t-00-41-24) | 1 |
@@ -57,7 +57,7 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
@@ -92,19 +92,22 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
-**[00:44:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37)**
+**[00:44:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-06)**
 > "...that. I don't love the crickets of these things. I will also mention that Allie has strangely hired Alyssa Cordova. And this is just not a match for me. Alyssa Cordova was formerly the PR person—head PR person at D..."
 
-**[00:44:46](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37)**
+**[00:44:41](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-06)**
 > "...ll also mention that Allie has strangely hired Alyssa Cordova. And this is just not a match for me. Alyssa Cordova was formerly the PR person—head PR person at Daily Wire. And when I tell you that this woman is evi..."
 
-**[00:45:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37)**
+**[00:45:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-45-17)**
 > "... will undercut you and do these sorts of things. And so when I see this kind of turn—and I see that Alyssa Cordova is working with you— I'm wondering if this is just kind of like Zionist nastiness. I think I've bee..."
 
-**[00:55:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-55-08)**
+**[00:55:21](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-55-04)**
 > "...lly. I've got a feeling about that. We're close because they're even talking about lawyers. I mean: Alyssa Cordova— this PR girl—actually wrote this. If we could pull up that tweet—I hope you're—no, no: the other o..."
+
+**[00:56:23](/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-55-48)**
+> "We're not doing this anymore, Alyssa. We're not doing this anymore."
 
 </details>
 
@@ -117,9 +120,22 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 <summary>Formerly Worked For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:44:41](/episodes/ep-vwG1juDCQZQ.md#t-00-44-06): “Alyssa Cordova was formerly the PR person—head PR person at Daily Wire.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Hired By (1)</summary>
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:44:36](/episodes/ep-vwG1juDCQZQ.md#t-00-44-06): “I will also mention that Allie has strangely hired Alyssa Cordova.”
 
 </details>
 
@@ -138,12 +154,20 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:44:41](/episodes/ep-vwG1juDCQZQ.md#t-00-44-06): “Alyssa Cordova was formerly the PR person—head PR person at Daily Wire.”
+
+</details>
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)** hired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:44:36](/episodes/ep-vwG1juDCQZQ.md#t-00-44-06): “I will also mention that Allie has strangely hired Alyssa Cordova.”
 
 </details>
 

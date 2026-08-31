@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:42:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2548);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2548s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We also have a person who has come forward and they claim that Erica (Erika Kirk) was with her security guard, Derek Niekerk. When she got the news with her security guard and they were explicit, she was not with her mother.
 

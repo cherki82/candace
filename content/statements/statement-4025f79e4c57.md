@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:14:00](/episodes/ep-BxN2-aeMYIs.md#t-00-13-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(840);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=840s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > One piece of her past is she was fired as the Pentagon's chief correspondent. ... She claimed she was fired after she criticized Pete Hegseth. for having established new rules that actually limited the press's access to the Pentagon.
 

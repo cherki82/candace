@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:13:31](/episodes/ep-HZvwbfePe7o.md#t-00-13-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(811);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=811s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Can I have one thing? Can my children have one thing? Everything was public. ... We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular, and it will have basically museum style for our Charlie (Charlie Kirk), for my Charlie (Charlie Kirk). ... But can I have one thing? Can my babies have one thing where we hold it sacred, where my husband is laid to rest, where I don't have to be worried about some secular revolutionary coming and destroying my husband's grave while my daughter is sitting there praying? ... And I want to be able to have one thing left that is sacred to our family, to my in-laws, to my babies, and to my parents.
 

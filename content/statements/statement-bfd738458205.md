@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:14:50](/episodes/ep-ChuWo-n49B8.md#t-00-14-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(890);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=890s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Cellebrite, it's called an Israeli forensic tech firm to extract those messages. Now, I don't know if it matters to them, but we all kind of think Israel killed Charlie Kirk. Just based on the actions and the mood of the Israeli government leaders, Bibi (Benjamin Netanyahu), and their plethora of Zionist supporters throughout the United States. They're obsessed with lying about the Charlie Kirk case. They just have to lie about the Charlie Kirk case. They have to try to debunk everything immediately. It's giving us the vibe that they could be guilty.
 

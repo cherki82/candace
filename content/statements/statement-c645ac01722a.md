@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:13:11](/episodes/ep-B9TyCs-6o_0.md#t-00-12-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And more crucially, it was a communication that took place shortly before Charlie began texting his security and Andrew Kolvet, which he also told me about, that he thought they were going to kill him. OK, something that Erika initially denied to the public.
 

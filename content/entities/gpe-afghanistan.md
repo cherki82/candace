@@ -1,6 +1,6 @@
 ---
 title: "Afghanistan"
-description: "Afghanistan (Places) - 26 mentions"
+description: "Afghanistan (Places) - 27 mentions"
 id: "gpe-afghanistan"
 type: "GPE"
 categories:
@@ -17,10 +17,10 @@ _Type: Places_
 Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factbook/countries/afghanistan/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50">2025-11-12 · 00:50:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-14">2025-11-12 · 00:50:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-afghanistan-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,7 +31,8 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-14" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-afghanistan-t-00-58-14" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-afghanistan-t-01-04-58" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-afghanistan-t-00-36-08" style="--pulse-height:10%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-afghanistan-t-00-48-04" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
@@ -47,7 +48,8 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-14) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-afghanistan-t-00-58-14) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-afghanistan-t-01-04-58) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-afghanistan-t-00-36-08) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-afghanistan-t-00-48-04) | 1 |
@@ -65,7 +67,7 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
@@ -193,9 +195,17 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 </details>
 
 <details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:58:14](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-afghanistan-t-00-58-14)**
+> "... the poppy fields—and then in Afghanistan—and then we got an opioid crisis. And the Sackler..."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:50:54](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50)**
+**[00:50:49](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-14)**
 > "...ier during my time in Iraq or Afghanistan. Yeah, they don't have enough bodies."
 
 </details>
@@ -248,7 +258,7 @@ _No relationships extracted yet._
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:58:19](/episodes/ep-7RLtGgkTh9o.md#t-00-58-06) (Accusation) **Candace Owens**: ["Our boys were guarding the poppy fields in Afghanistan and then we got..."](/statements/statement-b47022f013d2.md)
+- [00:58:19](/episodes/ep-7RLtGgkTh9o.md#t-00-58-14) (Accusation) **Candace Owens**: ["Our boys were guarding the poppy fields in Afghanistan and then we got..."](/statements/statement-b47022f013d2.md)
 
 </details>
 

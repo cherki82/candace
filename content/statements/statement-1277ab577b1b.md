@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:32:04](/episodes/ep-mFuno0TuuQQ.md#t-00-31-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1924);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1924s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It just seemed like a pay-to-play is what AmFest looked like, and it looked like people that were paying. ... Israel, right? It seemed like Israel was paying.
 

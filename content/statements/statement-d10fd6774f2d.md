@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:42:57](/episodes/ep-y8lak3CRwDw.md#t-00-42-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2577);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2577s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Sirens wail outside Kirkwood City Hall in Missouri. The building that usually houses mundane civic meetings became the scene of a rampage Thursday night after a gunman stormed the building and opened fire. ... Two police officers and three city officials were killed, the mayor was critically hurt and a newspaper reporter was wounded. ... The shooter was eventually shot and killed by police. By police. It's reported he was Charles Cookie Thornton, who had a reputation for disrupting city meetings and for making outrageous statements.
 

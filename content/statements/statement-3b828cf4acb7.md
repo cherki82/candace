@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:12:30](/episodes/ep-X92MllIHDzw.md#t-00-12-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(750);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=750s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > two had seen Erika at Fort Huachuca and that there was an order to lower drones on that day.
 

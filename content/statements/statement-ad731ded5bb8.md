@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:31:43](/episodes/ep-k1b1NDCrNFs.md#t-00-31-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1903);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1903s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My last full quarter as CEO was at that time the biggest quarter in the history of the company. My last full year as CEO was at that time the biggest year in the history of the company, just like the year before it had been and the year before that and the year before that.
 

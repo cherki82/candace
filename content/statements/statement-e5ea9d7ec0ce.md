@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:41:20](/episodes/ep-tB5SXXmd9vU.md#t-00-40-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2480);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=2480s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Our first ever trans congressman, you guys—guess where
 

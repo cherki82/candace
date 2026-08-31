@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:36:37](/episodes/ep-Ux1kzgQxkws.md#t-01-36-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5797);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=5797s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so one of the things that I'm trying to do is start a free aftercare program. And there's a couple, there's one in Kentucky that is a really beautiful model.
 

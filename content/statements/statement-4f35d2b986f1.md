@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:15:38](/episodes/ep-iHav0PPzUz8.md#t-00-15-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
+**Timestamp:** [00:15:38](/episodes/ep-iHav0PPzUz8.md#t-00-15-23) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, I'm telling you that for a fact, that plane was carrying military subcontractors. And for a fact, they were dropped off in Provo, okay? And that they did not make it back to Cairo.
 

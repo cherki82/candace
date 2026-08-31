@@ -11,7 +11,7 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (15 mentions)
+### Evidence (17 mentions)
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
@@ -28,6 +28,10 @@ object: "person-george-farmer"
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 
 - [00:06:24](/episodes/ep-BKcOm32ZEGk#t-00-06-24): _The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him._
+
+**[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
+
+- [01:04:47](/episodes/ep-Cq7nj9rxPdo#t-01-04-47): _I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion._
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
@@ -52,6 +56,10 @@ object: "person-george-farmer"
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 
 - [00:42:33](/episodes/ep-_cNtgris8Ik#t-00-42-33): _your priority and also has you have to have respect for his wife which I did he was married and he has respect for my husband George became close to Charlie the whole year of our engagement we traveled around with Charlie and we have so many memories he has so many messages with Charlie and so I don't know it just makes me laugh they think that they can do this it's just not going to be possible we just spent such a good great time together and whenever we think about it you see it on_
+
+**[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
+
+- [00:18:02](/episodes/ep-_dRaEO47-co#t-00-18-02): _He was by my side, you know, when I got married to George._
 
 **[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
 

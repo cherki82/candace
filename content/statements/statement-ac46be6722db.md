@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:40:04](/episodes/ep-_cNtgris8Ik.md#t-00-40-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2404);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, Candace is she's on our team. She's the best. Right. I mean, we're on team Candace. And I'm also you know, I'm on Team Freedom Center, too. ... But, you know, I got I got a text message from some lunatic. Charlie, why do you have her still speaking at AmFest? I said, lose my number.
 

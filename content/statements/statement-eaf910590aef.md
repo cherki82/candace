@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(861);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=861s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But when you consider the fact that he's our FBI director still, when you consider the fact that we have depleted 80 percent of our missile interceptors because we've given military aid to Israel, Ukraine, we're currently using interceptors, you know, in this war against Iran.
 

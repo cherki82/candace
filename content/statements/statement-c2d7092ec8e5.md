@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:02:08](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(128);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we found out as I was going to speak in Dallas at their YWLS convention that Ben had sent an intern who was gonna ask me a question while I was on stage
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:15:44](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(944);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=944s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I will say allegedly here, allegedly, they told me that Jerry Falwell Jr. ... Was also taken down, unfairly taken down is what they said.
 

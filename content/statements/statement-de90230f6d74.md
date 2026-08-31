@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:54:19](/episodes/ep-4JxgOclKzqg.md#t-00-53-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3259);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=3259s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that has been the reason why I am focused on this case, because Charlie (Charlie Kirk) was my friend and what has happened here is unacceptable and what Turning Point USA has become is unacceptable. In my opinion.
 

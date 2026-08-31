@@ -6,6 +6,7 @@ date: "2025-09-11"
 ---
 
 **Date:** 2025-09-11
+**Date precision:** Day
 
 ## Event
 
@@ -14,7 +15,7 @@ date: "2025-09-11"
 ## Mentioned In
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:12:18](/episodes/ep-581dILVcEE4.md#event-event-2025-09-11-cnn-publishes-article-on-uvu-student-sightings-of-t-00-11-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(738);return false;">▶️ Play</a>
+**Timestamp:** [00:12:18](/episodes/ep-581dILVcEE4.md#event-event-2025-09-11-cnn-publishes-article-on-uvu-student-sightings-of-t-00-11-59) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=738s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> ould try to track down these students. Of course, CNN, which ran this article—which I can show you here—didn't include their names, but here is the article. You can see it was published the day after
+> You can see it was published the day after the assassination, and it reads, "Utah Valley University

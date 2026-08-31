@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:32:41](/episodes/ep-his-JBjlkh8.md#t-00-32-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1961);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=1961s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I do believe that because you are not forthcoming about the information that you have about Charlie (Charlie Kirk) texting you guys and saying that he thought he was going to be assassinated that very next day, okay?
 

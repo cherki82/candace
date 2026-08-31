@@ -1,17 +1,17 @@
 ---
-title: "It was Tyler Robinson and he acted alone and there was nobod..."
-description: "\"It was Tyler Robinson and he acted alone and there was nobody else there\" — Candace Owens"
+title: "Owens promised to review the available footage and report ho..."
+description: "\"Owens promised to review the available footage and report honestly if it showed that Tyler Robinson acted alone and nobody else was involved.\" — Candace Owens"
 statement_id: "statement-998279cf6d8d"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> It was Tyler Robinson and he acted alone and there was nobody else there
+> Owens promised to review the available footage and report honestly if it showed that Tyler Robinson acted alone and nobody else was involved.
 
 ## Attribution
 
@@ -23,10 +23,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:54:35](/episodes/ep-2WEHTk0Xewg.md#t-00-54-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3275);return false;">Play</a>
+**Timestamp:** [00:54:12](/episodes/ep-2WEHTk0Xewg.md#t-00-53-57) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=3252s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It was Tyler Robinson, and he acted alone, and there was nobody else there
+> I would like to see the footage, and I think the world would trust me. If there's nothing weird that happened on that day and there's about four or five cameras on that day, I'm not gonna publish the footage, but I want to see it with my own two eyes so I can stand on this platform—so I can sit here on this platform—and I can say to the world, 'No funny business happened.' ... It was Tyler Robinson, and he acted alone, and there was nobody else there. And this kid just—I guess, after having a life where he didn't bother anybody—just woke up one day and chose violence and then decided to explain every layer of what he had done that day via text messages. ... I want to be able to look people in the eye honestly and say that. So I want to see all this footage.
 
 ## Verification
 
@@ -49,4 +49,4 @@ Official law enforcement sources (Governor Cox, FBI Director Kash Patel) stated 
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Promise | **Verifiable:** Yes

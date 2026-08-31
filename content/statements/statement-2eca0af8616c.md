@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:57:00](/episodes/ep-zSKrxIUMNqw.md#t-00-57-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3420);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was also a story years ago about how they had poisoned the chicken feed, which I totally believe happened, and all of these hens were not laying. ... when we looked behind the company that was behind it, it was like Perdue, wasn't it? Am I just thinking it's Perdue because it's Perdue chicken? You— I don't know. ... the point is, is that it was Big Pharma, which even controls what the chickens eat.
 

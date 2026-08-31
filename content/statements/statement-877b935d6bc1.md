@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:33:59](/episodes/ep-k1b1NDCrNFs.md#t-00-33-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and wanted a comment or a statement but they never came to me they never came to George (George Farmer) and he never told us okay that's that that's what he starts with absolutely untrue and a lie and completely made up there was never an incident that happened while I was a Daily Wire I was never contacted the media about me like enemy number one you think they just sat on that like Jeremy (Jeremy Boreing) do you want to comment on this we're not going to reach out to Candace but would you like to comment on this
 

@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:32:48](/episodes/ep-7ERqbYElOfs.md#t-00-32-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1968);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1968s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, everyone in the town, all the local sheriff departments, the SWAT team, they believe that the feds came in and they started lying and they were sending people on wild goose chase and they said the gun was here and they said it was over there. There was no gun. They didn't want the bomb dogs to go into certain places. Like I said, I am not getting this information from people that do not have the credibility to assert that. That's how I got. The pictures inside of the car. Okay, I'm speaking to people with firsthand intimate knowledge, and they all believe that the feds set this up.
 

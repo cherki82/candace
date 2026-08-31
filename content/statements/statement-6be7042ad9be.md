@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk was raised on Rush Limbaugh and his ultimate go..."
-description: "\"Charlie Kirk was raised on Rush Limbaugh and his ultimate goal was to have a show like Rush Limbaugh one day\" — Candace Owens"
+title: "Candace Owens said Charlie Kirk was raised listening to Rush..."
+description: "\"Candace Owens said Charlie Kirk was raised listening to Rush Limbaugh and told her his goal was to have a show like Limbaugh's one day.\" — Candace Owens"
 statement_id: "statement-6be7042ad9be"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie Kirk was raised on Rush Limbaugh and his ultimate goal was to have a show like Rush Limbaugh one day
+> Candace Owens said Charlie Kirk was raised listening to Rush Limbaugh and told her his goal was to have a show like Limbaugh's one day.
 
 ## Attribution
 
@@ -19,13 +19,18 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Rush Limbaugh](/entities/person-rush-limbaugh.md) (person)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:03:14](/episodes/ep-_dRaEO47-co.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(194);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=194s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> conversations that if he could have a show like Rush Limbaugh (Rush Limbaugh) one day, he would be very happy. That
+> He was really raised on Rush Limbaugh, listening to Rush Limbaugh day in and day out, and he told me through many conversations that if he could have a show like Rush Limbaugh one day, he would be very happy. ... That was, I think, his ultimate goal, and it happened.
 
 ## Verification
 

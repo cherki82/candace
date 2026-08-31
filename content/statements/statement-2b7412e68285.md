@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:17:36](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1056);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1056s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was mass panic. We have covered this. Charlie (Charlie Kirk) lost millions and millions of dollars on stage from his pro-Israel donors over Tucker (Tucker Carlson) calling out Epstein.
 

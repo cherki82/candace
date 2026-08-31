@@ -3,9 +3,18 @@ title: "Serbia"
 description: "Serbia (Places) - 4 mentions"
 id: "gpe-serbia"
 type: "GPE"
+categories:
+  - "country"
+  - "Europe"
 ---
 
 _Type: Places_
+
+**Categories:** country, Europe
+
+**Entity verification:** verified
+> Official Serbian government page gives the country’s official name as Republic of Serbia; Serbia is the transcript’s standard short form.
+Source: [Basic info | Government of the Republic of Serbia](https://www.srbija.gov.rs/tekst/en/130127/basic-info.php)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-serbia-t-00-57-38">2025-11-10 · 00:58:03</a></strong></div>
@@ -64,7 +73,7 @@ _Type: Places_
 **[00:58:03](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-serbia-t-00-57-38)**
 > "Somebody in Serbia got the book, and her husband fake-signed it."
 
-**[00:58:28](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-serbia-t-00-58-22)**
+**[00:58:28](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-serbia-t-00-57-38)**
 > "...'s all the way from Belgrade, Serbia."
 
 </details>

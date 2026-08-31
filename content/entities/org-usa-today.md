@@ -20,7 +20,7 @@ _Type: Organizations_
 Source: [Our Brands - USA TODAY Co.](https://www.usatodayco.com/brands/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-03">2025-10-02 · 00:21:42</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-37">2025-10-02 · 00:21:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-usa-today-t-00-26-55">2026-02-10 · 00:26:58</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -32,16 +32,16 @@ Source: [Our Brands - USA TODAY Co.](https://www.usatodayco.com/brands/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-03">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-37">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-03" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-37" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-usa-today-t-00-26-55" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-03) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-37) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-usa-today-t-00-26-55) | 1 |
 
 </details>
@@ -63,10 +63,10 @@ Source: [Our Brands - USA TODAY Co.](https://www.usatodayco.com/brands/)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:21:42](/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-03)**
+**[00:21:42](/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-21-37)**
 > "Check out this USA Today video of people speaking about what they heard an..."
 
-**[00:24:18](/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-24-03)**
+**[00:24:18](/episodes/ep-t1YtLS1n8Vs.md#ent-org-usa-today-t-00-23-57)**
 > "...d this, I guess; all of these USA Today or AP, nobody asked them like who they were or if..."
 
 </details>

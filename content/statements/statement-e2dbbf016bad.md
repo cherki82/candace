@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:53:33](/episodes/ep-qZ8RWfyuewQ.md#t-00-53-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3213);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3213s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What are you going to ask her at the bottom here? You can see I said, I'm asking everything. ... First question, why did you murder your husband? ... cry emoji cry emoji and again the context of this was us making fun of Bari Weiss and Ben Shapiro and the syndicate of people that had come out and said that asking any questions about Erika Kirk at all was akin to just saying exactly that you murdered your own husband
 

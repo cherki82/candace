@@ -26,7 +26,7 @@ type: "citation"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:28:19](/episodes/ep-d7VsbEIWkP8.md#t-00-27-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1699);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1699s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson is definitively not left-handed. It is actually spelled out in his legal filings. But if you conduct your own investigation into all of the many social media photos that are posted by his mother onto Facebook from the time he was a kid all through his young adulthood, he's right-handed.
 

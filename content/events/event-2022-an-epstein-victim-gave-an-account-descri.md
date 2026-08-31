@@ -6,6 +6,11 @@ date: "2022"
 ---
 
 **Date:** 2022
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “her 2022 account”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2022"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:04:09](/episodes/ep-5-HUyv9LyMg.md#event-event-2022-an-epstein-victim-gave-an-account-descri-t-00-03-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(249);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > one victim had previously described arriving at the building and being shown a small apartment

@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:08:04](/episodes/ep-EtLHqDbxqks.md#t-01-07-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4084);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4084s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Is it fair to ask if it's plausible that when Charlie (Charlie Kirk) was taken to the Hamptons, the phone call no one wants to address from Bibi (Benjamin Netanyahu), is it fair to ask the question if it was literally supposed to be me who was supposed to be back on tour with Charlie (Charlie Kirk)? Did he say no to killing Candace Owens? And then did he become a liability because he said no? What did Charlie (Charlie Kirk) turn down from Bibi (Benjamin Netanyahu) while Erika (Erika Kirk) was there?
 

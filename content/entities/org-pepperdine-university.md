@@ -70,7 +70,7 @@ Source: [This is Pepperdine | Pepperdine University](https://www.pepperdine.edu/
 <details>
 <summary>Formerly Employed (1)</summary>
 
-- **[Stacey Sheridan](/entities/person-stacey-sheridan.md)**
+- **[Stacy Sheridan](/entities/person-stacy-sheridan.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36): “worked under Jeffrey Epstein's friend, Kenneth Starr at Pepperdine University.”
@@ -82,7 +82,7 @@ Source: [This is Pepperdine | Pepperdine University](https://www.pepperdine.edu/
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Stacey Sheridan](/entities/person-stacey-sheridan.md)** formerly worked for this
+- **[Stacy Sheridan](/entities/person-stacy-sheridan.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36): “worked under Jeffrey Epstein's friend, Kenneth Starr at Pepperdine University.”
@@ -100,7 +100,7 @@ Source: [This is Pepperdine | Pepperdine University](https://www.pepperdine.edu/
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
 
 - [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) (Claim) **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine..."](/statements/statement-768813e26649.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+  - Also about: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>
 

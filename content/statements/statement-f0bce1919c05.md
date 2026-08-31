@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:52:12](/episodes/ep-xi8SYJTUXPM.md#t-00-52-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3132);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=3132s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm not kidding, this is in Tyler Robinson's messages, I hope that Pooch, referring to the dog, he said the canines were here, I hope that Pooch has a bad sniffer.
 

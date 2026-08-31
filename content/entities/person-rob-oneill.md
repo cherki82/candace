@@ -36,7 +36,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 <p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-rob-oneill-t-00-02-41">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-rob-oneill-t-01-01-35" style="--pulse-height:20%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54" style="--pulse-height:60%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54" style="--pulse-height:40%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-rob-oneill-t-00-02-41" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 5 mentions" title="2026-07-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-rob-oneill-t-00-36-37" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-rob-oneill-t-03-04-07" style="--pulse-height:80%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-rob-oneill-t-01-01-35) | 1 |
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54) | 3 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-rob-oneill-t-00-02-41) | 5 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-rob-oneill-t-00-36-37) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-rob-oneill-t-03-04-07) | 4 |
@@ -124,16 +124,13 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
 **[00:28:22](/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54)**
 > "...appy to hear former Navy SEAL Rob O'Neill explain this plainly when he went on Piers Morgan..."
 
 **[00:28:32](/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54)**
 > "...to what he had to say. (Clip: Rob O'Neill)"
-
-**[00:29:10](/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54)**
-> "Rob O'Neill speaking in clip"
 
 </details>
 

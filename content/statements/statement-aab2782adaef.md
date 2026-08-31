@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:23:55](/episodes/ep-BxN2-aeMYIs.md#t-00-23-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1435);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1435s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The documents also discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing, and ideological audience segmentation.
 

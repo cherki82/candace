@@ -1,30 +1,25 @@
 ---
-title: "2025-05-27: Walid Mahmood arrives in Provo aboard Egyptian mil..."
-description: "2025-05-27 - Walid Mahmood arrives in Provo aboard Egyptian military plane SUBTU"
+title: "2025-05-27: Walid Mahmood arrived in Provo aboard Egyptian mil..."
+description: "2025-05-27 - Walid Mahmood arrived in Provo aboard Egyptian military plane SU-BTU."
 event_id: "event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil"
 date: "2025-05-27"
 ---
 
 **Date:** 2025-05-27
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “May 27th of this year”
 
 ## Event
 
-> Walid Mahmood arrives in Provo aboard Egyptian military plane SUBTU
+> Walid Mahmood arrived in Provo aboard Egyptian military plane SU-BTU.
 
-## Mentioned In (2 times)
-
-### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
+## Mentioned In
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil-t-00-14-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(912);return false;">▶️ Play</a>
+**Timestamp:** [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil-t-00-15-09) 
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> e name that one of those individuals was using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew using the name Walid Mahmood, okay? Her
-
-### 2. Shocking Revelation About The Egyptian Planes... | Candace E...
-
-**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil-t-00-14-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(882);return false;">▶️ Play</a>
-
-> e name that one of those individuals was using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew us
+> Specifically, Walid Mahmood came to Provo on May 27th of this year.

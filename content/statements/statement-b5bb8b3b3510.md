@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:05:19](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(319);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=319s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have reached the point where I find Erika Kirk to be deeply disturbing, ... not because of rumors or gossip, ... but because of consistent observable patterns of behavior.
 

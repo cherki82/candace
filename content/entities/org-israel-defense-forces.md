@@ -1,36 +1,37 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 52 mentions"
+description: "Israel Defense Forces (Organizations) - 69 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
   - "IDF"
   - "Israeli military"
+  - "Israel Defense Forces"
+  - "Israeli Defense Forces"
 categories:
   - "military organization"
   - "Israel"
+  - "Israeli military"
 ---
 
 _Type: Organizations_
 
-**Also known as:** IDF, Israeli military
+**Also known as:** IDF, Israeli military, Israel Defense Forces, Israeli Defense Forces
 
-**Categories:** military organization, Israel
-
-> **Possibly overlapping entity records:** [IDF](/entities/org-idf). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** military organization, Israel, Israeli military
 
 **Entity verification:** verified
 > The transcript uses IDF for Israel's military; the official organization site verifies the canonical name Israel Defense Forces and abbreviation IDF.
 Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51">2026-01-09 · 00:08:04</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48">2025-09-15 · 01:03:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-israel-defense-forces-t-01-01-38">2026-07-23 · 01:01:45</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +39,17 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48" style="--pulse-height:15%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-israel-defense-forces-t-00-08-02" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-israel-defense-forces-t-00-44-02" style="--pulse-height:23%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-israel-defense-forces-t-00-50-57" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-israel-defense-forces-t-00-32-16" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-israel-defense-forces-t-00-20-40" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-israel-defense-forces-t-00-49-54" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-israel-defense-forces-t-00-40-41" style="--pulse-height:15%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-israel-defense-forces-t-00-41-34" style="--pulse-height:15%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-israel-defense-forces-t-00-15-32" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-israel-defense-forces-t-00-03-53" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-56" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
@@ -60,6 +72,17 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-israel-defense-forces-t-00-08-02) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-israel-defense-forces-t-00-44-02) | 3 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-israel-defense-forces-t-00-50-57) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-israel-defense-forces-t-00-32-16) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-israel-defense-forces-t-00-20-40) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-israel-defense-forces-t-00-49-54) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-israel-defense-forces-t-00-40-41) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-israel-defense-forces-t-00-41-34) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-israel-defense-forces-t-00-15-32) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-israel-defense-forces-t-00-03-53) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-56) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42) | 5 |
@@ -84,7 +107,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -327,6 +350,109 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 </details>
 
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:03:53](/episodes/ep-w1oqQbR_bYs.md#ent-org-israel-defense-forces-t-00-03-53)**
+> "...me, Brian Mast was wearing an IDF uniform in Congress and he basically said that th..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:15:32](/episodes/ep-6J6lRZPQ4jk.md#ent-org-israel-defense-forces-t-00-15-32)**
+> "I think that that was an IDF soldier."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+
+**[00:41:46](/episodes/ep-581dILVcEE4.md#ent-org-israel-defense-forces-t-00-41-34)**
+> "...en more amazing. Here we go. Here we are learning about Christianity. Oh, actually, it's a photo of IDF soldiers wearing yarmulkes coming home. And it has a quotation here that said, "God began to paint ..."
+
+**[00:42:09](/episodes/ep-581dILVcEE4.md#ent-org-israel-defense-forces-t-00-42-09)**
+> "...verywhere—everywhere across America. And they basically exist to convince Christians to worship the IDF. I just find that to be quite strange. Let me know if I'm out of pocket here and you really think t..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+
+**[00:40:41](/episodes/ep-MUA9ebCF4Ow.md#ent-org-israel-defense-forces-t-00-40-41)**
+> "...Other than people saying she works for Marissa Strait, PragerU—who, you know, she's formerly of the IDF Intelligence Unit. I worked for PragerU. I'm not a Mossad honeypot person, so that's not evidence. ..."
+
+**[00:50:49](/episodes/ep-MUA9ebCF4Ow.md#ent-org-israel-defense-forces-t-00-50-14)**
+> ".... Don't be dumb rights: "Israel isn't even our ally. No treaty to help if attacked. Didn't spot one IDF soldier during my time in Iraq or Afghanistan. Yeah, they don't have enough bodies. They need us. S..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:50:05](/episodes/ep-Qfwr08Ebczo.md#ent-org-israel-defense-forces-t-00-49-54)**
+> "That's very strange. Israel's moderator served in the IDF—we know—and Benjamin Netanyahu wants TikTok secured for Israel's future."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-israel-defense-forces-t-00-20-40)**
+> "you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+
+**[00:32:16](/episodes/ep-2Riv3I7D0Yk.md#ent-org-israel-defense-forces-t-00-32-16)**
+> "...the one thing that hurt Charlie (Charlie Kirk) the most: was that he would never be able to wear an IDF uniform. He just wanted to go fight for Israel. That's kind of the vibes that they were trying to p..."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+
+**[00:51:01](/episodes/ep-ozWJz2spBcI.md#ent-org-israel-defense-forces-t-00-50-57)**
+> "...s crazy. This came out that like their TikTok—which we covered this before—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying, "We're taking over TikTok. My agents are going to get that ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+
+**[00:44:06](/episodes/ep-adJ4LNGp84I.md#ent-org-israel-defense-forces-t-00-44-02)**
+> "There is a note here for my producer from Erica Mindel, who is an American-Israeli Jewish former IDF soldier currently serving as the—oh, that's her name, right? Erica Mindel."
+
+**[00:44:21](/episodes/ep-adJ4LNGp84I.md#ent-org-israel-defense-forces-t-00-44-02)**
+> "...te speech. And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier and it's now war, and we own this space. So of course the deal is going to go through if th..."
+
+**[00:44:27](/episodes/ep-adJ4LNGp84I.md#ent-org-israel-defense-forces-t-00-44-02)**
+> "...war, and we own this space. So of course the deal is going to go through if they're already putting IDF soldiers in control of monitoring our speech, which means we only have to get louder, and maybe we'..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:08:32](/episodes/ep-K5GjF53bfN4.md#ent-org-israel-defense-forces-t-00-08-02)**
+> "... You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence. And like I said, you could sense there was a PR panic when people started speaking ab..."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
+
+**[01:03:26](/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48)**
+> "...ing into something that can be labeled anti-Semitic. Because, I mean, these people were like in the IDF, you know what I mean? And so there's no incentive for them to lie. But if you just want to jump ri..."
+
+**[01:03:44](/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48)**
+> "Because, I mean, these people were like in the IDF, you know what I mean"
+
+</details>
+
 </details>
 
 <details open>
@@ -345,12 +471,27 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (3)</summary>
+
+- **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she's formerly of the IDF Intelligence Unit”
+
+</details>
 
 - **[Jonathan Conricus](/entities/person-jonathan-conricus.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF ... spokesman, and out of nowhere he said, "There is no famine in Gaza. There are so many videos of fat Palestinians—fat." He emphasized "fat."”
+
+</details>
+
+- **[Marissa Streit](/entities/person-marissa-streit.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “Marissa Streit, the CEO, has never shied from telling people that she is... you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.”
 
 </details>
 
@@ -408,7 +549,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -432,10 +573,25 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 </details>
 
+- **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-40-41): “she's formerly of the IDF Intelligence Unit”
+
+</details>
+
 - **[Jonathan Conricus](/entities/person-jonathan-conricus.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF ... spokesman, and out of nowhere he said, "There is no famine in Gaza. There are so many videos of fat Palestinians—fat." He emphasized "fat."”
+
+</details>
+
+- **[Marissa Streit](/entities/person-marissa-streit.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “Marissa Streit, the CEO, has never shied from telling people that she is... you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:32](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.”
 
 </details>
 

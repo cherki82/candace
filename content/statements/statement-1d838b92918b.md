@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:14:49](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(889);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=889s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > How did they do it? Well, they interrupted the supply chain of pagers by creating a bunch of fake shell companies and selling the rigged pagers to people who were affiliated with Hezbollah.
 

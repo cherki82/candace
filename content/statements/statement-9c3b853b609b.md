@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:46:07](/episodes/ep-czVBmqZP6Ss.md#t-00-45-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2767);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2767s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then we have been told that a screwdriver was found on the roof
 

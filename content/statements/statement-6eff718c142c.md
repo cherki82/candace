@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:44:17](/episodes/ep-k1b1NDCrNFs.md#t-00-43-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2657);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2657s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We wish her well. Behind the scenes, I will bankrupt her. I will destroy her. I will sue her over wearing a blue shirt. ... proposition her maid of honor to take over her show because i want her to hurt and i want to be clear that's wrong to both sides of that equation okay two girls got hurt in the process of that two young girls got hurt in the process of that because he was deranged and focused and obsessed that is the true Jeremy Boreing now you want to talk about how obsessed he is i want you this is a true statistic since launching his new podcast Jeremy Boreing has done 19 shows that nobody has watched
 

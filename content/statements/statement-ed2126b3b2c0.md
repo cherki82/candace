@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:44:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2669);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2669s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > regarding Erica (Erika Kirk)'s whereabouts on September 10th, I want to be super clear at first that I am not questioning whether or not Erica (Erika Kirk)'s mother has an illness. ... I feel it is very fair for me to state that I do not believe Erica (Erika Kirk) was with her mother on that day. ... I believe that was a part of a narrative that was pre-sold to us and packaged beginning actually on September 8th with her post of her mother in her final state.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:23:46](/episodes/ep-1CFDtD0IgEg.md#t-00-23-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1426);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1426s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People associated with San Bernardino Police Station. He said he absolutely was not let go or transferred over any conduct issues. ... He had served years there. He left willfully because he wanted to raise his kids somewhere outside of the city. ... And he left. left apparently on very good terms.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:17:21](/episodes/ep-4DvYXBn_5JI.md#t-00-17-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1041);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1041s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Jefferson County Sheriff's Office actually acknowledged this in their October 10th update and said. That Jefferson County's deputies followed the protocol correctly and it was the outside or mutual aid officers from neighboring agencies who started going door to door asking people to open up and the sheriff's office specifically credited the teachers and the students for doing the right thing by ignoring those requests and staying locked.
 

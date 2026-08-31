@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:18:44](/episodes/ep-I0OaY6Gryqk.md#t-00-18-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1124);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1124s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is hard for me to express to you how much and how persistent and how despicable the attacks have been from Zionists. This is not an anti-Zionist conference. ... But because they are angry that people who do not principally support Israel are getting a stage, they're angry that there can be life for Carrie Prejean Bowler after she says, actually, no, Catholic doctrine does not teach that I'm supposed to subjugate myself to the whims of Israel. ... They have just been emailing everyone, calling everybody, asking for cancellations.
 

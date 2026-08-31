@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:13:14](/episodes/ep-MUA9ebCF4Ow.md#t-00-13-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(794);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=794s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because Charlie (Charlie Kirk) was done with these donors. He was done with them. He really was. And I can tell you another story about which donor was waiting for him once Tucker (Tucker Carlson) got off stage and yelled at Charlie (Charlie Kirk). That was a female Jewish donor.
 

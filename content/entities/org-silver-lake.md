@@ -1,38 +1,46 @@
 ---
 title: "Silver Lake"
-description: "Silver Lake (Organizations) - 3 mentions"
+description: "Silver Lake (Organizations) - 1 mention"
 id: "org-silver-lake"
 type: "ORG"
 aliases:
   - "Silver Lake Capital"
+categories:
+  - "technology investment firm"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Silver Lake Capital
 
+**Categories:** technology investment firm
+
+**Entity verification:** verified
+> Silver Lake's official about page identifies Silver Lake as a global technology investment firm, matching the transcript context.
+Source: [Silver Lake Purpose - About Us](https://www.silverlake.com/purpose/)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41">2025-09-19 · 00:43:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41">2025-09-19 · 00:43:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-29">2025-09-19 · 00:43:49</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-29">2025-09-19 · 00:43:49</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-29">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-29" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41) | 3 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-29) | 1 |
 
 </details>
 </section>
@@ -40,18 +48,12 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:43:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41)**
-> "... on a deal with, I think it's Silver Lake Capital."
-
-**[00:43:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41)**
-> "in on a deal with, I think it's Silver Lake Capital"
-
-**[00:43:53](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41)**
+**[00:43:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-29)**
 > "Silver Lake—they're all coming together, and we knew this was..."
 
 </details>
@@ -61,28 +63,6 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Invested In (1)</summary>
-
-- **[TikTok](/entities/org-tiktok.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[TikTok](/entities/org-tiktok.md)** has investor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
-
-</details>
-
-</details>
+_No relationships extracted yet._
 
 </details>

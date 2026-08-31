@@ -3,11 +3,19 @@ title: "Orange County"
 description: "Orange County (Places) - 4 mentions"
 id: "gpe-orange-county"
 type: "GPE"
+categories:
+  - "California county"
 ---
 
 _Type: Places_
 
+**Categories:** California county
+
 > **Possibly overlapping entity records:** [Orange County, California](/entities/gpe-orange-county-california). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Orange County government confirms the canonical California county name used in the source.
+Source: [Orange County, California](https://www.ocgov.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-08-29">2025-11-13 · 00:08:58</a></strong></div>
@@ -46,7 +54,7 @@ _Type: Places_
 **[00:08:58](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-08-29)**
 > "That's in Orange County."
 
-**[00:09:49](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-09-14)**
+**[00:09:49](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-08-29)**
 > "Orange County Superior Court Commissioner Richard M. Aronson im..."
 
 **[00:14:11](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-14-11)**

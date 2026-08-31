@@ -1,15 +1,15 @@
 ---
-title: "Robert H. Richards parent of Robert Richards the Fourth"
-description: "Evidence for the relationship: Robert H. Richards parent of Robert Richards the Fourth"
+title: "Robert H. Richards III parent of Robert Richards the Fourth"
+description: "Evidence for the relationship: Robert H. Richards III parent of Robert Richards the Fourth"
 relationship_id: "rel-523ebaf1af35"
-subject: "person-robert-h-richards"
+subject: "person-robert-h-richards-iii"
 predicate: "parent of"
 object: "person-robert-richards-the-fourth"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Robert H. Richards](/entities/person-robert-h-richards) parent of [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth)
+## [Robert H. Richards III](/entities/person-robert-h-richards-iii) parent of [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-robert-richards-the-fourth"
 
 ### Related
 
-- [Robert H. Richards](/entities/person-robert-h-richards)
+- [Robert H. Richards III](/entities/person-robert-h-richards-iii)
 - [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth)

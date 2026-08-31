@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:24:44](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1484);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1484s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > there's also another interesting faction called Christians United for Israel. They're really just another wing of AIPAC and RJC that's been used to co-opt Christians into supporting their position. ... And their position is more war, it's more strife, it's more bombs, it's send more foreign aid.
 

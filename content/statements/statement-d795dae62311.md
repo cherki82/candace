@@ -22,22 +22,13 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Josh Hammer](/entities/person-josh-hammer.md) (person)
+- [Pesach Wolicki](/entities/person-pesach-wolicki.md) (person)
 
-## Appearances (2)
-
-### 1. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
-
-**Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:00:38](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(38);return false;">Play</a>
-
-> him having already admitted that he and a rabbi in Israel had a long talk with Charlie (Charlie Kirk) the night before he died—something he was very proud of
-
-### 2. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:00:26](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(26);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=26s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he and a rabbi in Israel had a long talk with Charlie (Charlie Kirk) the night before he died—something he was very proud of.
 

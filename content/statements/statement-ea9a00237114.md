@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:42:21](/episodes/ep-ZzAT2xijKGQ.md#t-00-42-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2541);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2541s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That game ended at 830. So he definitely was not walking with Charlie (Charlie Kirk) eight o'clock
 

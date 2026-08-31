@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:14:19](/episodes/ep-amqTMimDr0A.md#t-00-13-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(859);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=859s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then I was told through messages, actual text messages that I have with Andrew (Andrew Kolvet), that Ben Shapiro was squeezing their donors and trying to get them to say that I couldn't speak at AmFest.
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:06:49](/episodes/ep-sKuYLNx3iRo.md#t-00-06-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(409);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=409s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so, and then started talking about pushing drugs. And so I was back and forth and with them on drugs and defibrillator.
 

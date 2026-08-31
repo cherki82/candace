@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:20:16](/episodes/ep-y8lak3CRwDw.md#t-00-19-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1216);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1216s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by the way, if you're wondering why they were commanding Bulgarians, Romanians, well, because everything from Afghanistan was running through Romania and Bulgaria.
 

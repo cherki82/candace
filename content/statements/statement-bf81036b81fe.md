@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:40:19](/episodes/ep-G3zdOeHpvS0.md#t-00-40-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2419);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=2419s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, no, because right now I've got to stop that bleeding.
 

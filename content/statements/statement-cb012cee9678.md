@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:31:40](/episodes/ep-A39g5oqB_eM.md#t-00-31-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1900);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1900s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Shaklee Corporation was the first company that ever created a multivitamin in America. It grew to be a massive, ... basically a multi-level marketing corporation, ... which, like I said, commanded this evangelical sales force. ... gospel is what this is really about and it grew to be a massive company that engaged in a 25-year contract with NASA.
 

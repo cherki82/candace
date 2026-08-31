@@ -1,6 +1,6 @@
 ---
-title: "his church was funded by the Wilks Brothers down in Texas."
-description: "\"his church was funded by the Wilks Brothers down in Texas.\" — Candace Owens"
+title: "Rob McCoy's church, Godspeak Calvary Chapel, was funded by t..."
+description: "\"Rob McCoy's church, Godspeak Calvary Chapel, was funded by the Wilks Brothers in Texas.\" — Candace Owens"
 statement_id: "statement-5bb3f019eee6"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,20 +11,25 @@ veracity: "true"
 
 ## Statement
 
-> his church was funded by the Wilks Brothers down in Texas.
+> Rob McCoy's church, Godspeak Calvary Chapel, was funded by the Wilks Brothers in Texas.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Rob McCoy](/entities/person-rob-mccoy.md) (person)
+- [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md) (org)
+- [Wilks Brothers](/entities/person-wilks-brothers.md) (person)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(824);return false;">Play</a>
+**Timestamp:** [00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=824s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You should also know, by the way—let me introduce this to you right now—because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas
 

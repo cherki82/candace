@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:53:28](/episodes/ep-X92MllIHDzw.md#t-00-53-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3208);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=3208s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so after the army, I got shuffled through four different schools that I later discovered are all connected to the DOD through the Aspen Education Group. I think they changed the name. I have docs, but yeah. And shell companies. I've gone through hell and back with loads of FOIAs to my name, just trying to figure out what happened to me at Turnabout Ranch in Escalante, Utah.
 

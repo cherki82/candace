@@ -6,6 +6,11 @@ date: "1954"
 ---
 
 **Date:** 1954
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1954”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1954"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:33:10](/episodes/ep-BKcOm32ZEGk.md#event-event-1954-cern-was-established-to-research-particl-t-00-33-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1990);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=1990s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But CERN was basically established in 1954 to research particle physics.

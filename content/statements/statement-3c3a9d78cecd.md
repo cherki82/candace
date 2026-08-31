@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:00:57](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(57);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=57s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at the bottom of that lawsuit from Brian Harpole it lists a Jacob William Roth a partner of the firm Who also happens to be Ben Shapiro's brother-in-law.
 

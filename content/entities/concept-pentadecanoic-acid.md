@@ -1,6 +1,6 @@
 ---
 title: "Pentadecanoic acid"
-description: "Pentadecanoic acid (Concepts) - 22 mentions"
+description: "Pentadecanoic acid (Concepts) - 31 mentions"
 id: "concept-pentadecanoic-acid"
 type: "CONCEPT"
 aliases:
@@ -24,10 +24,10 @@ _Type: Concepts_
 Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/cgi/cbook.cgi?ID=C1002842&Mask=383)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44">2026-01-20 · 01:05:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-02">2025-10-07 · 00:32:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-pentadecanoic-acid-t-00-41-56">2026-08-03 · 00:42:02</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,21 +36,25 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-25-44">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-16" style="--pulse-height:75%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 3 mentions" title="2026-02-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-pentadecanoic-acid-t-00-51-34" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-concept-pentadecanoic-acid-t-00-41-48" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-pentadecanoic-acid-t-00-34-00" style="--pulse-height:75%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12" style="--pulse-height:75%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-pentadecanoic-acid-t-00-40-50" style="--pulse-height:75%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-pentadecanoic-acid-t-00-41-16" style="--pulse-height:75%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-02" style="--pulse-height:80%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 4 mentions" title="2025-10-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-25-44" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 5 mentions" title="2025-11-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44" style="--pulse-height:80%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-16" style="--pulse-height:60%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 3 mentions" title="2026-02-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-pentadecanoic-acid-t-00-51-34" style="--pulse-height:40%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-concept-pentadecanoic-acid-t-00-41-48" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-pentadecanoic-acid-t-00-34-00" style="--pulse-height:60%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12" style="--pulse-height:60%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-pentadecanoic-acid-t-00-40-50" style="--pulse-height:60%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-pentadecanoic-acid-t-00-41-16" style="--pulse-height:60%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-02) | 4 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-25-44) | 5 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-16) | 3 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-pentadecanoic-acid-t-00-51-34) | 2 |
@@ -66,7 +70,7 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (3 mentions)</summary>
@@ -171,6 +175,43 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 
 **[01:06:00](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-05-22)**
 > "...on a mission to optimize your C15 levels to help support your long-term health and ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (5 mentions)</summary>
+
+**[00:25:57](/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-25-44)**
+> "...xcited to share with you guys C15, which is from Fatty15—the first emerging essenti..."
+
+**[00:26:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-25-44)**
+> "...100 studies, we now know that C15 strengthens our cells and is a key healthy aging ..."
+
+**[00:26:21](/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-26-21)**
+> "...n our cells don't have enough C15, they become fragile, and they age faster. And th..."
+
+**[00:26:36](/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-26-21)**
+> "...-winning, patented, 100% pure C15 supplement. It's free of flavors, allergens, or p..."
+
+**[00:26:57](/episodes/ep-Qfwr08Ebczo.md#ent-concept-pentadecanoic-acid-t-00-26-21)**
+> "...on a mission to optimize your C15 levels to help support your long-term health and ..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
+
+**[00:32:15](/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-02)**
+> "Based on over 100 studies, we know that C15 strengthens our cells and is a key healthy aging nutrient which helps slow biological aging at the cellular level."
+
+**[00:32:25](/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-02)**
+> "...n our cells don't have enough C15, they become fragile, and they age faster."
+
+**[00:32:41](/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-02)**
+> "...-winning, patented, 100% pure C15 supplement."
+
+**[00:32:58](/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-46)**
+> "...on a mission to optimize your C15 levels"
 
 </details>
 

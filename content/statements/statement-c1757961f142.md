@@ -25,8 +25,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:58:38](/episodes/ep-7RLtGgkTh9o.md#t-00-58-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3518);return false;">Play</a>
+**Timestamp:** [00:58:38](/episodes/ep-7RLtGgkTh9o.md#t-00-58-14) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=3518s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that is why I also say do not let your sons fight in the military. That is so disrespectful that nothing is getting better in our country, and we are just sending our sons over to die for Israel.
 

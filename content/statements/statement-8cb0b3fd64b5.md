@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:20:17](/episodes/ep-9hRcfSrri70.md#t-00-19-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1217);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=1217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, preliminary hearings are not about discovering guilt or innocence. It is about arguing whether or not the filing itself is defective. Okay.
 

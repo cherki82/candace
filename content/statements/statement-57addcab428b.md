@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:08:50](/episodes/ep-ozWJz2spBcI.md#t-00-08-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(530);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Michael pendant when he died, okay
 

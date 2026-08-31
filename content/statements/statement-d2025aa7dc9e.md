@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:36:58](/episodes/ep-5NQyGuRYbU8.md#t-00-36-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2218);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2218s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Why that was being boosted at the White House, why the Department of War is saying this needs to be the number one clip by morning within an hour of that taking place. I want to know who recorded it.
 

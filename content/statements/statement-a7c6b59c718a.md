@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:18:31](/episodes/ep-5zgkrOaCCj4.md#t-00-18-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1111);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=1111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They're telling you that actually, if you listen to it, I think what they're saying is Tyler (Tyler Robinson) stopped his car to ask the police officer a question.
 

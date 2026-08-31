@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:24:51](/episodes/ep-iB-YtO3UZOg.md#t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Let's get on that. More tips at CandaceOwens.com because if we are able to prove that this took place beyond a shadow of a doubt with paperwork, then ... I would say foreknowledge of Charlie's assassination can no longer be disputed.
 

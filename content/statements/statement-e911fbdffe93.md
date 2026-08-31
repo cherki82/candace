@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:06:00](/episodes/ep-AH1KVKkweUE.md#t-00-05-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, we also told you that Rick (Rick Cutler) was among those who allegedly stripped down his clothes at the hospital. I think that's something obviously Frank (Frank Turek) has been open about. ... But we were also told that the feds were the ones who allegedly took those clothes thereafter down to his boxer briefs, allegedly.
 

@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:45:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-45-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2753);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2753s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He betrayed us, right? In his right mind, he betrayed us and he did it for more money, for deals, for the opportunity to be in the White House again, whatever it was, he sold us out. And we just have to sort of sit with that and face that reality.
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:42:01](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2521);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2521s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a flawless audit report when three 990 forms were never filed with the IRS. And just to clarify, Baker Tilly's audit opinion letter
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:23:47](/episodes/ep-Ux1kzgQxkws.md#t-00-23-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1427);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=1427s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It just becomes the most ungodly addiction that you can possibly imagine to the point where I was smoking crack. ... You know, I mean, literally, you know, I was either looking for or smoking or recovering, not even recovering. You don't recover. ... You just go find more. for um close to a two-year period of time and it took me to places you know i wrote all about it and i got made fun of about it and you know people think that you know when i wrote my book like you know you know clawing through the carpet to find crack cocaine and you know parmesan cheese and you know i know it's a real laugh line but anybody that's ever been an addict like that They don't laugh about it.
 

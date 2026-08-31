@@ -6,6 +6,15 @@ date: "2025-12-10"
 ---
 
 **Date:** 2025-12-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “today”
+
+**Normalization note:** Interview during final minutes of Wednesday's edition of Outnumbered
+
+**Date source:** [https://www.foxnews.com/media/erika-kirk-pushes-back-online-conspiracy-theories-about-husbands-death](https://www.foxnews.com/media/erika-kirk-pushes-back-online-conspiracy-theories-about-husbands-death)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2025-12-10"
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
 **Timestamp:** [00:00:35](/episodes/ep-6DhWawD4ZiM.md#event-event-2025-12-10-erika-kirk-interview-with-harris-faulkne-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(35);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=35s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she just gave an interview live with Harris Faulkner on Fox News
 
@@ -25,6 +34,6 @@ date: "2025-12-10"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:48:01](/episodes/ep-KpxIBWkNsSs.md#event-event-2025-12-10-erika-kirk-interview-with-harris-faulkne-t-00-47-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2881);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=2881s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she went on that show and then she was all fired up for the first time

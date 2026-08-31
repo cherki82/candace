@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:10:41](/episodes/ep-his-JBjlkh8.md#t-00-10-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(641);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=641s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I can also give you more than that as well—as people that are currently working for Turning Point USA who said that Tyler Bowyer—and these are young men—tried to hook up with them after some events.
 

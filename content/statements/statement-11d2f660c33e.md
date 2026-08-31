@@ -1,16 +1,16 @@
 ---
-title: "It was at this time that Benjamin Netanyahu was called and C..."
-description: "\"It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel. This was an under duress situation\" — Candace Owens"
+title: "Owens said she would characterize the situation in which Net..."
+description: "\"Owens said she would characterize the situation in which Netanyahu called and invited Charlie Kirk to Israel as occurring under duress\" — Candace Owens"
 statement_id: "statement-11d2f660c33e"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel. This was an under duress situation
+> Owens said she would characterize the situation in which Netanyahu called and invited Charlie Kirk to Israel as occurring under duress
 
 ## Attribution
 
@@ -27,15 +27,15 @@ type: "accusation"
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:16:14](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(974);return false;">Play</a>
+**Timestamp:** [00:16:28](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=988s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel. This was an under duress situation, I would say
+> It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel. This was an under duress situation, I would say, because I've been in these situations before.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

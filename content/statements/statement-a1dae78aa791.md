@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(777);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=777s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I specifically said Tyler Bowyer was a sexual deviant. I stand by that. It's the truth.
 

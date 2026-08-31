@@ -6,6 +6,7 @@ date: "2025-11-08"
 ---
 
 **Date:** 2025-11-08
+**Date precision:** Day
 
 ## Event
 
@@ -15,6 +16,6 @@ date: "2025-11-08"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:39:07](/episodes/ep-r1PS67aRmcA.md#t-00-39-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2347);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=2347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, in that same vein, in case you guys missed this going around, Eric and Lara Trump

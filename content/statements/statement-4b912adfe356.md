@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:16:06](/episodes/ep-SKNJPul29zU.md#t-01-15-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4566);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4566s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm not really big into religious doctrine per se, but I definitely don't think I'm an atheist anymore.
 

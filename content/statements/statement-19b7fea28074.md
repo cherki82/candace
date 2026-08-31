@@ -7,7 +7,7 @@ type: "promise"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:41:40](/episodes/ep-HGtMfbePDKk.md#t-00-41-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=2500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > our debate has no time limit that's another thing I said you can we can talk to your blue in the face No tricks.
 

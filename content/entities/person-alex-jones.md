@@ -1,6 +1,6 @@
 ---
 title: "Alex Jones"
-description: "Alex Jones (People) - 59 mentions"
+description: "Alex Jones (People) - 60 mentions"
 id: "person-alex-jones"
 type: "PERSON"
 categories:
@@ -20,8 +20,8 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35">2025-09-22 · 00:12:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-11-36">2026-07-30 · 00:11:47</a></strong></div>
 <div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
-<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -31,14 +31,14 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-13">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 3 mentions" title="2025-09-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-alex-jones-t-00-30-28" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14" style="--pulse-height:17%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26" style="--pulse-height:11%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-20-55" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-52-51" style="--pulse-height:11%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-58-59" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-05" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -53,14 +53,14 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35) | 2 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35) | 3 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-alex-jones-t-00-30-28) | 1 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14) | 3 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-20-55) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-52-51) | 2 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-58-59) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44) | 12 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-05) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08) | 1 |
@@ -77,7 +77,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (4 mentions)</summary>
@@ -265,8 +265,8 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19)**
-> "... go. Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus Christ of Na..."
+**[00:59:34](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-58-59)**
+> "More is going to come out because we're not going to let this go. Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker Carlson—bold voices that are exposing darkness."
 
 </details>
 
@@ -281,18 +281,18 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:53:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26)**
-> "...istake because people—it catalyzes people waking up and learning exactly how this matrix works. And Alex Jones brought this up on his show, my kill switch. Here's what he had to say. (Clip of Alex Jones:) "Boy,..."
+**[00:53:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-52-51)**
+> "and learning exactly how this matrix works. And Alex Jones brought this up on his show, my kill switch."
 
-**[00:53:33](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26)**
-> "...ks. And Alex Jones brought this up on his show, my kill switch. Here's what he had to say. (Clip of Alex Jones:) "Boy, did she lay the traps for him. She comes out and says, 'Yeah, Charlie (Charlie Kirk) was ca..."
+**[00:53:33](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-52-51)**
+> "Here's what he had to say. (Clip of Alex Jones:)"
 
 </details>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03)**
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-20-55)**
 > "...ng. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for..."
 
 </details>
@@ -328,13 +328,16 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (3 mentions)</summary>
 
 **[00:12:12](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35)**
 > "...e angle went through this way. I did not imagine they were just going to say that it was a miracle. Alex Jones—he immediately took to X live. This began trending. The statement began trending, and he jumped ont..."
 
+**[00:14:49](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-12-16)**
+> "because Alex"
+
 **[00:12:16](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-12-16)**
-> "...an trending, and he jumped onto X, and he responded to that statement, saying this. Take a listen. (Alex Jones clip) The spokesperson for TPUSA just posted two hours ago that they talked to the coroner and that..."
+> "The statement began trending, and he jumped onto X, and he responded to that statement, saying this. Take a listen. (Alex Jones clip)"
 
 </details>
 
@@ -359,10 +362,9 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <summary>Criticized (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:06](/episodes/ep-ja26iltROkM.md#t-00-11-35): “The spokesperson for TPUSA just posted”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): “Alex Jones, he immediately took to X live... The spokesperson for TP USA just posted”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-26): “The spokesperson for TPUSA just posted two hours ago that they talked to the coroner and that Charlie Kirk was shot with .30-06 in the left side of his neck and that he's a man of steel and that the bones in his neck that are like chicken bones”
 
 </details>
 
@@ -492,10 +494,9 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:06](/episodes/ep-ja26iltROkM.md#t-00-11-35): “The spokesperson for TPUSA just posted”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): “Alex Jones, he immediately took to X live... The spokesperson for TP USA just posted”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-26): “The spokesperson for TPUSA just posted two hours ago that they talked to the coroner and that Charlie Kirk was shot with .30-06 in the left side of his neck and that he's a man of steel and that the bones in his neck that are like chicken bones”
 
 </details>
 
@@ -532,7 +533,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Alex Jones (9)</strong></summary>
+<summary><strong class="section-title">Statements by Alex Jones (8)</strong></summary>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>
@@ -546,27 +547,24 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3)</summary>
 
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) [○] (Claim) ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave Smith, Max..."](/statements/statement-e74fc96d3122.md)
+- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-02) [✓] (Claim) ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave Smith, Max..."](/statements/statement-e74fc96d3122.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md)
 
-- [00:56:50](/episodes/ep-2Riv3I7D0Yk.md#t-00-56-35) [○] (Claim) ["Charlie Kirk specifically thought Israel was going to kill him"](/statements/statement-2a174a3c9f01.md)
+- [00:55:38](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-02) [✓] (Opinion) ["Alex Jones said he had seen no evidence Israel killed Charlie Kirk and wanted ba..."](/statements/statement-72b470641d27.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:56:50](/episodes/ep-2Riv3I7D0Yk.md#t-00-56-28) [✓] (Claim) ["Alex Jones said, 'the word is' that Charlie Kirk specifically thought Israel was..."](/statements/statement-2a174a3c9f01.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (5)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (3)</summary>
 
-- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Claim) ["A .30-06 bullet traveling at 1,900 feet per second would create a tiny entrance ..."](/statements/statement-8b12eca4362f.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Claim) ["A .30-06 round at 200 yards would completely go through a human body and blow a ..."](/statements/statement-d43148f23abd.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Claim) ["Alex Jones stated that a .30-06 bullet at approximately 1,900 feet per second sh..."](/statements/statement-c47b113fbac1.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [✓] (Claim) ["Alex Jones stated that a .30-06 bullet at approximately 1,900 feet per second sh..."](/statements/statement-c47b113fbac1.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Opinion) ["Charlie Kirk was shot with .30-06 in the left side of his neck and that he's a m..."](/statements/statement-d6b74a7d0b7a.md)
 

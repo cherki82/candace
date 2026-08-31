@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:37:08](/episodes/ep-19vHhjF7-NA.md#t-00-36-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2228);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > given what i have learned about emmanuel macron and how they were just literally picking uh french presidents the rothschild's family picking them for years they put people into power
 

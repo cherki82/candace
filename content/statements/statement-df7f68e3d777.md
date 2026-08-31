@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [01:02:36](/episodes/ep-9naMwS0kMBE.md#t-01-02-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3756);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=3756s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she did tell me that she found out Charlie was dead before they took off in Arizona. And I think about that a lot, like why wait an hour on the tarmac?
 
@@ -39,7 +39,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:25:17](/episodes/ep-DYD_QHMPwqM.md#t-00-24-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1517);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1517s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also strange is that she waited an hour on the tarmac for Andrew Kolvet's plane to land.
 

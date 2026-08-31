@@ -15,7 +15,7 @@ object: "person-tim-pool"
 
 **[Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU)**
 
-- [00:24:45](/episodes/ep-Kmt6HgRjckU#t-00-24-45): _So he hosted Milo on his show._
+- [00:24:43](/episodes/ep-Kmt6HgRjckU#t-00-24-43): _So he hosted Milo (Milo Yiannopoulos) on his show._
 
 ### Related
 

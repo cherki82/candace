@@ -60,16 +60,16 @@ Source: [About | GiveSendGo](https://www.givesendgo.com/about)
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
 
 **[00:33:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
-> "You can support Mitch at GiveSendGo.com slash Candice podcast."
+> "You can support Mitch at GiveSendGo.com slash Candace podcast."
 
 **[00:33:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
 > "...l you we would put together a GiveSendGo."
 
 **[00:33:32](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
-> "...bit more about his story, but GiveSendGo.com slash Candice podcasts to support him."
+> "I need to fill out more and a little bit more about his story, but GiveSendGo.com slash Candace podcasts to support him."
 
 **[00:52:00](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-51-30)**
-> "... but you can support Mitch at GiveSendGo.com slash Candice podcast."
+> "You'll see that I haven't donated yet because I literally hit publish on that right before we went live, but you can support Mitch at GiveSendGo.com slash Candace podcast."
 
 </details>
 

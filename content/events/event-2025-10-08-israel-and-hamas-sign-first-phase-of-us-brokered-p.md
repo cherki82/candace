@@ -6,6 +6,7 @@ date: "2025-10-08"
 ---
 
 **Date:** 2025-10-08
+**Date precision:** Day
 
 ## Event
 
@@ -14,7 +15,10 @@ date: "2025-10-08"
 ## Mentioned In
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:46:52](/episodes/ep-pc3pxRyNFZk.md#event-event-2025-10-08-israel-and-hamas-sign-first-phase-of-us-brokered-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2812);return false;">▶️ Play</a>
+**Timestamp:** [00:47:44](/episodes/ep-pc3pxRyNFZk.md#event-event-2025-10-08-israel-and-hamas-sign-first-phase-of-us-brokered-p-t-00-47-28) 
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=2864s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> sday. Last show until I take a much-needed break. And it's gonna be a good one. As always, as we continue this investigation, we are definitively getting closer. So what do we recall? Well, we were to
+> Israel and Hamas have both signed off on the first phase of our peace plan.
+
+> **Date stated in this source:** “Wednesday”
+> **Date review note:** Wednesday is anchored to the source publication date of 2025-10-09.

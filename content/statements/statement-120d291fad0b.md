@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:40:34](/episodes/ep-ja26iltROkM.md#t-00-39-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2434);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=2434s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > " "You know, there once was a president who started talking about that—suggesting that the precursor to AIPAC, which became AIPAC, should register under FARA—and he ended up getting shot in a moving vehicle in broad daylight with the whole world watching.
 

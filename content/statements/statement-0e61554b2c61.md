@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:20:02](/episodes/ep-OEAHy3SsIiI.md#t-00-19-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1202);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=1202s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who was quite literally born a male and who quite literally committed statutory rape under the then French law against a 14-year-old student,
 

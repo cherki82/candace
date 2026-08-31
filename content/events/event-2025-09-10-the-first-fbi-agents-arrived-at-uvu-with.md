@@ -7,6 +7,11 @@ time: "12:39"
 ---
 
 **Date:** 2025-09-10 at 12:39
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Wednesday; 1239”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "12:39"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:13:11](/episodes/ep-AH1KVKkweUE.md#event-event-2025-09-10-the-first-fbi-agents-arrived-at-uvu-with-t-00-13-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The first FBI agents arrived on scene in 16 minutes with chiefs of police at 1239

@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:12:04](/episodes/ep-i8m_6D4QGmk.md#t-00-11-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(724);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=724s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Star of David, as they term it, is in fact an occult symbol meant to represent King Solomon's ring.
 

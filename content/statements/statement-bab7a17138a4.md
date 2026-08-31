@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:42:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-42-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2541);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2541s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And if we have frangible ammunition, which we do in this case, a flex tip round, well, I'm sorry, not a flex tip, a soft point round from 150 grain Remington core lock, that's just a small jacket.
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:17:43](/episodes/ep-aPOyk1i2LOc.md#t-00-17-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1063);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=1063s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And if we have frangible ammunition, which we do in this case, a flex tip round, well, I'm sorry, not a flex tip, a soft point round from 150 grain Remington core lock, that's just a small jacket.
 

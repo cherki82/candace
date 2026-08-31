@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:35:14](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=2114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm just not loving the fact that I get a call from the federal government asking me to stop speaking about Brigitte
 

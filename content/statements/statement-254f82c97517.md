@@ -22,14 +22,15 @@ veracity: "mixed"
 ## About
 
 - [Randy Fine](/entities/person-randy-fine.md) (person)
+- [American Israel Public Affairs Committee](/entities/org-aipac.md) (org)
 
 ## Source
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:02:34](/episodes/ep-K1tFD7FfoCU.md#t-00-02-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(154);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=154s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Randy Fine (Randy Fine), just to be clear, he has been so disgusting in his rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him.
+> Randy Fine, just to be clear, he has been so disgusting in his rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him.
 
 ## Verification
 

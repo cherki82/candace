@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:14:14](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(854);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=854s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm reminding you that that flight from Provo to Delaware on the yellow plane had only four people on board.
 

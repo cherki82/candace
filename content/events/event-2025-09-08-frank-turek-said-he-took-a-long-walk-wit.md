@@ -7,6 +7,11 @@ time: "20:00"
 ---
 
 **Date:** 2025-09-08 at 20:00
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Monday night”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "20:00"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:46:29](/episodes/ep-CEF7gQRWYCE.md#event-event-2025-09-08-frank-turek-said-he-took-a-long-walk-wit-t-00-46-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2789);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2789s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He says that he went on a walk with Charlie this day at 8 o'clock p.m.
 
@@ -26,6 +31,6 @@ time: "20:00"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:35:44](/episodes/ep-ZzAT2xijKGQ.md#t-00-35-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2144);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2144s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the last walk we went on, Megyn, was Monday night, so the terrible day was Wednesday.

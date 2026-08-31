@@ -3,32 +3,40 @@ title: "Jamie Lynn Spears"
 description: "Jamie Lynn Spears (People) - 1 mention"
 id: "person-jamie-lynn-spears"
 type: "PERSON"
+categories:
+  - "entertainment"
 ---
 
 _Type: People_
 
+**Categories:** entertainment
+
+**Entity verification:** verified
+> Jamie Lynn Spears’s official biography confirms her canonical name and entertainment identity.
+Source: [About | Jamie Lynn Spears](https://jamielynnspears.com/about/)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14">2025-11-15 · 00:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14">2025-11-15 · 00:06:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#t-00-06-14">2025-11-15 · 00:06:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#t-00-06-14">2025-11-15 · 00:06:14</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#t-00-06-14">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-06-14" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14) | 1 |
 
 </details>
 </section>
@@ -41,7 +49,7 @@ _Type: People_
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:06:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14)**
+**[00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14)**
 > "...story. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears. And this was right around the time that Jamie got pregnant. Now, somehow—no one really knows. I me..."
 
 </details>
@@ -51,7 +59,55 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Child Of (1)</summary>
+
+- **[Jamie Spears](/entities/person-jamie-spears.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-05-56): “Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears. ... She was brought into the fold of this family by their father, Jamie. This is Jamie Senior.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Lou Taylor](/entities/person-lou-taylor.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-05-56): “We need to understand a little more of Lou Taylor's history. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Lou Taylor](/entities/person-lou-taylor.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-05-56): “We need to understand a little more of Lou Taylor's history. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears.”
+
+</details>
+
+- **[Jamie Spears](/entities/person-jamie-spears.md)** parent of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-05-56): “Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears. ... She was brought into the fold of this family by their father, Jamie. This is Jamie Senior.”
+
+</details>
+
+- **[Britney Spears](/entities/person-britney-spears.md)** sibling of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): “Lou Taylor is the business manager for Britney Spears' father, mother, and younger sister, Jamie Lynn.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -23,23 +23,13 @@ type: "factual_claim"
 - [George Farmer](/entities/person-george-farmer.md) (person)
 - [Qatar](/entities/gpe-qatar.md) (gpe)
 
-## Appearances (2)
-
-### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:40:07](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2407);return false;">Play</a>
+**Timestamp:** [00:40:26](/episodes/ep-es7PWdFGoFI.md#t-00-40-22) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=2426s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I know he's never been to Qatar.
-
-### 2. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
-
-**Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:41:26](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2486);return false;">Play</a>
-
-> I know he's never been to Qatar
+> I know he's never been to Qatar. I don't think he's ever flown over Qatar and they're just making it up.
 
 ## Verification
 

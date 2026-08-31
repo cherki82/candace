@@ -32,7 +32,7 @@ Source: [Jewish Americans in 2020 | Pew Research Center](https://www.pewresearch
 <p>Highest activity: <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-americans-t-00-35-26">An Open Letter To President Donald Trump (My Response) | Candace Ep 322</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-jewish-americans-t-00-10-35" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-americans-t-00-47-29" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-americans-t-00-47-26" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-americans-t-00-35-26" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-jewish-americans-t-00-19-58" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 </div>
@@ -41,7 +41,7 @@ Source: [Jewish Americans in 2020 | Pew Research Center](https://www.pewresearch
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-jewish-americans-t-00-10-35) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-americans-t-00-47-29) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-americans-t-00-47-26) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-americans-t-00-35-26) | 4 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-jewish-americans-t-00-19-58) | 2 |
 
@@ -84,7 +84,7 @@ Source: [Jewish Americans in 2020 | Pew Research Center](https://www.pewresearch
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:47:29](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-americans-t-00-47-29)**
+**[00:47:26](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-americans-t-00-47-26)**
 > "I think Jewish Americans are ignorant on this topic too because that's how..."
 
 </details>

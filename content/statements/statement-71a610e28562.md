@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:26:13](/episodes/ep-Pb7UlpRdW6U.md#t-00-25-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1573);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=1573s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the AI video of Charlie (Charlie Kirk)'s voice appointing her to take over for him, alleged AI video by the donors who were present in the room and said he never said it.
 

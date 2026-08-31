@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:16:29](/episodes/ep-y8lak3CRwDw.md#t-00-15-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(989);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=989s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What a year 2011 was. There is a guy, a Marine named Dennis Frantzve. He is from Chicago. ... That is him, Dennis Frantzve. And you're not going to believe this. He was in retirement. He was a retired reserve. And then he decided to come out of retirement for this. He wanted to go to Constanta and help set things up. ... Because before he had retired, he was actually stationed out in Afghanistan for Operation Enduring Freedom.
 

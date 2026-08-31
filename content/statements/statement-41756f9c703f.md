@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:12:23](/episodes/ep-1CFDtD0IgEg.md#t-00-11-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(743);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=743s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A sensible person might argue that Tyler Robinson would not be among those who was privy to that sort of information. Why would Tyler Robinson know? ... Certainly Turning Point USA event staff would have known, club students would have known, perhaps those at the university who were directly involved in the planning of this event would have known, maybe UVU police, for example, would have known this.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:11:58](/episodes/ep-CMcktj3Egfo.md#t-00-11-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(718);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Moonies cult was riddled with claims of sexual rituals, physical and psychological abuse, and of course, as we've covered already, financial corruption.
 

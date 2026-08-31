@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:35:11](/episodes/ep-c5BcKF91iec.md#t-00-34-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2111);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm a lawyer with my background. I work for a federal appeals judge. I know a thing or two about United States constitutional law.
 

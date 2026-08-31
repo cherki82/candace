@@ -30,7 +30,7 @@ type: "prediction"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:59:07](/episodes/ep-2T39-oADLj0.md#t-00-58-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3547);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3547s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was having a ton of visions and was telling me that turning point was going to be death of him. He knew he was going to die young and strangely knew that I was going to be the only person to defend him, right?
 

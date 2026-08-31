@@ -25,8 +25,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:34:20](/episodes/ep-2WEHTk0Xewg.md#t-00-33-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2060);return false;">Play</a>
+**Timestamp:** [00:34:20](/episodes/ep-2WEHTk0Xewg.md#t-00-33-45) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2060s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Surely during a manhunt, you use drones. I feel like we are capable enough that during a manhunt—after a murderer of a college student decides to take out Charlie (Charlie Kirk), who has been a friend of the feds, right? I think probably not a good idea to be friends with these people, but whatever—he's been a friend of the feds. Surely this is a big issue. And to put to rest any conspiracies, you're gonna show us that drone footage, and we're gonna see the Dodge Challenger just sitting there for hours and hours and hours.
 

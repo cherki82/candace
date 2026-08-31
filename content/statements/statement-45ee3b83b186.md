@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:43:24](/episodes/ep-i8m_6D4QGmk.md#t-00-42-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2604);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2604s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's what he's telling you. And that's what we're doing. We just murdered 150 Iranian schoolgirls between the ages of 7 and 12 preemptively.
 

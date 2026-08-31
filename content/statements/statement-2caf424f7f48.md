@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:12:14](/episodes/ep-DqGNvi36ol8.md#t-00-12-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(734);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=734s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anna Rosas writes, Barry Weiss is interviewing Eric Kirk on December 13th.
 

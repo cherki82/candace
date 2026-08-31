@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:36:35](/episodes/ep-NIEbqsLAK8g.md#t-00-35-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2195);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=2195s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > like they were basically promoting that israel is giving charlie an award for fighting anti-semitism like the country of israel yeah do you want to pull that up this is just it's so shameless israel will honor the late charlie kirk with an award for opposing anti-semitism
 

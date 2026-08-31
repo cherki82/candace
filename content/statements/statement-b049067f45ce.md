@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:19:56](/episodes/ep-c5BcKF91iec.md#t-00-19-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1196);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=1196s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said, after I offered, "You can just use WeTransfer," "I don't wanna just send the footage over the internet—that's behind Charlie's head—because I'm worried that Google might hack me."
 

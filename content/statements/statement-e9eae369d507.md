@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:05:49](/episodes/ep-4DvYXBn_5JI.md#t-00-05-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(349);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=349s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, now we know Victor is running for governor of Colorado, inspired by, according to him, Charlie's untimely death.
 

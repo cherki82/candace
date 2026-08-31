@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:37:41](/episodes/ep-amqTMimDr0A.md#t-00-37-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2261);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2261s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 38.6, 30 caliber, invented in 06. It's 1906 to kill big game. And if you hit something in the... ... under the spine especially a human i've shot ballistic gelatin all the time i've never shot a human with 30-06 but i know it it would do a lot more than if it was just a 30-06 shooting too that went left to right not from front to back you can clearly see an exit wound on Charlie (Charlie Kirk) kirk's left hand side
 

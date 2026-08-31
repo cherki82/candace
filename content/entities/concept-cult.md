@@ -1,6 +1,6 @@
 ---
 title: "Cult"
-description: "Cult (Concepts) - 33 mentions"
+description: "Cult (Concepts) - 35 mentions"
 id: "concept-cult"
 type: "CONCEPT"
 aliases:
@@ -17,10 +17,10 @@ _Type: Concepts_
 **Categories:** social and religious concept
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-cult-t-00-10-50">2026-01-12 · 00:11:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-cult-t-00-57-53">2025-10-30 · 00:58:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-cult-t-01-02-53">2026-06-26 · 01:03:03</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +31,8 @@ _Type: Concepts_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-cult-t-00-18-26">EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-cult-t-00-57-53" style="--pulse-height:9%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-cult-t-00-14-05" style="--pulse-height:9%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-cult-t-00-10-50" style="--pulse-height:73%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 8 mentions" title="2026-01-12 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-cult-t-00-14-12" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-cult-t-00-48-48" style="--pulse-height:18%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
@@ -44,6 +46,8 @@ _Type: Concepts_
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-cult-t-00-57-53) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-cult-t-00-14-05) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-cult-t-00-10-50) | 8 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-cult-t-00-14-12) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-cult-t-00-48-48) | 2 |
@@ -59,7 +63,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -197,6 +201,22 @@ _Type: Concepts_
 
 **[00:31:27](/episodes/ep-CMcktj3Egfo.md#ent-concept-cult-t-00-31-08)**
 > "...s the reason that the Moonies cult was established in Korea during that time and tha..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:14:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-cult-t-00-14-05)**
+> "...what is described online as a cult."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+
+**[00:58:34](/episodes/ep-iHav0PPzUz8.md#ent-concept-cult-t-00-57-53)**
+> "And I think the military—the cult of military—has wrapped its way around the world ..."
 
 </details>
 

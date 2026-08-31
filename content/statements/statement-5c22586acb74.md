@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:22:56](/episodes/ep-hWTdXHGQ8R4.md#t-00-22-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1376);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I have his cell phone. didn't say that.
 

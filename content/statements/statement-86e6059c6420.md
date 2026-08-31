@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:05:05](/episodes/ep-MhakwJxK-Zk.md#t-00-04-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(305);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=305s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Prior to this PR blitz, Bibi (Benjamin Netanyahu) had actually not sat down with an American podcaster in years, years. ... Since 2023, to be precise, when he sat down with Lex Friedman, and I should make it clear that he made Lex Friedman fly to his office in Israel to conduct that interview.
 

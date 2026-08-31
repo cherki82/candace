@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:33:07](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1987);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1987s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This twerp, look at him. And then he also was a part, of course, of this report that was published about me accusing me on the day, the first day of a Tyler Robinson trial of being a digital assassin.
 

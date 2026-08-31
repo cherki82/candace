@@ -1,6 +1,6 @@
 ---
 title: "USS Liberty"
-description: "USS Liberty (Vehicles) - 10 mentions"
+description: "USS Liberty (Vehicles) - 12 mentions"
 id: "vehicle-uss-liberty"
 type: "VEHICLE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41">2025-11-08 · 00:40:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-vehicle-uss-liberty-t-00-16-24">2026-06-09 · 00:16:24</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,8 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59">Candace x Bassem Youssef | Candace Ep 298</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41" style="--pulse-height:20%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-uss-liberty-t-00-31-45" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-vehicle-uss-liberty-t-00-17-08" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-vehicle-uss-liberty-t-00-03-44" style="--pulse-height:20%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
@@ -46,6 +48,8 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-uss-liberty-t-00-31-45) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-vehicle-uss-liberty-t-00-17-08) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-vehicle-uss-liberty-t-00-03-44) | 1 |
@@ -58,7 +62,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -113,6 +117,22 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 </details>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:17:16](/episodes/ep-w1oqQbR_bYs.md#ent-vehicle-uss-liberty-t-00-17-08)**
+> "...ng me because I interviewed a USS Liberty survivor who mentioned your name."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+
+**[00:32:12](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-uss-liberty-t-00-31-45)**
+> "...arrative ran was probably the USS Liberty."
+
+</details>
+
+<details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:40:03](/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41)**
@@ -124,6 +144,18 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Attacked By (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:32:12](/episodes/ep-JQjCAsfoXEE.md#t-00-31-45): “You know, the last time that narrative ran was probably the USS Liberty. ... Israel attacked that ship.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Investigated By (1)</summary>
@@ -138,7 +170,14 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Israel](/entities/gpe-israel.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:32:12](/episodes/ep-JQjCAsfoXEE.md#t-00-31-45): “You know, the last time that narrative ran was probably the USS Liberty. ... Israel attacked that ship.”
+
+</details>
 
 - **[Ward Boston](/entities/person-ward-boston.md)** investigated this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:47:34](/episodes/ep-1QZ4X6q1DPg.md#t-00-47-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2854);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=2854s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, the surface view that some people are taking is, look, he's a Democrat. Maybe you guys didn't hear me when I said I am done voting until the Charlie Kirk assassination is solved, because it is a deep, deep, deep-rooted betrayal.
 

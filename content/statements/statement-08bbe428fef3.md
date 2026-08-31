@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:21:54](/episodes/ep-ChuWo-n49B8.md#t-00-21-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1314);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1314s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote this to us today. We have sources who believe that Candace is being used by foreign operatives sending misinformation through her tip line. It is part of a much broader network. Really?
 

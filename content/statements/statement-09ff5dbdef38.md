@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:32:26](/episodes/ep-9naMwS0kMBE.md#t-00-32-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1946);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=1946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can disagree on tax cuts. You can disagree on a lot of foreign policy, but you cannot disagree on the Israel issue. You just cannot.
 

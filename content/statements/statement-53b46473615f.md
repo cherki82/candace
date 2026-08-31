@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(497);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=497s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The feds were. The FBI. The FBI was on the phone with Justin Streiff, Frank Carni, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
 

@@ -26,7 +26,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <div><span>Episodes</span><strong>18</strong></div>
 <div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,8 +37,8 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16" style="--pulse-height:14%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-black-lives-matter-t-00-54-45" style="--pulse-height:14%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-26" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-32-53" style="--pulse-height:14%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-23" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-33-29" style="--pulse-height:14%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-black-lives-matter-t-00-02-49" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-black-lives-matter-t-00-07-51" style="--pulse-height:14%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-black-lives-matter-t-00-36-55" style="--pulse-height:14%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
@@ -60,8 +60,8 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16) | 1 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-black-lives-matter-t-00-54-45) | 1 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-26) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-32-53) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-23) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-33-29) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-black-lives-matter-t-00-02-49) | 2 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-black-lives-matter-t-00-07-51) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-black-lives-matter-t-00-36-55) | 1 |
@@ -165,7 +165,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
 
-**[00:37:55](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31)**
+**[00:37:52](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31)**
 > "BLM uses this tactic repeatedly"
 
 **[00:37:31](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31)**
@@ -240,7 +240,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 **[00:03:19](/episodes/ep-Cq7nj9rxPdo.md#ent-org-black-lives-matter-t-00-02-49)**
 > "... And we were doing the Fox News gambit—every show on Fox News—but I was really just focused on BLM, Black Lives Matter. I felt they were lying to Black Americans, and it was going to harm us. Neither one of us was very..."
 
-**[00:04:28](/episodes/ep-Cq7nj9rxPdo.md#ent-org-black-lives-matter-t-00-02-49)**
+**[00:04:27](/episodes/ep-Cq7nj9rxPdo.md#ent-org-black-lives-matter-t-00-02-49)**
 > "focused on BLM, Black Lives Matter"
 
 </details>
@@ -248,7 +248,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
-**[00:33:31](/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-32-53)**
+**[00:33:29](/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-33-29)**
 > "...the low-hanging arguments make sense. Why can't they have their own country? Whatever. I focused on BLM. He was always genuine. And I think, as I've said, he was genuinely over it towards the end because..."
 
 </details>
@@ -256,7 +256,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:38:30](/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-26)**
+**[00:38:30](/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-23)**
 > "...gainst this? The same administration that was going, oh, well, the George Floyd death—radical Dems, BLM, speech laws. It was wrong when the left did it. And it's wrong now that the right is doing it, whi..."
 
 </details>
@@ -264,7 +264,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:55:14](/episodes/ep-q7f8r-THr84.md#ent-org-black-lives-matter-t-00-54-45)**
+**[00:55:11](/episodes/ep-q7f8r-THr84.md#ent-org-black-lives-matter-t-00-54-45)**
 > "...that's not even true, but like who could care? I was just like pro-America and I wanted to focus on BLM and getting black America better. And then that happened. I said one thing and suddenly, like, whoa..."
 
 </details>
@@ -287,7 +287,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Black Lives Matter (3)</strong></summary>
+<summary><strong class="section-title">Statements about Black Lives Matter (4)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>
@@ -298,7 +298,10 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:37:52](/episodes/ep-6J6lRZPQ4jk.md#t-00-37-31) (Accusation) **Allie Beth Stuckey** (via quoted post): ["Allie Beth Stuckey accused Owens of using a Kafka-trap tactic like Bla..."](/statements/statement-403f64fe4655.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [01:01:53](/episodes/ep-6J6lRZPQ4jk.md#t-01-01-46) (Accusation) **Candace Owens**: ["The government was involved in hiding the facts about Black Lives Matt..."](/statements/statement-fa38721e3535.md)
 

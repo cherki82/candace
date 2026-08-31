@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:30:53](/episodes/ep-puuMVxEu5NU.md#t-00-30-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1853);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1853s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to don't forget us and remember what we went through that day. ... You know, we're still here and we need answers.
 

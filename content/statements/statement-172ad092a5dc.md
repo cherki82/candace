@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:02:06](/episodes/ep-c5BcKF91iec.md#t-00-01-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(126);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=126s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe.
 

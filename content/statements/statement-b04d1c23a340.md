@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:08:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(513);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=513s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Our recommendation, that's the recommendation here, all communications channels should amplify this clip, coordinate with our digital partners, that is, and our approved surrogates, I'd like to know who those people are. ... To elevate reach and ensure dominant placement in the overnight information environment.
 

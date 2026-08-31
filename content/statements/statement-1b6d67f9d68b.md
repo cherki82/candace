@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:06:57](/episodes/ep-4YgrOhhy708.md#t-00-06-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(417);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=417s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bad Bunny did not, in fact, wear a dress at this revolt.
 

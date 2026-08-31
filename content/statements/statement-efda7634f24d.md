@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:43:26](/episodes/ep-xjzb_t5Tk9o.md#t-00-43-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2606);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2606s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, 2014 was a great year for Ben Shapiro. ... 88 Israelis were died and there was 2,329 Palestinians killed on the other side. ... type. That is one Israeli for 27 Palestinians.
 

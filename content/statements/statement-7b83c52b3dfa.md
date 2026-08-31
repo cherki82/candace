@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:03:31](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(211);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=211s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, on the topic of rhetoric, I am told that Tyler absolutely did not author those text messages. What text messages? He has no idea where these messages came from. He believes that they are therefore entirely fictionalized.
 

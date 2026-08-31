@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:16:25](/episodes/ep-Qt0VHV-POCg.md#t-00-16-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(985);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=985s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Maybe Trump did actually say, "This is crap." Maybe he did call for an investigation
 

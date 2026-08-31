@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:19:46](/episodes/ep-A39g5oqB_eM.md#t-00-19-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the paid time off that you have earned by the way if you need to grieve more but imagine you're the employer you're like okay well this is his wife saying this so am i weird would i be like i would be pretty weird if i needed to take time off and his wife is saying she's full steam ahead that's that's the mentality they had
 

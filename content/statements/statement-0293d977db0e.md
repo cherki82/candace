@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:18:19](/episodes/ep-A39g5oqB_eM.md#t-00-18-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1099);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1099s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > since his assassination uh we have 100 000 ... 100,000 chapter requests. ... We have 300,000 new donors. ... I think we have 50,000 plus hat orders to fulfill. ... you have over 20,000 amfest registrations
 

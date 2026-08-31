@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:49:08](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2948);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2948s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But until you can provide the slightest shred of evidence other than I can divine an intention or a motive, you have to admit that from the evidence that you have right now, if you have a more plausible theory than the one being presented, which is Tyler Robinson was on the roof, took the shot, had the rifle, had the moment, had the opportunity. ... If you have a more plausible theory to present, you can go ahead and present it, but you don't get to manufacture facts out of whole cloth.
 

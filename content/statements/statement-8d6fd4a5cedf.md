@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:43:41](/episodes/ep-y8lak3CRwDw.md#t-00-43-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2621);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2621s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He thought the police were racist in the town. ... You always heard him saying that he thought the police were running a plantation.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:07:41](/episodes/ep-69A8TzAGHlU.md#t-00-07-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(461);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=461s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The specific quotation to which he's referring to is about Terrell Farnsworth because it was Terrell Farnsworth who notoriously announced in a selfie video that Charlie Kirk was dead like two minutes after Charlie (Charlie Kirk) went down.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:00:23](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(23);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=23s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, fortunately I was able to establish a connection with one of those individuals, and I was also able to see the footage with my own eyes.
 

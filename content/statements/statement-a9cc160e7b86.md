@@ -1,24 +1,25 @@
 ---
-title: "At the Bari Weiss town hall, when asked about the conspiraci..."
-description: "\"At the Bari Weiss town hall, when asked about the conspiracies and what to say to those spreading them, Erika Kirk responded only: stop\" — Erika Kirk"
+title: "An anonymous CBS town hall attendee reported that Erika Kirk..."
+description: "\"An anonymous CBS town hall attendee reported that Erika Kirk answered 'stop' when Bari Weiss asked what she would say to people spreading conspiracy t...\" — CBS town hall attendee email source (identity unverified)"
 statement_id: "statement-a9cc160e7b86"
-speaker: "Erika Kirk"
+speaker: "CBS town hall attendee email source (identity unverified)"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> At the Bari Weiss town hall, when asked about the conspiracies and what to say to those spreading them, Erika Kirk responded only: stop
+> An anonymous CBS town hall attendee reported that Erika Kirk answered 'stop' when Bari Weiss asked what she would say to people spreading conspiracy theories
 
 ## Attribution
 
-**Speaker:** [Erika Kirk](/entities/person-erika-kirk.md) (Guest)
+**Speaker:** [CBS town hall attendee email source (identity unverified)](/entities/anon-src-6DhWawD4ZiM-001.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Email tip from attendee
+**Original Source:** Email from CBS town hall attendee
 
 ## About
 
@@ -28,14 +29,28 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:35:21](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2121);return false;">Play</a>
+**Timestamp:** [00:36:57](/episodes/ep-6DhWawD4ZiM.md#t-00-36-57) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=2217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Two, when Barry (Barry Weiss) asked her about the conspiracies and what she had to say to those saying them, Erica said, stop.
+> Two, when Barry (Bari Weiss) asked her about the conspiracies and what she had to say to those saying them, Erika (Erika Kirk) said, stop.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The anonymous attendee report was checked against the subsequently released full town hall. Bari Weiss asked what Kirk wanted to say to Owens and others spreading the claims; Kirk answered, 'Stop.' This independently corroborates the attendee's report.
+
+**Confidence:** High
+
+**Sources:**
+
+- [CBS News Presents: A Town Hall with Erika Kirk](https://podcasts.apple.com/us/podcast/cbs-news-presents-a-town-hall-with-erika-kirk/id1570872415?i=1000741207427)
+- [Erika Kirk's Town Hall with Bari Weiss and CBS News — transcript](https://podscripts.co/podcasts/the-charlie-kirk-show/erika-kirks-town-hall-with-bari-weiss-and-cbs-news)
+
+*Verified: 2026-08-30T05:27:09.460219*
 
 ---
 

@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:07:17](/episodes/ep-cZxHqYsWRYg.md#t-00-07-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(437);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=437s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you my instincts when I see a ton of LLCs and I don't know what the heck they're doing, especially when they're identifying themselves as tech, as a technology, that should be easily identifiable. Okay, you're a tech genius. ... In my mind, and I'm not saying this is the circumstance, but my unprofessional opinion, my mind goes to money laundering.
 

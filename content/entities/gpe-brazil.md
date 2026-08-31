@@ -1,6 +1,6 @@
 ---
 title: "Brazil"
-description: "Brazil (Places) - 12 mentions"
+description: "Brazil (Places) - 13 mentions"
 id: "gpe-brazil"
 type: "GPE"
 aliases:
@@ -21,10 +21,10 @@ _Type: Places_
 Source: [United Nations Member States](https://www.un.org/about-us/member-states)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-brazil-t-00-12-10">2026-02-09 · 00:12:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-brazil-t-00-20-29">2025-10-01 · 00:20:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-brazil-t-00-32-27">2026-05-13 · 00:32:53</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-brazil-t-00-26-32">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-brazil-t-00-20-29" style="--pulse-height:25%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-brazil-t-00-12-10" style="--pulse-height:25%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-brazil-t-00-36-00" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-brazil-t-00-44-37" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
@@ -45,6 +46,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-brazil-t-00-20-29) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-brazil-t-00-12-10) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-brazil-t-00-36-00) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-brazil-t-00-44-37) | 2 |
@@ -57,7 +59,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3 mentions)</summary>
@@ -117,6 +119,14 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 **[00:12:41](/episodes/ep-4YgrOhhy708.md#ent-gpe-brazil-t-00-12-10)**
 > "Brazil versus Croatia"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+
+**[00:20:37](/episodes/ep-adJ4LNGp84I.md#ent-gpe-brazil-t-00-20-29)**
+> "new IDs in America, in Brazil"
 
 </details>
 

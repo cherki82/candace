@@ -3,9 +3,18 @@ title: "Alexandria, Virginia"
 description: "Alexandria, Virginia (Places) - 1 mention"
 id: "gpe-alexandria-virginia"
 type: "GPE"
+categories:
+  - "city"
+  - "Virginia"
 ---
 
 _Type: Places_
+
+**Categories:** city, Virginia
+
+**Entity verification:** verified
+> Official city government page confirms Alexandria is an independent city in Virginia.
+Source: [Government | City of Alexandria, VA](https://www.alexandriava.gov/Government)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-alexandria-virginia-t-00-10-09">2025-11-10 · 00:10:44</a></strong></div>
@@ -54,7 +63,7 @@ _Type: Places_
 <details>
 <summary>Residence Of (1)</summary>
 
-- **[Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)**
+- **[Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:46](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): “She lives in Alexandria, Virginia”
@@ -66,7 +75,7 @@ _Type: Places_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)** lives in this
+- **[Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md)** lives in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:46](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): “She lives in Alexandria, Virginia”

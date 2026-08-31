@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:48:53](/episodes/ep-zSKrxIUMNqw.md#t-00-48-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2933);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2933s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > who questioned the integrity of Arizona's elections and served as a leader for the conservative group Turning Point Action is scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures in a bid to qualify for a 2024 primary election. This person is Austin Smith. He's 30. He pled guilty. In mid-November, two charges of attempted fraudulent schemes and practices and illegal signing of election petitions.
 

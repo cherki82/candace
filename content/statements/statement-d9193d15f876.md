@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1342);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1342s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this guy Aquino joined the Church of Satan. And in 1969, he then rose through the ranks of that church as the magister caverns of a fourth degree within the church hierarchy. He became the editor of the publication, The Cloven Hoof, and he sat on the governing council of the nine. In 1975, he left to form his own satanic church
 

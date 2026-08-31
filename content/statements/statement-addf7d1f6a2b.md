@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:22:02](/episodes/ep-amqTMimDr0A.md#t-00-21-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1322);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1322s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, B'nai B'rith was indeed founded by German Jews. It was a Freemason lodge where Sigmund Freud, as we learned in one of our books, was free to denigrate the Goyim in his correspondence with his fellow Jews.
 

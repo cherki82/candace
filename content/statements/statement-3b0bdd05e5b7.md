@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:33:46](/episodes/ep-H9p2ZGHAs9A.md#t-00-33-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2026);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=2026s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Sacred democratic institutions. I will continue working toward solutions and bringing people together, but this bill falls short of that standard by inserting politics into a function of government that should remain nonpartisan.
 

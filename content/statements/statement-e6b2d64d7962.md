@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:58:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3503);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nowhere in the Bible, nowhere in any religious tradition does it say if you're a widow, you get a free pass to lie to anyone you want, to gaslight everybody you meet for everything you've ever done in your entire life that is dog doo doo. ... I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.
 

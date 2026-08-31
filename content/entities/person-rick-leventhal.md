@@ -50,7 +50,7 @@ _No relationships extracted yet._
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>
 
 - [00:03:56](/episodes/ep-QRS_hR7NXaQ.md#t-00-03-40) [✓] (Citation) ["The FBI announced that it found the passport of one of the hijackers who was abo..."](/statements/statement-c336889965f3.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - About: [FBI](/entities/org-fbi.md)
 
 </details>
 

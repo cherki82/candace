@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:41:21](/episodes/ep-DdPjoy5W-wY.md#t-00-41-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2481);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2481s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and it's g-tech industries i think she's a used car salesman i'm going to be honest with you it seems like to me when i observe everything it's a group of people working together to get money from the government and they all know each other and so Lori Frantzve is introduced by uh Terrell Farnsworth's family Terrell Farnsworth the guy that takes down the cameras this is his family he like i told you in previous episodes grew up up with Tyler Bowyer.
 

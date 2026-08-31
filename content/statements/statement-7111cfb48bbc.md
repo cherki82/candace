@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:22:40](/episodes/ep-OgRyiOAVtWU.md#t-00-22-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She personally took credit. ... For having Matt Walsh cancel his in-person appearance at the Catholic prayer event for Catholic for Catholics just because I was attending. ... That's a fact. That's not my organization. He transformed what was supposed to be his appearance into a video message instead because Erika (Erika Kirk) was upset that I was going to be present.
 

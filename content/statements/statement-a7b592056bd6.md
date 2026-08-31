@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:36:07](/episodes/ep-OgRyiOAVtWU.md#t-00-35-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2167);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Our show before Charlie (Charlie Kirk) died was already in the top 10 globally, sitting above the Charlie Kirk podcast and every single episode of our new podcast since we launched it back in 2024 has averaged well above a million views. Go back and check that.
 

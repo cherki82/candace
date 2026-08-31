@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:24:59](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1499);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=1499s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which is planning to host a large and lucrative RV show this weekend.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:44:49](/episodes/ep-QdM9jLwjwLw.md#t-00-44-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2689);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=2689s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's saying, I will say whatever gets the most reward. ... she's articulating audience capture as a virtue.
 

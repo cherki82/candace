@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:26:30](/episodes/ep-xjzb_t5Tk9o.md#t-01-26-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5190);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5190s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > go protect them yeah i said we see these black helicopters were getting attacked we don't know who it is we think it's egyptians of course um because that's one of their preferred angles egypt blaming egypt hence the egyptian planes on charlie assassination day ... so we're being attacked by by arab nations and then suddenly you see these little idf boats coming up and you're going yes okay finally support and he's like he's and then he suddenly hears prepare to be torpedoed and that idf soldier then gives him the middle finger made eye contact and to this day people are gaslighting him they didn't
 

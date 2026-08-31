@@ -97,7 +97,7 @@ _No relationships extracted yet._
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
 - [00:18:38](/episodes/ep-CEF7gQRWYCE.md#t-00-18-34) (Claim) **Ben Shapiro**: ["The unreleased Epstein tapes are child pornography and do not show thi..."](/statements/statement-25bd018b838c.md)
-  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

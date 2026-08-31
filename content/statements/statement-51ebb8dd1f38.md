@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:14:25](/episodes/ep-sreYYcID-QY.md#t-00-14-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That would stipulate that either the feds—like I said—collected that footage the night before and then immediately gave it to TMZ, or this guy himself gave it to TMZ before he gave it to the feds.
 

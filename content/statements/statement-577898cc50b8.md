@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:34:50](/episodes/ep-1IY2oD-_xVA.md#t-00-34-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2090);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2090s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's accusations of financial impropriety as well as the method which they used to. who track the success of the students, people said this is a complete scam.
 
@@ -37,7 +37,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:19:45](/episodes/ep-cZxHqYsWRYg.md#t-00-19-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1185);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's interesting that Lori (Lori Frantzve) sends Erika (Erika Kirk) to Tesseract in Arizona and the school then suddenly has to shutter its doors because it, once again, another financial scandal, money evaporates, nobody knows where it went, people think that it may have been a scam. That just keeps happening.
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:36:36](/episodes/ep-1IY2oD-_xVA.md#t-00-36-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2196);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2196s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > John Money he's one of the greatest villains in history and he is the father of gender ideology and he became that by abusing two twin boys one of whom had his genitalia basically destroyed in a botched circumcision Money believed that sexuality was fluid convinced these parents that he could raise that boy as a girl and it would be fine long story short that didn't work out That boy was every bit a boy.
 

@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:37:48](/episodes/ep-jsqUIkszZd0.md#t-00-37-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2268);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2268s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We're going to fast forward again to September 10th, 2025, the morning of Charlie Kirk's assassination at 9.33 a.m. Central. ... So again, this is a full year and two months later after this gun went missing and Corby (Corby Hall) receives an email from the ATF. ... They're conducting a trace on that exact gun.
 

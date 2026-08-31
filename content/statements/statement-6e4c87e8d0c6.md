@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:43:16](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(13396);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=13396s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If it does not happen and it gets debunked, I'll remove it from my personal timeline.
 
@@ -37,7 +37,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [02:53:09](/episodes/ep-aPOyk1i2LOc.md#t-02-53-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(10389);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=10389s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If it does not happen and it gets debunked, I will remove it from my personal timeline.
 

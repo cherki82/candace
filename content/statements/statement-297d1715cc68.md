@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:11:10](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(670);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=670s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So either that day at UVU, they had changed things up and they had zoomed in the camera so that you couldn't see the area around Charlie (Charlie Kirk), or Terrell (Terrell Farnsworth) had zoomed in after the fact, and he was showing a cropped version of the footage to Candace (Candace Owens).
 

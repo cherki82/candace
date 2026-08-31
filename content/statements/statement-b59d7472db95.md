@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:12:01](/episodes/ep-wcD2khO3rOA.md#t-00-11-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(721);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=721s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No articles that say Erika Frantzve or Lori were involved in this
 

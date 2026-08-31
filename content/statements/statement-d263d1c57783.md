@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:55:24](/episodes/ep-_cNtgris8Ik.md#t-00-55-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3324);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3324s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by the way, I think for the first time ever you were telling the truth. You were telling the truth and then you suddenly pulled it all back and started lying and have been attacking us since the people who are trying to get to the bottom of this. ... And I have to, I don't know, assume that you're doing it out of fear. So that's I mean, that's the most charitable read on why you're lying in this way is out of fear
 

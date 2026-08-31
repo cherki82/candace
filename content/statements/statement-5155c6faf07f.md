@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:06:37](/episodes/ep-19vHhjF7-NA.md#t-00-06-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(397);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=397s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > own family interviews regarding you know how they practice incest because they want to keep world power within their hands and that only works if you're incestuous remember vice is nice but incest is best said that Rothschild in France so best that they actually like excommunicate members of their family who don't marry within the clan
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:18:04](/episodes/ep-mKXdKV-OBog.md#t-00-17-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1084);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1084s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > course, our now infamous planes, SUBTT and SUBNT, are Egyptian military planes. And every plane that seems to be flying over
 

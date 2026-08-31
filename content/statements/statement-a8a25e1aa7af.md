@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:55:21](/episodes/ep-SubDoZWHARo.md#t-00-55-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3321);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=3321s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I didn't even catch it. He said that. And I do believe that there were people involved, multiple people involved in killing Charlie Kirk. ... And I do not believe that it was Tyler Robinson alone on a rooftop.
 

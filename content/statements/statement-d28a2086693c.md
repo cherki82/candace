@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:47:45](/episodes/ep-I0OaY6Gryqk.md#t-00-47-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Uh no, the the p the president is in great spirits, uh the Iranian mission is proceeding well ahead of schedule.
 

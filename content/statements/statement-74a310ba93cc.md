@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:49:05](/episodes/ep-Pb7UlpRdW6U.md#t-00-49-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2945);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=2945s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm sure based on the other points of the email that they are Navy, they are going in there and they're impacting the algorithm. And that's what I keep saying about X. It's very obvious that they can float trends and disappear trends at any moment that they want to. ... And that's forcing a narrative.
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:15:21](/episodes/ep-VMNWMXX1vO8.md#t-00-15-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(921);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=921s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When I heard the first gunshot go off, all of a sudden I just saw an eruption of blood, you know, come out of Charlie (Charlie Kirk)'s chest and then kind of his whole body recoil and go limp and basically everybody just screamed and fell to the floor.
 

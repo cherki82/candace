@@ -6,6 +6,11 @@ date: "2024-01-24"
 ---
 
 **Date:** 2024-01-24
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “On January 24th, 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024-01-24"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:25:07](/episodes/ep-jsqUIkszZd0.md#event-event-2024-01-24-victor-marx-married-corby-hall-and-melod-t-00-24-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1507);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1507s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > days of the show. On January 24th, 2024, Mr. Marx married Me
 
@@ -25,6 +30,6 @@ date: "2024-01-24"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:42:57](/episodes/ep--9MOUvgGyi4.md#t-00-42-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2577);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=2577s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so anyways, asked her to marry me that day. We go up to Victor's hotel room.

@@ -13,7 +13,7 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,7 +56,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about global state military (6)</strong></summary>
+<summary><strong class="section-title">Statements about global state military (5)</strong></summary>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>
@@ -68,20 +68,18 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2)</summary>
 
-- [00:24:14](/episodes/ep-SKGUzGHymcI.md#t-00-23-46) (Opinion) **Candace Owens**: ["A gang of demented psychopaths rule over every nation and their soluti..."](/statements/statement-3c949e0ca667.md)
+- [00:24:14](/episodes/ep-SKGUzGHymcI.md#t-00-23-33) (Opinion) **Candace Owens**: ["A gang of demented psychopaths rule over every nation and their soluti..."](/statements/statement-3c949e0ca667.md)
 
 - [00:37:03](/episodes/ep-SKGUzGHymcI.md#t-00-36-38) (Opinion) **Joe Rogan** (via quoted speech): ["Conspiracies are not just real, but they're also not rare - they're ve..."](/statements/statement-4f7c3140e3ef.md)
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
 
-- [00:30:46](/episodes/ep-Cq7nj9rxPdo.md#t-00-30-02) (Opinion) **Candace Owens**: ["The military industrial complex has created a veneer of reality and we..."](/statements/statement-3f566754c4b2.md)
+- [00:30:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-30-46) (Accusation) **Candace Owens**: ["Owens said she thinks some corporations and leaders presented as geniu..."](/statements/statement-314245935031.md)
 
-- [00:31:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-30-46) (Accusation) **Candace Owens**: ["Corporate leaders presented as geniuses are actually military operatio..."](/statements/statement-314245935031.md)
-
-- [00:31:57](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29) (Accusation) **Candace Owens**: ["The military has owned and controlled everything since they shot JFK"](/statements/statement-aa6a673669fe.md)
+- [00:31:59](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29) (Accusation) **Candace Owens**: ["Owens speculated that the military might own everything and may have o..."](/statements/statement-aa6a673669fe.md)
   - Also about: [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 </details>

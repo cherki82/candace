@@ -6,6 +6,7 @@ date: "2018-01-01"
 ---
 
 **Date:** 2018-01-01
+**Date precision:** Day
 
 ## Event
 

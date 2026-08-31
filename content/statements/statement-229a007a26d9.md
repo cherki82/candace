@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:45:45](/episodes/ep-SgVcnx4Oh30.md#t-00-45-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2745);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2745s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They release a photo of the shooter. They are not able to find him otherwise. Tyler Robinson's parents see that photo and think, that looks like Tyler (Tyler Robinson). They begin asking him things like, like where is your i believe it was his grandfather's ... start asking him this tyler robinson starts talking like he might kill himself they get a friend of the family to sit down with him he actually he admits that it's him they get him to drive up to oram and turn himself in his parents helped him turn him in and we you run into people who say that that didn't happen or that's fabricated There's his
 

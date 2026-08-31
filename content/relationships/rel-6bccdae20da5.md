@@ -1,15 +1,15 @@
 ---
-title: "Thousand Oaks, California residence of Justin Bieber"
-description: "Evidence for the relationship: Thousand Oaks, California residence of Justin Bieber"
+title: "Thousand Oaks residence of Justin Bieber"
+description: "Evidence for the relationship: Thousand Oaks residence of Justin Bieber"
 relationship_id: "rel-6bccdae20da5"
-subject: "gpe-thousand-oaks-california"
+subject: "gpe-thousand-oaks"
 predicate: "residence of"
 object: "person-justin-bieber"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Thousand Oaks, California](/entities/gpe-thousand-oaks-california) residence of [Justin Bieber](/entities/person-justin-bieber)
+## [Thousand Oaks](/entities/gpe-thousand-oaks) residence of [Justin Bieber](/entities/person-justin-bieber)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-justin-bieber"
 
 ### Related
 
-- [Thousand Oaks, California](/entities/gpe-thousand-oaks-california)
+- [Thousand Oaks](/entities/gpe-thousand-oaks)
 - [Justin Bieber](/entities/person-justin-bieber)

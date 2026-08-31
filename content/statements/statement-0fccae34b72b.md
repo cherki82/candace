@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:24:51](/episodes/ep-Wjul6YV6izo.md#t-00-24-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1491);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=1491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which is going to cost approximately $6 million.
 

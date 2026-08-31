@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 **Timestamp:** [00:13:21](/episodes/ep-adJ4LNGp84I.md#t-00-13-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(801);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, again, you should recall that the very next morning on September the 11th, TMZ already had the doorbell cam footage, okay
 

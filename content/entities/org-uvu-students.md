@@ -72,7 +72,7 @@ Source: [Utah Valley University](https://www.uvu.edu/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
 
-**[00:26:46](/episodes/ep-pc3pxRyNFZk.md#ent-org-uvu-students-t-00-26-23)**
+**[00:26:43](/episodes/ep-pc3pxRyNFZk.md#ent-org-uvu-students-t-00-26-23)**
 > "...mainstream media. Cooper's not even a UVU kid; he's not a TPUSA kid. Why were they not able to find UVU students to say what it is that they heard and what they saw that day? And what's really interesting is I to..."
 
 </details>

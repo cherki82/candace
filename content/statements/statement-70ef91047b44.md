@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:43:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2609);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2609s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that means that I will not support murdering people incessantly to fulfill some end that hasn't even been articulated to us. It's just like the greater Israel project, like they have to just keep killing people and nobody really knows why.
 

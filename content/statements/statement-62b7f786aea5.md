@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:24:20](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1460);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1460s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet was running his Twitter. ... Mikey (Michael McCoy) had his laptop.
 

@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:15:57](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(957);return false;">Play</a>
+**Timestamp:** [00:15:57](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-44) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=957s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The amazing, heroic, magnificent Mikey McCoy had blood all over him
 

@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:38:41](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2321);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2321s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The entire world condemned Kanye West. ... He lost his Adidas contract. He lost his Gap contract.
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:00:34](/episodes/ep-c5BcKF91iec.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(34);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=34s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Some people accepted it within just a matter of days. His quote-unquote closest friends, his closest political allies, the White House—they all seemed kind of ready to move on so much faster than I was. And now it's looking like some people even may have accepted Charlie's death within minutes.
 

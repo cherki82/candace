@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:47:18](/episodes/ep-QdM9jLwjwLw.md#t-00-46-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2838);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=2838s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > spent on a high school dream so much money they had to empty a savings account, borrow money personally from Ben Shapiro to make ends meet because he couldn't let go of his high school dream that's not ranking as his number one regret
 

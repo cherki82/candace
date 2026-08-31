@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:07:19](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To recap, the shooting happened at 8.39 p.m., 8.39 p.m. Eastern. Sydney Sidener of CNN uploaded the video of Erika Kirk at 9.25 p.m. ... and approximately 25 minutes later, we revealed to you that the White House military office sent out follow-up instructions.
 

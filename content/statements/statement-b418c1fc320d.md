@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:27:59](/episodes/ep-SKNJPul29zU.md#t-00-27-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1679);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=1679s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > uh they they took it from me um i guess there was one board member at the company that uh didn't like my commentary i called jonathan conriquez who's a idf propagandist he's usually on like pierce morgan's show and whatever i was on with him and i called him a terrorist because he's a terrorist and um that was it like that was what got me fired whatever but i'll take it i want to be free i don't want to work for some this is not a news organization if you guys are going to censor people uh
 

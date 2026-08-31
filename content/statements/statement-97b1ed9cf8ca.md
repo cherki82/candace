@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:00:46](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(46);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=46s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk was at the White House and he convinced Trump that it was a terrible idea that would crater his support and ruin his.
 

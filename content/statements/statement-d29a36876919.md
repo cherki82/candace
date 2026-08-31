@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:20:10](/episodes/ep-EtLHqDbxqks.md#t-01-19-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4810);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4810s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I do believe that Tyler Robinson was around campus on that day. I do believe he was at the Dairy Queen, that he was depositing clothes, which could have been his part.
 

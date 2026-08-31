@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2261);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=2261s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who is Mike Mitchell? Who is the Boy Scout leader, Mike Mitchell? I have questions about him because I think, and I'm putting this out here, I'm speculating here. I don't have proof of this. I think he was working with the feds and trying to get Tyler and putting this on Tyler.
 

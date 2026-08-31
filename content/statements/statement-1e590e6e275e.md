@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:17:48](/episodes/ep-1IY2oD-_xVA.md#t-00-17-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1068);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1068s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look at this article. This is our government. A spoonful of sugar helps the radioactive oatmeal go down. Yes, Quaker Oats was conducting experiments on unsuspecting young boys.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:10:24](/episodes/ep-ZzAT2xijKGQ.md#t-00-10-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(624);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=624s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Sometimes they're actually groomed where they'll watch them in college or they'll watch them and then they'll introduce them into this through various secret societies and things of that sort.
 

@@ -6,6 +6,11 @@ date: "2026-04"
 ---
 
 **Date:** 2026-04
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “last week, 10 days ago”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-04"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:41:43](/episodes/ep-kaWtDuoY_ns.md#event-event-2026-04-alan-jacoby-posted-an-allegation-that-la-t-00-41-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2503);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He is the founder of Patriot Cigar, and he just tweeted this 10 days ago.

@@ -180,7 +180,7 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3)</summary>
 
 - [00:20:49](/episodes/ep-7ERqbYElOfs.md#t-00-20-43) (Claim) **Frank Turek** (via quoted speech): ["Stacey Sheridan and Katherine LoCastro were with Erika Kirk."](/statements/statement-07e76c9fc08f.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24) (Claim) **Candace Owens**: ["On July 14, Erika Kirk flew by private plane to Long Beach with Kather..."](/statements/statement-7ae0c89afbe8.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Jonathan Barcelo](/entities/person-jonathan-barcelo.md), [Long Beach, California](/entities/gpe-long-beach-california.md)

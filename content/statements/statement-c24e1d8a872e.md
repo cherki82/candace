@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:38:55](/episodes/ep-c5BcKF91iec.md#t-00-38-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, Mikey McCoy has access to all of Charlie Kirk's messages. They can tell you that these ones are real.
 

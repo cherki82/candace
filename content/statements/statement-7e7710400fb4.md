@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:54:24](/episodes/ep-VMNWMXX1vO8.md#t-00-54-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3264);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > As far as the shaped charge, it is very common in IEDs, and copper is the most common. ... But to give you a sense of how easy it is, you can use a wine bottle to make one as well.
 

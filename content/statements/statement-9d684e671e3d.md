@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:20:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1250);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1250s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A 50-year-old firefighter named Corey Comparatore lost his life trying to save his children.
 

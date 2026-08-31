@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:34:10](/episodes/ep-9CuC1yf8-PU.md#t-00-33-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2050);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2050s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And to the extent of managing these apartments, we went out to Turning Point USA to seek comment regarding this, and we never received a response, which is very odd to me because Erika (Erika Kirk) is quick to respond to Project Constitution if he says that she's dating someone.
 

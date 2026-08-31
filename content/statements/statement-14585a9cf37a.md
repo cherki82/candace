@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:22:36](/episodes/ep-YA1FxrDWNIo.md#t-00-22-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1356);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1356s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mitchell, a detective with the Salt Lake County Sheriff's Office, has been investigating child sex crimes on the Internet for about a year
 

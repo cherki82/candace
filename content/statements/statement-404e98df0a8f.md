@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:39:10](/episodes/ep-CMcktj3Egfo.md#t-00-38-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2350);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2350s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These are pro-Israel Jewish friends of mine. in the media. ... These same people have now turned on me and some are calling me an anti-Semite. ... it's because I won't defriend you. And I won't condemn and say that Candace Owens is hateful.
 

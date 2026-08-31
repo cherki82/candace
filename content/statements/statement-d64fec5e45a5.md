@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:11:25](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(685);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=685s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Zion's Gate in Israel is his family's dedication, not Erica (Erika Kirk)'s, but his family's dedication.
 

@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(171);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=171s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can also tell you that we have since been able to confirm that that Y-Refi plane is in fact equipped with Wi-Fi.
 

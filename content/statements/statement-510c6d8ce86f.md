@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:30:26](/episodes/ep-wcD2khO3rOA.md#t-00-30-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1826);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1826s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can't even find myself actually in their system
 

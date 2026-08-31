@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:27:07](/episodes/ep-OgRyiOAVtWU.md#t-00-26-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1627);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1627s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You would do well to remember that Turning Point USA turned to the Daily Mail exclusively to clean up their Charlie (Charlie Kirk) GPT Aspen mess. ... They gave them special access to see the unedited clip that the public still has not seen so that their journalists could then turn and tell the world you can trust the video totally exists. It's real.
 

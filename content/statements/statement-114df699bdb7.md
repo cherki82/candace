@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:23:00](/episodes/ep-1CFDtD0IgEg.md#t-00-23-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1380);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1380s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The person you say shot Charlie Kirk jumped off. Was there anybody on that rooftop before you got on at 1244 p.m.? And the answer is yes.
 

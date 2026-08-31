@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:02:47](/episodes/ep-DdPjoy5W-wY.md#t-00-02-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(167);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can have your calling on the side of your company, but your main focus is your husband and your children.
 

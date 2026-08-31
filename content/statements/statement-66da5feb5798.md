@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:29:57](/episodes/ep-jTj9Ip46r4w.md#t-00-29-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1797);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1797s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No, yes, the Italian mafia, they spoke Italian, but that's because they emigrated to Italy. After revolutions, reality, and you need to listen to this backwards and forward and do your own research. The reality is that in 1881, the Russian Tsar was assassinated by a Jewish revolutionary gang from what was known as the Pale of Settlement.
 

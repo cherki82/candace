@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:59:58](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3598);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3598s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that is very clear to me and the same can be said, obviously, for Erika (Erika Kirk). We are looking at evidence that she is not all who she claims to be.
 

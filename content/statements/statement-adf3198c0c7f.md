@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:15:37](/episodes/ep-k1b1NDCrNFs.md#t-00-15-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(937);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=937s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Also, it's looking like he spent time locked up and got his special forces tab revoked for crimes against a child. This is according to blank.
 

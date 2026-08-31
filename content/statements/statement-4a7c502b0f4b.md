@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:09:06](/episodes/ep-Wjul6YV6izo.md#t-00-08-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(546);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=546s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > where I by the end of that felt like I knew Kobe behind the scenes and then I sort of went back and I revisited and just read the transcript of Erika's speech and I am actually in retrospect quite amazed by how much was really about turning point USA and what was going to happen going forward and you don't actually when you read the transcript learn anything about Charlie.
 

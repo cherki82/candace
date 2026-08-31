@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:44:18](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2658);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=2658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out AIPAC. I'd love to come on and talk.
 

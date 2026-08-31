@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:05:03](/episodes/ep-KpxIBWkNsSs.md#t-00-05-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(303);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=303s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > turning point for some reason is refusing to drop the video of that moment saying this, of Charlie (Charlie Kirk) saying this. They're also refusing to even respond authoritatively. They could simply respond and assert that it absolutely was not faked and that the donors are lying.
 

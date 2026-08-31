@@ -1,16 +1,16 @@
 ---
-title: "When I started asking sensible questions about Israel, I was..."
-description: "\"When I started asking sensible questions about Israel, I was met with pressure. I was invited somewhere and it felt like a threat, not like come here ...\" — Candace Owens"
+title: "Owens said that after she began asking questions about Israe..."
+description: "\"Owens said that after she began asking questions about Israel, she encountered pressure and perceived an invitation as a threat or last chance rather ...\" — Candace Owens"
 statement_id: "statement-290de20af3ef"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> When I started asking sensible questions about Israel, I was met with pressure. I was invited somewhere and it felt like a threat, not like come here because you're my friend—more like this is your last chance
+> Owens said that after she began asking questions about Israel, she encountered pressure and perceived an invitation as a threat or last chance rather than a friendly effort to educate her
 
 ## Attribution
 
@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:16:43](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1003);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1003s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When I started asking, very sensible questions about Israel, as someone who had dedicated her political life to supporting Israel, many times alongside Charlie, I was met with the very same pressure. And just like Charlie was being invited to Israel, I was invited somewhere else. And when this arrived to me, it felt like a threat. It felt like a threat, not like, hey, come here and we can educate you because you're my friend—more like, this is your last chance.
 
@@ -37,4 +37,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

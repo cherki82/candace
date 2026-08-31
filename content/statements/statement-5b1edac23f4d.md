@@ -23,9 +23,9 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:45:39](/episodes/ep-czVBmqZP6Ss.md#t-00-45-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2739);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2739s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The weapon, they say, was found in the woods and it was wrapped by a dark towel
+> The weapon, they say, was found in the woods and it was wrapped by a dark towel. ... Now, when they gave us a photo of that weapon, it was fully assembled.
 
 ## Verification
 

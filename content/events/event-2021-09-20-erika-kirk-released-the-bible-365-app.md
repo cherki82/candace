@@ -6,6 +6,11 @@ date: "2021-09-20"
 ---
 
 **Date:** 2021-09-20
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 20th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2021-09-20"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:08:57](/episodes/ep-DdPjoy5W-wY.md#event-event-2021-09-20-erika-kirk-released-the-bible-365-app-t-00-08-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(537);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=537s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on September 20th, she's going to release an associated app called Bible 365.

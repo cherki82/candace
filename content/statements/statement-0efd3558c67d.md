@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:06:07](/episodes/ep-9naMwS0kMBE.md#t-00-06-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(367);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=367s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you had a protectee of yours tell you within a few days that that someone was probably going to kill him and then he died. You obviously failed.
 

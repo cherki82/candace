@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 80 mentions"
+description: "JD Vance (People) - 79 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48">2026-08-21 · 00:48:55</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>80</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,9 +40,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-jd-vance-t-00-45-45" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-jd-vance-t-00-21-58" style="--pulse-height:12%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jd-vance-t-00-48-17" style="--pulse-height:12%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-45-37" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-46-12" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jd-vance-t-00-06-26" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25" style="--pulse-height:31%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#t-01-04-23" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25" style="--pulse-height:19%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-17" style="--pulse-height:19%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10" style="--pulse-height:31%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
@@ -75,9 +76,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-jd-vance-t-00-45-45) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-jd-vance-t-00-21-58) | 2 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-jd-vance-t-00-48-17) | 2 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-45-37) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-46-12) | 1 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-jd-vance-t-00-06-26) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25) | 5 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#t-01-04-23) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-17) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10) | 5 |
@@ -108,7 +110,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+<summary><strong class="section-title">Raw mentions (79)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -418,22 +420,24 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (5 mentions)</summary>
-
-**[00:38:38](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
-> "And he's like, well, we don't know where JD Vance was on this day"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
 
 **[00:38:35](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
-> "...ke, well, we don't know where JD Vance was on this day."
+> "And he's like, well, we don't know where JD Vance was on this day"
 
 **[00:38:42](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
 > "This is not JD Vance."
 
-**[01:01:46](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-01-01-17)**
-> "Where was JD Vance?"
-
-**[01:01:47](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-01-01-17)**
+**[01:01:46](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-01-01-46)**
 > "I found JD Vance with Donald Trump at a restaurant that evening in..."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[01:04:56](/episodes/ep-es7PWdFGoFI.md#t-01-04-23)**
+> "Vance on the base"
 
 </details>
 
@@ -448,7 +452,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:46:19](/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-45-37)**
+**[00:46:19](/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-46-12)**
 > "... heaven. Okay. Of all the speeches you could have picked to put first, right? You could have picked JD Vance. You could have picked Trump (Donald Trump). You could have put Erika. Erika was second. You put Mi..."
 
 </details>
@@ -487,7 +491,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
 
 **[00:45:18](/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07)**
-> "...e right. You got me. I was not invited to speak alongside President Donald Trump (Donald Trump) and JD Vance on the stage with Tucker (Tucker Carlson) at a memorial event. What does this have to do with anyth..."
+> "I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker (Tucker Carlson) at a memorial event."
 
 </details>
 
@@ -497,26 +501,19 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (4)</summary>
+<summary>Appeared With (3)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:15](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10): “the event that she did with JD Vance at the University of Mississippi”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:55](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26): “let's get into Erika Kirk. ... the event that she did with JD Vance at the University of Mississippi.”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
-
-</details>
-
-- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:46](/episodes/ep-9k2xrAC0H88.md#t-01-01-46): “Where was JD Vance? I found JD Vance with Donald Trump at a restaurant that evening in D.C.”
 
 </details>
 
@@ -590,26 +587,19 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:15](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10): “the event that she did with JD Vance at the University of Mississippi”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:55](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26): “let's get into Erika Kirk. ... the event that she did with JD Vance at the University of Mississippi.”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
-
-</details>
-
-- **[Tucker Carlson](/entities/person-tucker-carlson.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:46](/episodes/ep-9k2xrAC0H88.md#t-01-01-46): “Where was JD Vance? I found JD Vance with Donald Trump at a restaurant that evening in D.C.”
 
 </details>
 
@@ -795,7 +785,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-03) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>

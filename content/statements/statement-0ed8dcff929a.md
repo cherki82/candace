@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:54:23](/episodes/ep-OgRyiOAVtWU.md#t-00-54-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3263);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=3263s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote, the lawyers behind the sham billion dollar verdict against Alex Jones are now trying to seize his personal social media accounts in bankruptcy. ... This was never about justice for Sandy Hook families or whatever excuse they gave. The lawsuits against Jones have always been about finding a way to censor and destroy a person that the left hates and then using that blueprint on everybody else.
 

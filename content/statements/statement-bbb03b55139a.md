@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:35:10](/episodes/ep-cZxHqYsWRYg.md#t-00-34-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2110);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2110s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In August, just ahead of Erika (Erika Kirk)'s senior year, this is 2006 now, in August just ahead of her senior year, she's going to win the National American Miss Teen pageant and she wins a chance and takes it to travel to D.C. ... to present her plans to Representative J.D. Hayworth and Senator Jon Kyl.
 

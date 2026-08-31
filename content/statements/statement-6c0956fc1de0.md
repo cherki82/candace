@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:23:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-23-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1415);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1415s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And his online history—there's multiple videos that are like this, which I have—his online history shows he was extraordinarily violent.
 

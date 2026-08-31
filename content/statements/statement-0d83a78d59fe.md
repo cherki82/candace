@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:36:18](/episodes/ep-OEAHy3SsIiI.md#t-00-36-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2178);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2178s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Central Intelligence Agency is actively involved in mind manipulation of people here domestically. And that is completely against the CIA charter.
 

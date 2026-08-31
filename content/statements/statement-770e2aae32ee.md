@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:31:12](/episodes/ep-ti5Fxrvegno.md#t-00-30-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1872);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1872s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is a snapshot. You can see it says this real estate license is valid until October 24th, 2020. In New York, your real estate license lasts for two years. Think of it like a driver's license. You have to get that license renewed. And it's every two years. So if it expired in October 24, 2020, that means that she received her real estate license, we can assume, on October 24, 2018.
 

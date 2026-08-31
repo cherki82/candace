@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:58:45](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3525);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=3525s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This political violence stems from a systemic demonization of him and his supporters by commentators, yes, by elected members of the Democrat Party and even some in the media.
 

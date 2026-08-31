@@ -16,7 +16,7 @@ _Type: Places_
 Source: [Minot, North Dakota](https://en.wikipedia.org/wiki/Minot,_North_Dakota)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07">2025-10-30 · 00:19:07</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-18-37">2025-10-30 · 00:19:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#t-00-16-09">2025-12-01 · 00:16:36</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
@@ -30,9 +30,9 @@ Source: [Minot, North Dakota](https://en.wikipedia.org/wiki/Minot,_North_Dakota)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07" style="--pulse-height:10%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-18-37" style="--pulse-height:10%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-19-59" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 10 mentions" title="2025-11-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-16-09" style="--pulse-height:10%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 </div>
@@ -40,9 +40,9 @@ Source: [Minot, North Dakota](https://en.wikipedia.org/wiki/Minot,_North_Dakota)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-18-37) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39) | 1 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-19-59) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45) | 10 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09) | 1 |
 
@@ -100,7 +100,7 @@ Source: [Minot, North Dakota](https://en.wikipedia.org/wiki/Minot,_North_Dakota)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11)**
+**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-19-59)**
 > "...ns for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. Most of those don't even have major consula..."
 
 </details>
@@ -116,7 +116,7 @@ Source: [Minot, North Dakota](https://en.wikipedia.org/wiki/Minot,_North_Dakota)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07)**
+**[00:19:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-18-37)**
 > "...u will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? It didn't—..."
 
 </details>

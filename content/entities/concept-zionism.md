@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 343 mentions"
+description: "Zionism (Concepts) - 344 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -25,10 +25,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-48-49">2026-08-07 · 00:49:00</a></strong></div>
-<div><span>Episodes</span><strong>80</strong></div>
-<div><span>Mentions</span><strong>343</strong></div>
+<div><span>Episodes</span><strong>81</strong></div>
+<div><span>Mentions</span><strong>344</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>29</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,31 +38,32 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01">Candace x Bassem Youssef | Candace Ep 298</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15" style="--pulse-height:57%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 8 mentions" title="2025-09-18 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12" style="--pulse-height:21%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-10" style="--pulse-height:21%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-concept-zionism-t-00-26-14" style="--pulse-height:29%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42" style="--pulse-height:14%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-38" style="--pulse-height:14%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59" style="--pulse-height:36%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 5 mentions" title="2025-10-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59" style="--pulse-height:29%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15" style="--pulse-height:29%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01" style="--pulse-height:29%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:71%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 10 mentions" title="2025-10-30 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35" style="--pulse-height:86%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 12 mentions" title="2025-10-31 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 7 mentions" title="2025-11-03 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18" style="--pulse-height:64%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 9 mentions" title="2025-11-04 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18" style="--pulse-height:71%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 10 mentions" title="2025-11-04 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:57%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 7 mentions" title="2025-11-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 7 mentions" title="2025-11-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35" style="--pulse-height:71%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 10 mentions" title="2025-11-08 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41" style="--pulse-height:79%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 11 mentions" title="2025-11-10 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-40" style="--pulse-height:79%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 11 mentions" title="2025-11-12 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59" style="--pulse-height:29%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30" style="--pulse-height:36%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-36" style="--pulse-height:86%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 12 mentions" title="2025-11-12 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10" style="--pulse-height:29%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-23" style="--pulse-height:36%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:43%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:36%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:21%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15" style="--pulse-height:43%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-concept-zionism-t-00-46-14" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51" style="--pulse-height:43%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-45" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
@@ -123,31 +124,32 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15) | 8 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12) | 3 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-10) | 3 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-zionism-t-00-26-14) | 4 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-38) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59) | 5 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59) | 4 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06) | 2 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43) | 2 |
-| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15) | 4 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01) | 4 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-00-00) | 10 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35) | 12 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00) | 7 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18) | 9 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18) | 10 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00) | 8 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00) | 7 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17) | 7 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35) | 10 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41) | 11 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-40) | 11 |
-| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59) | 4 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-36) | 12 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10) | 4 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-23) | 5 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00) | 6 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00) | 5 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00) | 3 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15) | 6 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-concept-zionism-t-00-46-14) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51) | 6 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-45) | 2 |
@@ -209,7 +211,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (343)</strong></summary>
+<summary><strong class="section-title">Raw mentions (344)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
@@ -1082,6 +1084,14 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:46:23](/episodes/ep-t4U7NjnUEgc.md#ent-concept-zionism-t-00-46-14)**
+> "...essure. He's trying out for a Zionist to pay him and they will, okay, they will cut him..."
+
+</details>
+
+<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>
 
 **[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15)**
@@ -1127,24 +1137,21 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (6 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
 
-**[00:00:24](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00)**
+**[00:00:22](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00)**
 > "...to, of course, honor Charlie (Charlie Kirk). We're going to talk about that. And I want to just say Zionists are confusing at best. They say Charlie (Charlie Kirk) was their bestest friend forever and ever. Y..."
 
 **[00:01:53](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-01-26)**
-> "...hether or not that filing came through, since the whole world wants to see it. Anyways, back to our Zionist friends. Israeli and American Zionists are deeply bothered about the Egyptian plane. They're not co..."
-
-**[00:01:55](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-01-26)**
 > "..., since the whole world wants to see it. Anyways, back to our Zionist friends. Israeli and American Zionists are deeply bothered about the Egyptian plane. They're not concerned in the way that you think they ..."
 
 **[00:02:32](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-02-08)**
 > "...ather, their concern is that we revealed the rental license plates. These are real tweets from some Zionists. We've got Eyal Yakobi, who writes, "This is what doxing looks like." "These are unparalleled level..."
 
-**[00:06:18](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-06-18)**
+**[00:06:15](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-06-15)**
 > "...an international conspiracy. Multiple countries seem to be involved. And I really hate to upset the Zionist crowd any further—because I know I'm like your fave—but we now have identified a fifth verified ren..."
 
-**[00:45:45](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-45-45)**
+**[00:45:45](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-45-30)**
 > "...that's neemyskincare.com. So we all know, of course, that Charlie (Charlie Kirk)'s dear friends—the Zionists and the donors who love Charlie (Charlie Kirk)—lost their ish at the Turning Point USA SAAS event l..."
 
 </details>
@@ -1160,19 +1167,19 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
 
-**[00:03:30](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30)**
+**[00:03:23](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-23)**
 > "...t—via the MeToo movement. And I had posited to And of course, as we've been discussing on the show, Zionist Inc. Everybody understands what Zionist Inc. is now. You see it everywhere. You cannot question Isr..."
 
-**[00:04:00](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30)**
+**[00:04:00](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-23)**
 > "...or in Thousand Oaks—one of their many churches across the United States—and my sense... which every Christian Zionist influencer under the sun is trying to ward me off of. Well, how dare she? This is—I can't even beli..."
 
-**[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-27-13)**
+**[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-27-03)**
 > "...into the quote-unquote "Mormon mafia," which she said sits above Hollywood and even sits above many Zionist Jews. Now, I want to be very clear because this can be offensive to people. Every faith has been in..."
 
-**[00:51:43](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-51-38)**
+**[00:51:42](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-27-03)**
 > "...razy." That's what I said. Like, if you want to really see the psychological operation of Christian Zionists all saying the same thing—many of them are taking money. Obviously, there's a lot of money on the l..."
 
-**[00:57:59](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-57-22)**
+**[00:57:55](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-57-44)**
 > "...th the two-party system. I agree fully. Drew Cass writes, "Candace (Candace Owens), I feel like the Zionists are trying to distract you by making you debunk their lies." "We, as the people, believe you. Stay ..."
 
 </details>
@@ -1180,13 +1187,13 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
-**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
 > "...What is behind this? Do you really think this is all just accidental—their obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere..."
 
-**[00:36:27](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+**[00:36:27](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
 > "...right now at pdsdebt.com/candace. Again, that's pdsdebt.com/candace. pdsdebt.com/candace. Christian Zionism is heretical. I don't know what they are protecting, but if you don't see that it has gone mask off..."
 
-**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
 > "... Kirk) was betrayed. He continued to be betrayed every single day—including by these same Christian Zionists that he platformed throughout his entire career who apparently don't have a single question about a..."
 
 **[00:57:39](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
@@ -1195,40 +1202,43 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (11 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (12 mentions)</summary>
 
-**[00:00:40](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-40)**
+**[00:00:36](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-36)**
 > "...ll you guys, this one is falling apart. It is like an avalanche of truth that is just coming at the Zionist lobby because they were just sloppy in these lies, these post-mortem lies. Anyways, Megyn (Megyn Ke..."
 
 **[00:01:51](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-01-51)**
 > "... the Charlie (Charlie Kirk) assassination—the assassination that seems to have broken the brains of Zionists. They are not acting right. Can we all agree Zionists are not acting right? They are panicking, pan..."
 
-**[00:02:04](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-01-51)**
+**[00:02:02](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-01-51)**
 > "...ation that seems to have broken the brains of Zionists. They are not acting right. Can we all agree Zionists are not acting right? They are panicking, panicking so much that they randomly sent Ben Shapiro out..."
 
-**[00:07:37](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-07-31)**
+**[00:07:36](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-07-31)**
 > "... not gonna front. But the other part that he is saying here—I don't know what happens when you're a Zionist, where you just—on this one topic—and this was what it was with Dave Rubin and why I had to stop be..."
 
-**[00:09:16](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-08-59)**
+**[00:09:16](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-08-54)**
 > "... was going on, and he was feeling a lot of peer pressure in the weeks leading up to his death." And Zionists were claiming that's all a lie. And Tucker (Tucker Carlson) was like, "No, Charlie (Charlie Kirk) a..."
 
-**[00:09:37](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-08-59)**
+**[00:09:38](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-08-54)**
 > "...rlie (Charlie Kirk), "I won't do it." And Charlie (Charlie Kirk) wanted me to do it, right? And the Zionists said that he was lying. I'm going to refresh your memory here and let you listen to what Tucker (Tu..."
 
-**[00:16:25](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-15-57)**
+**[00:16:25](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-16-25)**
 > "...rt for Israel. Offender: Josh Hammer, Benjamin Netanyahu (Bibi), insert Zionist here—many Zionists, Christian Zionist influencers as well. That turned out to be a big lie, an unnecessary lie. Lie number five: the magn..."
 
-**[00:35:39](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-35-39)**
+**[00:35:39](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-16-25)**
 > "...xecute an operation—a psychological operation—on the American people to get us to support Christian Zionism after World War II? Kind of the question that I think is hanging in the air right now—after perhaps..."
 
-**[00:49:46](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-49-22)**
+**[00:49:43](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-49-33)**
 > "...tly today. I got blackballed because I oppose the Israeli agenda. I think he was talking about some Zionists in Hollywood, and he did mean to say DEF CON 3, but they pretended like—like— he was going to liter..."
 
-**[00:51:45](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-51-26)**
+**[00:51:44](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-51-26)**
 > "...life. That's the reality. That's our nation. And we war with each other—Black and white people. And Zionists have so much power in media. And as we were learning, the churches—the Christian churches. I mean, ..."
 
-**[00:54:26](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-54-17)**
+**[00:54:26](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-54-05)**
 > "... if you actually look at the history of passing speech laws, it does seem like a general thing that Zionists like to do so that they can rewrite history. You want me to believe the history of what you're tell..."
+
+**[00:09:34](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-08-54)**
+> "...d me to do it, right? And the Zionists said that he was lying."
 
 </details>
 
@@ -1238,22 +1248,22 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:01:01](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
 > "...st going to say... That is kind of weird how the only people that seem to believe the fed story are Zionists, and they demand that we accept the fed story. And their panic is making me think that we're gettin..."
 
-**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-11-32)**
+**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
 > "... Stop the Steal rally event itself. And interestingly enough, on the quote-unquote Republican side, Christian Zionist pastors were heavily involved in not just influencing the public, right? Understanding right away—t..."
 
-**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-24-49)**
+**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
 > "...es that I've been going through—militant responses that I've been going through on X from Christian Zionists. We'll be right back. All right, you guys. I'm going to tell you about PreBorn! because you know th..."
 
-**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
 > "...o press my finger here. And I don't particularly love the reaction that we're seeing from Christian Zionists right now. I don't even know how to describe what is happening over in Christian Zionist land. It i..."
 
-**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
 > "...eing from Christian Zionists right now. I don't even know how to describe what is happening over in Christian Zionist land. It is wacky. It is definitively exceptional. I've never seen it. There's anger; there's tears..."
 
-**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-28-16)**
+**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
 > "...e obviously just tweets a verse, trying to make it seem like—again, this is what they do. Christian Zionists—they will find a verse to be petty and like use Scripture to justify who they really—they just want..."
 
-**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
+**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
 > "And why I feel like you and so many Christian Zionists just kind of wanted to turn him into a ghost—like, you know, Charlie (Charlie Kirk) the friendly ghost—and are not interested at all."
 
 **[00:42:53](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-42-16)**
@@ -1308,87 +1318,90 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (7 mentions)</summary>
 
-**[00:00:27](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00)**
+**[00:00:25](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17)**
 > "...he haters stay mad. Haters stay big mad on the internet. On X today, it is just crazy town. I mean, Christian Zionist influencers are doing that thing where they attack me for telling the truth about something. It's s..."
 
-**[00:17:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-16-42)**
+**[00:17:02](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17)**
 > "... going to take the step and become Catholic." Gave no details. And the next thing I knew, Operation Christian Zionist Influencer was—while I was in a state of trauma and grieving—coming after me and saying that it was..."
 
-**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-25-52)**
+**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17)**
 > "...and that's what we're going to say about that. Take a brief break, and we're going to get into some Christian Zionist influencers. I've been speaking to you guys a lot about Riverbend Ranch because I love their steaks..."
 
-**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-30-42)**
+**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17)**
 > "...me. You saw that. It was definitively not organic. It was this weird need to assert his legacy as a Christian Zionist. By the way, I'm not including Allie in the downright nasty category whatsoever, but she was one of..."
 
-**[00:37:31](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-36-53)**
+**[00:37:24](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17)**
 > "...hen you get Lila Rose, who jumps in for no reason at all other than the fact that she's a committed Christian Zionist. And she says something that's so far off the mark. At least Allie's showing something relevant to ..."
 
-**[00:45:21](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-21)**
+**[00:45:17](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17)**
 > "... turn—and I see that Alyssa Cordova is working with you— I'm wondering if this is just kind of like Zionist nastiness. I think I've been extremely gracious to the different perspectives that we have if we ar..."
 
-**[00:51:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-51-41)**
-> "...red Charlie Kirk (Charlie Kirk), Alex; it was because likely you guys were more concerned with your Christian Zionist donors and also pressure from your Jewish donors. And so you just lied to cover up the truth about ..."
+**[00:51:53](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-17)**
+> "There is no other reason to lie unless you're covering something up. So you—when you lied about the Catholicism thing—it wasn't because you murdered Charlie Kirk, Alex; it was because likely you guys were more concerned with your Christian Zionist donors and also pressure from your Jewish donors."
 
 </details>
 
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (8 mentions)</summary>
 
-**[00:00:32](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00)**
+**[00:00:30](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00)**
 > "...ight. What is happening is a populist movement. And what is happening is that we are really sick of Zionism. We are really sick of lies. In that same vein, in case you missed it, Brett Cooper is apparently t..."
 
-**[00:17:37](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-17-12)**
+**[00:17:35](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-17-05)**
 > "...instream politics. Nothing too daring. Never speaks about Israel. And she did her part, by the way. Zionists wanted her to do her part and encouraged New Yorkers to get out and vote against Mamdani. But it's ..."
 
-**[00:22:50](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-22-50)**
+**[00:22:41](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-22-41)**
 > "...out trying to big-time people, but you will find that there is this current of just sheer evil that Zionism goes hand in hand with—trying to deconstruct who an individual is very quickly. They began pouring ..."
 
 **[00:50:59](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
-> "...identitarian identity politics reasons there." Who are you more afraid of as an American—Muslims or Zionists? I'm going to go ahead and say Zionists for me personally—because whenever they get on this thing w..."
+> "Who are you more afraid of as an American—Muslims or Zionists?"
 
 **[00:51:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
-> "...here." Who are you more afraid of as an American—Muslims or Zionists? I'm going to go ahead and say Zionists for me personally—because whenever they get on this thing where they start talking about there's go..."
+> "I'm going to go ahead and say Zionists for me personally—because whenever they get on this thing where they start talking about there's going to be a war, whenever they start itching for war—like they want a regime change in Iran—they find a reason that something happens, and suddenly our boys are being sent."
 
-**[00:56:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
+**[00:56:00](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-44)**
 > "...to also recognize what Israel—how it came together. You have to start with Sigmund Freud, the early Zionist movement. Theodore Herzl, his connection to him—why they were connected. We talk about this on my b..."
 
-**[00:56:26](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
+**[00:56:26](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-56-26)**
 > "...Jewish Mystical Tradition." I think the combination of those two books are absolutely potent to the Zionist narrative. I truly do. And you'll also start to recognize the psych tactics that they use on us—the..."
 
-**[00:57:31](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-57-24)**
+**[00:57:31](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-57-06)**
 > "...ng but continue to watch and bump up Candace (Candace Owens)'s views." Yeah, those are our resident Zionist friends. They're here every episode. Say hello to them. Intuition Jen writes: "Thank you for callin..."
 
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (9 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (10 mentions)</summary>
 
-**[00:21:03](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18)**
+**[00:21:02](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18)**
 > "...onfirm. Putting my name on this. Not only can I confirm this, but I can publicly challenge the very Zionist-occupied Trump administration—who is aware of this—to deny it. To come out and say, "No, that's not..."
 
-**[00:32:46](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18)**
-> "...ay "the stupendous Tucker (Tucker Carlson)" joined Dave Smith on his show to respond to all of this Zionist backlash that he was receiving for having a conversation with Nick Fuentes. And foremost, Tucker (T..."
+**[00:32:39](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18)**
+> "Tucker Carlson joined Dave Smith. I kind of want to qualify Tucker Carlson. I feel like I want to say "the stupendous Tucker Carlson" joined Dave Smith on his show to respond to all of this Zionist backlash that he was receiving for having a conversation with Nick Fuentes."
 
-**[00:35:06](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-34-39)**
+**[00:34:58](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-34-53)**
 > "...hat Christians think, actually. We very much don't live in a Christian society because we live in a Christian Zionist society. And Christian Zionism is a... It's a paradox, okay? There's no such thing as Christian Zio..."
 
-**[00:35:15](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-34-39)**
+**[00:35:17](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-34-53)**
 > "...ist society. And Christian Zionism is a... It's a paradox, okay? There's no such thing as Christian Zionism because Zionism is all about identity, right? It's all about identity. Because I am a Jew, I theref..."
 
-**[00:38:01](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-37-55)**
+**[00:37:56](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-37-53)**
 > "...to convince me that that's the first five books of the Bible, okay? I know what your faith is. It's Zionism, okay? You guys behave like gangsters. You behave like you are only loyal to one another, and you'l..."
 
-**[00:39:29](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-39-05)**
+**[00:39:23](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-39-05)**
 > "... book is really an aha moment, and I'm excited for the book club. I'm excited, and I understand why Zionists infiltrated it, but we're not going to stop. But first, let's get to a couple of sponsors. Then I'm..."
 
-**[00:42:58](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-42-38)**
-> "...'ve come to not like Bibi (Benjamin Netanyahu), but I still love the land where the Lord was born—a Zionist who dislikes Netanyahu." Curious how you feel about that love from Maine. At least makes me happy t..."
+**[00:42:58](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-42-35)**
+> "Recently I've come to not like Bibi, but I still love the land where the Lord was born—a Zionist who dislikes Netanyahu.""
 
-**[00:47:26](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-47-26)**
+**[00:47:18](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-47-18)**
 > "...hat's happening in our country, our culture, the corrosion—I think it's because America has married Zionism. Like, I truly do believe that. And I think a lot of people are waking up to that. We were a better..."
 
-**[00:50:23](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-50-14)**
+**[00:50:20](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-49-54)**
 > "..., you guys, we have to jump off because we do have book club tonight. So I will see you guys in the Zionist infiltration on our book club. We finally did it, guys. We went viral, and they're stealing clips f..."
+
+**[00:35:09](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-34-53)**
+> "... as Christian Zionism because Zionism is all about identity, right?"
 
 </details>
 
@@ -1399,7 +1412,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > "...ogue. We'll see what he had to say in a little bit. And it just so happens to be exactly what every Zionist has had to say in the last 24 to 48 hours—almost as though it's scripted. In other news, Erika Kirk..."
 
 **[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-05-22)**
-> "... that they were instructed to go after Tucker (Tucker Carlson). More than anyone else, we know that Zionists cannot stand Tucker Carlson (Tucker Carlson). And the real reason that they hate him is because he'..."
+> "More than anyone else, we know that Zionists cannot stand Tucker Carlson."
 
 **[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-07-32)**
 > "...d it's his platform, and he can speak to whoever the hell he wants in the world. But of course with Zionists—the very same ones who were causing Charlie (Charlie Kirk) all of that grief in the final days and ..."
@@ -1408,10 +1421,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > "...t do that." Because that's ridiculous. It's not who he was. But the truth, obviously, is never what Zionists are concerned with. They want Charlie's (Charlie Kirk) legacy by any means necessary. They want peo..."
 
 **[00:10:43](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
-> "...dace Owens (clip): I just want to be clear. Candace Owens (clip): Anything happens to me, blame the Zionists. Candace Owens (clip): Like, 1000% blame the Zionists. Candace Owens (clip): Like, let that be my p..."
+> "Anything happens to me, blame the Zionists."
 
 **[00:10:45](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
-> "...ens (clip): Anything happens to me, blame the Zionists. Candace Owens (clip): Like, 1000% blame the Zionists. Candace Owens (clip): Like, let that be my parting word. Candace Owens (clip): I'm waking people u..."
+> "Like, 1000% blame the Zionists."
 
 **[00:11:49](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-11-28)**
 > "..., if I wind up dead in mysterious circumstances, you should obviously assume it was orchestrated by Zionists—duh. In lengthier clips, which he didn't show, I've asserted that this entire American culture—whic..."
@@ -1424,22 +1437,22 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:05:35](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35)**
 > "...And I've color-coordinated this timeline. I'm sure there are going to be some errors. Pick them up, Zionists. Go hard. Make a trend. For the rest of us, let me know if there's slight adjustments that need to ..."
 
-**[00:11:40](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-11-02)**
+**[00:11:40](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35)**
 > "...born in Montana. He's a son of a dermatologist. That dermatologist is not named. He's, of course, a Christian Zionist, you guys—that's obvious. But he grew up playing music in a New Apostolic Reformation Church, okay?..."
 
-**[00:52:14](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-51-43)**
+**[00:52:14](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35)**
 > "... co-chair in 2024 or maybe in 2023 of Turning Point USA— they believe—and this is why the Christian Zionism thing becomes so important—that they can hijack our emotions and tell us that it's our biblical dut..."
 
-**[00:52:44](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-52-27)**
+**[00:52:44](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35)**
 > "...what are we talking about with this nation? What are we talking about? Charlie (Charlie Kirk) was a Christian Zionist because he believed that that was true. And I actually believe it is a perversion of scripture. And..."
 
-**[00:54:22](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-53-52)**
+**[00:54:22](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35)**
 > "...ind of adding up, right? They're attacking Tucker (Tucker Carlson) because he's attacking Christian Zionism. They're angry at Charlie (Charlie Kirk) because it's looking like he might get off the Christian Z..."
 
-**[00:54:29](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-53-52)**
+**[00:54:29](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35)**
 > "...ian Zionism. They're angry at Charlie (Charlie Kirk) because it's looking like he might get off the Christian Zionist reservation—because that's what it is, okay? That's a plantation. And what they are mining is your ..."
 
-**[00:55:20](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-54-36)**
+**[00:55:20](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35)**
 > "...wrapped around all of the nations. And it does so in the name of God. In the name of God, Christian Zionists are telling you to support a nation, okay, that has mass-murdered children. You can watch the video..."
 
 **[00:55:36](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-55-21)**
@@ -1451,10 +1464,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[01:00:09](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-59-37)**
 > "... Charlie (Charlie Kirk), and yet he hasn't said nearly enough in my opinion." Well, Joe continues: "Christian Zionist loyalty to Jews and Israel seems to have replaced loyalty to God, the church, and the truth." Yeah,..."
 
-**[01:01:58](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-01-01-43)**
+**[01:01:58](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-59-37)**
 > "... to consider what I am telling you: that there has definitively been an infiltration, and Christian Zionists are at the helm of it. And I understand I'm at war now with all of them. That's fine, okay? I under..."
 
-**[01:02:31](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-01-02-26)**
+**[01:02:31](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-59-37)**
 > "...t's an amazing interview, and it's a timely interview given what I am saying to you about Christian Zionism. You need to wake up to what has happened in Gaza and what has actually been going on. And the scal..."
 
 </details>
@@ -1462,25 +1475,25 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (10 mentions)</summary>
 
-**[00:00:32](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-00-00)**
+**[00:00:30](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-00-00)**
 > "In other news, Zionists are going crazy like they are every day."
 
-**[00:11:19](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-11-19)**
+**[00:11:19](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-11-09)**
 > "I reported on it, and the Zionists immediately seemed to me"
 
-**[00:29:10](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-28-43)**
+**[00:29:10](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-29-10)**
 > "...representatives of Israel—the Zionists that have platforms—are insane."
 
-**[00:38:07](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-38-07)**
+**[00:38:07](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-29-10)**
 > "...y saying that anybody who's a Christian Zionist is a heretic."
 
 **[00:39:12](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-12)**
 > "...ch would mean he didn't die a Christian Zionist, right?"
 
-**[00:39:46](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-12)**
+**[00:39:40](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-12)**
 > "I guess for some Zionists, you would say it was almost fortunate that Charl..."
 
-**[00:40:07](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-54)**
+**[00:40:03](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-12)**
 > "...ng tons of money on Christian Zionists."
 
 **[00:42:40](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-42-28)**
@@ -1489,7 +1502,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:59:11](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-58-38)**
 > "...e—particularly speaking about Zionists right there."
 
-**[01:00:15](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-59-56)**
+**[01:00:15](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-59-53)**
 > "Zionists love financial threats."
 
 </details>
@@ -1497,7 +1510,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
 
-**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15)**
+**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01)**
 > "... I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other Christian Zionist pastors how to use the Bible as a shield for their political ideas. You know, it says right here in..."
 
 **[00:14:15](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01)**
@@ -1534,22 +1547,19 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (5 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
 
 **[00:07:19](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
-> "...Twitter archives and retweet someone calling for a public execution? Well, I'll let one of the many Zionist PR agents explain it first. Yashar Ali, who, like I said, is quite literally paid to do PR for Zion..."
-
-**[00:07:23](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
 > "...nist PR agents explain it first. Yashar Ali, who, like I said, is quite literally paid to do PR for Zionists. I know this personally, on the right and on the left, tried to explain it away by kind of lying, I..."
 
-**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-31-38)**
+**[00:31:38](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-31-38)**
 > "...rol who he is allowed to speak to, control who I was allowed to speak to back when I was within the Zionist movement and waking up and realizing something was dangerously wrong when they started to try to co..."
 
-**[00:46:56](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-46-14)**
+**[00:46:48](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-46-22)**
 > "... by truth, right? That's ridiculous. Anyway, speaking of which, obviously you can see right now the Zionist lobby hates me and Tucker (Tucker Carlson). It is like nothing anybody has ever seen in their lives..."
 
-**[01:11:47](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-01-11-36)**
-> "...ry. Like, what am I doing that? I wasn't even going to speak about Israel—like nothing. And yet the Zionist lobby grows up and like she can't speak. I was going to speak about homeschooling and children and ..."
+**[01:11:43](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-01-11-10)**
+> "Like, what am I doing that? I wasn't even going to speak about Israel—like nothing. And yet the Zionist lobby rose up and like she can't speak."
 
 </details>
 
@@ -1564,10 +1574,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:31:03](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42)**
+**[00:31:03](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-38)**
 > "...t want China to own TikTok. And I'm worried about your data. No, you wanted to hand it over to your Zionist friends. It was all a mirage. It was all theater. Donald (Donald Trump) has sold us out to Israel o..."
 
-**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-25)**
+**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-56)**
 > "...y're gonna ban your speech. It's happening right now. The second that that CEO said she was a proud Zionist, or maybe she wasn't the CEO, but one of the executives there that they installed immediately after..."
 
 </details>
@@ -1575,7 +1585,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:07:59](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21)**
+**[00:07:54](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21)**
 > "... a pro-Israel event, so I guess there's no Israel angle here, which does—of course, there's tons of Zionists in the Hamptons, Ackman among them—so I don't understand. You couldn't post that you were in the Ha..."
 
 </details>
@@ -1600,13 +1610,13 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
 
-**[00:30:18](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12)**
+**[00:30:13](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-10)**
 > "...s pushing this. Right? The answer is implied by the people who are attacking me. They are all ultra-Zionists, right? Like I said, the author of that article is an ultra-Zionist. And here she is starting off 2..."
 
-**[00:30:24](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12)**
+**[00:30:24](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-10)**
 > "...tacking me. They are all ultra-Zionists, right? Like I said, the author of that article is an ultra-Zionist. And here she is starting off 2018 in D.C., and she's got a picture of herself—if you can scroll do..."
 
-**[00:36:23](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12)**
+**[00:36:21](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-10)**
 > "...ng when we have an occupied administration? There's no question Trump (Donald Trump) is occupied by Zionists. Okay, he's completely impotent. He's completely powerless. He cannot say anything that goes agains..."
 
 </details>
@@ -1624,16 +1634,16 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > "...at was kind of the opening liner. “Joseph Goebbels said...” Bro, Joseph Goebbels has nothing on the Zionists in America and the propaganda that they have pushed. I gotta tell you, that's the reality, okay? Le..."
 
 **[00:41:23](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-40-44)**
-> "...What you are referring to, which is kind of a part of the story that we're telling you, is that the Zionists started circling Charlie Kirk and trying to control things. This was actually in around September o..."
+> "which is kind of a part of the story that we're telling you, is that the Zionists started circling Charlie (Charlie Kirk) and trying to control things."
 
 **[00:42:26](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-42-10)**
 > "...nst lies. That's the message. And so the reality is that then they came inward, because that's what Zionists do. They started putting more pressure on him, and this time they didn't want just Candace (Candace..."
 
 **[00:48:16](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-47-55)**
-> "...rump)? More MAGA than ever. In fact, it's been kind of the opposite. People think we're occupied by Zionists. More MAGA people are going, like, it seems like Donald Trump (Donald Trump) has kind of given up o..."
+> "People think we're occupied by Zionists."
 
 **[00:53:07](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-52-52)**
-> "...what I understand—being controlled by the White House. Donald Trump (Donald Trump) is controlled by Zionists, so they're baiting me here. Why would I be invited by anyone in Donald Trump's (Donald Trump) Zion..."
+> "Donald Trump is controlled by Zionists, so they're baiting me here."
 
 **[00:53:15](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-52-52)**
 > "...ists, so they're baiting me here. Why would I be invited by anyone in Donald Trump's (Donald Trump) Zionist administration, as I am speaking about a topic—as I am speaking? It's common sense. They're not goi..."
@@ -1672,7 +1682,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (31)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (29)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
@@ -1826,25 +1836,16 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:26:49](/episodes/ep-w1oqQbR_bYs.md#t-00-26-46) (Claim) **Candace Owens**: ["Jewish people were in control of the slave trade"](/statements/statement-af4d843fd91b.md)
-
-</details>
-
-<details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
-
-- [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Opinion) **Candace Owens**: ["When you see a media storm like this, it can only be happening because..."](/statements/statement-0814c4a56d00.md)
-
-- [00:40:54](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Opinion) **Candace Owens**: ["Zionists control the major media outlets"](/statements/statement-366296ffb10e.md)
+- [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-22) (Opinion) **Candace Owens**: ["When you see a media storm like this, it can only be happening because..."](/statements/statement-0814c4a56d00.md)
 
 </details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:03:36](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30) (Opinion) **Candace Owens**: ["You cannot question Israel at all, or they descend on you"](/statements/statement-b0596702357c.md)
+- [00:03:36](/episodes/ep-7RLtGgkTh9o.md#t-00-03-23) (Opinion) **Candace Owens**: ["You cannot question Israel at all, or they descend on you"](/statements/statement-b0596702357c.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
@@ -1852,18 +1853,18 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>
 
-- [00:35:15](/episodes/ep-Qfwr08Ebczo.md#t-00-34-39) (Opinion) **Candace Owens**: ["Christian Zionism is a paradox and there's no such thing as Christian ..."](/statements/statement-034db8a9e0c6.md)
+- [00:35:15](/episodes/ep-Qfwr08Ebczo.md#t-00-34-53) (Opinion) **Candace Owens**: ["Christian Zionism is a paradox and there's no such thing as Christian ..."](/statements/statement-034db8a9e0c6.md)
 
-- [00:47:57](/episodes/ep-Qfwr08Ebczo.md#t-00-47-26) (Opinion) **Candace Owens**: ["America has married Zionism and is no longer a Christian nation but an..."](/statements/statement-fdcac26d6499.md)
+- [00:47:57](/episodes/ep-Qfwr08Ebczo.md#t-00-47-18) (Opinion) **Candace Owens**: ["America has married Zionism and is no longer a Christian nation but an..."](/statements/statement-fdcac26d6499.md)
   - Also about: [United States](/entities/gpe-united-states.md)
 
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
 
-- [00:31:52](/episodes/ep-sreYYcID-QY.md#t-00-31-15) (Opinion) **Candace Owens**: ["Zionists control a lot of publications in America"](/statements/statement-5e65d2d7c15f.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+- [00:07:05](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49) (Accusation) **Candace Owens**: ["Candace Owens alleged that the same individuals had pressured Charlie ..."](/statements/statement-f882720cfd9d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

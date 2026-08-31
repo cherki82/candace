@@ -1,6 +1,6 @@
 ---
 title: "Cracker Barrel"
-description: "Cracker Barrel (Organizations) - 3 mentions"
+description: "Cracker Barrel (Organizations) - 4 mentions"
 id: "org-cracker-barrel"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [About Cracker Barrel](https://www.crackerbarrel.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-01-27">2025-10-06 · 00:01:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-02-46">2025-10-06 · 00:03:11</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-cracker-barrel-t-00-33-56">2025-11-03 · 00:34:08</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [About Cracker Barrel](https://www.crackerbarrel.com/about)
 <p>Highest activity: <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-01-27">TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-01-27" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-cracker-barrel-t-00-33-56" style="--pulse-height:33%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-01-27) | 3 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-cracker-barrel-t-00-33-56) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [About Cracker Barrel](https://www.crackerbarrel.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:34:08](/episodes/ep-K1tFD7FfoCU.md#ent-org-cracker-barrel-t-00-33-56)**
+> "So maybe the top execs at Cracker Barrel thought it was brilliant to change the marketing,..."
+
+</details>
 
 <details>
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (3 mentions)</summary>

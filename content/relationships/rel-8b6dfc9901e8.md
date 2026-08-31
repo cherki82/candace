@@ -1,15 +1,15 @@
 ---
-title: "Shawna Rae Kirkhoff works for United States Capitol Police"
-description: "Evidence for the relationship: Shawna Rae Kirkhoff works for United States Capitol Police"
+title: "Shauni Rae Kerkhoff works for United States Capitol Police"
+description: "Evidence for the relationship: Shauni Rae Kerkhoff works for United States Capitol Police"
 relationship_id: "rel-8b6dfc9901e8"
-subject: "person-shawna-rae-kirkhoff"
+subject: "person-shauni-rae-kerkhoff"
 predicate: "works for"
 object: "org-united-states-capitol-police"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff) works for [United States Capitol Police](/entities/org-united-states-capitol-police)
+## [Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff) works for [United States Capitol Police](/entities/org-united-states-capitol-police)
 
 ### Evidence (2 mentions)
 
@@ -20,5 +20,5 @@ object: "org-united-states-capitol-police"
 
 ### Related
 
-- [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff)
+- [Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff)
 - [United States Capitol Police](/entities/org-united-states-capitol-police)

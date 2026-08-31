@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:02:59](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=179s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All of this is a fact. Now, another interesting fact is that Faith Kates, she actually knew Epstein since before she co-founded Next because she was actually the vice president of the women's division over at Wilhelmina Models first.
 

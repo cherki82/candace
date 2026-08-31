@@ -1,17 +1,20 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 38 mentions"
+description: "Paris (Places) - 48 mentions"
 id: "gpe-paris"
 type: "GPE"
+aliases:
+  - "Paris, France"
 categories:
   - "French capital and Athanor case location"
+  - "French city"
 ---
 
 _Type: Places_
 
-**Categories:** French capital and Athanor case location
+**Also known as:** Paris, France
 
-> **Possibly overlapping entity records:** [Paris](/entities/gpe-paris-france). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** French capital and Athanor case location, French city
 
 **Entity verification:** verified
 > The official City of Paris site identifies Paris as the capital of France; transcript context places the Athanor case in Paris.
@@ -20,8 +23,8 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35">2025-10-06 · 01:01:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45">2026-08-06 · 00:56:13</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,17 +33,24 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-53">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-28">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35" style="--pulse-height:17%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-24" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-37" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-09-40" style="--pulse-height:83%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-paris-t-00-23-52" style="--pulse-height:17%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-04" style="--pulse-height:33%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-53" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-23-37" style="--pulse-height:17%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-01" style="--pulse-height:33%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-28" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47" style="--pulse-height:17%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-39-28" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-t-00-36-16" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-t-01-07-52" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-t-00-07-04" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07" style="--pulse-height:17%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-t-00-02-27" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-t-00-03-18" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-paris-t-00-17-19" style="--pulse-height:17%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-t-00-53-38" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31" style="--pulse-height:83%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58" style="--pulse-height:83%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
@@ -53,14 +63,21 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-24) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-37) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-09-40) | 5 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-paris-t-00-23-52) | 1 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-04) | 2 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-53) | 6 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-23-37) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-01) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-28) | 6 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-t-00-36-16) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-t-01-07-52) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-t-00-07-04) | 3 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-t-00-02-27) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-t-00-03-18) | 2 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-paris-t-00-17-19) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-t-00-53-38) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31) | 5 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58) | 5 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11) | 1 |
@@ -74,7 +91,7 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -158,10 +175,75 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 </details>
 
 <details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:53:38](/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-t-00-53-38)**
+> "...use with his father who is in Paris."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:17:19](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-paris-t-00-17-19)**
+> "Jean-Luc Brunel in Paris"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:03:46](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-t-00-03-18)**
+> "recent Paris fashion show"
+
+**[01:03:18](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-t-01-03-18)**
+> "...ets into—because they visited Paris. I mean, France is problematic for a ton of reaso..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:02:39](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-t-00-02-27)**
+> "And he even created his own religion around it, religion of Thelema, Black magic. There are so many stories out there regarding Aleister Crowley attempting to summon various demons in France. He tried to summon Pan, I think, in Paris."
+
+</details>
+
+<details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
 
 **[00:43:36](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07)**
 > "Paris modeling agency sending him girls."
+
+</details>
+
+<details>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3 mentions)</summary>
+
+**[00:06:34](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-t-00-07-04)**
+> "...y 33.33 degrees east from the Paris prime meridian."
+
+**[00:07:19](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-t-00-07-04)**
+> "but originally it was the Paris was kind of the standard for a long time there. A..."
+
+**[00:07:16](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-t-00-07-04)**
+> "but originally it was the Paris was kind of the standard for a long time there. And that is in the occult is referred to as the devil's line."
+
+</details>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
+
+**[01:07:52](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-t-01-07-52)**
+> "...as like a a bombing attack in paris 2015 and you can google this by the way you just ..."
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:36:50](/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-t-00-36-16)**
+> "Jean-Luc Brunel in Paris"
 
 </details>
 
@@ -187,7 +269,7 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
 
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-53)**
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-28)**
 > "...is one's happening quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay..."
 
 **[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-20-22)**
@@ -196,13 +278,13 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 **[00:20:51](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-20-22)**
 > "...ter of Culture. We have that, and then drops off. On the 4th, we have the BTT flight departing from Paris. Now, I'm going to tell you what's really interesting about that September 3rd date that I forgot t..."
 
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-00)**
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-20-57)**
 > "...r 4th. President Zelensky is in town also, though. Brigitte Macron welcomes President Zelensky into Paris on September 3rd because there is this remarkable—and I would assume rare, I don't know, but—35 sta..."
 
-**[00:21:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-00)**
+**[00:21:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-35)**
 > "...again, like I said, was with the Minister of Culture. And then we have this flight that leaves from Paris. BTT leaves from Paris, and it's go time, right? This plane is now going to stay for six days, and ..."
 
-**[00:21:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-44)**
+**[00:21:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-35)**
 > "... with the Minister of Culture. And then we have this flight that leaves from Paris. BTT leaves from Paris, and it's go time, right? This plane is now going to stay for six days, and then it's gonna go to W..."
 
 </details>
@@ -210,10 +292,10 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:02:04](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-04)**
+**[00:02:01](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-01)**
 > "...s—you can just scroll through this. Like, we kept noticing that that yellow plane was going through Paris; it was going to Wichita, but very often it was stopping in Wilmington. Like, what goes on in Wilmi..."
 
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-19-26)**
+**[00:19:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-19-22)**
 > "...is logic and ask yourself how this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged two-conti..."
 
 </details>
@@ -221,7 +303,7 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:24:13](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-paris-t-00-23-52)**
+**[00:24:13](/episodes/ep-7RLtGgkTh9o.md#t-00-23-37)**
 > "...ho he was fighting owned his catalog. Actually in the news today—this is totally a God thing. I saw Paris Jackson was in the news today. She's lost in court, and she's still fighting over her father's lega..."
 
 </details>
@@ -249,10 +331,10 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:18:38](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-24)**
+**[00:18:37](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-37)**
 > "...an go back as far as November and December of that year. We can see that it routinely flies through Paris. And I noticed—and you can take your time to freeze this and go through everything, as I'm not gonn..."
 
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-19-07)**
+**[00:19:01](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-37)**
 > "...look under 2025, you will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here..."
 
 </details>

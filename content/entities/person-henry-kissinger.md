@@ -3,9 +3,17 @@ title: "Henry Kissinger"
 description: "Henry Kissinger (People) - 1 mention"
 id: "person-henry-kissinger"
 type: "PERSON"
+categories:
+  - "United States diplomat"
 ---
 
 _Type: People_
+
+**Categories:** United States diplomat
+
+**Entity verification:** verified
+> Encyclopaedia Britannica confirms Henry Kissinger’s canonical name and diplomatic role.
+Source: [Henry Kissinger | Biography | Britannica](https://www.britannica.com/biography/Henry-Kissinger)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-henry-kissinger-t-00-53-29">2025-11-13 · 00:53:50</a></strong></div>

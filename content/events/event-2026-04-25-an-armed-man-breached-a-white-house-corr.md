@@ -6,6 +6,15 @@ date: "2026-04-25"
 ---
 
 **Date:** 2026-04-25
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Everything went down while I was in Italy”
+
+**Normalization note:** AP reports that the armed breach and gunfire occurred Saturday night at the April 25, 2026 dinner.
+
+**Date source:** [https://apnews.com/article/e1961f760f0f913c82e2fcde41d6215a](https://apnews.com/article/e1961f760f0f913c82e2fcde41d6215a)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2026-04-25"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:28:56](/episodes/ep-qZ8RWfyuewQ.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-28-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1736);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1736s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Secret Service agents and only Secret Service agents began firing their weapons.
 
@@ -25,7 +34,7 @@ date: "2026-04-25"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:07:05](/episodes/ep-FFQ9675oqRI.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-06-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(425);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=425s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Next thing we know, we're being told that there were shots fired and then there's another video
 
@@ -33,7 +42,7 @@ date: "2026-04-25"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:02:59](/episodes/ep-7FS1tUeSfdE.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=179s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's when the Secret Service began firing at one another, so we've since learned.
 
@@ -41,7 +50,7 @@ date: "2026-04-25"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:00:32](/episodes/ep-Pb7UlpRdW6U.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(32);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=32s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > during the evening of April 25th, the day of the alleged White House shooting.
 
@@ -49,7 +58,7 @@ date: "2026-04-25"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:29:22](/episodes/ep-1QZ4X6q1DPg.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-28-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1762);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1762s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > about an hour after the quote-unquote shooting happened at the White House Correspondents' Dinner
 
@@ -57,7 +66,7 @@ date: "2026-04-25"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:04:08](/episodes/ep-BxN2-aeMYIs.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-03-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(248);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=248s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > last almost assassination attempt and our questions regarding the White House Correspondents Dinner
 
@@ -65,6 +74,6 @@ date: "2026-04-25"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:08:22](/episodes/ep-tXoI0TTKVrs.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-08-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(502);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=502s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the cameras, of course, after the Secret Service fired at one another.

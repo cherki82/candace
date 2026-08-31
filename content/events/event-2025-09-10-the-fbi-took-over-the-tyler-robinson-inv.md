@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-10"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:14:26](/episodes/ep-kaWtDuoY_ns.md#event-event-2025-09-10-the-fbi-took-over-the-tyler-robinson-inv-t-00-14-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(866);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=866s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the FBI immediately interjected. They took over everything on September 10th.

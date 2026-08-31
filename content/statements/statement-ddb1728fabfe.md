@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:05:27](/episodes/ep-Kmt6HgRjckU.md#t-00-04-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(327);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=327s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in the political fast lane, they want you dead for really one or all of these three reasons, money, secrets, and or power.
 

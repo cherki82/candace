@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1936);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1936s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we received a flurry of emails of people who presented proof, concrete proof that the story did indeed come from a family friend of Erika (Erika Kirk). ... And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies. ... And like I said, I'll say allegedly, but I feel very good about the source.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:25:06](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5106);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5106s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you will have Jake Tapper talking every single day about the fake rape stories but he will never say anything about what's being reported in the Israeli media
 

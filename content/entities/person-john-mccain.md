@@ -20,7 +20,7 @@ _Type: People_
 Source: [United States Senate: John McCain biography](https://www.mccain.senate.gov/public/index.cfm/biography)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15">2025-12-05 · 00:18:18</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15">2025-12-05 · 00:18:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52">2026-07-30 · 00:28:08</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
@@ -32,17 +32,17 @@ Source: [United States Senate: John McCain biography](https://www.mccain.senate.
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15">Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15">Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03" style="--pulse-height:75%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52" style="--pulse-height:67%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15) | 4 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15) | 3 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03) | 3 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52) | 2 |
 
@@ -80,10 +80,7 @@ Source: [United States Senate: John McCain biography](https://www.mccain.senate.
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4 mentions)</summary>
-
-**[00:18:18](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15)**
-> "John McCain leading protesters in Ukraine 2014 color revolution"
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
 
 **[00:18:21](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15)**
 > "And when John McCain went over there and led the protesters in the str..."

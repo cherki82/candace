@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:53:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-53-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3218);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=3218s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I can show you that Erica (Erika Kirk) was at school. ... but I do have some years 1995 to 1996 in first grade, ... 1996 to 1997 in second grade and 1997 to 1998, ... in third grade
 

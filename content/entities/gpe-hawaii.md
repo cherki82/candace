@@ -1,6 +1,6 @@
 ---
 title: "Hawaii"
-description: "Hawaii (Places) - 9 mentions"
+description: "Hawaii (Places) - 10 mentions"
 id: "gpe-hawaii"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.ehawaii.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04">2026-03-11 · 00:44:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-hawaii-t-00-32-55">2025-12-03 · 00:33:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-hawaii-t-00-22-50">2026-07-20 · 00:23:17</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -30,6 +30,7 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-hawaii-t-00-16-59">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-hawaii-t-00-32-55" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-hawaii-t-00-45-34" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-hawaii-t-00-47-40" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
@@ -40,6 +41,7 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-hawaii-t-00-32-55) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-hawaii-t-00-45-34) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-hawaii-t-00-47-40) | 2 |
@@ -52,7 +54,7 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4 mentions)</summary>
@@ -106,6 +108,14 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 
 </details>
 
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+
+**[00:33:25](/episodes/ep-his-JBjlkh8.md#ent-gpe-hawaii-t-00-32-55)**
+> "David Hogg in Hawaii"
+
+</details>
+
 </details>
 
 <details open>
@@ -152,7 +162,7 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
 
 - [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA approaches selected students at BYU's Hawaii and Jerusalem cam..."](/statements/statement-55fc338c7349.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
 
 </details>
 

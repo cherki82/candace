@@ -1,6 +1,6 @@
 ---
-title: "they came inward and told that I was not allowed to speak at..."
-description: "\"they came inward and told that I was not allowed to speak at AmFest. The donors were making threats.\" — Candace Owens"
+title: "Owens was told she was not allowed to speak at AmFest, and d..."
+description: "\"Owens was told she was not allowed to speak at AmFest, and donors were making threats\" — Candace Owens"
 statement_id: "statement-d552748dab38"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> they came inward and told that I was not allowed to speak at AmFest. The donors were making threats.
+> Owens was told she was not allowed to speak at AmFest, and donors were making threats
 
 ## Attribution
 
@@ -22,10 +22,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:29:22](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1762);return false;">Play</a>
+**Timestamp:** [00:29:17](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1757s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And then they came in and told that I was not allowed to speak at AmFest.
+> And then they came in and told that I was not allowed to speak at AmFest. The donors were making threats.
 
 ## Verification
 

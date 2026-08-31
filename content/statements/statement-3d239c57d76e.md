@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:39:34](/episodes/ep-mLvJqdxS-FY.md#t-00-39-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2374);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=2374s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Frank (Frank Turek) didn't call 9-1-1, nor did he think to phone his son who works for the most powerful, most funded and most corrupt division of our government, the Department of Defense.
 

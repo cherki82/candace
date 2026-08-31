@@ -24,21 +24,11 @@ type: "factual_claim"
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
 - [Josh Hammer](/entities/person-josh-hammer.md) (person)
 
-## Appearances (2)
-
-### 1. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
-
-**Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:00:18](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(18);return false;">Play</a>
-
-> just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public executions
-
-### 2. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(16);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=16s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public executions
 

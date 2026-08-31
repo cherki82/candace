@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:40:57](/episodes/ep-9naMwS0kMBE.md#t-00-40-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2457);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2457s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jerusalem Post, the world Jewish Congress president Ronald Lauder is involved in Trump's push for Greenland.
 

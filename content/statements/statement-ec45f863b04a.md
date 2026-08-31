@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:36:32](/episodes/ep-xi8SYJTUXPM.md#t-00-36-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2192);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She continues, there were phases when I wouldn't sleep for three days straight and one morning I woke up and drove myself to a cliff and it was cold and kind of snowy outside. ... It was February. I tried to kill myself, like legitimately tried to kill myself.
 

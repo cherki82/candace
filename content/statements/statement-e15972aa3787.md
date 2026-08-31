@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:32:43](/episodes/ep-19vHhjF7-NA.md#t-00-32-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1963);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=1963s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I appoint my wife to run Turning Point USA if something happens to me. Erika (Erika Kirk) would do a great job.
 

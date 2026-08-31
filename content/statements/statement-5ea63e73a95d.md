@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:46:44](/episodes/ep-eMtjzXkQrsU.md#t-00-46-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2804);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2804s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > watching evil her and ryan reynolds her husband had kind of climbed the ranks and i graduated to a class of taylor swift is our best friend we will do as we please so it arrived as a moment where we kind of knew we were at the end on april 2nd a judge dismissed 10 out of 13 of blake lively's allegations that she made against justin there was no way around it in my view even if they thought that they could get or use a corrupt judge and i do believe
 

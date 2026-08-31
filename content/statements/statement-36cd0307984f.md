@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:32:57](/episodes/ep-SubDoZWHARo.md#t-00-32-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1977);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1977s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that's why when charlie multiple times texted me and the security team day before saying he thought he was going to be killed
 

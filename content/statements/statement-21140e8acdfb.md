@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:15:26](/episodes/ep-kaWtDuoY_ns.md#t-00-15-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(926);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=926s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > However, we still have never seen the gun. The gun is at Quantico, so we've never been able to look at the gun.
 

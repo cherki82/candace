@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5029);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5029s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is the New York Times. ... They had like a whole piece about the rape, that rape hoax, which was completely fabricated. There were Israelis that were mentioned in the article that said like that didn't happen.
 

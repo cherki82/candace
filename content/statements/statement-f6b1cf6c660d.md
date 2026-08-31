@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:14:15](/episodes/ep-UBkFkg4UNY8.md#t-00-13-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(855);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=855s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) gets shot. Forty seconds later, Charlie (Charlie Kirk)'s brought to the SUV. Ten seconds after that is where George Zinn's pants fall down in the middle of the departing crowd. And then a minute and 15 seconds after that shot rings out, George Zinn is waving his hat near the left side of the tent. And then at the minute 48 second mark, George Zinn is in handcuffs and he is being pulled near where Charlie (Charlie Kirk)'s SUV has just departed.
 

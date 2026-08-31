@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(748);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=748s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > President Donald J. Trump. Was that written by Mark Levin? Like when he was six or who put this message together, the hottest country in the world, because we're bombing kids for no reason because we just killed 150 schoolgirls for no reason because you guys just lied about six of our servicemen who died and they had to leak that to CBS News that you were lying about what was happening. Is that what makes us hot?
 

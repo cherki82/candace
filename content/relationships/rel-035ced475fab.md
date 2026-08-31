@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Laura Loomer](/entities/person-laura-loomer) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (9 mentions)
+### Evidence (10 mentions)
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:55:36](/episodes/ep-7ERqbYElOfs#t-00-55-36): _when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel_
+
+**[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
+
+- [00:47:48](/episodes/ep-LATnak75Si0#t-00-47-48): _But you don't have to be a Laura Loomer hater or a Laura Loomer lover to know that Laura Loomer quite literally has psychiatric issues._
 
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 

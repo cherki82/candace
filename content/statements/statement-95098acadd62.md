@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [01:07:20](/episodes/ep-2T39-oADLj0.md#t-01-07-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4040);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=4040s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > people involved that day one person maybe just supposed to run across the rooftop another i think tyler robinson all his job was to pick up clothes i think literally he didn't step foot on campus that day and his job was to get rid of the clothes next to the dairy queen into some cemetery which i broke
 

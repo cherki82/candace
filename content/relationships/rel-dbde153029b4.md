@@ -19,7 +19,7 @@ object: "person-megyn-kelly"
 
 **[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
 
-- [00:09:40](/episodes/ep-MUA9ebCF4Ow#t-00-09-40): _Megyn Kelly goes scorched earth on those lying about Charlie Kirk and defending Candace_
+- [00:09:40](/episodes/ep-MUA9ebCF4Ow#t-00-09-40): _Candace (Candace Owens) has not made that claim. And in fact, I've now seen several clips of Candace (Candace Owens) specifically defending Erika Kirk and saying she would never make a claim like that about Erika and that she is open-minded to other people at Turning Point._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:25:25](/episodes/ep-iB-YtO3UZOg.md#t-00-25-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1525);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1525s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A story which we broke way back in October of last year on October 28th, to be specific, we couldn't figure out why, but we were like, Charlie has a hospital file that was at Utah Valley Hospital. ... We were so confused by this. Somebody had leaked this to us. People who worked there were certain that he was being treated at Utah Valley and at Intermountain because not only did he have a file there, but they were specifically instructing people. ... For example, not to touch or open that file. Do you remember that? I'm going to show you that file again. October 28th, we did this episode.
 

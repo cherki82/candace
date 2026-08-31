@@ -20,13 +20,13 @@ type: "factual_claim"
 
 ## About
 
-- [Thomas Michael Camino](/entities/person-thomas-michael-camino.md) (person)
+- [Thomas Michael Cimino](/entities/person-thomas-michael-cimino.md) (person)
 
 ## Source
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:07:47](/episodes/ep-yAIb-NuUh_U.md#t-00-07-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(467);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=467s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Thomas Michael Camino was a man who was factually put away into prison for abuse—molesting, lewd conduct toward young girls. How he did this was he pretended that his cat was lost.
 

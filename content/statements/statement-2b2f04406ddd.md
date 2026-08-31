@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:47:44](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2864);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2864s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > through their Roundup for Charity program, they've been able to donate over half a million dollars to America's Warrior Partnership
 

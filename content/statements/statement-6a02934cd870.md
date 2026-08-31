@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:48:04](/episodes/ep-OEAHy3SsIiI.md#t-00-47-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2884);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Paramount Tactical is live and he accidentally reads his instructions from Andrew Kolvet,
 

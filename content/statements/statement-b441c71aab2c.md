@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:42:02](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2522);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2522s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025—eight days after Charlie (Charlie Kirk) was murdered.
 

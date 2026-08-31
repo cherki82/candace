@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:03:35](/episodes/ep-a2bZf4fic10.md#t-00-03-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(215);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=215s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And you saw that we began to reintroduce a theory that John Bray had been working on for a very long time regarding an explosive. He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.
 

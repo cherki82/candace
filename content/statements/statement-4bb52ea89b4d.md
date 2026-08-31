@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:20:58](/episodes/ep-ti5Fxrvegno.md#t-00-20-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1258);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1258s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I had no problem with Candace Owens asking those questions and I refused to condemn her because I was under pressure from these people who wanted me to. And then that morphed into then everything Candace (Candace Owens) said thereafter with which I may or may not have had serious problems that I had to where's the condemnation? And it was all really about the Israel thing.
 

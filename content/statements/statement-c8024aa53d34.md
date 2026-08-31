@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:29:16](/episodes/ep-wcD2khO3rOA.md#t-00-28-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1756);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1756s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > would you like your baby to be with this person or would you like to go raise your baby somewhere else on the street
 

@@ -1,6 +1,6 @@
 ---
 title: "Satys"
-description: "Satys (Organizations) - 17 mentions"
+description: "Satys (Organizations) - 19 mentions"
 id: "org-satys"
 type: "ORG"
 aliases:
@@ -22,30 +22,32 @@ _Type: Organizations_
 Source: [Satys — Our Group](https://www.satys.com/en/our-group)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54">2025-11-20 · 00:00:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-satys-t-00-12-23">2025-11-19 · 00:12:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-satys-t-00-15-27">2025-12-02 · 00:15:27</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-satys-t-00-00-00" style="--pulse-height:57%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-satys-t-00-23-42" style="--pulse-height:71%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-satys-t-00-15-27" style="--pulse-height:14%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-satys-t-00-12-23" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-satys-t-00-00-00" style="--pulse-height:67%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-satys-t-00-23-42" style="--pulse-height:83%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-satys-t-00-15-27" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54) | 7 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-satys-t-00-12-23) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54) | 6 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-satys-t-00-00-00) | 4 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-satys-t-00-23-42) | 5 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-satys-t-00-15-27) | 1 |
@@ -56,7 +58,7 @@ Source: [Satys — Our Group](https://www.satys.com/en/our-group)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
@@ -104,7 +106,7 @@ Source: [Satys — Our Group](https://www.satys.com/en/our-group)
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (7 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
 
 **[00:00:55](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54)**
 > "that odd French company in Delaware... Satis... was more than likely a front for something else"
@@ -112,20 +114,31 @@ Source: [Satys — Our Group](https://www.satys.com/en/our-group)
 **[00:05:21](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54)**
 > "...that you will be next if you don't shut up. Like, really, "It was supposed to be you." And this new Satis angle is not something that seems subtle to me. When I consider that it was Charlie (Charlie Kirk) ..."
 
-**[00:05:28](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-04-54)**
+**[00:05:28](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-05-28)**
 > "...rlie (Charlie Kirk) that said that they want me to stop speaking about Brigitte. And now I consider Satis, which according to our source—our well-placed source—is a front, right? Suddenly this French compa..."
 
-**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-09-03)**
+**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-08-58)**
 > ".... We go back to our timeline. That's December 3rd. And seven days later is when it's announced that Satis—that's when it's publicly announced that Satis, that French company, has inked a deal in Wilmington..."
 
-**[00:13:20](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-13-11)**
-> "...s where things get really interesting. Charlie (Charlie Kirk) Kirk hosts Tucker (Tucker Carlson) at Satis. This brings in the Tucker (Tucker Carlson) element, right? Tucker (Tucker Carlson), he tells Tucke..."
-
-**[00:18:35](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-18-13)**
+**[00:18:35](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-18-23)**
 > "... lawsuit was being filed in Delaware. Not putting anything together. Obviously, I didn't know about Satis. Nothing. This is my lawyer, and he says, "Here's the PDF. It's massive." We're likely going to try..."
 
-**[00:29:08](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-28-31)**
+**[00:29:08](/episodes/ep-sImMM04XdWY.md#ent-org-satys-t-00-28-45)**
 > "... that to you guys—that we should prod that narrative more. We should learn more about that company, Satis. We should see—we are receiving a bunch of tips about that company, and we are going to chase down ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
+
+**[00:12:48](/episodes/ep-SKGUzGHymcI.md#ent-org-satys-t-00-12-23)**
+> "...raft finishing company called Satys, S-A-T-Y-S, announced that it was taking over the..."
+
+**[00:13:05](/episodes/ep-SKGUzGHymcI.md#ent-org-satys-t-00-13-05)**
+> "...e outlet said the same thing. Satys will invest a little over $1 million and get this..."
+
+**[00:13:37](/episodes/ep-SKGUzGHymcI.md#ent-org-satys-t-00-13-37)**
+> "...ir to execute that lease with Satys."
 
 </details>
 
@@ -147,7 +160,7 @@ Source: [Satys — Our Group](https://www.satys.com/en/our-group)
 </details>
 
 <details>
-<summary>Has Investor (1)</summary>
+<summary>Has Investor (2)</summary>
 
 - **[Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -156,15 +169,29 @@ Source: [Satys — Our Group](https://www.satys.com/en/our-group)
 
 </details>
 
+- **[Ace Capital Partners (Tikehau Capital)](/entities/org-ace-capital-partners-tikehau.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:15:27](/episodes/ep-a-e7HC6SeK8.md#t-00-15-27): “We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel.md)** invested in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. ... They are the second-largest shareholder to Satis.”
+
+</details>
+
+- **[Ace Capital Partners (Tikehau Capital)](/entities/org-ace-capital-partners-tikehau.md)** invested in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:15:27](/episodes/ep-a-e7HC6SeK8.md#t-00-15-27): “We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis.”
 
 </details>
 
@@ -201,11 +228,11 @@ Source: [Satys — Our Group](https://www.satys.com/en/our-group)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
 
-- [00:00:39](/episodes/ep-sImMM04XdWY.md#t-00-00-01) (Claim) **Candace Owens** (via paraphrase): ["The French company Satys in Delaware wasn't established to provide mai..."](/statements/statement-af3c0e82202b.md)
+- [00:00:34](/episodes/ep-sImMM04XdWY.md#t-00-00-34) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said a source had shown that Satys was not established t..."](/statements/statement-af3c0e82202b.md)
 
-- [00:06:00](/episodes/ep-sImMM04XdWY.md#t-00-05-36) (Claim) **Candace Owens**: ["Satys had a lack of a lease since 2021, proving there was no maintenan..."](/statements/statement-e5b1912dc699.md)
+- [00:05:50](/episodes/ep-sImMM04XdWY.md#t-00-05-28) (Claim) **Candace Owens**: ["Candace Owens said the lack of a lease since 2021 meant no maintenance..."](/statements/statement-e5b1912dc699.md)
 
-- [00:09:07](/episodes/ep-sImMM04XdWY.md#t-00-09-03) (Claim) **Candace Owens**: ["Satys was publicly announced on December 10th, seven days after the ce..."](/statements/statement-ada7a08dfe7f.md)
+- [00:09:05](/episodes/ep-sImMM04XdWY.md#t-00-08-58) (Claim) **Candace Owens**: ["Candace Owens said that seven days after December 3—on December 10—it ..."](/statements/statement-58e96e75a8cc.md)
 
 </details>
 

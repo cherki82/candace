@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:08:19](/episodes/ep-ZZGWo6oDscc.md#t-00-08-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(499);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=499s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He has your back. And to the Ayatollahs, you need to understand, ... if you keep killing your people who are demanding a better life. ... Donald J. Trump is going to kill you.
 

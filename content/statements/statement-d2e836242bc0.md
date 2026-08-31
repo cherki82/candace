@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:32:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1933);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1933s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These documents suggest that Tyler had already been Mirandized and was sitting in a police station to be interviewed at 625 p.m. on the 11th. ... They list it, 625 p.m. This is a police officer saying, so Tyler, before we begin, I'm just going to read you your rights.
 

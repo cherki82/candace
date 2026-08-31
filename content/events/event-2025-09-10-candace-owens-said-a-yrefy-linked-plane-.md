@@ -7,6 +7,11 @@ time: "10:24"
 ---
 
 **Date:** 2025-09-10 at 10:24
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -18,7 +23,7 @@ time: "10:24"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:35:49](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-candace-owens-said-a-yrefy-linked-plane--t-00-35-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2149);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=2149s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > then from Provo to Santa Barbara at 1024, then from Santa Barbara, it goes to Scottsdale.
 
@@ -26,6 +31,6 @@ time: "10:24"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#event-event-2025-09-10-candace-owens-said-a-yrefy-linked-plane--t-00-02-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(143);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=143s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > left Santa Barbara just five minutes after Charlie Kirk was shot, and then it went to Scottsdale.

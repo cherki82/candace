@@ -23,7 +23,7 @@ type: "promise"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:05:47](/episodes/ep-ja26iltROkM.md#t-00-05-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(347);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have a lot of questions, and each and every one of them will be answered by the end of this investigation.
 

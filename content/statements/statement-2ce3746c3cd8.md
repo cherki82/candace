@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:14:34](/episodes/ep-his-JBjlkh8.md#t-00-14-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(874);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=874s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) made sure the organization was audited by a third party every year.
 

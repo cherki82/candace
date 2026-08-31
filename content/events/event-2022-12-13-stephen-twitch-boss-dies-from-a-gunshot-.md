@@ -6,6 +6,15 @@ date: "2022-12-13"
 ---
 
 **Date:** 2022-12-13
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “2022 (corrected from 2002)”
+
+**Normalization note:** Entertainment Tonight reported the coroner-confirmed death date as December 13, 2022.
+
+**Date source:** [https://www.etonline.com/stephen-twitch-boss-official-cause-of-death-confirmed-by-coroner-196067](https://www.etonline.com/stephen-twitch-boss-official-cause-of-death-confirmed-by-coroner-196067)
 
 ## Event
 
@@ -15,6 +24,6 @@ date: "2022-12-13"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:43:01](/episodes/ep-amqTMimDr0A.md#event-event-2022-12-13-stephen-twitch-boss-dies-from-a-gunshot--t-00-43-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2581);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2581s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think I said he died in 2002. I meant to say 2022.

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:13:44](/episodes/ep-EtLHqDbxqks.md#t-00-13-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(824);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=824s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And our biggest claim that we probably on the show was that Tyler Robinson did not. not step foot onto campus on that day. At least that is what he told his family.
 

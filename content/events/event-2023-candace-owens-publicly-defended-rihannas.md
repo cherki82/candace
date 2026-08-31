@@ -6,6 +6,11 @@ date: "2023"
 ---
 
 **Date:** 2023
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “back in 2023”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2023"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:01:19](/episodes/ep-4YgrOhhy708.md#event-event-2023-candace-owens-publicly-defended-rihannas-t-00-00-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(79);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=79s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I notoriously defended Rihanna back in 2023 when she was literally

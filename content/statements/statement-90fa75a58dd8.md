@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:08:06](/episodes/ep-SKNJPul29zU.md#t-01-07-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4086);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4086s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't care what Netanyahu thinks about anything that happens in our country at all. He should be in prison for the rest of his life as a war criminal because that's what he is.
 

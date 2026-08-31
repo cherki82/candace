@@ -1,0 +1,23 @@
+---
+title: "Charlie Kirk has former assistant Sarah (Charlie Kirk assistant; surname unverified)"
+description: "Evidence for the relationship: Charlie Kirk has former assistant Sarah (Charlie Kirk assistant; surname unverified)"
+relationship_id: "rel-3d3fbde45681"
+subject: "person-charlie-kirk"
+predicate: "has former assistant"
+object: "person-sarah-charlie-kirk-assistant-surname-unverified"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Charlie Kirk](/entities/person-charlie-kirk) has former assistant [Sarah (Charlie Kirk assistant; surname unverified)](/entities/person-sarah-charlie-kirk-assistant-surname-unverified)
+
+### Evidence (1 mentions)
+
+**[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
+
+- [00:15:12](/episodes/ep-_dRaEO47-co#t-00-15-12): _Just literally me, Charlie (Charlie Kirk) and Sarah, who was his assistant at the time, just playing the hype music._
+
+### Related
+
+- [Charlie Kirk](/entities/person-charlie-kirk)
+- [Sarah (Charlie Kirk assistant; surname unverified)](/entities/person-sarah-charlie-kirk-assistant-surname-unverified)

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:01:50](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(110);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=110s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what happened thereafter is Charlie Kirk instantly came out and supported me because we were like brother and sister
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:12:21](/episodes/ep-1mYNOqzAdXs.md#t-00-12-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(741);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=741s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, first of all, I love Erika (Erika Kirk) and I know that she did get some threats and, you know, about two hours ago, as you know, Andrew (Andrew Kolvet), I was a little worried that we were going to have to cancel the event because Erika (Erika Kirk) was not going to come and she was very worried about it. And I talked to the Secret Service and obviously these guys do a very good job. And I said, you know what, let's let Erika (Erika Kirk) do what she needs to do for herself and her family.
 

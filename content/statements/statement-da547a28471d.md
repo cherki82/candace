@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:10:14](/episodes/ep-SKNJPul29zU.md#t-00-10-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(614);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=614s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, that was the beginning of ever. I mean, I was temporarily banned for ads from YouTube because they are organized online and started mass reporting my new channel.
 

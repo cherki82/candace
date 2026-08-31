@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:48:02](/episodes/ep-DdPjoy5W-wY.md#t-00-47-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2882);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2882s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She really liked this guy, by the way, there's evidence that they were, they were even engaged. And so her whole demeanor is just so different from the person that she becomes with Charlie (Charlie Kirk). And we're supposed to believe that that's authentic.
 

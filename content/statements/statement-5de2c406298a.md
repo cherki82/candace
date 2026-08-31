@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:45:49](/episodes/ep-ChuWo-n49B8.md#t-00-45-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2749);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2749s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well... I didn't murder anyone because I was a seven-year-old who was forced to shoot a person. My stepfather, again, ... holding my hand around a pistol to a man who was handcuffed and on his knees, put his finger over the trigger and pushed it until the man was shot. I don't know who he was. He best I can remember he looked like a homeless fellow
 

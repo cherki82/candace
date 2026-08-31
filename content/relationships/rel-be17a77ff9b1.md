@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (68 mentions)
+### Evidence (74 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -129,6 +129,18 @@ object: "person-charlie-kirk"
 
 - [00:13:42](/episodes/ep-HZvwbfePe7o#t-00-13-42): _We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular, and it will have basically museum style for our Charlie (Charlie Kirk), for my Charlie (Charlie Kirk)._
 
+**[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
+
+- [00:10:24](/episodes/ep-JQjCAsfoXEE#t-00-10-24): _No matter how many times I watched that clip of me talking about Martin Luther King Boulevard and Charlie (Charlie Kirk) Boulevard, I do not get from that that Erika Kirk killed her husband, but that's what they went with._
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:31:23](/episodes/ep-K1tFD7FfoCU#t-00-31-23): _was I would not have wanted Erika (Erika Kirk) to—it would not be my—it would not have been my advice for Erika (Erika Kirk) in a stage of grieving to go from being the widow to being the CEO and the chairman of the company._
+
+**[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
+
+- [00:35:40](/episodes/ep-K5GjF53bfN4#t-00-35-40): _I'm not in their marriage, but I know that Charlie (Charlie Kirk) was very happy with Erika (Erika Kirk)_
+
 **[Coming soon...](/episodes/ep-LKR94FQ5p3o)**
 
 - [00:00:00](/episodes/ep-LKR94FQ5p3o#t-00-00-00): _President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building. ... The cries of this widow will echo around the world like a battle cry. ... I didn't get to give him a kiss goodbye. ... My husband's dead._
@@ -201,6 +213,10 @@ object: "person-charlie-kirk"
 
 - [00:02:10](/episodes/ep-ZzAT2xijKGQ#t-00-02-10): _In case you missed it, her husband died._
 
+**[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
+
+- [00:19:08](/episodes/ep-_dRaEO47-co#t-00-19-08): _First came the name shame, then came the wedding, and then came the children. You know, Charlie (Charlie Kirk) really loved—really, really loved Erika._
+
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 
 - [00:32:42](/episodes/ep-_vg7ucP1E0g#t-00-32-42): _There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that._
@@ -241,6 +257,10 @@ object: "person-charlie-kirk"
 
 - [00:01:52](/episodes/ep-jTj9Ip46r4w#t-00-01-52): _So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat Shalom and not so grieving widow._
 
+**[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
+
+- [00:00:02](/episodes/ep-ja26iltROkM#t-00-00-02): _Erika Kirk (Charlie Kirk's wife), man. That—she really is just the moment._
+
 **[BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0)**
 
 - [00:02:22](/episodes/ep-jsqUIkszZd0#t-00-02-22): _during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband._
@@ -277,9 +297,13 @@ object: "person-charlie-kirk"
 
 - [00:17:02](/episodes/ep-ti5Fxrvegno#t-00-17-02): _We can't even get his widow to at least come out and tell the truth about Charlie (Charlie Kirk) shifting positions._
 
+**[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
+
+- [00:00:51](/episodes/ep-vwG1juDCQZQ#t-00-00-51): _Erika Kirk (Charlie Kirk's widow)_
+
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 
-- [00:00:36](/episodes/ep-w1oqQbR_bYs#t-00-00-36): _Charlie's widow_
+- [00:00:28](/episodes/ep-w1oqQbR_bYs#t-00-00-28): _So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?_
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 

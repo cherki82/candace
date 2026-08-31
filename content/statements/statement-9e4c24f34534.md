@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:16:42](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1002);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1002s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's dead now. When he wanted out, he was killed.
 

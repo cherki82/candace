@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:06:46](/episodes/ep-iB-YtO3UZOg.md#t-00-06-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(406);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=406s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It says that the book description is about how women and queer gamers can express and elicit excitement, creativity, and desire in online gaming communities and beyond.
 

@@ -11,7 +11,7 @@ object: "person-robert-bohls"
 
 ## [Kash Patel](/entities/person-kash-patel) appointed [Robert Bohls](/entities/person-robert-bohls)
 
-### Evidence (5 mentions)
+### Evidence (3 mentions)
 
 **[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
 
@@ -19,9 +19,7 @@ object: "person-robert-bohls"
 
 **[DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo)**
 
-- [00:00:32](/episodes/ep-YA1FxrDWNIo#t-00-00-32): _Kash Patel... fired... the chief of the Utah bureau... and replaced her with Robert Bowles_
-- [00:32:13](/episodes/ep-YA1FxrDWNIo#t-00-32-13): _He fired the chief—among other people—and replaced her with Robert Bowles in August_
-- [00:32:20](/episodes/ep-YA1FxrDWNIo#t-00-32-20): _replaced her with Robert Bowles_
+- [00:31:56](/episodes/ep-YA1FxrDWNIo#t-00-31-56): _Kash Patel went ahead and fired not only the chief of the Utah bureau, but also some other people. ... He fired the chief—among other people—and replaced her with Robert Bohls in August._
 
 **[BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I)**
 

@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Just Thrive](/entities/org-just-thrive) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (4 mentions)
+
+**[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
+
+- [00:40:36](/episodes/ep-2WEHTk0Xewg#t-00-40-36): _Take control today with Just Thrive._
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
@@ -20,6 +24,10 @@ object: "person-candace-owens"
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:37:44](/episodes/ep-YeEtS7nix3o#t-00-37-44): _Right now, Just Thrive is offering something special just for my listeners._
+
+**[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
+
+- [00:35:53](/episodes/ep-czVBmqZP6Ss#t-00-35-53): _So take control today with Just Thrive._
 
 ### Related
 

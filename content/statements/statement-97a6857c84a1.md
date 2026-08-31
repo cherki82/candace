@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:32:06](/episodes/ep-h76ZN-xXC6c.md#t-00-31-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1926);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1926s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They don't want to explain to us why the police didn't perform a basic GSR test, a gunshot residue test, to see if he fired a gun.
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1401);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=1401s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reality is that Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood the night before saying that he feared he was going to be killed after he was engaged in a discussion about him removing his support from Israel and after he then had to have this call with a rabbi. They dead in the middle of the night while the rabbi was in Israel and Josh Hammer and they're telling us he just wanted tips on how to debate.
 

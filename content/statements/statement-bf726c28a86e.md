@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2154);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2154s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through. ... Like, yeah, yeah, you never hit the stage where you just pathological lie about everything and you just like, you know, you know, hit the world tour and reverse everything that your husband said.
 

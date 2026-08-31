@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:03:54](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(234);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=234s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We've also now confirmed that she was at the Hamptons Retreat, the now infamous Hamptons Retreat. She was present when Bibi (Benjamin Netanyahu) called.
 
@@ -38,7 +38,7 @@ type: "factual_claim"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:14:44](/episodes/ep-ti5Fxrvegno.md#t-00-14-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(884);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) was at the meeting in the Hamptons when Bibi (Benjamin Netanyahu) called and offered to take Turning Point to the next level, but she cannot remember that particular detail.
 

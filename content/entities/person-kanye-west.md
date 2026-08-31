@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 184 mentions"
+description: "Kanye West (People) - 182 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-46-33">2026-08-21 · 00:46:57</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>184</strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>182</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>34</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,21 +40,22 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13" style="--pulse-height:26%" aria-label="To My Friend, Charlie Kirk.: 9 mentions" title="2025-09-11 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-czVBmqZP6Ss.md#t-00-03-27" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#t-00-26-14" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-kanye-west-t-00-26-14" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 6 mentions" title="2025-10-08 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-12" style="--pulse-height:11%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 35 mentions" title="2025-10-28 · 35 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-18-22" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-kanye-west-t-00-18-22" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-37" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-48" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:23%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45" style="--pulse-height:9%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-kanye-west-t-00-45-31" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-20" style="--pulse-height:9%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:43%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 15 mentions" title="2026-01-07 · 15 mentions"><span></span></a>
@@ -87,21 +88,22 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13) | 9 |
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27) | 2 |
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13) | 1 |
-| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-26-14) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-kanye-west-t-00-26-14) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42) | 2 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56) | 6 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-12) | 4 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16) | 2 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39) | 5 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10) | 35 |
-| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38) | 6 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-kanye-west-t-00-18-22) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-37) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-48) | 5 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11) | 4 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00) | 8 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05) | 6 |
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45) | 3 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-kanye-west-t-00-45-31) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-20) | 3 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00) | 15 |
@@ -133,7 +135,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (184)</strong></summary>
+<summary><strong class="section-title">Raw mentions (182)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (6 mentions)</summary>
@@ -522,14 +524,22 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
 
-**[00:00:25](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45)**
+**[00:00:25](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-20)**
 > "I am basically akin to Kanye"
 
-**[00:01:20](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45)**
+**[00:01:20](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-20)**
 > "I am basically akin to Kanye (Kanye West)."
 
-**[00:01:32](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-24)**
+**[00:01:32](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-20)**
 > "...re, I was like, oh gosh, yes, Kanye (Kanye West), I get this, okay?"
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:45:50](/episodes/ep-t4U7NjnUEgc.md#ent-person-kanye-west-t-00-45-31)**
+> "...e gonna make a video and call Kanye West anti-Semitic?"
 
 </details>
 
@@ -584,22 +594,22 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 **[00:02:31](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-02-03)**
 > "...Clinic. We're gonna talk about that and the program that they're running throughout California. Ye (Kanye West). When I said why I didn't speak out was because I recognized that he had done something tremendous..."
 
-**[00:05:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-04-58)**
+**[00:05:12](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-05-12)**
 > "...rt on this case. I obviously could not have become an expert overnight. But after speaking with Ye (Kanye West) and being a part of that—being around him when everything went down—I got the gist of the fact tha..."
 
 **[00:15:32](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-15-24)**
 > "...lly just the Mossad agents who now are mostly with the Kardashians." Now we're gonna talk about Ye (Kanye West) in a bit. "I did go to Israel with Rob Taylor and a few other people from our church in [blank] an..."
 
-**[00:19:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-41)**
+**[00:19:39](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-29)**
 > "...f what goes on inside of Hollywood, I did start to understand it after everything happened with Ye (Kanye West), okay? I saw it up close. And even I thought Ye (Kanye West) was crazy or like having—was being hy..."
 
-**[00:19:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-41)**
+**[00:19:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-29)**
 > "... it after everything happened with Ye (Kanye West), okay? I saw it up close. And even I thought Ye (Kanye West) was crazy or like having—was being hysterical—when he turned around to me in my house and he said—..."
 
-**[00:20:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-20-23)**
+**[00:20:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-20-12)**
 > "...ou start to realize there are literally psychological operatives in your life. He was asking me—Ye (Kanye West)—"Are you a part of the psychological operation that is meant to control me?" "Are you one of these..."
 
-**[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-22-30)**
+**[00:23:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-22-52)**
 > "...akdown." "She needs a break." "She's really tired." "Britney's been put on a psych 5150 hold." "Ye (Kanye West), he said he was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUlt..."
 
 </details>
@@ -622,32 +632,29 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (6 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
 
-**[00:48:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+**[00:48:48](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-48)**
 > "...as that like Binyabinyapoliwog?" Look here, please. What does your opening song say? That is from a Kanye song. "I hope he's bright and brave and strong." It's—I guess—hitting differently. Yeah, it's a Kan..."
 
-**[00:48:57](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+**[00:48:55](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-48)**
 > "...nye song. "I hope he's bright and brave and strong." It's—I guess—hitting differently. Yeah, it's a Kanye song, and it's a sample from—it's called "Stars." The beginning of it is called "Stars." Lots of co..."
 
-**[00:49:07](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+**[00:49:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-48)**
 > "...rs." The beginning of it is called "Stars." Lots of comments saying DEFCON 3, not death. That was a Kanye joke. Remember—notoriously—Kanye tweeted this, and everyone freaked out because he wrote "death." H..."
 
-**[00:49:11](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+**[00:49:11](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-48)**
 > "...d "Stars." Lots of comments saying DEFCON 3, not death. That was a Kanye joke. Remember—notoriously—Kanye tweeted this, and everyone freaked out because he wrote "death." He meant DEFCON 3 because it's a d..."
 
-**[00:50:14](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
+**[00:50:14](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-14)**
 > "... Jewish. And so we were being funny. We know that it's DEF CON 3. We were just doing a throwback to Kanye. I should probably put a Kanye photo in there. Uh, next comment is from Stilo Ackla: "Thank you, Ca..."
-
-**[00:50:15](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
-> "...unny. We know that it's DEF CON 3. We were just doing a throwback to Kanye. I should probably put a Kanye photo in there. Uh, next comment is from Stilo Ackla: "Thank you, Candace (Candace Owens), so much...."
 
 </details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
+**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-37)**
 > "...ripped a hole in reality and made things even more global than they already were. I'd like to thank Kanye West—formerly Kanye West; he is now Ye—for the song "Power," because the song "Power" really made me rec..."
 
 </details>
@@ -655,7 +662,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
 
-**[00:18:30](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22)**
+**[00:18:30](/episodes/ep-Qt0VHV-POCg.md#ent-person-kanye-west-t-00-18-22)**
 > "... Charlie's memorial. Like kudos to whoever made that call because I would have just been on my best Kanye. I would have jumped on stage and just grabbed the mic from Susie Wiles or someone and said, "Are y..."
 
 </details>
@@ -664,7 +671,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (35 mentions)</summary>
 
 **[00:02:10](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10)**
-> "...video to Charlie (Charlie Kirk), some people took issue theologically when I said that the day that Kanye West tweeted, "I love the way Candace Owens thinks," Charlie and I freaked out because we were convinced..."
+> "Back when I did my initial tribute video to Charlie (Charlie Kirk), some people took issue theologically when I said that the day that Kanye West tweeted, "I love the way Candace Owens thinks," Charlie (Charlie Kirk) and I freaked out because we were convinced that we had somehow manifested that."
 
 **[00:03:37](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-03-31)**
 > "...d just kind of gotten together the November before. And it is just a fact that we were listening to Kanye West music every day. I mean, literally every day—especially the song "Power," okay? I was telling Charl..."
@@ -673,100 +680,100 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > "we were listening to Kanye West music every day"
 
 **[00:03:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-03-31)**
-> "... every day—especially the song "Power," okay? I was telling Charlie, "Explicitly, we have to get to Kanye West. I can tell by his music." This is what I'm saying to Charlie. "I know these lyrics inside and out...."
+> ""Explicitly, we have to get to Kanye West."
 
 **[00:03:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-03-31)**
-> "...these lyrics inside and out. This person does not want to be a part of the system. If we can get to Kanye, I think he'll join my Blexit movement. I've got to wake up Black Americans to this scam that they'..."
+> "If we can get to Kanye (Kanye West), I think he'll join my Blexit movement."
 
 **[00:04:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-04-13)**
-> "...which now to me seems so minuscule because I see how much bigger the issue is. But I just knew that Kanye West was not a part of the simulation, so to speak, and that the song "Power," as Kanye said, is a battl..."
+> "But I just knew that Kanye West was not a part of the simulation, so to speak, and that the song "Power," as Kanye (Kanye West) said, is a battle cry to be yourself because of the lyrics."
 
 **[00:04:34](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-04-13)**
-> "... This is what I said to him just so you can kind of get the vibe of what was going on. I said, "Yo, Kanye West writing a philosophy book called 'Break the Simulation.' We need him, Charlie. He is Blexit AF." An..."
+> "Kanye West writing a philosophy book called 'Break the Simulation.'"
 
 **[00:04:42](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-04-13)**
-> "...led 'Break the Simulation.' We need him, Charlie. He is Blexit AF." And Charlie wrote back, "I love Kanye. He's my soul brother. I will find a way to him. I promise we have to." It's crazy to look at that ..."
+> "And Charlie (Charlie Kirk) wrote back, "I love Kanye (Kanye West)."
 
 **[00:06:37](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-06-20)**
 > "...icture here of what was going on. We're gonna get deeper here on what transpired. On the eve before Kanye West tweeted us—again, we are still in April. This is April 20th, the evening before Kanye West tweets m..."
 
 **[00:06:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-06-20)**
-> "...e before Kanye West tweeted us—again, we are still in April. This is April 20th, the evening before Kanye West tweets me. Charlie messages me, and he says, "I'm on a run, and I'm blasting Kanye West, and we're ..."
+> "This is April 20th, the evening before Kanye West tweets me."
 
 **[00:06:45](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-06-20)**
-> "...ning before Kanye West tweets me. Charlie messages me, and he says, "I'm on a run, and I'm blasting Kanye West, and we're on the brink of something big, and like, this is our time." I'm gonna show you that text..."
+> "Charlie (Charlie Kirk) messages me, and he says, "I'm on a run, and I'm blasting Kanye West, and we're on the brink of something big, and like, this is our time.""
 
 **[00:06:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-06-20)**
-> "...hing big, and like, this is our time." I'm gonna show you that text—night before. "I'm listening to Kanye and just running my streets. Are you ready for the war that's coming? We're going to fight. We're g..."
+> ""I'm listening to Kanye (Kanye West) and just running my streets."
 
 **[00:07:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-07-05)**
-> "...ut, going, "How is this real? How did we know?" What is happening right now in the world? And yeah, Kanye sent this now infamous tweet. "I love the way Candace Owens thinks." I want you to know this: every..."
+> "And yeah, Kanye (Kanye West) sent this now infamous tweet."
 
 **[00:08:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-08-30)**
-> "...he way Candace Owens thinks." Seven words. And he ripped a hole in reality with seven words because Kanye is supposed to be over here, and Candace is supposed to be over here, and they're not ever supposed..."
+> "And he ripped a hole in reality with seven words because Kanye (Kanye West) is supposed to be over here,"
 
 **[00:09:03](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-08-30)**
-> "...r supposed to say the other one said something right. All right, that's not supposed to happen. But Kanye did it anyway. Kanye knows history doesn't repeat. He's not a prisoner of the mind. He knows that t..."
+> "But Kanye (Kanye West) did it anyway."
 
 **[00:09:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-08-30)**
-> "... other one said something right. All right, that's not supposed to happen. But Kanye did it anyway. Kanye knows history doesn't repeat. He's not a prisoner of the mind. He knows that the problem is not the..."
+> "Kanye (Kanye West)"
 
 **[00:09:17](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-09-14)**
-> "...prisoner of the mind. He knows that the problem is not the solution. Whatever you want to say about Kanye's politics—and I don't even know what his preferred politics would be; I'm not even sure what party..."
+> "Whatever you want to say about Kanye (Kanye West)'s politics—and I don't even know what his preferred politics would be;"
 
 **[00:10:14](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-09-58)**
-> "...tory. The story is that these two people that shouldn't be in the same conversation—in seven words, Kanye just changed that. And he just freed a lot of people from a mental prison. Kanye, in seven words, u..."
+> "The story is that these two people that shouldn't be in the same conversation—in seven words, Kanye (Kanye West) just changed that."
 
 **[00:10:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-10-33)**
-> "...on—in seven words, Kanye just changed that. And he just freed a lot of people from a mental prison. Kanye, in seven words, unlocked a mental prison and is bringing you to the Golden Age. I look back on tha..."
+> "Kanye (Kanye West), in seven words, unlocked a mental prison and is bringing you to the Golden Age."
 
 **[00:11:03](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-10-48)**
-> "...hat from that moment onward, Charlie and I were assigned handlers. Okay, this is an expression that Kanye used to say: "I have a handler." I thought that he was just saying that. I thought that he was refe..."
+> "Okay, this is an expression that Kanye (Kanye West) used to say: "I have a handler.""
 
 **[00:11:28](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-10-48)**
-> "...part. Now, I'm going to tell you how I remember it, in no particular order, okay? I tweeted back at Kanye, and I said, "Please take a meeting with us." And before I could hear directly from Kanye's people,..."
+> "I tweeted back at Kanye (Kanye West), and I said, "Please take a meeting with us.""
 
 **[00:11:30](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-11-30)**
-> "...d back at Kanye, and I said, "Please take a meeting with us." And before I could hear directly from Kanye's people, I heard from David Horowitz of Freedom Center. He's the one that first invited me when I ..."
+> "And before I could hear directly from Kanye (Kanye West)'s people, I heard from David Horowitz of Freedom Center."
 
 **[00:12:01](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-11-30)**
-> "...in the future. It's relevant. Um, he was very nice in his message to me. He said, "Oh, my son knows Kanye, and I would like to facilitate that meeting." Suddenly they get Eric Weinstein involved, and he re..."
+> "Um, he was very nice in his message to me. He said, "Oh, my son knows Kanye (Kanye West), and I would like to facilitate that meeting.""
 
 **[00:13:10](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-12-53)**
-> "...s like at every moment there were forces that were trying to tell us this is not allowed to happen. Kanye's handlers are telling him—Kanye's got a team of people telling him he's not allowed to be involved..."
+> "Kanye (Kanye West)'s handlers are telling him—Kanye (Kanye West)'s got a team of people telling him he's not allowed to be involved in politics."
 
 **[00:13:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-12-53)**
-> "...he's getting angrier and he's getting angrier about that. This is in the time of Kim Kardashian and Kanye. She wanted nothing to do with it, okay? And I've been to their house, and political friends are te..."
+> "This is in the time of Kim Kardashian and Kanye (Kanye West)."
 
 **[00:13:30](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-12-53)**
-> "...I've been to their house, and political friends are telling Charlie and I, "Don't get involved with Kanye because he's crazy. You guys are on a trajectory. Don't speak to Kanye. It's gonna backfire in your..."
+> "And I've been to their house, and political friends are telling Charlie (Charlie Kirk) and I, "Don't get involved with Kanye (Kanye West) because he's crazy."
 
 **[00:13:40](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-13-32)**
-> "... I, "Don't get involved with Kanye because he's crazy. You guys are on a trajectory. Don't speak to Kanye. It's gonna backfire in your face." And I'm like, "No, we dreamed this. We want him to be a part of..."
+> "Don't speak to Kanye (Kanye West)."
 
 **[00:14:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-14-16)**
-> "...ndon." And we did. But first, dealing with this sort of pressure cooker that kept happening between Kanye, me, Charlie. It was in October after Kanye had helped me to start designing the logo for Blexit th..."
+> "But first, dealing with this sort of pressure cooker that kept happening between Kanye (Kanye West), me, Charlie (Charlie Kirk)."
 
 **[00:14:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-14-16)**
-> "...his sort of pressure cooker that kept happening between Kanye, me, Charlie. It was in October after Kanye had helped me to start designing the logo for Blexit that Kanye's pressure cooker got too hot. And ..."
+> "It was in October after Kanye (Kanye West) had helped me to start designing the logo for Blexit that Kanye (Kanye West)'s pressure cooker got too hot."
 
 **[00:14:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-14-16)**
-> "...rse, Blexit, and he cracked. I mean, you guys remember this headline. I'm taking you back to 2018: "Kanye West distances himself from Blexit and Trump." He says, "I've been used to spread messages." Kanye never..."
+> "I mean, you guys remember this headline. I'm taking you back to 2018: "Kanye West distances himself from Blexit and Trump (Donald J. Trump).""
 
 **[00:14:53](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-14-16)**
-> "..."Kanye West distances himself from Blexit and Trump." He says, "I've been used to spread messages." Kanye never wrote this statement—one of his handlers did—but he said, "Now, that was not the most honest ..."
+> "Kanye (Kanye West) never wrote this statement—one of his handlers did—but he said,"
 
 **[00:15:03](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-15-00)**
-> "...." And I reflect on it, and I'm so grateful that I called Mike Cernovich, and I said, "Like, why is Kanye doing this? Why is he saying this? I have pictures of him standing over the guy directing him on wh..."
+> ""Like, why is Kanye (Kanye West) doing this?"
 
 **[00:15:36](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-15-00)**
-> "...ve no idea what he's going through." And I'm grateful to Cernovich for that because I now know what Kanye was going through: and what that pressure is like and what may come for your family and come for ev..."
+> "And I'm grateful to Cernovich (Mike Cernovich) for that because I now know what Kanye (Kanye West) was going through:"
 
 **[00:15:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-15-43)**
-> "...all you have to do is disavow this or disavow that, and everything will go back to normal. So yeah, Kanye, I totally understand it. It makes perfect sense to me why you had to say that. Anyways, I think I ..."
+> "So yeah, Kanye (Kanye West), I totally understand it."
 
 **[01:08:20](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-01-08-20)**
-> "... is try to convince the world the person is crazy—because I'm not giving them that. You did it with Kanye; you put him on a psych 5150 hold. You did that to many people in Hollywood. I know how it works, a..."
+> "You did it with Kanye (Kanye West); you put him on a psych 5150 hold. You did that to many people in Hollywood."
 
 </details>
 
@@ -794,32 +801,26 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
 **[00:53:57](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16)**
-> "...o have the courage and humility to ask yourself what you're doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they t..."
+> "It's never too late to say Kanye (Kanye West) was right."
 
-**[00:54:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-54-00)**
-> "...e doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they treat people. It's statements like that. Like just pretendi..."
+**[00:54:00](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-54-00)**
+> "Never too late. And I'd like to say that Kanye (Kanye West) was right. It's behavior. It's how they treat people."
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (6 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
 
-**[00:52:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+**[00:52:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-12)**
 > "...s I discussed yesterday and which got picked up—was to create a kill switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free,..."
 
-**[00:52:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "...to create a kill switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free, you had to violate these contracts. You had to reco..."
-
-**[00:52:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "...switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free, you had to violate these contracts. You had to recognize that your v..."
-
-**[00:52:38](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+**[00:52:36](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-12)**
 > "..., you had to violate these contracts. You had to recognize that your voice is being controlled. And Kanye did just that. It was really an act of bravery to free himself. But I have no doubt for the same pe..."
 
-**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
+**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-12)**
 > "...ally an act of bravery to free himself. But I have no doubt for the same people that were torturing Kanye, the same people that were torturing Charlie (Charlie Kirk)—if Kanye died today—would be the first ..."
 
-**[00:52:57](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
+**[00:52:51](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-51)**
 > "...ze him. I feel that. And Drew, I feel that, and I think it's important to share that information as Kanye sent me all the messages of people who were threatening him. I have them all—to information share w..."
 
 </details>
@@ -838,7 +839,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
 
-**[00:26:38](/episodes/ep-ja26iltROkM.md#t-00-26-14)**
+**[00:26:38](/episodes/ep-ja26iltROkM.md#ent-person-kanye-west-t-00-26-14)**
 > "...terical. I mean, last week was insane. I got to the point where I just went—I just shrugged. I just Kanye shrugged. I'm like, "Okay." I don't know what to say. But this was just so funny. I had to share it..."
 
 </details>
@@ -846,7 +847,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:27:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
+**[00:27:38](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
 > ".... I'm good. You know what I'm gonna do? I'm gonna listen to "Power" on my headphones and go see Ye (Kanye West). How's that for a memorial for Charlie Kirk? That feels like the right thing for me to do right no..."
 
 </details>
@@ -869,28 +870,28 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > "...hink of, and there are so many to choose from, was we were driving through Colorado, and I put on a Kanye song, you know, on my playlist, and Charlie (Charlie Kirk) goes, “Is this Jay-Z?” I almost made him..."
 
 **[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13)**
-> "...stand that you don't do culture, but like, come on, you don't know the difference between Jay-Z and Kanye?” And he didn't, and I explained to him the difference. I was like, “Okay, you got to get into some..."
+> "Okay, I understand that you don't do culture, but like, come on, you don't know the difference between Jay-Z (Jay-Z) and Kanye (Kanye West)?" And he didn't, and I explained to him the difference."
 
 **[00:09:39](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13)**
-> "...” And he didn't, and I explained to him the difference. I was like, “Okay, you got to get into some Kanye West music.” Next thing you know, Charlie (Charlie Kirk)'s really getting into some Kanye West music. He..."
+> "I was like, “Okay, you got to get into some Kanye West music.”"
 
 **[00:09:42](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13)**
 > "...into some Kanye West music.” Next thing you know, Charlie (Charlie Kirk)'s really getting into some Kanye West music. He's running 10 miles a day. He got really into running, and he's texting me about how great..."
 
 **[00:09:59](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-57)**
-> "...is text, Charlie (Charlie Kirk), he's like, “Yes, it's my new favorite song.” And he just loved it. Kanye's “Power” kind of became our theme song for the tour. I have no idea why, but that was our hype son..."
+> "Kanye's (Kanye West) "Power" kind of became our theme song for the tour."
 
 **[00:10:09](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-57)**
 > "... when just a couple of months later, we've been listening to Kanye's old albums on repeat, suddenly Kanye West tweets, “I love the way Candace (Candace Owens) thinks.” The excitement, okay? We were certain that..."
 
 **[00:10:51](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-10-41)**
-> "....] You don't understand the divinity of him tweeting that. Charlie (Charlie Kirk) dance. The era of Kanye. I can't even explain it, because you really did have to be there. Charlie (Charlie Kirk) was my ov..."
+> "The era of Kanye (Kanye West)."
 
 **[00:11:33](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-11-27)**
-> "...k at this photo. I can hear him saying, “Does this look cool?” He was wearing a pair of Yeezys that Kanye gave him, and he looked really cool. I thought they really suited him. I was like, “Yeah, you look ..."
+> "He was wearing a pair of Yeezys that Kanye (Kanye West) gave him, and he looked really cool."
 
 **[00:14:52](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-14-52)**
-> "...character. But the prep for every one of those events, like even the “Him Too” event, it was always Kanye. Here it is. [Following clip attributed to Candace Owens, Charlie Kirk, and Sarah.] Just literally ..."
+> "But the prep for every one of those events, like even the "Him Too" event, it was always Kanye (Kanye West)."
 
 </details>
 
@@ -915,9 +916,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Formerly Married To (1)</summary>
 
 - **[Kim Kardashian](/entities/person-kim-kardashian.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye (Kanye West). ... And basically they told him that he would lose everything—his marriage, this, that—if he didn't abstain from politics after he notoriously went to the White House in the MAGA hat.”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:23:01](/episodes/ep-7RLtGgkTh9o.md#t-00-22-52): “Ye (Kanye West), he said he was just reading a Bible ... And somehow his wife—I guess—was cool with that at the time—being Kim Kardashian.”
 
 </details>
 
@@ -966,10 +968,21 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:33:58](/episodes/ep-9naMwS0kMBE.md#t-00-33-17): “it was 2018 because this was the trip when i went to go see kanye right”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): “it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song.”
-- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:33:58](/episodes/ep-9naMwS0kMBE.md#t-00-33-17): “it was 2018 because this was the trip when i went to go see kanye right”
 
 </details>
 
@@ -979,9 +992,8 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Supported By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): “Kanye was right. He was totally right”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,”
 
 </details>
@@ -1004,16 +1016,17 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Worked With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:23:40](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40): “And out of nowhere, Kanye (Kanye West), who did actually help me design the BLEXIT logo in Chicago, he was getting an insane amount of pressure and told that he could not get involved in politics. He's putting on the MAGA hat, things are going crazy. I think Kim (Kim Kardashian) was threatening divorce at some point, if I recall correctly, and Kanye (Kanye West) cracks and he tweets a series of tweets. He writes, "I introduced Candace to the person who made the logo, and they didn't want their name on it, so she used mine."”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:14:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16): “It was in October after Kanye (Kanye West) had helped me to start designing the logo for Blexit that Kanye (Kanye West)'s pressure cooker got too hot.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1023,9 +1036,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 - **[Kim Kardashian](/entities/person-kim-kardashian.md)** formerly married to this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye (Kanye West). ... And basically they told him that he would lose everything—his marriage, this, that—if he didn't abstain from politics after he notoriously went to the White House in the MAGA hat.”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:23:01](/episodes/ep-7RLtGgkTh9o.md#t-00-22-52): “Ye (Kanye West), he said he was just reading a Bible ... And somehow his wife—I guess—was cool with that at the time—being Kim Kardashian.”
 
 </details>
 
@@ -1054,17 +1068,22 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): “it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:33:58](/episodes/ep-9naMwS0kMBE.md#t-00-33-17): “it was 2018 because this was the trip when i went to go see kanye right”
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): “Kanye was right. He was totally right”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): “it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,”
 
 </details>
@@ -1084,7 +1103,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary><strong class="section-title">Statements by Kanye West (6)</strong></summary>
 
 <details>
-<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2)</summary>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (3)</summary>
+
+- [00:20:32](/episodes/ep-_vg7ucP1E0g.md#t-00-20-15) [✓] (Opinion) ["Kanye West tweeted 'I love the way Candace thinks'"](/statements/statement-db65a10129a1.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:24:10](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40) [✓] (Claim) ["I never wanted any association with BLEXIT and I have nothing to do with it"](/statements/statement-c2699df5f8da.md)
   - About: [Blexit](/entities/org-blexit.md)
@@ -1103,17 +1125,9 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
-
-- [00:01:26](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) [○] (Claim) ["Kanye West tweeted years ago 'just fired my manager because I realized I can't b..."](/statements/statement-46ada83faf52.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-
-</details>
-
-<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:07:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) [✓] (Claim) ["On April 21, 2018, Kanye West tweeted 'I love the way Candace Owens thinks.'"](/statements/statement-57cf55100c82.md)
+- [00:07:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) [✓] (Claim) ["On April 21, 2018, Kanye West tweeted 'I love the way Candace Owens thinks.'"](/statements/statement-57cf55100c82.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 </details>
@@ -1121,7 +1135,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
-- [00:10:19](/episodes/ep-_dRaEO47-co.md#t-00-09-57) [✓] (Opinion) ["Kanye West tweeted 'I love the way Candace thinks'"](/statements/statement-db65a10129a1.md)
+- [00:10:09](/episodes/ep-_dRaEO47-co.md#t-00-09-57) [✓] (Opinion) ["Kanye West tweeted, “I love the way Candace Owens thinks.”"](/statements/statement-05ad1744a15a.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
@@ -1129,7 +1143,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (34)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (33)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>
@@ -1206,13 +1220,6 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
-
-- [00:01:26](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Kanye West** (via quoted tweet): ["Kanye West tweeted years ago 'just fired my manager because I realized..."](/statements/statement-46ada83faf52.md)
-
-</details>
-
-<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6)</summary>
 
 - [00:00:01](/episodes/ep-7RLtGgkTh9o.md#t-00-00-00) (Claim) **Candace Owens**: ["All of my investigations are converging - the Chaos book, the Brigitte..."](/statements/statement-1492732e1321.md)
@@ -1223,48 +1230,49 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 - [00:02:44](/episodes/ep-7RLtGgkTh9o.md#t-00-02-03) (Accusation) **Candace Owens**: ["Kanye West was put on a psych 5150 hold, which is one of their strateg..."](/statements/statement-08c3cea838b4.md)
   - Also about: [MKUltra](/entities/concept-mkultra.md)
 
-- [00:20:03](/episodes/ep-7RLtGgkTh9o.md#t-00-19-41) (Claim) **Candace Owens**: ["Kanye West asked me if I was an op too when Adidas and Gap were cancel..."](/statements/statement-fb1a8e628629.md)
+- [00:20:03](/episodes/ep-7RLtGgkTh9o.md#t-00-19-29) (Claim) **Candace Owens**: ["Kanye West asked me if I was an op too when Adidas and Gap were cancel..."](/statements/statement-fb1a8e628629.md)
 
-- [00:20:33](/episodes/ep-7RLtGgkTh9o.md#t-00-20-23) (Opinion) **Candace Owens**: ["There are literally psychological operatives in your life meant to con..."](/statements/statement-5405c19756b8.md)
+- [00:20:33](/episodes/ep-7RLtGgkTh9o.md#t-00-20-12) (Opinion) **Candace Owens**: ["There are literally psychological operatives in your life meant to con..."](/statements/statement-5405c19756b8.md)
 
-- [00:23:14](/episodes/ep-7RLtGgkTh9o.md#t-00-22-30) (Accusation) **Candace Owens**: ["Harley Pasternak put Kanye West in a hospital on a psych 5150 hold whe..."](/statements/statement-ab0802f883af.md)
+- [00:23:14](/episodes/ep-7RLtGgkTh9o.md#t-00-22-52) (Accusation) **Candace Owens**: ["Harley Pasternak put Kanye West in a hospital on a psych 5150 hold whe..."](/statements/statement-ab0802f883af.md)
   - Also about: [Harley Pasternak](/entities/person-harley-pasternak.md)
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (9)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (8)</summary>
 
-- [00:02:10](/episodes/ep-Cq7nj9rxPdo.md#t-00-02-10) (Claim) **Candace Owens**: ["Charlie Kirk and Candace Owens were convinced they could manifest Kany..."](/statements/statement-829000f44845.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:04:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) (Claim) **Candace Owens** (via read message): ["In an April 13, 2018 text, Candace Owens told Charlie Kirk that Kanye ..."](/statements/statement-19b05c92f8e5.md)
+  - Also about: [April 13th](/entities/date-april-13th.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:04:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) (Claim) **Candace Owens**: ["On April 13th 2018, Candace told Charlie that Kanye West was writing a..."](/statements/statement-19b05c92f8e5.md)
-  - Also about: [April 13th](/entities/date-april-13th.md)
-
-- [00:06:59](/episodes/ep-Cq7nj9rxPdo.md#t-00-06-20) (Prediction) **Charlie Kirk** (via read message): ["I'm listening to Kanye and just running my streets. Are you ready for ..."](/statements/statement-121946f7b4bc.md)
-
-- [00:07:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) (Claim) **Kanye West** (via quoted tweet): ["On April 21, 2018, Kanye West tweeted 'I love the way Candace Owens th..."](/statements/statement-57cf55100c82.md)
+- [00:07:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) (Claim) **Kanye West** (via quoted tweet): ["On April 21, 2018, Kanye West tweeted 'I love the way Candace Owens th..."](/statements/statement-57cf55100c82.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:12:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Claim) **Candace Owens**: ["Eric Weinstein reached out to Candace Owens after the April 2018 Kanye..."](/statements/statement-7fc7b222037f.md)
+- [00:08:41](/episodes/ep-Cq7nj9rxPdo.md#t-00-08-30) (Opinion) **Scott Adams** (via quoted speech): ["Scott Adams said Kanye West ripped a hole in reality with seven words ..."](/statements/statement-217b9e987557.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:12:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Accusation) **Candace Owens**: ["Owens accused Eric Weinstein of pretending he wanted to be her friend ..."](/statements/statement-7fc7b222037f.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Eric Weinstein](/entities/person-eric-weinstein.md)
 
 - [00:12:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) (Claim) **Candace Owens**: ["Rick Rubin got involved to facilitate meetings between Candace/Charlie..."](/statements/statement-de37231349d4.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Rubin](/entities/person-rick-rubin.md)
 
-- [00:14:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Kanye West's handlers told him he would lose everything if he didn't a..."](/statements/statement-1312ea6aaf18.md)
+- [00:14:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Owens said Kanye West was basically told he would lose everything if h..."](/statements/statement-1312ea6aaf18.md)
 
-- [00:14:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["In October 2018, Kanye helped Candace design the logo for Blexit befor..."](/statements/statement-0bb06161f44b.md)
+- [00:14:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Owens said Kanye West helped her start designing the Blexit logo befor..."](/statements/statement-0bb06161f44b.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:14:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Kanye West never wrote the statement distancing himself from Blexit - ..."](/statements/statement-fcbab06d38d1.md)
+- [00:14:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Accusation) **Candace Owens**: ["Owens alleged Kanye West never wrote the statement distancing himself ..."](/statements/statement-fcbab06d38d1.md)
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
 
-- [00:52:31](/episodes/ep-2Riv3I7D0Yk.md#t-00-51-56) (Opinion) **Candace Owens** (via paraphrase): ["Kanye West said that in order to be free, you had to violate these con..."](/statements/statement-848fb630158b.md)
+- [00:52:31](/episodes/ep-2Riv3I7D0Yk.md#t-00-52-12) (Opinion) **Candace Owens** (via paraphrase): ["Candace Owens said Kanye West argued that freedom required violating c..."](/statements/statement-848fb630158b.md)
+
+- [00:52:51](/episodes/ep-2Riv3I7D0Yk.md#t-00-52-51) (Promise) **Candace Owens**: ["Candace Owens said she sent information to Max Blumenthal and others w..."](/statements/statement-0e5cb9cebc42.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 
 </details>
 

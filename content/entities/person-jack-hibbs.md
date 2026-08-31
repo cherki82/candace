@@ -27,7 +27,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,9 +36,9 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-13" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59" style="--pulse-height:60%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-27" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27" style="--pulse-height:60%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57" style="--pulse-height:40%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
@@ -53,9 +53,9 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37) | 5 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-13) | 5 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59) | 3 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-27) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57) | 2 |
@@ -149,7 +149,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:44:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42)**
+**[00:44:55](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-27)**
 > "...ut sticking on to this topic of the bush—people also sent me a ton of information about Butch Hibbs—Jack Hibbs' brother who was here. And maybe might have been speaking to that bush—I don't know. But he wasn't ..."
 
 </details>
@@ -171,19 +171,19 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
 
-**[00:32:30](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19)**
+**[00:32:30](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-13)**
 > "...o that we received. And it is interesting because it turned out that that old man is the brother of Pastor Jack Hibbs. I'm speaking about these pastors, man. These pastors. Pastor Hibbs—great friend of Charlie (Charli..."
 
-**[00:32:59](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19)**
+**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-55)**
 > "...ry Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah. And l..."
 
-**[00:33:27](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-33-02)**
-> "...s here with Charlie (Charlie Kirk). And Frank Tarrick confirms that that pastor—that Butch Hibbs—is Pastor Jack Hibbs' brother. Take a listen. So we get there. We pray. We get out of the car. There's a whole bunch of ..."
+**[00:33:27](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-55)**
+> "And Frank Turek confirms that that pastor—that Butch Hibbs—is Pastor Jack Hibbs' brother. Take a listen."
 
-**[00:33:56](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-33-35)**
+**[00:33:49](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-33-35)**
 > "...s is me, Charlie (Charlie Kirk), and in the middle is Butch Hibbs. That's the brother of Jack Hibbs—Pastor Jack Hibbs. And he came to the event, wanted to meet us both, so we took a picture. This picture was taken may..."
 
-**[00:34:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-34-22)**
+**[00:34:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-34-09)**
 > "... the side here is too many people that are involved in this Utah story I met through PragerU. Like, Jack Hibbs was somebody that Marissa flagged for me that she wanted me to have on my show. Like, she'd say lik..."
 
 </details>
@@ -250,14 +250,39 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): “Pastor Hibbs—great friend of Charlie”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-05): “Pastor Hibbs—great friend of Charlie”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Pastor Of (1)</summary>
+
+- **[Calvary Chapel](/entities/org-calvary-chapel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-13): “Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel”
+
+</details>
+
+</details>
+
+<details>
+<summary>Sibling Of (1)</summary>
+
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “Butch Hibbs. That's the brother of Jack Hibbs—Pastor Jack Hibbs.”
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:44:55](/episodes/ep-7RLtGgkTh9o.md#t-00-44-27): “Butch Hibbs—Jack Hibbs' brother”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -283,7 +308,14 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): “Pastor Hibbs—great friend of Charlie”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-05): “Pastor Hibbs—great friend of Charlie”
+
+</details>
+
+- **[Calvary Chapel](/entities/org-calvary-chapel.md)** has pastor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-13): “Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel”
 
 </details>
 

@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:18:08](/episodes/ep-_cNtgris8Ik.md#t-00-18-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1088);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1088s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Please do not mention my name or identity. in any way, but I can tell you categorically that in every federal court that I have worked in, video and photo evidence is never altered in any way as it would be considered prejudiced to present it to the jury if it has been modified in any way. I just wanted to let you know this. Best of luck with your continued investigation.
 

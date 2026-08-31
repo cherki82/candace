@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:10:49](/episodes/ep-wcD2khO3rOA.md#t-01-10-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4249);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie made sure that he will use his platform and his voice to let the whole world and America know that this is happening in South Korea.
 

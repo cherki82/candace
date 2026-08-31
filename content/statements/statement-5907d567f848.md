@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:03:17](/episodes/ep-7RLtGgkTh9o.md#t-00-02-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was very weird that they took out Harvey Weinstein. That is a fact—via the MeToo movement.
 

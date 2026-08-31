@@ -20,7 +20,7 @@ _Type: People_
 Source: [George Soros — Official Site](https://www.georgesoros.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-24">2025-12-10 · 00:56:01</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-41">2025-12-10 · 00:56:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-george-soros-t-00-56-43">2026-03-06 · 00:57:14</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -32,9 +32,9 @@ Source: [George Soros — Official Site](https://www.georgesoros.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-24">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-41">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-24" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-41" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-george-soros-t-00-27-02" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-george-soros-t-00-56-43" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 </div>
@@ -42,7 +42,7 @@ Source: [George Soros — Official Site](https://www.georgesoros.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-24) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-41) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-george-soros-t-00-27-02) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-george-soros-t-00-56-43) | 1 |
 
@@ -73,10 +73,10 @@ Source: [George Soros — Official Site](https://www.georgesoros.com/)
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:56:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-24)**
+**[00:56:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-41)**
 > "...equating criticism of Israel, Soros, et cetera, with Jew-hating or self-hating if you..."
 
-**[00:56:12](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-24)**
+**[00:56:08](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-soros-t-00-55-41)**
 > "Stop equating criticism of Israel, Soros, et cetera"
 
 </details>

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:00:14](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(14);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=14s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When the clock struck midnight last night and Cinderella's carriage turned back into a pumpkin, Turning Point USA decided it was a good time to issue a confirmation plus an ultimatum—a time and a date for our debate. I should tell you that they did not send me an email. They did not send me a text message. They did not coordinate anything with me. They simply made this midnight announcement and gave it a countdown: 24 hours to respond.
 

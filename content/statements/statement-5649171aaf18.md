@@ -29,24 +29,24 @@ veracity: "true"
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(346);return false;">Play</a>
+**Timestamp:** [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-42) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=346s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m
 
 ### 2. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(346);return false;">Play</a>
+**Timestamp:** [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-42) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=346s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I will say that the Baugh-Maxfield plane—I'm gonna take you through what that was doing. It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m. local time.
 
 ### 3. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(346);return false;">Play</a>
+**Timestamp:** [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-42) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=346s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m
 

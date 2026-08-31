@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:24:15](/episodes/ep-Ux1kzgQxkws.md#t-01-24-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5055);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=5055s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know anything about making money and that's why I'm about, you know, a few million dollars in debt.
 

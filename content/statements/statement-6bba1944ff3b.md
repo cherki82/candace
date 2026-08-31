@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2608);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2608s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He writes the main reason Alex Jones was held liable was not that he questioned an official narrative. ... It was that he repeatedly and callously made false accusations about specific people. He claimed the Sandy Hook shooting was staged, that the grieving parents were crisis actors, and that they were knowingly participating in fraud.
 

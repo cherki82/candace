@@ -85,7 +85,7 @@ _No relationships extracted yet._
   - About: [White House](/entities/org-white-house.md), [United States Congress](/entities/org-united-states-congress.md), [Epstein Files](/entities/work-epstein-files.md)
 
 - [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] (Accusation) ["Kash Patel testified that the FBI had no criminal evidence Epstein trafficked gi..."](/statements/statement-3d79e5904e4e.md)
-  - About: [Kash Patel](/entities/person-kash-patel.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 - [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] (Claim) ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Department deals..."](/statements/statement-8bfdc85db6dc.md)
   - About: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)

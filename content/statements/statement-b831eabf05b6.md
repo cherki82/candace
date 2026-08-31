@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [01:01:27](/episodes/ep-YFmRH8p5lt0.md#t-01-01-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3687);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=3687s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe—was Googled by Israel. The tail number for that plane was Googled by Israel on September 8th—two days before the assassination. So
 

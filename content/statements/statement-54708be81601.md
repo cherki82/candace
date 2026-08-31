@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:23:40](/episodes/ep-B9TyCs-6o_0.md#t-00-23-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1420);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm showing you this is Charlie's plane. And that plane is going to leave at 2.31 p.m. from Scottsdale and land into Provo at 3.31 p.m.
 

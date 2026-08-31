@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:00:23](/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(23);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=23s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet, why must we do these things? Why do you tell these massive lies? Because I was also able to confirm with a White House employee that there certainly was a White House meeting on the books for Andrew Kolvet, the chief marketing officer, Marina Menez. ... Also, I have learned, and this is quite unusual because he does not often travel. Chief Operating Officer Justin Streiff was scheduled to be there and their in-house legal counsel, Frank (Turning Point USA in-house legal counsel; surname unverified).
 

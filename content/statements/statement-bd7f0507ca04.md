@@ -21,8 +21,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:15:04](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(904);return false;">Play</a>
+**Timestamp:** [00:15:04](/episodes/ep-9k2xrAC0H88.md#t-00-14-43) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=904s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These dogs belong to the sheriff's department in Pleasant Grove, by the way
 

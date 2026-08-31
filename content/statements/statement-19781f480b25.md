@@ -23,7 +23,7 @@ type: "promise"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [01:05:12](/episodes/ep-his-JBjlkh8.md#t-01-04-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3912);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=3912s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we can have the money go to Turning Point USA. Every dollar that's raised I would gladly sacrifice that to the organization.
 

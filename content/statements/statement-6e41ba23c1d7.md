@@ -29,7 +29,7 @@ type: "prediction"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:21:42](/episodes/ep-I0OaY6Gryqk.md#t-00-21-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1302);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1302s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I don't, I believe that that will come here one day. I don't believe that. that the Israeli leaders that they have any intention to to stop that I don't see that they have any care for the American people it doesn't seem like that I've never heard that spoken and I believe that if we don't speak up now that our children won't have the chance to speak up ... either by law or by worse and that may sound crazy to some people
 

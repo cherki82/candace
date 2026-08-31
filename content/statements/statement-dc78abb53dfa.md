@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:49:02](/episodes/ep-5-HUyv9LyMg.md#t-00-49-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=2942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > These people are minors. I do not think Turning Point, until they are ready to fully answer questions regarding Erika Kirk's past, should be given access to minors. Full stop.
 

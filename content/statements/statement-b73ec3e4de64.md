@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:23:18](/episodes/ep-I0OaY6Gryqk.md#t-00-22-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1398);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1398s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And yeah, I don't understand our, our, our, uh, I don't understand Trump (Donald Trump)'s relationship. I don't understand the, our political, like why we are so beholden to these, to this government. ... This Israeli government that that just seems to be obsessed with control and it feels like like bloodlust like they just like it's not enough like after what happened in Gaza I don't see to me I don't I don't see how there could be any other view.
 

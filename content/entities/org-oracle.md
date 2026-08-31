@@ -3,9 +3,17 @@ title: "Oracle"
 description: "Oracle (Organizations) - 1 mention"
 id: "org-oracle"
 type: "ORG"
+categories:
+  - "technology company,software,former employer context"
 ---
 
 _Type: Organizations_
+
+**Categories:** technology company,software,former employer context
+
+**Entity verification:** verified
+> Oracle corporate information confirms Oracle Corporation as the technology company referenced in the employment context.
+Source: [About Oracle | Company Information](https://www.oracle.com/corporate/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-org-oracle-t-00-31-57">2025-12-05 · 00:32:18</a></strong></div>

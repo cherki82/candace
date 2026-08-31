@@ -30,16 +30,16 @@ Source: [Rupert Murdoch | Fox Corporation](https://www.foxcorporation.com/rupert
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-rupert-murdoch-t-00-18-46" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-rupert-murdoch-t-00-18-46" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-rupert-murdoch-t-00-18-46) | 1 |
 
 </details>
@@ -59,13 +59,10 @@ Source: [Rupert Murdoch | Fox Corporation](https://www.foxcorporation.com/rupert
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
 **[00:01:14](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39)**
 > "...to be kind of fashioned after Rupert Murdoch's throne."
-
-**[00:01:22](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39)**
-> "Succession show fashioned after Rupert Murdoch"
 
 </details>
 

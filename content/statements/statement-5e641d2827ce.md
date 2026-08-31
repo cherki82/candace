@@ -27,13 +27,13 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Lori Frantzve](/entities/person-lori-frantzve.md) (person)
 - [Utah](/entities/gpe-utah.md) (gpe)
-- [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md) (gpe)
+- [Phoenix](/entities/gpe-phoenix.md) (gpe)
 
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They wrote, it had been miss... ... Kirk's plan to accompany her husband to Utah, but her mother would be undergoing medical or treatment in Phoenix area that same day.
 

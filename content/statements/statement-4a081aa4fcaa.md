@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:21:20](/episodes/ep-9naMwS0kMBE.md#t-00-21-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=1280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that the United States military is literally run by sexual deviants heavy on the homosexual side,
 

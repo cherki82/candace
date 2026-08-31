@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:46:24](/episodes/ep-DdPjoy5W-wY.md#t-00-46-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2784);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2784s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So March 1st we went on our first date yes ... of different night in Arizona and picked her up at her house and later met her mom on the first night.
 

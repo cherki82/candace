@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:34:32](/episodes/ep-4JxgOclKzqg.md#t-00-34-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2072);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=2072s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay. Well, guess what? People are taking notice of that being odd as well. You're going after the people who are investigating it and you're becoming increasingly more vicious in how you do it. You are spending a lot of money to do it.
 

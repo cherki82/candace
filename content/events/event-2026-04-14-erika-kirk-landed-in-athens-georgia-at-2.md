@@ -7,6 +7,11 @@ time: "14:40"
 ---
 
 **Date:** 2026-04-14 at 14:40
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “On Tuesday”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "14:40"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:08:43](/episodes/ep-1mYNOqzAdXs.md#t-00-08-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(523);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=523s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > At 2.40, Erika landed into Athens, Georgia.

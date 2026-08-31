@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:57:23](/episodes/ep-eLgD5yUVbko.md#t-00-57-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3443);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=3443s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We can't support Trump. You cannot support Trump in this moment.
 

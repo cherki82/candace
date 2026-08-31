@@ -16,7 +16,7 @@ type: "factual_claim"
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
+**Delivery:** Paraphrased
 
 ## About
 
@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:05:01](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(301);return false;">Play</a>
+**Timestamp:** [00:05:01](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-49) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=301s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because this individual is an instructor at a gun range. He claims the weapon that he saw looked more like a .223, quote, something shorter than the one that they found.
 

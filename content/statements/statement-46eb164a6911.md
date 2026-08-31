@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(231);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=231s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I received a tip from someone that was directly involved with the planning of an event that Charlie Kirk was supposed to attend the following day. ... they had absolutely no security plan in place.
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:35:11](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2111);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's the head of the cybersecurity in Netanyahu's office. He comes to Las Vegas and just like, you know, to pass time, ... he was found with a minor and it was a sting operation, ... but then he was allowed to leave.
 

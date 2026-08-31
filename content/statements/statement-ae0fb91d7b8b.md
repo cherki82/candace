@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:07:19](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Myself, my wife, my family, my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika
 

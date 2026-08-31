@@ -6,6 +6,11 @@ date: "1995"
 ---
 
 **Date:** 1995
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1995”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1995"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:06:09](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(369);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=369s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lori and Rick filed for Eurotech International UK.

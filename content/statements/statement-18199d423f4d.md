@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:00:22](/episodes/ep-Pb7UlpRdW6U.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(22);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=22s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We have more people who are talking and it's not looking good. There seems to be an unholy alliance emerging between Turning Point USA, the White House, and the military. We need to begin the.
 

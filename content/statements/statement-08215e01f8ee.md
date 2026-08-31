@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:25:03](/episodes/ep-QZWSsq8ZWzw.md#t-00-24-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1503);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, okay. And this has a timeline on this. Again, I'm going to probably just post this document because you can handle the truth. He was fascinated with this stuff. He was fascinated. You can see here "guns versus protesters," "Orlando shooting reaction," "cars running over protesters," "firing an AR-15 as fast as possible," "fertilizer bomb," "How do you use a tourniquet?" "How to Molotov cocktail," "how to make Molotov cocktails"—pardon me—"mixing gasoline with styrofoam," "mass shooting in Canada," "Oklahoma bombing," "sniper in Dallas shooting."
 

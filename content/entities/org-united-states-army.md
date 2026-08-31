@@ -1,6 +1,6 @@
 ---
 title: "United States Army"
-description: "United States Army (Organizations) - 60 mentions"
+description: "United States Army (Organizations) - 69 mentions"
 id: "org-united-states-army"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44">2025-09-30 · 00:28:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16">2026-08-14 · 00:44:16</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,14 +39,15 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44" style="--pulse-height:9%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#t-00-47-46" style="--pulse-height:9%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20" style="--pulse-height:18%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#t-00-01-22" style="--pulse-height:9%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-01-17" style="--pulse-height:9%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#t-00-16-19" style="--pulse-height:9%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#t-01-04-53" style="--pulse-height:9%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#t-00-14-09" style="--pulse-height:9%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-01-04-31" style="--pulse-height:9%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-14-04" style="--pulse-height:9%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-48-15" style="--pulse-height:9%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-52-13" style="--pulse-height:9%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#t-00-37-21" style="--pulse-height:9%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52" style="--pulse-height:9%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#t-00-11-14" style="--pulse-height:36%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-27-21" style="--pulse-height:55%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:9%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-36-08" style="--pulse-height:18%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#t-00-27-54" style="--pulse-height:18%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
@@ -71,14 +72,15 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-28-44) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-47-46) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-01-17) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-16-19) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-01-04-53) | 1 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-14-09) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-01-04-31) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-14-04) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-48-15) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-52-13) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-37-21) | 1 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#t-00-11-14) | 4 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-27-21) | 6 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-36-08) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-27-54) | 2 |
@@ -102,7 +104,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -329,10 +331,42 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
 
-**[00:27:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52)**
+**[00:27:21](/episodes/ep-ewBzjVe3LNQ.md#t-00-27-21)**
 > "They were in discussions of trying to remove the Army"
+
+**[00:12:36](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-13)**
+> "That is army military intelligence. Once a soldier has finishe..."
+
+**[00:27:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-27-21)**
+> "...sions of trying to remove the Army, in case your viewers don't understand."
+
+**[00:27:57](/episodes/ep-ewBzjVe3LNQ.md#t-00-27-57)**
+> "... even to this day between the Army and Border Patrol and who gets to take credit and..."
+
+**[00:28:48](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-36)**
+> "...iving me a bad time about the army equipment and how they were being sent out for, f..."
+
+**[00:45:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-45-37)**
+> "...f this was just a new type of army that I haven't seen for a while."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
+
+**[00:11:29](/episodes/ep-t4U7NjnUEgc.md#t-00-11-14)**
+> "... was given a small reward, an army medal."
+
+**[00:17:49](/episodes/ep-t4U7NjnUEgc.md#t-00-17-49)**
+> "... he then fails at finding the Army Criminal Investigations Department. So he drives ..."
+
+**[00:18:39](/episodes/ep-t4U7NjnUEgc.md#t-00-18-25)**
+> "... meaning like you can get the Army, Navy, everybody kind of working together on some..."
+
+**[00:54:02](/episodes/ep-t4U7NjnUEgc.md#t-00-53-47)**
+> "...g the truth. You have a whole army supporting you. And by the way, like this guy pro..."
 
 </details>
 
@@ -363,7 +397,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:14:09](/episodes/ep-SKGUzGHymcI.md#t-00-14-09)**
+**[00:14:04](/episodes/ep-SKGUzGHymcI.md#t-00-14-04)**
 > "...ystem. The chain here that would report from the people who control the rivers would be DRBA to the Army Corps of Engineers, the Secretary of the Army and the Secretary of Defense to the President. So now..."
 
 </details>
@@ -371,7 +405,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[01:04:59](/episodes/ep-vwG1juDCQZQ.md#t-01-04-53)**
+**[01:04:59](/episodes/ep-vwG1juDCQZQ.md#t-01-04-31)**
 > "... beside, and I see these people. And I know that we are like in a line united, and there is like an army that's rising—and it feels to me like it is the army of God. I'd love to do work with Jimmy Dore. I..."
 
 </details>
@@ -387,7 +421,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22)**
+**[00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-17)**
 > "It was contracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right?"
 
 </details>
@@ -396,7 +430,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:29:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20)**
-> "...ation with— also someone that in my dream, Charlie told me I should look into. She's a major in the Army. She's also from a major corporation. She's from the Ericsson family. The Ericsson Boyd Corporation..."
+> "She's a major in the Army."
 
 **[00:30:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-30-02)**
 > "...e is an Ericsson. She's also now a lesbian. And I'm thinking, "Why was she just made a major in the Army? Why did they need this woman in?" Why were people researching these doctors and this specific medi..."
@@ -423,6 +457,18 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Employs (1)</summary>
+
+- **[Dr. Lydia Smith-Amaro](/entities/person-dr-lydia-smith-amaro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20): “The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with— ... She's a major in the Army.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Formerly Employed (2)</summary>
@@ -480,7 +526,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -527,12 +573,19 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 </details>
 
+- **[Dr. Lydia Smith-Amaro](/entities/person-dr-lydia-smith-amaro.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:29:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20): “The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with— ... She's a major in the Army.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Army (11)</strong></summary>
+<summary><strong class="section-title">Statements about United States Army (10)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -601,14 +654,6 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 - [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08) (Accusation) **CBS News** (via quoted article): ["The U.S. Army missed warning signs that civilian commander David Frods..."](/statements/statement-72052cf2c4f3.md)
   - Also about: [David Frodsham](/entities/person-david-frodsham.md)
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
-
-- [00:29:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lydia Smith-Amaro is the medical examiner and a major in the Army"](/statements/statement-634d800bc6df.md)
-  - Also about: [Dr. Lydia Smith-Amaro](/entities/person-dr-lydia-smith-amaro.md)
 
 </details>
 

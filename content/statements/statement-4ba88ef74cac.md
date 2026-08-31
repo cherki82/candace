@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:04:04](/episodes/ep-xi8SYJTUXPM.md#t-00-03-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Either way, it gives the impression that they're hiding something.
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:41:14](/episodes/ep-5zgkrOaCCj4.md#t-00-41-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2474);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=2474s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > mostly getting pregnant with random people that's not the case I spent my entire adult life only in three long-term committed relationships one of which is a you know almost 20-year relationship with Andrew (Andrew Wilson) now we're like 18 years in we've been married since 2012 prior to that I was married for four years as Andrew (Andrew Wilson) had to unfortunately explain that ended not even because I left but because he uh ... beat the crap out of me and was being pursued by the law and left the state and so it was like abandonment the first one was my high school boyfriend who I knew my whole life was with for five years he had two children he had his own personal problems and that did not and that did not work out so I understand why people make the assumption but the truth is I'm not promiscuous I have an extremely low body count I've never had one-night stands.
 

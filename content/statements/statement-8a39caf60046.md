@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:20:44](/episodes/ep-d7VsbEIWkP8.md#t-00-20-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lance Twiggs has his DNA on the towel. Lance Twiggs has his DNA on the rifle, and to be clear, Lance Twiggs' DNA was not as degraded as Tyler Robinson's DNA was on Tyler (Tyler Robinson)'s rifle. It's Tyler (Tyler Robinson)'s rifle, but Lance (Lance Twiggs)'s DNA is more prominent.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:38:00](/episodes/ep-Pb7UlpRdW6U.md#t-00-38-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=2280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he tweeted the fact is we don't know it hasn't been clarified by Erika (Erika Kirk) but it doesn't It doesn't matter. ... The content of the picture was irrelevant. ... It was proof that she wasn't at Fort Huachuca on the night.
 

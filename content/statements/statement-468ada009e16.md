@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1868);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > While the CDC remains silent... They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed,
 

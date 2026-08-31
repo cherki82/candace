@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -34,7 +34,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:44:21](/episodes/ep-OgRyiOAVtWU.md#t-00-43-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2661);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2661s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Today, Tim Pool tweets, if you want to get amplified on YouTube and X, all you need to do is claim the official story of Charlie Kirk's assassination is a cover-up and there's a conspiracy. ... Why is social media amplifying this so much? Why does big tech want this narrative to be front and center? ... He goes on, Alex Jones made claims about Sandy Hook and he was destroyed.
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:45:31](/episodes/ep-sreYYcID-QY.md#t-00-45-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2731);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2731s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) and I never—for a single second—stopped being friends
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:49:24](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2964);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2964s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People that he has partnered with are despicable. ... It rises to levels of criminality, the trading that's happening. He makes an announcement. People are like insider trading on what they know the forthcoming announcement is.
 

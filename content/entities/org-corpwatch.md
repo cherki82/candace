@@ -3,13 +3,22 @@ title: "CorpWatch"
 description: "CorpWatch (Organizations) - 2 mentions"
 id: "org-corpwatch"
 type: "ORG"
+categories:
+  - "corporate accountability research"
+  - "investigative nonprofit"
 ---
 
 _Type: Organizations_
 
+**Categories:** corporate accountability research, investigative nonprofit
+
+**Entity verification:** verified
+> CorpWatch official About page confirms the canonical organization name and its corporate-accountability research mission.
+Source: [CorpWatch — About CorpWatch](https://www.corpwatch.org/about-corpwatch)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-corpwatch-t-00-16-13">2025-12-08 · 00:16:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-corpwatch-t-00-16-13">2025-12-08 · 00:16:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-corpwatch-t-00-16-13">2025-12-08 · 00:16:39</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -42,9 +51,9 @@ _Type: Organizations_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:16:23](/episodes/ep-Kmt6HgRjckU.md#ent-org-corpwatch-t-00-16-13)**
-> "...rom a website that's known as CorpWatch, and it tells us that, quote, known as Angola Gat..."
+> "I'm reading this Bush component from a website that's known as CorpWatch, and it tells us that, quote, known as Angolagate, in France, the scandal involves arms for oil deals between French businessman Pierre Falcone, the head of a firm,"
 
-**[00:16:43](/episodes/ep-Kmt6HgRjckU.md#ent-org-corpwatch-t-00-16-13)**
+**[00:16:39](/episodes/ep-Kmt6HgRjckU.md#ent-org-corpwatch-t-00-16-13)**
 > "I'm reading this Bush component from a website that's known as CorpWatch"
 
 </details>

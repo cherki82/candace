@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:14:09](/episodes/ep-QRS_hR7NXaQ.md#t-00-14-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(849);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=849s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > there was this still never quite explained FOIA request that went through the State Department requesting documents pertaining to the resurrection chamber of Gilgamesh, the location of his body and the location of the buried Nephilim.
 

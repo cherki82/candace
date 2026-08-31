@@ -27,9 +27,9 @@ type: "factual_claim"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:29:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1782);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1782s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with— ... She's a major in the Army. ... She's also from a major corporation. ... She's from the Ericsson family. ... The Ericsson Boyd Corporation is her family.
+> The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with— ... She's a major in the Army. She's also from a major corporation. She's from the Ericsson family. The Ericsson Boyd Corporation is her family.
 
 ## Verification
 

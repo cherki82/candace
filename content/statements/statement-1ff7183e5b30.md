@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:27:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-27-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1634);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1634s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > but it's time to go. I'm just going to say today's the last day, and that's what we're going to operate on. ... We're going a different direction with the team and I have to ask you to leave now. ... because we're asking you to leave because you've been terminated and whatnot.
 

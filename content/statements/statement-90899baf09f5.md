@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:01:49](/episodes/ep-YeEtS7nix3o.md#t-01-01-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3709);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3709s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rather than just releasing the video in its entire context, they decided to exclusively show it to some reporters over at the Daily Mail who would in turn act as the arbiter of truth, I suppose.
 

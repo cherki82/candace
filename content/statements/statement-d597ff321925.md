@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:36:10](/episodes/ep-MhakwJxK-Zk.md#t-00-36-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, we know what happens thereafter. Charlie (Charlie Kirk)'s assassinated and Bibi (Benjamin Netanyahu) declares again in another little PR blitz that Israel didn't kill him.
 

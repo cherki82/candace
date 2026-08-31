@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:35:58](/episodes/ep-CMcktj3Egfo.md#t-00-35-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2158);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and I was quite literally someone who's plotting my murder, actually a year from the date that Charlie was murdered on September 10th, someone was plotting my murder and got discovered and that's still making its way through the courts. These people are calling for violence.
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [02:05:11](/episodes/ep--9MOUvgGyi4.md#t-02-04-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7511);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=7511s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he also happened to be the first person that we can find that announced that Charlie Kirk was dead. ... and then remove that video.
 

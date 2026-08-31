@@ -22,8 +22,8 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <div><span>Episodes</span><strong>23</strong></div>
 <div><span>Mentions</span><strong>62</strong></div>
 <div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,7 +33,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20" style="--pulse-height:25%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41" style="--pulse-height:25%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-19" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-12" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44" style="--pulse-height:38%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-joe-rogan-t-00-39-38" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-rogan-t-01-01-45" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
@@ -61,7 +61,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 |---|---|---:|
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20) | 2 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41) | 2 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-19) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-12) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-joe-rogan-t-00-39-38) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-rogan-t-01-01-45) | 1 |
@@ -347,11 +347,11 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:36:22](/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-19)**
-> "...e all stupid. Obviously, this is a conspiracy, okay? It is a conspiracy. And I was so happy to hear Joe Rogan spell out and acknowledge that not only are conspiracies real, but they're actually common, okay? H..."
+**[00:36:17](/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-12)**
+> "They think we're all stupid. Obviously, this is a conspiracy, okay? It is a conspiracy. And I was so happy to hear Joe (Joe Rogan) spell out and acknowledge that not only are conspiracies real, but they're actually common, okay?"
 
 **[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-38-36)**
-> "...ng, and you all know that we're lying, we're the slave masters, how dare you know? And Theo Von and Joe Rogan had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen. Dude, Candac..."
+> "And Theo Von and Joe (Joe Rogan) had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen."
 
 </details>
 
@@ -359,10 +359,10 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41)**
-> "...) was in part upset because I made a joke about him: a literal lighthearted joke when I appeared on Joe Rogan (Joe Rogan) back in 2018. Do we have that clip, Skylar (Skylar)? We can roll that. (Candace Owens (..."
+> "And they had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is according to my messages with Charlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because I made a joke about him: a literal lighthearted joke when I appeared on Joe Rogan back in 2018."
 
 **[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-16-01)**
-> "...in 2018. Do we have that clip, Skylar (Skylar)? We can roll that. (Candace Owens (Candace Owens) on Joe Rogan (Joe Rogan) clip): Candace Owens (clip): Like, I can't take anything seriously anymore. Candace Owe..."
+> "We can roll that. (Candace Owens on Joe Rogan clip):"
 
 </details>
 
@@ -383,7 +383,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (5)</summary>
 
 - **[Mark Normand](/entities/person-mark-normand.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -403,6 +403,20 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:34:59](/episodes/ep-4JxgOclKzqg.md#t-00-34-59): “Joe Rogan, who had a laugh alongside his guests Mark Normand, Shane Gillis, and Ari Shaffir as they were discussing the Tyler Robinson case and the odd and increasingly odd public relations campaign that is surrounding Erika Kirk.”
+
+</details>
+
+- **[Theo Von](/entities/person-theo-von.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:39:02](/episodes/ep-SKGUzGHymcI.md#t-00-38-36): “And Theo Von and Joe (Joe Rogan) had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:15:41](/episodes/ep-K1tFD7FfoCU.md#t-00-15-41): “And they had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is according to my messages with Charlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because I made a joke about him: a literal lighthearted joke when I appeared on Joe Rogan back in 2018.”
 
 </details>
 
@@ -479,7 +493,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Mark Normand](/entities/person-mark-normand.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -499,6 +513,20 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:34:59](/episodes/ep-4JxgOclKzqg.md#t-00-34-59): “Joe Rogan, who had a laugh alongside his guests Mark Normand, Shane Gillis, and Ari Shaffir as they were discussing the Tyler Robinson case and the odd and increasingly odd public relations campaign that is surrounding Erika Kirk.”
+
+</details>
+
+- **[Theo Von](/entities/person-theo-von.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:39:02](/episodes/ep-SKGUzGHymcI.md#t-00-38-36): “And Theo Von and Joe (Joe Rogan) had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:15:41](/episodes/ep-K1tFD7FfoCU.md#t-00-15-41): “And they had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is according to my messages with Charlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because I made a joke about him: a literal lighthearted joke when I appeared on Joe Rogan back in 2018.”
 
 </details>
 
@@ -625,7 +653,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Rogan (3)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Rogan (4)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -647,6 +675,14 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 - [00:35:12](/episodes/ep-5NQyGuRYbU8.md#t-00-35-12) (Accusation) **Joe Rogan** (via quoted speech): ["Joe Rogan rhetorically asked why the account of Charlie Kirk's killing..."](/statements/statement-a92777d65883.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
+
+- [00:15:41](/episodes/ep-K1tFD7FfoCU.md#t-00-15-41) (Claim) **Ben Shapiro** (via quoted speech): ["According to Candace Owens's messages with Charlie Kirk, Ben Shapiro t..."](/statements/statement-18efbd7f67d7.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

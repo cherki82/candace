@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:15:42](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rick (Richard Erpenbeck), the youngest of the clan, agrees to let go of his Kentucky legal license, but he otherwise avoids any charges because his name was not on the business. He did have to testify.
 

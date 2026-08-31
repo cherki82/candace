@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [01:02:30](/episodes/ep-eMtjzXkQrsU.md#t-01-02-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3750);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=3750s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said yesterday that Crain & Company, the sports company, was shut down at the Daily Wire as another indication. Actually, I learned thereafter that Crain & Company opted to leave on their own, and now they are Crain & Cone, so they left, probably saw the ship going down slowly, and made the decision to leave on their own. So I just always wanted to strive to be accurate. So I was incorrect when I said that yesterday.
 

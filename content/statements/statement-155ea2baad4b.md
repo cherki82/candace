@@ -1,8 +1,8 @@
 ---
 title: "Charlie Kirk told Andrew Kolvet, 'If anything ever happens t..."
-description: "\"Charlie Kirk told Andrew Kolvet, 'If anything ever happens to me, you call Erika.'\" — Andrew Kolvet"
+description: "\"Charlie Kirk told Andrew Kolvet, 'If anything ever happens to me, you call Erika.'\" — Charlie Kirk"
 statement_id: "statement-155ea2baad4b"
-speaker: "Andrew Kolvet"
+speaker: "Charlie Kirk"
 type: "factual_claim"
 ---
 
@@ -14,11 +14,11 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Andrew Kolvet](/entities/person-andrew-kolvet.md) (Quoted)
+**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Read/Quoted by:** [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+**Original Source:** Andrew Kolvet clip
 
 ## About
 
@@ -30,9 +30,9 @@ type: "factual_claim"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:40:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2451);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=2451s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He said, 'If anything ever happens to me, you call Erika.
+> because Charlie (Charlie Kirk) had given me similar instructions along the years. He said, 'If anything ever happens to me, you call Erika (Erika Kirk).'
 
 ## Verification
 

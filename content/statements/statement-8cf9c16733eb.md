@@ -1,6 +1,6 @@
 ---
-title: "The perpetrator of Irina Zarutska's murder was arrested on A..."
-description: "\"The perpetrator of Irina Zarutska's murder was arrested on August 22nd, the same day as the murder\" — Candace Owens"
+title: "The people who warned Candace Owens and Tucker Carlson to la..."
+description: "\"The people who warned Candace Owens and Tucker Carlson to lay low never told them who the warning came from.\" — Candace Owens"
 statement_id: "statement-8cf9c16733eb"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,26 @@ veracity: "true"
 
 ## Statement
 
-> The perpetrator of Irina Zarutska's murder was arrested on August 22nd, the same day as the murder
+> The people who warned Candace Owens and Tucker Carlson to lay low never told them who the warning came from.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Tucker Carlson](/entities/person-tucker-carlson.md) (person)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:08:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(524);return false;">Play</a>
+**Timestamp:** [00:50:06](/episodes/ep-2Riv3I7D0Yk.md#t-00-49-38) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=3006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> That's because they were talking about the horrific murder of Irina Zarutska." This is where I say that no civilized nation uses the death penalty (in parentheses, referring to his own thoughts)
+> And they never told us who specifically told them that, by the way. Now I'm wondering why they never told us who specifically told them that.
 
 ## Verification
 

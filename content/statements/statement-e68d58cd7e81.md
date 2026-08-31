@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:33:52](/episodes/ep-ZAsV0fHGBiM.md#t-00-33-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2032);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2032s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it tells us that he was overtaken in his automobile after a chase of several miles after he had failed to obey the officer's order to stop. ... Abbas is alleged to have thrown a package of 100 lottery tickets from his car. ... Officers recovered the tickets and are holding them as evidence.
 

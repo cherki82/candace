@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:19:27](/episodes/ep-GY6GWceEqtQ.md#t-00-19-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1167);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=1167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I would say it would be unconscionable for me to choose silence in the wake of Charlie Kirk's public assassination. ... rising uh into the sky than to try to keep me from investigating Charlie Kirk's assassination in other words turning point USA you'd have better luck suing the sun get your lawyer to send a cease and desist to the sun and you will have better luck in terms of getting it to stop than from getting me to look away to what happened to Charlie (Charlie Kirk)
 

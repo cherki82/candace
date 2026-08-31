@@ -1,0 +1,68 @@
+---
+title: "Greenville, Delaware"
+description: "Greenville, Delaware (Places) - 1 mention"
+id: "gpe-greenville-delaware"
+type: "GPE"
+aliases:
+  - "Greenville"
+categories:
+  - "Delaware census-designated place"
+---
+
+_Type: Places_
+
+**Also known as:** Greenville
+
+**Categories:** Delaware census-designated place
+
+**Entity verification:** verified
+> U.S. Census TIGERweb lists Greenville CDP in Delaware; transcript context is the Greenville near Wilmington and Rehoboth Beach.
+Source: [State of Delaware Census Designated Places – 2020 Census](https://tigerweb.geo.census.gov/tigerwebmain/Files/bas26/tigerweb_bas26_cdp_2020_tab20_de.html)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-delaware-t-00-07-45">2025-12-02 · 00:08:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-delaware-t-00-07-45">2025-12-02 · 00:08:04</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-delaware-t-00-07-45">Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-delaware-t-00-07-45" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-delaware-t-00-07-45) | 1 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:08:04](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-delaware-t-00-07-45)**
+> "...te, "Richards, who is unemployed and supported by a trust fund, owns a 5,800-square-foot mansion in Greenville that he bought for $1.8 million in 2005." He also lists a home in the exclusive North Shores neighb..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>

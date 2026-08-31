@@ -1,6 +1,6 @@
 ---
 title: "Wichita"
-description: "Wichita (Places) - 4 mentions"
+description: "Wichita (Places) - 7 mentions"
 id: "gpe-wichita"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Wichita, Kansas](https://en.wikipedia.org/wiki/Wichita,_Kansas)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wichita-t-00-18-23">2025-10-31 · 00:18:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wichita-t-00-22-39">2025-10-31 · 00:23:05</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wichita-t-00-19-59">2025-11-19 · 00:20:11</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [Wichita, Kansas](https://en.wikipedia.org/wiki/Wichita,_Kansas)
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wichita-t-00-18-23">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wichita-t-00-18-23" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 4 mentions" title="2025-10-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wichita-t-00-02-01" style="--pulse-height:75%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wichita-t-00-18-23) | 4 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wichita-t-00-02-01) | 3 |
 
 </details>
 </section>
@@ -44,7 +46,21 @@ Source: [Wichita, Kansas](https://en.wikipedia.org/wiki/Wichita,_Kansas)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
+
+**[00:02:01](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wichita-t-00-02-01)**
+> "...hrough Paris; it was going to Wichita, but very often it was stopping in Wilmington."
+
+**[00:19:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wichita-t-00-19-22)**
+> "... flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo."
+
+**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wichita-t-00-19-59)**
+> "...k at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. Non..."
+
+</details>
 
 <details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>

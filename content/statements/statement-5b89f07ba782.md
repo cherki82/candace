@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:43:03](/episodes/ep-HZvwbfePe7o.md#t-00-43-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2583);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=2583s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) snapped at the end and said, “I am done. Take the money. Keep the money.”
 

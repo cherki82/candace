@@ -30,8 +30,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:25:00](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1500);return false;">Play</a>
+**Timestamp:** [00:25:00](/episodes/ep-6DhWawD4ZiM.md#t-00-24-32) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=1500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And and it also her claim that you know, there were kind of a disproportionately large number of foreign registered cell phones at the event That's also true. ... So what does that add up to? ... I don't know but it it means that You know the FBI has a moral and legal obligation to to look in every direction and to be open-minded as you would in any
 

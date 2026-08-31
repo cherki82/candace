@@ -3,9 +3,17 @@ title: "Calvary Chapel Cary"
 description: "Calvary Chapel Cary (Organizations) - 1 mention"
 id: "org-calvary-chapel-cary"
 type: "ORG"
+categories:
+  - "North Carolina Calvary Chapel congregation"
 ---
 
 _Type: Organizations_
+
+**Categories:** North Carolina Calvary Chapel congregation
+
+**Entity verification:** verified
+> MinistryWatch reporting confirms the canonical name Calvary Chapel Cary and its Apex, North Carolina context.
+Source: [MinistryWatch: Calvary Chapel Cary Feud Leads to Closure](https://ministrywatch.com/calvary-chapel-cary-feud-leads-to-closure-breakaway-church/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-cary-t-00-19-42">2025-11-13 · 00:19:42</a></strong></div>

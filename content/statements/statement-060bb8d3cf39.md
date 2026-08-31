@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1075);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=1075s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am told specifically that she was ranting, ranting to people because this is when she was deep in the throes of her psychosis about how she wasn't invited to the White House Correspondents' Dinner ... she demanded a tweet of support from Trump. ... I am told specifically that Suzy Wiles was staunchly opposed to credit to Suzy Wiles ... and yet Trump's team overall conceded.
 

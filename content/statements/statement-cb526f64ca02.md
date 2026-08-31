@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:05:05](/episodes/ep-69A8TzAGHlU.md#t-00-05-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(305);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=305s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at an event especially when it was a part of their normal repertoire to do so is everybody forgetting I used to work for Turning Point USA I'm fairly certain that almost probably at Each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpole was always a member of the security team, we had an ambulance on standby.
 

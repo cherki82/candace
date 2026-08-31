@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:16:40](/episodes/ep-AoYZel7_cGQ.md#t-00-16-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1000);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=1000s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On September 12th—okay, so the day after that—Charlie (Charlie Kirk) is back in Phoenix at Hansen Mortuary, and Erika (Erika Kirk) moves to post the footage that Elizabeth McCoy... actually captured the day before in Utah. She moves to post that footage of her lying over Charlie (Charlie Kirk)'s open casket onto social media.
 

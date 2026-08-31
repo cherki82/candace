@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:32:14](/episodes/ep-OgRyiOAVtWU.md#t-00-32-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1934);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1934s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That bridge is burned between Erika (Erika Kirk) and Candace. It's more than burned. It's been blown up. There's no reason for Erika (Erika Kirk) to ever speak to Candace again, ever, the family member said. ... Candace decided to make this her identity. It's a grab for attention, building her name and her brand and making some money off of it. ... That's what Erika (Erika Kirk) thinks.
 

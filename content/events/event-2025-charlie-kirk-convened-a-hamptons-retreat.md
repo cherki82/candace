@@ -6,6 +6,11 @@ date: "2025"
 ---
 
 **Date:** 2025
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “the Hamptons retreat”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:33:59](/episodes/ep-4YgrOhhy708.md#t-00-33-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2039);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Hamptons meeting was a retreat called by Charlie.
 
@@ -25,6 +30,6 @@ date: "2025"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:14:44](/episodes/ep-ti5Fxrvegno.md#t-00-14-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(884);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika was at the meeting in the Hamptons when Bibi called

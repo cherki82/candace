@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:13:05](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(785);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=785s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, four out of the six protest permits that were issued on January 6th were issued to independent, charismatic Christian groups
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:12:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-12-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(755);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=755s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, four out of the six protest permits that were issued on January 6th were issued to independent, charismatic Christian groups, okay
 

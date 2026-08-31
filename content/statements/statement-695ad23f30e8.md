@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:28:06](/episodes/ep-X92MllIHDzw.md#t-00-27-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1686);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1686s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and they specifically outline how excited they are that Nevada has changed its laws. which means that they don't have to leave on their 18th birthday, that those girls can now stay until they're 21.
 

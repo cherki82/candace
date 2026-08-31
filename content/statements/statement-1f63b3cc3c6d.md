@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:21:30](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1290);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1290s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But just two weeks before he died, Andrew (Andrew Breitbart) hired a then 28-year-old Ben Shapiro to be the editor-at-large of Breitbart.
 

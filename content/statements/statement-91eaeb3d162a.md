@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:39:40](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2380);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2380s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They had no idea what they were signing up for. The majority of the people didn't even agree once they got. They got there and were told with doing a split halftime show, a lot of them actually liked Bad Bunny as a bad buddy. ... they also thought that it was going to be a bigger artist because they were told that they were going to contend with the halftime show and they didn't think that they were going to do that
 

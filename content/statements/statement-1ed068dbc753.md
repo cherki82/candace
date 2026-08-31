@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:17:19](/episodes/ep-X3VKJVJ7cN4.md#t-00-17-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then after Charlie gets shot, he's on the phone. ... For 10 minutes with Danny Phillips. I thought initially it was Danny McCoy. No, it's Danny Phillips, this young kid fresh out of college.
 

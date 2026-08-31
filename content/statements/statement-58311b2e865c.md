@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:15:21](/episodes/ep-i8m_6D4QGmk.md#t-00-15-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(921);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=921s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, the technical term that we tend to use for that is called the revealing of the method. ... Basically, it means that it can be connected to a curse. They can, like, curse this so that its distribution becomes more extensive and more people watch the thing.
 

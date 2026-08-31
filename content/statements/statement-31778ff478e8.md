@@ -1,6 +1,6 @@
 ---
-title: "Donald Trump pardoned him. He pardoned Tyler Bowyer a couple..."
-description: "\"Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago\" — Candace Owens"
+title: "Owens said Donald Trump had pardoned Tyler Bowyer a couple o..."
+description: "\"Owens said Donald Trump had pardoned Tyler Bowyer a couple of weeks earlier.\" — Candace Owens"
 statement_id: "statement-31778ff478e8"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago
+> Owens said Donald Trump had pardoned Tyler Bowyer a couple of weeks earlier.
 
 ## Attribution
 
@@ -20,13 +20,18 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Donald J. Trump](/entities/person-donald-trump.md) (person)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) (person)
+
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(815);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=815s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump (Donald Trump) pardoned him. He pardoned Tyler Bowyer (Tyler Bowyer) a couple of weeks ago.
+> maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago.
 
 ## Verification
 

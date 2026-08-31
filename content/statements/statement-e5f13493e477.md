@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:37:21](/episodes/ep-amqTMimDr0A.md#t-00-37-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2241);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2241s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, I'm just saying, I mean, the screwdriver that probably wouldn't have worked to take it apart or put it together in the first place was left on the rooftop anyway. So he jumped off the roof and put it back together without the screwdriver that probably didn't work anyway. Put it back together, wrapped it up and put it nicely in a bunch of trees, then ran off and started texting someone like English was a second language. ... I mean, the whole thing's just shady.
 

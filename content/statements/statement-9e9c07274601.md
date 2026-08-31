@@ -1,8 +1,8 @@
 ---
-title: "Harry Myers said Fort Huachuca personnel interrogated him fo..."
-description: "\"Harry Myers said Fort Huachuca personnel interrogated him for about seven hours after he encountered a military meeting on September 9, 2025\" — Harry Myers"
+title: "Owens said Fort Huachuca personnel began what became a seven..."
+description: "\"Owens said Fort Huachuca personnel began what became a seven-hour interrogation of Harry Myers after someone hit a panic button at the headquarters.\" — Candace Owens"
 statement_id: "statement-9e9c07274601"
-speaker: "Harry Myers"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -10,28 +10,27 @@ type: "factual_claim"
 
 ## Statement
 
-> Harry Myers said Fort Huachuca personnel interrogated him for about seven hours after he encountered a military meeting on September 9, 2025
+> Owens said Fort Huachuca personnel began what became a seven-hour interrogation of Harry Myers after someone hit a panic button at the headquarters.
 
 ## Attribution
 
-**Speaker:** [Harry Myers](/entities/person-harry-myers.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Paraphrased
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Harry Myers account relayed by Candace Owens
 
 ## About
 
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 - [Harry Myers](/entities/person-harry-myers.md) (person)
+- [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md) (org)
 
 ## Source
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:22:00](/episodes/ep-t4U7NjnUEgc.md#t-00-21-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1320);return false;">Play</a>
+**Timestamp:** [00:21:43](/episodes/ep-t4U7NjnUEgc.md#t-00-21-43) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=1303s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> a seven-hour interrogation
+> Suddenly somebody hits the panic button and two captains come out and they escort him out of the building and they begin what becomes a seven-hour interrogation, okay?
 
 ## Verification
 

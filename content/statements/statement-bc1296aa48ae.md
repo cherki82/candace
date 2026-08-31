@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:13:49](/episodes/ep-CMcktj3Egfo.md#t-00-13-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(829);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=829s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the governing liberal Democratic Party found that some 180 of its elected lawmakers or almost half of its entire members.
 

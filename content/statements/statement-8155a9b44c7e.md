@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:17:23](/episodes/ep-5NQyGuRYbU8.md#t-00-16-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1043);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1043s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to also show you a graphic which demonstrates exactly how they were able to rig the pagers with the explosive. This graphic was provided by Reuters who estimated that they used just six grams of PETN explosive to accomplish. ... accomplish this far-reaching attack just six grams put inside of a functional pager that's important too because they actually had to make sure that they didn't put enough as so as to render the pager ineffective they had to just put enough that it would explode Here you go on that left-hand side, you can see where it's pointing to that the detonation material, tiny, tiny, you got the battery cell and the detonation material right there on the bottom, the PETN explosive. It's a very, very thin amount.
 

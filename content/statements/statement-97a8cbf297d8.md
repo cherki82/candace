@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:57:34](/episodes/ep-DdPjoy5W-wY.md#t-00-57-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3454);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3454s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We never wanted to join the EU. We never wanted American military bases on our soil and we never wanted our money sent to Ukraine.
 

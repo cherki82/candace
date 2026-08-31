@@ -6,6 +6,11 @@ date: "2005"
 ---
 
 **Date:** 2005
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “a 2005 British Museum report”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2005"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:11:10](/episodes/ep-QRS_hR7NXaQ.md#event-event-2005-the-british-museum-issued-a-report-about-t-00-10-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(670);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=670s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > according to a 2005 British Museum report, the use of Babylon as a camp

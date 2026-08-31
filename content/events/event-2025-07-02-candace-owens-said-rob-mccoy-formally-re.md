@@ -6,6 +6,11 @@ date: "2025-07-02"
 ---
 
 **Date:** 2025-07-02
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 2nd”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-07-02"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:30:09](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-07-02-candace-owens-said-rob-mccoy-formally-re-t-00-29-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1809);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1809s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On July 2nd, Rob McCoy formally resigns as the lead pastor of Calvary Church.

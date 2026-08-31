@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:09:26](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(11366);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=11366s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think first aid to Charlie Kirk, they were more concerned about getting SIM cards out of cameras, removing cameras and then getting him off the X somehow. ... There didn't seem a lot of concern for his life. It seemed like just clean it up.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [02:28:22](/episodes/ep-aPOyk1i2LOc.md#t-02-27-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8902);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=8902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > First aid to Charlie Kirk, they were more concerned about getting SIM cards out of cameras, removing cameras, and then getting him off the X somehow. ... Didn't seem a lot of concern for his life. It seemed like just clean it up.
 

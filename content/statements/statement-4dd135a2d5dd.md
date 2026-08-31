@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:22:43](/episodes/ep-k8ueJdPFel4.md#t-00-22-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1363);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=1363s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and blackmail oh you pick the fight and you can't finish it because you didn't think through the fact that Iran could just close the Strait of Hormuz okay now in case you guys are not aware of how significant this approximate 100 mile strip of water is you should know that roughly 25 percent of the global liquid petroleum moves through this tiny
 

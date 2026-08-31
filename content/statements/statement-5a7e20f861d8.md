@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:43:39](/episodes/ep-69A8TzAGHlU.md#t-00-43-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2619);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=2619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'll be the first to say, I don't think Erica (Erika Kirk) did it. ... I don't think Erica (Erika Kirk) killed her husband, nor do I know a single human being that does. I've never talked to anyone who does.
 

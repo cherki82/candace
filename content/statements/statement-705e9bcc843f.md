@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:53:01](/episodes/ep-X92MllIHDzw.md#t-00-52-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3181);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=3181s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Total memory blackout from ages 4 to 10, the exact years, because I was responding to a comment of somebody else who had a memory blackout being a part of this program. The exact years that I was at Fort Hood on base. Later 80s, late, later 80s, early 90s, military brat, dad was a doctor doing residency adjacent to a bio lab at the army hospital. I wouldn't follow protocol as a kid after the program.
 

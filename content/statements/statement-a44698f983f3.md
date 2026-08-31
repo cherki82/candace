@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:08:10](/episodes/ep-iHav0PPzUz8.md#t-00-07-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(490);return false;">Play</a>
+**Timestamp:** [00:08:10](/episodes/ep-iHav0PPzUz8.md#t-00-07-44) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=490s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > local time upon arrival, I, Derek Maxfield, boarded that plane along with seven additional passengers for the return trip to Provo
 

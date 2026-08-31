@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:39:42](/episodes/ep-A39g5oqB_eM.md#t-00-39-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2382);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2382s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Right after him comes Michelle Bachmann. ... Michelle (Michelle Bachmann) has five minutes to make an argument for why we have to stand with Israel to these young people at TPUSA. ... When she starts talking in that conference about supporting Israel and why America should stand with Israel, ... the people in the audience start booing her. ... I spoke with her personally. ... She said 10%. ... in the room got up and walked out on her.
 

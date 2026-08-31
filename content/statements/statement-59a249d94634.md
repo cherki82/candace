@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:10:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-10-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(647);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=647s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I maintain that Turning Point is engaged in a cover-up. That is how I feel.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:28:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-27-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1686);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1686s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I just worked. series of 80 90 hour weeks plus for infest I've ... had no direction or explanation since we've come back our CEO has been assassinated I've done nothing but then either backwards for this organization and the point where I'm wondering if this is a prank so
 

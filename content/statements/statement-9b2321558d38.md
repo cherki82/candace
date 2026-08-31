@@ -1,8 +1,8 @@
 ---
-title: "This weekend was kept hush-hush, which is extraordinarily un..."
-description: "\"This weekend was kept hush-hush, which is extraordinarily unusual for a Turning Point event.\" — Candace Owens"
+title: "Xaviaer DuRousseau said photos of the Hamptons meeting were ..."
+description: "\"Xaviaer DuRousseau said photos of the Hamptons meeting were not posted in real time for safety.\" — Xaviaer DuRousseau"
 statement_id: "statement-9b2321558d38"
-speaker: "Candace Owens"
+speaker: "Xaviaer DuRousseau"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,25 @@ type: "factual_claim"
 
 ## Statement
 
-> This weekend was kept hush-hush, which is extraordinarily unusual for a Turning Point event.
+> Xaviaer DuRousseau said photos of the Hamptons meeting were not posted in real time for safety.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Xaviaer DuRousseau](/entities/person-xaviaer-durousseau.md) (Guest)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:06:17](/episodes/ep-K5GjF53bfN4.md#t-00-05-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(377);return false;">Play</a>
+**Timestamp:** [00:06:27](/episodes/ep-K5GjF53bfN4.md#t-00-06-27) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=387s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They were not happy with Charlie (Charlie Kirk) at the end of this weekend in the Hamptons because, again, they saw which way the wind was traveling in terms of his positions on Benjamin Netanyahu (Israeli PM) and Israel
+> And then you have the people who are trying to go and say that, oh, then why was the meeting so secretive? ... The photos were already on my Instagram. The reason we didn't post that in the real time was because of safety.
 
 ## Verification
 

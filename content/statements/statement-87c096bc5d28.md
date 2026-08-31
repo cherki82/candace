@@ -1,6 +1,6 @@
 ---
-title: "He did not like Benjamin Netanyahu and he said that to me ma..."
-description: "\"He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times\" — Tucker Carlson"
+title: "Tucker Carlson said Charlie Kirk had expressed his resentmen..."
+description: "\"Tucker Carlson said Charlie Kirk had expressed his resentment of Benjamin Netanyahu to Carlson and other people.\" — Tucker Carlson"
 statement_id: "statement-87c096bc5d28"
 speaker: "Tucker Carlson"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times
+> Tucker Carlson said Charlie Kirk had expressed his resentment of Benjamin Netanyahu to Carlson and other people.
 
 ## Attribution
 
@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:44:20](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2660);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2660s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But he certainly expressed that to me and a lot of other people
 

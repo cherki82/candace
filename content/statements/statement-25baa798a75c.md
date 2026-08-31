@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -24,13 +24,13 @@ veracity: "true"
 - [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md) (person)
 - [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md) (person)
 - [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:10:56](/episodes/ep-cZxHqYsWRYg.md#t-00-10-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(656);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Pardon, Tony (Tony Erpenbeck) offered her money to change her testimony about Bill (Bill Erpenbeck). Lori (Lori Ann Erpenbeck) told her lawyer about the conversation and the FBI was looped in. ... She agreed to wear a wire to capture information.
 

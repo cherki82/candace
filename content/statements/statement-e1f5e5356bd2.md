@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:11:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-10-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(682);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=682s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lest we forget, Blake's truer background is in military strategy. He supported war gaming exercises for the Marine Corps before he was removed from that position following racist commentary.
 

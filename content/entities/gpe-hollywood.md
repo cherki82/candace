@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 119 mentions"
+description: "Hollywood (Places) - 118 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -25,7 +25,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42">2026-08-07 · 00:44:51</a></strong></div>
 <div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>119</strong></div>
+<div><span>Mentions</span><strong>118</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,11 +38,11 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48" style="--pulse-height:13%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-00-41" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-22" style="--pulse-height:13%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-01-09" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-33" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:53%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-19" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53" style="--pulse-height:13%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
@@ -84,11 +84,11 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48) | 2 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-00-41) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-22) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-01-09) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-33) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00) | 8 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-19) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53) | 2 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15) | 1 |
@@ -130,7 +130,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (119)</strong></summary>
+<summary><strong class="section-title">Raw mentions (118)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -614,7 +614,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01)**
+**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-19)**
 > "...ow fix it in this system. All of it's happening at once. The Epstein files, the sort of collapse of Hollywood, the stories that we are learning and watching the elites protect Jeffrey Epstein—his victims speak..."
 
 </details>
@@ -625,25 +625,25 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 **[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00)**
 > "...st), me telling you all about what happened behind the scenes when he was effectively kicked out of Hollywood, and the reason why I refused to publicly condemn him despite insistence from the brood of vipers. ..."
 
-**[00:19:22](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-18-57)**
+**[00:19:21](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-18-51)**
 > "...s just crazy." "She's crazy—truly." "She's obviously insane" because people that are outside of the Hollywood matrix cannot grasp or comprehend what goes on inside of it. It's spiritually so offensive that we ..."
 
-**[00:19:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-18-57)**
+**[00:19:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-19-29)**
 > "...at we go, "There's no way all of this can be going on." And then you join my book club and you read Hollywood Babylon—you're like, "Oh, this is actually how the system was built in Hollywood." It was built off..."
 
-**[00:19:41](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-19-41)**
+**[00:19:39](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-19-29)**
 > "...lt off of this stuff. So while I personally did not understand the nature of what goes on inside of Hollywood, I did start to understand it after everything happened with Ye (Kanye West), okay? I saw it up clo..."
 
-**[00:26:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-26-36)**
+**[00:26:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-19-29)**
 > "...are always in their pockets—which is really interesting when you have these. And again, if you read Hollywood Babylon, it gets into all of these true stories of just perfectly timed deaths—which we're never go..."
 
-**[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-27-13)**
+**[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-27-03)**
 > "...any messages that I needed to look into the quote-unquote "Mormon mafia," which she said sits above Hollywood and even sits above many Zionist Jews. Now, I want to be very clear because this can be offensive t..."
 
-**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-28-42)**
+**[00:28:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-28-26)**
 > "...who is it that doesn't drink, doesn't gamble, but they run Vegas? And a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy." "Jay-Z, Beyoncé—and she also owns the home church, Church..."
 
-**[00:29:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-28-42)**
+**[00:29:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-29-08)**
 > "...to be accurate and made no sense to me at the time because I'm not hip. I don't follow a lot of the Hollywood stuff. Then she says, "Christian non-denominational, but she's LDS." "Born and raised LDS." "Bill G..."
 
 </details>
@@ -657,20 +657,17 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:49:46](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-22)**
+**[00:49:43](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-33)**
 > "... got blackballed because I oppose the Israeli agenda. I think he was talking about some Zionists in Hollywood, and he did mean to say DEF CON 3, but they pretended like—like— he was going to literally go aroun..."
-
-**[00:49:51](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-22)**
-> "...and he did mean to say DEF CON 3, but they pretended like—like— he was going to literally go around Hollywood and start murdering Jewish people. And what he was saying was he was tired of people that were tryi..."
 
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[01:01:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-00-41)**
+**[01:01:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-01-09)**
 > "...ght that to the shores of America. They brought modern psychology to the shores of America and into Hollywood. And the good news is we're all waking up to it. People are understanding that we are in a battle—s..."
 
 </details>
@@ -682,7 +679,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > "..."I have a handler." I thought that he was just saying that. I thought that he was referring to just Hollywood. I now very much believe that I have had handlers since 2018, and that things were done intentional..."
 
 **[01:08:20](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-01-08-20)**
-> "... them that. You did it with Kanye; you put him on a psych 5150 hold. You did that to many people in Hollywood. I know how it works, and I'm teaching people to learn about your psychological operation—which is ..."
+> "You did it with Kanye (Kanye West); you put him on a psych 5150 hold. You did that to many people in Hollywood."
 
 </details>
 

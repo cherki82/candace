@@ -3,9 +3,18 @@ title: "The Quartering"
 description: "The Quartering (People) - 2 mentions"
 id: "person-the-quartering"
 type: "PERSON"
+categories:
+  - "online commentator"
+  - "YouTube creator"
 ---
 
 _Type: People_
+
+**Categories:** online commentator, YouTube creator
+
+**Entity verification:** verified
+> The official The Quartering site identifies Jeremy Hambly as founder and host of The Quartering, verifying the public persona named in the episode.
+Source: [The Quartering official site](https://thequartering.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-the-quartering-t-00-11-47">2025-10-07 · 00:12:25</a></strong></div>

@@ -5,16 +5,16 @@ title: "Episodes"
 _Total episodes: 160_
 
 <div class="page-filter-container">
-  <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
-  <span class="filter-clear" title="Clear filter">×</span>
-  <span class="filter-count"></span>
+  <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
+  <button type="button" class="filter-clear" aria-label="Clear filter">×</button>
+  <output class="filter-count" aria-live="polite"></output>
 </div>
 
 <style>
 .page-filter-container { position: relative; margin-bottom: 1em; }
 .page-filter { width: 100%; padding: 0.5em 2em 0.5em 0.8em; border: 1px solid var(--gray); border-radius: 4px; font-size: 1em; background: var(--light); color: var(--dark); box-sizing: border-box; }
 .page-filter:focus { outline: none; border-color: var(--secondary); }
-.filter-clear { position: absolute; right: 0.6em; top: 50%; transform: translateY(-50%); cursor: pointer; color: var(--gray); font-size: 1.2em; display: none; }
+.filter-clear { position: absolute; right: 0.6em; top: 50%; transform: translateY(-50%); cursor: pointer; color: var(--gray); font-size: 1.2em; display: none; border: 0; background: transparent; }
 .filter-clear:hover { color: var(--dark); }
 .filter-count { font-size: 0.85em; color: var(--gray); margin-left: 0.5em; }
 .filter-hidden { display: none !important; }

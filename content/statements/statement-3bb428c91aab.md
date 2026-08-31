@@ -30,7 +30,7 @@ type: "citation"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1009);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=1009s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Confirmed. Candace Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU... official receipts just landed straight from the Egyptian presidency website that on April 3rd, 2023, President al-Sisi touched down in Riyadh aboard that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown Prince Mohammed bin Salman.
 

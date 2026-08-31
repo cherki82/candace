@@ -8,24 +8,24 @@ aliases:
   - "Wilmington"
 categories:
   - "Delaware city"
+  - "city"
+  - "Delaware"
 ---
 
 _Type: Places_
 
 **Also known as:** Wilmington, Delaware, Wilmington
 
-**Categories:** Delaware city
-
-> **Possibly overlapping entity records:** [Wilmington, Delaware](/entities/gpe-wilmington-delaware). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** Delaware city, city, Delaware
 
 **Entity verification:** verified
 > Canonical name and identity for Wilmington confirmed by the cited direct external source.
 Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delaware)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42">2025-10-30 · 00:16:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12">2025-12-10 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-16-02">2025-10-30 · 00:16:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-wilmington-t-00-26-42">2026-05-27 · 00:26:42</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
@@ -35,33 +35,39 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (33 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-01">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (30 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-16-02" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wilmington-t-00-22-39" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 33 mentions" title="2025-11-19 · 33 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-36" style="--pulse-height:39%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 13 mentions" title="2025-11-20 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-05-02" style="--pulse-height:9%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-wilmington-t-00-23-42" style="--pulse-height:52%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 17 mentions" title="2025-12-01 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-00-46" style="--pulse-height:39%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 13 mentions" title="2025-12-02 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-01" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 30 mentions" title="2025-11-19 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-28" style="--pulse-height:47%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 14 mentions" title="2025-11-20 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-05-02" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-wilmington-t-00-23-42" style="--pulse-height:57%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 17 mentions" title="2025-12-01 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-00-46" style="--pulse-height:43%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 13 mentions" title="2025-12-02 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-wilmington-t-00-17-22" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-wilmington-t-00-13-44" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12" style="--pulse-height:9%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-wilmington-t-00-48-23" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-wilmington-t-00-20-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-wilmington-t-00-26-42" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-16-02) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wilmington-t-00-22-39) | 1 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04) | 33 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-36) | 13 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-01) | 30 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-28) | 14 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-05-02) | 3 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-wilmington-t-00-23-42) | 17 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-00-46) | 13 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-wilmington-t-00-17-22) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-wilmington-t-00-13-44) | 2 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12) | 2 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-wilmington-t-00-48-23) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-wilmington-t-00-20-39) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-wilmington-t-00-26-42) | 1 |
 
 </details>
 </section>
@@ -72,15 +78,36 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <summary><strong class="section-title">Raw mentions (87)</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
 
-**[00:36:06](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12)**
+**[00:26:42](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-wilmington-t-00-26-42)**
+> "... departs on the, which leaves Wilmington on the day of Charlie (Charlie Kirk)'s assassinat..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:20:57](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-wilmington-t-00-20-39)**
+> "Of course, we know DuPont then moves those headquarters to Wilmington, Delaware. I just loved looking into her and just seeing that she's the DuPont woman because I like to pause and reflect on past episodes when I don't know why everybody's freaking out about things. And I just like to consider how terrified they must have been when I'm looking into the Charlie (Charlie Kirk) Egyptian planes and I'm like, what's going on in Wilmington, Delaware? And I instantly hit the DuPont family."
+
+</details>
+
+<details>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>
+
+**[00:48:23](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-wilmington-t-00-48-23)**
+> "William Stevenson, 77 of Wilmington"
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:35:56](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12)**
 > "I know you didn't go to Wilmington, Delaware on the day of trial"
 
 **[00:36:30](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12)**
-> "...that you took off and went to Wilmington, Delaware."
-
-**[00:36:36](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12)**
 > "I know you didn't go to Wilmington, Delaware on the day of trial for her assassinati..."
 
 </details>
@@ -219,107 +246,107 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (13 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (14 mentions)</summary>
 
-**[00:05:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-36)**
+**[00:05:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-28)**
 > "...nd during—immediately—this becomes a location where our Egyptian military plane is going to land in Wilmington, Delaware, not to get service. We know there was no maintenance happening because there was this lack of a le..."
 
-**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-09-03)**
+**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-08-58)**
 > "...that Satis—that's when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar. Okay, there's suddenly a French company, and the CEO who knows Emmanuel Macron—we've..."
 
-**[00:09:38](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-09-03)**
+**[00:09:38](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-08-58)**
 > "...pecializes in the painting of aircraft, and they plan to open for business in a hangar not far from Wilmington Airport come the new year. So in 2025, this is going to be their hangar. Okay, interesting. Back to..."
 
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-16-53)**
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-16-28)**
 > "...ro through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay? They do this long stay, and that's not in Nebraska. That long stay that I'm referring to is ..."
 
-**[00:17:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-16-53)**
+**[00:17:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-17-12)**
 > "...do this long stay, and that's not in Nebraska. That long stay that I'm referring to is happening in Wilmington. They stay in Wilmington for six days, okay? That happens to be—from the 20th to the 26th—that happ..."
 
-**[00:17:21](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-16-53)**
+**[00:17:21](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-17-12)**
 > "...at's not in Nebraska. That long stay that I'm referring to is happening in Wilmington. They stay in Wilmington for six days, okay? That happens to be—from the 20th to the 26th—that happens to be the period that..."
 
-**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-18-13)**
+**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-17-44)**
 > "...how you this. So odd—like we were so surprised when we got this. Yeah, they depart on the 26th from Wilmington heading back to Cairo. They released it in that period of time that they're suing me. On July 27th,..."
 
 **[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-20-22)**
 > "...does its Nebraska route. Charlie (Charlie Kirk)'s speaking on August 23rd. It again goes through to Wilmington, and it stays one night on August 23rd in Wilmington before heading back to Cairo. On September 3rd..."
 
-**[00:22:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-21-44)**
+**[00:22:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-21-35)**
 > "...s, and it's go time, right? This plane is now going to stay for six days, and then it's gonna go to Wilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th afte..."
 
-**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-21-44)**
+**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-21-35)**
 > "... for six days, and then it's gonna go to Wilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination. I find this now t..."
 
-**[00:24:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-23-52)**
+**[00:24:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-23-42)**
 > "...k to a France question, right? Why on earth did France move? I mean, who wants to lease a hangar in Wilmington, Delaware, for two years to paint planes ostensibly? We're supposed to believe that this was a maintenance st..."
 
 **[00:24:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-24-24)**
 > "...from 2021 all the way forward to the end of 2024. So literally that plane was still making stops in Wilmington, Delaware, and there was no lease to that. And these were federally controlled waterways where that hangar is..."
 
-**[00:29:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-29-11)**
+**[00:29:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-29-24)**
 > "...e this hangar for two years—a very short time—to paint some planes. Could you tell us who landed in Wilmington, Delaware, and we're shuttled over to 920 King? I think that would be a good start. Anyways, we'll be right b..."
+
+**[00:09:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-08-58)**
+> "... company, has inked a deal in Wilmington, Delaware, for a hangar."
 
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (33 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (30 mentions)</summary>
 
-**[00:02:04](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04)**
+**[00:02:01](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-01)**
 > "...at yellow plane was going through Paris; it was going to Wichita, but very often it was stopping in Wilmington. Like, what goes on in Wilmington, Delaware, actually? If you fly private—even if you fly public—it..."
 
-**[00:02:16](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04)**
+**[00:02:16](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-01)**
 > "...Paris; it was going to Wichita, but very often it was stopping in Wilmington. Like, what goes on in Wilmington, Delaware, actually? If you fly private—even if you fly public—it's not exactly a hub. People aren't like, "L..."
 
-**[00:02:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04)**
+**[00:02:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-01)**
 > "...ly private—even if you fly public—it's not exactly a hub. People aren't like, "Let me route through Wilmington to go overseas." It's not a thing. The person who emailed me claimed to be a solid source on what t..."
 
-**[00:03:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-03-23)**
+**[00:03:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-03-12)**
 > "... yellow plane, departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern. So that's at around 9:51 a.m. Utah time...."
 
-**[00:03:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-03-23)**
-> "...ng at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern. So that's at around 9:51 a.m. Utah time. Charlie (Charlie Kirk)'s gonna get ..."
-
-**[00:03:56](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-03-23)**
+**[00:03:50](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-03-50)**
 > "...d 9:51 a.m. Utah time. Charlie (Charlie Kirk)'s gonna get shot at 12:23. This plane has landed into Wilmington at what would be 9:51 a.m., so about two and a half hours before Charlie (Charlie Kirk) is shot. An..."
 
-**[00:04:06](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-04-06)**
+**[00:04:06](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-03-50)**
 > "...re Charlie (Charlie Kirk) is shot. And then for whatever reason, these Egyptians decided to stay in Wilmington, Delaware for a night until the following day. I don't know, where did they sleep? Where did they go? Again, ..."
 
-**[00:04:20](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-04-06)**
+**[00:04:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-03-50)**
 > "...il the following day. I don't know, where did they sleep? Where did they go? Again, what goes on in Wilmington, Delaware? Because they departed September 11th at 7:56 a.m. That means that we can definitively rule out tha..."
 
-**[00:04:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-04-06)**
+**[00:04:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-04-30)**
 > "...dy's like, let me fuel up my private military jet and sleep on the plane. So there was something in Wilmington that held the interest of our Middle Eastern people that are here for some reason. Well, like I sai..."
 
-**[00:05:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-05-33)**
+**[00:05:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-05-51)**
 > "...s and that you are receiving tips." "You might have been wondering why SUBTT made so many visits to Wilmington, Delaware out of all places." "And I can personally answer that." "What I can say about myself is blank blank..."
 
-**[00:06:15](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-06-15)**
+**[00:06:15](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-05-51)**
 > "...not going to read that. I'm not going to read that. "Some people may tell you that SUBTT stopped at Wilmington because it was quote-unquote just maintenance." "That is not true." "The information I am giving yo..."
 
-**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-06-15)**
+**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-06-33)**
 > "... you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware." "I tried to pull non-public movement data, and it came up empty." "For me, this means that the ar..."
 
-**[00:07:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-06-58)**
+**[00:07:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-07-11)**
 > "...in and of itself wouldn't be odd if we were talking about Andrews or Dulles airports." "It's odd at Wilmington." "You can't verify this next piece directly, but I can independently." "I can confirm that blank u..."
 
 **[00:10:15](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-10-15)**
 > "...n directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801." "That is your line to know that it is a federal resident office that is at that exact addr..."
 
-**[00:10:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-10-15)**
+**[00:10:46](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-10-15)**
 > "...en it yourself in this link and look for a page titled 675." Okay? We did that. We confirmed that. "Wilmington Resident Office Suite 404 1 Rodney Square." And so we can confirm this is like he says or she says ..."
 
 **[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-11-00)**
 > "...orth King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801. Both are live, both are at Suite 404, both also publish phone numbers. In the Secret Servic..."
 
-**[00:11:24](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-11-00)**
+**[00:11:19](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-11-00)**
 > "...lish phone numbers. In the Secret Service case, the agency's own 2025 field office list still shows Wilmington, Delaware. That means the suites that the Department of Justice owned in the 1990s never actually went away. ..."
 
-**[00:11:57](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-11-40)**
+**[00:11:57](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-11-38)**
 > "...t Snowden leaked. Find one that makes it look brown and then compare it to 920 North King Street in Wilmington. It looks exactly like a mini version of the thing. The only difference is that 920 North King has ..."
 
-**[00:12:08](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-11-40)**
+**[00:12:08](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-11-38)**
 > "... alibi because it, quote-unquote, aligns with a long-standing Falcon maintenance arrangement out of Wilmington that dates back to 1999. You remember that, guys? They told us, oh, they were just doing maintenanc..."
 
 **[00:12:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-12-23)**
@@ -328,40 +355,34 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 **[00:12:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-12-23)**
 > "...aircraft finishing company called Satys, S-A-T-Y-S, announced that it was taking over the shuttered Wilmington airport hangar. And every Delaware outlet said the same thing. Satys will invest a little over $1 m..."
 
-**[00:13:16](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-13-08)**
+**[00:13:13](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-13-05)**
 > "...d that that is true. This is a French company that said they were going to take over this hangar in Wilmington. The Delaware River and Bay Authority is the one that is making that deal. DRBA is a bi-state autho..."
 
-**[00:15:30](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-14-53)**
+**[00:15:25](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-15-25)**
 > "...n of itself or it is a front for something else. Back to 920 North King Street. When you Google FBI Wilmington Resident Agency, you should check the address in the Google info panel. You will likely get 920 Nor..."
 
-**[00:17:19](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-16-51)**
+**[00:17:18](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-16-45)**
 > "...ties. They chose to mention partners. They didn't say that he met with agents that were assigned in Wilmington. They foregrounded partnerships. That's the vocabulary that they use when the space is not purely F..."
 
-**[00:19:07](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-18-47)**
+**[00:19:07](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-18-39)**
 > "...lease that itself is nested in federal waterways. The FBI also publicly talks about key partners in Wilmington on the same year that the hangar reactivates. I'm going to skip this next portion because he tells ..."
 
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-26)**
+**[00:19:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-22)**
 > "... this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged two-continent hop that ends in Wilmington before goin..."
 
-**[00:19:37](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-26)**
+**[00:19:37](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-22)**
 > "...o Wilmington, Delaware, back to Cairo. That is already a four-legged two-continent hop that ends in Wilmington before going home. Four days later, on November 17th, 2022, it does Egypt to Wilmington, again, dep..."
 
-**[00:19:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-26)**
-> "...hat ends in Wilmington before going home. Four days later, on November 17th, 2022, it does Egypt to Wilmington, again, departing at 8:54 a.m., and this time it stays in Wilmington until November 20th. And only ..."
-
-**[00:20:01](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-26)**
+**[00:19:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-59)**
 > "...his time it stays in Wilmington until November 20th. And only then returns to Cairo. So that is two Wilmington arrivals in the same week. Nobody burns a government Falcon 7X on two separate Wilmington runs for ..."
 
-**[00:20:05](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-26)**
-> "...at is two Wilmington arrivals in the same week. Nobody burns a government Falcon 7X on two separate Wilmington runs for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Willisto..."
-
-**[00:20:31](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-20-11)**
+**[00:20:31](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-19-59)**
 > "...raft would hopscotch across America to remote cities if its purpose was just servicing at a defunct Wilmington Dassault Center? Wilmington is undeniably a terminal point and the only logical reason points to 92..."
 
-**[00:20:41](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-20-11)**
+**[00:20:41](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-20-41)**
 > "...America to remote cities if its purpose was just servicing at a defunct Wilmington Dassault Center? Wilmington is undeniably a terminal point and the only logical reason points to 920 North King Street. I could..."
 
-**[00:22:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-22-19)**
+**[00:22:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-22-47)**
 > "...vice, the FBI, the DEA being involved, why this plane, the quote-unquote Egyptian plane landed into Wilmington, that checks out. So I guess to our government. What's the next move? Like you're just, are we just..."
 
 </details>
@@ -377,7 +398,7 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:16:16](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42)**
+**[00:16:14](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-16-02)**
 > "...iro. They showed you—I showed you—the plane left. They left on September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
 
 </details>
@@ -393,7 +414,7 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 - **[Delaware](/entities/gpe-delaware.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-16-02): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “went over to Wilmington, Delaware.”
 
 </details>
@@ -403,7 +424,7 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <details>
 <summary>Location Of (5)</summary>
 
-- **[Department of Justice](/entities/org-department-of-justice.md)**
+- **[United States Department of Justice](/entities/org-united-states-department-of-justice.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
@@ -424,17 +445,17 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 
 </details>
 
-- **[Federal Reserve](/entities/org-federal-reserve.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53): “When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation.”
-
-</details>
-
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00): “Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
+
+- **[FBI](/entities/org-fbi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:37](/episodes/ep-SKGUzGHymcI.md#t-00-15-25): “You will likely get 920 North King Street with the label Federal Bureau of Investigation. Instead of the public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can confirm that 500 Delaware Ave is the borough's public-facing spot, but Google will tell you that 920 North King Street is also the FBI.”
 
 </details>
 
@@ -443,7 +464,7 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <details>
 <summary>Referenced By (6)</summary>
 
-- **[Department of Justice](/entities/org-department-of-justice.md)** based in this
+- **[United States Department of Justice](/entities/org-united-states-department-of-justice.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
@@ -464,13 +485,6 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 
 </details>
 
-- **[Federal Reserve](/entities/org-federal-reserve.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53): “When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation.”
-
-</details>
-
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -478,10 +492,17 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 
 </details>
 
+- **[FBI](/entities/org-fbi.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:37](/episodes/ep-SKGUzGHymcI.md#t-00-15-25): “You will likely get 920 North King Street with the label Federal Bureau of Investigation. Instead of the public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can confirm that 500 Delaware Ave is the borough's public-facing spot, but Google will tell you that 920 North King Street is also the FBI.”
+
+</details>
+
 - **[Delaware](/entities/gpe-delaware.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-16-02): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “went over to Wilmington, Delaware.”
 
 </details>
@@ -494,10 +515,10 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <summary><strong class="section-title">Statements about Wilmington (17)</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
 
-- [00:35:36](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) (Claim) **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie ..."](/statements/statement-a2a2171aef70.md)
-  - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Delaware](/entities/gpe-delaware.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:26:25](/episodes/ep-MhakwJxK-Zk.md#t-00-26-01) (Claim) **Candace Owens**: ["Waleed Mahmoud was aboard the Egyptian aircraft SU-BTV when it flew in..."](/statements/statement-9f81ab25d575.md)
+  - Also about: [Waleed Mahmoud](/entities/person-waleed-mahmoud.md), [SU-BTV](/entities/vehicle-su-btv.md), [Provo](/entities/gpe-provo.md)
 
 </details>
 
@@ -508,51 +529,51 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
   - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
-  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood](/entities/person-walid-mahmood.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
 
 </details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
 
-- [00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) (Claim) **Candace Owens**: ["Stacey Sheridan's registered agent for Cloverstone Ventures is in the ..."](/statements/statement-15658318a1f2.md)
-  - Also about: [Cloverstone Ventures](/entities/org-cloverstone-ventures.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md)
+- [00:12:04](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53) (Claim) **Candace Owens**: ["Stacey Sheridan's registered agent for Cloverstone Ventures is in the ..."](/statements/statement-15658318a1f2.md)
+  - Also about: [Cloverstone Ventures](/entities/org-cloverstone-ventures.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md)
 
 </details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (13)</summary>
 
-- [00:02:06](/episodes/ep-SKGUzGHymcI.md#t-00-02-04) (Claim) **Candace Owens**: ["The Egyptian military plane SUBTT made frequent visits to Wilmington, ..."](/statements/statement-808505330938.md)
+- [00:02:06](/episodes/ep-SKGUzGHymcI.md#t-00-02-01) (Claim) **Candace Owens**: ["The Egyptian military plane SUBTT made frequent visits to Wilmington, ..."](/statements/statement-808505330938.md)
 
-- [00:03:40](/episodes/ep-SKGUzGHymcI.md#t-00-03-23) (Claim) **Candace Owens**: ["The yellow Egyptian plane SUBTT departed Provo, Utah on the morning of..."](/statements/statement-be388da5f8f1.md)
+- [00:03:40](/episodes/ep-SKGUzGHymcI.md#t-00-03-12) (Claim) **Candace Owens**: ["The yellow Egyptian plane SUBTT departed Provo, Utah on the morning of..."](/statements/statement-be388da5f8f1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:04:18](/episodes/ep-SKGUzGHymcI.md#t-00-04-06) (Claim) **Candace Owens**: ["The Egyptian plane SUBTT stayed overnight in Wilmington, Delaware from..."](/statements/statement-f8c19f141608.md)
+- [00:04:18](/episodes/ep-SKGUzGHymcI.md#t-00-03-50) (Claim) **Candace Owens**: ["The Egyptian plane SUBTT stayed overnight in Wilmington, Delaware from..."](/statements/statement-f8c19f141608.md)
 
-- [00:07:03](/episodes/ep-SKGUzGHymcI.md#t-00-06-58) (Claim) **Anonymous Source #1 (Ep SKGUzGHymcI)** (via read message): ["SUBTT's arrival in Wilmington was processed under a diplomatic and dig..."](/statements/statement-9170d006228d.md)
+- [00:07:03](/episodes/ep-SKGUzGHymcI.md#t-00-06-33) (Claim) **Anonymous Source #1 (Ep SKGUzGHymcI)** (via read message): ["SUBTT's arrival in Wilmington was processed under a diplomatic and dig..."](/statements/statement-9170d006228d.md)
 
-- [00:08:02](/episodes/ep-SKGUzGHymcI.md#t-00-07-37) (Claim) **Anonymous Source #1 (Ep SKGUzGHymcI)** (via read message): ["Federal vehicles arrived at and left Wilmington airport in the same wi..."](/statements/statement-995d8794864a.md)
+- [00:08:02](/episodes/ep-SKGUzGHymcI.md#t-00-07-52) (Claim) **Anonymous Source #1 (Ep SKGUzGHymcI)** (via read message): ["Federal vehicles arrived at and left Wilmington airport in the same wi..."](/statements/statement-995d8794864a.md)
 
 - [00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15) (Claim) **Candace Owens**: ["The DEA and United States Secret Service are both currently located at..."](/statements/statement-b9552222e57e.md)
   - Also about: [DEA](/entities/org-dea.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
 
-- [00:12:21](/episodes/ep-SKGUzGHymcI.md#t-00-11-40) (Claim) **Candace Owens**: ["The Wilmington Dassault Falcon authorized service center shut down aro..."](/statements/statement-71de6e94f148.md)
+- [00:12:21](/episodes/ep-SKGUzGHymcI.md#t-00-11-38) (Claim) **Candace Owens**: ["The Wilmington Dassault Falcon authorized service center shut down aro..."](/statements/statement-71de6e94f148.md)
 
 - [00:13:03](/episodes/ep-SKGUzGHymcI.md#t-00-12-23) (Claim) **Candace Owens**: ["In December 2024, the French aircraft finishing company Satys announce..."](/statements/statement-8a833470ba1f.md)
   - Also about: [Satys](/entities/org-satys.md)
 
-- [00:14:22](/episodes/ep-SKGUzGHymcI.md#t-00-14-09) (Accusation) **Anonymous Source #1 (Ep SKGUzGHymcI)** (via read message): ["If SUBTT has been making maintenance runs to Wilmington for decades, i..."](/statements/statement-10fa7ba55d22.md)
+- [00:14:22](/episodes/ep-SKGUzGHymcI.md#t-00-14-04) (Accusation) **Anonymous Source #1 (Ep SKGUzGHymcI)** (via read message): ["If SUBTT has been making maintenance runs to Wilmington for decades, i..."](/statements/statement-10fa7ba55d22.md)
 
-- [00:15:12](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) (Claim) **Candace Owens**: ["The FBI is stationed at 920 North King Street in Wilmington, as listed..."](/statements/statement-a571b54811ed.md)
+- [00:15:12](/episodes/ep-SKGUzGHymcI.md#t-00-14-44) (Claim) **Candace Owens**: ["The FBI is stationed at 920 North King Street in Wilmington, as listed..."](/statements/statement-a571b54811ed.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
-- [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-37) (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be ..."](/statements/statement-ecdfdd6a0965.md)
+- [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-25) (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be ..."](/statements/statement-ecdfdd6a0965.md)
   - Also about: [FBI](/entities/org-fbi.md), [DEA](/entities/org-dea.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
 
-- [00:18:23](/episodes/ep-SKGUzGHymcI.md#t-00-18-04) (Claim) **Candace Owens**: ["On November 13, 2022, SUBTT flew from Cairo to Paris to Wichita, Kansa..."](/statements/statement-18c05cf22929.md)
+- [00:18:23](/episodes/ep-SKGUzGHymcI.md#t-00-18-01) (Claim) **Candace Owens**: ["On November 13, 2022, SUBTT flew from Cairo to Paris to Wichita, Kansa..."](/statements/statement-18c05cf22929.md)
 
-- [00:19:06](/episodes/ep-SKGUzGHymcI.md#t-00-18-47) (Claim) **Candace Owens**: ["Four days after the November 13, 2022 flight, SUBTT made another Wilmi..."](/statements/statement-ec363fed26d6.md)
+- [00:19:06](/episodes/ep-SKGUzGHymcI.md#t-00-18-39) (Claim) **Candace Owens**: ["Four days after the November 13, 2022 flight, SUBTT made another Wilmi..."](/statements/statement-ec363fed26d6.md)
 
 </details>
 

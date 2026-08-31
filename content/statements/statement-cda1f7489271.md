@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:15:50](/episodes/ep-amqTMimDr0A.md#t-00-15-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(950);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=950s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in the end, less than 24 hours before he died, Charlie (Charlie Kirk) snapped. He did abandon the pro-Israel cause. ... He was not joking in those messages, as some people have tried to say. He put his foot down and he texted multiple people and he was done and that he wanted to bring me back.
 

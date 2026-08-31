@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:43:45](/episodes/ep-xjzb_t5Tk9o.md#t-00-43-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2625);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2625s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Hamas has absolutely no control in the West Bank and this is the beginning of this street. ... Only through August, ... 37 Palestinian kids were killed. ... No music festival, ... no paragliding, ... no Hamas. Since the occupation of the West Bank, ... 7,000 Palestinians were killed.
 

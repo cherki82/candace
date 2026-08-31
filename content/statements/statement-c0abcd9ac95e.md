@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:51:41](/episodes/ep-OEAHy3SsIiI.md#t-00-51-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=3101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > according to my source, which I trust very much, the person that was on that phone that said that quote was actually Erika (Erika Kirk). ... It was a three-way phone call. ... My source says that no, the surgeon did not violate HIPAA and he never said that. But he answered Andrew Kolvet's questions because Erika (Erika Kirk) was on the phone and that the Superman quotation came from her
 

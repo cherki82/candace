@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:48:08](/episodes/ep-UYkXV9mYbT4.md#t-00-48-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2888);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=2888s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they are now asserting in conclusion that unless the materials that we are requesting have been produced to us by April 17th, 2026, and if that does happen, then we can set a hearing. ... You know, six months out. Otherwise, we want a hearing date to be completely vacated. We don't want to even talk about a hearing date right now.
 

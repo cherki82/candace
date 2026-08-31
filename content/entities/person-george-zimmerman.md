@@ -3,9 +3,17 @@ title: "George Zimmerman"
 description: "George Zimmerman (People) - 2 mentions"
 id: "person-george-zimmerman"
 type: "PERSON"
+categories:
+  - "Trayvon Martin case participant"
 ---
 
 _Type: People_
+
+**Categories:** Trayvon Martin case participant
+
+**Entity verification:** verified
+> U.S. Department of Justice materials confirm canonical name George Zimmerman in the Trayvon Martin case referenced by the source.
+Source: [Federal Officials Close Investigation Into Death of Trayvon Martin](https://www.justice.gov/archives/opa/pr/federal-officials-close-investigation-death-trayvon-martin)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-zimmerman-t-00-50-43">2025-10-28 · 00:51:08</a></strong></div>

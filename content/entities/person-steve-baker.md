@@ -3,9 +3,18 @@ title: "Steve Baker"
 description: "Steve Baker (People) - 3 mentions"
 id: "person-steve-baker"
 type: "PERSON"
+categories:
+  - "investigative journalism"
+  - "Blaze News"
 ---
 
 _Type: People_
+
+**Categories:** investigative journalism, Blaze News
+
+**Entity verification:** verified
+> Blaze Media author profile identifies Steve Baker as a Blaze News opinion contributor and investigative journalist, matching the Glenn Beck interview clip.
+Source: [Steve Baker | Blaze Media](https://www.theblaze.com/u/stevebaker)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05">2025-11-10 · 00:08:30</a></strong></div>

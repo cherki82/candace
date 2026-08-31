@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:47:15](/episodes/ep-kaWtDuoY_ns.md#t-00-46-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2835);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2835s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Laura Loomer responded, don't pray for your enemies, Benny (Benny Johnson). Pray for your enemies to be destroyed and celebrate when they struggle. ... We don't have time for compassion for evil people. Break them down and conquer them with psychological warfare until they beg for mercy.
 

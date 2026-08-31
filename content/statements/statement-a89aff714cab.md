@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:22:56](/episodes/ep-QRS_hR7NXaQ.md#t-00-22-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1376);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If you ask people at Turning Point USA, they don't know her mother, despite the fact that her mother sits on the board of companies related to Turning Point USA, despite the fact that her mother is involved with sort of the geofencing and things of that nature. What is that specific company called? super feed technologies,
 

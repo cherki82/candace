@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:02:26](/episodes/ep-9naMwS0kMBE.md#t-00-02-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(146);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=146s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the leak is still there.
 

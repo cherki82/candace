@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:19:09](/episodes/ep-AH1KVKkweUE.md#t-00-19-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1149);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=1149s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He says the battery died, but the camera had only been running for 27 minutes, and these body cameras are supposed to last around 10 hours.
 

@@ -23,13 +23,13 @@ type: "accusation"
 - [Seth Dillon](/entities/person-seth-dillon.md) (person)
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
-- [The Hamptons](/entities/gpe-the-hamptons.md) (gpe)
+- [Hamptons](/entities/gpe-hamptons.md) (gpe)
 
 ## Source
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:39:35](/episodes/ep-4YgrOhhy708.md#t-00-39-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2375);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2375s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am telling the truth. And the only reason they are lying about this in my view is because you only lie when you have something to hide. ... and it feels like motive it feels like motive they're protecting Bibi (Benjamin Netanyahu) and they're protecting this narrative because there's a motive otherwise you just say yeah i got into an argument with him kind of sucked i wish that wasn't the last time i saw him if you were an honest person and you had nothing to hide that's what you would say i'd say man i really regret that those are my last words to him life is short it was so stupid i don't even really care about his opinion on Israel anymore man i just feel terrible nope they all said this is a liar
 

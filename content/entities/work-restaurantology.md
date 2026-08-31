@@ -1,6 +1,6 @@
 ---
 title: "Restaurantology"
-description: "Restaurantology (Works & Media) - 6 mentions"
+description: "Restaurantology (Works & Media) - 7 mentions"
 id: "work-restaurantology"
 type: "WORK"
 categories:
@@ -19,8 +19,8 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-work-restaurantology-t-00-59-37">2025-10-31 · 00:59:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03">2026-07-21 · 00:12:07</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +33,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-work-restaurantology-t-00-59-37" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-work-restaurantology-t-00-13-16" style="--pulse-height:50%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-work-restaurantology-t-00-28-27" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-work-restaurantology-t-00-06-18" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-restaurantology-t-00-31-22" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
@@ -43,6 +44,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-work-restaurantology-t-00-59-37) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-work-restaurantology-t-00-13-16) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-work-restaurantology-t-00-28-27) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-restaurantology-t-00-06-18) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-work-restaurantology-t-00-31-22) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03) | 1 |
@@ -53,7 +55,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -83,10 +85,18 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 </details>
 
 <details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+
+**[00:28:45](/episodes/ep-SKGUzGHymcI.md#ent-work-restaurantology-t-00-28-27)**
+> "...him to Salt Lake City for the Restaurantology interview that he did, his last interview."
+
+</details>
+
+<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
 **[00:13:16](/episodes/ep-JQjCAsfoXEE.md#ent-work-restaurantology-t-00-13-16)**
-> "Andrew K. Smith out of nowhere does this 'Restaurantology' interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen."
+> "Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen."
 
 </details>
 

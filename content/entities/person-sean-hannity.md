@@ -5,15 +5,24 @@ id: "person-sean-hannity"
 type: "PERSON"
 aliases:
   - "Hannity"
+categories:
+  - "television host"
+  - "political media"
 ---
 
 _Type: People_
 
 **Also known as:** Hannity
 
+**Categories:** television host, political media
+
+**Entity verification:** verified
+> Fox News’ official profile confirms the canonical name Sean Hannity and identifies him as host of Hannity.
+Source: [Sean Hannity | Fox News](https://www.foxnews.com/person/h/sean-hannity)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46">2025-12-10 · 00:09:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46">2025-12-10 · 00:11:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46">2025-12-10 · 00:09:58</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46">2025-12-10 · 00:11:10</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -45,10 +54,10 @@ _Type: People_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:09:59](/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46)**
+**[00:09:58](/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46)**
 > "She's done Hannity (Sean Hannity), she's done The Five, she's done Fox and Friends..."
 
-**[00:11:30](/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46)**
+**[00:11:10](/episodes/ep-6DhWawD4ZiM.md#ent-person-sean-hannity-t-00-09-46)**
 > "She's done Hannity (Sean Hannity), she's done The Five"
 
 </details>

@@ -17,9 +17,9 @@ _Type: Places_
 Source: [Foreign Investment Guide of the People’s Republic of China: Country Overview](https://fdi.mofcom.gov.cn/EN/come-newzonghe.html?comeID=1&parentId=104)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42">2025-10-01 · 00:30:58</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-38">2025-10-01 · 00:30:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-china-t-00-44-43">2026-07-21 · 00:45:04</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
@@ -31,7 +31,8 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27">A Legal Turning Point? | Candace Ep 292</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42" style="--pulse-height:18%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-38" style="--pulse-height:9%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-china-t-00-25-38" style="--pulse-height:9%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-china-t-00-48-27" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17" style="--pulse-height:55%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 11 mentions" title="2026-01-19 · 11 mentions"><span></span></a>
@@ -52,7 +53,8 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-38) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-china-t-00-25-38) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-china-t-00-48-27) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17) | 6 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27) | 11 |
@@ -309,12 +311,17 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:30:58](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
-> "We don't want China to own TikTok."
+**[00:25:47](/episodes/ep-SKGUzGHymcI.md#ent-gpe-china-t-00-25-38)**
+> "...emic was being made mostly in China today?"
 
-**[00:31:00](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+
+**[00:30:58](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-38)**
 > "We don't want China to own TikTok."
 
 </details>

@@ -6,6 +6,11 @@ date: "2025-09"
 ---
 
 **Date:** 2025-09
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “days before he was murdered”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:11:23](/episodes/ep-mFuno0TuuQQ.md#event-event-2025-09-candace-owens-said-she-pulled-her-childr-t-00-11-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(683);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=683s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I pulled my kids out of school days before he was murdered because I sensed danger was coming.

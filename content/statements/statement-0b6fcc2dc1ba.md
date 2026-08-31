@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1814);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.
 

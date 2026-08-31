@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1048);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=1048s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > mine who happens to be a retired detective that worked for me for many years. I didn't put that out there initially. I
 

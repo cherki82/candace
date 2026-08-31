@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2166);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=2166s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped. ... My mom canceled making Nicola (Nicola Peltz)'s dress in the 11th hour despite how excited she was to wear her design, ... forcing her to urgently find a new dress.
 

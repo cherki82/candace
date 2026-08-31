@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:34:01](/episodes/ep-tXoI0TTKVrs.md#t-00-34-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2041);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2041s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when she says her friend's boat, okay. Hey, she's talking about Nathan Rothschild. Okay, it's a Rothschild. This isn't just anybody.
 

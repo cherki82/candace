@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 266 mentions"
+description: "White House (Organizations) - 267 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -19,11 +19,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57">2026-08-11 · 00:20:27</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>266</strong></div>
+<div><span>Episodes</span><strong>74</strong></div>
+<div><span>Mentions</span><strong>267</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>70</strong></div>
-<div><span>Relationships</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>72</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,22 +34,23 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-white-house-t-00-52-52" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-12" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-10" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-01-52" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-white-house-t-00-11-03" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-white-house-t-00-00-00" style="--pulse-height:10%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-white-house-t-00-51-24" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-30" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-09" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-white-house-t-00-16-45" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-white-house-t-00-07-31" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-white-house-t-00-30-43" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-43" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-35" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-white-house-t-00-08-40" style="--pulse-height:24%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 7 mentions" title="2025-12-01 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-white-house-t-00-14-43" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-white-house-t-00-24-28" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-white-house-t-00-06-27" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-54" style="--pulse-height:21%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 6 mentions" title="2025-12-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-50" style="--pulse-height:17%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 5 mentions" title="2025-12-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-white-house-t-00-36-07" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-white-house-t-00-46-00" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-06-24" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-white-house-t-00-25-39" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -112,22 +113,23 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-white-house-t-00-52-52) | 1 |
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-12) | 2 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-10) | 3 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-01-52) | 3 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-white-house-t-00-11-03) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-white-house-t-00-00-00) | 3 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-white-house-t-00-51-24) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-30) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-09) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-white-house-t-00-16-45) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-white-house-t-00-07-31) | 2 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-white-house-t-00-30-43) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-43) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-35) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-white-house-t-00-08-40) | 7 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-white-house-t-00-14-43) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-white-house-t-00-24-28) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-white-house-t-00-06-27) | 1 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-54) | 6 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-50) | 5 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-white-house-t-00-36-07) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-white-house-t-00-46-00) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-06-24) | 4 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-white-house-t-00-25-39) | 1 |
@@ -189,7 +191,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (266)</strong></summary>
+<summary><strong class="section-title">Raw mentions (267)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -1143,25 +1145,33 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (6 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:01:02](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-54)**
-> "drug enforcement agents in a park just across the street from the White House"
+**[00:36:29](/episodes/ep-9k2xrAC0H88.md#ent-org-white-house-t-00-36-07)**
+> "... other VIPs designated by the White House."
 
-**[00:06:22](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-54)**
-> "...ok the foundation of Reagan's White House."
+**[00:37:40](/episodes/ep-9k2xrAC0H88.md#ent-org-white-house-t-00-37-19)**
+> "It's when the White House or the US Air Force want to be deliberately vague..."
 
-**[00:06:34](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-06-34)**
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5 mentions)</summary>
+
+**[00:06:22](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-50)**
+> "...ok the foundation of Reagan's White House. And during that time, during Reagan's tenure, Ge..."
+
+**[00:06:29](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-06-29)**
 > "... border and declare that this White House was going to do all that it could to stop these d..."
 
 **[00:07:02](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-07-02)**
-> "...k just across the street from the White House."
+> "...st across the street from the White House."
 
-**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-19-57)**
-> "... at the Pentagon or you're at the White House."
+**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-19-39)**
+> "...the Pentagon or you're at the White House. You just don't see this many high up the food ch..."
 
-**[00:56:05](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-55-59)**
-> "...d the lack of commentary from the White House."
+**[00:56:02](/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-55-59)**
+> "...e lack of commentary from the White House."
 
 </details>
 
@@ -1226,13 +1236,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
 
-**[00:11:46](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-43)**
+**[00:11:46](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-35)**
 > "... A couple of days later, on February 24th, Charlie (Charlie Kirk) reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal ..."
 
-**[00:12:21](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-43)**
+**[00:12:21](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-12-19)**
 > "...Yeah, this is February 24th. I'm showing you guys this now. "Hey, I have something to tell you from the White House. They asked me to call you. I'm just the messenger here, but it's important." I say, "Okay, I'm aro..."
 
-**[00:12:32](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-12-26)**
+**[00:12:32](/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-12-19)**
 > "...all if you want to chat at all." And we did; we chatted. The next day, you can see he starts with, "The White House just asked for your number, FYI. I think POTUS might call you." And that's not what happened. On Fe..."
 
 </details>
@@ -1240,7 +1250,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:30:59](/episodes/ep-581dILVcEE4.md#ent-org-white-house-t-00-30-43)**
+**[00:30:56](/episodes/ep-581dILVcEE4.md#ent-org-white-house-t-00-30-43)**
 > "...evel security? Like, is this how these assassinations happen? Is that what's happening even like at the White House level with the Thomas Crooks thing? Is that what happened? Like Secret Service just called locally ..."
 
 </details>
@@ -1267,7 +1277,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[01:01:30](/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-30)**
+**[01:01:30](/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-09)**
 > "...hich would be so far-reaching that even Charlie's (Charlie Kirk's) own allies at his company and at the White House—some of them—would have had to be aware. That's the—obviously not all of them, but some of them wou..."
 
 </details>
@@ -1281,13 +1291,10 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
 **[00:14:21](/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16)**
 > "...everything—his marriage, this, that—if he didn't abstain from politics after he notoriously went to the White House in the MAGA hat. And he needed to distance from us and, of course, Blexit, and he cracked. I mean, ..."
-
-**[00:14:26](/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16)**
-> "Kanye went to the White House in the MAGA hat"
 
 </details>
 
@@ -1316,13 +1323,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
 
-**[00:02:16](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-10)**
+**[00:02:16](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-01-52)**
 > "...or the public. The venue was indeed secured in quick order, but that was because they had help from the White House, and Turning Point did not book that venue back in May, so we can formally debunk that. I was told ..."
 
-**[00:02:29](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-10)**
+**[00:02:29](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-01-52)**
 > "... Turning Point did not book that venue back in May, so we can formally debunk that. I was told that the White House stepped in and put in a personal phone call to the event coordinator. And they actually did already..."
 
-**[00:02:41](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-10)**
+**[00:02:41](/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-36)**
 > "... call to the event coordinator. And they actually did already have an event that was scheduled. And the White House simply asked those people if they would be willing to move or reschedule their event. It was appare..."
 
 </details>
@@ -1330,10 +1337,10 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:39:16](/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-12)**
+**[00:39:13](/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-12)**
 > "...n to score political points from it. In between the finger pointing, there was grieving. On Friday, the White House flew the flags at half staff, which got some criticism. But on a human level, you can see how hard ..."
 
-**[00:39:35](/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-12)**
+**[00:39:35](/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-30)**
 > "...way, right there, you see all the trucks? They've just started construction of the new ballroom for the White House, which is something they've been trying to get—as you know—for about 150 years. And it's going to b..."
 
 </details>
@@ -1342,7 +1349,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
 
 **[00:53:06](/episodes/ep-sreYYcID-QY.md#ent-org-white-house-t-00-52-52)**
-> "...t's a memorial event. That is, by the way, in large part—from what I understand—being controlled by the White House. Donald Trump (Donald Trump) is controlled by Zionists, so they're baiting me here. Why would I be ..."
+> "That is, by the way, in large part—from what I understand—being controlled by the White House."
 
 </details>
 
@@ -1358,6 +1365,18 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:56:02](/episodes/ep-t4U7NjnUEgc.md#t-00-55-59): “this French intelligence thing and the lack of commentary from the White House.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Employs (1)</summary>
@@ -1421,20 +1440,27 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:29](/episodes/ep-adJ4LNGp84I.md#t-00-02-10): “I was told that the White House stepped in and put in a personal phone call to the event coordinator.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:29](/episodes/ep-adJ4LNGp84I.md#t-00-01-52): “I was told that the White House stepped in and put in a personal phone call to the event coordinator.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:13:31](/episodes/ep-7FS1tUeSfdE.md#t-00-12-46): “There is an unnatural alliance here between Turning Point USA and the White House.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:00:22](/episodes/ep-Pb7UlpRdW6U.md#t-00-00-01): “There seems to be an unholy alliance emerging between Turning Point USA, the White House, and the military.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:56:02](/episodes/ep-t4U7NjnUEgc.md#t-00-55-59): “this French intelligence thing and the lack of commentary from the White House.”
 
 </details>
 
@@ -1469,7 +1495,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:29](/episodes/ep-adJ4LNGp84I.md#t-00-02-10): “I was told that the White House stepped in and put in a personal phone call to the event coordinator.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:29](/episodes/ep-adJ4LNGp84I.md#t-00-01-52): “I was told that the White House stepped in and put in a personal phone call to the event coordinator.”
 
 </details>
 
@@ -1486,7 +1512,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (70)</strong></summary>
+<summary><strong class="section-title">Statements about White House (72)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3)</summary>
@@ -1770,7 +1796,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2)</summary>
 
-- [00:23:09](/episodes/ep-i8m_6D4QGmk.md#t-00-22-33) (Accusation) **Candace Owens**: ["Erika Kirk's ultimate goal was the White House."](/statements/statement-a8dfd05f6af8.md)
+- [00:23:09](/episodes/ep-i8m_6D4QGmk.md#t-00-22-33) (Accusation) **Candace Owens**: ["Candace Owens said she believed Erika Kirk’s ultimate goal was the Whi..."](/statements/statement-a8dfd05f6af8.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [01:04:13](/episodes/ep-i8m_6D4QGmk.md#t-01-04-01) (Accusation) **Candace Owens**: ["The same apparatus ran the White House under Joe Biden, would have run..."](/statements/statement-554585975e83.md)
@@ -1816,18 +1842,15 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) (Claim) **Baron Coleman** (via quoted speech): ["SAM000 call signs are highly sensitive and used when the White House o..."](/statements/statement-e907c35b1863.md)
+- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-19) (Claim) **Baron Coleman** (via quoted speech): ["SAM000 call signs are highly sensitive and used when the White House o..."](/statements/statement-e907c35b1863.md)
   - Also about: [United States Air Force](/entities/org-united-states-air-force.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House nor our intel agencies nor th..."](/statements/statement-1c3fbbbdbc0f.md)
-  - Also about: [United States Pentagon](/entities/org-united-states-pentagon.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
-
-- [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the ..."](/statements/statement-532c5d81ba0d.md)
+- [00:06:39](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Owens said the Pentagon, White House, U.S. intelligence agencies, and ..."](/statements/statement-532c5d81ba0d.md)
   - Also about: [United States Pentagon](/entities/org-united-states-pentagon.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 
 </details>
@@ -1849,10 +1872,29 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2)</summary>
+
+- [00:11:46](/episodes/ep-sImMM04XdWY.md#t-00-11-35) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk told Candace Owens on February 24 that the White House ha..."](/statements/statement-f9b80fe15521.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:11:52](/episodes/ep-sImMM04XdWY.md#t-00-11-35) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk told Candace Owens that the White House's request to stop..."](/statements/statement-7a4f086a1875.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Ukraine](/entities/gpe-ukraine.md)
+
+</details>
+
+<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
 
 - [00:13:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) (Claim) **Candace Owens**: ["Fifteen pastors and NAR leaders surrounded Trump at the White House le..."](/statements/statement-ff7c6e5f2553.md)
   - Also about: [January 6th](/entities/event-january-6th.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+
+- [01:01:14](/episodes/ep-LATnak75Si0.md#t-01-01-09) (Accusation) **Candace Owens**: ["Candace Owens said that if Charlie Kirk's assassination was in fact mi..."](/statements/statement-a1dab47509ce.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

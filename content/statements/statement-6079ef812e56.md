@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:11:26](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(686);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=686s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, Corey (Corey Comperatore) had grabbed regular tickets for he and his family. They were amongst the crowd. So they were quite surprised when while waiting in a large crowd, an unknown woman asked them if they'd like to be escorted. ... To the very front, who was this woman? Surely with so many cameras reporting live from the rally, someone must have captured this moment.
 

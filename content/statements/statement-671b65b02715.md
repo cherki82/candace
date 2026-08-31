@@ -33,7 +33,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1997);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1997s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But from there It kind of grew into something more global. I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army and then was able to work with a orphanage in Romania.
 

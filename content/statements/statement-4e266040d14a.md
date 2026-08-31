@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1618);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1618s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.
 

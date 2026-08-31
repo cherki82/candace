@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:35:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2157);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=2157s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > With this in mind, and with a nod to my friend Charlie (Charlie Kirk), Catholics for Catholics is honored to announce that Candace Owens will be joining us as one of the keynote speakers at our National Catholic Prayer for America Gala in Washington, D.C. on March 19th.
 

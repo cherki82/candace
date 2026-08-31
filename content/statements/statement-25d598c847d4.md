@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:22:48](/episodes/ep-sKuYLNx3iRo.md#t-00-22-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1368);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=1368s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It looks like someone who was sitting in the back seat wiped onto the leather seats, okay? That's got to be Frank Turek. Do we agree that Brian Harpole didn't jump over to the seat to wipe his hand that Rick Cutler couldn't have because he's 100 miles per hour? ... Most likely that's Frank Turek who was sitting in the back seat?
 

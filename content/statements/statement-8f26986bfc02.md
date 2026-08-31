@@ -29,7 +29,7 @@ type: "prediction"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:22:21](/episodes/ep-i8m_6D4QGmk.md#t-00-22-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we don't really ever know what the outcome is going to be. I definitely thought maybe there would be a Vance Kirk ticket. Maybe there still will be a Vance Kirk ticket.
 

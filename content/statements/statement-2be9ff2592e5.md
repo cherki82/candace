@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(158);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica (Erika Kirk) was 25 years old and she was in a relationship with a basketball player named Joshua Harrelson. ... So at the time he was living in Michigan and Erica (Erika Kirk) moved out there to be with him.
 

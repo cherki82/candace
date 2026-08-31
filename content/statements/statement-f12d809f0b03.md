@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:14:05](/episodes/ep-DYD_QHMPwqM.md#t-00-13-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(845);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=845s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So this brings me back to a 23andMe. If you follow that train of thought that they are actually doing things from a religious angle, a demonic angle, but they're presenting it as a science, what was this mass campaign to effectively collect everybody on Earth's DNA by saying, oh, look, we're going to help you with your ancestry.
 

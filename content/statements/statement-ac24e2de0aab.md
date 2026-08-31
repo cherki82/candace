@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:12:14](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4334);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=4334s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I would say this, it has turned into a genocide.
 

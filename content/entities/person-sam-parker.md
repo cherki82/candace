@@ -16,7 +16,7 @@ _Type: People_
 Source: [Sam Parker (@BasedSamParker) / X](https://x.com/BasedSamParker)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35">2025-10-08 · 00:07:50</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35">2025-10-08 · 00:07:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41">2026-06-17 · 00:15:00</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -28,14 +28,14 @@ Source: [Sam Parker (@BasedSamParker) / X](https://x.com/BasedSamParker)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35">Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-person-sam-parker-t-00-07-38" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-sam-parker-t-00-07-38" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-17-12" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41" style="--pulse-height:100%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,8 +43,8 @@ Source: [Sam Parker (@BasedSamParker) / X](https://x.com/BasedSamParker)
 |---|---|---:|
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-sam-parker-t-00-07-38) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02) | 2 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-17-12) | 1 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41) | 1 |
 
@@ -75,16 +75,13 @@ Source: [Sam Parker (@BasedSamParker) / X](https://x.com/BasedSamParker)
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
-**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56)**
-> "...omes from. July 18th is our next date on our timeline. And this came from—this is a great find from Sam Parker— that is when Turning Point USA receives a request from UVU for Charlie (Charlie Kirk) to hold an e..."
+**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-17-12)**
+> "And this came from—this is a great find from Sam Parker— that is when Turning Point USA receives a request from UVU for Charlie Kirk to hold an event at Utah Valley."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:37:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02)**
-> "James Lee, Ian Carroll, Sam Parker discovered video"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
 **[00:40:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02)**
 > "...e who had pulled this out—who had discovered this over the weekend. So like James Lee, Ian Carroll, Sam Parker. And here is what Andrew Kolvet had to say. (Andrew Kolvet speaking) He's going to tell us that Mik..."
@@ -102,7 +99,7 @@ Source: [Sam Parker (@BasedSamParker) / X](https://x.com/BasedSamParker)
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
-**[00:07:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35)**
+**[00:07:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35)**
 > "...ember. Yashar Ali wrote this: "Last night, Candace (Candace Owens) quote-tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie (Charlie Kirk)'s, elev..."
 
 </details>

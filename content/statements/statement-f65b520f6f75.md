@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:02:39](/episodes/ep-1IY2oD-_xVA.md#t-00-02-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(159);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=159s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he even created his own religion around it, religion of Thelema, Black magic. There are so many stories out there regarding Aleister Crowley attempting to summon various demons in France. He tried to summon Pan, I think, in Paris.
 

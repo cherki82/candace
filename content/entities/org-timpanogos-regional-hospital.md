@@ -27,7 +27,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>33</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,11 +36,11 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <p>Highest activity: <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-22-35">An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11" style="--pulse-height:50%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11" style="--pulse-height:25%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-timpanogos-regional-hospital-t-00-02-01" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28" style="--pulse-height:75%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59" style="--pulse-height:25%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-33" style="--pulse-height:75%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-07-57" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-55" style="--pulse-height:25%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#t-00-56-25" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
@@ -63,11 +63,11 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-timpanogos-regional-hospital-t-00-02-01) | 2 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28) | 3 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09) | 1 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-33) | 3 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-07-57) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-55) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25) | 2 |
@@ -242,7 +242,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[00:07:29](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59)**
+**[00:07:26](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-55)**
 > "... transported to Timpanogos or Timpanogos Hospital was not impounded by law enforcement."
 
 </details>
@@ -250,7 +250,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:08:33](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09)**
+**[00:08:33](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-07-57)**
 > "...now I keep saying this wrong, Timpanogos Hospital."
 
 </details>
@@ -258,10 +258,10 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
 
-**[00:29:43](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28)**
-> "why Charlie had a medical file at Utah Valley Hospital despite the fact that he went to Timpanogos"
+**[00:29:43](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-33)**
+> "I think you guys have emailed me and said that I'm pronouncing that wrong. I'm just gonna rock with Timpanogos."
 
-**[00:30:04](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28)**
+**[00:29:59](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-33)**
 > "...althcare system. We can now confirm that those two hospitals do not. They do not share information. Timpanogos Hospital is owned by HCA, which uses a charting system called VDI. Utah Valley Hospital is owned by IHC, and..."
 
 **[00:30:27](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-30-12)**
@@ -281,13 +281,10 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:31:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
-> "Charlie was not at Timpanogos Hospital"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
 **[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
-> "...oing these episodes—we had received a flurry of tips from people telling us that Charlie was not at Timpanogos Hospital but was at UVU Hospital. And I was like—remember there was this whole thing like, "Why did they go ..."
+> "But on September 10th thereafter—as you've been doing these episodes—we had received a flurry of tips from people telling us that Charlie (Charlie Kirk) was not at Timpanogos Hospital but was at UVU Hospital."
 
 </details>
 
@@ -308,9 +305,10 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <summary>Employs (1)</summary>
 
 - **[Lee Trotter](/entities/person-lee-trotter.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): “Charlie gets transported to...Timpanogos Hospital. He's raced into surgery.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-07-57): “Charlie (Charlie Kirk) gets transported to, I know I keep saying this wrong, Timpanogos Hospital. He's raced into surgery.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:06:20](/episodes/ep-9k2xrAC0H88.md#t-00-06-10): “Rather, What I was told is that what the surgeon communicated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true that the surgeon, Dr. Lee Trotter, hunts, so he does have experience with bullets.”
 
 </details>
 
@@ -344,7 +342,19 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Owned By (1)</summary>
+
+- **[HCA Healthcare](/entities/org-hca-healthcare.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:29:59](/episodes/ep-MUA9ebCF4Ow.md#t-00-29-33): “Timpanogos Hospital is owned by HCA, which uses a charting system called VDI.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -363,10 +373,18 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 </details>
 
-- **[Lee Trotter](/entities/person-lee-trotter.md)** works for this
+- **[HCA Healthcare](/entities/org-hca-healthcare.md)** owns this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): “Charlie gets transported to...Timpanogos Hospital. He's raced into surgery.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:29:59](/episodes/ep-MUA9ebCF4Ow.md#t-00-29-33): “Timpanogos Hospital is owned by HCA, which uses a charting system called VDI.”
+
+</details>
+
+- **[Lee Trotter](/entities/person-lee-trotter.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-07-57): “Charlie (Charlie Kirk) gets transported to, I know I keep saying this wrong, Timpanogos Hospital. He's raced into surgery.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:06:20](/episodes/ep-9k2xrAC0H88.md#t-00-06-10): “Rather, What I was told is that what the surgeon communicated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true that the surgeon, Dr. Lee Trotter, hunts, so he does have experience with bullets.”
 
 </details>
 
@@ -504,7 +522,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospit..."](/statements/statement-109d55c23422.md)
+- [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55) (Claim) **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospit..."](/statements/statement-109d55c23422.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -512,7 +530,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) (Accusation) **Candace Owens**: ["Federal officers went to the hospital to cover everything up, includin..."](/statements/statement-2747035a17bf.md)
+- [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-32-08) (Accusation) **Candace Owens**: ["Federal officers went to the hospital to cover everything up, includin..."](/statements/statement-2747035a17bf.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
 </details>

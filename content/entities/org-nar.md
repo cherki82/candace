@@ -26,7 +26,7 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -144,7 +144,7 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 > "He is kind of the NAR push."
 
 **[00:24:51](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nar-t-00-24-39)**
-> "...rlie—Charlie was meeting with NAR, and NAR were the $25 million and above donors in..."
+> "For Charlie (Charlie Kirk)—Charlie (Charlie Kirk) was meeting with NAR, and NAR were the $25 million and above donors in—from the Christian right. The Ziklag was the name of the organization.""
 
 </details>
 
@@ -153,7 +153,29 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Met With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39): “For Charlie (Charlie Kirk)—Charlie (Charlie Kirk) was meeting with NAR, and NAR were the $25 million and above donors in—from the Christian right.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39): “For Charlie (Charlie Kirk)—Charlie (Charlie Kirk) was meeting with NAR, and NAR were the $25 million and above donors in—from the Christian right.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:18:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-18-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1129);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=1129s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > get in touch with him. The name of that individual is former deputy Mike Mitchell, okay? Deputy Mike Mitchell. Now, oddly, despite a
 

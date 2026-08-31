@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:20:19](/episodes/ep-h76ZN-xXC6c.md#t-00-20-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1219);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1219s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But it would have decapitated Charlie (Charlie Kirk) effectively.
 

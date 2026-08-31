@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(715);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=715s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So two SUVs were rented by Mikey (Michael McCoy) in Salt Lake City and Blake Neff and Danny (Danny Philip) got into one SUV they don't remember. ... remember or Blake Neff, I shouldn't speak for Danny (Danny Philip). Blake Neff doesn't remember where they went in Salt Lake City. ... Charlie (Charlie Kirk) went to the restaurantology event. He had Mikey (Michael McCoy) and Nate Walker with him. And then they all went to Provo for this event.
 

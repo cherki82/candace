@@ -3,9 +3,17 @@ title: "Mark Twain"
 description: "Mark Twain (People) - 1 mention"
 id: "person-mark-twain"
 type: "PERSON"
+categories:
+  - "American author"
 ---
 
 _Type: People_
+
+**Categories:** American author
+
+**Entity verification:** verified
+> Encyclopaedia Britannica confirms Mark Twain as the canonical public name of the American author.
+Source: [Mark Twain | Biography & Facts | Britannica](https://www.britannica.com/biography/Mark-Twain)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-mark-twain-t-00-54-14">2025-11-13 · 00:54:17</a></strong></div>

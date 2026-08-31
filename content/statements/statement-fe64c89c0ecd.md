@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:22:01](/episodes/ep-FFQ9675oqRI.md#t-00-22-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1321);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=1321s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The money given to congressmen from AIPAC to get them to prioritize Israeli interests over Americans, America's sons and daughters, never ending wars.
 

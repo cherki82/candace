@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:18:12](/episodes/ep-3QJqtW_NOSI.md#t-00-17-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1092);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1092s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And if you also guessed that they were caught, I don't know, Candace, human sex trafficking. Plus accused of forced child prostitution and rape ... Kathryn Bolkovac, a DynCorp investigator in Bosnia, discovered that several DynCorp employees were involved in purchasing underaged women and facilitating sex trafficking. ... Another employee, Ben Johnston, filed similar reports. Both were then fired by the company
 

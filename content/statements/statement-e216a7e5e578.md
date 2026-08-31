@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:03:34](/episodes/ep-hWTdXHGQ8R4.md#t-00-03-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(214);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=214s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, this is the morning of September 8th. Just to put that in your mind really quickly, here is that wedding photo behind him, which you can see, and I also think that that's available on both of their Instagram accounts. Okay.
 

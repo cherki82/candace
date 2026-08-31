@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:39:20](/episodes/ep-SKNJPul29zU.md#t-00-39-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And on my mom's side, they fled to Palestine. OK, so my grandmother's birth certificate said Haifa, Palestine. And so I started doing some research into that because she was born in 1937 in Haifa. In 1947, a year before the Nakba happened, basically the Soviet Union was sending ships to what is now Israel to take Armenians back to the homeland because.
 

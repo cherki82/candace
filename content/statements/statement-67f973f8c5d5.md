@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(66);return false;">Play</a>
+**Timestamp:** [00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-36) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=66s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She produced video evidence of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July.
 

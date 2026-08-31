@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:12:11](/episodes/ep-eLgD5yUVbko.md#t-00-12-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(731);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=731s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had another two donors reach out to me who were present at this Aspen event and they were shocked. ... And they said unequivocally, that did not happen. Charlie never uttered those words.
 

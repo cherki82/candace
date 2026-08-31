@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:44:31](/episodes/ep-7ERqbYElOfs.md#t-00-44-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2671);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=2671s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in various countries around the world um and he lied about where he was and so tmz caught him he said he only went and stopped by then he was there for three days i just want to say lindsey graham in general is disgusting i don't want him anywhere um near children i don't know what is in his blackmail his blackmail file uh but with the way that he speaks and performs look at him holding like a bubble toy he's just a creep everything about this man gives me the ick
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:13:56](/episodes/ep-WoXd4oLwd3w.md#t-00-13-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(836);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=836s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And if the same people were involved in both. which I think there is an indication I think many of us suspect that the same people are could be involved in both and you could see how easily that might keep Trump (Donald Trump) in line because I think Trump (Donald Trump) is very vain and even though he is old he is not trying to be a hero and his option is we'll keep you alive and we'll make you So rich and your family so rich and you'll have land and you'll have your name on buildings forever.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:06:44](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4004);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4004s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tim Poole is lying through his teeth. He did not receive updates from somebody in that car about Charlie (Charlie Kirk)'s status.
 

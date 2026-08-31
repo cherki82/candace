@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:16:53](/episodes/ep-19vHhjF7-NA.md#t-00-16-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1013);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=1013s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Admiral Cooper and the team here at CENTCOM have done a phenomenal job from the beginning on Epic Fury and through this blockade, ensuring that we have a chance to reach that end state, which is: Iran will never have a nuclear weapon, which they say they don't want.
 

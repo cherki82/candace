@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) married to [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (2 mentions)
+### Evidence (4 mentions)
 
 **[The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI)**
 
@@ -20,6 +20,14 @@ object: "person-erika-kirk"
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 
 - [00:42:08](/episodes/ep-a2bZf4fic10#t-00-42-08): _So my phone was on, and Erika (Erika Kirk), my wife, was like, 'Yeah, I think God wants you to have your phone on today.'_
+
+**[Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8)**
+
+- [00:09:49](/episodes/ep-aDlhjfW6hz8#t-00-09-49): _he wants to spare his wife from having to experience that, Erika (Erika Kirk)._
+
+**[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
+
+- [00:59:38](/episodes/ep-czVBmqZP6Ss#t-00-59-38): _that she let me know she is Charlie’s wife, Erika._
 
 ### Related
 

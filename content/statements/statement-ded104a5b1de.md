@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:01:17](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(77);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=77s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Look, Charlie (Charlie Kirk) was threatened. He was threatened a lot, I would say threatened financially. And I want to be clear, it wasn't just by Jewish donors, but also by Christian Zionist donors.
 

@@ -19,7 +19,7 @@ object: "person-tyler-bowyer"
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:13:35](/episodes/ep-a-e7HC6SeK8#t-00-13-35): _...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago._
+- [00:13:35](/episodes/ep-a-e7HC6SeK8#t-00-13-35): _maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago._
 
 ### Related
 

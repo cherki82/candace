@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:43:30](/episodes/ep-5NQyGuRYbU8.md#t-00-43-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2610);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2610s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it was because she wasn't to Charlie (Charlie Kirk). She lied to her husband about her viewpoints. That's why.
 

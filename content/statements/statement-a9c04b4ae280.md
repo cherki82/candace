@@ -24,29 +24,11 @@ veracity: "true"
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (3)
-
-### 1. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
-
-**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(508);return false;">Play</a>
-
-> we know that Charlie (Charlie Kirk) gets shot at 12:23 p.m., so they're now telling us that he was on that roof since 12:15 p.m., so he's setting up that shot, we can assume, for about eight minutes, okay?
-
-### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:07:33](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(453);return false;">Play</a>
-
-> And on the timeline, Skylar, if you wanna pull that up so we can go through it—what time Charlie (Charlie Kirk) gets shot? At 12:23 p.m.?
-
-### 3. They Are Lying About Charlie Kirk. | Candace Ep 235
+## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:42:50](/episodes/ep-czVBmqZP6Ss.md#t-00-42-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2570);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2570s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But at 12:23 p.m. is when Charlie is shot.
 

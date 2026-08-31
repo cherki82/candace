@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:45:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-44-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2731);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=2731s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte. That's a fact, actually.
 

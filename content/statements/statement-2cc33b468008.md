@@ -27,8 +27,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:46:54](/episodes/ep-581dILVcEE4.md#t-00-46-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2814);return false;">Play</a>
+**Timestamp:** [00:46:54](/episodes/ep-581dILVcEE4.md#t-00-46-45) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=2814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I told you about a woman who yelled and took away a million dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick.
 

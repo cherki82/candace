@@ -1,31 +1,34 @@
 ---
-title: "There is a call on the police scanner after Charlie got shot..."
-description: "\"There is a call on the police scanner after Charlie got shot, saying they were looking for someone wearing jeans, a black shirt, a black mask, and a b...\" — Candace Owens"
+title: "Owens asked why the public never heard the police-scanner su..."
+description: "\"Owens asked why the public never heard the police-scanner suspect description if authorities had only one eyewitness account\" — Candace Owens"
 statement_id: "statement-42d67635fdb7"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> There is a call on the police scanner after Charlie got shot, saying they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest, carrying a long rifle.
+> Owens asked why the public never heard the police-scanner suspect description if authorities had only one eyewitness account
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:58:35](/episodes/ep-UBkFkg4UNY8.md#t-00-58-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3515);return false;">Play</a>
+**Timestamp:** [00:58:33](/episodes/ep-UBkFkg4UNY8.md#t-00-58-02) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=3513s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> MC writes, "There is a call on the police scanner after Charlie (Charlie Kirk) got shot, saying they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest, carrying a long rifle." I heard that
+> But that is true, which is why we naturally have to ask the question: why did the public never hear that description if you only had one eyewitness testimony as to what that person was wearing?
 
 ## Verification
 
@@ -33,4 +36,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

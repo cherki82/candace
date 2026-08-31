@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1593);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which was an Uber ride. ... What was told to me was that a Turning Point executive got into an Uber one day and they randomly just kind of started talking about Turning Point and the executive asked the driver, ... And the Uber driver allegedly said Aubrey (Aubrey Laitsch), Aubrey (Aubrey Laitsch) who? ... Aubrey Laitsch. ... And the story was presented to me as one of the reasons for my termination.
 

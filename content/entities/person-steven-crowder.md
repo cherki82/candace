@@ -122,7 +122,7 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:12:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00)**
-> "... Jeremy Boring, which somehow Steven Crowder got a hold of this week or last week or whatever."
+> "And here is a video of the then CEO Jeremy Boreing, which somehow Steven Crowder got a hold of this week or last week or whatever."
 
 </details>
 
@@ -159,10 +159,10 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <details>
 <summary>Criticized (1)</summary>
 
-- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+- **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Steven Crowder got a hold of this week or last week or whatever”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:09:18](/episodes/ep-JQjCAsfoXEE.md#t-00-09-18): “Well, let me first be tactful here and tell you that outrageous claims—and this is an outrageous claim—require outrageous evidence. Of course, as is par for the course, none has been presented.”
 
 </details>
 
@@ -172,11 +172,12 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11): “I think he knew he was ... Stop shoveling out Fed slop.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:13:47](/episodes/ep-E7P2ShoYDUA.md#t-00-13-20): “If you don't know who Steven Crowder is, he's basically a child actor who never stopped being a child actor.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:00:27](/episodes/ep-4JxgOclKzqg.md#t-00-00-27): “Misdemeanor offense, they ran afoul of CO code 92784 colluding with debate bro slobs to attack me, violating my personal space, ignoring the rules, having the permanent creep Stephen Crowder sneak his CEO into my home to join Stephen's show from my children's playroom without my consent, without my knowledge.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:04:51](/episodes/ep-JQjCAsfoXEE.md#t-00-04-16): “Same thing, by the way, I should mention with Steven Crowder. I have never been a fan. He just always gave me the energy of a pathological liar.”
 
 </details>
 
@@ -186,18 +187,19 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11): “I think he knew he was ... Stop shoveling out Fed slop.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:13:47](/episodes/ep-E7P2ShoYDUA.md#t-00-13-20): “If you don't know who Steven Crowder is, he's basically a child actor who never stopped being a child actor.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:00:27](/episodes/ep-4JxgOclKzqg.md#t-00-00-27): “Misdemeanor offense, they ran afoul of CO code 92784 colluding with debate bro slobs to attack me, violating my personal space, ignoring the rules, having the permanent creep Stephen Crowder sneak his CEO into my home to join Stephen's show from my children's playroom without my consent, without my knowledge.”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:04:51](/episodes/ep-JQjCAsfoXEE.md#t-00-04-16): “Same thing, by the way, I should mention with Steven Crowder. I have never been a fan. He just always gave me the energy of a pathological liar.”
 
 </details>
 
-- **[The Daily Wire](/entities/org-the-daily-wire.md)** criticized by this
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Steven Crowder got a hold of this week or last week or whatever”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:09:18](/episodes/ep-JQjCAsfoXEE.md#t-00-09-18): “Well, let me first be tactful here and tell you that outrageous claims—and this is an outrageous claim—require outrageous evidence. Of course, as is par for the course, none has been presented.”
 
 </details>
 

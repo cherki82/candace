@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:38:57](/episodes/ep-cZxHqYsWRYg.md#t-00-38-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2337);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2337s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she says she played basketball for two years and she's going to note in a future alumni packet of Notre Dame that she was indeed playing basketball at Regis University for two years but I I could not confirm that. ... And interestingly enough, Regis University still has her basketball stat page up and they're on my side. They say they only have a record of her playing for from 2007 to 2008.
 

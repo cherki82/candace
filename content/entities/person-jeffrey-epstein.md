@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 482 mentions"
+description: "Jeffrey Epstein (People) - 478 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-jeffrey-epstein-t-00-46-32">2026-08-11 · 00:46:32</a></strong></div>
-<div><span>Episodes</span><strong>93</strong></div>
-<div><span>Mentions</span><strong>482</strong></div>
+<div><span>Episodes</span><strong>94</strong></div>
+<div><span>Mentions</span><strong>478</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>116</strong></div>
+<div><span>Statements about</span><strong>117</strong></div>
 <div><span>Relationships</span><strong>50</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,30 +37,31 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54" style="--pulse-height:37%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 11 mentions" title="2025-09-15 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51" style="--pulse-height:17%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-22" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-43" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-jeffrey-epstein-t-00-17-52" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-59" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-57" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jeffrey-epstein-t-00-00-55" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-47" style="--pulse-height:10%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-37-55" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-33" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-38-18" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-jeffrey-epstein-t-00-17-39" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 6 mentions" title="2025-10-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jeffrey-epstein-t-00-31-52" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17" style="--pulse-height:10%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-27" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-21" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-jeffrey-epstein-t-00-10-53" style="--pulse-height:10%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-59" style="--pulse-height:13%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-54" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27" style="--pulse-height:30%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 9 mentions" title="2025-11-13 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48" style="--pulse-height:13%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-jeffrey-epstein-t-00-45-45" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 3 mentions" title="2025-11-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-46-00" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-37-20" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-11" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-02" style="--pulse-height:13%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-jeffrey-epstein-t-00-49-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-jeffrey-epstein-t-00-11-12" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-jeffrey-epstein-t-00-44-57" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-jeffrey-epstein-t-00-34-25" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55" style="--pulse-height:30%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 9 mentions" title="2025-12-08 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-jeffrey-epstein-t-00-05-50" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-44" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jeffrey-epstein-t-00-21-09" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-15" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
@@ -135,30 +136,31 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54) | 11 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51) | 5 |
-| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-22) | 2 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-43) | 2 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-jeffrey-epstein-t-00-17-52) | 1 |
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-59) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-57) | 1 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jeffrey-epstein-t-00-00-55) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-47) | 3 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-37-55) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-33) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-38-18) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-jeffrey-epstein-t-00-17-39) | 6 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-jeffrey-epstein-t-00-31-52) | 2 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17) | 3 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-27) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-21) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-jeffrey-epstein-t-00-10-53) | 3 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-59) | 4 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-54) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27) | 9 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48) | 4 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-jeffrey-epstein-t-00-45-45) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48) | 3 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-46-00) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-37-20) | 2 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-11) | 6 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-02) | 4 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-jeffrey-epstein-t-00-49-28) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-jeffrey-epstein-t-00-11-12) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-jeffrey-epstein-t-00-44-57) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-jeffrey-epstein-t-00-34-25) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55) | 9 |
-| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08) | 2 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-jeffrey-epstein-t-00-05-50) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-44) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jeffrey-epstein-t-00-21-09) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-15) | 3 |
@@ -233,7 +235,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (482)</strong></summary>
+<summary><strong class="section-title">Raw mentions (478)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3 mentions)</summary>
@@ -1761,19 +1763,24 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
+**[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-44)**
 > "you're supposed to pretend that you're this super financial guru like Jeffrey Epstein"
 
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
-
-**[00:06:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
-> "the hand of Midas pulling her through the ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))"
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
 
 **[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
-> "...ough the ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))."
+> "the hand of Midas pulling her through the ranks, a la Jeffrey (Jeffrey Epstein)."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:06:15](/episodes/ep-t4U7NjnUEgc.md#ent-person-jeffrey-epstein-t-00-05-50)**
+> "...if you guys have followed our Epstein series, we now know that he was also involved in ..."
 
 </details>
 
@@ -1781,30 +1788,30 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9 mentions)</summary>
 
 **[00:25:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55)**
-> "Epstein files discussion as central pillar of Trump voter expectations"
+> "Jeffrey Epstein, as Bannon (Steve Bannon) has said, and who would know better than him, it turns out."
 
 **[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-01)**
 > "...eve Bannon) who consulted for Epstein?"
 
-**[00:26:09](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-03)**
+**[00:26:09](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-07)**
 > "He said that Epstein was the key that picks the lock, right?"
 
-**[00:26:20](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-03)**
-> "Epstein was one of the central ideological planks of Marg..."
+**[00:26:20](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-07)**
+> "Epstein was one of the central ideological planks of MAGA teleology."
 
-**[00:26:32](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-03)**
+**[00:26:32](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-07)**
 > "Jeffrey Epstein was considered by everybody who voted for Donald ..."
 
-**[00:26:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-45)**
+**[00:26:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-07)**
 > "...t want and did not expect the Epstein files to be released immediately."
 
-**[00:27:11](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-53)**
+**[00:27:11](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-27-05)**
 > "The secret, elite, collusion, Epstein."
 
-**[00:27:19](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-53)**
+**[00:27:19](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-27-05)**
 > "..., who did not want to see the Epstein files."
 
-**[00:27:27](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-53)**
+**[00:27:27](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-27-05)**
 > "But when he said there's no Epstein files and then"
 
 </details>
@@ -1845,24 +1852,18 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
 
-**[00:13:25](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-11)**
+**[00:13:25](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-02)**
 > "...ement, right? Tucker (Tucker Carlson), he tells Tucker (Tucker Carlson) to go max: call out Israel, Jeffrey Epstein, just go max. And guess what? Tucker (Tucker Carlson) really did go max. I want to actually play fo..."
-
-**[00:14:07](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-14-01)**
-> "...Tucker Carlson) The unfairness of it drives you crazy. And it's particularly galling in the case of Jeffrey Epstein and the whole constellation of people around Jeffrey Epstein, all of whom seem to be getting away w..."
 
 **[00:15:01](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-14-43)**
 > "...ust because you're willing to do anything? I don't know why we have to pretend that's good. How did Epstein get four Gulfstreams? How did he get an island, a massive ranch in New Mexico, the biggest house in..."
 
-**[00:22:25](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-22-25)**
+**[00:22:25](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-22-16)**
 > "...names is a whole other story, but people at the state level print IDs, right? Of course, obviously, Jeffrey Epstein had a Saudi Arabian—totally different identification—multiple passports and different names. I am v..."
 
-**[00:50:35](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-50-01)**
-> "...son about our faith that we could somehow fix it in this system. All of it's happening at once. The Epstein files, the sort of collapse of Hollywood, the stories that we are learning and watching the elites ..."
-
-**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-50-01)**
+**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-50-19)**
 > "...the sort of collapse of Hollywood, the stories that we are learning and watching the elites protect Jeffrey Epstein—his victims speaking out and saying presidents—Republican and Democrat—and all of them worked to co..."
 
 </details>
@@ -1873,32 +1874,29 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 **[00:37:54](/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-37-20)**
 > "...mpromise assets. This is how we gather information. This is how we keep America safe. It's like the Jeffrey Epstein files. They're out there saying, it would really compromise national security if we told you. Yeah,..."
 
-**[00:38:28](/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-38-01)**
-> "...s what that means. That's what that language means. That's why there's been so much protection over Jeffrey Epstein because that is who rules over us. These people are disgusting. Yeah, there's just been so much pro..."
+**[00:38:27](/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-37-59)**
+> "That's what that means. That's what that language means. That's why there's been so much protection over Jeffrey Epstein because that is who rules over us."
 
 </details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:46:00](/episodes/ep-581dILVcEE4.md#ent-person-jeffrey-epstein-t-00-45-45)**
+**[00:46:00](/episodes/ep-581dILVcEE4.md#t-00-46-00)**
 > "...x I mean just said like basic American principles—like we shouldn't be worshipping Israel, that the Epstein files should be released, and that obviously our relationship is not America-first with Israel—and ..."
 
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
 
-**[00:02:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48)**
+**[00:02:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48)**
 > "...heir strategies. And effectively, he had been MKUltra'd, right? By putting on that psych 5150 hold. Jeffrey Epstein. I did a mini-series on Jeffrey Epstein. We spoke about the blackmail. We spoke about the trafficki..."
-
-**[00:02:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48)**
-> "... been MKUltra'd, right? By putting on that psych 5150 hold. Jeffrey Epstein. I did a mini-series on Jeffrey Epstein. We spoke about the blackmail. We spoke about the trafficking through big companies because nobody ..."
 
 **[00:15:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-15-24)**
 > "... have many ties there." "I've also heard that Lou has connections and ties to Ghislaine Maxwell and Epstein, et cetera." I'm going to say all of this is alleged—obviously this is an email tip. I cannot—I hav..."
 
-**[00:15:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-15-24)**
+**[00:15:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-15-24)**
 > "... some of the dots—and they told me at the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair. Britney Spears lives in Thousand Oaks, California—as does Justin Bieber. I ..."
 
 </details>
@@ -1936,18 +1934,15 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
 
-**[00:09:28](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-59)**
+**[00:09:28](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-54)**
 > "... stage and to go after Israel, trying to drag us into the Iran war." And I was talking to him about Jeffrey Epstein, and I was saying to Charlie (Charlie Kirk), "I won't do it." And Charlie (Charlie Kirk) wanted me ..."
 
-**[00:10:36](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-10-24)**
+**[00:10:31](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-10-24)**
 > "...k about that. I'm not going to torture you. I know your donors hate this when I say that." And also Epstein was in the news, and it was clear to me that you know, Epstein's probably not like a Mossad agent o..."
 
-**[00:10:40](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-10-24)**
-> "...hate this when I say that." And also Epstein was in the news, and it was clear to me that you know, Epstein's probably not like a Mossad agent or something, but Epstein clearly had contact with Israeli intel..."
-
-**[00:45:05](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-45-05)**
+**[00:45:05](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-10-24)**
 > "...important questions of our time. I want to know who killed Charlie (Charlie Kirk) and what's in the Epstein files. I think the same people are behind all of the greatest problems in the last 100 years. It's ..."
 
 </details>
@@ -1969,10 +1964,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-27)**
-> "... interviewed Nick Fuentes—but when Donald (Donald Trump) Trump looked at us in our faces and said, "Epstein who?" That's when it was game over because Israel-first is a cancer cell. It is a cancer cell, left..."
+**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-21)**
+> "MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald Trump looked at us in our faces and said, "Epstein who?""
 
-**[00:55:05](/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-54-30)**
+**[00:55:01](/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-55-01)**
 > "...oment for me—that we had been completely occupied—was when he said, "Why are we still talking about Jeffrey Epstein?" A story was released later that he was protecting some of his donors—and that's the problem. You ..."
 
 </details>
@@ -1980,13 +1975,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3 mentions)</summary>
 
-**[00:22:59](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17)**
+**[00:22:56](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17)**
 > "...he public. Why? Because they're the most transparent administration ever? Is that why? Is this like Jeffrey Epstein transparency that we're getting? Because that's what it feels like. It always seems that on the top..."
 
-**[00:30:39](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-30-11)**
+**[00:30:37](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17)**
 > "...o stop. We're going to be the most transparent administration that you've ever seen—except on those Epstein files. Yeah, I know he was like abusing children, but what Epstein files are we even talking about?..."
 
-**[00:30:45](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-30-11)**
+**[00:30:45](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17)**
 > "...you've ever seen—except on those Epstein files. Yeah, I know he was like abusing children, but what Epstein files are we even talking about? No. No, thank you. No. Nope. Goodbye. Not doing it anymore. You're..."
 
 </details>
@@ -2028,22 +2023,19 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
 
-**[00:38:35](/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-37-55)**
-> "...r Kash Patel to answer. Hey, Kash Patel (Kash Patel), most transparent ever except when it comes to Epstein. What's up with this plane? Certainly, you have knowledge of who contracted this plane. The answer...."
+**[00:38:35](/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-38-18)**
+> "Hey, Kash Patel, most transparent ever except when it comes to Epstein."
 
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:35:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-47)**
+**[00:35:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-33)**
 > "... Anyways, further to that point I had done—and if you have not watched it, you should jump into the Epstein series that we paused because this happened—where we talked about the hand of Midas making these pe..."
 
-**[00:36:14](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-47)**
+**[00:36:14](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-36-14)**
 > "...You're willing to lie, cheat, steal, and kill actually to get whatever it is that you want. And the Jeffrey Epstein story has all of those elements, right? And our government, I think actually it was the day that Ch..."
-
-**[00:36:24](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-47)**
-> "...day that Charlie (Charlie Kirk) was killed, quietly voted, “We're not going to actually release any Epstein files.” Wow, how do they maneuver that? Well, Marjorie Taylor Greene has been very loud about how s..."
 
 </details>
 
@@ -2058,7 +2050,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
-**[00:10:29](/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-59)**
+**[00:10:22](/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-57)**
 > "...eds? Certainly Charlie (Charlie Kirk) didn't. He didn't believe we were getting the truth about the Epstein files and things of that nature. So I don't accept that. That said, I also want to be clear that it..."
 
 </details>
@@ -2074,10 +2066,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:02:45](/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-22)**
+**[00:02:43](/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-43)**
 > "...t have to stop thinking. You gotta get to that point where you're like, "Are we still talking about Jeffrey Epstein?" No. To be fair, now we are more broadly considering how stupid the feds believe that we are. And ..."
 
-**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-18-10)**
+**[00:18:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-18-10)**
 > "...nce is that exclusively our guys—our resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)—it's always the New York Post, okay? I vi..."
 
 </details>
@@ -2085,19 +2077,19 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
 
-**[00:05:16](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51)**
+**[00:05:10](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51)**
 > "...tell you about George Zinn? What that signals to me about George Zinn is that I've read a lot about Jeffrey Epstein. I've read a lot about blackmail operations. The people they tend to go after are people who are in..."
 
 **[00:05:22](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51)**
 > "What that signals to me about George Zinn is that I've read a lot about Jeffrey Epstein. I've read a lot about blackmail operations"
 
-**[00:36:15](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51)**
+**[00:36:10](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51)**
 > "...need every single plausible detail if we're ever going to regain any trust in the authorities, post-Epstein world, okay? We're living in a post-Epstein world. It doesn't fly with us. That's not it, you guys...."
 
 **[00:36:22](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51)**
 > "...ever going to regain any trust in the authorities, post-Epstein world, okay? We're living in a post-Epstein world. It doesn't fly with us. That's not it, you guys. I have more to tell you. I am going to, I g..."
 
-**[00:52:23](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-51-57)**
+**[00:52:17](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-51-57)**
 > "... respect to you, and I speculated about this at the Turning Point event, whether the possibility of Jeffrey Epstein possibly being a Mossad agent or asset or affiliated with—that's been turned around on me too, to y..."
 
 </details>
@@ -2106,10 +2098,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (11 mentions)</summary>
 
 **[00:29:05](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54)**
-> "...ritten. That pressure was increasing every single day. In fact, he was telling the truth even about Jeffrey Epstein. Take a listen. (Clip: Charlie Kirk) Epstein with his little friend Ghislaine, and Ghislaine's fath..."
+> "In fact, he was telling the truth even about Jeffrey Epstein."
 
 **[00:29:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-29-10)**
-> ".... In fact, he was telling the truth even about Jeffrey Epstein. Take a listen. (Clip: Charlie Kirk) Epstein with his little friend Ghislaine, and Ghislaine's father, Robert Maxwell, who was obviously a spy o..."
+> "Epstein with his little friend Ghislaine, and Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intelligence agencies, but there was something else going on here."
 
 **[00:29:21](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-29-10)**
 > "...s obviously a spy of the Israeli intelligence agencies, but there was something else going on here. Epstein was not some sort of whiz-kid hedge fund manager. Epstein was playing a part. Epstein was a LARPer...."
@@ -2151,7 +2143,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 - **[Steve Bannon](/entities/person-steve-bannon.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-03): “Oh, you're going to quote Bannon (Steve Bannon) who consulted for Epstein?”
 
 </details>
 
@@ -2399,7 +2391,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-03): “Oh, you're going to quote Bannon (Steve Bannon) who consulted for Epstein?”
 
 </details>
 
@@ -2605,7 +2597,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (116)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (117)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4)</summary>
@@ -2911,10 +2903,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5)</summary>
 
 - [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) (Claim) **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine..."](/statements/statement-768813e26649.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+  - Also about: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Pepperdine University](/entities/org-pepperdine-university.md)
 
 - [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Accusation) **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein tra..."](/statements/statement-3d79e5904e4e.md)
-  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
 
 - [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Claim) **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Depart..."](/statements/statement-8bfdc85db6dc.md)
   - Also about: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
@@ -2962,7 +2954,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
   - Also about: [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
 
 - [00:18:38](/episodes/ep-CEF7gQRWYCE.md#t-00-18-34) (Claim) **Ben Shapiro**: ["The unreleased Epstein tapes are child pornography and do not show thi..."](/statements/statement-25bd018b838c.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Little Saint James](/entities/gpe-little-saint-james.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Little Saint James](/entities/gpe-little-saint-james.md)
 
 - [00:19:02](/episodes/ep-CEF7gQRWYCE.md#t-00-18-34) (Claim) **Ben Shapiro**: ["Federal-government sources told Ben Shapiro there is no Epstein list."](/statements/statement-f59e65ccfbee.md)
   - Also about: [Epstein Files](/entities/work-epstein-files.md)
@@ -3070,31 +3062,32 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
 
-- [00:06:21](/episodes/ep-t4U7NjnUEgc.md#t-00-05-54) (Claim) **Candace Owens**: ["Owens asserted that Jeffrey Epstein was involved in the Iran-Contra af..."](/statements/statement-2dac8539e8c3.md)
+- [00:06:21](/episodes/ep-t4U7NjnUEgc.md#t-00-05-50) (Claim) **Candace Owens**: ["Owens asserted that Jeffrey Epstein was involved in the Iran-Contra af..."](/statements/statement-2dac8539e8c3.md)
+  - Also about: [Iran–Contra affair](/entities/event-iran-contra-affair.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
-- [00:26:01](/episodes/ep-Kmt6HgRjckU.md#t-00-25-55) (Claim) **Steve Bannon** (via paraphrase): ["Steve Bannon said Jeffrey Epstein was the key that picks the lock to u..."](/statements/statement-184fc151832a.md)
+- [00:26:01](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01) (Claim) **Tim Pool** (via quoted speech): ["Tim Pool said Steve Bannon had consulted for Jeffrey Epstein."](/statements/statement-4e193801261d.md)
   - Also about: [Steve Bannon](/entities/person-steve-bannon.md)
 
-- [00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Steve Bannon consulted for Jeffrey Epstein"](/statements/statement-4e193801261d.md)
+- [00:26:09](/episodes/ep-Kmt6HgRjckU.md#t-00-26-07) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos said Steve Bannon had described Jeffrey Epstein as '..."](/statements/statement-184fc151832a.md)
   - Also about: [Steve Bannon](/entities/person-steve-bannon.md)
 
-- [00:27:28](/episodes/ep-Kmt6HgRjckU.md#t-00-26-53) (Opinion) **Milo Yiannopoulos** (via quoted speech): ["The moment Trump said there are no Epstein files and told people to st..."](/statements/statement-ff3443878be5.md)
+- [00:27:27](/episodes/ep-Kmt6HgRjckU.md#t-00-27-05) (Opinion) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos said the moment Trump denied there were Epstein file..."](/statements/statement-ff3443878be5.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [00:27:41](/episodes/ep-Kmt6HgRjckU.md#t-00-27-36) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos said the moment Trumpism died was when Trump dismiss..."](/statements/statement-ee6c5c698b51.md)
-  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2)</summary>
 
-- [00:15:01](/episodes/ep-sImMM04XdWY.md#t-00-14-43) (Claim) **Tucker Carlson** (via quoted speech): ["How did Jeffrey Epstein get four Gulfstreams, an island, a massive ran..."](/statements/statement-40f83b993639.md)
+- [00:13:17](/episodes/ep-sImMM04XdWY.md#t-00-13-02) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk reportedly told Tucker Carlson on July 18 to 'go max' in ..."](/statements/statement-35e19c389ea9.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:15:00](/episodes/ep-sImMM04XdWY.md#t-00-14-43) (Claim) **Tucker Carlson** (via quoted speech): ["How did Jeffrey Epstein get four Gulfstreams, an island, a massive ran..."](/statements/statement-40f83b993639.md)
 
 </details>
 
@@ -3110,14 +3103,17 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (4)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5)</summary>
 
 - [00:29:25](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10) (Claim) **Charlie Kirk** (via quoted speech): ["Epstein was not some sort of whiz-kid hedge fund manager. Epstein was ..."](/statements/statement-a02557b2a65f.md)
 
-- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein might have been ..."](/statements/statement-9757aae20f06.md)
+- [00:30:10](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein was created by M..."](/statements/statement-0780da1b8312.md)
   - Also about: [Mossad](/entities/org-mossad.md)
 
-- [00:30:39](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) (Claim) **Charlie Kirk** (via quoted speech): ["Members of Congress are actively being blackmailed. The Epstein playbo..."](/statements/statement-aa7605c48a8f.md)
+- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein was created by M..."](/statements/statement-9757aae20f06.md)
+  - Also about: [Mossad](/entities/org-mossad.md)
+
+- [00:30:39](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the Epstein playbook was being used on a daily basis"](/statements/statement-aa7605c48a8f.md)
 
 - [00:30:49](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) (Claim) **Charlie Kirk** (via quoted speech): ["Jeffrey Epstein was a key player in a multi-decade blackmail operation..."](/statements/statement-c57f3176ff0a.md)
 

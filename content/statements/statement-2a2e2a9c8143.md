@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:10:03](/episodes/ep-BxN2-aeMYIs.md#t-00-09-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(603);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=603s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on September 9th, it left Fort Huachuca at 1143 a.m. local time. ... And it flew to El Paso, Texas. ... This plane could have been somebody that was at the meeting and then went to Texas, landed at 1.31 p.m. local time. It was just a 50-minute hop from El Paso, Texas to Fort Huachuca.
 

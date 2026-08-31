@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(517);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=517s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Iran was a threat. Every country realized what a threat Iran was. The question is whether or not they wanted to do something about it.
 

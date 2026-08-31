@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:32:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-32-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1964);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1964s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica (Erika Kirk)'s great grandmother who died in 1990, ... who was just constantly being arrested for running illegal slot machines. ... here's another article from 1944 where she pleads guilty to a lottery charge was before the court she wasn't lying she's always arrested on a lottery charge
 

@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:14:16](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(856);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=856s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reason Erica (Erika Kirk) is front and centre at turning point is because when Charlie (Charlie Kirk) was alive, people repeatedly asked, Charlie (Charlie Kirk) we're worried something will happen to you. People always speculated that something could happen to Charlie (Charlie Kirk). And when he was asked he would he would first of ... he would just say, like, 'Oh, it'll be fine. Erica (Erika Kirk) will take over for me.' That is what he said over and over.
 

@@ -1,8 +1,8 @@
 ---
-title: "Charlie Kirk was not offered $150 million from Israel; Turni..."
-description: "\"Charlie Kirk was not offered $150 million from Israel; Turning Point USA refused foreign money including attempted wires\" — Alex Clark"
+title: "Andrew Kolvet said that, as far as he knew, Charlie Kirk had..."
+description: "\"Andrew Kolvet said that, as far as he knew, Charlie Kirk had not been offered 150 million dollars from Israel and that everyone he asked said the same\" — Andrew Kolvet"
 statement_id: "statement-7e9c7ba1ce4c"
-speaker: "Alex Clark"
+speaker: "Andrew Kolvet"
 type: "factual_claim"
 ---
 
@@ -10,23 +10,28 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie Kirk was not offered $150 million from Israel; Turning Point USA refused foreign money including attempted wires
+> Andrew Kolvet said that, as far as he knew, Charlie Kirk had not been offered 150 million dollars from Israel and that everyone he asked said the same
 
 ## Attribution
 
-**Speaker:** [Alex Clark](/entities/person-alex-clark.md) (Quoted)
+**Speaker:** [Andrew Kolvet](/entities/person-andrew-kolvet.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Culture Apothecary with Alex Clark
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:36:10](/episodes/ep-UBkFkg4UNY8.md#t-00-36-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">Play</a>
+**Timestamp:** [00:36:03](/episodes/ep-UBkFkg4UNY8.md#t-00-36-03) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=2163s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Was Charlie (Charlie Kirk) offered $150 million from Israel
+> Was Charlie (Charlie Kirk) offered $150 million from Israel? ... As far as I know, no. ... I had never heard anything like that. ... Everyone I've asked has said the same thing.
 
 ## Verification
 

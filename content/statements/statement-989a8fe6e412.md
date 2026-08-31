@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:31:13](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1873);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=1873s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I spoke to multiple donors who tell me that the audio that you released of Charlie Kirk saying, I appoint Erika Kirk. ... To be the CEO and chairman if something ever happens to me. They claim that he never said that in Aspen. ... They claim Erika actually was in Aspen, even though she didn't attend the event and that Charlie definitively never said that on stage, nor did he say it in a smaller dinner that took place with about 10 to 12 people is my understanding.
 

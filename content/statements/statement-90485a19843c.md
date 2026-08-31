@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:09:17](/episodes/ep-yAIb-NuUh_U.md#t-00-09-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(557);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=557s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It says Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in May of molesting an eight-year-old girl and trying to lure a dozen others into sexual encounters by asking for help finding his cat
 

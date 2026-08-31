@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 35 mentions"
+description: "Matt Walsh (People) - 34 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ _Type: People_
 Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/author/matt-walsh)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03">2025-10-08 · 00:13:17</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03">2025-10-08 · 00:13:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-43-21">2026-08-07 · 00:43:55</a></strong></div>
 <div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,9 +32,9 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <p>Highest activity: <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-35-59">A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05" style="--pulse-height:67%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42" style="--pulse-height:17%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-51" style="--pulse-height:17%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-matt-walsh-t-00-44-50" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
@@ -56,9 +56,9 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03) | 2 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05) | 4 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05) | 3 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50) | 3 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-51) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-matt-walsh-t-00-44-50) | 1 |
@@ -81,7 +81,7 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
@@ -225,7 +225,7 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
 
-**[00:35:33](/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46)**
+**[00:35:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46)**
 > "There's not a single daily wire host, Matt Walsh, Michael Nose, nicest people ever"
 
 **[00:36:46](/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46)**
@@ -236,7 +236,7 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:31:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42)**
+**[00:31:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-51)**
 > "...would say, only because she could have texted me. She has my number. This is one of the things that Matt Walsh recently said: that he views it as such a form of disloyalty when you have access to an individual,..."
 
 </details>
@@ -245,40 +245,37 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
 
 **[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
-> "...re extremely close to Charlie (Charlie Kirk)—including donors—were very touched by a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, bu..."
+> "And if you'd like to hear something else that happens to be true, in the immediate aftermath of Charlie's (Charlie Kirk) death, people that were extremely close to Charlie (Charlie Kirk)—including donors—were very touched by a monologue that Matt Walsh did over on the Daily Wire."
 
 **[00:20:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
-> "... did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, but apparently Matt Walsh (Matt Walsh) did an amazing monologue. So the team reached out to host Matt Walsh (Matt Walsh)—to a..."
+> "I was too aggrieved to watch anything, but apparently Matt Walsh did an amazing monologue."
 
 **[00:20:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
-> "...g, but apparently Matt Walsh (Matt Walsh) did an amazing monologue. So the team reached out to host Matt Walsh (Matt Walsh)—to ask Matt Walsh (Matt Walsh), rather— to host Charlie Kirk's (Charlie Kirk) show bec..."
+> "So the team reached out to host Matt Walsh—to ask Matt Walsh, rather—"
 
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (3 mentions)</summary>
 
 **[00:52:28](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05)**
-> "...o see what people thought about the text messages, and it was really funny. I came across a clip of Matt Walsh to Vivek—wait, Dore? It's very funny. And he was saying about the Charlie Kirk (Charlie Kirk) messa..."
+> "I came across a clip of Matt Walsh to Vivek—wait, Dore? It's very funny. And he was saying about the Charlie Kirk messages; he actually thought they were fake because he said he couldn't believe the sentence that felt too on the nose."
 
-**[00:52:50](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-50)**
+**[00:52:49](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-49)**
 > "..., you must have done a lot to make him actually write that statement, which felt too on the nose to Matt Walsh in that text message." "I have no choice but to leave the pro-Israel cause." And anyways, he gave s..."
 
-**[00:53:09](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-50)**
-> "...out what that really means: that your behavior pushed even Charlie Kirk (Charlie Kirk) away. (Clip: Matt Walsh) Take a listen to what Matt Walsh had to say. And at some point, if you're on the pro-Israel side, ..."
-
-**[00:53:14](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-50)**
-> "...our behavior pushed even Charlie Kirk (Charlie Kirk) away. (Clip: Matt Walsh) Take a listen to what Matt Walsh had to say. And at some point, if you're on the pro-Israel side, you really need to be honest with ..."
+**[00:52:56](/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-49)**
+> ""I have no choice but to leave the pro-Israel cause." And anyways, he gave some very sage advice—which is not going to be heeded by the Josh Hammers of the world—about what that really means: that your behavior pushed even Charlie Kirk away. (Clip: Matt Walsh) Take a listen to what Matt Walsh had to say."
 
 </details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:13:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
+**[00:13:09](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
 > "...? Usually reserved to a visceral response to something that you have seen and in the moment, right? Matt Walsh—actually, we're prepping the show—I said I will guarantee you that when that footage got dropped, w..."
 
-**[00:14:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-45)**
+**[00:14:03](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-45)**
 > "...new. We've tried compassion and restorative justice, and this is the result. It was inevitable." So Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how..."
 
 </details>
@@ -353,7 +350,7 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Matt Walsh (6)</strong></summary>
+<summary><strong class="section-title">Statements by Matt Walsh (7)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4)</summary>
@@ -380,17 +377,25 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 </details>
 
 <details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:53:16](/episodes/ep-pc3pxRyNFZk.md#t-00-53-16) [✓] (Opinion) ["Walsh said the pro-Israel side was losing the argument and had lost support unus..."](/statements/statement-07f4b7268d96.md)
+  - About: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
-- [00:13:40](/episodes/ep-2Riv3I7D0Yk.md#t-00-13-03) [○] (Opinion) ["The only solution is ruthless punishment, public execution for violent criminals..."](/statements/statement-3ede5cbe0da0.md)
-  - About: [Irina Zarutska](/entities/person-irina-zarutska.md)
+- [00:13:40](/episodes/ep-2Riv3I7D0Yk.md#t-00-13-03) [✓] (Opinion) ["The only solution is ruthless punishment, public execution for violent criminals..."](/statements/statement-3ede5cbe0da0.md)
+  - About: [Iryna Zarutska](/entities/person-iryna-zarutska.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Matt Walsh (6)</strong></summary>
+<summary><strong class="section-title">Statements about Matt Walsh (8)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4)</summary>
@@ -419,6 +424,17 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 
 - [00:21:55](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Gabrielle Cuccia** (via quoted post): ["VFT internal comments discuss going after Nick Fuentes by undermining ..."](/statements/statement-18814118b50d.md)
   - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Michael Knowles](/entities/person-michael-knowles.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2)</summary>
+
+- [00:20:03](/episodes/ep-K1tFD7FfoCU.md#t-00-19-50) (Claim) **Candace Owens**: ["Candace Owens said that immediately after Charlie Kirk's death, people..."](/statements/statement-663cee74029b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:20:27](/episodes/ep-K1tFD7FfoCU.md#t-00-19-50) (Claim) **Candace Owens**: ["Turning Point USA reached out to Matt Walsh to host Charlie Kirk's sho..."](/statements/statement-e2505504e579.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:28:59](/episodes/ep-wcD2khO3rOA.md#t-00-28-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1739);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1739s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they coerced us to give up the baby because they got money for adoption. It was some kind of adoption ring.
 

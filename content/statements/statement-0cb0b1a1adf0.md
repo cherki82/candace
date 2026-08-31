@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:16:47](/episodes/ep-i8m_6D4QGmk.md#t-00-16-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1007);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=1007s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That piece, by the way, about the symbolism, sort of overt and in your face, is also made clear in the very early pages of this quote-unquote Freemason Bible, that symbolism is actually crucial. ... It reads, it has been correctly stated that symbolism constitutes the very essence of Freemasonry. Freemasonry is essentially the science of symbolism.
 

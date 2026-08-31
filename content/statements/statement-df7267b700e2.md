@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:34:36](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2076);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=2076s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This was a plane, I was told, from a TPUSA insider is frequently used by TPUSA.
 

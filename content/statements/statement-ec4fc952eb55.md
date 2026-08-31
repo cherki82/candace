@@ -1,6 +1,6 @@
 ---
-title: "NSA and CIA sources are confirming that the Egyptian planes ..."
-description: "\"NSA and CIA sources are confirming that the Egyptian planes following Charlie Kirk were real\" — Candace Owens"
+title: "Owens inferred that Tucker Carlson's confirmation of the air..."
+description: "\"Owens inferred that Tucker Carlson's confirmation of the aircraft claim meant people in the NSA and CIA were also confirming it\" — Candace Owens"
 statement_id: "statement-ec4fc952eb55"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> NSA and CIA sources are confirming that the Egyptian planes following Charlie Kirk were real
+> Owens inferred that Tucker Carlson's confirmation of the aircraft claim meant people in the NSA and CIA were also confirming it
 
 ## Attribution
 
@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:27:16](/episodes/ep-6DhWawD4ZiM.md#t-00-27-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1636);return false;">Play</a>
+**Timestamp:** [00:26:29](/episodes/ep-6DhWawD4ZiM.md#t-00-25-51) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=1589s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> that means people in the NSA, the CIA are confirming that that is real.
+> And that means people in the NSA, the CIA are confirming that that is real.
 
 ## Verification
 

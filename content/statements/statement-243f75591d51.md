@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:29:45](/episodes/ep-puuMVxEu5NU.md#t-00-29-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1785);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1785s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't believe there was another shooter there, but I believe that he was working with somebody. ... I believe it was inside, it was an inside job inside the government somewhere.
 

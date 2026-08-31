@@ -1,6 +1,6 @@
 ---
 title: "Adolf Hitler"
-description: "Adolf Hitler (People) - 33 mentions"
+description: "Adolf Hitler (People) - 34 mentions"
 id: "person-adolf-hitler"
 type: "PERSON"
 aliases:
@@ -22,8 +22,8 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-adolf-hitler-t-00-00-00">2025-10-01 · 00:00:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-01-03-37">2026-08-21 · 01:04:06</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,15 +32,16 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-12">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-adolf-hitler-t-00-00-00" style="--pulse-height:11%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-12" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 9 mentions" title="2025-10-28 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-12" style="--pulse-height:89%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 8 mentions" title="2025-10-28 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-adolf-hitler-t-00-48-17" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-adolf-hitler-t-00-04-24" style="--pulse-height:22%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-38" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-36" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-adolf-hitler-t-00-00-00" style="--pulse-height:11%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-00-57-00" style="--pulse-height:22%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55" style="--pulse-height:44%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 9 mentions" title="2026-08-21 · 9 mentions"><span></span></a>
@@ -50,12 +51,13 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-adolf-hitler-t-00-00-00) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-12) | 9 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-12) | 8 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-adolf-hitler-t-00-48-17) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-adolf-hitler-t-00-04-24) | 2 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-38) | 3 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-36) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-adolf-hitler-t-00-00-00) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-00-57-00) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55) | 4 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39) | 9 |
@@ -66,7 +68,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (9 mentions)</summary>
@@ -129,6 +131,14 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 </details>
 
 <details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:00:13](/episodes/ep-es7PWdFGoFI.md#ent-person-adolf-hitler-t-00-00-00)**
+> "Tucker (Tucker Carlson) is Adolf Hitler and TikTok does need to be purchased by the Mossa..."
+
+</details>
+
+<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:30:55](/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55)**
@@ -147,7 +157,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
 
-**[00:00:38](/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-38)**
+**[00:00:36](/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-36)**
 > "... Cooper is apparently the new Hitler—which I'm just wondering, can we just get these o..."
 
 **[00:22:00](/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-21-53)**
@@ -178,13 +188,10 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (9 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (8 mentions)</summary>
 
 **[00:17:44](/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-12)**
 > "... saying that I was justifying Adolf Hitler killing Jews."
-
-**[00:17:58](/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-56)**
-> "discussion about Hitler and nationalism clip"
 
 **[00:18:00](/episodes/ep-Cq7nj9rxPdo.md#ent-person-adolf-hitler-t-00-17-56)**
 > "...they wrongly attributed it to Adolf Hitler, and he wasn't a nationalist.""

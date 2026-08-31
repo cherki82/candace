@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:38:07](/episodes/ep-GY6GWceEqtQ.md#t-00-38-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2287);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=2287s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He goes on, during the wedding, my mom went so far as to call me evil because Nicola (Nicola Peltz) and I chose to include my nanny Sandra (Brooklyn Beckham's nanny; surname unverified) and Nicola (Nicola Peltz)'s nanny, that's two grandparents, at our table because they both didn't have their husbands. Both of our parents had their own table. ... equally adjacent to ours
 

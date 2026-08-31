@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:31:35](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1895);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1895s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, in terms of other things that were new, they announced on that same day that Andrew Zenger was announced as a new CEO
 

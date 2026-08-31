@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:40:29](/episodes/ep-amqTMimDr0A.md#t-00-40-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2429);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2429s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And an autopsy report confirmed, this is what's crucial, that there were no drugs or alcohol that was found in his system at the time of death. ... TMZ then went around and spoke to motel staffers who said that he didn't appear to be in any sort of distress. ... the staffers also said that no one even heard the gunfire at any point during his stay ... according to law enforcement and multiple news reports he left a note alluding to past challenges and led investigators to conclude that the death must have been a suicide
 

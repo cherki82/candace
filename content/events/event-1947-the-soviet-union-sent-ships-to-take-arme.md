@@ -6,6 +6,11 @@ date: "1947"
 ---
 
 **Date:** 1947
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “1947”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1947"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:39:31](/episodes/ep-SKNJPul29zU.md#event-event-1947-the-soviet-union-sent-ships-to-take-arme-t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2371);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2371s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Soviet Union was sending ships to what is now Israel to take Armenians back to the homeland

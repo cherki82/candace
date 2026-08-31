@@ -30,7 +30,7 @@ type: "opinion"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3091);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=3091s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims. Yada, yada, yada. Brandolini's law. The whole process is meant to make the accused look crazy for even trying.
 

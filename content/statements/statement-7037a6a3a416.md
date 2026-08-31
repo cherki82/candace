@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:07:20](/episodes/ep-c5BcKF91iec.md#t-00-07-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(440);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=440s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was wise enough at 31 to put together a plan for succession
 

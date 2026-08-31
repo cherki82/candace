@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 45 mentions"
+description: "Christ Is King (Concepts) - 60 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -20,10 +20,10 @@ _Type: Concepts_
 Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32">2026-01-12 · 00:20:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christ-is-king-t-01-06-16">2025-09-17 · 01:06:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-51-45">2026-08-04 · 00:52:11</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,8 +32,15 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54">Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-00-03-13">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christ-is-king-t-01-06-16" style="--pulse-height:20%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-concept-christ-is-king-t-00-40-44" style="--pulse-height:60%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-concept-christ-is-king-t-00-43-00" style="--pulse-height:40%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-christ-is-king-t-00-45-58" style="--pulse-height:20%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-00-03-13" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christ-is-king-t-00-50-14" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-christ-is-king-t-00-07-19" style="--pulse-height:40%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32" style="--pulse-height:40%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-48" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-christ-is-king-t-00-26-32" style="--pulse-height:40%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
@@ -63,6 +70,13 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christ-is-king-t-01-06-16) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-concept-christ-is-king-t-00-40-44) | 3 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christ-is-king-t-00-43-00) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christ-is-king-t-00-45-58) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-00-03-13) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christ-is-king-t-00-50-14) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christ-is-king-t-00-07-19) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-48) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-christ-is-king-t-00-26-32) | 2 |
@@ -94,7 +108,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
@@ -348,6 +362,86 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 **[00:20:57](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32)**
 > "was a radical for saying Christ is king."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:07:36](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christ-is-king-t-00-07-19)**
+> "...ed this biblical passage with Christ is King."
+
+**[00:07:46](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christ-is-king-t-00-07-19)**
+> "Obviously Christ is King."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:50:30](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-christ-is-king-t-00-50-14)**
+> ""Christ is king. I am so proud of you, Candace (Candace Owens) an..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
+
+**[00:03:42](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-00-03-13)**
+> "...of the firing. Andrew Klavan: Christ is King."
+
+**[01:01:16](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-01-01-04)**
+> "...light over lies and darkness. Christ is King.""
+
+**[01:01:49](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-01-01-49)**
+> "...outh Carolina. The Lord Jesus Christ is King.""
+
+**[01:03:44](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-01-03-12)**
+> "Christ is King." Maria writes: "Thank you for keeping it real. N..."
+
+**[01:06:34](/episodes/ep-vwG1juDCQZQ.md#ent-concept-christ-is-king-t-01-06-00)**
+> "...s Cup owners—the first white "Christ is King" Stan's Cup."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:46:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christ-is-king-t-00-45-58)**
+> "...ine writes, "Loyalty is rare. Christ is King." Indeed He is. Beth Mitchum writes, "So we give ..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:43:23](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christ-is-king-t-00-43-00)**
+> "...ruth is all that matters, and Christ is King.""
+
+**[00:46:17](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christ-is-king-t-00-45-44)**
+> ""Christ is King.""
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3 mentions)</summary>
+
+**[00:41:18](/episodes/ep-sreYYcID-QY.md#ent-concept-christ-is-king-t-00-40-44)**
+> "... USA is the first to issue a “Christ is King” statement of support."
+
+**[00:55:05](/episodes/ep-sreYYcID-QY.md#ent-concept-christ-is-king-t-00-55-05)**
+> "Christ is King indeed."
+
+**[00:56:18](/episodes/ep-sreYYcID-QY.md#ent-concept-christ-is-king-t-00-55-46)**
+> "Christ is King."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
+
+**[01:06:35](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christ-is-king-t-01-06-16)**
+> "Christ is king." Indeed. Christ is king, and Christ is truth. An..."
 
 </details>
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:49:25](/episodes/ep-1IY2oD-_xVA.md#t-00-49-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2965);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2965s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, that's just, that's not right. That's not true. Erika (Erika Kirk) has been involved in pageants from the very beginning.
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:33:28](/episodes/ep-cZxHqYsWRYg.md#t-00-33-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2008);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2008s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, so it wasn't about narcissism. She wasn't groomed. By the way, if you have to say that you weren't groomed for something, you probably were. ... Every single year from 2005 through 2012, Erika (Erika Kirk) was involved in beauty pageants.
 

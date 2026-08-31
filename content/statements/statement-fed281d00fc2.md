@@ -27,10 +27,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:04:41](/episodes/ep-pc3pxRyNFZk.md#t-00-04-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(281);return false;">Play</a>
+**Timestamp:** [00:04:41](/episodes/ep-pc3pxRyNFZk.md#t-00-04-35) 
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=281s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Charlie Kirk (Charlie Kirk) was shot from the front, and the bullet did not exit. And at least a fragment of the bullet was recovered from his neck. ... So think about almost in line with your shoulder blade, right in the center. ... a fragment was pulled from—think right, if you're just touching your spine in line with your shoulder blade.
+> Charlie Kirk was shot from the front, and the bullet did not exit. And at least a fragment of the bullet was recovered from his neck. ... So think about almost in line with your shoulder blade, right in the center. ... a fragment was pulled from—think right, if you're just touching your spine in line with your shoulder blade.
 
 ## Verification
 

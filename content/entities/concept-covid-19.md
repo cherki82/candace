@@ -1,6 +1,6 @@
 ---
 title: "COVID-19"
-description: "COVID-19 (Concepts) - 37 mentions"
+description: "COVID-19 (Concepts) - 42 mentions"
 id: "concept-covid-19"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ _Type: Concepts_
 Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics/coronavirus)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-20">2026-01-05 · 00:29:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-concept-covid-19-t-00-35-51">2025-12-03 · 00:36:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-30-40">2026-08-14 · 01:30:40</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,9 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54">Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-his-JBjlkh8.md#ent-concept-covid-19-t-00-35-51" style="--pulse-height:11%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-concept-covid-19-t-00-30-30" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-concept-covid-19-t-00-21-19" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-20" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-23-59" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-covid-19-t-00-13-24" style="--pulse-height:44%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
@@ -59,6 +62,9 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-covid-19-t-00-35-51) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-concept-covid-19-t-00-30-30) | 3 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-concept-covid-19-t-00-21-19) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-20) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-23-59) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-covid-19-t-00-13-24) | 4 |
@@ -83,7 +89,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -275,6 +281,36 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 
 **[00:29:49](/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-20)**
 > "have been affected by COVID-19."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:21:50](/episodes/ep-ewBzjVe3LNQ.md#ent-concept-covid-19-t-00-21-19)**
+> "...treat over 30 conditions like COVID, strep throat, pneumonia, plus more. So there's n..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:30:38](/episodes/ep-6DhWawD4ZiM.md#ent-concept-covid-19-t-00-30-30)**
+> "...ay, it's not, this feels like COVID, right?"
+
+**[00:30:46](/episodes/ep-6DhWawD4ZiM.md#ent-concept-covid-19-t-00-30-30)**
+> "It's not like COVID-19, it's like Candace (Candace Owens) 19. It's anoth..."
+
+**[00:34:39](/episodes/ep-6DhWawD4ZiM.md#ent-concept-covid-19-t-00-34-02)**
+> "...get the Vax, I didn't get the COVID-19 Vax. I'm not getting whatever the heck this is, o..."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+
+**[00:36:28](/episodes/ep-his-JBjlkh8.md#ent-concept-covid-19-t-00-35-51)**
+> "Inside, you'll find core prescriptions to treat over 30 conditions like COVID, strep throat, pneumonia, and more."
 
 </details>
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:20:19](/episodes/ep-hWTdXHGQ8R4.md#t-00-20-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1219);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1219s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I feel and I could be wrong that there was a knock them dead argument that happened. That's what makes logical sense to me about what I don't know. That's what makes sense.
 

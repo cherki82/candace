@@ -22,7 +22,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,7 +32,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-tim-ballard-t-00-05-38" style="--pulse-height:75%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-tim-ballard-t-01-00-21" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-tim-ballard-t-00-35-00" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-tim-ballard-t-00-34-44" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-ballard-t-00-35-27" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tim-ballard-t-00-16-42" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-tim-ballard-t-00-14-50" style="--pulse-height:75%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-tim-ballard-t-00-05-38) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-tim-ballard-t-01-00-21) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-tim-ballard-t-00-35-00) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-tim-ballard-t-00-34-44) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-ballard-t-00-35-27) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tim-ballard-t-00-16-42) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-tim-ballard-t-00-14-50) | 3 |
@@ -131,7 +131,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
-**[00:35:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-tim-ballard-t-00-35-00)**
+**[00:34:55](/episodes/ep-MUA9ebCF4Ow.md#ent-person-tim-ballard-t-00-34-44)**
 > "...e back of my mind I'm going, "This is interesting." A lot of these characters that are just kind of—Tim Ballard is the one that used to run Operation Underground, which is a charity for sex trafficking. And he's..."
 
 </details>
@@ -167,10 +167,11 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <summary>Formerly Worked For (1)</summary>
 
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:27](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “sex trafficking charity. Also in their profile pictures, they're wearing a t-shirt from another child sex trafficking charity, Operation Underground Railroad, and you will recall that following the assassination, Phil Lyman was speaking to the guy that used to run, I'm blanking on his name, Tim Ballard, that's his name, Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:34:55](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-44): “Tim Ballard is the one that used to run Operation Underground, which is a charity for sex trafficking.”
 
 </details>
 
@@ -204,34 +205,14 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 </details>
 
 <details>
-<summary>Works For (1)</summary>
-
-- **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “is formerly of Operation Underground Railroad”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (4)</summary>
-
-- **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “is formerly of Operation Underground Railroad”
-
-</details>
+<summary>Referenced By (3)</summary>
 
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:27](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “sex trafficking charity. Also in their profile pictures, they're wearing a t-shirt from another child sex trafficking charity, Operation Underground Railroad, and you will recall that following the assassination, Phil Lyman was speaking to the guy that used to run, I'm blanking on his name, Tim Ballard, that's his name, Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:34:55](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-44): “Tim Ballard is the one that used to run Operation Underground, which is a charity for sex trafficking.”
 
 </details>
 

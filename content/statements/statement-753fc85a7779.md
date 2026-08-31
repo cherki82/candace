@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:40:16](/episodes/ep-BxN2-aeMYIs.md#t-00-40-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2416);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2416s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's how they behave behind the scenes, wheeling and dealing and lying and then publicly saying something completely different. ... This is what this organization has become in the wake of Charlie's death, probably before it.
 

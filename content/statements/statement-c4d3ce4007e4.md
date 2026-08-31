@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:41:55](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2515);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=2515s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They read my texts. So the crime under consideration apparently would be the Foreign Agent Act or something like that, acting as an agent of a foreign power.
 

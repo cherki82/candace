@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3872);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3872s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk is in Korea. He's in Japan. And he's being told that he's there for reasons that have to do with the Christian faith being suppressed. And I don't think that's why they had him there
 

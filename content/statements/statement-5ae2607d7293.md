@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,8 +28,8 @@ veracity: "mixed"
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:31:35](/episodes/ep-iHav0PPzUz8.md#t-00-31-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1895);return false;">Play</a>
+**Timestamp:** [00:31:35](/episodes/ep-iHav0PPzUz8.md#t-00-31-05) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1895s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Is this the same Josh Hammer you're thinking—who lied about Charlie (Charlie Kirk)'s views on Israel changing, even though he was on the text message chain? He lied over and over and over again
 
@@ -37,7 +37,7 @@ veracity: "mixed"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:22:53](/episodes/ep-eMtjzXkQrsU.md#t-00-22-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1373);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They lied. He lied explicitly and it shocked the world, changed the narrative immediately because people said, why the lie?
 

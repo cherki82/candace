@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:07:38](/episodes/ep-his-JBjlkh8.md#t-00-07-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(458);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=458s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What we did was we showed at first that when I plotted these strange Egyptian jets, that they were following Charlie (Charlie Kirk)
 

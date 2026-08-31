@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:39:55](/episodes/ep-5NQyGuRYbU8.md#t-00-39-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2395);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2395s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > oh my do you remember this when we went up to Tucker Carlson's house and afterward he told us that he had dinner with Charlie (Charlie Kirk) and Erika (Erika Kirk) and before I even said anything in front of my entire team my husband goes yeah he told us that Erika (Erika Kirk) was like very hardcore against Israel of course he did not forgot this at all I just went yeah I totally blacked out on that trip.
 

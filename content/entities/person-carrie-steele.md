@@ -3,9 +3,17 @@ title: "Carrie Steele"
 description: "Carrie Steele (People) - 1 mention"
 id: "person-carrie-steele"
 type: "PERSON"
+categories:
+  - "source-identified Orem property participant"
 ---
 
 _Type: People_
+
+**Categories:** source-identified Orem property participant
+
+**Entity verification:** verified
+> The episode identifies Carrie as Samuel Steele’s wife during its Steele-family property discussion. The canonical display name follows that explicit context and is caveated to source identification, not independent validation of ownership allegations.
+Source: [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](https://www.youtube.com/watch?v=sreYYcID-QY)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-14-12">2025-09-18 · 00:14:52</a></strong></div>
@@ -14,7 +22,7 @@ _Type: People_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +59,16 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Samuel Steele](/entities/person-samuel-steele.md)** married to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:52](/episodes/ep-sreYYcID-QY.md#t-00-14-12): “co-own just that one house on the street with somebody else named Samuel Steele, but Samuel and his wife Carrie are the ones that own the house that gave the footage, not Erwin.”
+
+</details>
+
+</details>
 
 </details>

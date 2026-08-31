@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:23:20](/episodes/ep-YeEtS7nix3o.md#t-00-23-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1400);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1400s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The family was awakened and told to dress under the guise of being relocated to a safer place. ... They were then led into a cellar room, arranged for a photograph first to quell rumors that they had escaped, and then Yurovsky read out an execution order, surprised them. The guards opened fire in a chaotic bloodbath, but because the daughters had on family jewels that were sewn into their corsets, many of the initial bullets were deflected. It forced the executioners to then use bayonet. ... use bayonets. Women and children bayoneted in the cellar.
 

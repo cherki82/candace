@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:33:09](/episodes/ep-uC_GjKU8rs8.md#t-00-32-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1989);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=1989s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > before he acknowledged the lawsuit, he had been heavily retweeting Laura Loomer and her attacks against my family. ... Not only that, but Jacob William Roth, Ben Shapiro's brother-in-law similarly was retweeting the lawsuit.
 

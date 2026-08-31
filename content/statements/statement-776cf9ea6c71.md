@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:46:31](/episodes/ep-1IY2oD-_xVA.md#t-00-46-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2791);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's what she said. Lori (Lori Frantzve) was put on the board because they needed a familiar name. I guess there's just not enough billionaires that donate to Turning Point USA for them to have put someone other than Lori (Lori Frantzve), who we are told is very sick, by the way, and is very sick.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:15:31](/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(931);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=931s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > uh the Bondi attack I think I gave pictures to one of your producers like our son Ostrovsky who's like one of those trolls on Twitter he happened to be on October 7th a survivor October 7th and then he posted his picture a selfie while he's on the floor and he has blood all over him yeah that's the picture okay which is obvious looks fake ... not a ... single point like like drop of blood on the bandage
 

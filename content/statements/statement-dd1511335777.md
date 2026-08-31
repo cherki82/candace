@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1674);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=1674s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So in 1986, regarding this guy, the San Francisco police began investigating allegations, not surprisingly, of sexual abuse in connection with the Army's Child Development Center, which is based in San Francisco. A girl came forward in 1987 and she identified him. Aquino, as the culprit, an investigation was launched. The police believe she was telling the truth, but they had to close the case because of insufficient evidence that was found.
 

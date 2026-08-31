@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:28:05](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1685);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1685s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We pay tribute to Charlie Kirk, and we celebrate the tremendous good he did in his life. Charlie courageously advocated for the sacred principles of freedom, constructive discourse, truth, family values, and common sense. He taught with humor and wisdom, and backed up his beliefs with data and facts.
 

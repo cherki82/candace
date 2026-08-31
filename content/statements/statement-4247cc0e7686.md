@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:11:05](/episodes/ep-4YgrOhhy708.md#t-00-10-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(665);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=665s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is a screenshot of their viewership after 6 million people tuned in concurrently at the exact same time. So that was 6 million people watching like we have 95,000 people watching right now on YouTube. ... 5,839 views with 175 comments. ... That is an impossible metric. ... But 667,000 likes. This is made up. But again,
 

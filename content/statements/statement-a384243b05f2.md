@@ -1,24 +1,22 @@
 ---
-title: "Josh Hammer tweeted in favor of public execution at 9:09 PM ..."
-description: "\"Josh Hammer tweeted in favor of public execution at 9:09 PM Eastern on September 9th\" — Josh Hammer"
+title: "Candace Owens characterized Josh Hammer's 9:09 p.m. Eastern ..."
+description: "\"Candace Owens characterized Josh Hammer's 9:09 p.m. Eastern tweet as favoring public execution and said it provided no context.\" — Candace Owens"
 statement_id: "statement-a384243b05f2"
-speaker: "Josh Hammer"
-type: "factual_claim"
+speaker: "Candace Owens"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Josh Hammer tweeted in favor of public execution at 9:09 PM Eastern on September 9th
+> Candace Owens characterized Josh Hammer's 9:09 p.m. Eastern tweet as favoring public execution and said it provided no context.
 
 ## Attribution
 
-**Speaker:** [Josh Hammer](/entities/person-josh-hammer.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from tweet
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Paraphrased
 
 ## About
 
@@ -27,15 +25,15 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:12:42](/episodes/ep-2Riv3I7D0Yk.md#t-00-12-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(762);return false;">Play</a>
+**Timestamp:** [00:12:38](/episodes/ep-2Riv3I7D0Yk.md#t-00-12-18) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And then at 9:09 p.m.—again, we're talking Eastern—and Josh Hammer tweets in favor of public execution, and there's no context that is provided
+> I don't know, but I know that he speaks to Charlie (Charlie Kirk) at night. And then at 9:09 p.m.—again, we're talking Eastern—and Josh Hammer tweets in favor of public execution, and there's no context that is provided.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:03:17](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In short, this person claims the Macrons have executed upon and paid for my assassination
 

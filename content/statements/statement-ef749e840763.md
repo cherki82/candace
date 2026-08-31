@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:03:47](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(227);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, so basically, Aleister Crowley was convinced that he was able to make himself invisible and he was trying to bestow that power upon his little magical heir, Raoul Loveday.
 

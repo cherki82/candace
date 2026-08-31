@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:23:44](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1424);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1424s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have it on authority the widow of Corey Comperatore and the family of Corey Comperatore is not like Trump (Donald Trump). They are not satisfied with the investigation. They are not happy with the fact that Secret Service agents never lost their jobs. ... They are not satisfied with the answers that they are receiving about how Corey Comperatore was killed. Imagine that.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:20:44](/episodes/ep-G3zdOeHpvS0.md#t-00-20-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Please allow me to remind you that in these years, 2006, 2005, this is also when Tyler Bowyer is out doing missionary work in this exact same region. In 2008, with this one I just think is weird, they taught basic hygiene and self-care techniques to orphans and the elderly in Ukraine, visited classrooms to provide education to the youth and adolescents regarding human trafficking.
 

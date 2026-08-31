@@ -1,0 +1,86 @@
+---
+title: "Jan Jurden"
+description: "Jan Jurden (People) - 1 mention"
+id: "person-jan-jurden"
+type: "PERSON"
+aliases:
+  - "Judge Jan Jurden"
+  - "Judge Jan Jordan"
+  - "Jan Jordan"
+categories:
+  - "Delaware judiciary"
+---
+
+_Type: People_
+
+**Also known as:** Judge Jan Jurden, Judge Jan Jordan, Jan Jordan
+
+**Categories:** Delaware judiciary
+
+**Entity verification:** verified
+> Vanity Fair and contemporaneous Washington Post coverage identify Delaware Superior Court Judge Jan Jurden; the legacy Jan Jordan spelling was erroneous.
+Source: [Du Pont Heir Gets No Prison Time for Raping 3-Year-Old Daughter](https://www.vanityfair.com/news/business/2014/03/du-pont-heir-gets-probation-for-raping-3-year-old-daughter)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-jan-jurden-t-00-07-02">2025-12-02 · 00:07:39</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-jan-jurden-t-00-07-02">2025-12-02 · 00:07:39</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-jan-jurden-t-00-07-02">Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-jan-jurden-t-00-07-02" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-jan-jurden-t-00-07-02) | 1 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:07:39](/episodes/ep-a-e7HC6SeK8.md#ent-person-jan-jurden-t-00-07-02)**
+> "...be valid. So instead of sentencing him to prison for raping a toddler, it goes on and tells us that Judge Jan Jordan rules that Richards would benefit from treatment instead. Critics have since noted that such treatm..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jan Jurden (2)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+
+- [00:07:30](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) (Claim) **Vanity Fair** (via quoted article): ["the judge who sentenced the heir to the DuPont fortune let him off wit..."](/statements/statement-bbd8ddc04d5b.md)
+  - Also about: [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
+
+- [00:07:36](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) (Claim) **Vanity Fair** (via quoted article): ["Vanity Fair reported that Judge Jan Jurden ruled Robert Richards IV wo..."](/statements/statement-be46c84a7274.md)
+  - Also about: [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
+
+</details>
+
+</details>

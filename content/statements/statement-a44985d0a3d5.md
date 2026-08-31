@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [01:14:49](/episodes/ep-q7f8r-THr84.md#t-01-14-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4489);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=4489s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I need evidence of these text messages
 

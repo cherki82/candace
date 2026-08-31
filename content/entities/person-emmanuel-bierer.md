@@ -1,19 +1,20 @@
 ---
 title: "Emmanuel Bierer"
-description: "Emmanuel Bierer (People) - 2 mentions"
+description: "Emmanuel Bierer (People) - 3 mentions"
 id: "person-emmanuel-bierer"
 type: "PERSON"
 aliases:
   - "Emanuel Bierer"
   - "Emmanuel Behrer"
   - "Behrer"
+  - "Immanuel Bierer"
 categories:
   - "Charlie Kirk case eyewitness"
 ---
 
 _Type: People_
 
-**Also known as:** Emanuel Bierer, Emmanuel Behrer, Behrer
+**Also known as:** Emanuel Bierer, Emmanuel Behrer, Behrer, Immanuel Bierer
 
 **Categories:** Charlie Kirk case eyewitness
 
@@ -22,10 +23,10 @@ _Type: People_
 Source: [PBS NewsHour: Authorities piece together killing of conservative activist Charlie Kirk](https://www.pbs.org/newshour/show/authorities-piece-together-the-killing-of-conservative-activist-charlie-kirk)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-31-57">2025-12-05 · 00:32:15</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-emmanuel-bierer-t-00-23-14">2025-10-02 · 00:23:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-33-14">2025-12-05 · 00:33:26</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,12 +37,14 @@ Source: [PBS NewsHour: Authorities piece together killing of conservative activi
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-31-57">Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-emmanuel-bierer-t-00-23-14" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-31-57" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-emmanuel-bierer-t-00-23-14) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-31-57) | 2 |
 
 </details>
@@ -50,16 +53,24 @@ Source: [PBS NewsHour: Authorities piece together killing of conservative activi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
 
-**[00:32:15](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-31-57)**
-> "Emmanuel Behrer - suspicious eyewitness from Salt Lake City, former Oracle employee"
+**[00:32:11](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-31-57)**
+> "His name is Emmanuel Bierer, and there are a million and one reasons why I wanted to know more about him."
 
 **[00:33:26](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-bierer-t-00-33-14)**
-> "How did Emmanuel Behrer get picked out in Salt Lake City?"
+> "How did Emmanuel Bierer get picked out in Salt Lake City?"
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:23:14](/episodes/ep-t1YtLS1n8Vs.md#ent-person-emmanuel-bierer-t-00-23-14)**
+> "Immanuel (Immanuel Bierer)"
 
 </details>
 

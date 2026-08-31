@@ -1,6 +1,6 @@
 ---
-title: "Bill Ackman replies with an essay. A college essay, 959 word..."
-description: "\"Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response.\" — Candace Owens"
+title: "Owens said Bill Ackman's response was 959 words long."
+description: "\"Owens said Bill Ackman's response was 959 words long.\" — Candace Owens"
 statement_id: "statement-33e57d9a6cb9"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response.
+> Owens said Bill Ackman's response was 959 words long.
 
 ## Attribution
 
@@ -20,13 +20,17 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Bill Ackman](/entities/person-bill-ackman.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(170);return false;">Play</a>
+**Timestamp:** [00:02:57](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> A college essay, 959 words to be precise, was his response to me speaking about that, where he himself did not actually address my point about the quote-unquote "intervention," which is how Charlie (Charlie Kirk) described it himself.
+> And Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response to me speaking about that, where he himself did not actually address my point about the quote-unquote "intervention," which is how Charlie (Charlie Kirk) described it himself.
 
 ## Verification
 

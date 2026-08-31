@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:12:21](/episodes/ep-SKGUzGHymcI.md#t-00-11-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(741);return false;">Play</a>
+**Timestamp:** [00:12:21](/episodes/ep-SKGUzGHymcI.md#t-00-11-38) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=741s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, Wilmington used to have a Dassault Falcon authorized center, but it shut down around 2021.
 

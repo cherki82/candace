@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:28:15](/episodes/ep-jTj9Ip46r4w.md#t-00-28-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1695);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But if you read books that were printed in Israel by the Israelis, they themselves declared that they were Khazarian. You could look at a guy named Abraham Polak as an example, who wrote a book, did all the research, was awarded for his research, and said, hey, we're that tribe.
 

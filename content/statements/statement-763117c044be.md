@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:11:15](/episodes/ep-his-JBjlkh8.md#t-00-10-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(675);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=675s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, so I do believe the Calvary Chapel—their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith and to tie the Christian faith to the political ideology of Zionism.
 

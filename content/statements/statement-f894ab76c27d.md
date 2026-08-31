@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:26:35](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1595);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1595s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, they settled for, I think, like $79 million. That's just an interesting fact that I wanted to share with you all.
 

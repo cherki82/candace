@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:41:54](/episodes/ep-k1b1NDCrNFs.md#t-00-41-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2514);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2514s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And to be clear, wrongly, of course, that there is now a Hail Mary chance that George (George Farmer) and I broke federal law by hiding and willfully lying to the Department of Homeland Security about a DUI conviction. It is utterly untrue. We would have never taken that risk with children and they will come up dry. So reporters feel free to look into that. We absolutely would have never lied. Laura (Laura Loomer) is tagging people.
 

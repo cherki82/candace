@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:13:15](/episodes/ep-tB5SXXmd9vU.md#t-00-12-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(795);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=795s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That hesitation doesn't come from trust in Owens, it comes from history." And sure enough, and I'm just pulling up the Wikipedia page here, you should go read that article in its entirety, but the Safari Club, man, a covert alliance of intelligence services formed in 1976, that ran operations...
 

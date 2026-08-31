@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:18:06](/episodes/ep-kaWtDuoY_ns.md#t-00-17-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1086);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=1086s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The state of Utah has its own codes for victims, which include a victim's right to a speedy trial.
 

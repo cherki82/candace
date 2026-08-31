@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:27:35](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1655);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1655s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point has not insinuated this, ... they never told me anything like this. However, ... I just have a gut feeling that ... I was terminated from Turning Point because I am questioning the narrative of what happened to my role model and CEO Charlie Kirk on the day of his assassination.
 

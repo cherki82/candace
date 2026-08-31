@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1121);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1121s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Connor (Connor Henderson) had been working as an emergency room department scribe. ... Timpanogos emergency room. ... That was Connor Henderson's job from 2024
 

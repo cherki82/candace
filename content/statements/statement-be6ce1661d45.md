@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:20:19](/episodes/ep-sKuYLNx3iRo.md#t-00-20-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1219);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=1219s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Clean. Fresh white polo shirt. So Frank (Frank Turek) did not touch Charlie (Charlie Kirk) after Charlie (Charlie Kirk) got hit. He did not help transport Charlie (Charlie Kirk) into the SUV and he entered clean through the trunk, meaning there shouldn't be any blood spill on Frank Turek. OK, actually, he had to willfully hop over from the trunk to even get into the back seat in the first place.
 

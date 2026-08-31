@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:08:38](/episodes/ep-EtLHqDbxqks.md#t-00-08-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(518);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=518s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we have three confessions here, one to his parents, one to his roommate, and one on Discord.
 

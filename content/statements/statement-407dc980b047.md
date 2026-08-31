@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:38:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-38-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2308);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=2308s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Katie Hobbs beat up this over politics after Charlie (Charlie Kirk) was brutally murdered. Disgusting. Yeah, I'm sure you just wanted that in memorial.
 

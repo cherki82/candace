@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "unverifiable"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:46:21](/episodes/ep-ti5Fxrvegno.md#t-00-45-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2781);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=2781s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > People are being killed on American soil because foreign nations have an issue with them. That's the reality.
 

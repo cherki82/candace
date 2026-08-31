@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:32:18](/episodes/ep-BxN2-aeMYIs.md#t-00-32-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1938);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what we can confirm is that she's just another washed-up D-list actress looking for her next gig. ... So her last act is being a Zionist, acting like she cares about Israel, acting like she can really sell the Zionist cause by being more deranged than anybody else.
 

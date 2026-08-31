@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:34:22](/episodes/ep-cZxHqYsWRYg.md#t-00-34-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2062);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2062s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, let's jump into an Erika (Erika Kirk) timeline and you guys can follow along here. 2005, Erika (Erika Kirk) is still attending Notre Dame Prep and she is playing basketball. ... She was a junior in high school from 2005-2006. She is going to win first runner-up in the National American Miss Arizona pageant, and she will represent Arizona in the upcoming All-American Miss pageant in November of 2005, which takes place in Los Angeles.
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:33:18](/episodes/ep-5zgkrOaCCj4.md#t-00-33-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1998);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=1998s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This woman, No Soup for Knowles, Britta Widener, makes Laura Loomer look stable. That's saying a lot. She makes Laura Loomer look stable. ... He counted up not her tweets over a year, okay, her tweets over 11 months since Charlie Kirk's assassination about me. ... This woman, this 45-year-old cat woman sent 4,040 tweets about me.
 

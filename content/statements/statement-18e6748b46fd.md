@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:11:14](/episodes/ep-i8m_6D4QGmk.md#t-00-10-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(674);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=674s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, it was my independent study into Sigmund Freud that led me to learning about B'nai B'rith, the Jewish Freemason group who I believe have been running our country since at least the Civil War.
 

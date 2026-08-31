@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:10:52](/episodes/ep-ja26iltROkM.md#t-00-10-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(652);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=652s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That aside, the statement objectively feels to me like the manipulation of a Christian audience, right? They know Charlie's (Charlie Kirk's) audience is Christian. And therefore what they're selling to us is: "We—you should believe. You're a believer, right? As a Christian, you believe in miracles, right?
 

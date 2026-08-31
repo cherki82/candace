@@ -6,6 +6,11 @@ date: "2014-04-03"
 ---
 
 **Date:** 2014-04-03
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “April 3rd 2014”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2014-04-03"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:07:01](/episodes/ep-1hcjQGgvxUY.md#t-00-06-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(421);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=421s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on April 3rd 2014 Jillian tweeted this picture and said I miss this goon

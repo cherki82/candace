@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:29:01](/episodes/ep-ti5Fxrvegno.md#t-00-28-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1741);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1741s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After that we talked. It was obvious she was the perfect person for the job that Charlie (Charlie Kirk) and I had devised in one of our 24-hour planning sessions. I wanted to hire her. I only had one problem. Charlie Kirk wanted to date her.
 

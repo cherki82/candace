@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [Worldwide | Goldman Sachs](https://www.goldmansachs.com/worldwide/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-16">2025-12-10 · 00:17:24</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-22">2025-12-10 · 00:17:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-goldman-sachs-t-00-28-38">2026-07-29 · 00:28:46</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -29,16 +29,16 @@ Source: [Worldwide | Goldman Sachs](https://www.goldmansachs.com/worldwide/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-16">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-22">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-16" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-22" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-goldman-sachs-t-00-28-38" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-16) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-22) | 2 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-goldman-sachs-t-00-28-38) | 1 |
 
 </details>
@@ -60,10 +60,10 @@ Source: [Worldwide | Goldman Sachs](https://www.goldmansachs.com/worldwide/)
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:17:24](/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-16)**
+**[00:17:22](/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-22)**
 > "...an Sachs and the president of Goldman Sachs or managing director of Goldman Sachs died in a h..."
 
-**[00:21:06](/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-16)**
+**[00:21:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-goldman-sachs-t-00-17-22)**
 > "if this was Goldman Sachs and the president of Goldman Sachs"
 
 </details>

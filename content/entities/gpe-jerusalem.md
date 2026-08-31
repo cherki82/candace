@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem"
-description: "Jerusalem (Places) - 39 mentions"
+description: "Jerusalem (Places) - 38 mentions"
 id: "gpe-jerusalem"
 type: "GPE"
 categories:
@@ -20,7 +20,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50">2025-10-08 · 00:05:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,9 +33,9 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-jerusalem-t-00-08-14" style="--pulse-height:12%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#t-00-20-31" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-11" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-37" style="--pulse-height:12%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28" style="--pulse-height:38%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-28-48" style="--pulse-height:38%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
@@ -54,9 +54,9 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 |---|---|---:|
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-jerusalem-t-00-08-14) | 1 |
-| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15) | 4 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16) | 2 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31) | 4 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-11) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-37) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-28-48) | 3 |
@@ -75,7 +75,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -214,23 +214,20 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:38:37](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23)**
+**[00:38:37](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-37)**
 > "... my life than me exploring the Calvary Chapel Church movement. So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple days ago, he was at an event. It was billed as a celebration..."
-
-**[00:38:41](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23)**
-> "Rob McCoy was in Jerusalem on November 16th for Charlie Kirk event"
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[00:43:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
+**[00:43:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-11)**
 > "...ing the topic, not acknowledging that what he's doing to the Palestinians is wrong. Having love for Jerusalem—that makes sense. Having love for and to be able to walk in Jerusalem and to see the relics—that al..."
 
-**[00:43:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
+**[00:43:39](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-11)**
 > "...ans is wrong. Having love for Jerusalem—that makes sense. Having love for and to be able to walk in Jerusalem and to see the relics—that all makes sense to me. And I think I'm just more disgusted by people who..."
 
 </details>
@@ -238,17 +235,17 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
-**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
-> "...ation to stage a hostile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk (Erika..."
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31)**
+> "Turning my attention to another matter: Israel is rather obsessed with this already failed operation to stage a hostile takeover of the legacy of Charlie Kirk—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk."
 
-**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
-> "...by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr (Michael Starr). They published this: "Charlie ..."
+**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31)**
+> "Here is the statement that was issued by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr."
 
-**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#t-00-21-15)**
 > "... tribute to a man who inspired millions to stand with Israel when it mattered most." The Pillars of Jerusalem Award—inspired by the verse teaching that the world stands upon justice, truth, and peace—will also..."
 
-**[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
-> "...t) wrote this: "This is the first we're hearing of this." "We've reached out to the reporter at the Jerusalem Post for a correction." How do you just say "Erika Kirk (Erika Kirk) is going to accept this award ..."
+**[00:22:25](/episodes/ep-K1tFD7FfoCU.md#t-00-21-54)**
+> ""We've reached out to the reporter at the Jerusalem Post for a correction.""
 
 </details>
 
@@ -314,7 +311,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
 
 - [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA recruits directly from BYU and specifically from BYU's Jerusal..."](/statements/statement-862b7ba82e4c.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
 
 - [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later ..."](/statements/statement-aa6071978dd3.md)
   - Also about: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
@@ -343,7 +340,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) (Claim) **Candace Owens**: ["Rob McCoy was apparently in Jerusalem on November 16 at an event bille..."](/statements/statement-33885f09bdfa.md)
+- [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-37) (Claim) **Candace Owens**: ["Rob McCoy was apparently in Jerusalem on November 16 at an event bille..."](/statements/statement-33885f09bdfa.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:56:12](/episodes/ep-VMNWMXX1vO8.md#t-00-55-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3372);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=3372s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk's phone should have been kept in evidence. It wasn't. It was given back, as we know, very quickly—returned to Erika (Erika Kirk).
 

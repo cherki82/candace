@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:50:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-49-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3005);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=3005s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, this feels like Erika was sent to fall in love with Charlie Kirk. I've said that, I've shared that, and I find it interesting that we still can't get answers.
 

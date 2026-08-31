@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (32 mentions)
+### Evidence (30 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -55,9 +55,7 @@ object: "org-turning-point-usa"
 
 **[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
 
-- [00:10:54](/episodes/ep-K5GjF53bfN4#t-00-10-54): _He's the spokesperson for Turning Point USA._
-- [00:11:02](/episodes/ep-K5GjF53bfN4#t-00-11-02): _He's the spokesperson for Turning Point USA. And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show._
-- [00:11:09](/episodes/ep-K5GjF53bfN4#t-00-11-09): _He's the spokesperson for Turning Point USA._
+- [00:11:05](/episodes/ep-K5GjF53bfN4#t-00-11-05): _There's no question. He's the spokesperson for Turning Point USA. And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk show._
 
 **[You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI)**
 
@@ -65,7 +63,7 @@ object: "org-turning-point-usa"
 
 **[Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8)**
 
-- [00:00:48](/episodes/ep-UBkFkg4UNY8#t-00-00-48): _[00:00:48] ...Andrew Kolvet, the PR agent, close friend of Charlie Kirk..._
+- [00:27:04](/episodes/ep-UBkFkg4UNY8#t-00-27-04): _Anyways, you guys, I want to get to some of the responses and answers that were given by Andrew Kolvet, who is a PR agent for Turning Point USA._
 - [00:27:06](/episodes/ep-UBkFkg4UNY8#t-00-27-06): _Andrew Kolvet, who is a PR agent for Turning Point USA._
 - [00:27:07](/episodes/ep-UBkFkg4UNY8#t-00-27-07): _Andrew Kolvet, who is a PR agent for Turning Point USA_
 
@@ -77,9 +75,9 @@ object: "org-turning-point-usa"
 
 - [01:08:31](/episodes/ep-YeEtS7nix3o#t-01-08-31): _Andrew Kolvet is the official spokesperson at Turning Point USA._
 
-**[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
+**[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:01:45](/episodes/ep-ZAuuSq_j2_w#t-00-01-45): _today on their show, they had Andrew Kolvet joining them virtually_
+- [00:34:06](/episodes/ep-a-e7HC6SeK8#t-00-34-06): _How could the spokesperson at Turning Point USA be on the—how could they be gaining millions from that?_
 
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 
@@ -91,7 +89,7 @@ object: "org-turning-point-usa"
 
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
-- [00:03:24](/episodes/ep-es7PWdFGoFI#t-00-03-24): _So this is quite literally the PR guy who's calling the surgeon._
+- [00:31:45](/episodes/ep-es7PWdFGoFI#t-00-31-45): _You know, I told them. Andrew (Andrew Kolvet) was my source. Andrew (Andrew Kolvet) told me. Verbatim. That Bibi Netanyahu offered to take turning points to the next level and that Charlie (Charlie Kirk) turned that money down. ... But it's especially crazy when people are calling it a conspiracy when I share things that are told to me from the spokesperson of Turning Point USA._
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
@@ -121,7 +119,7 @@ object: "org-turning-point-usa"
 
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 
-- [00:02:39](/episodes/ep-w1oqQbR_bYs#t-00-02-39): _this is what was divulged to me from Andrew Kolvet at the time_
+- [00:19:05](/episodes/ep-w1oqQbR_bYs#t-00-19-05): _the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk_
 
 ### Related
 

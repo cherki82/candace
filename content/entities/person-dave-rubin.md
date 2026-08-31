@@ -28,7 +28,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,9 +37,9 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-07">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-29" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-24" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-dave-rubin-t-00-31-57" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-36-58" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-05-50" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 15 mentions" title="2026-01-20 · 15 mentions"><span></span></a>
@@ -52,9 +52,9 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08) | 1 |
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-29) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-24) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-dave-rubin-t-00-31-57) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-36-58) | 1 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-05-50) | 3 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-07) | 15 |
@@ -168,9 +168,9 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 > "...s that. That's just not—that's just not cool beyond anything else. So I was pretty dumbfounded when Dave Rubin weighed in on the matter, and he called what Ben did—effectively trying to humiliate Megyn (Megyn K..."
 
 **[00:06:35](/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-06-35)**
-> "...Megyn Kelly) on her own stage— he referred to it as almost an act of bravery. Take a listen to what Dave Rubin says. All right, first off—again, I guess I'm glazing Ben right now, but he deserves it. It is not ..."
+> "Take a listen to what Dave Rubin says."
 
-**[00:07:37](/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-07-31)**
+**[00:07:36](/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-07-31)**
 > "... what happens when you're a Zionist, where you just—on this one topic—and this was what it was with Dave Rubin and why I had to stop being friends with him or friendly with him—is like, they just don't know wha..."
 
 </details>
@@ -178,7 +178,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04)**
+**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-36-58)**
 > "...nk once, when he said something that I totally agreed with. And then, like, all of the agents, like Dave Rubin, all of them are like, don't you see what you did? And they make you think you're going crazy, but ..."
 
 </details>
@@ -194,7 +194,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:55:50](/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-29)**
+**[00:55:47](/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-24)**
 > "... world has a right to commit genocide." And I was suddenly being flooded with messages from people. Dave Rubin, I remember this. I was like, "What did you mean by that?" And they're texting me. It's like, "We c..."
 
 </details>
@@ -225,6 +225,25 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 </details>
 
 <details>
+<summary>Appeared With (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08): “Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08): “Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Authored (1)</summary>
 
 - **[Don't Burn This Book](/entities/work-dont-burn-this-book.md)**
@@ -243,7 +262,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “Dave Rubin instantly replied and said something about Israel—even though I didn't mention Israel in the tweet”
-- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:13:57](/episodes/ep-w1oqQbR_bYs.md#t-00-13-30): “Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candice, found it vile and rebuked her”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:13:44](/episodes/ep-w1oqQbR_bYs.md#t-00-13-30): “Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candace, found it vile and rebuked her”
 
 </details>
 
@@ -267,7 +286,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09): “Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-08): “Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery”
 
 </details>
 
@@ -286,12 +305,26 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:30](/episodes/ep-9naMwS0kMBE.md#t-00-34-30): “the real reason that I stopped being friends with Dave Rubin is a situation that made me extremely uncomfortable and made me feel that Dave Rubin was a groomer”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08): “Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08): “Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future.”
 
 </details>
 
@@ -319,7 +352,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** defended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09): “Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-08): “Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery”
 
 </details>
 

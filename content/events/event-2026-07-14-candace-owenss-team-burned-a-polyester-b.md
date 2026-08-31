@@ -6,6 +6,11 @@ date: "2026-07-14"
 ---
 
 **Date:** 2026-07-14
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “this morning”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-07-14"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:06:35](/episodes/ep-X3VKJVJ7cN4.md#event-event-2026-07-14-candace-owenss-team-burned-a-polyester-b-t-00-06-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(395);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=395s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the team went outside and we just started burning the shirt.

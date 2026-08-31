@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:51:51](/episodes/ep-SKNJPul29zU.md#t-00-51-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3111);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=3111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to that. And when I sat down with her, she was like, oh, no, I don't have anything more than the public has because now what happens is we have to move towards this May date and the SBI, which is the Bureau of Investigations in Utah is the state investigations in Utah, they're going to go now find all this.
 

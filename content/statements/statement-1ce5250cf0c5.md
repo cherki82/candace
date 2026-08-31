@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2410);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2410s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,
 

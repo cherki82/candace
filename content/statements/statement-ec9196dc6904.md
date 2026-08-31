@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:14:19](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(859);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=859s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Justin Streiff is going to send the email that was drafted by Aubrey announcing Charlie's death to the entire Turning Point USA staff at 227.
 

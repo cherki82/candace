@@ -3,9 +3,17 @@ title: "UCLA"
 description: "UCLA (Organizations) - 3 mentions"
 id: "org-ucla"
 type: "ORG"
+categories:
+  - "higher education"
 ---
 
 _Type: Organizations_
+
+**Categories:** higher education
+
+**Entity verification:** verified
+> UCLA’s official site confirms the institutional abbreviation and full identity as the University of California, Los Angeles.
+Source: [About UCLA: Fast facts | UCLA](https://newsroom.ucla.edu/ucla-fast-facts)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-ucla-t-00-04-56">2025-09-11 · 00:05:36</a></strong></div>
@@ -23,7 +31,7 @@ _Type: Organizations_
 <p>Highest activity: <a href="/episodes/ep-_dRaEO47-co.md#ent-org-ucla-t-00-04-56">To My Friend, Charlie Kirk.</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-org-ucla-t-00-04-56" style="--pulse-height:100%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-ucla-t-00-05-38" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-ucla-t-00-05-49" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-ucla-t-00-14-12" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -31,7 +39,7 @@ _Type: Organizations_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-ucla-t-00-04-56) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-ucla-t-00-05-38) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-ucla-t-00-05-49) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-ucla-t-00-14-12) | 1 |
 
 </details>
@@ -53,7 +61,7 @@ _Type: Organizations_
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:06:14](/episodes/ep-LATnak75Si0.md#ent-org-ucla-t-00-05-38)**
+**[00:06:14](/episodes/ep-LATnak75Si0.md#ent-org-ucla-t-00-05-49)**
 > "...and you're already going to be in that corridor, try to do those campus events back-to-back. We did UCLA, we did Berkeley, we did Stanford. You do a sweep overnight, over two days. You don't fly to Utah a..."
 
 </details>

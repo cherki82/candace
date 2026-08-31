@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:05:53](/episodes/ep-YeEtS7nix3o.md#t-00-05-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(353);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=353s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which was news to us because I've never met Alexander Dugin. We still don't know Alexander Dugin
 

@@ -15,7 +15,7 @@ object: "person-charlie-kirk"
 
 **[Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY)**
 
-- [00:01:02](/episodes/ep-sImMM04XdWY#t-00-01-02): _Charlie Kirk that called me and told me that they wanted me to stop speaking about Brigitte_
+- [00:01:00](/episodes/ep-sImMM04XdWY#t-00-01-00): _Because as you guys know, it was Charlie (Charlie Kirk) that called me and told me that they wanted me to stop speaking about Brigitte._
 
 ### Related
 

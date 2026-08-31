@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:02:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-02-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(169);return false;">Play</a>
+**Timestamp:** [00:02:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-02-49) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=169s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> As I showed you yesterday, Charlie was having a lot of vivid dreams—dreams that he said he had throughout his entire life—that he was going to die in a really tragic, quick way.
+> As I showed you yesterday, Charlie (Charlie Kirk) was having a lot of vivid dreams—dreams that he said he had throughout his entire life—that he was going to die in a really tragic, quick way. But especially in April, he was having vivid dreams that something big was about to happen.
 
 ## Verification
 

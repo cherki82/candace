@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:29:51](/episodes/ep-DdPjoy5W-wY.md#t-00-29-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1791);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=1791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is also worth noting that the university, Arizona State University, was the number one university that was mentioned in Jeffrey Epstein's emails about thirty five hundred times.
 

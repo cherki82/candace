@@ -1,10 +1,13 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 18 mentions"
+description: "Operation Mockingbird (Concepts) - 20 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
   - "Mockingbird"
+  - "Mockingbird 1.0"
+  - "Mockingbird 2.0"
+  - "Operation Mockingbird 2.0"
 categories:
   - "alleged intelligence-media program"
   - "historical intelligence topic"
@@ -12,7 +15,7 @@ categories:
 
 _Type: Concepts_
 
-**Also known as:** Mockingbird
+**Also known as:** Mockingbird, Mockingbird 1.0, Mockingbird 2.0, Operation Mockingbird 2.0
 
 **Categories:** alleged intelligence-media program, historical intelligence topic
 
@@ -23,11 +26,11 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-operation-mockingbird-t-00-11-44">2025-09-18 · 00:12:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32">2026-07-29 · 00:53:00</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +43,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-operation-mockingbird-t-00-05-22" style="--pulse-height:20%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-concept-operation-mockingbird-t-00-00-00" style="--pulse-height:60%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-02-59" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 5 mentions" title="2025-12-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-concept-operation-mockingbird-t-00-19-14" style="--pulse-height:40%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-operation-mockingbird-t-00-36-06" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-operation-mockingbird-t-00-02-24" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
@@ -55,6 +59,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-operation-mockingbird-t-00-05-22) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-concept-operation-mockingbird-t-00-00-00) | 3 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-02-59) | 5 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-concept-operation-mockingbird-t-00-19-14) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-operation-mockingbird-t-00-36-06) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-operation-mockingbird-t-00-02-24) | 1 |
@@ -67,7 +72,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
@@ -107,8 +112,19 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:55:44](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37)**
+**[00:55:37](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37)**
 > "This person writes, Operation Mockingbird, everything is not what it seems."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:19:14](/episodes/ep-6DhWawD4ZiM.md#ent-concept-operation-mockingbird-t-00-19-14)**
+> "...a Kirk), which a lot of these mockingbird influencers seem to be making is essentially they..."
+
+**[00:23:07](/episodes/ep-6DhWawD4ZiM.md#ent-concept-operation-mockingbird-t-00-22-37)**
+> "...e right price, they will join Operation Mockingbird. For me personally, that is how I feel, okay?"
 
 </details>
 
@@ -178,7 +194,29 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Founded By (1)</summary>
+
+- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00): “It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00): “It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.”
+
+</details>
+
+</details>
 
 </details>
 
@@ -223,7 +261,7 @@ _No relationships extracted yet._
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
+- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-09) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
   - Also about: [MKUltra](/entities/concept-mkultra.md), [JFK assassination](/entities/event-jfk-assassination.md)
 
 </details>
@@ -231,7 +269,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:51:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26) (Accusation) **Candace Owens**: ["There has been a military infiltration into the churches"](/statements/statement-d4635fcbe2de.md)
+- [00:51:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26) (Accusation) **Candace Owens**: ["Owens said it seemed to her that there had been a military infiltratio..."](/statements/statement-d4635fcbe2de.md)
 
 </details>
 

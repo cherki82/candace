@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:33:39](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2019);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=2019s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so in 1964, a group of scientists theorized that there's something called a Higgs boson, one of the scientists was named. and peter higgs i believe and so the search was on to find this particle
 

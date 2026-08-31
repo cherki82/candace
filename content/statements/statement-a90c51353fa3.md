@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:04:59](/episodes/ep-Wjul6YV6izo.md#t-00-04-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(299);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=299s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Widows are uniquely grief policed. Their appearance, their tone and behavior, ... said L.A. grief therapist Claire Bidwell Smith.
 

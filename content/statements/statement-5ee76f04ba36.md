@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:27:27](/episodes/ep-y8lak3CRwDw.md#t-00-27-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1647);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1647s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you in May she graduates, like I said, magna cum laude at Arizona State University. Per her LinkedIn, she was a double bachelor of science in political science and international relations.
 

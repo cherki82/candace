@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:01:47](/episodes/ep-1QZ4X6q1DPg.md#t-00-01-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(107);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=107s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You have access to that actual laptop. A jury found Hunter Biden guilty of three felony gun charges.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:40:33](/episodes/ep-YeEtS7nix3o.md#t-00-40-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2433);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=2433s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a little bit weird when people are saying that they believe that you had something to do with trafficking Romania if that's the if that's the allegation that's made about Erika Kirk's past that you would partner with a church that is quite literally being sued for the very same reasons
 

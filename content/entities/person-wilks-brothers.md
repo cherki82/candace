@@ -16,7 +16,7 @@ _Type: People_
 Source: [A Pair of Billionaire Preachers Built the Most Powerful Political Machine in Texas](https://www.propublica.org/article/tim-dunn-farris-wilks-texas-christian-nationalism-dominionism-elections-voting)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-27">2025-11-04 · 00:13:44</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-26">2025-11-04 · 00:13:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-wilks-brothers-t-01-22-35">2026-01-09 · 01:22:53</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -28,16 +28,16 @@ Source: [A Pair of Billionaire Preachers Built the Most Powerful Political Machi
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-27">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-26">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-27" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-26" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-wilks-brothers-t-01-22-35" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-27) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-26) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-wilks-brothers-t-01-22-35) | 2 |
 
 </details>
@@ -62,10 +62,10 @@ Source: [A Pair of Billionaire Preachers Built the Most Powerful Political Machi
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[00:13:44](/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-27)**
+**[00:13:44](/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-26)**
 > "...roduce this to you right now—because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas. The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind D..."
 
-**[00:13:54](/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-27)**
+**[00:13:54](/episodes/ep-Qfwr08Ebczo.md#ent-person-wilks-brothers-t-00-13-26)**
 > "...se I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas. The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed mone..."
 
 </details>
@@ -76,26 +76,26 @@ Source: [A Pair of Billionaire Preachers Built the Most Powerful Political Machi
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Invested In (3)</summary>
+<summary>Funded (3)</summary>
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “his church was funded by the Wilks Brothers down in Texas.”
 
 </details>
 
-- **[DailyWire](/entities/org-dailywire.md)**
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire”
 
 </details>
 
 - **[PragerU](/entities/org-prageru.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
 
 </details>
 
@@ -104,24 +104,24 @@ Source: [A Pair of Billionaire Preachers Built the Most Powerful Political Machi
 <details>
 <summary>Referenced By (3)</summary>
 
-- **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)** has investor this
+- **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “his church was funded by the Wilks Brothers down in Texas.”
 
 </details>
 
-- **[DailyWire](/entities/org-dailywire.md)** has investor this
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire”
 
 </details>
 
-- **[PragerU](/entities/org-prageru.md)** has investor this
+- **[PragerU](/entities/org-prageru.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.”
 
 </details>
 
@@ -135,11 +135,11 @@ Source: [A Pair of Billionaire Preachers Built the Most Powerful Political Machi
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>
 
-- [00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) (Claim) **Candace Owens**: ["Rob McCoy's church (Godspeak Calvary Chapel) was funded by the Wilks B..."](/statements/statement-b34373d9586c.md)
+- [00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26) (Claim) **Candace Owens**: ["Rob McCoy's church, Godspeak Calvary Chapel, was funded by the Wilks B..."](/statements/statement-5bb3f019eee6.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)
 
-- [00:14:01](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) (Claim) **Candace Owens**: ["The Wilks Brothers fund DailyWire with the initial seed money and majo..."](/statements/statement-aa3c0c80962c.md)
-  - Also about: [DailyWire](/entities/org-dailywire.md), [PragerU](/entities/org-prageru.md)
+- [00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26) (Claim) **Candace Owens**: ["The Wilks Brothers are the ones that fund DailyWire, the initial seed ..."](/statements/statement-384067fd3298.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [PragerU](/entities/org-prageru.md)
 
 </details>
 

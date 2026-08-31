@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:17:16](/episodes/ep-X92MllIHDzw.md#t-00-17-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1036);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1036s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > only 30 percent towards the cause it kind of grew into something more global I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the army and then was able to work with a orphanage in Romania.
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [02:16:26](/episodes/ep--9MOUvgGyi4.md#t-02-16-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(8186);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=8186s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In the case of a FoldAR, you could have the folded rifle in a backpack and another barrel system in it. ... And so you get to a shooting position, you take the rifle out, you unfold it, latch it, take your shot, you fold it, pop the pin, take that barrel system off. ... you shoot a bullet out of one system, one barrel system. And then you swap it over to another and your bullet profile doesn't match. ... As long as you get one of those components out of the mix, then you're effectively scot-free.
 

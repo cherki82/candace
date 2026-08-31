@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:20:25](/episodes/ep-d7VsbEIWkP8.md#t-00-20-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1225);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1225s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > if there is overwhelming evidence that Tyler Robinson did this crime, if they're sticking to that, if it's just so overwhelming that he did this crime, then we can state that there is objectively more overwhelming evidence that Lance Twiggs did this crime.
 

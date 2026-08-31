@@ -6,6 +6,7 @@ date: "1969-07-20"
 ---
 
 **Date:** 1969-07-20
+**Date precision:** Day
 
 ## Event
 

@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:34:54](/episodes/ep-ChuWo-n49B8.md#t-00-34-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2094);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2094s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But he really did build an empire of sleaze and he embraced it until he didn't. Now, on the personal side of things, you should know that Perez as a gay single man in the new social media era made this decision also to have children via surrogacy. He's single. This is becoming an increasingly controversial topic. Gay men using surrogacy, not having another parent in their lives. lives he chose to have three children, one in 2013, one in 2015, and one in 2017, one boy and two girls. So he is a single father, which is important as we get into what happened last night.
 

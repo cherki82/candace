@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:18:34](/episodes/ep-mFuno0TuuQQ.md#t-00-18-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turning Point was already worth $100 million. ... Dollars, closing $100 million annually.
 

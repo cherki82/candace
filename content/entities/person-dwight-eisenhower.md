@@ -5,11 +5,19 @@ id: "person-dwight-eisenhower"
 type: "PERSON"
 aliases:
   - "Eisenhower"
+categories:
+  - "U.S. president"
 ---
 
 _Type: People_
 
 **Also known as:** Eisenhower
+
+**Categories:** U.S. president
+
+**Entity verification:** verified
+> Eisenhower Presidential Library confirms canonical full name Dwight David Eisenhower and presidency.
+Source: [Presidential Years | Eisenhower Presidential Library](https://www.eisenhowerlibrary.gov/eisenhowers/presidential-years)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-dwight-eisenhower-t-00-30-02">2025-10-28 · 00:30:46</a></strong></div>

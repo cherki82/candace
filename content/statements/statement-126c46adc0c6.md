@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:50:20](/episodes/ep-k1b1NDCrNFs.md#t-00-50-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3020);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=3020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Writing a movie script like Lady Ballers and inserting Brett Cooper into a role to lick your face, which she declined to do, that feels a bit gratuitous to me for a conservative company.
 

@@ -23,7 +23,7 @@ type: "opinion"
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:43:36](/episodes/ep-a-e7HC6SeK8.md#t-00-43-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2616);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=2616s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In effect—if Assad was telling the truth, and I believe he was because I think there's a war on Christians that's happening—then the West and the United States were implicated in part by a false flag attack to justify a larger military justification
 

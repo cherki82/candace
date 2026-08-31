@@ -6,6 +6,11 @@ date: "2019"
 ---
 
 **Date:** 2019
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2019”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2019"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:19:45](/episodes/ep-X3VKJVJ7cN4.md#event-event-2019-candace-owens-and-charlie-kirk-argued-ab-t-00-19-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1185);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the argument that Charlie and I had regarding Ike Perlmutter, the check, the money, 2019

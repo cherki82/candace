@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:41:05](/episodes/ep-19vHhjF7-NA.md#t-00-40-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2465);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2465s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that's why they had to. get all of these books after World War II. It was like a great reset. They didn't want anybody to know anything about Russian history. They started publishing, taking Russian books and translating them, meaning editing them into various languages in the West just to put up this wall.
 

@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:11:10](/episodes/ep-Wjul6YV6izo.md#t-00-11-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(670);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=670s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The movement's not going anywhere and it will only grow stronger when you join it.
 

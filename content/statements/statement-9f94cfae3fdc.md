@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:31:39](/episodes/ep-tB5SXXmd9vU.md#t-00-31-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1899);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1899s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 1990, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was founded by T
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:48:00](/episodes/ep-eMtjzXkQrsU.md#t-00-48-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2880);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2880s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The last thing I wanted in my life was a lawsuit, but I brought this case because of the pervasive retaliation I faced and continue to for privately and professionally asking for a safe working environment for myself and others.
 

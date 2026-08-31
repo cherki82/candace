@@ -31,16 +31,16 @@ veracity: "true"
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1546);return false;">Play</a>
+**Timestamp:** [00:24:53](/episodes/ep-es7PWdFGoFI.md#t-00-24-53) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I've got to go. And I remember that call. And around the time I put that phone away, and then he immediately calls his dad. He calls Robin McCoy.
+> profoundly freaked out what i'll always remember is the ways his lip was quivering which i'd never seen before and you you very rarely see from someone that's he was three and then i think he literally said to me i i might be imagine this but i think what he literally said was he's in that he was looking around and then he says I need to call Erika (Erika Kirk) and then he takes his phone and he begins calling Erika (Erika Kirk) and I don't want to disclose how that call unfolded but he did that this you know your mind extends all of this but that is happening within a minute of all of this occurring I remember he calls Erica I around the same time, I pull out my phone and I call my mom just to say, mom, there's been a shooting.
 
 ### 2. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:14:51](/episodes/ep-OgRyiOAVtWU.md#t-00-14-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(891);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=891s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I might be imagining this—but I think what he literally said was ... then he says, "I need to call Erika (Erika Kirk)." ... And then he takes his phone and he begins calling Erika (Erika Kirk). ... that is happening within a minute of all of this occurring.
 

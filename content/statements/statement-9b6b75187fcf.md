@@ -1,36 +1,39 @@
 ---
-title: "he proudly went around and he promoted to everyone that woul..."
-description: "\"he proudly went around and he promoted to everyone that would listen that he spoke to Charlie Kirk the night before he died—probably in that three-hou...\" — Candace Owens"
+title: "Candace Owens said the public could not know what Josh Hamme..."
+description: "\"Candace Owens said the public could not know what Josh Hammer meant by the public-execution tweet and that anyone claiming certainty was lying.\" — Candace Owens"
 statement_id: "statement-9b6b75187fcf"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> he proudly went around and he promoted to everyone that would listen that he spoke to Charlie Kirk the night before he died—probably in that three-hour window. He bragged that he and Rabbi Wolicki had a Zoom call with Charlie Kirk.
+> Candace Owens said the public could not know what Josh Hammer meant by the public-execution tweet and that anyone claiming certainty was lying.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Josh Hammer](/entities/person-josh-hammer.md) (person)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:19:34](/episodes/ep-2Riv3I7D0Yk.md#t-00-19-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1174);return false;">Play</a>
+**Timestamp:** [00:12:49](/episodes/ep-2Riv3I7D0Yk.md#t-00-12-18) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=769s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Would you trust Josh if he came out and said, "I know I didn't contextualize it, and I know all day I was tweeting about Israel, but that one was about Irina (Irina Zarutska)." Don't forget, he proudly went around and he promoted to everyone that would listen that he...
+> So anybody telling you he for sure meant this or he for sure didn't mean this is a liar. We cannot know that. We cannot know Josh Hammer's thoughts.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

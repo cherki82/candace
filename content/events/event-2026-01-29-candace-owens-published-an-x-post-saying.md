@@ -6,6 +6,11 @@ date: "2026-01-29"
 ---
 
 **Date:** 2026-01-29
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Thursday, January 29th of this year”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2026-01-29"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:12:04](/episodes/ep-ZzAT2xijKGQ.md#event-event-2026-01-29-candace-owens-published-an-x-post-saying-t-00-11-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(724);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=724s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > tweet that I published on Thursday, January 29th of this year.
 
@@ -25,6 +30,6 @@ date: "2026-01-29"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:14:36](/episodes/ep-ZzAT2xijKGQ.md#event-event-2026-01-29-candace-owens-published-an-x-post-saying-t-00-11-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(876);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=876s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had also replied on January 29th which you can find this tweet

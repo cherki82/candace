@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:57:13](/episodes/ep-d7VsbEIWkP8.md#t-00-56-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3433);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=3433s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the cocktail of 10 pharmaceuticals that she was on is absolute madness.
 

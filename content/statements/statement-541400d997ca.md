@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:42:34](/episodes/ep-ZzAT2xijKGQ.md#t-00-42-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2554);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2554s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > charlie is then going to be seen at nine o'clock walking with his bodyguard heath and accompanied by a tall man who is not frank turek so locals did not see frank turek on this walk with charlie they did see charlie on a walk
 

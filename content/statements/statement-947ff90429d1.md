@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:10:31](/episodes/ep-69A8TzAGHlU.md#t-00-10-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(631);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=631s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I spent thousands of dollars on drones last year. and went and got the guy's license but if the area lies in the provo utah air space i can't fly that's a 107b the guy we can't break the rules right and then you have secondary restrictions probably due to heavy foot traffic for the school but i can't go in and break the rules
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:47:10](/episodes/ep-ti5Fxrvegno.md#t-00-46-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2830);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=2830s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'll do a deal with the government if they come out and they tell the truth about they did Charlie Kirk I'll retire from podcasting ... I will agree to retire from podcasting if you admit what you did.
 

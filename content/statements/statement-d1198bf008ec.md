@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:06:09](/episodes/ep-mLvJqdxS-FY.md#t-00-06-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(369);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=369s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Usually dock it, but no, I didn't go back. It was too chaotic running around.
 
@@ -39,7 +39,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:11:40](/episodes/ep-AH1KVKkweUE.md#t-00-11-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(700);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=700s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Usually dock it, but no, I didn't go back. I was too chaotic running around.
 

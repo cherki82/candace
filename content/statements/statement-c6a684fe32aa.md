@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:24:19](/episodes/ep-69A8TzAGHlU.md#t-00-24-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1459);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=1459s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Her repeated texts to Harpole to get him to respond to the defamatory conspiracy theories that she had been promoting present a cynical attempt to profit from a situation that she had manufactured by spreading defamatory lies about Harpole and then cajoling him to give her the exclusive content of a response, she stood to profit from increased attention and viewership to her.
 

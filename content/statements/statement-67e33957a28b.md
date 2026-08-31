@@ -7,7 +7,7 @@ type: "promise"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:36:29](/episodes/ep-FFQ9675oqRI.md#t-00-36-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2189);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=2189s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she did tell me she was they were They were preparing lawsuits against Brian Harpole.
 

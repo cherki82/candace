@@ -32,7 +32,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(252);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=252s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years, especially by the fact that they think it is wonderful for Iran, the number one state sponsor of terror, to have a nuclear weapon because they have one thing in common, low IQs. They are stupid people.
 

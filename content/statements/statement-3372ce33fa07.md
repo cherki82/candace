@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:18:18](/episodes/ep-QZWSsq8ZWzw.md#t-00-17-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1098);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1098s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I tell people a must-read book is Inside American Education by Thomas Sowell. It is not left or right. He is just telling you how it all came together—the decline, the deception, the dogmas—and how they are programming our children.
 

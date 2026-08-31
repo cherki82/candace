@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:36:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-36-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5810);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5810s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > think ever America has been a psychological experiment. And if we can control the media, if we can control the education system, you know, get them into school, we can control Hollywood.
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:14:59](/episodes/ep-_vg7ucP1E0g.md#t-00-14-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(899);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=899s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you can't just like ring up the CIA and ask them to be in your documentary I want you to that's not a thing so think through the common sense there if I want to do a documentary on EMPs and I'm just a random girl that is like in pageant world that's pretty much all she's accomplished at this point in her life right um how am I getting the CIA involved in that But there's obviously a connection there
 

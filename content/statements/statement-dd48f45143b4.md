@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is very clear what the Likud government is. They are murderous. They have a particular knack for murdering children.
 

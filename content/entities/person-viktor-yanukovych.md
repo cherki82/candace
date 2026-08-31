@@ -5,11 +5,19 @@ id: "person-viktor-yanukovych"
 type: "PERSON"
 aliases:
   - "Yanukovych"
+categories:
+  - "Ukraine politics,former president"
 ---
 
 _Type: People_
 
 **Also known as:** Yanukovych
+
+**Categories:** Ukraine politics,former president
+
+**Entity verification:** verified
+> Official Ukrainian presidential decree identifies Viktor Yanukovych as President of Ukraine in 2010, matching the transcript context.
+Source: [Decree of the President of Ukraine No. 272/2010](https://www.president.gov.ua/documents/2722010-10166)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-viktor-yanukovych-t-00-18-15">2025-12-05 · 00:18:15</a></strong></div>

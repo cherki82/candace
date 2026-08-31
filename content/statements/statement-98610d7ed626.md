@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [01:03:02](/episodes/ep-5autG89PW6w.md#t-01-02-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3782);return false;">Play</a>
+**Timestamp:** [01:02:57](/episodes/ep-5autG89PW6w.md#t-01-02-32) 
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=3777s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Charlie (Charlie Kirk) also told Dr. Frank Turk right before his death—when they were having a convo about upping his security—that Charlie (Charlie Kirk) knows—quote-unquote—'they want him dead.'
+> Luna writes: "Charlie (Charlie Kirk) also told Dr. Frank Turek right before his death—when they were having a convo about ... upping his security—that Charlie (Charlie Kirk) knows—quote-unquote—'they want him dead.' ... Frank shared this on his podcast following Charlie (Charlie Kirk)'s death."
 
 ## Verification
 

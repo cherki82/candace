@@ -25,10 +25,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2446);return false;">Play</a>
+**Timestamp:** [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-22) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=2446s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And when you see a media storm like this, it can only be happening because Zionists are locking arms and going attack, attack, attack, because they by and large control the media. They just do, okay?
+> And when you see a media storm like this, it can only be happening because Zionists are locking arms and going attack, attack, attack, because they by and large control the media. They just do, okay? One way or the other, Zionists control the empire medias and they are scared about something in this investigation.
 
 ## Verification
 

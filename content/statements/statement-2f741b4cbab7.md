@@ -1,6 +1,6 @@
 ---
-title: "This is the day that Donald Trump meets with Emmanuel Macron"
-description: "\"This is the day that Donald Trump meets with Emmanuel Macron\" — Candace Owens"
+title: "Donald Trump met Emmanuel Macron on February 24, the day Cha..."
+description: "\"Donald Trump met Emmanuel Macron on February 24, the day Charlie Kirk called Candace Owens about the White House request\" — Candace Owens"
 statement_id: "statement-2f741b4cbab7"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> This is the day that Donald Trump meets with Emmanuel Macron
+> Donald Trump met Emmanuel Macron on February 24, the day Charlie Kirk called Candace Owens about the White House request
 
 ## Attribution
 
@@ -20,13 +20,19 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Emmanuel Macron](/entities/person-emmanuel-macron.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:12:06](/episodes/ep-sImMM04XdWY.md#t-00-11-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(726);return false;">Play</a>
+**Timestamp:** [00:12:02](/episodes/ep-sImMM04XdWY.md#t-00-11-35) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=722s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> This is the day that Donald Trump meets with Emmanuel Macron
+> On the same day, February 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron.
 
 ## Verification
 

@@ -22,7 +22,7 @@ type: "promise"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:03:09](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(189);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=189s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > but I will say that I will raise it further with the Supreme Court of George Farber if you are insinuating and actually if you can confirm that you are saying that you will allow me, as you said further in this, to bring whatever it is because it would be more authentic if it was face to face.
 

@@ -26,7 +26,7 @@ type: "promise"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:32:05](/episodes/ep-czVBmqZP6Ss.md#t-00-31-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1925);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1925s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You put a shill in Charlie’s chair, in Charlie’s company, and you try to tell us to follow that individual, I will be an enemy of you. There will be nothing that can stop me, okay? And I want you guys to understand, this is not a threat, this is a promise. There will be nothing that can stop me. I will release every single text message.
 

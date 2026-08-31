@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:43:08](/episodes/ep-jsqUIkszZd0.md#t-00-43-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2588);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2588s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If they protest and if they go out in the streets, they will be immediately shot. If they don't have guns, you know, we sent some guns, but the group that was supposed to give, which I said would happen to my people, I said it, I called it exactly. ... We sent guns, a lot of guns, they were supposed to go to the people so they could fight back against these thugs. You know what happened? ... The people that they sent them to kept them because they said, what a beautiful gun, I think I'll keep it.
 

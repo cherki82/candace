@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:28:53](/episodes/ep-5NQyGuRYbU8.md#t-00-28-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1733);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=1733s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We wrote pursuant to the Freedom of Information Act, listed that I request copies of records reflecting the official schedule, calendar meetings, and travel of Kash Patel for the period of September 7, 2025 through to September 10, 2025.
 

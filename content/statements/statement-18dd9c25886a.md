@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk and Candace Owens discussed her Nick Fuentes in..."
-description: "\"Charlie Kirk and Candace Owens discussed her Nick Fuentes interview and he never told her not to speak to him\" — Candace Owens"
+title: "Candace Owens said Charlie Kirk never told her not to speak ..."
+description: "\"Candace Owens said Charlie Kirk never told her not to speak to Nick Fuentes.\" — Candace Owens"
 statement_id: "statement-18dd9c25886a"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,14 +10,13 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie Kirk and Candace Owens discussed her Nick Fuentes interview and he never told her not to speak to him
+> Candace Owens said Charlie Kirk never told her not to speak to Nick Fuentes.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## About
 
@@ -29,9 +28,9 @@ type: "factual_claim"
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:08:23](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(503);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And Charlie (Charlie Kirk) and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes (Nick Fuentes)
+> And Charlie (Charlie Kirk) and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes.
 
 ## Verification
 

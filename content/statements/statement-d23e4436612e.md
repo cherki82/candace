@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:15:23](/episodes/ep-iHav0PPzUz8.md#t-00-15-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(923);return false;">Play</a>
+**Timestamp:** [00:15:23](/episodes/ep-iHav0PPzUz8.md#t-00-14-40) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=923s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I guess there's just no place from Egypt all the way to Utah that an Egyptian military plane can like get a tire changed
 

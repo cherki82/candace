@@ -16,7 +16,7 @@ _Type: Organizations_
 Source: [About Snopes](https://www.snopes.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-13-36">2025-10-30 · 00:14:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-14-02">2025-10-30 · 00:14:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-org-snopes-t-00-13-48">2025-12-03 · 00:13:48</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -28,9 +28,9 @@ Source: [About Snopes](https://www.snopes.com/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#t-00-13-36">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#t-00-14-02">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#t-00-13-36" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-14-02" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-21-14" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-snopes-t-00-13-48" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 </div>
@@ -38,7 +38,7 @@ Source: [About Snopes](https://www.snopes.com/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-13-36) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-14-02) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-21-14) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-snopes-t-00-13-48) | 1 |
 
@@ -69,7 +69,7 @@ Source: [About Snopes](https://www.snopes.com/about/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:14:11](/episodes/ep-iHav0PPzUz8.md#t-00-13-36)**
+**[00:14:11](/episodes/ep-iHav0PPzUz8.md#t-00-14-02)**
 > "...f hours earlier than she said. Okay, you know me—that just makes me more curious. Anytime you see a Snopes-level debunking—as I like to term it—it means you're onto something. Anyways, I was going through t..."
 
 </details>

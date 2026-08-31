@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:23:08](/episodes/ep-hWTdXHGQ8R4.md#t-00-23-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1388);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1388s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And what I do know is that that night before we did what we usually did before tours, we said our prayer and we asked the Lord to protect us and we asked the Lord that his will be done. That's what we did.
 

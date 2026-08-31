@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th, 2025; less than four minutes after Charlie was hit”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-10"
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:20:58](/episodes/ep-4JxgOclKzqg.md#event-event-2025-09-10-terrell-farnsworth-removed-the-sd-card-f-t-00-20-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1258);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=1258s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He doesn't do that. He takes it apart and he takes the SD card out.
 
@@ -25,6 +30,6 @@ date: "2025-09-10"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:08:23](/episodes/ep-9hRcfSrri70.md#t-00-08-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(503);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And yesterday we showed you that Terrell pocketed that SD card.

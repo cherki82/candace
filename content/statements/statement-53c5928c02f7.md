@@ -22,8 +22,8 @@ type: "prediction"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:57:46](/episodes/ep-q7f8r-THr84.md#t-00-57-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3466);return false;">Play</a>
+**Timestamp:** [00:57:46](/episodes/ep-q7f8r-THr84.md#t-00-57-31) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3466s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > More people are going to come out with information
 

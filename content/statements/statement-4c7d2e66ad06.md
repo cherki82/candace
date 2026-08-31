@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:04:15](/episodes/ep-3QJqtW_NOSI.md#t-00-04-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(255);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=255s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Jeffrey Epstein's trafficking network was once deeply embedded in the pageantry and modeling world. ... Women from Eastern Europe. He found young, impoverished minors from war-torn countries, wars that were being waged because of the actions of our government. ... And then he funneled them into modeling agencies and across Victoria's Secret runways
 

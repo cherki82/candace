@@ -11,11 +11,7 @@ object: "person-rob-mccoy"
 
 ## [Calvary Chapel](/entities/org-calvary-chapel) has pastor [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (3 mentions)
-
-**[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
-
-- [00:03:00](/episodes/ep-Qt0VHV-POCg#t-00-03-00): _Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith._
+### Evidence (2 mentions)
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 

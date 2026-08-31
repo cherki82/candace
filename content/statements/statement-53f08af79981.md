@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:54:11](/episodes/ep-y8lak3CRwDw.md#t-00-53-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3251);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=3251s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is so weird. Out of the Sackler family get all of this. I have to know, you know, their name was actually etched on the university at Tel Aviv University and then they took it down after the opioid crisis.
 

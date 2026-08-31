@@ -26,21 +26,11 @@ veracity: "false"
 - [American Jewish Committee](/entities/org-american-jewish-committee.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:46:34](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2794);return false;">Play</a>
-
-> The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous." Charlie (Charlie Kirk), an anti-Semite
-
-### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
-**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2768);return false;">Play</a>
+**Timestamp:** [00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-45-29) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2768s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so he would text me and say, "Man, I'm really taking a lot of heat for this, and people are really mad." The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous." Charlie (Charlie Kirk), an anti-Semite
 

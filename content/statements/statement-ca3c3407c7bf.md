@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:04:07](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(247);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=247s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He lied about the Hamptons meeting
 

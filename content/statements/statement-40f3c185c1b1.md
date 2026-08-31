@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:04:27](/episodes/ep-Dkxa9OUA9K8.md#t-01-04-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3867);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=3867s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Two, we met with an HSI human trafficking specialist at the border who approved us to get through from Canada to the U.S. and gave her temporary status. ... Three, we brought in law enforcement both here and in Texas where we were keeping her, before we documented everything, and five, the very point couple in Canada that was our, I would say our agents of hope up there, have video that they just posted yesterday of Holly (Holly Chalmers) telling the truth about.
 

@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:45:31](/episodes/ep-VMNWMXX1vO8.md#t-00-45-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2731);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2731s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And some audio is going to show that the majority of people at Turning Point USA don't believe Tyler Robinson did it or acted alone. ... We'll have that later this week.
 

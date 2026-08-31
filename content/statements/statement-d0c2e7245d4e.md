@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:20:45](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1245);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Which brings me to Thomas Matthew Crooks because that's exactly what we were told—or not told—when, on July 13th, 2024, a 20-year-old Thomas Matthew Crooks climbs onto a roof and tries to assassinate President Donald Trump
 

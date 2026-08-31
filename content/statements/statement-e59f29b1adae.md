@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2914);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2914s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent
 

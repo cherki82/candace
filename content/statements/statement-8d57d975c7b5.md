@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:09:28](/episodes/ep-69A8TzAGHlU.md#t-00-08-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(568);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=568s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Harpole failed to render aid to Kirk after he was shot. But this time you incorrectly claimed that Harpole failed to render effective aid to Kirk with his supposed-to-be medical bag. ... Harpole of lying about drone availability, asking is that how these assassinations happen? Together, these statements defame Mr. Harpole by accusing him of being a direct cause of Kirk's assassination.
 

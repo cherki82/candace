@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:45:42](/episodes/ep-xjzb_t5Tk9o.md#t-00-45-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2742);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2742s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, isn't like ice has been trained by the IDF? Isn't that the same tactics that's used by ice? ... When they did the locations, ... they found that the location of one of their field offices is in Tel Aviv. ... Why do we have ICE ... office ... in Tel ... Aviv?
 

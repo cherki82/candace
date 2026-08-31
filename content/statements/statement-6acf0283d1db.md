@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [01:00:13](/episodes/ep-i8m_6D4QGmk.md#t-01-00-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3613);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3613s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, the fact that they were—when they sent me that cease and desist, they wrote—for saying that Turning Point is, like, militarily infiltrated. Everybody's in the military. I'm sorry I pointed out the background of all these pastors and Turning Point Faith and Erika's mother. It just seems like a lot of military people arrived very quickly. That's all I'm saying. Sorry for noticing.
 

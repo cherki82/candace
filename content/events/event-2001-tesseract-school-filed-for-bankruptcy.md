@@ -6,6 +6,11 @@ date: "2001"
 ---
 
 **Date:** 2001
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2001”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2001"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:02:56](/episodes/ep-_vg7ucP1E0g.md#event-event-2001-tesseract-school-filed-for-bankruptcy-t-00-02-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(176);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=176s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > after they filed for bankruptcy in 2001, they put their old campus up for sale

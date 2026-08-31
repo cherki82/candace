@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:22:29](/episodes/ep-X92MllIHDzw.md#t-00-22-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1349);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1349s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because I was told this by Charlie, that Ben started putting pressure on Charlie's donors, and trying to get him not to let me speak at AmFest. This was told to me by Charlie.
 

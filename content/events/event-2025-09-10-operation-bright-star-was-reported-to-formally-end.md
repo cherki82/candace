@@ -6,25 +6,19 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
 
 ## Event
 
 > Operation Bright Star was reported to formally end on September 10, 2025, the same day as the assassination.
 
-## Mentioned In (2 times)
-
-### 1. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+## Mentioned In
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:25:29](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1529);return false;">▶️ Play</a>
+**Timestamp:** [00:25:29](/episodes/ep-a-e7HC6SeK8.md#event-event-2025-09-10-operation-bright-star-was-reported-to-formally-end-t-00-25-29) 
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=1529s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> ompleted their training. And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley. Then we have the first public sign that went out on Aug
+> that Operation Bright Star—that Cairo joint operation—formally ends.
 
-### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
-
-**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1474);return false;">▶️ Play</a>
-
-> first announcement goes out. On the 29th, we have Operation Bright Star, which commences—that joint operation that we told you about, which is biennial between Egypt and t
+> **Date stated in this source:** “the same day”
+> **Date review note:** The prior sentence explicitly identifies the same day as September 10, 2025.

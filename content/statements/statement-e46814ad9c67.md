@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:13:28](/episodes/ep-r1PS67aRmcA.md#t-00-13-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(808);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=808s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Boreing (Jeremy Boreing) told Fuentes (Nick Fuentes) that he listens to Fuentes' (Nick Fuentes') show quite often and that he thinks Fuentes (Nick Fuentes) is quote-unquote "very funny" and one of the most talented political influencers, even if he is very concerned about some of what Fuentes (Nick Fuentes) says
 

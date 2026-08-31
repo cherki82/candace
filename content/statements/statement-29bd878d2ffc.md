@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:14:54](/episodes/ep-cZxHqYsWRYg.md#t-00-14-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(894);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The recording is played in court. They get him. They get Tony (Tony Erpenbeck). Bill (Bill Erpenbeck) pleads guilty. He picks up additional charges for threatening to kill his sister. ... He's ultimately sentenced to 30 years in prison. He ends up serving 21 years after a judge later shortens his sentence. ... He later received another 20 years because, you know, he tried to hire the hitman to kill the U.S. district judge, the U.S. attorney, and the FBI agent's children.
 

@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:11:35](/episodes/ep-ZGxnf5cj4Uw.md#t-00-11-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(695);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The answer was he came in because he is not suicidal and did not want to get shot and was confused, as I am told.
 

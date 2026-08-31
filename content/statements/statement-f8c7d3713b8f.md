@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:34:46](/episodes/ep-jsqUIkszZd0.md#t-00-34-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2086);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2086s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > While at Mr. Marx (Victor Marx)' residence, he showed me a structure that was being built behind his house, which included a large underground bunker and a front-facing firearm port built into the concrete structure and an indoor shooting range. ... He stated that the intention of the complex would be used for spiritual retooling of traumatized officers who worked. ... Child sex trafficking cases in partnership with local, state, and federal agencies, and was going to be exclusively funded by donors.
 

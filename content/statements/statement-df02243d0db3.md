@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:12:58](/episodes/ep-kaWtDuoY_ns.md#t-00-12-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(778);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=778s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I also have not been able to get into my client's phone. ... I have not looked at my client's phone and that concerns me, especially because the states indicated they may call individuals uniquely connected to my client.
 

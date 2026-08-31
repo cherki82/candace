@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:06:54](/episodes/ep-SKNJPul29zU.md#t-01-06-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4014);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4014s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The audio of Tyler Robinson's grandfather, remember, Tyler Robinson allegedly was like turned in by his family is like family knew he was guilty. And they know it turns out his grandfather whose weapon he allegedly used right to carry out the assassination was there at the trial defending his grandson. But we were all led to believe that the family, you know, knew that Tyler Robinson is guilty and.
 

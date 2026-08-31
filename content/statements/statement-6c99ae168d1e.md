@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:45:32](/episodes/ep-B9TyCs-6o_0.md#t-00-44-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2732);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=2732s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I didn't even know Joe Kent at all. Had never had a single communication with Joe Kent until after Charlie Kirk was assassinated.
 
@@ -38,7 +38,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2135);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2135s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i did not know joe kent at all prior to assassination his name became familiar to me because the news article which we covered
 

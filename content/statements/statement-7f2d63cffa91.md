@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:44:39](/episodes/ep-k1b1NDCrNFs.md#t-00-44-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2679);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2679s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > proposition her maid of honor to take over her show because i want her to hurt and i want to be clear that's wrong to both sides of that equation okay two girls got hurt in the process of that two young girls got hurt in the process of that because he was deranged and focused and obsessed that is the true Jeremy Boreing now you want to talk about how obsessed he is i want you this is a true statistic since launching his new podcast Jeremy Boreing has done 19 shows that nobody has watched You should know that 17 of them. have been about me and Tucker Carlson. 17 of them have been about me and Tucker Carlson.
 

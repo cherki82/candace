@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1695);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump appointed a guy with literally zero military experience into that position, crucial position. ... So he appoints this guy John C. Phelan and his whole background is in banking.
 

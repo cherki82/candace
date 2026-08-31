@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:14:02](/episodes/ep-ChuWo-n49B8.md#t-00-13-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(842);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=842s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And those messages were presented without any timestamps. We don't know why that is. And also it happens to be that when Lance's (Lance Twiggs) phone was photographed by the police, it was conveniently broken. Take a look here in the top left corner, right where we would be able to discern what time it was when the police took that.
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:09:30](/episodes/ep-BxN2-aeMYIs.md#t-00-09-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(570);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=570s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we prodded that narrative confirmed he was there confirmed the police were called everything he said was accurate, could not confirm, still cannot confirm his memory of who he saw.
 

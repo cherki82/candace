@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:28:52](/episodes/ep-gG4ZoYUjUc8.md#t-00-28-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1732);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1732s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But there's no explanation or documentation for this. I've never had one bad review from Dylan. I've never had one issue with the company. I've never done anything unethical. And so I'm sitting here understanding why my entire livelihood is being completely tossed out. ... my paycheck every other week is being tossed out, Frank, but absolutely no warning whatsoever.
 

@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:02:48](/episodes/ep-DYD_QHMPwqM.md#t-00-02-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(168);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=168s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay. So we invaded, as I mentioned yesterday, mid 2003, and we extracted Gilgamesh, Gilgamesh's tomb roughly two years later.
 

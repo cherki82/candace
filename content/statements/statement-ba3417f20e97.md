@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(852);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=852s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like we're trying to figure out in the wake of Charlie Kirk's assassination, which was obviously a good thing for Bibi Netanyahu, his war ambitions in Iran, what exactly has this organization become?
 

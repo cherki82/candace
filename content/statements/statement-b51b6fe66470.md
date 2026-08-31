@@ -1,6 +1,6 @@
 ---
-title: "there are multiple people that were involved, including Geor..."
-description: "\"there are multiple people that were involved, including George Zinn\" — Candace Owens"
+title: "Owens theorized that multiple people were involved in Charli..."
+description: "\"Owens theorized that multiple people were involved in Charlie Kirk's murder, including George Zinn, and said she believed Tyler Robinson played an uns...\" — Candace Owens"
 statement_id: "statement-b51b6fe66470"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> there are multiple people that were involved, including George Zinn
+> Owens theorized that multiple people were involved in Charlie Kirk's murder, including George Zinn, and said she believed Tyler Robinson played an unspecified part.
 
 ## Attribution
 
@@ -22,8 +22,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [01:06:02](/episodes/ep-2WEHTk0Xewg.md#t-01-06-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3962);return false;">Play</a>
+**Timestamp:** [01:06:02](/episodes/ep-2WEHTk0Xewg.md#t-01-05-32) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=3962s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My theory is that we are not being told the truth, and I think that there are multiple people that were involved—including George Zinn
 

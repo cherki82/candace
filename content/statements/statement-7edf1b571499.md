@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:07:52](/episodes/ep-7ERqbYElOfs.md#t-00-07-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(472);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=472s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Extra points if there's also an Israeli angle. Okay, let's keep reading. It goes on, the case was triggered by a failed contract killing in July of 2020 when two members of France's Parachute Regiment were arrested in possession of weapons near the home of business coach Marie Helene Denis.
 

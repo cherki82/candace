@@ -1,6 +1,6 @@
 ---
-title: "Benjamin Netanyahu called Charlie Kirk and invited him to Is..."
-description: "\"Benjamin Netanyahu called Charlie Kirk and invited him to Israel after Bill Ackman confronted him\" — Candace Owens"
+title: "Owens said Netanyahu called and invited Charlie Kirk to Isra..."
+description: "\"Owens said Netanyahu called and invited Charlie Kirk to Israel during what she described as the Hamptons intervention\" — Candace Owens"
 statement_id: "statement-6ae6a11343b1"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Benjamin Netanyahu called Charlie Kirk and invited him to Israel after Bill Ackman confronted him
+> Owens said Netanyahu called and invited Charlie Kirk to Israel during what she described as the Hamptons intervention
 
 ## Attribution
 
@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:16:28](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(988);return false;">Play</a>
+**Timestamp:** [00:15:18](/episodes/ep-czVBmqZP6Ss.md#t-00-15-01) 
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=918s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel
+> Charlie was in the Hamptons and he had more than one event, but he had essentially what was staged an intervention. ... It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel.
 
 ## Verification
 

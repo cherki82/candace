@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 **Timestamp:** [00:32:29](/episodes/ep-t1YtLS1n8Vs.md#t-00-32-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1949);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=1949s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So, what I know is that Skordas is running as a state prosecutor
 

@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:47:30](/episodes/ep-wcD2khO3rOA.md#t-00-46-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2850);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2850s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bibi Netanyahu wanted to take Turning Point USA to the next level. He offered to take Turning Point USA to the next level. Charlie Kirk said no.
 
@@ -39,7 +39,7 @@ veracity: "unverifiable"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:30:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-30-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1814);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > charlie didn't let him on a show charlie said no to Bibi (Benjamin Netanyahu) net and yahoo when Bibi (Benjamin Netanyahu) wanted to take turning point to the next level charlie said no okay to Bibi (Benjamin Netanyahu) net and yahoo who is a gangster you don't get to tell Bibi (Benjamin Netanyahu) net and yahoo no we all know this and so i i just want people i just want people to know the truth which is that and obviously i release text messages they've left me no choice but to abandon the pro-israel cause
 

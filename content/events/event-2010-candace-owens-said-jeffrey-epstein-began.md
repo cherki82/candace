@@ -6,6 +6,11 @@ date: "2010"
 ---
 
 **Date:** 2010
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2010”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2010"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:18:32](/episodes/ep-ZzAT2xijKGQ.md#event-event-2010-candace-owens-said-jeffrey-epstein-began-t-00-18-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1112);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1112s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in 2010, we know Jeffrey Epstein, based on the emails, begins procuring models from Romania.

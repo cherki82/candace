@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(519);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=519s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is part of the reason I believe, I don't know if you've thought about this a lot like I have, why did the military choose to have us all watch Charlie (Charlie Kirk)'s execution?
 

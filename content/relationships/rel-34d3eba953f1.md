@@ -15,7 +15,7 @@ object: "person-erika-kirk"
 
 **[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
 
-- [00:02:15](/episodes/ep-vwG1juDCQZQ#t-00-02-15): _the event that she did with JD Vance at the University of Mississippi_
+- [00:06:55](/episodes/ep-vwG1juDCQZQ#t-00-06-55): _let's get into Erika Kirk. ... the event that she did with JD Vance at the University of Mississippi._
 
 ### Related
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:39:06](/episodes/ep-AoYZel7_cGQ.md#t-00-38-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2346);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=2346s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and why Blake (Blake Neff) seems to have this convenient amnesia about certain events that day and why he continues to exclude. Danny Phillip from The Equation doesn't know he was driving with. It was Danny Phillip.
 

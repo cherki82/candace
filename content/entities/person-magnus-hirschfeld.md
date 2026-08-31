@@ -5,11 +5,19 @@ id: "person-magnus-hirschfeld"
 type: "PERSON"
 aliases:
   - "Hirschfeld"
+categories:
+  - "sexology history"
 ---
 
 _Type: People_
 
 **Also known as:** Hirschfeld
+
+**Categories:** sexology history
+
+**Entity verification:** verified
+> The U.S. Holocaust Memorial Museum confirms Magnus Hirschfeld as a German physician and pioneering sex researcher.
+Source: [Magnus Hirschfeld | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/magnus-hirschfeld-2)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-magnus-hirschfeld-t-00-12-52">2025-11-03 · 00:13:32</a></strong></div>
@@ -46,7 +54,7 @@ _Type: People_
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:13:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-magnus-hirschfeld-t-00-12-52)**
-> "Magnus Hirschfeld (Magnus Hirschfeld) was the doctor and the sexologist."
+> "Magnus Hirschfeld was the doctor and the sexologist."
 
 </details>
 

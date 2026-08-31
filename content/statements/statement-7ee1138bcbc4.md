@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:44:11](/episodes/ep-ZIH5-V6UPkg.md#t-00-44-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2651);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2651s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, the politicians going to D.C. and they accuse us, nickel and dime us on our taxes so they can send money overseas, wash it and give it back to themselves. They're beholden to foreign countries, the majority of them to Israel, and there just needs to be a real change, a real substantive change.
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:17:45](/episodes/ep-eMtjzXkQrsU.md#t-00-17-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1065);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1065s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And now he is the chief strategy officer. He's injecting them into Salem media network. And it says right there, the integration of narrative messaging into Salem media network properties and aligned distribution channels. This is meant to be a targeted propagandist campaign.
 

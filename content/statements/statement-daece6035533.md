@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:30:06](/episodes/ep-WoXd4oLwd3w.md#t-00-29-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1806);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1806s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then she blinks and she instructs Andrew Kolvet to deny what I said about Charlie (Charlie Kirk) in the Catholic church. Like literally the next week, she okays Alex Clark coming out and saying I'm a liar.
 

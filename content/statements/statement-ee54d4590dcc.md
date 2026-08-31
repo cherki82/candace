@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:19:36](/episodes/ep-zSKrxIUMNqw.md#t-00-19-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1176);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1176s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was March 1st of 2012 when Andrew Breitbart dropped dead from an apparent heart attack. ... because Andrew Breitbart was a powerhouse. He was in his prime, just 43.
 

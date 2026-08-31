@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:03:21](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(201);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We know the pressure because of the text messages, the text messages that have been made public that Charlie was under a lot of pressure from a lot of pro-Israel donors.
 

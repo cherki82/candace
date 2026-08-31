@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:08:26](/episodes/ep-zSKrxIUMNqw.md#t-00-08-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(506);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=506s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I told blank that I was not comfortable sending in a video as it did not feel true to me. ... I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies.
 

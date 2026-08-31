@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:48:26](/episodes/ep-BKcOm32ZEGk.md#t-00-48-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2906);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=2906s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Top comments from yesterday's episode came from Carly. Carly writes crazy fact. My dad was stationed with Lieutenant Aquino back in 82. My dad was an MP, was investigating pentagrams on the base. Then when the child abuse cases popped up, they made my dad and his partner quit investigating due to, quote, MPs don't investigate felonies.
 

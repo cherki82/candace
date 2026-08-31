@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:34:14](/episodes/ep-1mYNOqzAdXs.md#t-00-34-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2054);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2054s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Of course not. It's illegal. How would I even be where I am today for years of working with federal, state, local authorities?
 

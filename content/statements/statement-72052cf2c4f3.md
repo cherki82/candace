@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2172);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=2172s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm showing you this article from CBS News. U.S. Army missed the red flags about a civilian leader. who led a child porn ring and risked U.S. security. That person's name was David Frodsham.
 

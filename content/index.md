@@ -7,16 +7,37 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span class="research-kicker">Investigative evidence desk</span>
 <h1>Trace the record.<br>Test the narrative.</h1>
 <p>Search attributed statements, follow entities across sources, compare claims over time, and inspect the evidence behind every verification.</p>
-<div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
+<div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/event-explorer">Compare events</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>160 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-29">2026-08-29</time></p>
+<p class="kg-freshness"><strong>160 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-31">2026-08-31</time></p>
+
+<section class="kg-coverage" aria-labelledby="coverage-title">
+<div class="kg-coverage-heading">
+<span class="research-kicker">Publication audit</span>
+<h2 id="coverage-title">Research coverage</h2>
+<p><strong>159 of 160</strong> published sources have completed every extraction stage.</p>
+</div>
+<div class="kg-coverage-grid">
+<div><span>Transcript cleaned</span><strong>160 / 160</strong></div>
+<div><span>Entities extracted</span><strong>160 / 160</strong></div>
+<div><span>Statements extracted</span><strong>160 / 160</strong></div>
+<div><span>Events extracted</span><strong>159 / 160</strong></div>
+<div><span>Relationships extracted</span><strong>160 / 160</strong></div>
+</div>
+<details class="kg-coverage-gaps">
+<summary>Inspect 1 source-level pipeline gap</summary>
+<ol>
+<li><a href="/episodes/ep-9k2xrAC0H88">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a><span>Events extracted</span></li>
+</ol>
+</details>
+</section>
 
 <div class="kg-stat-grid">
-<div><strong>6,976</strong><span>Claims &amp; statements</span></div>
-<div><strong>4,058</strong><span>Tracked entities</span></div>
-<div><strong>1,722</strong><span>Timeline events</span></div>
-<div><strong>2,781</strong><span>Research sources</span></div>
+<div><strong>6,659</strong><span>Claims &amp; statements</span></div>
+<div><strong>4,651</strong><span>Tracked entities</span></div>
+<div><strong>1,760</strong><span>Timeline events</span></div>
+<div><strong>3,055</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -68,34 +89,34 @@ description: "An evidence-first research workbench for imported video, audio, an
 
 <div class="verification-feed">
 <article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-ac23843213dd">Owens said she found information indicating that Cabot Phillips&#x27;s father was taking a lot of money from the Adelsons</a>
+<small>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</small>
+</article>
+<article>
+<span class="status-badge status-false">false</span>
+<a href="/statements/statement-af4d843fd91b">Jewish people were in control of the slave trade</a>
+<small>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</small>
+</article>
+<article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-e2816d35af3b">Erika Kirk confirmed to The New York Times that the least traumatizing part of Charlie Kirk&#x27;s assassination was the prospect of raising her children alone.</a>
-<small>Bride Of Charlie: A Wrinkle In Time | Episode 1</small>
+<a href="/statements/statement-d0f2a771d92c">Owens said Michael McCoy took over Charlie Kirk&#x27;s scheduled speaking appearance at Liberty University.</a>
+<small>#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</small>
 </article>
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-142bb554e60f">Nobody knows why she&#x27;s out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.</a>
-<small>Coming soon...</small>
+<a href="/statements/statement-d79001ce3915">Alex Clark said Michael McCoy went to Korea and Japan because Turning Point USA&#x27;s production director asked him to cover the travel so the director could stay with his six children.</a>
+<small>#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</small>
 </article>
 <article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-916bcba24c0f">Erika Kirk has been named the new CEO of Turning Point USA.</a>
-<small>Coming soon...</small>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-5b1130adafa4">Allie Beth Stuckey said a late-August invitation from Charlie Kirk for an early-November Alabama campus event showed that part of the tour was assembled at the last minute and that the UVU stop being booked over the summer was not unusual.</a>
+<small>#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</small>
 </article>
 <article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-8b4427689f08">The great and even legendary Charlie Kirk is dead.</a>
-<small>Coming soon...</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-ac1df86796fa">Catholics do not embrace Zionism, so are all Catholics antisemites according to you?</a>
-<small>VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-dfaf37811d2a">It is important not to make Islamophobic remarks during a religious-liberty hearing.</a>
-<small>VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</small>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-937226dc9b0d">Owens said Charlie Kirk had been attending Mass, sometimes daily and on Sundays, and died wearing a pendant.</a>
+<small>#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</small>
 </article>
 </div>
 

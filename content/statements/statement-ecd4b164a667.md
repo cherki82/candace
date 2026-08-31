@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:37:46](/episodes/ep-c5BcKF91iec.md#t-00-37-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2266);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2266s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was this period in April where Charlie kept insisting to me over and over again that he was going to die young. In fact, he told me that Turning Point USA was going to be the death of him.
 

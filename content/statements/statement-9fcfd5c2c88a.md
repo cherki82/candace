@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:29:10](/episodes/ep-5autG89PW6w.md#t-00-28-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1750);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1750s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Why did his shirt move the way it did? When I've shot people, their shirts didn't move like that.
 

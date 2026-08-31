@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:05:37](/episodes/ep-1IY2oD-_xVA.md#t-00-05-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(337);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=337s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Throughout this series that you fully digest, as I told you yesterday, that Operation Paperclip was not about rescuing brilliant Jewish scientists who were being persecuted from Germany.
 

@@ -21,13 +21,13 @@ _Type: People_
 Source: [York University Archives — David Bakan fonds](https://archivesfa.library.yorku.ca/fonds/ON00370-f0000260.htm)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10">2025-09-15 · 01:02:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10">2025-09-15 · 01:02:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-david-bakan-t-00-24-29">2026-07-23 · 00:24:29</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -77,8 +77,8 @@ Source: [York University Archives — David Bakan fonds](https://archivesfa.libr
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
 
-**[01:02:38](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
-> "I would recommend you read David Bakan, Sigmund Freud and the History of the Jewish Mystical Tradition"
+**[01:02:33](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
+> "And then I would recommend you read David Bakan, “Sigmund Freud and the"
 
 </details>
 
@@ -87,6 +87,28 @@ Source: [York University Archives — David Bakan fonds](https://archivesfa.libr
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored (1)</summary>
+
+- **[Sigmund Freud and the Jewish Mystical Tradition](/entities/work-sigmund-freud-and-the-jewish-mystical-tradition.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 01:02:33](/episodes/ep-czVBmqZP6Ss.md#t-01-02-10): “And then I would recommend you read David Bakan, “Sigmund Freud and the History of the Jewish Mystical Tradition.””
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Sigmund Freud and the Jewish Mystical Tradition](/entities/work-sigmund-freud-and-the-jewish-mystical-tradition.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 01:02:33](/episodes/ep-czVBmqZP6Ss.md#t-01-02-10): “And then I would recommend you read David Bakan, “Sigmund Freud and the History of the Jewish Mystical Tradition.””
+
+</details>
+
+</details>
 
 </details>

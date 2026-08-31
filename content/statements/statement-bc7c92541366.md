@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:56:48](/episodes/ep-kaWtDuoY_ns.md#t-00-56-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3408);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=3408s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm getting the sense ... that they had multiple Tyler Robinson lookalikes that day. ... I think there were multiple Tyler Robinson lookalikes. ... And they were wearing maroon shirts and wearing hats and wearing what they were supposed to wear. And they're never going to show us a clear picture of Tyler Robinson
 

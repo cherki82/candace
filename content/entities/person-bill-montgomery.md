@@ -369,7 +369,7 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) (Claim) **Candace Owens**: ["Bill Montgomery served in the U.S. Air Force Reserve and was from Linc..."](/statements/statement-f20ea24a8eac.md)
-  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [Lincoln, Nebraska](/entities/gpe-lincoln-nebraska.md)
+  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [Lincoln](/entities/gpe-lincoln.md)
 
 - [00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08) (Claim) **Candace Owens**: ["Helene Bartz was good friends with Bill Montgomery and Edith Montgomer..."](/statements/statement-62b1218a70e1.md)
   - Also about: [Helene Bartz](/entities/person-helene-bartz.md), [Edith Montgomery](/entities/person-edith-montgomery.md)

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:07:03](/episodes/ep-HZvwbfePe7o.md#t-00-06-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, I've seen the alleged texts shared by Candace (Candace Owens). I have no idea about their authenticity. Like, let's just stop right there, Andrew Kolvet.
 

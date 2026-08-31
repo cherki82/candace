@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:13:04](/episodes/ep-X92MllIHDzw.md#t-00-12-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(784);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=784s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But I did my due diligence to confirm that those people are real and that those people are in fact stationed at Fort Huachuca and that they made these statements not because they were being fed by the public one way or the other, but because they believed that they had seen her.
 

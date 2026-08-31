@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 **Timestamp:** [00:07:56](/episodes/ep-adJ4LNGp84I.md#t-00-07-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(476);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Skyler Broderick has, of course, mysteriously deleted all of his socials, except for Instagram, but he's wiped his Instagram, okay
 

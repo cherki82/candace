@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:32:55](/episodes/ep-jTj9Ip46r4w.md#t-00-32-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1975);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=1975s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She was also the woman that was behind Margaret Sanger, Planned Parenthood. Emma's boyfriend, also from the Pale of Settlement, tried to assassinate Henry Frick of the U.S. steel.
 

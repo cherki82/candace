@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:14:44](/episodes/ep-4DvYXBn_5JI.md#t-00-14-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(884);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=884s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now when the officers and Desmond Holly had both moved out of frame, out of the view of the roofer's camera, a final shot rings out, not captured by the camera, it was Desmond shooting himself. ... The sheriff's office has since confirmed that only the deputies were the witnesses to Holly shooting himself after they gave their commands.
 

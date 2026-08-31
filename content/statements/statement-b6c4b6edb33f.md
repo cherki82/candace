@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.
 

@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:02:16](/episodes/ep-OEAHy3SsIiI.md#t-00-02-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(136);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > red-handed, orchestrating attacks against me via obscure YouTubers,
 

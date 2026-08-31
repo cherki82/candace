@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:33:25](/episodes/ep-mLvJqdxS-FY.md#t-00-33-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2005);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=2005s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What concerns me most isn't simply that we disagree. It's that these beliefs have become central to our conversations and are creating an ever widening divide in our marriage.
 

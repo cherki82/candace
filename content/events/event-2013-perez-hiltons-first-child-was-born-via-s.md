@@ -6,6 +6,11 @@ date: "2013"
 ---
 
 **Date:** 2013
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “one in 2013”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2013"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:35:14](/episodes/ep-ChuWo-n49B8.md#event-event-2013-perez-hiltons-first-child-was-born-via-s-t-00-34-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2114);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he chose to have three children, one in 2013, one in 2015, and one in 2017

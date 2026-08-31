@@ -136,7 +136,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
 
 - [00:10:56](/episodes/ep-cZxHqYsWRYg.md#t-00-10-40) (Citation) **Candace Owens**: ["Lori Ann Erpenbeck told her lawyer that Tony Erpenbeck offered money t..."](/statements/statement-25baa798a75c.md)
-  - Also about: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

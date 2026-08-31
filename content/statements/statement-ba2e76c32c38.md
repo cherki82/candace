@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:03:21](/episodes/ep-cPidFQDJLbo.md#t-00-03-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(201);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's what I've always told those other candidates. Yeah, let's get face to face. Look, all of this has started only because I entered into the political realm, period, and because I'm winning the governor's race.
 

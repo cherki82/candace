@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:23:08](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1388);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1388s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And we went back and people have reached out to us. Erika (Erika Kirk), it looks like, did a total of three possible rentals under somebody else, like she wasn't even the main realtor.
 

@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:03:56](/episodes/ep-d7VsbEIWkP8.md#t-00-03-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(236);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=236s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We offered Candace Owens, I offered her $300,000 to do a debate. I was like, we'll give you $300,000.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:30:52](/episodes/ep-HGtMfbePDKk.md#t-00-30-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1852);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1852s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace Owens offered $300,000 to do a debate,
 

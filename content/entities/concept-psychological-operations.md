@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 41 mentions"
+description: "Psychological operations (Concepts) - 50 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/psychological-operations)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03">2026-01-12 · 00:02:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-psychological-operations-t-00-37-39">2025-10-30 · 00:38:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-19-22">2026-08-17 · 01:19:40</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,10 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-psychological-operations-t-00-37-39" style="--pulse-height:30%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-psychological-operations-t-00-04-31" style="--pulse-height:10%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-psychological-operations-t-00-35-27" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-concept-psychological-operations-t-00-13-27" style="--pulse-height:40%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 10 mentions" title="2026-01-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-psychological-operations-t-00-48-48" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
@@ -60,6 +64,10 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-psychological-operations-t-00-37-39) | 3 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-psychological-operations-t-00-04-31) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-psychological-operations-t-00-35-27) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-concept-psychological-operations-t-00-13-27) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58) | 10 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-psychological-operations-t-00-48-48) | 1 |
@@ -86,7 +94,7 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -303,6 +311,53 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 
 **[00:02:03](/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03)**
 > "...that's being applied to these psychological operations,"
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+
+**[00:13:27](/episodes/ep-6DhWawD4ZiM.md#ent-concept-psychological-operations-t-00-13-27)**
+> "...eing fed and the very obvious psychological operation that is being employed to make you accept the BS ..."
+
+**[00:15:58](/episodes/ep-6DhWawD4ZiM.md#ent-concept-psychological-operations-t-00-15-33)**
+> "... never been more obvious of a psychological operation. I actually wish they would put me on payroll so ..."
+
+**[00:31:18](/episodes/ep-6DhWawD4ZiM.md#ent-concept-psychological-operations-t-00-31-11)**
+> "...n the grocery store, that the PSYOP will win and make us believe that this is like co..."
+
+**[00:55:37](/episodes/ep-6DhWawD4ZiM.md#ent-concept-psychological-operations-t-00-54-55)**
+> "We're at that stage of a psychological operation. That's it."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:35:39](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-psychological-operations-t-00-35-27)**
+> "...litary execute an operation—a psychological operation—on the American people to get us to support Chris..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:04:31](/episodes/ep-Qfwr08Ebczo.md#ent-concept-psychological-operations-t-00-04-31)**
+> "...ility—almost like it was this psychological operation, nod to Rob McCoy and his family lineage—to see M..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
+
+**[00:38:03](/episodes/ep-iHav0PPzUz8.md#ent-concept-psychological-operations-t-00-37-39)**
+> "Watch this—truly. This is a psychological operation. These people are nutty. Take a listen."
+
+**[00:58:15](/episodes/ep-iHav0PPzUz8.md#ent-concept-psychological-operations-t-00-57-53)**
+> "...ver debunked, guys. These are psychological operations."
+
+**[01:00:41](/episodes/ep-iHav0PPzUz8.md#ent-concept-psychological-operations-t-01-00-29)**
+> "...hink they had perfected these psychological operations—gaslighting us when we all see Charlie (Charlie K..."
 
 </details>
 

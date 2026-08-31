@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:34:13](/episodes/ep-GY6GWceEqtQ.md#t-00-33-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2053);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=2053s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have been silent for years and made every effort to keep these matters private. ... my parents and their team have continued to go to the press, ... leaving me with no choice but to speak for myself and tell the truth about only some of the lies that have been printed. ... I do not want to reconcile with my family.
 

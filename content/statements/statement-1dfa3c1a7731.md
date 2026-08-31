@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:00:27](/episodes/ep-NIEbqsLAK8g.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(27);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=27s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It makes perfect sense now to me that the feds are doing nothing to investigate Charlie Kirk's assassination.
 

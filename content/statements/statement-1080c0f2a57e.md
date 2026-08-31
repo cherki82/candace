@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:36:38](/episodes/ep-5autG89PW6w.md#t-00-36-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2198);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=2198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And obviously I'm speculating here, but I believe Tyler Robinson was involved, and he was in fact driving around campus on that day—therefore assisting in the costume changes, likely picking up clothing.
 

@@ -19,13 +19,18 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+
 ## Source
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
-**Timestamp:** [00:02:03](/episodes/ep-_dRaEO47-co.md#t-00-02-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(123);return false;">Play</a>
+**Timestamp:** [00:01:59](/episodes/ep-_dRaEO47-co.md#t-00-01-20) 
+<a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=119s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It was in the middle of Chicago O'Hare airport. There is this restaurant that's called the Macaroni Grill. And I sat down with Charlie (Charlie Kirk) on our first trip together. He flips over this little paper menu
+> And I want you guys to know about our first planning sesh, okay? ... It was in the middle of Chicago O'Hare airport. There is this restaurant that's called the Macaroni Grill. ... And I sat down with Charlie (Charlie Kirk) on our first trip together. He flips over this little paper menu
 
 ## Verification
 

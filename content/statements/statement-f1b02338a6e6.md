@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:03:59](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(239);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=239s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This was during one of his infamous ceremonies at his abbey in Sicily. But during the experiment, they both got really sick.
 

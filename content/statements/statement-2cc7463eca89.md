@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:15:04](/episodes/ep-SKNJPul29zU.md#t-00-14-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(904);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=904s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like they build $5,000 drones real quick. We have an entire corrupt system where these defense contractors, first of all, we don't have like the industrial base and the manufacturing capacity to build these weapons as quickly as we would need.
 

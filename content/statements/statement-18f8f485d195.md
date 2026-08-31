@@ -7,7 +7,7 @@ type: "promise"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:39:37](/episodes/ep-SubDoZWHARo.md#t-00-39-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2377);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2377s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Love you, Candace. Let me know when you want me to come on the show. ... Ready for you.
 

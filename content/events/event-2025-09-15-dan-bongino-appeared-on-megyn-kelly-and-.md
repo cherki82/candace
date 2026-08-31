@@ -6,6 +6,11 @@ date: "2025-09-15"
 ---
 
 **Date:** 2025-09-15
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 15th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-15"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:46:44](/episodes/ep-mLvJqdxS-FY.md#event-event-2025-09-15-dan-bongino-appeared-on-megyn-kelly-and--t-00-46-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2804);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=2804s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she asks this on September 15th. And he says, yeah, you know, we were.
 
@@ -25,7 +30,7 @@ date: "2025-09-15"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:12:04](/episodes/ep-N4uM8Jdr410.md#event-event-2025-09-15-dan-bongino-appeared-on-megyn-kelly-and--t-00-11-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(724);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=724s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Dan Bongino joined Megyn Kelly. I want you to understand this is on September 15th.
 
@@ -33,6 +38,6 @@ date: "2025-09-15"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:17:56](/episodes/ep-1CFDtD0IgEg.md#event-event-2025-09-15-dan-bongino-appeared-on-megyn-kelly-and--t-00-17-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1076);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=1076s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > four days later we hear from Kash Patel and Dan Bongino and they clarify that

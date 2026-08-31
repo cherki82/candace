@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:10:00](/episodes/ep-puuMVxEu5NU.md#t-00-10-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(600);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=600s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, you had a backpack, a jacket, as well as some gloves and there may have been some other things, I just don't recall them right now.
 

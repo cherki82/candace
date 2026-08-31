@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:16:38](/episodes/ep-qZ8RWfyuewQ.md#t-00-16-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(998);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=998s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think we moved 800,000 copies of my first book.
 

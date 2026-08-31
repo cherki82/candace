@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:30:07](/episodes/ep-Vu6Y24pqhZs.md#t-00-29-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1807);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > passenger manifests that were released as part of the Epstein files indicate that Phelan flew twice on the plane of Jeffrey Epstein several months before Epstein's first arrest on sex charges. ... The manifest for the second flight from London to New York on March 3, 2006 indicates that Phelan flew with 12 other passengers, including Epstein, modeling agent and Epstein associate Jean-Luc Brunel.
 

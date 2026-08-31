@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:29:30](/episodes/ep-4DvYXBn_5JI.md#t-00-29-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1770);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1770s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I asked him, hey, do you have proof of this? He says, but it's worth saying. Erika wasn't in some fort in Tucson. ... She woke up next to Charlie on the 9th, went to the office with Charlie all day, woke him up from a nap before a fox hit, went to dinner with Charlie.
 

@@ -15,7 +15,7 @@ object: "person-eric-trump"
 
 **[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
 
-- [00:08:24](/episodes/ep-_dRaEO47-co#t-00-08-24): _Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place_
+- [00:08:24](/episodes/ep-_dRaEO47-co#t-00-08-24): _But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for his birthday—to a fancy suit place to go get fitted._
 
 ### Related
 

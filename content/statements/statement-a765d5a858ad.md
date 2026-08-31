@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:38:49](/episodes/ep-1IY2oD-_xVA.md#t-00-38-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2329);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2329s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's this type A person that tells her who to go after in each and every room. She knows who those people are, who Erika (Erika Kirk) should instantly transform into, what she has to say. I mean, one of her exes was very clear. He said to me, I was warned by another person in the beauty pageant world that that girl will do anything to get to the top and her mother will do anything to help her get to the top. Her mother herself, Lori (Lori Frantzve), was a model, actually, at one point. So that.
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:10:00](/episodes/ep-YA1FxrDWNIo.md#t-00-09-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(600);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=600s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It turns out, yeah, we were able to identify one of those individuals in the photo, and he is Austrian. It's no wonder nobody recognized him. I mean, what? Austrian? What's this Austrian guy doing? How did we get here? Anyways, his name is Gernot Omer
 

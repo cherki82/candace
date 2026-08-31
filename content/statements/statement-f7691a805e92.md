@@ -26,7 +26,7 @@ type: "citation"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:24:59](/episodes/ep-SgVcnx4Oh30.md#t-00-24-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1499);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1499s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was not being sold as having been equipped with Wi-Fi, right? Because you want to put all the features when you're chartering a plane.
 

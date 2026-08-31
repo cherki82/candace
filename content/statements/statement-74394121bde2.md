@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:16:44](/episodes/ep-SubDoZWHARo.md#t-00-16-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1004);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1004s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was so looking forward to tonight's event at the University of Georgia with our vice president. But after all our family has been through, I take my security team's recommendations extremely seriously.
 

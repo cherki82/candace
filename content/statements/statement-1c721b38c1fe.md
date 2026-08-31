@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:26:14](/episodes/ep-JQjCAsfoXEE.md#t-00-25-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1574);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1574s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The tail number is N560TW. N560TW. It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at
 

@@ -3,9 +3,18 @@ title: "Foster Friess"
 description: "Foster Friess (People) - 2 mentions"
 id: "person-foster-friess"
 type: "PERSON"
+categories:
+  - "philanthropy"
+  - "political donor"
 ---
 
 _Type: People_
+
+**Categories:** philanthropy, political donor
+
+**Entity verification:** verified
+> SEC-hosted Friess Associates materials confirm the canonical name Foster Friess and his role as co-founder of Friess Associates; this matches the Wyoming donor context in the episode.
+Source: [Foster and Lynn Friess — Friess Associates](https://www.sec.gov/Archives/edgar/data/869942/000078025307000013/brandywine_lf123106.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-foster-friess-t-00-01-39">2025-10-27 · 00:02:06</a></strong></div>

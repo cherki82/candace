@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk turned down a large sum of money offered by Isr..."
-description: "\"Charlie Kirk turned down a large sum of money offered by Israeli-linked donors to take Turning Point USA to the next level in exchange for representin...\" — Candace Owens"
+title: "Owens maintained that Charlie Kirk turned down the condition..."
+description: "\"Owens maintained that Charlie Kirk turned down the conditional funding offer she described\" — Candace Owens"
 statement_id: "statement-aa13d75686ce"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,20 +10,23 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie Kirk turned down a large sum of money offered by Israeli-linked donors to take Turning Point USA to the next level in exchange for representing their perspectives
+> Owens maintained that Charlie Kirk turned down the conditional funding offer she described
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:38:19](/episodes/ep-UBkFkg4UNY8.md#t-00-38-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2299);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=2299s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I maintain what I said—that that happened and Charlie (Charlie Kirk) turned the money down.
 

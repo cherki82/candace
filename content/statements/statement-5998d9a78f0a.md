@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:37:25](/episodes/ep-H9p2ZGHAs9A.md#t-00-37-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2245);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=2245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And at the end of the day, who's that going to? Who's that money going to? It's going to his wife's organization now.
 

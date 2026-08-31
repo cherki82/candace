@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:09:22](/episodes/ep-5NQyGuRYbU8.md#t-00-08-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(562);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=562s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Allegedly, Mark A. Liti had confessed to his longtime high school friend just a week before he died that he had illegally taken some explosives from his job.
 

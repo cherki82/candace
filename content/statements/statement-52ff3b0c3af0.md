@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:34:42](/episodes/ep-qZ8RWfyuewQ.md#t-00-34-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2082);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=2082s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > An event that did not in any way require her presence, one which not even Charlie Kirk had ever attended. ... Or President Trump, for that matter, as the president, he never attended any of these correspondence centers.
 

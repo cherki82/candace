@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:20:59](/episodes/ep-y8lak3CRwDw.md#t-00-20-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1259);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1259s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We do. Yeah, we had and we had like Canadians there for a while. And it's a NATO joint base. So there was troops from mostly ... America and Romania, but from other places too.
 

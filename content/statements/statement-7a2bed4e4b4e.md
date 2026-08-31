@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:15:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-15-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(911);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=911s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she has become the CEO of the organization because that is what Charlie (Charlie Kirk) wanted and it's because I saw it with all the people who are senior at turning point there was ... There wasn't even a question that that is what would happen. There was no one forcing this. There was no one pressuring it to happen. This is what everyone at turning point wanted to happen.
 

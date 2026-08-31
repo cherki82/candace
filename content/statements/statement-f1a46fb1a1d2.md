@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:36:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-36-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2214);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2214s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Carl Kenneth Frantzve is Erica (Erika Kirk)'s... ... paternal grandfather. ... She definitively was close to her grandfather. ... We know this because she posts about him many, ... many times over the years, referring to him affectionately as her morfar.
 

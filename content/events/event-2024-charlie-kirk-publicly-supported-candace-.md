@@ -6,6 +6,11 @@ date: "2024"
 ---
 
 **Date:** 2024
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “beginning of 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:18:22](/episodes/ep-eLgD5yUVbko.md#event-event-2024-charlie-kirk-publicly-supported-candace--t-00-18-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1102);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1102s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > beginning of 2024, Charlie took my side in a very big and public way.
 
@@ -25,6 +30,6 @@ date: "2024"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:43:23](/episodes/ep-_cNtgris8Ik.md#event-event-2024-charlie-kirk-publicly-supported-candace--t-00-43-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2603);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2603s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he totally had her back when she got fired from the daily wire

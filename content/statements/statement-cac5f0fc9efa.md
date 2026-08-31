@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:05:03](/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(303);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=303s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He recorded the individual on his iPhone. He then reported what he saw to police dutifully. And he was very clear. He said that the person looked to him like it was a professional. ... As a professional, remember that? He said a person with some sort of military tactical training seemed to be dressed in tactical wear.
 

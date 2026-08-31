@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:24:58](/episodes/ep-HYn0P-P1wUw.md#t-00-24-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1498);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1498s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a still image of the much longer video I have that was shown to me of Charlie (Charlie Kirk) from behind. ... There's no blood on Charlie (Charlie Kirk). There was absolutely no blood on Charlie (Charlie Kirk). Not only did the bullet not go through
 
@@ -37,7 +37,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:35:18](/episodes/ep-5-HUyv9LyMg.md#t-00-35-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=2118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The bullet didn't go through and not only did not go through, didn't even cause any sort of a mess. His perfectly white t-shirt was white until the moment that he hit the ground. ... this is after Charlie (Charlie Kirk) is hit so you are seeing zero blood heading backward.
 

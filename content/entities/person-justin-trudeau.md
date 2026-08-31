@@ -5,15 +5,23 @@ id: "person-justin-trudeau"
 type: "PERSON"
 aliases:
   - "Trudeau"
+categories:
+  - "Canadian politics"
 ---
 
 _Type: People_
 
 **Also known as:** Trudeau
 
+**Categories:** Canadian politics
+
+**Entity verification:** verified
+> The official Canadian parliamentary record confirms the canonical name Justin Trudeau used in the episode.
+Source: [Justin Trudeau - Member of Parliament - House of Commons of Canada](https://www.ourcommons.ca/members/en/justin-trudeau(58733))
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58">2025-11-03 · 00:11:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58">2025-11-03 · 00:11:15</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58">2025-11-03 · 00:11:01</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -24,15 +32,15 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58) | 1 |
 
 </details>
 </section>
@@ -43,13 +51,10 @@ _Type: People_
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:11:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58)**
-> "It's not a coincidence that Justin Trudeau (Justin Trudeau) is gay."
-
-**[00:11:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58)**
-> "It's not a coincidence that Justin Trudeau (Justin Trudeau) is gay."
+> "It's not a coincidence that Justin Trudeau is gay."
 
 </details>
 

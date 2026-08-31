@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:00:24](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(24);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=24s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't dispute that. I do dispute that Erika (Erika Kirk) was with her on September 10th receiving a treatment, but we'll get to that later.
 

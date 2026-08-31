@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:33:27](/episodes/ep-y8lak3CRwDw.md#t-00-33-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2007);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2007s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and then Erika tells me that she knew him through some congressman she thinks it could have been a senator from arizona she thinks but she's not sure and she would go back and she would consult her text messages but you know what she has not done that yet
 

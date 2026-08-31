@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:15:25](/episodes/ep-sKuYLNx3iRo.md#t-00-15-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(925);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=925s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Need—we need something in real time, right? And so I'm opening those with my mouth and then putting them down, and then spreading it out a little bit and then putting them down so I can get a pack in that. And then I'm holding it there and then working off the other one.
 

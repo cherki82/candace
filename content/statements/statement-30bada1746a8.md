@@ -22,7 +22,7 @@ type: "factual_claim"
 
 ## About
 
-- [Stacey Sheridan](/entities/person-stacey-sheridan.md) (person)
+- [Stacy Sheridan](/entities/person-stacy-sheridan.md) (person)
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:43:22](/episodes/ep-DEtFh2Ff-58.md#t-00-43-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2602);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=2602s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, she does, and I find it to be very weird and very creepy. Mikey (Michael McCoy)—I don't know if he has a place in there, he and Elizabeth—but they are there all the time, because I have sources that live in the building. Obviously, every single day they are there, and they are working. They all work ... work in like the community center there
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:06:24](/episodes/ep-9naMwS0kMBE.md#t-00-06-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(384);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=384s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my Turning Point insider told me that before Charlie died, there was some sort of back forth between him and Dan Flood where he was going to demote Dan Flood.
 

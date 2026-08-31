@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:36:17](/episodes/ep-1mYNOqzAdXs.md#t-00-35-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2177);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He continues, but understand this. Just last night, a company that I'm part owner of got awarded a major SOCOM contract for highly specialized work.
 

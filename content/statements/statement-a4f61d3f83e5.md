@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:39:10](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2350);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=2350s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > "You're a Nazi promoter." "You're the modern-day David Duke." "I debate people with whom I disagree for a living who are a lot smarter than you, but for whom I have some respect."
 

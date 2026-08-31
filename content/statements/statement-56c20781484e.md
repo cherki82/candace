@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:23:59](/episodes/ep-1IY2oD-_xVA.md#t-00-23-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Richard Castor is her nephew, her sister's son. This is why they just get married so much because and I didn't even look into the other two.
 

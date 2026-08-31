@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:21:31](/episodes/ep-5autG89PW6w.md#t-00-21-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1291);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1291s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > (Charlie Kirk) died, he expressed that he thought he was going to be killed. He told these people, "I think they're going to
 

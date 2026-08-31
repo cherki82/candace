@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1616);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=1616s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she also unusually receives her New York real estate license to work with Corcoran Real Estate. ... but also we can't find any real estate deals that Erika (Erika Kirk) completed in New York
 

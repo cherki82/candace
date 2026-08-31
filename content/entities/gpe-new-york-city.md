@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 54 mentions"
+description: "New York City (Places) - 57 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -23,57 +23,59 @@ Source: [City of New York](https://www.nyc.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42">2026-08-10 · 00:20:55</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10" style="--pulse-height:20%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00" style="--pulse-height:80%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42" style="--pulse-height:40%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-52-32" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-city-t-00-17-12" style="--pulse-height:40%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-city-t-00-26-55" style="--pulse-height:60%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-city-t-00-53-43" style="--pulse-height:80%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-new-york-city-t-00-04-27" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-city-t-00-22-10" style="--pulse-height:40%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 5 mentions" title="2026-03-11 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-03-00" style="--pulse-height:60%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18" style="--pulse-height:60%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-city-t-00-41-38" style="--pulse-height:20%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-new-york-city-t-00-21-53" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26" style="--pulse-height:20%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-new-york-city-t-00-08-47" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-new-york-city-t-00-42-31" style="--pulse-height:20%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-new-york-city-t-00-04-45" style="--pulse-height:40%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-01-34" style="--pulse-height:80%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-new-york-city-t-00-45-12" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-new-york-city-t-00-42-57" style="--pulse-height:20%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-30-19" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-new-york-city-t-00-09-31" style="--pulse-height:17%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 6 mentions" title="2025-11-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42" style="--pulse-height:33%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-38" style="--pulse-height:17%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03" style="--pulse-height:17%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-52-32" style="--pulse-height:17%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34" style="--pulse-height:17%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-city-t-00-17-12" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-city-t-00-26-55" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-city-t-00-53-43" style="--pulse-height:67%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-new-york-city-t-00-04-27" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-city-t-00-22-10" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55" style="--pulse-height:83%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 5 mentions" title="2026-03-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-03-00" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46" style="--pulse-height:17%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-city-t-00-41-38" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26" style="--pulse-height:17%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-new-york-city-t-00-21-53" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26" style="--pulse-height:17%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-new-york-city-t-00-08-47" style="--pulse-height:17%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-new-york-city-t-00-42-31" style="--pulse-height:17%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-new-york-city-t-00-04-45" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-01-34" style="--pulse-height:67%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-new-york-city-t-00-45-12" style="--pulse-height:17%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-new-york-city-t-00-42-57" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-30-19" style="--pulse-height:17%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42" style="--pulse-height:17%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10) | 1 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00) | 4 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-new-york-city-t-00-09-31) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00) | 6 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42) | 2 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-38) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-52-32) | 1 |
@@ -107,7 +109,7 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -377,7 +379,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40)**
+**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-38)**
 > "...ed to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that makes it look brown and then compare it to ..."
 
 </details>
@@ -394,19 +396,33 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
 
 **[00:00:00](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00)**
 > "All right, you guys. Happy Wednesday for some people in New York City. Mamdani won. Okay, that's kind of the big story. The Republican establishment—they have a lot of e..."
 
-**[00:11:14](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-11-14)**
+**[00:11:12](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-10-53)**
 > "...stion. It's shocking, actually, if you've never seen this. This is a question that was asked to the New York City mayoral candidates about which foreign country they would visit first if they won. So to be clear, ..."
 
 **[00:12:06](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-12-06)**
-> "...eatest allies fighting on the front lines of the global war on terror. Mr. Mamdani? I would stay in New York City. My plans are to address New Yorkers across the five boroughs and focus on that. Mr. Mamdani, can I..."
+> "I would stay in New York City. My plans are to address New Yorkers across the five boroughs and focus on that."
 
 **[00:49:51](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-49-51)**
-> "...pro-Israel crowd would know a little something about that. Take a listen to what Josh Hammer said. "New York City—for the time being—it looks like you're pretty screwed. For the time being, it looks like you are l..."
+> ""New York City—for the time being—it looks like you're pretty screwed. For the time being, it looks like you are literally going to have a Karl Marx-quoting, Hamas-loving, red-green alliance sicko.""
+
+**[00:11:33](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-10-53)**
+> "Take a listen. (Clip of NYC mayoral debate)"
+
+**[00:11:54](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-11-54)**
+> "Mr. Tilson (NYC mayoral candidate; first name unverified), where ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
+
+**[00:10:08](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-new-york-city-t-00-09-31)**
+> "From NYC to London: $450 in coach or $1,200 in first class..."
 
 </details>
 
@@ -448,7 +464,7 @@ Source: [City of New York](https://www.nyc.gov/)
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-38): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
 
 </details>
 
@@ -469,24 +485,12 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Ran Against (1)</summary>
-
-- **[Zohran Mamdani](/entities/person-zohran-mamdani.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00): “Mamdani won. election for mayor of New York”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-38): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
 
 </details>
 
@@ -518,19 +522,12 @@ Source: [City of New York](https://www.nyc.gov/)
 
 </details>
 
-- **[Zohran Mamdani](/entities/person-zohran-mamdani.md)** ran against this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00): “Mamdani won. election for mayor of New York”
-
-</details>
-
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York City (10)</strong></summary>
+<summary><strong class="section-title">Statements about New York City (17)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
@@ -604,6 +601,31 @@ Source: [City of New York](https://www.nyc.gov/)
 
 - [01:23:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) (Citation) **Bassem Youssef**: ["The New York Times published a claim that tunnels beneath Gaza were lo..."](/statements/statement-99b36b327440.md)
   - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Gaza](/entities/gpe-gaza.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (7)</summary>
+
+- [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election."](/statements/statement-70d16cea31e1.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+
+- [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election."](/statements/statement-b2b7e29734d2.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+
+- [00:09:53](/episodes/ep-LATnak75Si0.md#t-00-09-41) (Claim) **Candace Owens**: ["Mamdani won against Andrew Cuomo in the NYC mayoral race"](/statements/statement-14733a48c49b.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
+
+- [00:11:44](/episodes/ep-LATnak75Si0.md#t-00-11-44) (Promise) **Adrienne Adams** (via quoted speech): ["Adrienne Adams said her first foreign visit as mayor would be to the H..."](/statements/statement-926812139e42.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:11:48](/episodes/ep-LATnak75Si0.md#t-00-11-48) (Promise) **Andrew Cuomo** (via quoted speech): ["Andrew Cuomo said that, given hostility and antisemitism in New York, ..."](/statements/statement-bcc131caa7f5.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:12:06](/episodes/ep-LATnak75Si0.md#t-00-12-06) (Promise) **Zohran Mamdani** (via quoted speech): ["Zohran Mamdani said that as mayor he would stay in New York City and f..."](/statements/statement-9b9980c8d5db.md)
+
+- [00:14:26](/episodes/ep-LATnak75Si0.md#t-00-14-25) (Claim) **Candace Owens**: ["New York has the largest population of Jewish people of any city in th..."](/statements/statement-f894364f670d.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 

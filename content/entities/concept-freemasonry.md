@@ -1,6 +1,6 @@
 ---
 title: "Freemasonry"
-description: "Freemasonry (Concepts) - 61 mentions"
+description: "Freemasonry (Concepts) - 69 mentions"
 id: "concept-freemasonry"
 type: "CONCEPT"
 aliases:
@@ -8,13 +8,14 @@ aliases:
   - "Freemasons"
   - "Masonic tradition"
   - "Masonic"
+  - "Freemasonic"
 categories:
   - "fraternal tradition"
 ---
 
 _Type: Concepts_
 
-**Also known as:** Freemason, Freemasons, Masonic tradition, Masonic
+**Also known as:** Freemason, Freemasons, Masonic tradition, Masonic, Freemasonic
 
 **Categories:** fraternal tradition
 
@@ -25,10 +26,10 @@ _Type: Concepts_
 Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic/Freemasonry)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-freemasonry-t-00-02-09">2026-02-02 · 00:02:13</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-freemasonry-t-00-23-36">2025-09-17 · 00:23:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42">2026-07-23 · 00:22:02</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -39,12 +40,18 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-freemasonry-t-00-00-00">The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318</a> (24 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-freemasonry-t-00-23-36" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-freemasonry-t-00-36-02" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-freemasonry-t-00-02-02" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-freemasonry-t-00-30-02" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-freemasonry-t-00-40-41" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-freemasonry-t-00-12-44" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-freemasonry-t-00-02-09" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-freemasonry-t-00-13-37" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-freemasonry-t-00-54-02" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-freemasonry-t-00-36-24" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-freemasonry-t-00-04-04" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-freemasonry-t-00-08-08" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 16 mentions" title="2026-03-09 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-freemasonry-t-00-05-45" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 16 mentions" title="2026-03-09 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-freemasonry-t-00-09-30" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-freemasonry-t-00-00-00" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 24 mentions" title="2026-03-30 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-freemasonry-t-00-00-00" style="--pulse-height:12%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
@@ -59,12 +66,18 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-freemasonry-t-00-23-36) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-freemasonry-t-00-36-02) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-freemasonry-t-00-02-02) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-freemasonry-t-00-30-02) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-freemasonry-t-00-40-41) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-freemasonry-t-00-12-44) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-freemasonry-t-00-02-09) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-freemasonry-t-00-13-37) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-freemasonry-t-00-54-02) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-freemasonry-t-00-36-24) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-freemasonry-t-00-04-04) | 2 |
-| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-freemasonry-t-00-08-08) | 16 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-freemasonry-t-00-05-45) | 16 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-concept-freemasonry-t-00-09-30) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-freemasonry-t-00-00-00) | 24 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-concept-freemasonry-t-00-00-00) | 3 |
@@ -81,7 +94,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -239,7 +252,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (16 mentions)</summary>
 
-**[00:05:45](/episodes/ep-i8m_6D4QGmk.md#ent-concept-freemasonry-t-00-08-08)**
+**[00:05:45](/episodes/ep-i8m_6D4QGmk.md#ent-concept-freemasonry-t-00-05-45)**
 > "Freemasonic effort"
 
 **[00:08:40](/episodes/ep-i8m_6D4QGmk.md#ent-concept-freemasonry-t-00-08-08)**
@@ -338,6 +351,60 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 **[00:07:50](/episodes/ep-CEF7gQRWYCE.md#ent-concept-freemasonry-t-00-07-50)**
 > "...s a part, like I said, of the Freemason group in B'nai B'rith,"
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:13:16](/episodes/ep-Kmt6HgRjckU.md#ent-concept-freemasonry-t-00-12-44)**
+> "It's a bunch of Freemason lodges, deep state government involvement, and yo..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+
+**[00:40:51](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-freemasonry-t-00-40-41)**
+> "...vidence that she comes from a Freemason family in California."
+
+**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-freemasonry-t-00-40-41)**
+> "Like, dad was in the Freemason California Freemasons, and grandpa was pretty hig..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:30:10](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-freemasonry-t-00-30-02)**
+> "...s brings us into like Swedish Freemason stuff, okay?"
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:02:02](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-freemasonry-t-00-02-02)**
+> "Jewish Freemason organization"
+
+**[00:04:30](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-freemasonry-t-00-03-57)**
+> "... that his buddies over at the Freemasonic Lodge, B'nai B'rith, assembled the ADL to gasligh..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:36:15](/episodes/ep-K5GjF53bfN4.md#ent-concept-freemasonry-t-00-36-02)**
+> "...'ve read that my husband is a Freemason. I read that our marriage is fake and staged, and..."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
+
+**[00:23:51](/episodes/ep-2WEHTk0Xewg.md#ent-concept-freemasonry-t-00-23-36)**
+> "...ter the shooting—like a total Freemason."
 
 </details>
 

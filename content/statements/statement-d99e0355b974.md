@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:20:23](/episodes/ep-Vu6Y24pqhZs.md#t-00-19-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1223);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1223s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > freya just allegedly could not sniff this recently fired weapon out in the field
 

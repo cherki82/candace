@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:36:44](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2204);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=2204s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I have this deep suspicion that the Charlie Kirk assassination is connected to the Jeffrey Epstein world.
 

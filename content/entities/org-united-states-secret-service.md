@@ -1,6 +1,6 @@
 ---
 title: "United States Secret Service"
-description: "United States Secret Service (Organizations) - 33 mentions"
+description: "United States Secret Service (Organizations) - 39 mentions"
 id: "org-united-states-secret-service"
 type: "ORG"
 aliases:
@@ -20,22 +20,24 @@ _Type: Organizations_
 Source: [United States Secret Service - About Us](https://www.secretservice.gov/about/overview)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00">2025-11-19 · 00:11:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-org-united-states-secret-service-t-00-30-43">2025-11-18 · 00:31:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-united-states-secret-service-t-00-04-51">2026-07-22 · 00:05:13</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-united-states-secret-service-t-00-28-56">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-secret-service-t-00-51-55" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-united-states-secret-service-t-00-30-43" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 6 mentions" title="2025-11-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-united-states-secret-service-t-00-06-02" style="--pulse-height:17%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-secret-service-t-00-51-55" style="--pulse-height:33%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-united-states-secret-service-t-00-06-30" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-united-states-secret-service-t-00-00-00" style="--pulse-height:17%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-united-states-secret-service-t-00-22-07" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
@@ -56,8 +58,10 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00) | 3 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-secret-service-t-00-51-55) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-united-states-secret-service-t-00-30-43) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00) | 6 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-united-states-secret-service-t-00-06-02) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-secret-service-t-00-51-55) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-united-states-secret-service-t-00-06-30) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-united-states-secret-service-t-00-00-00) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-united-states-secret-service-t-00-22-07) | 3 |
@@ -80,7 +84,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -245,24 +249,52 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
 **[00:52:13](/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-secret-service-t-00-51-55)**
 > "probably secret service or something like that"
 
+**[00:52:23](/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-secret-service-t-00-51-55)**
+> "...w, if I had to guess probably secret service or something like that. Uh, she didn't want to ap..."
+
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+
+**[00:06:16](/episodes/ep-sImMM04XdWY.md#ent-org-united-states-secret-service-t-00-06-02)**
+> "the FBI, and the Secret Service."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (6 mentions)</summary>
 
 **[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00)**
 > "... will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801. Both are live, both are at Suite 404, both als..."
 
-**[00:17:24](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-17-24)**
+**[00:17:22](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-17-22)**
 > "...th what is actually happening at 920 North King Street, which is the FBI, the DEA, and the USS, the United States Secret Service, and others are working together in a commercial tower. Here is the link for that press release. In..."
 
-**[00:18:47](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-18-47)**
+**[00:18:47](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-18-39)**
 > "...s been a federal resident office since at least 1997, and today it houses the DEA, the FBI, and the United States Secret Service all at the same address. The hangar the plane would have used is controlled through a DRBA lease th..."
+
+**[00:11:19](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00)**
+> "...publish phone numbers. In the Secret Service case, the agency's own 2025 field office list sti..."
+
+**[00:16:07](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-16-07)**
+> "Further, the Secret Service is not a part of the Department of Justice. They ..."
+
+**[00:22:47](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-22-47)**
+> "Yeah, Secret Service, the FBI, the DEA being involved, why this plane,..."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:31:04](/episodes/ep-581dILVcEE4.md#ent-org-united-states-secret-service-t-00-30-43)**
+> "Is that what happened? Like Secret Service just called locally in Pennsylvania and was like,..."
 
 </details>
 
@@ -310,7 +342,19 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Part Of (1)</summary>
+
+- **[United States Department of Homeland Security](/entities/org-us-department-homeland-security.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:16:07](/episodes/ep-SKGUzGHymcI.md#t-00-16-07): “Further, the Secret Service is not a part of the Department of Justice. They are the Department of Homeland Security.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (7)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -326,6 +370,13 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 
 </details>
 
+- **[United States Department of Homeland Security](/entities/org-us-department-homeland-security.md)** includes this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:16:07](/episodes/ep-SKGUzGHymcI.md#t-00-16-07): “Further, the Secret Service is not a part of the Department of Justice. They are the Department of Homeland Security.”
+
+</details>
+
 - **[Wilmington](/entities/gpe-wilmington.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -337,6 +388,20 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00): “Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
+
+- **[FBI](/entities/org-fbi.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:17:22](/episodes/ep-SKGUzGHymcI.md#t-00-17-22): “They foregrounded partnerships. That's the vocabulary that they use when the space is not purely FBI and it lines up with what is actually happening at 920 North King Street, which is the FBI, the DEA, and the USS, the United States Secret Service, and others are working together in a commercial tower.”
+
+</details>
+
+- **[DEA](/entities/org-dea.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:17:22](/episodes/ep-SKGUzGHymcI.md#t-00-17-22): “They foregrounded partnerships. That's the vocabulary that they use when the space is not purely FBI and it lines up with what is actually happening at 920 North King Street, which is the FBI, the DEA, and the USS, the United States Secret Service, and others are working together in a commercial tower.”
 
 </details>
 
@@ -421,10 +486,10 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 - [00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15) (Claim) **Candace Owens**: ["The DEA and United States Secret Service are both currently located at..."](/statements/statement-b9552222e57e.md)
   - Also about: [DEA](/entities/org-dea.md), [Wilmington](/entities/gpe-wilmington.md)
 
-- [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-37) (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be ..."](/statements/statement-ecdfdd6a0965.md)
+- [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-25) (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be ..."](/statements/statement-ecdfdd6a0965.md)
   - Also about: [FBI](/entities/org-fbi.md), [DEA](/entities/org-dea.md), [Wilmington](/entities/gpe-wilmington.md)
 
-- [00:22:01](/episodes/ep-SKGUzGHymcI.md#t-00-21-36) (Claim) **Candace Owens**: ["The government agencies involved in the Egyptian plane operations conf..."](/statements/statement-709846473549.md)
+- [00:22:01](/episodes/ep-SKGUzGHymcI.md#t-00-21-30) (Claim) **Candace Owens**: ["The government agencies involved in the Egyptian plane operations conf..."](/statements/statement-709846473549.md)
   - Also about: [FBI](/entities/org-fbi.md), [DEA](/entities/org-dea.md)
 
 </details>

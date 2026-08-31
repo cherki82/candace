@@ -3,9 +3,18 @@ title: "BearingPoint"
 description: "BearingPoint (Organizations) - 8 mentions"
 id: "org-bearingpoint"
 type: "ORG"
+categories:
+  - "management and technology consultancy"
+  - "software engineering"
 ---
 
 _Type: Organizations_
+
+**Categories:** management and technology consultancy, software engineering
+
+**Entity verification:** verified
+> BearingPoint official materials identify the firm as an independent management and technology consultancy with a software-development presence in Graz, matching the episode clip.
+Source: [BearingPoint Annual Report 2024](https://www.bearingpoint.com/files/BearingPoint_Annual_Report_24.pdf?presence-id=40)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-10-52">2025-09-30 · 00:10:52</a></strong></div>
@@ -73,12 +82,12 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Formerly Employed (1)</summary>
 
 - **[Gernot Omer](/entities/person-gernot-omer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams. ... Very recently, he moved to Utah—according to his LinkedIn, which I hope doesn't get wiped. ... In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase.”
 
 </details>
 
@@ -87,10 +96,10 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Gernot Omer](/entities/person-gernot-omer.md)** works for this
+- **[Gernot Omer](/entities/person-gernot-omer.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams. ... Very recently, he moved to Utah—according to his LinkedIn, which I hope doesn't get wiped. ... In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase.”
 
 </details>
 

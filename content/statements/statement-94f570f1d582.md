@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1190);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=1190s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm told that during this discussion, Erika then drops the fact that she has—and her mother says, 'Oh, well, she's—it's not known yet, but she's just now dating a guy who' ... has some very big political connections.' They're just a couple of months into dating, because that sweetens the deal a little bit. 'Oh, you got this beautiful girl,' and now you realize this girl has access to someone who is a player, right? And the person, in retrospect, thought that she was talking about Charlie Kirk, but she actually wasn't. At this time, according to our timeline, Erika was dating Cabot Phillips.
 

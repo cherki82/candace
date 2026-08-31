@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:22:39](/episodes/ep-EtLHqDbxqks.md#t-00-22-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1359);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1359s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He concluded and paid at 9.47 p.m. There's a literal receipt for that because, as we said. He paid with his debit card so we can timestamp him three hours away at 9.47 p.m. when he's apparently texting Lance (Lance Twiggs).
 

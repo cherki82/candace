@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:50:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3028);return false;">Play</a>
+**Timestamp:** [00:50:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-25) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3025s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I was afraid somebody would take a shot at Charlie, and I thought to myself, 'If it does happen, what am I gonna do? Decide now.'
+> The only reason that I did what I did is because I thought about it beforehand. I was afraid somebody would take a shot at Charlie (Charlie Kirk), and I thought to myself, 'If it does happen, what am I gonna do? Decide now.' And what I wanted to do—would do anything I could to save him."
 
 ## Verification
 

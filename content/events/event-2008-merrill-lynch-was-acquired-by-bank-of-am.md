@@ -6,6 +6,11 @@ date: "2008"
 ---
 
 **Date:** 2008
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2008”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2008"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:22:09](/episodes/ep-X3VKJVJ7cN4.md#event-event-2008-merrill-lynch-was-acquired-by-bank-of-am-t-00-21-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1329);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1329s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in 2008 following the financial crisis, Merrill Lynch was acquired by Bank of America

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:01:54](/episodes/ep-ZAuuSq_j2_w.md#t-00-01-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What the hell is going on at Turning Point USA
 

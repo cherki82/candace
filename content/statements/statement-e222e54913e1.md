@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:16:16](/episodes/ep-aDlhjfW6hz8.md#t-00-16-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(976);return false;">Play</a>
+**Timestamp:** [00:13:16](/episodes/ep-aDlhjfW6hz8.md#t-00-12-58) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=796s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The feds are lying about everything, so they should not be the only people that have access to this.
 

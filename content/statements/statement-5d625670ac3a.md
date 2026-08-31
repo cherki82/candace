@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:01:51](/episodes/ep-KpxIBWkNsSs.md#t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(111);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So it looks like Project Constitution reported that Andrew Kolvet was getting a divorce and it was just not true. The basis of the report was not true.
 

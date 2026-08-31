@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:19:52](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1192);return false;">Play</a>
+**Timestamp:** [00:19:52](/episodes/ep-aDlhjfW6hz8.md#t-00-19-38) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's almost as if they all received an email from somebody who said, I don't care what you say—make it up out of thin air and do not stop attacking Candace.
 

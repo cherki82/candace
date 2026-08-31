@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-description: "Europe (Places) - 48 mentions"
+description: "Europe (Places) - 52 mentions"
 id: "gpe-europe"
 type: "GPE"
 categories:
@@ -16,12 +16,12 @@ _Type: Places_
 Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/methodology/m49/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55">2025-12-02 · 00:02:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-europe-t-00-38-31">2025-11-04 · 00:39:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-europe-t-00-49-31">2026-08-03 · 00:49:31</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -30,7 +30,11 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42">Bride Of Charlie: The Lost Years... | Episode 5</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-europe-t-00-38-31" style="--pulse-height:12%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-europe-t-00-00-00" style="--pulse-height:12%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-europe-t-00-51-26" style="--pulse-height:12%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55" style="--pulse-height:62%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-europe-t-00-18-44" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-16" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-europe-t-00-46-53" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -54,7 +58,11 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-europe-t-00-38-31) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-europe-t-00-00-00) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-europe-t-00-51-26) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55) | 5 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-europe-t-00-18-44) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-16) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-europe-t-00-46-53) | 1 |
@@ -80,7 +88,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
@@ -302,6 +310,14 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 </details>
 
 <details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:19:11](/episodes/ep-DqGNvi36ol8.md#ent-gpe-europe-t-00-18-44)**
+> "A future in Europe."
+
+</details>
+
+<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5 mentions)</summary>
 
 **[00:02:55](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55)**
@@ -321,6 +337,30 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 </details>
 
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:52:03](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-europe-t-00-51-26)**
+> "... immigrants are swarming into Europe, Australia, Canada, and the US, and I wanted to s..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:00:00](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-europe-t-00-00-00)**
+> "...rld—not in America, okay, not Europe."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:39:00](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-europe-t-00-38-31)**
+> "...rn of the 19th century across Europe—why so many speech laws have been passed in Europ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -331,7 +371,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Europe (2)</strong></summary>
+<summary><strong class="section-title">Statements about Europe (3)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
@@ -346,6 +386,14 @@ _No relationships extracted yet._
 
 - [00:27:11](/episodes/ep-QRS_hR7NXaQ.md#t-00-26-37) (Claim) **Candace Owens**: ["Lori Frantzve has Lyme disease, and Charlie Kirk had told Candace Owen..."](/statements/statement-a7672e8353a0.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:03:59](/episodes/ep-a-e7HC6SeK8.md#t-00-03-33) (Claim) **Candace Owens**: ["They know what the Freemasons were up to, Freemasons who caused all of..."](/statements/statement-53ee5a1aefa2.md)
+  - Also about: [Freemasons](/entities/org-freemasons.md)
 
 </details>
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1058);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1058s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson). ... Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience.
 

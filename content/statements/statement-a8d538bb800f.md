@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:20:06](/episodes/ep-zSKrxIUMNqw.md#t-00-20-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1206);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=1206s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > but something funny happened. A lot of funny things actually happened surrounding his death. The first and foremost utterly corrupt Los Angeles coroner's office conducted an autopsy because people were thinking,
 

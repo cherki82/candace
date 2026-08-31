@@ -6,6 +6,11 @@ date: "2012"
 ---
 
 **Date:** 2012
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2012”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2012"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:19:11](/episodes/ep-BKcOm32ZEGk.md#event-event-2012-whistleblowers-alleged-that-agencies-hel-t-00-18-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1151);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=1151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > some whistleblowers claim that a confidential briefing took place where certain agencies

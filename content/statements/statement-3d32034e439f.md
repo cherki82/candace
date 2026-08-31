@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [02:02:24](/episodes/ep--9MOUvgGyi4.md#t-02-02-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7344);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=7344s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, so that's something that is could definitely be chased down. Okay, I'm definitely going to take a look into that. I do find that to be, as you did, for the same reasons, just like, oh, it's kind of precise timing and it also is sort of. ... kind of this weird connection with Victor (Victor Marx) like trying to get these guns from you in that time frame for different things and he's giving you the Haiti spiel ... Yeah. And it could be nothing, but.
 

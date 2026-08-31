@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:53:52](/episodes/ep-SgVcnx4Oh30.md#t-00-53-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3232);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=3232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You were never a friend of his. Anything I said on the show got called and pulled over the defense, I would stand by every word that I said. ... Okay, every single word because it's true. I told the truth. And if I found out later that it was not correct, I did my best to correct everything that I've said.
 

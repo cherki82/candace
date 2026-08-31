@@ -6,6 +6,11 @@ date: "2026-04-10"
 ---
 
 **Date:** 2026-04-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “today”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-04-10"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:38:32](/episodes/ep-ZIH5-V6UPkg.md#event-event-2026-04-10-candace-owens-launched-new-maca-and-four-t-00-38-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2312);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=2312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We do have some great merch right now that's up on the website. I'll show you guys some of that.

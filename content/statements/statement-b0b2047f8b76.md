@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:38:01](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2281);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2281s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump's administration then delayed the release of and then gaslit us over the Epstein files. He called the files a democratic hoax.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
 **Timestamp:** [01:01:35](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3695);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=3695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now we have then been able to look at flights and look at who could have been at that meeting we were able to confirm based on a call sign that there was somebody heavy duty that was at Fort Huachuca. on that morning who made sure to turn off their transponder
 

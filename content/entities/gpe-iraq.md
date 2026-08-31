@@ -1,6 +1,6 @@
 ---
 title: "Iraq"
-description: "Iraq (Places) - 53 mentions"
+description: "Iraq (Places) - 54 mentions"
 id: "gpe-iraq"
 type: "GPE"
 categories:
@@ -17,10 +17,10 @@ _Type: Places_
 Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/countries/iraq/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46">2025-11-12 · 00:10:12</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46">2025-11-12 · 00:10:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 <p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iraq-t-00-02-20">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-iraq-t-00-22-18" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-iraq-t-01-04-58" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-06-25" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-iraq-t-00-11-47" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
@@ -54,6 +55,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46) | 4 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-iraq-t-00-22-18) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-iraq-t-01-04-58) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-06-25) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-iraq-t-00-11-47) | 1 |
@@ -77,7 +79,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -307,18 +309,26 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 </details>
 
 <details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:22:18](/episodes/ep-DqGNvi36ol8.md#ent-gpe-iraq-t-00-22-18)**
+> "...m, when they were deployed in Iraq."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
 
-**[00:10:12](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46)**
+**[00:10:09](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46)**
 > "This happened in Iraq, which we entered into at the behest of those same foreign policy strategists"
 
-**[00:50:54](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-50-50)**
+**[00:50:49](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-50-14)**
 > "...IDF soldier during my time in Iraq or Afghanistan. Yeah, they don't have enough bodi..."
 
-**[00:53:01](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-52-49)**
+**[00:52:55](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-50-14)**
 > "...le setting like we did in the Iraq War."
 
-**[00:53:11](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-52-49)**
+**[00:53:12](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-50-14)**
 > "The Iraq War."
 
 </details>

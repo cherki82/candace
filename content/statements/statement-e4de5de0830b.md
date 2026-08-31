@@ -26,7 +26,7 @@ type: "citation"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:52:44](/episodes/ep-c5BcKF91iec.md#t-00-52-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3164);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=3164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was actually Scott Adams, who did a video that I'll never forget when that happened. And he said like it ripped a hole in the universe—this tweet—and it was never supposed to happen.
 

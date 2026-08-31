@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2599);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=2599s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, he discussed options to take out Assange just to make sure we were above bar there.
 

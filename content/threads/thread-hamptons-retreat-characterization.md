@@ -9,7 +9,7 @@ description: "Tracks competing on-channel descriptions of the August 2025 Hampto
 
 <p class="thread-summary">Tracks competing on-channel descriptions of the August 2025 Hamptons retreat: first as an intervention over Israel, then as a debate workshop, and later as a retreat convened by Charlie Kirk.</p>
 
-<p class="thread-entities"><strong>Entities:</strong> <a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xavier-derusso">Xavier DeRusso</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-israel">Israel</a> · <a href="/entities/gpe-the-hamptons">The Hamptons</a></p>
+<p class="thread-entities"><strong>Entities:</strong> <a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xaviaer-durousseau">Xaviaer DuRousseau</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-israel">Israel</a> · <a href="/entities/gpe-hamptons">Hamptons</a></p>
 
 <div class="thread-clock-grid">
 <section class="thread-clock thread-event-clock">
@@ -18,7 +18,7 @@ description: "Tracks competing on-channel descriptions of the August 2025 Hampto
 <p>Canonical event records, arranged by the date assigned to the alleged event.</p>
 <article class="thread-event-card">
 <time datetime="2025-08-05">2025-08-05</time>
-<a href="/events/event-2025-08-05-turning-point-usa-holds-hamptons-retreat-described">Turning Point USA holds Hamptons retreat described as intervention.</a>
+<a href="/events/event-2025-08-05-hamptons-summit-pressures-charlie-kirk-on-israel-v">Hamptons Summit pressures Charlie Kirk on Israel views</a>
 </article>
 </section>
 <section class="thread-clock thread-discourse-clock">
@@ -44,8 +44,8 @@ description: "Tracks competing on-channel descriptions of the August 2025 Hampto
 <time datetime="2025-09-25">2025-09-25 · 00:04:02</time>
 <strong>Refined</strong>
 <p>Owens introduced Xavier DeRusso&#x27;s account: Kirk spoke of moral blackmail, while DeRusso framed the gathering as a workshop or debate-club setting.</p>
-<p class="thread-provenance"><a href="/statements/statement-f5903981266a">Xavier DeRusso was at the weekend meeting in the Hamptons and said Charlie Kirk spoke about feeling morally blackmailed in more of a workshop setting like a debate club where they were strengthening their debates on the topic of Israel</a></p>
-<p class="thread-meta">Candace Owens · <a href="/episodes/ep-K5GjF53bfN4#t-00-03-26">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 at 00:04:02</a> · Confidence: high</p>
+<p class="thread-provenance"><a href="/statements/"></a></p>
+<p class="thread-meta">Unknown speaker · <a href="/episodes/ep-K5GjF53bfN4#t-00-03-26">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 at 00:04:02</a> · Confidence: high</p>
 <details><summary>Review note</summary>
 <p>The surrounding transcript distinguishes Owens&#x27;s summary from the DeRusso clip. This refines the earlier account by preserving pressure-related language while changing the described format of the meeting.</p>
 </details>

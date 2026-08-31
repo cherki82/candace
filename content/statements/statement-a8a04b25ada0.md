@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:05:44](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(344);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=344s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On October 11th, when I infamously tweeted about the Egyptian military plane that left Provo on the morning of Charlie (Charlie Kirk)'s assassination, I got the time zone wrong by a couple of hours.
 

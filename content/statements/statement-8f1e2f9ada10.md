@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:30:05](/episodes/ep-_cNtgris8Ik.md#t-00-29-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1805);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=1805s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know how many times I can say this. I guess I'm going to basically say to them what I said to Andrew face to face is you can keep saying this. You're going to eventually embarrass yourself. As I said, they got in touch with the FBI. ... The FBI is aware of this. The FBI took a statement from the owner. I spoke to the. ... But I spoke to the owner. The server has given an interview. There is a receipt. ... this was found this Panguitch thing was actually found by podcasters podcasters who were investigating stumbled upon this and like i said the fbi was contacted there is a report made it happened
 

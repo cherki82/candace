@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:25:17](/episodes/ep-AoYZel7_cGQ.md#t-00-25-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1517);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=1517s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Instead, they were then asked to leave. They did not see Charlie (Charlie Kirk) taken to a burial plot. They did not see Charlie (Charlie Kirk) lowered into a ground. There was no grave that was dug out.
 

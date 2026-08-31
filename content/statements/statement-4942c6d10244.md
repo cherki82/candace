@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:02:45](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(165);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=165s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I was amazed that the FBI had lied about this. So I called Kash Patel and I later called Dan Bongino and I says, you know, what is this? I'm not attacking you. It was the previous FBI administration that did this. It was Chris Wray. But what is this?
 

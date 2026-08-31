@@ -7,11 +7,15 @@ aliases:
   - "Moseley"
   - "Christopher Mosley"
   - "Mosley"
+categories:
+  - "Lisa Dean Moseley family and criminal case context"
 ---
 
 _Type: People_
 
 **Also known as:** Moseley, Christopher Mosley, Mosley
+
+**Categories:** Lisa Dean Moseley family and criminal case context
 
 **Entity verification:** verified
 > Los Angeles Times contemporary court reporting identifies Christopher Moseley and his guilty plea in the Patricia Margello murder-for-hire case.
@@ -24,7 +28,7 @@ Source: [Heiress’ Husband Sentenced in Murder of Ex-Prostitute](https://www.la
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -64,7 +68,17 @@ Source: [Heiress’ Husband Sentenced in Murder of Ex-Prostitute](https://www.la
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Lisa Dean](/entities/person-lisa-dean.md)** married to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. ... So she and her husband, Christopher Moseley, had her killed.”
+
+</details>
+
+</details>
 
 </details>
 
@@ -74,7 +88,7 @@ _No relationships extracted yet._
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
 
-- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Candace Owens** (via paraphrase): ["the money traced back to the DuPont family. It appeared that Lisa Dean..."](/statements/statement-7c3e83eb0a33.md)
+- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Dominick Dunne** (via quoted article): ["Dominick Dunne reported that money for the killing traced back to the ..."](/statements/statement-7c3e83eb0a33.md)
   - Also about: [DuPont family](/entities/org-dupont-family.md), [Lisa Dean](/entities/person-lisa-dean.md)
 
 </details>

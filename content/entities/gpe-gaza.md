@@ -21,12 +21,12 @@ _Type: Places_
 Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitallibrary.un.org/record/133785/files/E_ESCWA_AGR_85_4-EN.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-gaza-t-00-44-30">2025-09-17 · 00:44:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42">2026-08-11 · 00:24:50</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
 <div><span>Mentions</span><strong>152</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,15 +35,17 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59">Candace x Bassem Youssef | Candace Ep 298</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-gaza-t-00-44-30" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03" style="--pulse-height:29%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33" style="--pulse-height:36%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 5 mentions" title="2025-09-22 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58" style="--pulse-height:86%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 12 mentions" title="2025-10-09 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58" style="--pulse-height:79%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 11 mentions" title="2025-10-09 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-gaza-t-01-07-05" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34" style="--pulse-height:29%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18" style="--pulse-height:21%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26" style="--pulse-height:14%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-18-49" style="--pulse-height:36%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-28-16" style="--pulse-height:21%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-gaza-t-00-07-06" style="--pulse-height:36%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-gaza-t-00-33-04" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-48" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
@@ -81,15 +83,17 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-gaza-t-00-44-30) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03) | 4 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33) | 5 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58) | 12 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58) | 11 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-gaza-t-01-07-05) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34) | 4 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26) | 2 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-18-49) | 5 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-28-16) | 3 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-gaza-t-00-07-06) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-gaza-t-00-33-04) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-48) | 2 |
@@ -619,12 +623,9 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
 **[00:52:33](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05)**
-> "...tinians don't want to stay in Gaza where they've been?"
-
-**[00:52:39](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05)**
 > "Do you think that the Palestinians don't want to stay in Gaza where they've been"
 
 </details>
@@ -677,7 +678,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
-**[00:36:34](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18)**
+**[00:36:33](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18)**
 > "And the reason why they got so much support behind them is because they were against this destruction of Gaza"
 
 **[00:45:50](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-45-50)**
@@ -706,9 +707,17 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (12 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
-**[00:46:37](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58)**
+**[01:07:11](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-gaza-t-01-07-05)**
+> "...would allow them to annex—not Gaza—the West Bank."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (11 mentions)</summary>
+
+**[00:46:33](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58)**
 > "85% of Gaza has been destroyed in this pre-planned controlled demolition"
 
 **[00:46:58](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58)**
@@ -717,25 +726,22 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 **[00:47:17](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58)**
 > "...h, they have destroyed 85% of Gaza."
 
-**[00:48:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-47-32)**
+**[00:48:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-48-09)**
 > "85% of Gaza has been destroyed in this pre-planned controlled..."
 
 **[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
 > "...m—who think once Gazans leave Gaza, Netanyahu's never gonna let them back in."
 
 **[00:49:27](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
-> "...not sure there's much left of Gaza at this point."
-
-**[00:49:30](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
 > "...about even the construct—like Gaza—Gaza was not really a historical precedent, right..."
 
-**[00:49:39](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
+**[00:49:36](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
 > "...in different places, but then Gaza became a thing."
 
-**[00:50:08](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-53)**
+**[00:50:08](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-47)**
 > "And Gaza's waterfront property—it could be very valuable if ..."
 
-**[00:51:02](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-50-41)**
+**[00:51:01](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-50-41)**
 > "...our children what happened in Gaza."
 
 **[00:51:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-50-41)**
@@ -783,6 +789,14 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 </details>
 
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
+
+**[00:44:30](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-gaza-t-00-44-30)**
+> "...lled by what was happening in Gaza. He was—above all—resentful that he believed Benj..."
+
+</details>
+
 </details>
 
 <details open>
@@ -793,7 +807,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gaza (29)</strong></summary>
+<summary><strong class="section-title">Statements about Gaza (35)</strong></summary>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2)</summary>
@@ -938,7 +952,30 @@ _No relationships extracted yet._
 
 - [00:46:01](/episodes/ep-iHav0PPzUz8.md#t-00-45-50) (Citation) **Norman Finkelstein** (via quoted speech): ["The leading UN official on Gaza describes it as a toxic dump"](/statements/statement-f295d2295be0.md)
 
-- [00:46:42](/episodes/ep-iHav0PPzUz8.md#t-00-46-33) (Accusation) **Norman Finkelstein**: ["A billionaire class of Jewish supremacists are now flagrantly using mo..."](/statements/statement-9f3ee8698cf5.md)
+- [00:46:42](/episodes/ep-iHav0PPzUz8.md#t-00-46-40) (Accusation) **Norman Finkelstein**: ["A billionaire class of Jewish supremacists are now flagrantly using mo..."](/statements/statement-9f3ee8698cf5.md)
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (6)</summary>
+
+- [00:48:09](/episodes/ep-pc3pxRyNFZk.md#t-00-48-09) (Accusation) **Candace Owens**: ["Owens claimed that 85% of Gaza had been destroyed in a pre-planned, co..."](/statements/statement-73b694987575.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [October 7th](/entities/date-october-7th.md)
+
+- [00:48:24](/episodes/ep-pc3pxRyNFZk.md#t-00-48-09) (Accusation) **Candace Owens**: ["Owens accused Jared Kushner of standing to benefit financially from wh..."](/statements/statement-d3ee608c7bb1.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [October 7th](/entities/date-october-7th.md)
+
+- [00:50:08](/episodes/ep-pc3pxRyNFZk.md#t-00-49-47) (Opinion) **Jared Kushner** (via quoted speech): ["Kushner said Gaza's waterfront property could be valuable and that, fr..."](/statements/statement-d08a11606232.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Palestinians](/entities/concept-palestinians.md)
+
+- [00:50:41](/episodes/ep-pc3pxRyNFZk.md#t-00-50-41) (Accusation) **Candace Owens**: ["Owens accused Trump of seeking a Nobel Peace Prize for what she called..."](/statements/statement-2425c98d4847.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Nobel Peace Prize](/entities/work-nobel-peace-prize.md)
+
+- [00:50:51](/episodes/ep-pc3pxRyNFZk.md#t-00-50-41) (Opinion) **Candace Owens**: ["Owens called the destruction of Gaza a 'Holocaust' and said it must ne..."](/statements/statement-f41a7f7f5ba0.md)
+  - Also about: [Palestinians](/entities/concept-palestinians.md)
+
+- [00:51:48](/episodes/ep-pc3pxRyNFZk.md#t-00-51-24) (Opinion) **Candace Owens**: ["Owens said Gaza belongs to nobody but the Palestinians."](/statements/statement-defcd438981e.md)
+  - Also about: [Palestinians](/entities/concept-palestinians.md)
 
 </details>
 

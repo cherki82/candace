@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:20:00](/episodes/ep-YeEtS7nix3o.md#t-00-20-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1200);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1200s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And despite the fact, and these again are facts, that Jewish people represented only 4% of the population, they were overrepresented in this terrorist cell. ... That was involved in the plotting and the eventual assassination of the Tsar in 1880 in 1881, which is when his carriage was passing through St.
 

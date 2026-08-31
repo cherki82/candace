@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:41:19](/episodes/ep-k1b1NDCrNFs.md#t-00-41-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2479);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=2479s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Where did this go? Reporters should try to find out what happened here. The ultimate goal is he wants George (George Farmer)'s citizenship to be revoked.
 

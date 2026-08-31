@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:53:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-52-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3180);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=3180s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's what these influencers are. That's Operation Mockingbird. You can't just all say the same word, the same adjective to describe the state that you are in. ... independent creators that are clearly all part of these influencible campaigns, all saying the same words and the same sentences meant to attack us psychologically.
 

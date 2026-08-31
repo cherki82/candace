@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk was betrayed by people who are close to him"
-description: "\"Charlie Kirk was betrayed by people who are close to him\" — Candace Owens"
+title: "I believe that Charlie Kirk was betrayed by people who are c..."
+description: "\"I believe that Charlie Kirk was betrayed by people who are close to him\" — Candace Owens"
 statement_id: "statement-8ce5194ff7d7"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Charlie Kirk was betrayed by people who are close to him
+> I believe that Charlie Kirk was betrayed by people who are close to him
 
 ## Attribution
 
@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1915);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=1915s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe that Charlie Kirk was betrayed by people who are close to him.
 

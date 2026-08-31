@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:46:43](/episodes/ep-AH1KVKkweUE.md#t-00-46-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2803);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2803s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > surely when we get to the preliminary hearing they're just going to show us an actual 4k hd video of him taking the shot ... Nope, we got nothing, nada. ... I mean, this recent video that I revealed, that's the 4K video. Now they're moving the goalpost ... well we meant there was 4k video of him else where
 

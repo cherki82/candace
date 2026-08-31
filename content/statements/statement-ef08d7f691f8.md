@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:37:37](/episodes/ep-ti5Fxrvegno.md#t-00-37-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2257);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=2257s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He says, oh, my name is Mike and I am taking photos because this legal firm asks me to take photos. He won't give much more information. He says he can't speak about it.
 

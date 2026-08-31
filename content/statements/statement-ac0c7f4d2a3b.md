@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:51:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3118);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=3118s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was in the state of colorado and at Charis Bible College and they did not have any arrangements for security
 

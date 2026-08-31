@@ -6,6 +6,11 @@ date: "2025-06"
 ---
 
 **Date:** 2025-06
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “the month of June”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-06"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:03:48](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-06-charlie-kirk-lobbied-president-trump-aga-t-00-03-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(228);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He lobbies in the month of June for President Trump not to get involved in Israel's war with Iran.
 
@@ -25,6 +30,6 @@ date: "2025-06"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:03:30](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-06-charlie-kirk-lobbied-president-trump-aga-t-00-03-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(210);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=210s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we know Charlie was advocating to President Trump against this war with Iran.

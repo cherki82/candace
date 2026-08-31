@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:46:47](/episodes/ep-his-JBjlkh8.md#t-00-46-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2807);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=2807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is the headline: "Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it.
 

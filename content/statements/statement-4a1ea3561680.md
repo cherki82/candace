@@ -24,21 +24,11 @@ veracity: "mixed"
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 - [Liberty University](/entities/org-liberty-university.md) (org)
 
-## Appearances (2)
-
-### 1. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
+## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1914);return false;">Play</a>
-
-> I am learning also that Fort Huachuca has ties to Liberty University and that you can attend classes there and achieve your degree at Liberty University, still working to verify that.
-
-### 2. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
-
-**Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1914);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=1914s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Fort Huachuca has ties to Liberty University and that you can attend classes there and achieve your degree at Liberty University, still working to verify that
 

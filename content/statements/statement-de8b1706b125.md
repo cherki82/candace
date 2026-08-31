@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:35:35](/episodes/ep-9hRcfSrri70.md#t-00-35-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2135);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=2135s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can't speak out against this queen because this is a queen that successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk and use that example to crack down on political dissent. She dropped.
 

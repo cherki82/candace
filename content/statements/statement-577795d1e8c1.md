@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:01:44](/episodes/ep-NIEbqsLAK8g.md#t-00-01-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(104);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=104s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And there was this one guy who was emailing me consistently saying that first and foremost, he knew that Charlie was going to be assassinated, all sorts of things.
 

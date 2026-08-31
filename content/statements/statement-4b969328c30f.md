@@ -28,8 +28,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:52:45](/episodes/ep-581dILVcEE4.md#t-00-52-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3165);return false;">Play</a>
+**Timestamp:** [00:52:45](/episodes/ep-581dILVcEE4.md#t-00-52-13) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=3165s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I did see a clip on X that when we started this investigation of him saying people were doing it for clicks—which is just—I have no response to that.
 

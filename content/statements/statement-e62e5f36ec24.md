@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:50:22](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3022);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=3022s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We don't even need to hear from it because the police said that he's the guy. That is a guilty before proven innocent society, and it stands in stark contrast to everything that Charlie Kirk believed in.
 

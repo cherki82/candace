@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:41:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2493);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said this. Again, this is Candace admitting that she has zero proof. I asked for proof and she screams, I'll take a lie detector test. ... Guys, I promise she's adding caveats, hedging, changing her story. Let me not change my story once. But it's important to point out what she just did here. ... The psychology behind it is wild. Okay, cool. It's going to pretend he's smart now. She gets called out for a bald faced lie, a central lie to her entire narrative.
 

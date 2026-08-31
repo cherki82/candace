@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:46:49](/episodes/ep-9naMwS0kMBE.md#t-00-46-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2809);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=2809s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Protestant churches, the evangelical churches are definitely experiencing a mass exodus. That's what's being shown.
 

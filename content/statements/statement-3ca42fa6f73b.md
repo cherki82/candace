@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2654);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2654s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > yeah, I'm not an I was never an army sniper
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:19:23](/episodes/ep-aPOyk1i2LOc.md#t-00-19-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1163);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=1163s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I wasn't a sniper in the army. and ... i never said that
 

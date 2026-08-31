@@ -19,7 +19,7 @@ object: "person-michael-mccoy"
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
-- [00:34:47](/episodes/ep-581dILVcEE4#t-00-34-47): _Blake Neff says Mikey called his dad Rob McCoy after the shooting_
+- [00:34:59](/episodes/ep-581dILVcEE4#t-00-34-59): _And around the time I put that phone away, and then he immediately calls his dad. He calls Rob McCoy._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 

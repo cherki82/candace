@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2089);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk's assassination within hours, Candace publicly attributes the killing to Israel and targets Kirk's widow by name.
 

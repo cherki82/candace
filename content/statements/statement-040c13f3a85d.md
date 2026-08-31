@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:09:39](/episodes/ep-ZGxnf5cj4Uw.md#t-00-09-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(579);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=579s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > some information was provided about Tyler potentially having some suicidal ideations, was en route to a remote area of Washington County.
 

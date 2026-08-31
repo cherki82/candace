@@ -1,6 +1,6 @@
 ---
-title: "in the immediate aftermath of Charlie's death... the team re..."
-description: "\"in the immediate aftermath of Charlie's death... the team reached out to host Matt Walsh to host Charlie Kirk's show... And they were told that that w...\" — Candace Owens"
+title: "Candace Owens said that immediately after Charlie Kirk's dea..."
+description: "\"Candace Owens said that immediately after Charlie Kirk's death, people close to Charlie, including donors, were moved by a Matt Walsh monologue on The...\" — Candace Owens"
 statement_id: "statement-663cee74029b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,27 @@ veracity: "mixed"
 
 ## Statement
 
-> in the immediate aftermath of Charlie's death... the team reached out to host Matt Walsh to host Charlie Kirk's show... And they were told that that was not allowed to happen unless Ben Shapiro was also invited.
+> Candace Owens said that immediately after Charlie Kirk's death, people close to Charlie, including donors, were moved by a Matt Walsh monologue on The Daily Wire.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Matt Walsh](/entities/person-matt-walsh.md) (person)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Source
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:20:03](/episodes/ep-K1tFD7FfoCU.md#t-00-19-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1203);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=K1tFD7FfoCU&t=1203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> in the immediate aftermath of Charlie's (Charlie Kirk) death, people that were extremely close to Charlie (Charlie Kirk)—including donors—were very touched by a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire. ... So the team reached out to host Matt Walsh (Matt Walsh)—to ask Matt Walsh (Matt Walsh), rather— ... to host Charlie Kirk's (Charlie Kirk) show because they wanted to keep it going. ... And they were told that that was not allowed to happen unless Ben Shapiro (Ben Shapiro) was also invited.
+> And if you'd like to hear something else that happens to be true, in the immediate aftermath of Charlie's (Charlie Kirk) death, people that were extremely close to Charlie (Charlie Kirk)—including donors—were very touched by a monologue that Matt Walsh did over on the Daily Wire.
 
 ## Verification
 

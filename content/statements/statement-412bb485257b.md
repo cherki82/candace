@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:20:44](/episodes/ep-ti5Fxrvegno.md#t-00-20-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I refused because Charlie (Charlie Kirk) was starting to have serious questions about Israel, not just its role in the Gaza war, but its influence on American politicians, something he and I spent hours and hours discussing.
 

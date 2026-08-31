@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:49:33](/episodes/ep-_cNtgris8Ik.md#t-00-49-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2973);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2973s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > days six days after whatever it was she said i'm gonna burn down that organization i swear to god i just thought she meant she meant if the jews take over
 

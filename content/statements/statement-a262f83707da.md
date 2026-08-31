@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:36:49](/episodes/ep-SKNJPul29zU.md#t-00-36-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2209);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2209s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > yeah we're just going to take southern Lebanon and then by the way they've begun evacuating villages north of the Litani river meaning oh no it's not just southern Lebanon and so when people fear monger about groups like Hezbollah for instance which is supported by Iran
 

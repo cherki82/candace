@@ -6,6 +6,11 @@ date: "1948"
 ---
 
 **Date:** 1948
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 1948”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1948"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:46:48](/episodes/ep-HYn0P-P1wUw.md#event-event-1948-utah-adopted-the-beehive-as-a-state-symb-t-00-46-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2808);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=2808s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Chronologically, Utah adopts the beehive symbol in 1948.

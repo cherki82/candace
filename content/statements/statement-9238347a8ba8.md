@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:02:27](/episodes/ep-5NQyGuRYbU8.md#t-00-02-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(147);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=147s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Butler, Pennsylvania assassination narrative assassination attempt narrative, if you will. He did not buy it for one second.
 

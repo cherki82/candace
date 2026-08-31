@@ -26,7 +26,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:16:43](/episodes/ep-ja26iltROkM.md#t-00-16-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1003);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1003s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After interviews with the pilot, in consultation with the FAA, we determined the transponder was not turned off. ... Incomplete flight data in rural areas caused the apparent gap.
 

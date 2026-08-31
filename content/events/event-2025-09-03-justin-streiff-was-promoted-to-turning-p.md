@@ -6,6 +6,11 @@ date: "2025-09-03"
 ---
 
 **Date:** 2025-09-03
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “just seven days earlier”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-03"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:19:58](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-03-justin-streiff-was-promoted-to-turning-p-t-00-19-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1198);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=1198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he's been promoted to COO just seven days earlier. He gets promoted to COO
 
@@ -25,6 +30,6 @@ date: "2025-09-03"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:15:30](/episodes/ep-7FS1tUeSfdE.md#event-event-2025-09-03-justin-streiff-was-promoted-to-turning-p-t-00-14-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(930);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=930s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > new position to which he was promoted just seven days before Charlie Kirk was assassinated.

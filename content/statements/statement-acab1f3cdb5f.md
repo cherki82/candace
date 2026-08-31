@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:37:40](/episodes/ep-Ux1kzgQxkws.md#t-00-37-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2260);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2260s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There. And then Rudy went out and stood on the steps of the New Castle County Courthouse with Bernie Kerrick and said this contains child exploitation, like pure, you know, I mean, pure bullshit, just bullshit. So on both sides, you have this reaction.
 

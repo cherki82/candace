@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:27:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1647);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1647s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They know the U.S. fighting their war for them is the best chance at expanding their borders and becoming a global superpower, and a peace deal would foil their plot.
 

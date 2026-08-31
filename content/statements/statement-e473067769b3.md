@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:33:10](/episodes/ep-jsqUIkszZd0.md#t-00-32-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1990);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1990s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He further stated that his accountants could only come up with a $2 million in valuation, including the patent. ... Then he stated that he personally wanted to purchase 51% of the company.
 
@@ -40,7 +40,7 @@ type: "factual_claim"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:40:17](/episodes/ep--9MOUvgGyi4.md#t-01-40-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6017);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=6017s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then Victor (Victor Marx) tells me what he really wants to do. He's like, tells me, you know, 51% and we could only come up with a valuation of 2 million. ... Yeah, 2 million valuation and he wanted 51%, which meant that he was going to put a little over a million in and take control of the company.
 

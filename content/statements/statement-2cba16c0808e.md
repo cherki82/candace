@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:03:53](/episodes/ep-Wjul6YV6izo.md#t-00-03-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(233);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=233s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It reflects our mourning-avoidant, emotion-phobic culture, where people tend to make all sorts of quick, uninformed judgments about how people are supposed to grieve, says Dr. ... Alan Wolfelt,
 

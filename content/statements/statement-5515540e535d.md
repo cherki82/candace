@@ -1,8 +1,8 @@
 ---
-title: "Conservative activist Laura Loomer has a new Pentagon press ..."
-description: "\"Conservative activist Laura Loomer has a new Pentagon press pass.\" — Candace Owens"
+title: "Laura Loomer said she had a new Pentagon press pass."
+description: "\"Laura Loomer said she had a new Pentagon press pass.\" — Laura Loomer"
 statement_id: "statement-5515540e535d"
-speaker: "Candace Owens"
+speaker: "Laura Loomer"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -11,22 +11,28 @@ veracity: "true"
 
 ## Statement
 
-> Conservative activist Laura Loomer has a new Pentagon press pass.
+> Laura Loomer said she had a new Pentagon press pass.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Laura Loomer](/entities/person-laura-loomer.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from article
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Unidentified headline shown in episode
+
+## About
+
+- [Laura Loomer](/entities/person-laura-loomer.md) (person)
+- [United States Pentagon](/entities/org-united-states-pentagon.md) (org)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:47:44](/episodes/ep-LATnak75Si0.md#t-00-47-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2864);return false;">Play</a>
+**Timestamp:** [00:47:42](/episodes/ep-LATnak75Si0.md#t-00-47-36) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=2862s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> "Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass." Now, this is of interest
+> Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass.
 
 ## Verification
 

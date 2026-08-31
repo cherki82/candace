@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:42:09](/episodes/ep-SgVcnx4Oh30.md#t-00-41-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2529);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2529s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Kolvet) went to the front and Erika (Erika Kirk) went through some private backdoor entrance. That was my understanding.
 

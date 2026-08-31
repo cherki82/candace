@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:13:37](/episodes/ep-sKuYLNx3iRo.md#t-00-13-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(817);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=817s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > World's coming by. I'm working, putting nine up, putting about 36 feet of dressing in him, and then four four-by-fours, and then two hemostatic four-by-fours.
 

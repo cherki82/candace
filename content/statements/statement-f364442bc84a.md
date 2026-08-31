@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:00:19](/episodes/ep-BKcOm32ZEGk.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(19);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=19s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was all well and good until you guys tried to convince us that fruit of the loom never had a cornucopia. Right? There was one. We all know that.
 

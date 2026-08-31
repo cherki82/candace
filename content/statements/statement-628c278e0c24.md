@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:07:43](/episodes/ep-7FS1tUeSfdE.md#t-00-07-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(463);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=463s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Our recommendation. ... Forward is that all communication channels should amplify this clip further, coordinate with digital partners and our approved surrogates to elevate the reach and ensure dominant placement in the overnight information environment.
 

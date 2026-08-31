@@ -6,6 +6,11 @@ date: "2025-06-02"
 ---
 
 **Date:** 2025-06-02
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “June 2nd, 2025”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-06-02"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:23:09](/episodes/ep-Vu6Y24pqhZs.md#event-event-2025-06-02-foster-curtiss-left-his-ncis-division-ch-t-00-23-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1389);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1389s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > leave his position as a division chief and to be Richmond, Virginia's interim inspector general

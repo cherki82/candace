@@ -1,6 +1,6 @@
 ---
 title: "Marvel Entertainment"
-description: "Marvel Entertainment (Organizations) - 1 mention"
+description: "Marvel Entertainment (Organizations) - 3 mentions"
 id: "org-marvel-entertainment"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [Marvel Corporate Information - About](https://www.marvel.com/corporate)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-marvel-entertainment-t-00-53-45">2026-05-04 · 00:53:50</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-marvel-entertainment-t-00-00-00">2025-10-09 · 00:00:24</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-marvel-entertainment-t-00-53-45">2026-05-04 · 00:53:50</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,14 +33,16 @@ Source: [Marvel Corporate Information - About](https://www.marvel.com/corporate)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-marvel-entertainment-t-00-53-45">Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-marvel-entertainment-t-00-00-00">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-marvel-entertainment-t-00-53-45" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-marvel-entertainment-t-00-00-00" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-marvel-entertainment-t-00-53-45" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-marvel-entertainment-t-00-00-00) | 2 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-marvel-entertainment-t-00-53-45) | 1 |
 
 </details>
@@ -49,13 +51,24 @@ Source: [Marvel Corporate Information - About](https://www.marvel.com/corporate)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
 
 **[00:53:50](/episodes/ep-uC_GjKU8rs8.md#ent-org-marvel-entertainment-t-00-53-45)**
 > "...your husband is a part of the Marvel universe so I am very happy for Justin Baldoni co..."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+
+**[00:00:24](/episodes/ep-pc3pxRyNFZk.md#ent-org-marvel-entertainment-t-00-00-00)**
+> "...an now officially debunk that Marvel storyline and therefore refocus our investigation..."
+
+**[00:06:17](/episodes/ep-pc3pxRyNFZk.md#ent-org-marvel-entertainment-t-00-06-17)**
+> "...ust—life really can just be a Marvel comic with people that are, I guess, a DC comic w..."
 
 </details>
 

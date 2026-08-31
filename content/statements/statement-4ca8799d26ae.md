@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:58:19](/episodes/ep-ChuWo-n49B8.md#t-00-58-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3499);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=3499s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A lot of stuff that's coming out. And of course, they're going to be announcing soon, I guess September, less like what is it, September 5th, actually, that they're supposed to be saying whether or not they're going to go through with the Tyler Robinson trial. September 1st. Okay. Yeah. So less than a month and that's going to open a whole new can of worms.
 

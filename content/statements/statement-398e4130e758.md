@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1909);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=1909s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's actually stunning to consider that when they opted to have the three-way call with the doctor, okay, when they hurried and called the surgeon because I did an episode and I was like, hey, something's really weird that you guys should know is that, you know, the bullet didn't go through. There was no blood in the back of Charlie (Charlie Kirk) and then Erika (Erika Kirk) and Andrew (Andrew Kolvet) got on the phone with the surgeon. ... That was on the day of Charlie (Charlie Kirk)'s actual funeral mass.
 
@@ -39,7 +39,7 @@ type: "factual_claim"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:13:11](/episodes/ep-ti5Fxrvegno.md#t-00-12-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=791s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my dog Blue is leaving his paw print and this picture seems pretty obvious that is emerging. Paw print number one on the day of Charlie (Charlie Kirk)'s actual funeral. ... Erika (Erika Kirk) and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the .30-06 didn't pass through Charlie (Charlie Kirk)'s neck.
 

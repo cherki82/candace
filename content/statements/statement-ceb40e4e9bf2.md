@@ -1,16 +1,16 @@
 ---
-title: "Erika is a cradle Catholic, but she ended up kind of like me..."
-description: "\"Erika is a cradle Catholic, but she ended up kind of like me. ... ended up becoming a Christian in college through a Protestant church, through a non-...\" — Andrew Kolvet"
+title: "Kolvet said he thought Erika Kirk followed a path similar to..."
+description: "\"Kolvet said he thought Erika Kirk followed a path similar to his from a Catholic upbringing toward a Protestant or non-denominational church\" — Andrew Kolvet"
 statement_id: "statement-ceb40e4e9bf2"
 speaker: "Andrew Kolvet"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Erika is a cradle Catholic, but she ended up kind of like me. ... ended up becoming a Christian in college through a Protestant church, through a non-denominational kind of more...
+> Kolvet said he thought Erika Kirk followed a path similar to his from a Catholic upbringing toward a Protestant or non-denominational church
 
 ## Attribution
 
@@ -18,15 +18,19 @@ type: "factual_claim"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Culture Apothecary with Alex Clark
+
+## About
+
+- [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:33:03](/episodes/ep-UBkFkg4UNY8.md#t-00-32-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1983);return false;">Play</a>
+**Timestamp:** [00:33:14](/episodes/ep-UBkFkg4UNY8.md#t-00-32-41) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=1994s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I grew up Catholic, and First Communion and went to Catholic high school, but then I ended up becoming a Christian in college through a Protestant church—through a non-denominational kind of more
+> And I think Erika (Erika Kirk) kind of follows that same path. ... She and I share that.
 
 ## Verification
 
@@ -34,4 +38,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

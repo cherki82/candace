@@ -3,13 +3,22 @@ title: "Slovakia"
 description: "Slovakia (Places) - 1 mention"
 id: "gpe-slovakia"
 type: "GPE"
+categories:
+  - "country"
+  - "Central Europe"
 ---
 
 _Type: Places_
 
+**Categories:** country, Central Europe
+
+**Entity verification:** verified
+> The United Nations member-state page confirms the canonical country name Slovakia.
+Source: [United Nations — Slovakia](https://www.un.org/en/about-us/member-states/slovakia)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-slovakia-t-00-13-24">2025-12-08 · 00:13:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-slovakia-t-00-13-24">2025-12-08 · 00:13:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-slovakia-t-00-13-24">2025-12-08 · 00:13:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-slovakia-t-00-13-24">2025-12-08 · 00:13:50</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -41,7 +50,7 @@ _Type: Places_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
-**[00:13:53](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-slovakia-t-00-13-24)**
+**[00:13:50](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-slovakia-t-00-13-24)**
 > "The public learns this and it turns out that France is involved, Russia is involved, Slovakia is involved."
 
 </details>

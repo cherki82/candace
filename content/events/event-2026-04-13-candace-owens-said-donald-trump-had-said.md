@@ -6,6 +6,11 @@ date: "2026-04-13"
 ---
 
 **Date:** 2026-04-13
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “two days ago”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-04-13"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:26:21](/episodes/ep-SubDoZWHARo.md#t-00-25-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1581);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1581s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump said that he thought Jesus was a Red Cross doctor.

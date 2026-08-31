@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:21:40](/episodes/ep-1hcjQGgvxUY.md#t-00-21-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1300);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1300s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think it's a little weird, but it's a fact that Erica (Erika Kirk) chose that date in particular to break her years-long Twitter silence. ... Erica (Erika Kirk) had not authored a tweet since 2023, ... but she herself had not authored a tweet suddenly 48 hours before. ... Charlie (Charlie Kirk)'s death on September 8th at 1049 a.m. Arizona time she decides to break that silence with this tweet
 

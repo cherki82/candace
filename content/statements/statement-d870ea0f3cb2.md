@@ -1,24 +1,25 @@
 ---
-title: "Erika Kirk said at the Bari Weiss town hall that she was pre..."
-description: "\"Erika Kirk said at the Bari Weiss town hall that she was pregnant when the Egyptian planes were following her, so she wasn't on them, and claims to ha...\" — Erika Kirk"
+title: "An anonymous CBS town hall attendee reported that Erika Kirk..."
+description: "\"An anonymous CBS town hall attendee reported that Erika Kirk said she was pregnant when the Egyptian planes were following her, was not on them, and h...\" — CBS town hall attendee email source (identity unverified)"
 statement_id: "statement-d870ea0f3cb2"
-speaker: "Erika Kirk"
+speaker: "CBS town hall attendee email source (identity unverified)"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> Erika Kirk said at the Bari Weiss town hall that she was pregnant when the Egyptian planes were following her, so she wasn't on them, and claims to have photo proof
+> An anonymous CBS town hall attendee reported that Erika Kirk said she was pregnant when the Egyptian planes were following her, was not on them, and had photographic proof
 
 ## Attribution
 
-**Speaker:** [Erika Kirk](/entities/person-erika-kirk.md) (Guest)
+**Speaker:** [CBS town hall attendee email source (identity unverified)](/entities/anon-src-6DhWawD4ZiM-001.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Email tip from attendee
+**Original Source:** Email from CBS town hall attendee
 
 ## About
 
@@ -28,14 +29,28 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:35:00](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2100);return false;">Play</a>
+**Timestamp:** [00:35:37](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=2137s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Erica said she was pregnant when the Egyptian planes were flying and following her. So she wasn't on them. She said she has photo proof.
+> And this is what she said about the conspiracies and Candace. One, Erika (Erika Kirk) said she was pregnant when the Egyptian planes were flying and following her. ... So she wasn't on them. She said she has photo proof. Huh?
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The anonymous attendee report was checked against the subsequently released full town hall. Kirk said she was pregnant for most of the cited trips, denied being on the Egyptian planes, and said she had a phone photo showing she was in a hospital with contractions on a disputed date. This verifies the report of what Kirk said, not the underlying aircraft-tracking allegation.
+
+**Confidence:** High
+
+**Sources:**
+
+- [CBS News Presents: A Town Hall with Erika Kirk](https://podcasts.apple.com/us/podcast/cbs-news-presents-a-town-hall-with-erika-kirk/id1570872415?i=1000741207427)
+- [Erika Kirk's Town Hall with Bari Weiss and CBS News — transcript](https://podscripts.co/podcasts/the-charlie-kirk-show/erika-kirks-town-hall-with-bari-weiss-and-cbs-news)
+
+*Verified: 2026-08-30T05:27:09.460222*
 
 ---
 

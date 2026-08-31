@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(678);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=678s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The plane departs Denver, Colorado. That's at 11.58 a.m. mountain time. And then it heads to a military base in Pierre, South Dakota. ... It lands at 12.56 p.m. mountain time. ... And then they went straight to Provo, Utah, landing at 6.57 p.m.
 

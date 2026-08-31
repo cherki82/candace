@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:29:22](/episodes/ep-1QZ4X6q1DPg.md#t-00-28-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1762);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1762s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When I told you that about an hour after the quote-unquote shooting happened at the White House Correspondents' Dinner, this email went out, the language of the email regarding how they wanted Erika Kirk's I want to go home video. ... to be boosted. They wanted them to go out to the White House surrogates. They wanted to make sure that video would be number one overnight when people woke up. They referred to Erika Kirk as their emotional asset.
 

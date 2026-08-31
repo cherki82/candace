@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:18:47](/episodes/ep-SKNJPul29zU.md#t-00-18-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=1127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I was not ever one of those people who cheered on what happened on October 7th. Never. ... I never would. That goes against who I am as a human being. I value human life and I don't think civilians should be targeted for any reason. Anytime they are, reason anytime they are
 

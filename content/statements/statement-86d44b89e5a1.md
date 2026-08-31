@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:11:09](/episodes/ep-9hRcfSrri70.md#t-00-10-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(669);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=669s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because he says he was right there he just saw and that that was likely going to be the conclusion okay i accept that he then immediately processes that or goes to grab sd cards and sd card one sd card puts it into his pockets races to his laptop this is all happening within 10 minutes of Charlie (Charlie Kirk) getting hit, 10 minutes of Charlie (Charlie Kirk) getting hit, according to my source in government, which I trust. I trust this person.
 

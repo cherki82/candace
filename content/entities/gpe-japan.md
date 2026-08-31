@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-description: "Japan (Places) - 25 mentions"
+description: "Japan (Places) - 24 mentions"
 id: "gpe-japan"
 type: "GPE"
 aliases:
@@ -21,12 +21,12 @@ _Type: Places_
 Source: [Member States | United Nations](https://www.un.org/about-us/member-states)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48">2025-11-06 · 00:46:52</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-39">2025-11-06 · 00:46:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-japan-t-00-20-04">2026-08-03 · 00:20:15</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,8 +35,8 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48" style="--pulse-height:60%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00" style="--pulse-height:80%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-39" style="--pulse-height:60%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00" style="--pulse-height:60%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58" style="--pulse-height:80%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-12" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
@@ -51,8 +51,8 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48) | 3 |
-| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00) | 4 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-39) | 3 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-12) | 2 |
@@ -69,7 +69,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -171,18 +171,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
-
-**[00:00:03](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00)**
-> "then off to Japan"
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
 
 **[00:00:10](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00)**
 > "...ouple of days and then off to Japan."
 
-**[00:29:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-28-37)**
-> "Why would you want to go to Japan a day before you have a college campus event, rig..."
+**[00:29:04](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-29-04)**
+> ".... Why would you want to go to Japan a day before you have a college campus event, rig..."
 
-**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-29-22)**
+**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-29-04)**
 > "And then on the 7th, he's in Japan, and he is on CNN News Japan speaking."
 
 </details>
@@ -190,13 +187,13 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
 
-**[00:46:52](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
+**[00:46:48](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-39)**
 > "You know why he went to Korea and Japan?"
 
-**[00:47:13](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
+**[00:47:06](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-39)**
 > "I think he probably went to Japan and Korea because it's an awesome opportunity."
 
-**[00:47:24](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
+**[00:47:18](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-47-18)**
 > "...ey, do you guys want to go to Japan?""
 
 </details>
@@ -211,7 +208,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Japan (4)</strong></summary>
+<summary><strong class="section-title">Statements about Japan (5)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
@@ -237,6 +234,14 @@ _No relationships extracted yet._
 
 - [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) (Opinion) **Candace Owens**: ["Owens said she did not think Charlie Kirk's trips to Korea and Japan w..."](/statements/statement-91dcd3094221.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [South Korea](/entities/gpe-south-korea.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:29:14](/episodes/ep-t4U7NjnUEgc.md#t-00-29-04) (Claim) **Candace Owens**: ["Owens said Charlie Kirk attended an event in Korea on September 5 and ..."](/statements/statement-63c30899ddce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [South Korea](/entities/gpe-south-korea.md), [CNN](/entities/org-cnn.md)
 
 </details>
 

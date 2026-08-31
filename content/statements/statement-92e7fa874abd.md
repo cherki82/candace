@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:27:55](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1675);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1675s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Of what he's pretending, right? They have not been given access to Tyler Robinson's text messages to make sure they're real or that they were indeed sent from their client's phone that was in Tyler Robinson's confession. Nope. They said no. We're just bringing the printouts. These are the messages. Trust me, bro. They are not allowed to question the person who says that he found the notes.
 

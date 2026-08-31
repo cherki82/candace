@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:17:19](/episodes/ep-Vu6Y24pqhZs.md#t-00-17-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This non-smoking gun, by the way, which, as we saw in the preliminary hearing, it had dust in the barrel indicating non-usage, which featured Tyler Robinson's fingerprints.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:22:29](/episodes/ep-ds6umq1rHAw.md#t-00-22-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1349);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=1349s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I should also mention that Frank William Gay, the trusted Mormon, he had a son, Robert Gay, who became the managing director of Mitt Romney's Bain Capital for 16 years.
 

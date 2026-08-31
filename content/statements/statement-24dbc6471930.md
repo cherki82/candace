@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:04:47](/episodes/ep-I0OaY6Gryqk.md#t-00-04-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(287);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=287s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote President Trump (Donald Trump) after much reflection I have decided to resign from my position as the director of national National Counterterrorism Center effective today.
 

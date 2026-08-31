@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) trained [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 
 - [00:26:51](/episodes/ep-_cNtgris8Ik#t-00-26-51): _And what's really funny about hearing this sort of a cope is that, as you guys know, Charlie trained me in debating and one of the things he always said was._
+
+**[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
+
+- [00:11:49](/episodes/ep-_dRaEO47-co#t-00-11-49): _I mean, Charlie (Charlie Kirk) was like, “Look, you gotta—you gotta know the arguments of your opponents backward and forward.”_
 
 ### Related
 

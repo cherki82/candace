@@ -6,6 +6,11 @@ date: "2014-01-01"
 ---
 
 **Date:** 2014-01-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “2014-01-01”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2014-01-01"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:18:12](/episodes/ep-DqGNvi36ol8.md#t-00-17-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1092);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=1092s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > back in 2014, the Ukrainians were authentically and truly just done with their president, Yanukovych. And when John McCain went over there and led the protesters in the streets

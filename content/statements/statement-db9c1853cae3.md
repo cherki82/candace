@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:16:51](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1011);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1011s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it is, of course, entirely plausible that someone gained access to Tyler Robinson's iCloud, maybe someone like his boyfriend gave access to his iCloud and someone sent text messages from a different location.
 

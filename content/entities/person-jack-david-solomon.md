@@ -197,7 +197,7 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 <details>
 <summary>Formerly Worked For (2)</summary>
 
-- **[BYU](/entities/org-byu.md)**
+- **[Brigham Young University](/entities/org-brigham-young-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “Jack Solomon was also a professor at BYU in political science.”
@@ -281,7 +281,7 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 
 </details>
 
-- **[BYU](/entities/org-byu.md)** formerly employed this
+- **[Brigham Young University](/entities/org-brigham-young-university.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “Jack Solomon was also a professor at BYU in political science.”
@@ -385,7 +385,7 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
   - Also about: [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon.md), [Zion Gate](/entities/gpe-zion-gate.md), [Jerusalem](/entities/gpe-jerusalem.md)
 
 - [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) (Claim) **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center..."](/statements/statement-244d63ae0c3c.md)
-  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md), [BYU](/entities/org-byu.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md), [Brigham Young University](/entities/org-brigham-young-university.md)
 
 - [00:45:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) (Claim) **Candace Owens**: ["Jack Solomon and Norman Vance founded Advanced Patent Technology in 19..."](/statements/statement-2e0ea31a6b66.md)
   - Also about: [Norman LaVerne Vance](/entities/person-norman-laverne-vance.md), [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology.md), [United Coin Machine Co.](/entities/org-united-coin.md)

@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:20:53](/episodes/ep-Vu6Y24pqhZs.md#t-00-20-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1253);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1253s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've been given two names I've had these names for a long time ... and one of them had only just graduated from UVU I'm not kidding talk about beginner's luck I'm told Mitchell Curtiss of Pleasant Grove Police ... 2025 graduate very young buck he finds this gun
 

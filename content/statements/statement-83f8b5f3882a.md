@@ -1,20 +1,20 @@
 ---
-title: "Authorities at Fort Huachuca kept asking about the next 24 h..."
-description: "\"Authorities at Fort Huachuca kept asking about the next 24 hours and wanted to hold me for 24 hours, which was significant because Charlie Kirk was sh...\" — Anonymous Source #5 (Ep ewBzjVe3LNQ)"
+title: "Authorities at Fort Huachuca repeatedly focused on the next ..."
+description: "\"Authorities at Fort Huachuca repeatedly focused on the next 24 hours and appeared to seek a reason to hold me for 24 hours; I later said that repeated...\" — Mitch Snow"
 statement_id: "statement-83f8b5f3882a"
-speaker: "Anonymous Source #5 (Ep ewBzjVe3LNQ)"
-type: "factual_claim"
+speaker: "Mitch Snow"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Authorities at Fort Huachuca kept asking about the next 24 hours and wanted to hold me for 24 hours, which was significant because Charlie Kirk was shot within that timeframe
+> Authorities at Fort Huachuca repeatedly focused on the next 24 hours and appeared to seek a reason to hold me for 24 hours; I later said that repeated number seemed coincidental because I did not know what would happen in the next 24 hours
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #5 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-005.md) (Guest)
+**Speaker:** [Mitch Snow](/entities/person-mitch-snow.md) (Guest)
 
 **Delivery:** Made directly
 
@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:53:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3180);return false;">Play</a>
+**Timestamp:** [00:52:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=3170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> they were very, very concerned about the next 24 hours. Like they want to, They wanted to make sure, I don't know, maybe that I wasn't there for some other purpose or related to something... And that 24-hour number kept getting repeated by them.
+> they were very, very concerned about the next 24 hours. ... they were looking for any excuse to, try and hold me up for like 24 hours. And that 24-hour number kept getting repeated by them. ... I didn't know what was going to happen the next 24 hours. It seems coincidental that that was the number they kept bringing up
 
 ## Verification
 
@@ -37,4 +37,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

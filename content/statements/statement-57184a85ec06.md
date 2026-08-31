@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:57:53](/episodes/ep-G3zdOeHpvS0.md#t-00-57-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3473);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=3473s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know if it's true. I'm just sharing with you because it's my podcast and I'm allowed to. ... But it seemed viable is what I would say that the way that it works and the way that the United States military has been caught in these trafficking, global trafficking operations in the past is that what they first do is they send out the charity, right?
 

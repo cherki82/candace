@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:49:32](/episodes/ep-hWTdXHGQ8R4.md#t-00-49-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2972);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=2972s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Becca (viewer; surname unverified) writes, Erika (Erika Kirk) at age 25 while living in Michigan had a very inappropriate relationship with a 15-year-old child and is sick. What Erika (Erika Kirk) messaged to this girl, she groomed her for almost a year.
 

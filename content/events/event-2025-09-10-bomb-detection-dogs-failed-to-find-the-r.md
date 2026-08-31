@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-10"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:18:56](/episodes/ep-Vu6Y24pqhZs.md#event-event-2025-09-10-bomb-detection-dogs-failed-to-find-the-r-t-00-18-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1136);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > tell the rookie officers to have another search and lo and behold the rookie officers find the gun
 
@@ -25,6 +30,6 @@ date: "2025-09-10"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:16:30](/episodes/ep-HYn0P-P1wUw.md#event-event-2025-09-10-bomb-detection-dogs-failed-to-find-the-r-t-00-16-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(990);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=990s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the bomb dogs failing to detect the recently discharged weapon on September 10th

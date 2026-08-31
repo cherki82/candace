@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:33:57](/episodes/ep-CEF7gQRWYCE.md#t-00-33-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2037);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=2037s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Do you guys ever wonder why Hillary Clinton in those WikiLeak emails was asking a few days before we invaded Iraq, she was trying to locate Gilgamesh's tomb.
 

@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:12:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(732);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=732s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > MAGA is about winning and strength in not allowing Iran to have nuclear weapons. MAGA is about making America great again, and these people have no idea how to do that, but I do because the United States is now the hottest country anywhere in the world.
 

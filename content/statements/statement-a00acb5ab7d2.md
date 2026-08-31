@@ -1,6 +1,6 @@
 ---
-title: "The meeting yesterday was four hours and 30 minutes with no ..."
-description: "\"The meeting yesterday was four hours and 30 minutes with no rules. At the table it was Justin Streiff, Erika Kirk, George Farmer, and me. George left ...\" — Candace Owens"
+title: "Candace Owens said her private meeting lasted four hours and..."
+description: "\"Candace Owens said her private meeting lasted four hours and 30 minutes with no restrictions on questions; Justin Streiff and Erika Kirk were at the t...\" — Candace Owens"
 statement_id: "statement-a00acb5ab7d2"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> The meeting yesterday was four hours and 30 minutes with no rules. At the table it was Justin Streiff, Erika Kirk, George Farmer, and me. George left after the beginning, and my cousin Mia Grant was also there but sitting away from the table
+> Candace Owens said her private meeting lasted four hours and 30 minutes with no restrictions on questions; Justin Streiff and Erika Kirk were at the table, George Farmer joined for the beginning, and Mia Grant sat nearby.
 
 ## Attribution
 
@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(124);return false;">Play</a>
+**Timestamp:** [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=124s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated.
+> And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. ... It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk). George (George Farmer) joined me just for the beginning portion of the conversation because he had that thing going on that I told you on the 15th all day. ... But she's my cousin and I always have her route. And so that was it. She was kind of sitting a little bit away. But at the table, it was just it was really just the four of us until George (George Farmer) left.
 
 ## Verification
 

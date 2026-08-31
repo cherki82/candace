@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:04:25](/episodes/ep-_cNtgris8Ik.md#t-00-04-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(265);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=265s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't want it to be lost on our audience, so I want to reiterate, he never provided, and this is based on the testimony that you can hear for yourselves during the preliminary hearing, he never provided the SD card, the original SD card to the investigation, he just provided the Google links and a flash drive, which would indicate that there's a possibility of evidence tampering, no?
 

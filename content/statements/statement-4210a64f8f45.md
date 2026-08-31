@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:23:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-22-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1380);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1380s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then a strange thing happened on June 2nd, 2025. ... Foster Curtiss, after 21 years, decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.
 

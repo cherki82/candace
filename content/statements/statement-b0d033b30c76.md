@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:10:56](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(656);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The maroon color in the military means the color is famously associated with military forces such as the Maroon Beret of airborne troops around the world.
 

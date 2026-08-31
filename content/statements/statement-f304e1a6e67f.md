@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(582);return false;">Play</a>
+**Timestamp:** [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-30) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=582s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's just way too much of a habit of establishing former pedophiles and drug traffickers as lead pastors of churches.
 

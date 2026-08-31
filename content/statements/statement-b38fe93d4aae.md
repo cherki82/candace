@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:11:36](/episodes/ep-AoYZel7_cGQ.md#t-00-11-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(696);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=696s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > because a bullet coming from that direction was what killed Charlie (Charlie Kirk), as confirmed in the medical examiner's report.
 

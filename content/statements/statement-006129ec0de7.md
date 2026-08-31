@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:44:41](/episodes/ep-HZvwbfePe7o.md#t-00-44-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2681);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=2681s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Legally Blonde writes his wedding ring isn't on his finger in the casket. Yes, actually, if there is footage of his wedding ring, the one that you're talking about, he had several, he had actually like three different rings that he used to wear, but the one that you're talking about actually had an open like clasp on it and you can see it in some footage. It falls out on the ground. I'm told that it was never recovered.
 

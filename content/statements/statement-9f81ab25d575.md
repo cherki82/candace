@@ -23,14 +23,14 @@ type: "factual_claim"
 - [Waleed Mahmoud](/entities/person-waleed-mahmoud.md) (person)
 - [SU-BTV](/entities/vehicle-su-btv.md) (vehicle)
 - [Provo](/entities/gpe-provo.md) (gpe)
-- [Wilmington, Delaware](/entities/gpe-wilmington-delaware.md) (gpe)
+- [Wilmington](/entities/gpe-wilmington.md) (gpe)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:26:25](/episodes/ep-MhakwJxK-Zk.md#t-00-26-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1585);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1585s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This June 2nd entry, if this doesn't make sense to you, there's this person on the Egyptian plane who goes by Waleed Mahmoud, okay? He is aboard on June 2nd, 2025, he is flying in on S. ... S-U-B-T-B-T-V. He's in Provo, and then he departs Provo. So he is going to come back, and he will also be on this plane that departs on the, which leaves Wilmington on the day of Charlie (Charlie Kirk)'s assassination.
 

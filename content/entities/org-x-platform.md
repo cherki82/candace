@@ -1,6 +1,6 @@
 ---
 title: "X"
-description: "X (Organizations) - 35 mentions"
+description: "X (Organizations) - 40 mentions"
 id: "org-x-platform"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [About X — X Corp.](https://about.x.com/en)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#t-00-19-58">2026-01-06 · 00:20:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#t-00-35-33">2025-10-27 · 00:35:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-x-platform-t-00-24-49">2026-08-17 · 00:24:49</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,10 @@ Source: [About X — X Corp.](https://about.x.com/en)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-35-33" style="--pulse-height:20%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-35-38" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#t-00-41-58" style="--pulse-height:40%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-x-platform-t-00-08-00" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#t-00-19-58" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18" style="--pulse-height:80%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
@@ -62,6 +66,10 @@ Source: [About X — X Corp.](https://about.x.com/en)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-35-33) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-35-38) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#t-00-41-58) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-x-platform-t-00-08-00) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-00-19-58) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18) | 4 |
@@ -90,7 +98,7 @@ Source: [About X — X Corp.](https://about.x.com/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -296,6 +304,41 @@ Source: [About X — X Corp.](https://about.x.com/en)
 
 **[00:20:25](/episodes/ep-HYn0P-P1wUw.md#t-00-19-58)**
 > "Then Mark Amodei came out and he had dropped a YouTube video of a live stream of him on a committee and then X came back and said he actually missed the first two roll calls."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:08:00](/episodes/ep-w1oqQbR_bYs.md#ent-org-x-platform-t-00-08-00)**
+> "...ts me, it's trending all over Twitter, and Tucker Carlson is going to be the first pers..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:42:26](/episodes/ep-t4U7NjnUEgc.md#t-00-41-58)**
+> "Tim Pool has had some very choice words for me, which were trending last night on X."
+
+**[00:52:25](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47)**
+> "Ryan Matta has been amazing on X."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:35:50](/episodes/ep-581dILVcEE4.md#t-00-35-38)**
+> "a back-and-forth with somebody on X"
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:35:45](/episodes/ep-c5BcKF91iec.md#t-00-35-33)**
+> "Also, I wanna shout out John Miller on X."
 
 </details>
 

@@ -6,6 +6,11 @@ date: "2025-07-20"
 ---
 
 **Date:** 2025-07-20
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “July 20th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-07-20"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:32:40](/episodes/ep-MhakwJxK-Zk.md#t-00-32-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1960);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1960s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On July 20th, Charlie then vacations in Maine for a couple of weeks with his family.
 
@@ -25,6 +30,6 @@ date: "2025-07-20"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:23:59](/episodes/ep-WoXd4oLwd3w.md#t-00-23-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1439);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > july 20th ish Charlie vacationed in maine for a couple of weeks

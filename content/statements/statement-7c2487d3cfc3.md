@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(431);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=431s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > lindsey graham was just doing what lindsey graham does he's i think personally he's got the largest blackmail file whatever israel has on him it is terrifying okay it is terrifying we know what lindsey graham probably gets up to we've had some male hookers come out come out and make some allegations
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:21:34](/episodes/ep-NIEbqsLAK8g.md#t-00-21-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now it is nice that we have this letter with their official statements. But the letter does nothing to change my suspicions. It does not address most of my questions. Instead of answering my questions, it is the precursor to a lawsuit unless I change my statements.
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(746);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=746s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 30-06 in the left side of his neck and that he's a man of steel and that the bones in his neck that are like chicken bones stopped a bullet that travels 2,500 feet a second out of the barrel—at 200 yards, depending on the grain of the cartridge a
 

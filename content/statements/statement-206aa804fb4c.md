@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:26:23](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1583);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1583s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Superfeed, by the way, read the fine print on Turning Point USA's app. Superfeed owns the copyright, which means that's where your data is going.
 

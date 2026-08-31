@@ -22,7 +22,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:07:48](/episodes/ep-1IY2oD-_xVA.md#t-00-07-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(468);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=468s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Let us be in control of the message. What you're doing is big. We want we want in or if you say no, you wind up dead.
 

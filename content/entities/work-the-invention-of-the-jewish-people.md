@@ -3,9 +3,18 @@ title: "The Invention of the Jewish People"
 description: "The Invention of the Jewish People (Works & Media) - 2 mentions"
 id: "work-the-invention-of-the-jewish-people"
 type: "WORK"
+categories:
+  - "history book"
+  - "Jewish and Israeli history"
 ---
 
 _Type: Works & Media_
+
+**Categories:** history book, Jewish and Israeli history
+
+**Entity verification:** verified
+> Verso Books confirms the canonical title The Invention of the Jewish People and author Shlomo Sand.
+Source: [The Invention of the Jewish People | Verso Books](https://www.versobooks.com/products/2103-the-invention-of-the-jewish-people)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-invention-of-the-jewish-people-t-01-02-48">2025-09-15 · 01:03:01</a></strong></div>
@@ -14,7 +23,7 @@ _Type: Works & Media_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,6 +63,28 @@ _Type: Works & Media_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored By (1)</summary>
+
+- **[Shlomo Sand](/entities/person-shlomo-sand.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 01:02:57](/episodes/ep-czVBmqZP6Ss.md#t-01-02-48): “I would definitely read Shlomo Sand. There is a book called “The Invention of the Jewish People” that gets into Israel full stop.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Shlomo Sand](/entities/person-shlomo-sand.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 01:02:57](/episodes/ep-czVBmqZP6Ss.md#t-01-02-48): “I would definitely read Shlomo Sand. There is a book called “The Invention of the Jewish People” that gets into Israel full stop.”
+
+</details>
+
+</details>
 
 </details>

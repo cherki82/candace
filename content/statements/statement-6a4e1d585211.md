@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:33:56](/episodes/ep-cZxHqYsWRYg.md#t-00-33-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2036);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2036s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I should also add here that some pageant women disputed her narrative. They wrote to us that she was just randomly invited. They said that minors in particular are not. ... are not just freely solicited to join pageant worlds and that their photo has to be submitted by a parent or a guardian.
 

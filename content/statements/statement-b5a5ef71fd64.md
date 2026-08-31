@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:14:04](/episodes/ep-tB5SXXmd9vU.md#t-00-14-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(844);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=844s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, in terms of formal replies that we received from government structures, the only department that we did hear back—well, first let me say I did not at all hear back from the FBI on the American side
 

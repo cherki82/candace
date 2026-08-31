@@ -6,6 +6,7 @@ date: "2023-03-27"
 ---
 
 **Date:** 2023-03-27
+**Date precision:** Day
 
 ## Event
 
@@ -17,7 +18,7 @@ date: "2023-03-27"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:14:42](/episodes/ep-YFmRH8p5lt0.md#event-event-2023-03-27-transgender-shooter-kills-six-at-covenant-christia-t-00-16-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(882);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=882s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > l, and they were like, he was very close with the shooter's mom. The shooter was a veteran. They killed two Marine vets among some other—it looks like—bystanders. Bystanders at this bar. What bar was
 
@@ -25,7 +26,7 @@ date: "2023-03-27"
 
 **Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 **Timestamp:** [00:17:23](/episodes/ep-YFmRH8p5lt0.md#event-event-2023-03-27-transgender-shooter-kills-six-at-covenant-christia-t-00-16-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1043);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=1043s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > March 27th—like I said—is when we have that trans shooting at Covenant Elementary School in Nashville.
 
@@ -33,6 +34,6 @@ date: "2023-03-27"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:40:49](/episodes/ep-y8lak3CRwDw.md#event-event-2023-03-27-transgender-shooter-kills-six-at-covenant-christia-t-00-40-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2449);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2449s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nashville Covenant School memorial in 2023 because it just so happened that Turning Point was having

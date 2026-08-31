@@ -11,11 +11,7 @@ object: "person-rob-mccoy"
 
 ## [Turning Point USA Faith](/entities/org-turning-point-usa-faith) has chairman [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (2 mentions)
-
-**[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
-
-- [00:04:08](/episodes/ep-Qt0VHV-POCg#t-00-04-08): _Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith._
+### Evidence (1 mentions)
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 

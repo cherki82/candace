@@ -1,8 +1,8 @@
 ---
-title: "Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie K..."
-description: "\"Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie Kirk less than 24 hours before his assassination\" — Candace Owens"
+title: "Josh Hammer wrote after Charlie Kirk's death that they had s..."
+description: "\"Josh Hammer wrote after Charlie Kirk's death that they had spoken less than 24 hours earlier and Charlie had joked that he would plug Hammer's book on...\" — Josh Hammer"
 statement_id: "statement-2fe2babdd69a"
-speaker: "Candace Owens"
+speaker: "Josh Hammer"
 type: "factual_claim"
 ---
 
@@ -10,14 +10,15 @@ type: "factual_claim"
 
 ## Statement
 
-> Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie Kirk less than 24 hours before his assassination
+> Josh Hammer wrote after Charlie Kirk's death that they had spoken less than 24 hours earlier and Charlie had joked that he would plug Hammer's book on the tour.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Josh Hammer](/entities/person-josh-hammer.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from tweet
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** X
 
 ## About
 
@@ -27,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:19:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-19-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1181);return false;">Play</a>
+**Timestamp:** [00:20:48](/episodes/ep-2Riv3I7D0Yk.md#t-00-20-27) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=1248s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He bragged that he and Rabbi Wolicki (Pesach Wolicki) had a Zoom call with Charlie (Charlie Kirk)
+> I'm not kidding. Here's his tweet. He writes this: "I am speechless, devastated, and heartbroken. We spoke less than 24 hours ago. Charlie (Charlie Kirk) joked how he was going to plug my book on this very tour. He was a unique force, a generational leader. Pray for Charlie (Charlie Kirk)'s beautiful wife and their young children. Rest in peace, warrior."
 
 ## Verification
 

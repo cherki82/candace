@@ -31,7 +31,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2151);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2151s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA. And now... ... They've been exposed. President DJT.
 

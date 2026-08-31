@@ -3,9 +3,17 @@ title: "Calvary Chapel Chino Hills"
 description: "Calvary Chapel Chino Hills (Organizations) - 1 mention"
 id: "org-calvary-chapel-chino-hills"
 type: "ORG"
+categories:
+  - "California Calvary Chapel congregation"
 ---
 
 _Type: Organizations_
+
+**Categories:** California Calvary Chapel congregation
+
+**Entity verification:** verified
+> The official church site confirms the canonical name Calvary Chapel Chino Hills.
+Source: [Calvary Chapel Chino Hills](https://calvarycch.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#t-00-45-19">2025-11-13 · 00:45:35</a></strong></div>

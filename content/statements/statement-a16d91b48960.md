@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:25:02](/episodes/ep-SubDoZWHARo.md#t-00-25-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1502);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=1502s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > for the way she's grieving her husband, that's the most preposterous thing I've seen in a very long time, and I've seen a lot of crazy stuff in politics.
 

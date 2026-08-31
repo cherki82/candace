@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:38:43](/episodes/ep-4DvYXBn_5JI.md#t-00-38-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2323);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=2323s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's interesting because I have donors telling me that they are convinced that it is AI. They were there and Charlie never said this super formal statement. ... I appoint Erika Kirk if anything were to happen to me.
 

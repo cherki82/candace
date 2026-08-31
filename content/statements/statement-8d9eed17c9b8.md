@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 **Timestamp:** [00:03:23](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(203);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, because they put the organization together to defend a pedophile and a murderer
 

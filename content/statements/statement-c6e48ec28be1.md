@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:22:03](/episodes/ep-9CuC1yf8-PU.md#t-00-21-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1323);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1323s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, correct. Yeah, it went right into his left side and the shooter was from my right and even in the middle it was still to the right. And I'm pretty sure you had somebody say this earlier, but I think it was about 200 yards away.
 

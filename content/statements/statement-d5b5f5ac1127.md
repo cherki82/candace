@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [01:06:49](/episodes/ep-GY6GWceEqtQ.md#t-01-06-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4009);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=4009s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'll let you know how they reply to our response, ... which is we're happy to pay you since you care about money.
 

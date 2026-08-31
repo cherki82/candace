@@ -23,7 +23,7 @@ veracity: "true"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:13:52](/episodes/ep-Qt0VHV-POCg.md#t-00-13-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(832);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=832s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For Charlie's birthday, President Trump signed into law—or established, rather—a holiday. ... And he decided that October 14th, which is Charlie Kirk's birthday, would be a National Day of Remembrance for Charlie Kirk.
 

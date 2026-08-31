@@ -1,9 +1,9 @@
 ---
-title: "We got him. On the evening of September 11th, a family membe..."
-description: "\"We got him. On the evening of September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County She...\" — Spencer Cox"
+title: "Governor Spencer Cox said a family member reported that Tyle..."
+description: "\"Governor Spencer Cox said a family member reported that Tyler Robinson had confessed or implied that he committed the shooting.\" — Spencer Cox"
 statement_id: "statement-f23854d7f9ab"
 speaker: "Spencer Cox"
-type: "accusation"
+type: "factual_claim"
 veracity: "true"
 ---
 
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> We got him. On the evening of September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had committed the incident
+> Governor Spencer Cox said a family member reported that Tyler Robinson had confessed or implied that he committed the shooting.
 
 ## Attribution
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:27:57](/episodes/ep-2WEHTk0Xewg.md#t-00-27-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1677);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1677s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On the evening of September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had committed the incident
 
@@ -48,4 +48,4 @@ Confirmed that on evening of September 11, family member of Tyler Robinson conta
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** Yes

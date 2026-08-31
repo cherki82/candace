@@ -19,14 +19,14 @@ veracity: "mixed"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Remarks on autism research and public health
+**Original Source:** Archival remarks on vaccines
 **Original Date:** 2025-09-22
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:48:37](/episodes/ep-UBkFkg4UNY8.md#t-00-48-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2917);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=2917s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then hepatitis B is sexually transmitted. There's no reason to give a baby that's almost just born hepatitis B.
 

@@ -1,6 +1,6 @@
 ---
-title: "Tiffany Barker forgot to mention that they knew Charlie Kirk..."
-description: "\"Tiffany Barker forgot to mention that they knew Charlie Kirk and that the daughter had sung at Charlie Kirk's event\" — Candace Owens"
+title: "Owens said Tiffany Barker forgot—or may not have had time—to..."
+description: "\"Owens said Tiffany Barker forgot—or may not have had time—to mention in the GMA interview that her family knew Charlie Kirk and that Barker's daughter...\" — Candace Owens"
 statement_id: "statement-0054cf72e085"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Tiffany Barker forgot to mention that they knew Charlie Kirk and that the daughter had sung at Charlie Kirk's event
+> Owens said Tiffany Barker forgot—or may not have had time—to mention in the GMA interview that her family knew Charlie Kirk and that Barker's daughter had sung at one of Kirk's events
 
 ## Attribution
 
@@ -22,14 +22,15 @@ type: "factual_claim"
 
 - [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Good Morning America](/entities/work-good-morning-america.md) (work)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:06:11](/episodes/ep-UBkFkg4UNY8.md#t-00-05-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(371);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=371s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> they knew Charlie (Charlie Kirk), that the daughter had sung at Charlie (Charlie Kirk)'s event.
+> but she also forgot to mention—and maybe there wasn't time to mention, to be fair—that they knew Charlie (Charlie Kirk), that the daughter had sung at Charlie (Charlie Kirk)'s event.
 
 ## Verification
 

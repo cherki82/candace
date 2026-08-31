@@ -31,8 +31,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-17-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1054);return false;">Play</a>
+**Timestamp:** [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-16-54) 
+<a href="https://www.youtube.com/watch?v=5autG89PW6w&t=1054s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, it's complicated, and it's nuanced, and it was a wrestle that was going on for months, and it's probably somewhere between the Bibi (Benjamin Netanyahu) letter and the text.
 

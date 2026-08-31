@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:17:13](/episodes/ep-iHav0PPzUz8.md#t-00-17-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1033);return false;">Play</a>
+**Timestamp:** [00:17:13](/episodes/ep-iHav0PPzUz8.md#t-00-16-37) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1033s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rather extraordinarily, this person told me that it was there on some discrete mission— so discreet that this individual was scared for their life to present this information, but felt compelled to present it because they too were horrified like the rest of the world.
 

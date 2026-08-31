@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:32:36](/episodes/ep-iB-YtO3UZOg.md#t-00-32-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1956);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1956s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > reported the bullet fragments however are a mystery I suspect that was found what was found was not bullet fragments but the casing of the shaped charge which would have served as the projectile I did want to say this, that piece right there about I suspect would just go up in that email that that could have actually been from the shaped charge.
 

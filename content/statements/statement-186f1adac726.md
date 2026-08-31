@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:01:31](/episodes/ep-SubDoZWHARo.md#t-00-01-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(91);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=91s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So last night, in case you missed it, in case you've been hiding under a rock, Erika Kirk was slated to appear alongside her friend, Vice President J.D. Vance, at the University of Georgia, and she just completely no-showed it.
 

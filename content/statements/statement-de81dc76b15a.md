@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:22:12](/episodes/ep-5-HUyv9LyMg.md#t-00-22-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1332);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=1332s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Father David had sent out a letter to everybody and said that children should be shown how to have sex. ... An adult couple came and got me in the night and showed me how to have sex
 

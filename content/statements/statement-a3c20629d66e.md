@@ -1,8 +1,8 @@
 ---
 title: "The arrest source told Candace Owens that Governor Spencer C..."
-description: "\"The arrest source told Candace Owens that Governor Spencer Cox and police were lying about the clothing Tyler Robinson wore when he was brought in.\" — Anonymous Source #4 (Ep 2WEHTk0Xewg)"
+description: "\"The arrest source told Candace Owens that Governor Spencer Cox and police were lying about the clothing Tyler Robinson wore when he was brought in.\" — Anonymous Source #2 (Ep 2WEHTk0Xewg)"
 statement_id: "statement-a3c20629d66e"
-speaker: "Anonymous Source #4 (Ep 2WEHTk0Xewg)"
+speaker: "Anonymous Source #2 (Ep 2WEHTk0Xewg)"
 type: "accusation"
 ---
 
@@ -14,7 +14,7 @@ type: "accusation"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #4 (Ep 2WEHTk0Xewg)](/entities/anon-src-2WEHTk0Xewg-004.md) (Anonymous Source)
+**Speaker:** [Anonymous Source #2 (Ep 2WEHTk0Xewg)](/entities/anon-src-2WEHTk0Xewg-002.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1863);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1863s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.
 

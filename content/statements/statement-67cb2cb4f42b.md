@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:41:36](/episodes/ep-B9TyCs-6o_0.md#t-00-41-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2496);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=2496s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she was also in some weird cia documents or cia films like yeah you've never seen those films if you ever find those films there's some weird like internal films that they made that she was a part of
 

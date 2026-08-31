@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:51:08](/episodes/ep-DdPjoy5W-wY.md#t-00-51-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3068);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3068s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > um also she I just want to honestly mention this because I'd like to track her but in a look ahead post um for 2014 she mentions on x that she's going to be again in Romania in Laos in Kazakhstan in the Philippines in Sweden she says okay 2014 I see you and then someone has probably asked her where she was going to be in Sweden and she replies to them so did she go to all those places
 

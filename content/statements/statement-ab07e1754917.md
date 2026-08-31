@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:38:21](/episodes/ep-ds6umq1rHAw.md#t-00-38-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2301);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=2301s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, you're now facing backlash probably under a little bit of pressure. because this was a really dumb article to plan against me and you guys work have proven that you work with Daily Mail because you chose them and sent them the video of Erica (Erika Kirk) Kirk being named by Charlie Kirk.
 

@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:02:56](/episodes/ep-Vu6Y24pqhZs.md#t-00-02-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(176);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=176s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the feds during this manhunt released, chose to release an extremely blurry still image of a man in a stairwell. It was very blurry. ... Why? Why didn't they release the much clearer footage that we eventually saw in court? They had access to that.
 

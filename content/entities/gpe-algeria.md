@@ -3,9 +3,18 @@ title: "Algeria"
 description: "Algeria (Places) - 1 mention"
 id: "gpe-algeria"
 type: "GPE"
+categories:
+  - "country"
+  - "North Africa"
 ---
 
 _Type: Places_
+
+**Categories:** country, North Africa
+
+**Entity verification:** verified
+> The United Nations member-state page confirms the canonical country name Algeria.
+Source: [United Nations — Algeria](https://www.un.org/en/about-us/member-states/algeria)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-algeria-t-00-14-05">2025-12-08 · 00:14:30</a></strong></div>
@@ -14,7 +23,7 @@ _Type: Places_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +60,28 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Birthplace Of (1)</summary>
+
+- **[Pierre Falcone](/entities/person-pierre-falcone.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:30](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): “Pierre Falcone is born in Algeria.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Pierre Falcone](/entities/person-pierre-falcone.md)** born in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:30](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): “Pierre Falcone is born in Algeria.”
+
+</details>
+
+</details>
 
 </details>

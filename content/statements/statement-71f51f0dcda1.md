@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:05:43](/episodes/ep-X92MllIHDzw.md#t-00-05-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(343);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=343s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There is Peyton McCormick. Her grandfather is Colonel Pete McCormick. Her father is Lieutenant Colonel Alan McCormick, once stationed at Fort Huachuca.
 

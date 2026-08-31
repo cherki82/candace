@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(688);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=688s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mr. Spears at times gave 10% of his conservatorship income to the Taylors' Calvary Chapel Brentwood—a practice known as tithing—according to a 2010 financial document. Mr. Spears gave tens of thousands of dollars in one year alone to the church, which is about 500 miles away from where he lives in Louisiana.
 

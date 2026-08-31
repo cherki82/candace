@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:37:02](/episodes/ep-uC_GjKU8rs8.md#t-00-36-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2222);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2222s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's a Times of Israel article about that. This was published in October, and it says Israel to spend up to $4.1 million on a Christian PR campaign in the West. ... It says the foreign ministry has hired another American firm to run influence operations in the United States with plans to spend as much as $4.1 million on a marketing campaign aimed at Christians across the western part of the country.
 

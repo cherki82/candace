@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:19:33](/episodes/ep-mKXdKV-OBog.md#t-00-19-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1173);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=1173s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was telling you this Bush situation seems to be a little odd. People thought they saw somebody speaking to a bush. And I was able to determine who that person was that kind of comes out of the bush. Again, not saying this person has done anything wrong. ... And then I obviously find out that his dad is the head of—and I hope I'm saying that correctly—president of the Mormon temple in Los Angeles. His name is—this person that was behind the bush—is Jacob Kasparian.
 

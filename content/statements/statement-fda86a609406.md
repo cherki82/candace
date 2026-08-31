@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:46:56](/episodes/ep-19vHhjF7-NA.md#t-00-46-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2816);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2816s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika Kirk has not provided an alibi, I guess.
 

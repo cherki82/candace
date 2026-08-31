@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:17:04](/episodes/ep-Ux1kzgQxkws.md#t-00-16-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1024);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=1024s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > seven years almost of sobriety, started a cycle of relapse and recovery and relapse and recovery in which it was really hard for me to be honest with the people that love me.
 

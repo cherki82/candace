@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:12:13](/episodes/ep-ti5Fxrvegno.md#t-00-12-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(733);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=733s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that's not what she told people in her immediate circle but i'm just i'm just throwing things at the wall here because everything we're being told makes no sense so that she's called out altogether again i'll ask the question what sorts of best friend would move out of intuition to save her daughter's life to protect her daughter ... But not communicate those concerns to her best friend whose husband is still going to that event. Are we to believe that that is how it went down?
 

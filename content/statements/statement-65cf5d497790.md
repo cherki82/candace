@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:25:11](/episodes/ep-AoYZel7_cGQ.md#t-00-24-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1511);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AoYZel7_cGQ&t=1511s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On the day of that Catholic funeral mass, Charlie (Charlie Kirk)'s casket was closed. It's a fact. Afterward, it was in fact taken to a Catholic cemetery
 

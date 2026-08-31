@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:02:11](/episodes/ep-2tFYJf1klgY.md#t-00-02-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(131);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=131s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 1990, take a look at this. Wow. According to Dr. Jerri Frantzve, the final big project of the semester, this is at Radford, will be taking a group of students to Eastern Europe. ... We will research the expectations of men and women as work life and day-to-day life change after the wall came down.
 

@@ -1,6 +1,6 @@
 ---
 title: "Louisiana"
-description: "Louisiana (Places) - 4 mentions"
+description: "Louisiana (Places) - 5 mentions"
 id: "gpe-louisiana"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [State of Louisiana official website](https://www.louisiana.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51">2026-01-06 · 00:52:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-louisiana-t-00-11-28">2025-11-15 · 00:11:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-louisiana-t-00-20-42">2026-08-10 · 00:20:42</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,8 +28,9 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-louisiana-t-00-11-28">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-louisiana-t-00-11-28" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-louisiana-t-00-31-13" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-louisiana-t-00-12-23" style="--pulse-height:100%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
@@ -39,6 +40,7 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-louisiana-t-00-11-28) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-louisiana-t-00-31-13) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-louisiana-t-00-12-23) | 1 |
@@ -50,7 +52,7 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -81,6 +83,14 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 
 **[00:52:30](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51)**
 > "...ut the Pelican on the flag of Louisiana's state flag."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:11:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-louisiana-t-00-11-28)**
+> "Mr. Spears gave tens of thousands of dollars in one year alone to the church, which is about 500 miles away from where he lives in Louisiana."
 
 </details>
 

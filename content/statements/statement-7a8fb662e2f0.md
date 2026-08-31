@@ -1,6 +1,6 @@
 ---
-title: "Tyler Robinson is charged with Kirk's murder."
-description: "\"Tyler Robinson is charged with Kirk's murder.\" — Nate Carlisle"
+title: "Nate Carlisle reported that Tyler Robinson was charged with ..."
+description: "\"Nate Carlisle reported that Tyler Robinson was charged with Charlie Kirk's murder.\" — Nate Carlisle"
 statement_id: "statement-7a8fb662e2f0"
 speaker: "Nate Carlisle"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Tyler Robinson is charged with Kirk's murder.
+> Nate Carlisle reported that Tyler Robinson was charged with Charlie Kirk's murder.
 
 ## Attribution
 
@@ -19,13 +19,18 @@ veracity: "true"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Fox 13 News report
+
+## About
+
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:18:52](/episodes/ep-Qfwr08Ebczo.md#t-00-18-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1132);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=1132s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson is charged with Kirk's murder
 

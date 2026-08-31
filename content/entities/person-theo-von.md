@@ -21,13 +21,13 @@ _Type: People_
 Source: [About | Theo Von](https://www.theovon.com/about)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32">2025-10-02 · 00:46:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36">2025-10-02 · 00:46:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-45-16">2026-05-20 · 00:45:16</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,9 +35,9 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43">TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32" style="--pulse-height:27%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-19" style="--pulse-height:27%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-23-32" style="--pulse-height:27%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36" style="--pulse-height:27%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-12" style="--pulse-height:27%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-theo-von-t-00-23-21" style="--pulse-height:18%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-01-14-29" style="--pulse-height:9%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12" style="--pulse-height:9%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -52,9 +52,9 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32) | 3 |
-| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-19) | 3 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-23-32) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36) | 3 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-12) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-theo-von-t-00-23-21) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-01-14-29) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41) | 1 |
@@ -215,40 +215,37 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:23:45](/episodes/ep-6DhWawD4ZiM.md#t-00-23-32)**
-> "He joined Theo (Theo Vaughn) and here is what he had to say, take a listen."
+**[00:23:45](/episodes/ep-6DhWawD4ZiM.md#ent-person-theo-von-t-00-23-21)**
+> "He joined Theo (Theo Von) and here is what he had to say, take a listen."
 
-**[00:29:30](/episodes/ep-6DhWawD4ZiM.md#t-00-29-16)**
-> "He joined Theo (Theo Vaughn) and here is what he had to say"
-
-**[00:30:30](/episodes/ep-6DhWawD4ZiM.md#t-00-29-58)**
-> "Theo (Theo Vaughn), we are in this garden, okay?"
+**[00:30:30](/episodes/ep-6DhWawD4ZiM.md#ent-person-theo-von-t-00-30-30)**
+> "Theo (Theo Von), we are in this garden, okay? And we're not getting out of this garden with the Fed Slop narrative."
 
 </details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
 
-**[00:36:32](/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-19)**
-> "...e that not only are conspiracies real, but they're actually common, okay? He sat down with comedian Theo Von and they discussed just that thing. Take a listen. What makes me nervous is the people that are not..."
+**[00:36:32](/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-12)**
+> "He sat down with comedian Theo Von and they discussed just that thing. Take a listen."
 
 **[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-38-36)**
-> "...re caught lying, and you all know that we're lying, we're the slave masters, how dare you know? And Theo Von and Joe Rogan had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen..."
+> "And Theo Von and Joe (Joe Rogan) had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen."
 
 **[00:40:44](/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-40-29)**
-> "...e it's retreating kind of. It will just go down in the, they need to release a f***ing hog. Classic Theo Von, classic Theo Von. And here's the reality. I told the truth about the Brigitte Macron story, right?..."
+> "Classic Theo Von, classic Theo Von."
 
 </details>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
-**[00:46:59](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32)**
+**[00:46:59](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36)**
 > "...little bit undone because we're waking up. Marzi writes, “Hey, Candace (Candace Owens), did you see Theo Von's viral clip about letting Israel know that he is not going to end his own life?” My goodness. Why ..."
 
-**[00:47:09](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32)**
+**[00:47:09](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36)**
 > "I had not seen it, but my producer says that he pulled the clip, so let's watch it together. [CLIP ATTRIBUTION: Theo Von speaking in this clip.]"
 
 **[00:49:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-48-43)**
@@ -260,6 +257,18 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Joe Rogan](/entities/person-joe-rogan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:39:02](/episodes/ep-SKGUzGHymcI.md#t-00-38-36): “And Theo Von and Joe (Joe Rogan) had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Critic Of (1)</summary>
@@ -319,7 +328,14 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Joe Rogan](/entities/person-joe-rogan.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:39:02](/episodes/ep-SKGUzGHymcI.md#t-00-38-36): “And Theo Von and Joe (Joe Rogan) had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen.”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>

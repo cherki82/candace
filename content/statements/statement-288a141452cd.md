@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(105);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=105s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism.
 

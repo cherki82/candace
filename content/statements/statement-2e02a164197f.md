@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:16:33](/episodes/ep-HYn0P-P1wUw.md#t-00-16-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(993);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=993s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We broke a story about the bomb dogs failing to detect the recently discharged weapon on September 10th and that it was actually the feds that then directed a rookie police officer, three rookie police officers to find it.
 

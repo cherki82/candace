@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:26:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-25-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1593);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > My suspicion, ... and again, it's just a general suspicion, ... is that this was done after the fact. ... Maybe someone had a friend down at the county clerk who was responsible for scanning those docs into the system.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:57:07](/episodes/ep-jsqUIkszZd0.md#t-00-57-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3427);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=3427s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar. ... Um, lies about everything, lies about his life, his former life. So you could be onto something. I will leave that to the people that are in the military, but it is a two-year service for sure.
 

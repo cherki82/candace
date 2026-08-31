@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:39:32](/episodes/ep-c5BcKF91iec.md#t-00-38-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2372);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2372s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Went on to say, "Anyway, I am not sure if I will live to see the end of this revolution. I believe you were the piece that God meant me to meet that will finish the fight. Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any time. I cannot explain it, but I dream about it all the time—like, all the time.
 

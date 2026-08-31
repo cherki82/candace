@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:31:07](/episodes/ep-ChuWo-n49B8.md#t-00-30-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1867);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1867s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and they would sort of I think a lot of them were like permanently damaged from this one of them being Khloe Kardashian who has changed her face many times I he really targeted her and referred to her as a transvestite over and over again also there was this massive scandal to give you an idea of who he was he posted an upskirt photo of Miley Cyrus who was then just 17 years old right that's the kind of stuff that he would do and when he was interviewed about it he would just be like
 

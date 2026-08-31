@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:02:22](/episodes/ep-wcD2khO3rOA.md#t-01-01-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3742);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=3742s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 1978, a congressional investigation into the Moon organization concluded that, quote, the unification church. And numerous other religious and secular organizations headed by Sun Myung Moon constitute essentially one international organization that moved money freely among its entities.
 

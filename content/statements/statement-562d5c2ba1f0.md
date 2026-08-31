@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:10:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(621);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=621s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She never did. I told you Erica (Erika Kirk) had a bonus parent. She always had a stepfather in the home when her parents divorced and her father was always in her life. But I see now we're curating for this moment of becoming the CEO and this feels too timely, right? This investor meeting, what she's referring to, just so you know, took place from August 15th to the 17th in Aspen. So this was a mere three weeks before.
 

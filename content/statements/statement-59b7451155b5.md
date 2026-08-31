@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:34:16](/episodes/ep-Qt0VHV-POCg.md#t-00-34-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2056);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=2056s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, guys like JD—like, "Hey, he believes we have to keep this going." People—you know—myself—"Hey, I got to do—I did a lot of them, but I got to do even more." "We got to keep this going." "There's not—there's never gonna be a replacement for Charlie Kirk." "You can't...
 

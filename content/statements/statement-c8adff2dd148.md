@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(12398);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=12398s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i think that she should be brought in for questioning because of inconsistencies ... i still hold the perspective that erica should be sat down and she should be properly questioned
 
@@ -37,7 +37,7 @@ type: "opinion"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [02:36:32](/episodes/ep-aPOyk1i2LOc.md#t-02-36-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(9392);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=9392s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think that she should be brought in for questioning because of inconsistencies. ... I still hold the perspective that Erica should be. sat down and she should be properly questioned
 

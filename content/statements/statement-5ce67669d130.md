@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:00:59](/episodes/ep-OgRyiOAVtWU.md#t-00-00-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(59);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=59s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They keep equating what they term to be conspiracy theories about Charlie (Charlie Kirk)'s death, what they mean is people asking questions, with Sandy Hook victims. ... They're calling this like Sandy Hook victimization. They are signaling, again, if you are paying attention. That they want people or maybe just one particular person to be bankrupted for asking meaningful questions about their founder's death.
 

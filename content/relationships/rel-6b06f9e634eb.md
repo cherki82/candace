@@ -1,15 +1,15 @@
 ---
-title: "Potter's Fields Ministries employs Rob McCoy"
-description: "Evidence for the relationship: Potter's Fields Ministries employs Rob McCoy"
+title: "Potter's Field Ministries employs Rob McCoy"
+description: "Evidence for the relationship: Potter's Field Ministries employs Rob McCoy"
 relationship_id: "rel-6b06f9e634eb"
-subject: "org-potters-fields-ministries"
+subject: "org-potters-field-ministries"
 predicate: "employs"
 object: "person-rob-mccoy"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Potter's Fields Ministries](/entities/org-potters-fields-ministries) employs [Rob McCoy](/entities/person-rob-mccoy)
+## [Potter's Field Ministries](/entities/org-potters-field-ministries) employs [Rob McCoy](/entities/person-rob-mccoy)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-rob-mccoy"
 
 ### Related
 
-- [Potter's Fields Ministries](/entities/org-potters-fields-ministries)
+- [Potter's Field Ministries](/entities/org-potters-field-ministries)
 - [Rob McCoy](/entities/person-rob-mccoy)

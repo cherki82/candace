@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:17:07](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1027);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1027s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Trump (Donald Trump) had called Kirk and scolded him. Okay.
 

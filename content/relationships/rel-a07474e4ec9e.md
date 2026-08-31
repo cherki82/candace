@@ -16,7 +16,7 @@ object: "person-charlie-kirk"
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
 - [00:24:00](/episodes/ep-581dILVcEE4#t-00-24-00): _Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members._
-- [00:26:39](/episodes/ep-581dILVcEE4#t-00-26-39): _Brian Harpole is one of Charlie Kirk's long-term security team members_
+- [00:24:18](/episodes/ep-581dILVcEE4#t-00-24-18): _Now, Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members. On the day of the assassination, you'll recognize he's the guy that had the black strap._
 
 **[BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU)**
 

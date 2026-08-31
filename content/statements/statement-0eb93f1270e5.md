@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:13:09](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(789);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=789s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The truth is that there was a deal on the table with Pierre (Pierre Falcone), ... And that deal was worth billions, not millions, ... billions, plural billions of dollars. ... I know that after Charlie (Charlie Kirk) died, ... that deal went through.
 

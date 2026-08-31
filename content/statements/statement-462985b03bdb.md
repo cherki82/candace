@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:30:04](/episodes/ep-G3zdOeHpvS0.md#t-00-30-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1804);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1804s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Where I feel what was meant to happen is the explosive, the shaped charge was actually supposed to hit him in the chest. It was supposed to look like he got shot in the chest.
 

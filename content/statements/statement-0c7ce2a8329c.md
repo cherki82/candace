@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:17:02](/episodes/ep-ChuWo-n49B8.md#t-00-17-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1022);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1022s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All of that remains to be seen because don't forget Tyler's legal team, despite reasonable protestations, were not granted their discovery requests leading up to the preliminary hearing. OK, they testified that they had not even. been given access to their client's phone when they were requesting an extension they're like well how are we doing was hearing we don't have anything we don't we can't even vet anything that you're putting on the stand you're just going to allow hearsay yeah we're going to allow hearsay that's what happened those documents just have not been vetted yet
 

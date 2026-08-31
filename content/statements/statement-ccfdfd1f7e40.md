@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:51:54](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=3114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But Candace has already suggested that I'm working. I'm working with Laura Loomer to launder accusations against her. I might respond that I haven't spoken privately to Laura Loomer in years. Oh.
 

@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:07:16](/episodes/ep-1hcjQGgvxUY.md#t-00-07-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(436);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=436s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 5th 2014 Jillian (Jillian Falcon) posted this tweet getting this in the mail from @ErikaFrantzve and in the photo is a red box of chocolate covered strawberries and other chocolate desserts and the card in the photo says this happy sweet 16 beautiful girl keep strong in faith and know that you're loved but most of all never forget that you are perfect and amazing just the way you are I am so proud of you today is the first day of another 365 day journey around the sun
 

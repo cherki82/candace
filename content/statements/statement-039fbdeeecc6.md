@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:04:29](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(269);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No one has been fired. No one has resigned. And no one will probably be held accountable. But this is one of the strangest, most suspicious stories in American history.
 

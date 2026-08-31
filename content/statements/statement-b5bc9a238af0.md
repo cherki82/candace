@@ -3,11 +3,11 @@ title: "Benjamin Netanyahu said on camera, America is something you ..."
 description: "\"Benjamin Netanyahu said on camera, America is something you can move very easily with money\" — Benjamin Netanyahu"
 statement_id: "statement-b5bc9a238af0"
 speaker: "Benjamin Netanyahu"
-type: "factual_claim"
+type: "opinion"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -22,13 +22,18 @@ veracity: "mixed"
 **Original Source:** Secretly recorded 2001 video of Benjamin Netanyahu speaking in Ofra
 **Original Date:** 2001
 
+## About
+
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
+- [United States](/entities/gpe-united-states.md) (gpe)
+
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:58:08](/episodes/ep-a-e7HC6SeK8.md#t-00-57-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3488);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=3488s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> You know—America lost its way when we decided that we would do anything for money—which is what Benjamin Netanyahu (Benjamin Netanyahu) said on camera. ... You know—"America is something you can move very easily with money."
+> You know—America lost its way when we decided that we would do anything for money—which is what Benjamin Netanyahu said on camera. ... You know—"America is something you can move very easily with money."
 
 ## Verification
 
@@ -50,4 +55,4 @@ The authentic 2001 recording supports the attribution that Netanyahu said Americ
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:13:36](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(816);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=816s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Kolvet) and I took meticulous notes and I would be willing to testify under oath regarding what I was told from Andrew Kolvet that he told me that the bullet traveled I'm going to show you this so in case you're like me and you don't know about the vertebrae in the neck that it traveled from c2 okay think about the entry point it's almost upward down to c6 and then it moved downward into Charlie (Charlie Kirk)'s thorax Where it was shattered.
 

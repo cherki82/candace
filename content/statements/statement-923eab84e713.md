@@ -1,6 +1,6 @@
 ---
-title: "The chairman of the Federal Communications Commission, Brend..."
-description: "\"The chairman of the Federal Communications Commission, Brendan Carr, jumped up and he criticized Jimmy Kimmel's remarks. He threatened federal action ...\" — Candace Owens"
+title: "FCC chairman Brendan Carr threatened federal action against ..."
+description: "\"FCC chairman Brendan Carr threatened federal action against ABC affiliates that carried Jimmy Kimmel's show\" — Candace Owens"
 statement_id: "statement-923eab84e713"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> The chairman of the Federal Communications Commission, Brendan Carr, jumped up and he criticized Jimmy Kimmel's remarks. He threatened federal action against ABC affiliates who carried the show
+> FCC chairman Brendan Carr threatened federal action against ABC affiliates that carried Jimmy Kimmel's show
 
 ## Attribution
 
@@ -19,11 +19,18 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Brendan Carr](/entities/person-brendan-carr.md) (person)
+- [Federal Communications Commission](/entities/org-fcc.md) (org)
+- [ABC](/entities/org-abc.md) (org)
+- [Jimmy Kimmel](/entities/person-jimmy-kimmel.md) (person)
+
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:42:18](/episodes/ep-aDlhjfW6hz8.md#t-00-41-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2538);return false;">Play</a>
+**Timestamp:** [00:42:18](/episodes/ep-aDlhjfW6hz8.md#t-00-42-03) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2538s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He threatened federal action against ABC affiliates who carried the show.
 

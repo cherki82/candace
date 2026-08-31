@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2582);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=2582s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 25 August, more Americans joining Catholic church than leaving for the first time in decades.
 

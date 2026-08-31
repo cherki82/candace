@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:12:08](/episodes/ep-DqGNvi36ol8.md#t-00-12-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(728);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=728s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You are correct at least that the new format of TPUSA campus events is that students have to tell them ahead of time what they're going to ask. We have received a flurry of emails to that effect.
 

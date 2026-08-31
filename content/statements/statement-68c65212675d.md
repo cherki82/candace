@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:58:50](/episodes/ep-i8m_6D4QGmk.md#t-00-58-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3530);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now we are controlling the troops. Now we are—which we've been doing for a couple—we've been doing for decades. We've got the military. We've got the presidency. We've got all this stuff.
 

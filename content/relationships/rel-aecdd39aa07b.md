@@ -11,7 +11,7 @@ object: "person-alex-clark"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Alex Clark](/entities/person-alex-clark)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -24,6 +24,10 @@ object: "person-alex-clark"
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:49:02](/episodes/ep-7ERqbYElOfs#t-00-49-02): _alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers_
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:27:47](/episodes/ep-K1tFD7FfoCU#t-00-27-47): _That was my reason for going after Alex Clark._
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 

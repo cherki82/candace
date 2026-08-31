@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2262);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=2262s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Definitively, Charlie's parents were not on that plane because J.D. Vance sent the Air Force two to pick up Charlie's parents. ... And so Charlie's parents were definitively picked up by the vice president's plane on that day
 

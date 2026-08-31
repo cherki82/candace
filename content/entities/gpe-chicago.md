@@ -24,7 +24,7 @@ Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -152,7 +152,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chicago (2)</strong></summary>
+<summary><strong class="section-title">Statements about Chicago (3)</strong></summary>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
@@ -167,6 +167,14 @@ _No relationships extracted yet._
 
 - [00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) (Claim) **Baron Coleman**: ["On September 10th, aircraft N582MM left Pierre, South Dakota at 2:40 p..."](/statements/statement-013396861573.md)
   - Also about: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Provo Airport](/entities/org-provo-airport.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:20:06](/episodes/ep-UBkFkg4UNY8.md#t-00-19-52) (Claim) **Candace Owens**: ["When tracking down who filmed the shooter on the roof, multiple Chicag..."](/statements/statement-60729132e913.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

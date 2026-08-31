@@ -3,13 +3,22 @@ title: "In-N-Out"
 description: "In-N-Out (Organizations) - 1 mention"
 id: "org-in-n-out"
 type: "ORG"
+categories:
+  - "restaurant chain"
+  - "fast food"
 ---
 
 _Type: Organizations_
 
+**Categories:** restaurant chain, fast food
+
+**Entity verification:** verified
+> Official company history confirms the canonical In-N-Out Burger name and its restaurant business.
+Source: [History - In-N-Out Burger](https://www.in-n-out.com/history)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10">2025-09-17 · 00:18:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10">2025-09-17 · 00:18:33</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10">2025-09-17 · 00:18:17</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10">2025-09-17 · 00:18:17</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -41,7 +50,7 @@ _Type: Organizations_
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:18:33](/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10)**
+**[00:18:17](/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10)**
 > "The New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)"
 
 </details>

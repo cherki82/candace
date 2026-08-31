@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:41:40](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica (Erika Kirk) goes a little further though. ... Erica (Erika Kirk) also posted a lovely tribute to Alan Rothstein, ... Nicole (Nicole Rothstein)'s father online. ... She calls him uncle.
 

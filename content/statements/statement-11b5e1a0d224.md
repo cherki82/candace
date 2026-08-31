@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:23:11](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4991);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4991s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's interesting that you're getting that from the New York Times where no one has its editorial team are full of people from ex-IDF. ... and and and ex-Mossad
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:10:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(646);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=646s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean he just was like I can't wait it's gonna be the best and he got up around 2 45 3 ish to go into the kitchen to grab a snack and our daughter had woke up around that same time.
 

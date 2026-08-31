@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 **Timestamp:** [00:16:32](/episodes/ep-his-JBjlkh8.md#t-00-16-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(992);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=his-JBjlkh8&t=992s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) could not have been establishing DOGE for the last five years, because that's a very new concept as of 2025—something that Trump (Donald Trump) put into place with Elon Musk and Vivek Ramaswamy, right?
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:04:52](/episodes/ep-mKXdKV-OBog.md#t-00-04-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(292);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=292s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you that right now in government, there is real panic. There is real discussion happening regarding the Egyptian planes.
 

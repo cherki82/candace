@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:06:44](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(404);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said, "Okay, wait a minute." Actually, Shaner Broderick literally posted that on his Instagram
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:08:20](/episodes/ep-VMNWMXX1vO8.md#t-00-08-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But in mid-July, so shortly before Charlie (Charlie Kirk)'s assassination, he had Terrell (Terrell Farnsworth)'s team kicked out. ... of the office of his building why I'm not sure I don't know if it was because they were angry I don't know what was going through Charlie (Charlie Kirk)'s head but he had been there for a while and then he had them moved on July 24th Terrell (Terrell Farnsworth)'s team at Charlie (Charlie Kirk)'s request was removed from the building now I'm entering in that data point in case it's relevant down the line what we know is that oddly he was immediately welcomed back into the building following Charlie (Charlie Kirk)'s death.
 

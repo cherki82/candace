@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2197);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=2197s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm just going to read you this article verbatim because otherwise you won't believe me. Okay, this took place. CERN discovers satanic human sacrifice taking place. It can place at the Large Hadron Collider grounds, okay? A satanic human sacrifice, it reads, has been staged on the grounds of the European Organization for Nuclear Research, the home of the Large Hadron Collider.
 

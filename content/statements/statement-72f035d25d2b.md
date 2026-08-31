@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:50:35](/episodes/ep-GY6GWceEqtQ.md#t-00-50-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3035);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=3035s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's been involved in a lot of legal spats pertaining to her. ... To her wedding, she went through three different wedding contracts, ... one of which her father sued and they sued back and said, your daughter is awful.
 

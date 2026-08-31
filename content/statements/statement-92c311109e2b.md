@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:18:53](/episodes/ep-9CuC1yf8-PU.md#t-00-18-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1133);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=1133s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at all. Um I personally believe he was dead on impact.
 

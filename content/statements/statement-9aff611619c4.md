@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -35,7 +35,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2740);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=2740s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Laura Loomer jumps in and she says, I have created a list of conservative influencers who I believe are taking money from Iran, Russia, and Qatar. ... I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA. ... All of these traitors deserve jail time. Yeah, we're still waiting for the list. She keeps alluding to it, but she never publishes it.
 

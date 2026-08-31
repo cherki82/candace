@@ -27,7 +27,7 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 <div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -159,18 +159,12 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Attended (2)</summary>
-
-- **[BYU](/entities/org-byu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
-
-</details>
+<summary>Attended (1)</summary>
 
 - **[Brigham Young University](/entities/org-brigham-young-university.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:56](/episodes/ep-h76ZN-xXC6c.md#t-01-10-56): “that Zachariah Qureshi gets pulled they both attended BYU at the same time”
 
 </details>
@@ -227,18 +221,12 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
-
-- **[BYU](/entities/org-byu.md)** attended by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
-
-</details>
+<summary>Referenced By (5)</summary>
 
 - **[Brigham Young University](/entities/org-brigham-young-university.md)** attended by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:56](/episodes/ep-h76ZN-xXC6c.md#t-01-10-56): “that Zachariah Qureshi gets pulled they both attended BYU at the same time”
 
 </details>
@@ -308,7 +296,7 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
   - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [United States Navy](/entities/org-united-states-navy.md)
 
 - [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) (Claim) **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time a..."](/statements/statement-869a9611ac9f.md)
-  - Also about: [Connor Henderson](/entities/person-connor-henderson.md), [BYU](/entities/org-byu.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+  - Also about: [Connor Henderson](/entities/person-connor-henderson.md), [Brigham Young University](/entities/org-brigham-young-university.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
 
 </details>
 

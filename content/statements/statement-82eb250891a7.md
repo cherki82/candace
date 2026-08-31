@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7081);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=7081s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The source was saying that Tyler did not step foot on campus that day. It is my perspective that he had something to do with something.
 
@@ -38,7 +38,7 @@ type: "factual_claim"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:27:10](/episodes/ep-aPOyk1i2LOc.md#t-01-26-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5230);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=5230s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The source was saying that Tyler did not step foot on campus that day. It is my perspective that he had something to do with something.
 

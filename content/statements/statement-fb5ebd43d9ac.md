@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:05:48](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(348);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=348s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am told—according to a very strong source—that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard
 

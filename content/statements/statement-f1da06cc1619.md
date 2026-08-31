@@ -1,6 +1,6 @@
 ---
-title: "Bibi is despised by many people in Israel"
-description: "\"Bibi is despised by many people in Israel\" — Tucker Carlson"
+title: "Tucker Carlson said Benjamin Netanyahu was despised by many ..."
+description: "\"Tucker Carlson said Benjamin Netanyahu was despised by many people in Israel.\" — Tucker Carlson"
 statement_id: "statement-f1da06cc1619"
 speaker: "Tucker Carlson"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Bibi is despised by many people in Israel
+> Tucker Carlson said Benjamin Netanyahu was despised by many people in Israel.
 
 ## Attribution
 
@@ -24,10 +24,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:43:44](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2624);return false;">Play</a>
+**Timestamp:** [00:43:39](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=2619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Benjamin Netanyahu (Benjamin Netanyahu) is despised by many people in Israel
+> Benjamin Netanyahu is despised by many people in Israel.
 
 ## Verification
 

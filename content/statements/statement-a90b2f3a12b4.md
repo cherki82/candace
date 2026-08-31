@@ -29,9 +29,9 @@ veracity: "true"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:20:31](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1231);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1231s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And this amazing thing happened that despite this, that the hand that came out to me and offered me a job was PragerU. ... PragerU offered me a job. ... This is early 2019.
+> And this amazing thing happened that despite this, that the hand that came out to me and offered me a job was PragerU. PragerU offered me a job. This is early 2019.
 
 ## Verification
 

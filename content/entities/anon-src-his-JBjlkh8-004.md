@@ -1,6 +1,6 @@
 ---
 title: "Brittany Watson (online commenter; identity unverified)"
-description: "Brittany Watson (online commenter; identity unverified) (Anonymous Sources) - 4 mentions"
+description: "Brittany Watson (online commenter; identity unverified) (Anonymous Sources) - 5 mentions"
 id: "anon-src-his-JBjlkh8-004"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -15,8 +15,8 @@ _Type: Anonymous Sources_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-anon-src-his-JBjlkh8-004-t-00-55-05">2025-09-18 · 00:55:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-anon-src-his-JBjlkh8-004-t-01-02-05">2025-12-03 · 01:02:19</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -25,10 +25,11 @@ _Type: Anonymous Sources_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31">Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-48">Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-anon-src-his-JBjlkh8-004-t-00-55-05" style="--pulse-height:50%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-anon-src-his-JBjlkh8-004-t-00-08-20" style="--pulse-height:50%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-48" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-anon-src-his-JBjlkh8-004-t-01-02-05" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -36,7 +37,8 @@ _Type: Anonymous Sources_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-anon-src-his-JBjlkh8-004-t-00-55-05) | 1 |
-| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-anon-src-his-JBjlkh8-004-t-00-08-20) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-48) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-anon-src-his-JBjlkh8-004-t-01-02-05) | 1 |
 
 </details>
@@ -45,7 +47,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
@@ -58,11 +60,19 @@ _Type: Anonymous Sources_
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
-**[00:46:49](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31)**
+**[00:46:48](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-48)**
 > "...ng max. I love that. I love that he said "Go max." It's such a Charlie (Charlie Kirk) thing to say. Brittany Watson writes, "The Charlie (Charlie Kirk) betrayal and assassination is shaping up to be the scandal of o..."
 
-**[00:48:22](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-47-54)**
+**[00:48:17](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-48-04)**
 > "... care. They want nothing but the truth, and they know they're not getting it, which is problematic. Brittany Watson—I'm sorry—Kamaya writes, "Candace (Candace Owens) is homeschooling the internet and homeschooling m..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:08:53](/episodes/ep-5autG89PW6w.md#ent-anon-src-his-JBjlkh8-004-t-00-08-20)**
+> "Britta—you can see she's also replying."
 
 </details>
 

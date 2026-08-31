@@ -6,6 +6,11 @@ date: "2025-04-07"
 ---
 
 **Date:** 2025-04-07
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “April 7th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-04-07"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:37:15](/episodes/ep-eMtjzXkQrsU.md#event-event-2025-04-07-harmeet-dhillon-is-sworn-in-as-assistant-t-00-37-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2235);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=2235s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > April 7th, Harmeet Dhillon is sworn into the Department of Justice as the assistant attorney general

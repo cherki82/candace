@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:48:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-47-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2910);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=2910s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) was always authentic. He authentically loved Israel. And then he authentically had questions after October 7th.
 

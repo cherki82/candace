@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 **Timestamp:** [00:07:30](/episodes/ep-iHav0PPzUz8.md#t-00-07-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(450);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=450s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Kirk's killer will be swift and successful." Spoiler alert: no, it has not been
 

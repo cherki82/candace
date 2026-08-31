@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:49:55](/episodes/ep-A39g5oqB_eM.md#t-00-49-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2995);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2995s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, he didn't even want to buy—even when he had the money—just buy himself a suit, go to a tailor, and things of that nature, because he wanted to be a good steward of Turning Point USA, ... the money that's coming in because obviously the majority of the money comes from small pocket donors.
 

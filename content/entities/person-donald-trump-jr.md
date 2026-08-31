@@ -28,7 +28,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,7 +40,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-donald-trump-jr-t-00-03-03" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-jr-t-01-06-20" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-jr-t-00-00-46" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 13 mentions" title="2025-10-29 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-29" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-jr-t-00-16-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
@@ -61,7 +61,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-donald-trump-jr-t-00-03-03) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-jr-t-01-06-20) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-jr-t-00-00-46) | 13 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-29) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-jr-t-00-16-56) | 1 |
@@ -203,7 +203,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:33:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39)**
+**[00:33:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-29)**
 > "...rk) or Candace—whoever it is, Don Jr.—to come to their campus."
 
 </details>
@@ -285,12 +285,26 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (3)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:34:43](/episodes/ep-Vu6Y24pqhZs.md#t-00-34-10): “Don (Donald Trump Jr.) actually has been heading into the courthouse with Erica (Erika Kirk). He knows guns.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:32](/episodes/ep-Qt0VHV-POCg.md#t-00-32-32): “He did a ton of college campus events with me and Charlie, and we were always so grateful.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:32](/episodes/ep-Qt0VHV-POCg.md#t-00-32-32): “He did a ton of college campus events with me and Charlie, and we were always so grateful.”
 
 </details>
 
@@ -300,9 +314,10 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <summary>Child Of (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:50](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50): “they're playing like monopoly right they like figurines on a board they don't care okay how many do we need out here okay how many like they're like they're playing battleship it's not real it's not real because they have never had any true stake in the game right they don't have any skin in the game If does he have sons who know how to shoot? Yeah, actually, Don does.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:35:55](/episodes/ep-Qt0VHV-POCg.md#t-00-35-31): “I think Don Jr. has been probably in the shadow of his father his entire life because what he's saying when he begins to credentialize himself and said, "Oh, I was out with the Wuhan. I said this about COVID"—that's all true.”
 
 </details>
 
@@ -333,14 +348,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Founded (2)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:31](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): “Don Jr., by the way, I would say, was one of the people who very much helped to build Turning Point USA. He was there, okay?”
-
-</details>
+<summary>Founded (1)</summary>
 
 - **[Winning Team Publishing](/entities/org-winning-team-publishing.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -355,11 +363,12 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for his birthday—to a fancy suit place to go get fitted.”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:59](/episodes/ep-eMtjzXkQrsU.md#t-00-30-40): “With the president's son, Donald Trump Jr., someone who was like a brother to Charlie (Charlie Kirk) ... His silence offended me. And it offended me because of how much I know Charlie (Charlie Kirk) loved him. Truly, Charlie (Charlie Kirk) loved Don (Donald Trump Jr.).”
 - [Candace x Hunter Biden: The Interview @ 00:59:55](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “Don Jr. was like a brother to Charlie, literally like a brother to him.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:19](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): “Okay, Don Jr. was one of Charlie's friends—like a brother, literally a brother.”
 
 </details>
 
@@ -371,7 +380,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:33:26](/episodes/ep-Qt0VHV-POCg.md#t-00-33-12): “Megyn Kelly: How do you feel about the investigation into Charlie's death? Can we have faith in it?”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:33:26](/episodes/ep-Qt0VHV-POCg.md#t-00-33-26): “How do you feel about the investigation into Charlie's death?”
 
 </details>
 
@@ -390,12 +399,38 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Worked With (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:26](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): “Don Jr., by the way, I would say, was one of the people who very much helped to build Turning Point USA.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (10)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:34:43](/episodes/ep-Vu6Y24pqhZs.md#t-00-34-10): “Don (Donald Trump Jr.) actually has been heading into the courthouse with Erica (Erika Kirk). He knows guns.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:32](/episodes/ep-Qt0VHV-POCg.md#t-00-32-32): “He did a ton of college campus events with me and Charlie, and we were always so grateful.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:32](/episodes/ep-Qt0VHV-POCg.md#t-00-32-32): “He did a ton of college campus events with me and Charlie, and we were always so grateful.”
 
 </details>
 
@@ -413,13 +448,6 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 </details>
 
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:31](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): “Don Jr., by the way, I would say, was one of the people who very much helped to build Turning Point USA. He was there, okay?”
-
-</details>
-
 - **[Winning Team Publishing](/entities/org-winning-team-publishing.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -428,11 +456,12 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for his birthday—to a fancy suit place to go get fitted.”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:59](/episodes/ep-eMtjzXkQrsU.md#t-00-30-40): “With the president's son, Donald Trump Jr., someone who was like a brother to Charlie (Charlie Kirk) ... His silence offended me. And it offended me because of how much I know Charlie (Charlie Kirk) loved him. Truly, Charlie (Charlie Kirk) loved Don (Donald Trump Jr.).”
 - [Candace x Hunter Biden: The Interview @ 00:59:55](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “Don Jr. was like a brother to Charlie, literally like a brother to him.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:19](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): “Okay, Don Jr. was one of Charlie's friends—like a brother, literally a brother.”
 
 </details>
 
@@ -446,14 +475,15 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:33:26](/episodes/ep-Qt0VHV-POCg.md#t-00-33-12): “Megyn Kelly: How do you feel about the investigation into Charlie's death? Can we have faith in it?”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:33:26](/episodes/ep-Qt0VHV-POCg.md#t-00-33-26): “How do you feel about the investigation into Charlie's death?”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:50](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50): “they're playing like monopoly right they like figurines on a board they don't care okay how many do we need out here okay how many like they're like they're playing battleship it's not real it's not real because they have never had any true stake in the game right they don't have any skin in the game If does he have sons who know how to shoot? Yeah, actually, Don does.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:35:55](/episodes/ep-Qt0VHV-POCg.md#t-00-35-31): “I think Don Jr. has been probably in the shadow of his father his entire life because what he's saying when he begins to credentialize himself and said, "Oh, I was out with the Wuhan. I said this about COVID"—that's all true.”
 
 </details>
 
@@ -509,7 +539,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
-- [00:08:30](/episodes/ep-_dRaEO47-co.md#t-00-07-52) (Claim) **Candace Owens**: ["Don Jr. and Eric Trump got Charlie Kirk a gift certificate to a fancy ..."](/statements/statement-97f789a28eaf.md)
+- [00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump Jr. and Eric Trump gave Charlie Kirk a..."](/statements/statement-43ea54efddd3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Eric Trump](/entities/person-eric-trump.md)
 
 </details>

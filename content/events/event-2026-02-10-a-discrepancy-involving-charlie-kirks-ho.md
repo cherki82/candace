@@ -6,6 +6,11 @@ date: "2026-02-10"
 ---
 
 **Date:** 2026-02-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “last night”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-02-10"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:02:33](/episodes/ep-hWTdXHGQ8R4.md#event-event-2026-02-10-a-discrepancy-involving-charlie-kirks-ho-t-00-02-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(153);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=153s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > something else that began trending last night, some internet sleuth

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:28:55](/episodes/ep-WoXd4oLwd3w.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1735);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1735s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when I look at that and I plot that on the timeline, it convinces me that Erika (Erika Kirk) is a psychopath, genuinely convinces me that Eric is a psychopath because and please, Tucker (Tucker Carlson), forgive me. I had to share that.
 

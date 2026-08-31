@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:42:31](/episodes/ep-7ERqbYElOfs.md#t-00-42-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2551);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=2551s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was fearful of a SWAT team hit on his house. house or he was fearful of being shot by law enforcement so part of the negotiation and getting him to bring himself in was that that we would we would treat it as delicate and as soft as possible to make him feel comfortable to where he would he would show up at my office and that's exactly what happened
 

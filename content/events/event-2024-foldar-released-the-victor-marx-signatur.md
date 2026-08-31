@@ -6,6 +6,11 @@ date: "2024"
 ---
 
 **Date:** 2024
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “at the SHOT Show in 2024”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2024"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:24:53](/episodes/ep-jsqUIkszZd0.md#event-event-2024-foldar-released-the-victor-marx-signatur-t-00-24-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1493);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=1493s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we released the Victor Marx Signature Series rifle at the SHOT Show in 2024.
 
@@ -25,6 +30,6 @@ date: "2024"
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [00:40:32](/episodes/ep--9MOUvgGyi4.md#event-event-2024-foldar-released-the-victor-marx-signatur-t-00-40-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2432);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=2432s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we transferred a couple to him at the show and had a few for our display in our booth.

@@ -1,6 +1,6 @@
 ---
 title: "B'nai B'rith International"
-description: "B'nai B'rith International (Organizations) - 17 mentions"
+description: "B'nai B'rith International (Organizations) - 16 mentions"
 id: "org-bnai-brith-international"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [B'nai B'rith International: organizational history](https://www.bnaibri
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-02">2025-10-02 · 00:02:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-bnai-brith-international-t-00-23-45">2026-07-23 · 00:24:20</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -37,7 +37,7 @@ Source: [B'nai B'rith International: organizational history](https://www.bnaibri
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#ent-org-bnai-brith-international-t-00-21-11">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-02" style="--pulse-height:67%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-02" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-bnai-brith-international-t-00-02-09" style="--pulse-height:83%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bnai-brith-international-t-00-43-33" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-bnai-brith-international-t-00-10-54" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [B'nai B'rith International: organizational history](https://www.bnaibri
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-02) | 4 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-02) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-bnai-brith-international-t-00-02-09) | 5 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-bnai-brith-international-t-00-43-33) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-bnai-brith-international-t-00-10-54) | 1 |
@@ -59,7 +59,7 @@ Source: [B'nai B'rith International: organizational history](https://www.bnaibri
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (6 mentions)</summary>
@@ -121,18 +121,15 @@ Source: [B'nai B'rith International: organizational history](https://www.bnaibri
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
 **[00:02:02](/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-02)**
 > "...sm. No, no, no, no. The reality is the ADL was born out of a Jewish Freemason organization known as B'nai B'rith. Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We'..."
 
-**[00:02:10](/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-02)**
-> "...n as B'nai B'rith. Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We're discussing; we're reading right now the book The Assault on Truth, and Sigmund Freud is very..."
-
 **[00:03:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-02-47)**
 > "...ific the crimes were that were being committed that they were covering for. So Sigmund Freud was in B'nai B'rith, and the ADL was born out of B'nai B'rith. Why? Well, because they put the organization together to..."
 
-**[00:04:33](/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-04-15)**
+**[00:04:33](/episodes/ep-t1YtLS1n8Vs.md#ent-org-bnai-brith-international-t-00-03-57)**
 > "...l trying to defend Leo Frank. What happened then is that his buddies over at the Freemasonic Lodge, B'nai B'rith, assembled the ADL to gaslight the public. “No, Leo Frank wasn't guilty.” “Look what happened after..."
 
 </details>

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:42:18](/episodes/ep-qZ8RWfyuewQ.md#t-00-42-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2538);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=2538s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was just utter chaos. And so during an active shooting, these journalists are using their phones to find moments to capture for clips. ... Many of those people have become so desensitized that fight or flight became secondary to the opportunity of putting themselves into the story, which ironically breaks the number one rule of journalism.
 

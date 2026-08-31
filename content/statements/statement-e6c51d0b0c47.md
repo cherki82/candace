@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1603);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=1603s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Establishment media never reports this, but the Israeli government has a storied history of blackmailing U.S. presidents.
 

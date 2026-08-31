@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 112 mentions"
+description: "Instagram (Organizations) - 116 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -19,8 +19,8 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-instagram-t-00-42-55">2026-08-19 · 00:43:06</a></strong></div>
-<div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>116</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,21 +33,24 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56" style="--pulse-height:12%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-instagram-t-00-01-20" style="--pulse-height:25%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-40-58" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-41-19" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-instagram-t-00-17-09" style="--pulse-height:12%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-05-39" style="--pulse-height:38%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-instagram-t-00-20-45" style="--pulse-height:88%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 7 mentions" title="2025-09-29 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-instagram-t-00-06-12" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42" style="--pulse-height:12%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-24-03" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-23-57" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-00-00" style="--pulse-height:25%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-instagram-t-00-30-40" style="--pulse-height:25%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-instagram-t-01-14-20" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-25" style="--pulse-height:25%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-instagram-t-01-14-10" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-44" style="--pulse-height:25%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21" style="--pulse-height:38%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38" style="--pulse-height:12%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56" style="--pulse-height:12%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-instagram-t-00-06-00" style="--pulse-height:12%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-instagram-t-00-40-20" style="--pulse-height:25%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-instagram-t-00-01-15" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-16" style="--pulse-height:12%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-20" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-instagram-t-00-54-16" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
@@ -96,21 +99,24 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-instagram-t-00-01-20) | 2 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-40-58) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-41-19) | 2 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-instagram-t-00-17-09) | 1 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-05-39) | 3 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-instagram-t-00-20-45) | 7 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-instagram-t-00-06-12) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-24-03) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-23-57) | 2 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-00-00) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-instagram-t-00-30-40) | 2 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-instagram-t-01-14-20) | 1 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-25) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-instagram-t-01-14-10) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-44) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11) | 2 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21) | 3 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-instagram-t-00-06-00) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-instagram-t-00-40-20) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-instagram-t-00-01-15) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-16) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-20) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-instagram-t-00-54-16) | 1 |
@@ -159,7 +165,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+<summary><strong class="section-title">Raw mentions (116)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -598,6 +604,33 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 </details>
 
 <details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:01:38](/episodes/ep-9k2xrAC0H88.md#ent-org-instagram-t-00-01-15)**
+> "What I said on my Instagram stories, if you're not following me over on Insta..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:40:20](/episodes/ep-6J6lRZPQ4jk.md#ent-org-instagram-t-00-40-20)**
+> "This person wrote this on Instagram."
+
+**[00:41:55](/episodes/ep-6J6lRZPQ4jk.md#ent-org-instagram-t-00-41-45)**
+> "...st, not to Ali Beth Suckey on Instagram."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:06:10](/episodes/ep-6DhWawD4ZiM.md#ent-org-instagram-t-00-06-00)**
+> "...d to publish his dead body on Instagram was a decision that was made by Erika (Erika Kirk..."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:51:21](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56)**
@@ -617,13 +650,13 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3 mentions)</summary>
 
 **[00:11:21](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21)**
-> "...vacation: her and Mikey went on vacation with Erika and Charlie (Charlie Kirk). Here's that post on Instagram. That second paragraph begins, "We spent a few weeks together this summer, our first family trip to..."
+> "Here's that post on Instagram. That second paragraph begins, "We spent a few weeks together this summer, our first family trip together," okay?"
 
-**[00:12:22](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-03)**
-> "...I have a big family, and people with families know. And you can go through Charlie (Charlie Kirk)'s Instagram as I have done. There's always one person missing from intimate family moments when they're on the ..."
+**[00:12:22](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-01)**
+> "And you can go through Charlie Kirk's Instagram as I have done. There's always one person missing from intimate family moments when they're on the fly."
 
 **[00:12:50](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-45)**
-> "... you capture a picture. That is the pattern. If you go through Erika [and] Charlie (Charlie Kirk)'s Instagram, Charlie (Charlie Kirk)'s missing or Erika's missing. And that's because they're filming each other..."
+> "If you go through Erika [and] Charlie Kirk's Instagram, Charlie Kirk's missing or Erika's missing. And that's because they're filming each other."
 
 </details>
 
@@ -641,10 +674,10 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:39:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-25)**
-> "...at Kash Patel (Kash Patel) told us is different from what Derek Maxfield told us. Derek Maxfield on Instagram clarified that the Air Traffic Control Center was in agreement with them that they could stop trans..."
+**[00:39:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-44)**
+> "Derek Maxfield on Instagram clarified that the Air Traffic Control Center was in agreement with them that they could stop transponding."
 
-**[00:58:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-58-45)**
+**[00:58:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-58-44)**
 > "...eal people, so they—they dominate on X. Not so much on Facebook. There's a bit more real people. On Instagram, there's more real people, but they do have bot farms there too. Radical Rat writes—thank you very ..."
 
 </details>
@@ -652,7 +685,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
-**[01:14:45](/episodes/ep-2Riv3I7D0Yk.md#ent-org-instagram-t-01-14-20)**
+**[01:14:43](/episodes/ep-2Riv3I7D0Yk.md#ent-org-instagram-t-01-14-10)**
 > "... break and a breather. And so nothing bad is happening to me. I will still be sending an occasional Instagram wave so that you guys know that I'm fine. But I wanted to let you know a heads up what's going on t..."
 
 </details>
@@ -682,10 +715,10 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:24:08](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-24-03)**
+**[00:24:08](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-23-57)**
 > "..., we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw looking like a college kid. Well, he was also a gubernator..."
 
-**[00:42:26](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-42-09)**
+**[00:42:26](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-42-19)**
 > "...guys, comment that I wanna read from YouTube yesterday. It made me so happy. I also shared it on my Instagram, a little encouragement regarding homeschooling, because that is what I am pushing for. This user w..."
 
 </details>
@@ -742,9 +775,9 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > "The photos were already on my Instagram."
 
 **[00:06:33](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-06-27)**
-> "...h, then why was the meeting so secretive? SPEAKER_2 (Xavier DeRusso): The photos were already on my Instagram. SPEAKER_2 (Xavier DeRusso): The reason we didn't post that in the real time was because of safety...."
+> "The photos were already on my Instagram. The reason we didn't post that in the real time was because of safety."
 
-**[00:43:15](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-42-54)**
+**[00:43:15](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-42-50)**
 > "... "Have you seen this video or YouTube, whatever," that's best reserved for, like, commenting on our Instagram and our social media pages; we'll see it there. The tips line we want to keep for actual tips relat..."
 
 </details>
@@ -760,11 +793,11 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:41:31](/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-40-58)**
+**[00:41:31](/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-41-19)**
 > "...logue, he did call the murder senseless. The day that it happened, Jimmy Kimmel posted a message on Instagram sending love to the Kirk family, to the victims of gun violence. He posted: you know, instead of th..."
 
-**[00:44:59](/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-44-23)**
-> "...ilarious. I'm gonna show you just one here. This is Chris Olsen, @ChrisOlsen. He's actually over on Instagram. Take a listen. "Good day, my love. I have just committed one of the highest sins of the Lord: murd..."
+**[00:44:56](/episodes/ep-aDlhjfW6hz8.md#ent-org-instagram-t-00-44-47)**
+> "This is Chris Olsen, @ChrisOlsen. He's actually over on Instagram. Take a listen."
 
 </details>
 

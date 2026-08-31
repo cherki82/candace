@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:10:29](/episodes/ep-FFQ9675oqRI.md#t-00-10-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(629);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=629s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And to make the night even more of a spectacle, every single 10-person table had 10 bottles of wine.
 

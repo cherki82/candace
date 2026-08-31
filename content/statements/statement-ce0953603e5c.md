@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md)
 **Timestamp:** [00:06:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(366);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=366s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Bari (Bari Weiss) is obviously just a Tel Aviv agent. Her entire background story, her rise, her studying in Tel Aviv, her family ties,
 

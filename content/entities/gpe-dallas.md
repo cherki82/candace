@@ -23,7 +23,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallascityhall.com/Pages/
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,7 +36,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallascityhall.com/Pages/
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-dallas-t-00-59-29" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-dallas-t-00-00-00" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-dallas-t-00-01-20" style="--pulse-height:33%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-45" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-t-01-11-50" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-t-00-54-59" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallascityhall.com/Pages/
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-dallas-t-00-59-29) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-dallas-t-00-00-00) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-dallas-t-00-01-20) | 1 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-45) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-t-01-11-50) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-t-00-54-59) | 1 |
@@ -92,7 +92,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallascityhall.com/Pages/
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51)**
+**[00:46:51](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-45)**
 > "...7th before continuing down to Dallas getting there very early into Dallas early mornin..."
 
 </details>
@@ -145,13 +145,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dallas (3)</strong></summary>
+<summary><strong class="section-title">Statements about Dallas (2)</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
-
-- [00:02:04](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to confront Candace Owens on stage at the D..."](/statements/statement-ccf7b1277237.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:02:08](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to Turning Point USA YWLS convention in Dal..."](/statements/statement-c2d7092ec8e5.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Young Women's Leadership Summit](/entities/org-ywls.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -161,7 +158,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-45) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Los Angeles](/entities/gpe-los-angeles.md)
 
 </details>

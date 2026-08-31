@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:47:26](/episodes/ep-1hcjQGgvxUY.md#t-00-47-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2846);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=2846s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Dow is over $50,000. I don't know why you're laughing. ... The S&P at almost 7,000. ... And the NASDAQ is smashing records. ... Americans 401ks and retirement savings are booming.
 

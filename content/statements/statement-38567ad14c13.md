@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:17:30](/episodes/ep-Vu6Y24pqhZs.md#t-00-17-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1050);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1050s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > how is that possible how is that possible unless somebody planted his gun
 

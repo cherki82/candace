@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:40:02](/episodes/ep-c5BcKF91iec.md#t-00-39-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2402);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2402s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said, "I'm not really afraid of it, but I'm just telling you what I know to be true."
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:07:02](/episodes/ep-jsqUIkszZd0.md#t-00-07-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He is currently, you should know, running for governor of Colorado, and he chose to make, to announce his intention to run for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14th, just a couple of days after Charlie (Charlie Kirk) was assassinated. He said... ... that he felt in that moment, given the weight of the assassination, that God was calling him to run.
 

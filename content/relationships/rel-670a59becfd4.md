@@ -11,7 +11,11 @@ object: "person-ivanka-trump"
 
 ## [Donald J. Trump](/entities/person-donald-trump) parent of [Ivanka Trump](/entities/person-ivanka-trump)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
+
+- [01:06:20](/episodes/ep-Cq7nj9rxPdo#t-01-06-20): _There is Ivanka. Trump (Donald J. Trump) wouldn't and couldn't do anything without getting his daughter back._
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 

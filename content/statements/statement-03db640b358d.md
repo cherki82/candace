@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:46:58](/episodes/ep-4YgrOhhy708.md#t-00-46-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2818);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What I will say is anybody telling you. ... That questioning the people around who have a potentially a billion dollar motive for the person not to be there is asking you to be an idiot. They're asking you to be the kind of person that looks at six million concurrent viewers for a halftime special that only appeared on YouTube and basically told half of the nation F you is just as big as the World Cup like that's it's ridiculous and it feels like that's the direction.
 

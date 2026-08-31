@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:19:41](/episodes/ep-amqTMimDr0A.md#t-00-19-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1181);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1181s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Regardless, I will still say allegedly because, of course, there was always room for misunderstanding. ... But the person that Ben (Ben Shapiro) was with has allegedly told various other people that he was with Ben (Ben Shapiro) when Charlie Kirk was shot. ... Now, we were not able to confirm that they were at breakfast or lunch. Only what came to us was that they were together. ... And that person is a man named Gary Javitch. Ben (Ben Shapiro) was allegedly with Gary Javitch and an as-of-yet unidentified woman when Charlie Kirk was shot.
 

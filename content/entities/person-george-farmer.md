@@ -1,18 +1,14 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 102 mentions"
+description: "George Farmer (People) - 100 mentions"
 id: "person-george-farmer"
 type: "PERSON"
-aliases:
-  - "George"
 categories:
   - "Candace Owens family"
   - "business"
 ---
 
 _Type: People_
-
-**Also known as:** George
 
 **Categories:** Candace Owens family, business
 
@@ -22,12 +18,12 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-george-farmer-t-00-58-18">2026-08-21 · 00:58:18</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:18</a></strong></div>
 <div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>102</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,17 +32,17 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <p>Highest activity: <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-30-31">Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334</a> (22 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37" style="--pulse-height:18%" aria-label="To My Friend, Charlie Kirk.: 4 mentions" title="2025-09-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-george-farmer-t-00-46-26" style="--pulse-height:14%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06" style="--pulse-height:50%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 11 mentions" title="2025-10-07 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17" style="--pulse-height:18%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21" style="--pulse-height:9%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04" style="--pulse-height:27%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-23" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-06-06" style="--pulse-height:45%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-farmer-t-00-43-50" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-10" style="--pulse-height:18%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#t-00-15-21" style="--pulse-height:9%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04" style="--pulse-height:23%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 5 mentions" title="2025-12-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-06-23" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-george-farmer-t-00-44-06" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-george-farmer-t-00-27-35" style="--pulse-height:9%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-george-farmer-t-01-06-00" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-george-farmer-t-00-39-26" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-26" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-george-farmer-t-00-23-05" style="--pulse-height:9%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-00-07-25" style="--pulse-height:9%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
@@ -55,33 +51,33 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-person-george-farmer-t-00-41-01" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-30-31" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 22 mentions" title="2026-05-06 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-george-farmer-t-00-28-22" style="--pulse-height:23%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-05-53" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-06-53" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-george-farmer-t-00-56-33" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-george-farmer-t-00-52-56" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-george-farmer-t-01-02-57" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#t-01-02-57" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-george-farmer-t-00-32-52" style="--pulse-height:9%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-george-farmer-t-00-47-45" style="--pulse-height:18%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20" style="--pulse-height:18%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-george-farmer-t-01-01-37" style="--pulse-height:18%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#t-01-32-20" style="--pulse-height:18%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#t-01-01-37" style="--pulse-height:18%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-george-farmer-t-00-46-03" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-george-farmer-t-00-42-33" style="--pulse-height:9%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#t-00-42-33" style="--pulse-height:9%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37) | 4 |
-| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-farmer-t-00-46-26) | 3 |
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06) | 11 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17) | 4 |
-| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21) | 2 |
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04) | 6 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-23) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-06-06) | 10 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-farmer-t-00-43-50) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-10) | 4 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#t-00-15-21) | 2 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04) | 5 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-george-farmer-t-00-44-06) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-george-farmer-t-00-27-35) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-george-farmer-t-01-06-00) | 1 |
-| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-george-farmer-t-00-39-26) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-26) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-george-farmer-t-00-23-05) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-00-07-25) | 2 |
@@ -90,16 +86,16 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-george-farmer-t-00-41-01) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-30-31) | 22 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-george-farmer-t-00-28-22) | 5 |
-| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-05-53) | 3 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-06-53) | 3 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-george-farmer-t-00-56-33) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-george-farmer-t-00-52-56) | 1 |
-| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-george-farmer-t-01-02-57) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-01-02-57) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-george-farmer-t-00-32-52) | 2 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-george-farmer-t-00-47-45) | 4 |
-| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20) | 4 |
-| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-george-farmer-t-01-01-37) | 4 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-01-32-20) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-01-01-37) | 4 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-george-farmer-t-00-46-03) | 1 |
-| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-george-farmer-t-00-42-33) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-42-33) | 2 |
 
 </details>
 </section>
@@ -107,15 +103,15 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
 
-**[00:42:33](/episodes/ep-_cNtgris8Ik.md#ent-person-george-farmer-t-00-42-33)**
+**[00:42:33](/episodes/ep-_cNtgris8Ik.md#t-00-42-33)**
 > "...he has respect for my husband George became close to Charlie the whole year of our eng..."
 
-**[00:58:18](/episodes/ep-_cNtgris8Ik.md#ent-person-george-farmer-t-00-58-18)**
+**[00:58:18](/episodes/ep-_cNtgris8Ik.md#t-00-58-18)**
 > "...appy anniversary, Candace and George."
 
 </details>
@@ -131,16 +127,16 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
 
-**[01:32:35](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20)**
+**[01:32:35](/episodes/ep-nPhCKwJ6ye8.md#t-01-32-20)**
 > "George could be sending text messages right now. We are ..."
 
-**[02:50:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-50-59)**
+**[02:50:59](/episodes/ep-nPhCKwJ6ye8.md#t-02-50-59)**
 > "George, her and Charlie,"
 
-**[02:51:04](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04)**
+**[02:51:04](/episodes/ep-nPhCKwJ6ye8.md#t-02-51-04)**
 > "...was kind of in my bubble with George. George traveled with me and Charlie, but Erika a..."
 
-**[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04)**
+**[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#t-02-51-04)**
 > "George and I were planning our marriage."
 
 </details>
@@ -148,16 +144,16 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (4 mentions)</summary>
 
-**[01:01:51](/episodes/ep-aPOyk1i2LOc.md#ent-person-george-farmer-t-01-01-37)**
+**[01:01:51](/episodes/ep-aPOyk1i2LOc.md#t-01-01-37)**
 > "George could be sending text messages right now. We are ..."
 
-**[02:09:57](/episodes/ep-aPOyk1i2LOc.md#ent-person-george-farmer-t-02-09-57)**
+**[02:09:57](/episodes/ep-aPOyk1i2LOc.md#t-02-09-57)**
 > "...ver do the double dates? You, George, her and Charlie, was there ever double dates bet..."
 
-**[02:10:02](/episodes/ep-aPOyk1i2LOc.md#ent-person-george-farmer-t-02-10-02)**
+**[02:10:02](/episodes/ep-aPOyk1i2LOc.md#t-02-10-02)**
 > "I was uh you know engaged to George quickly we were planning our wedding I was kind o..."
 
-**[02:10:10](/episodes/ep-aPOyk1i2LOc.md#ent-person-george-farmer-t-02-10-02)**
+**[02:10:10](/episodes/ep-aPOyk1i2LOc.md#t-02-10-02)**
 > "...date at the beginning of 2019 George and I were planning our marriage so George really..."
 
 </details>
@@ -193,7 +189,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
 
-**[01:03:07](/episodes/ep-mLvJqdxS-FY.md#ent-person-george-farmer-t-01-02-57)**
+**[01:03:07](/episodes/ep-mLvJqdxS-FY.md#t-01-02-57)**
 > "... daughter they know it too go george way to be a solid girl dad christ is king it's tr..."
 
 </details>
@@ -217,7 +213,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
 
-**[00:05:53](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-05-53)**
+**[00:05:53](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-06-53)**
 > "... actually met with my husband George in Italy a month ago in some secret meeting, whic..."
 
 **[00:06:53](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-06-53)**
@@ -305,7 +301,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 **[00:53:56](/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-53-34)**
 > "If George (George Farmer) was brandishing a weapon. and lied to the Depart..."
 
-**[00:54:17](/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-54-17)**
+**[00:54:17](/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-53-34)**
 > "...ome on her show to talk about george but i have nothing to say about george at all"
 
 **[00:54:59](/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-54-59)**
@@ -347,7 +343,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 **[00:50:28](/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-00-50-08)**
 > "...a scratch on his car. George (George Farmer) said, I'm happy to pay. And they exchanged insur..."
 
-**[01:00:18](/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-01-00-18)**
+**[01:00:18](/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-00-50-08)**
 > "uh the ave regina george or something it's there is definitely a syndicate..."
 
 </details>
@@ -388,7 +384,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
 
-**[00:39:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-george-farmer-t-00-39-26)**
+**[00:39:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-26)**
 > "george"
 
 </details>
@@ -431,16 +427,13 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:06:33](/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-23)**
+**[00:06:33](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23)**
 > "I already knew George"
 
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6 mentions)</summary>
-
-**[00:00:45](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04)**
-> "George joined me just for the beginning portion"
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5 mentions)</summary>
 
 **[00:02:27](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04)**
 > "George (George Farmer) joined me just for the beginning portion of the ..."
@@ -448,24 +441,24 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 **[00:02:54](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
 > "...lly just the four of us until George (George Farmer) left."
 
-**[00:55:26](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
-> "...remember the old man, George (George Farmer) Zinn, arrested for claiming to be the shooter of..."
+**[00:55:26](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
+> "You remember the old man, George Zinn, arrested for claiming to be the shooter of the day of and then gets busted for CP on his phone."
 
-**[00:55:32](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
-> "...lausible theory here, George (George Farmer) Zinn was probably on some Discord chat with a bu..."
+**[00:55:32](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
+> "In my mind, if I'm making a plausible theory here, George Zinn was probably on some Discord chat with a bunch of young perverts and he's an old pervert and he's getting off doing whatever they do on those chats."
 
-**[00:56:39](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-56-34)**
-> "...at Utah Valley, which treated George (George Farmer) Zinn."
+**[00:56:39](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
+> "We can also ignore the fact that I broke the story that the nurses were told at Utah Valley, which treated George Zinn."
 
 </details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
 
-**[00:15:38](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21)**
+**[00:15:38](/episodes/ep-DqGNvi36ol8.md#t-00-15-21)**
 > "... there is no way in hell that George can make the 15th work."
 
-**[00:16:03](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-16-03)**
+**[00:16:03](/episodes/ep-DqGNvi36ol8.md#t-00-16-03)**
 > "...her with the Supreme Court of George Farber if you are insinuating and actually if you..."
 
 </details>
@@ -473,69 +466,66 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
 
-**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "..., Candace (Candace Owens) and George, for opening my eyes to Catholicism."
+**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-10)**
+> "Keyboard Warrior writes: thank you, Candace (Candace Owens) and George (George (George Farmer)), for opening my eyes to Catholicism. For years, I was a lukewarm Christian, and I was agnostic."
 
-**[00:57:32](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "I became curious of George's story, and I binged his interviews."
+**[00:57:32](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-10)**
+> "I became curious of George (George (George Farmer))'s story, and I binged his interviews. My eyes are now open. I attend Mass, and I pray the rosary."
 
-**[00:57:50](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "...ed to that journey—especially George, who rarely does interviews. But I always can boo..."
+**[00:57:48](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-10)**
+> "It's OCIA. I am hearing—and yeah—I'm very excited to hear that and also even more excited to know that we contributed to that journey—especially George (George (George Farmer)), who rarely does interviews. But I always can book him at the end of the year."
 
-**[00:57:52](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "You guys know that I can book George at least once a year, and we're coming towards th..."
+**[00:57:52](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-10)**
+> "You guys know that I can book George (George (George Farmer)) at least once a year, and we're coming towards the end of the year."
 
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (11 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
-**[00:01:40](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
-> "reference to husband George"
+**[00:44:26](/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-farmer-t-00-43-50)**
+> "...g happens to me, call George (George Farmer)."
 
-**[00:06:16](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:44:32](/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-farmer-t-00-44-32)**
+> "Something happens to George (George Farmer), call Candace (Candace Owens)."
+
+**[01:04:47](/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-farmer-t-01-04-15)**
+> "...myself when I married George (George Farmer), and he has supported me through everything and ..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (10 mentions)</summary>
+
+**[00:06:16](/episodes/ep-5autG89PW6w.md#t-00-06-06)**
 > "...t going to make it, I said to George through tears that he was betrayed."
 
-**[00:19:31](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:19:31](/episodes/ep-5autG89PW6w.md#t-00-19-15)**
 > "... this investigation, which is George Zinn, decoy boy."
 
-**[00:35:52](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:35:52](/episodes/ep-5autG89PW6w.md#t-00-35-37)**
 > "...iously we all know that decoy George Zinn didn't kill Charlie (Charlie Kirk)."
 
-**[00:36:12](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:36:12](/episodes/ep-5autG89PW6w.md#t-00-36-12)**
 > "...r a total of four decoys—like George Zinn, Staircase Guy, Maroon Shirt Guy, and Losey ..."
 
-**[00:41:26](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:41:26](/episodes/ep-5autG89PW6w.md#t-00-40-52)**
 > "...nation, you know, immediately George Zinn gets up and says, "I did it, I did it, I did..."
 
-**[00:41:37](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:41:37](/episodes/ep-5autG89PW6w.md#t-00-41-37)**
 > "Well, apparently George Zinn had to receive medical treatment following t..."
 
-**[00:42:20](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:42:20](/episodes/ep-5autG89PW6w.md#t-00-41-37)**
 > "We should definitely dig into George Zinn."
 
-**[00:42:22](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:42:22](/episodes/ep-5autG89PW6w.md#t-00-42-22)**
 > "...if the feds were going to pay George Zinn."
 
-**[00:42:38](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
+**[00:42:38](/episodes/ep-5autG89PW6w.md#t-00-42-22)**
 > "Why wouldn't George Zinn know where the payment was coming from?"
 
-**[00:44:22](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-44-22)**
+**[00:44:22](/episodes/ep-5autG89PW6w.md#t-00-44-22)**
 > "...was when I first laid eyes on George—not when I spoke to him, but when I actually firs..."
-
-</details>
-
-<details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (3 mentions)</summary>
-
-**[00:23:01](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-farmer-t-00-46-26)**
-> "...sting because when we covered George Zinn—who was the decoy boy that day—"
-
-**[00:46:48](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-farmer-t-00-46-26)**
-> "George writes, "We love you, Candy.""
-
-**[00:46:54](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-farmer-t-00-46-26)**
-> "The truth, George—it's inevitable."
 
 </details>
 
@@ -545,13 +535,13 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 **[00:00:37](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37)**
 > "... this discussion with George (George Farmer) this morning, obviously through a lot of tears, ..."
 
-**[00:17:36](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-17-19)**
+**[00:17:36](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37)**
 > "...e spent just one evening with George, and he—Charlie (Charlie Kirk)—was just the most ..."
 
-**[00:17:44](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-17-19)**
+**[00:17:44](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37)**
 > "he sat down and he spent just one evening with George"
 
-**[00:18:02](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-18-02)**
+**[00:18:02](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37)**
 > "...u know, when I got married to George."
 
 </details>
@@ -632,6 +622,30 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details>
+<summary>Met With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:17:36](/episodes/ep-_dRaEO47-co.md#t-00-17-19): “And then he sat down and he spent just one evening with George, and he—Charlie (Charlie Kirk)—was just the most supportive of everything.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:04:47](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15): “I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Caleb Robinson](/entities/person-caleb-robinson.md)**
@@ -644,7 +658,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -692,7 +706,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
@@ -709,6 +723,22 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:47:45](/episodes/ep-AoYZel7_cGQ.md#t-00-47-45): “your husband, George Farmer”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:01:51](/episodes/ep-aPOyk1i2LOc.md#t-01-01-37): “George could be sending text messages right now. We are married. He has every login that I have. And remember, he's up for a death sentence.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:42:33](/episodes/ep-_cNtgris8Ik.md#t-00-42-33): “your priority and also has you have to have respect for his wife which I did he was married and he has respect for my husband George became close to Charlie the whole year of our engagement we traveled around with Charlie and we have so many memories he has so many messages with Charlie and so I don't know it just makes me laugh they think that they can do this it's just not going to be possible we just spent such a good great time together and whenever we think about it you see it on”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:04:47](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15): “I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion.”
+- [To My Friend, Charlie Kirk. @ 00:18:02](/episodes/ep-_dRaEO47-co.md#t-00-18-02): “He was by my side, you know, when I got married to George.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:17:36](/episodes/ep-_dRaEO47-co.md#t-00-17-19): “And then he sat down and he spent just one evening with George, and he—Charlie (Charlie Kirk)—was just the most supportive of everything.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:04:47](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15): “I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion.”
 
 </details>
 
@@ -717,7 +747,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (22)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (20)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>
@@ -787,27 +817,23 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
 
-- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) (Claim) **Candace Owens**: ["Candace Owens said her private meeting lasted four hours and 30 minute..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Mia Grant](/entities/person-mia-grant.md)
 
-- [00:40:02](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was changed to say he had a Qatari passport ..."](/statements/statement-b41d294a7b1f.md)
+- [00:40:14](/episodes/ep-es7PWdFGoFI.md#t-00-39-39) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was changed to say he had a Qatari passport ..."](/statements/statement-b41d294a7b1f.md)
   - Also about: [Qatar](/entities/gpe-qatar.md)
 
-- [00:40:07](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-e264867657b2.md)
+- [00:40:26](/episodes/ep-es7PWdFGoFI.md#t-00-40-22) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-e264867657b2.md)
   - Also about: [Qatar](/entities/gpe-qatar.md)
-
-- [00:40:22](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Accusation) **Candace Owens**: ["They changed George Farmer's Wikipedia and said that he had a Qatari p..."](/statements/statement-276d7c591d74.md)
-
-- [00:41:04](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was edited to falsely claim he had Qatari ci..."](/statements/statement-b3f0ebfd3d86.md)
 
 </details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:16:50](/episodes/ep-Cq7nj9rxPdo.md#t-00-16-27) (Claim) **Candace Owens**: ["Candace Owens met her husband George Farmer at a UK event in December ..."](/statements/statement-b125846e2a4c.md)
+- [00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43) (Claim) **Candace Owens**: ["Owens said she met her husband George Farmer at a December UK event th..."](/statements/statement-b125846e2a4c.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
@@ -823,7 +849,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
-- [00:17:19](/episodes/ep-_dRaEO47-co.md#t-00-17-19) (Claim) **Candace Owens**: ["Charlie Kirk was present the night Candace met her husband George Farm..."](/statements/statement-27f89a6f2547.md)
+- [00:17:09](/episodes/ep-_dRaEO47-co.md#t-00-16-36) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was present when she met her future hu..."](/statements/statement-27f89a6f2547.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

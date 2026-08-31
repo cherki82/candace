@@ -7,7 +7,7 @@ type: "citation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:29:21](/episodes/ep-MhakwJxK-Zk.md#t-00-29-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1761);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1761s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This writer, Claire Guinan, who had never published before—she has no writing profile at all—writes her first article for Jezebel. ... She starts in June. Claire Guinan, no interest in the press about figuring out what inspired her to go on to Etsy and find ... a new witch profile and buy a spell about harming Charlie Kirk, putting a curse onto Charlie Kirk. ... It's very unusual. We paid some Etsy witches to curse Charlie Kirk. That was just less than 10 days after Charlie (Charlie Kirk) won this debate against Bibi (Benjamin Netanyahu)'s many lobbyists.
 

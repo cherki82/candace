@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:00:01](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All right, you guys lock in and happy Wednesday, by the way. So we apparently opened a can of worms this week discussing what appears to me to be the most viable theory pertaining to Charlie Kirk's assassination, that the microphone may have been rigged, at least it's the one that the theory that has the most evidence to support it. But if this were the case, that would suggest obviously that Charlie (Charlie Kirk)'s audio and visual team was somehow involved in this.
 

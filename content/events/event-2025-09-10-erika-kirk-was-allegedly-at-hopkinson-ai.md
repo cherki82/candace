@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-10"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:09:57](/episodes/ep-SgVcnx4Oh30.md#t-00-09-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=597s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika was at the office of Hopkinson Aircraft Sales.
 
@@ -25,6 +30,6 @@ date: "2025-09-10"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:00:53](/episodes/ep-SgVcnx4Oh30.md#t-00-00-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(53);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=53s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > were able to confirm it in a way that is rather explosive. Where was Erika on

@@ -1,6 +1,6 @@
 ---
 title: "CVS Pharmacy"
-description: "CVS Pharmacy (Organizations) - 15 mentions"
+description: "CVS Pharmacy (Organizations) - 20 mentions"
 id: "org-cvs-pharmacy"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cvs.com/store-locator/landing)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03">2026-01-21 · 00:57:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-cvs-pharmacy-t-00-44-46">2025-09-16 · 00:44:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-cvs-pharmacy-t-00-42-56">2026-08-11 · 00:43:18</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,8 +33,13 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-org-cvs-pharmacy-t-00-44-46">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-cvs-pharmacy-t-00-44-46" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-cvs-pharmacy-t-00-39-04" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-cvs-pharmacy-t-00-26-45" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-cvs-pharmacy-t-00-34-22" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-cvs-pharmacy-t-00-32-04" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-cvs-pharmacy-t-00-44-08" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-cvs-pharmacy-t-00-26-21" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
@@ -54,6 +59,11 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-cvs-pharmacy-t-00-44-46) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-cvs-pharmacy-t-00-39-04) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-cvs-pharmacy-t-00-26-45) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-cvs-pharmacy-t-00-34-22) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-cvs-pharmacy-t-00-32-04) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-cvs-pharmacy-t-00-44-08) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-cvs-pharmacy-t-00-26-21) | 1 |
@@ -75,7 +85,7 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -186,6 +196,46 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 **[00:57:16](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03)**
 > "CVS"
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+
+**[00:32:22](/episodes/ep-sImMM04XdWY.md#ent-org-cvs-pharmacy-t-00-32-04)**
+> "it's gonna look like a CVS receipt."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:34:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-cvs-pharmacy-t-00-34-22)**
+> "You know—like if you go to CVS and you pick up a prescription at one location, t..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:27:20](/episodes/ep-YA1FxrDWNIo.md#ent-org-cvs-pharmacy-t-00-26-45)**
+> "... Target, Whole Foods, Amazon, CVS, and Walgreens."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
+
+**[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-cvs-pharmacy-t-00-39-04)**
+> "... Target, Whole Foods, Amazon, CVS, and Walgreens. That's B-E-E-K-E-E-P-E-R-Snatural..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
+
+**[00:44:50](/episodes/ep-q7f8r-THr84.md#ent-org-cvs-pharmacy-t-00-44-46)**
+> "...would describe it either as a CVS receipt: you buy one item, next thing you know, y..."
 
 </details>
 

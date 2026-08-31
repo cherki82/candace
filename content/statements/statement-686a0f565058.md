@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:11:23](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(683);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=683s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And there's no reason that I am aware of that has been provided why the ATF and the FBI, first of all, the ATF, why they provided it in the last three weeks and why the FBI still hasn't.
 

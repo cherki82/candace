@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:16:53](/episodes/ep-X3VKJVJ7cN4.md#t-00-16-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1013);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=1013s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's hired right out of college to work for Charlie. Danny Phillips, you might recall many moons ago when we discussed Mikey McCoy's call logs before Charlie got shot at 1202. ... And Mikey McCoy was on the phone with Danny Phillips. I thought they were just both at the event. Maybe I don't know what that phone call was about.
 

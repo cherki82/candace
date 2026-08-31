@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:18:47](/episodes/ep-eMtjzXkQrsU.md#t-00-18-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, find your church on Faith by Works, find your favorite podcaster that's with Salem and see if they are criticizing Israel ever at all, no matter what Israel does, see if they seem to have a very fashioned viewpoint regarding Israel, because these documents show you that they have a financial relationship that is structured to benefit Israel.
 

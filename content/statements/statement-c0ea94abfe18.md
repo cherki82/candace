@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:13:00](/episodes/ep-DqGNvi36ol8.md#t-00-12-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(780);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=780s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am beginning to suspect that our maroon boys in general were tasked with taking footage from predetermined angles.
 

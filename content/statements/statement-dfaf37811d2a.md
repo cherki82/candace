@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:29:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1786);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1786s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think it's also important that we not make Islamophobic remarks while we're here today. I would appreciate that.
 

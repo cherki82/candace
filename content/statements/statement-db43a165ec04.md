@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:33:05](/episodes/ep-tB5SXXmd9vU.md#t-00-32-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1985);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1985s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because there seems to be no public record of what the actual construction project is that is happening online, except for the fact that apparently a global biopharmaceutical company called Incyte owns it, okay? ... On May 2024, they say that construction is expected to take about a year.
 

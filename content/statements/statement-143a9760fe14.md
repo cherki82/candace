@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:20:22](/episodes/ep-X92MllIHDzw.md#t-00-20-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1222);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=1222s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which came from Karl and his wife, Nelda Buckman. Okay. Daily Wire actually had the exclusive story on this. And that's interesting to me, the $10 million gift and renaming the headquarters.
 

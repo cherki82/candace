@@ -31,8 +31,8 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-florida-t-00-20-05">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20" style="--pulse-height:33%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-florida-t-00-34-15" style="--pulse-height:33%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-56" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-florida-t-00-34-23" style="--pulse-height:33%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-25" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-florida-t-00-31-35" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-florida-t-00-18-27" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10" style="--pulse-height:33%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
@@ -61,8 +61,8 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20) | 1 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-florida-t-00-34-15) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-56) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-florida-t-00-34-23) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-25) | 1 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-florida-t-00-31-35) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-florida-t-00-18-27) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10) | 1 |
@@ -270,7 +270,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:18:27](/episodes/ep-LATnak75Si0.md#ent-gpe-florida-t-00-18-27)**
-> "...said. (Clip of Brett Cooper) Like Randy Fine—if you don't know who he is—he's a representative from Florida. He's the same guy who bragged about not washing his hands after he had a handshake with Netanyahu ..."
+> "Like Randy Fine—if you don't know who he is—he's a representative from Florida. He's the same guy who bragged about not washing his hands after he had a handshake with Netanyahu (Benjamin Netanyahu)."
 
 </details>
 
@@ -278,14 +278,14 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
 **[00:31:35](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-florida-t-00-31-35)**
-> "...ng in this moment. So let's watch that vintage clip together. Hi, my name is Meyenda, and I live in Florida. Being a young black female and also a teen mother, what do you guys do to give back to the communi..."
+> "Hi, my name is Meyenda (TRL audience member; surname unverified), and I live in Florida. Being a young black female and also a teen mother, what do you guys do to give back to the community?"
 
 </details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
-**[00:23:56](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-56)**
+**[00:23:52](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-25)**
 > "...k at someone like—let's take Matt Gaetz. Okay." Matt Gaetz was a former Republican congressman from Florida. Now he hosts a show on One America News. Matt Gaetz and I were very friendly for a while. He had m..."
 
 </details>
@@ -293,7 +293,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:34:50](/episodes/ep-adJ4LNGp84I.md#ent-gpe-florida-t-00-34-15)**
+**[00:34:50](/episodes/ep-adJ4LNGp84I.md#ent-gpe-florida-t-00-34-23)**
 > "...o Charlie (Charlie Kirk) in his own words about what he was going through. And for whatever reason, Florida Dad, which is one of these, like, Zio-bot accounts that constantly tweets in favor of Israel, wrote..."
 
 </details>

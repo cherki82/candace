@@ -29,8 +29,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(104);return false;">Play</a>
+**Timestamp:** [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-17) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=104s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was contracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right?
 

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:25:41](/episodes/ep-IqHsl7d2dos.md#t-00-25-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1541);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1541s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is what I believe Charlie Kirk's life became. A bunch of people who infiltrated surrounded him. He had no idea that he was living the Truman Show. ... They controlled everything. They cast people into his life, people that he thought were there to grow his organization for good means because they believed in free markets and capitalism, whereupon they were working together to just produce and follow a script, a script that runs back to Tel Aviv.
 

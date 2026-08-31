@@ -17,7 +17,7 @@ _Type: People_
 Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department of Justice](https://www.justice.gov/usao-sdny/human-trafficking-and-sexual-exploitation-minors)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-28-54">2025-09-15 · 00:29:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-29-10">2025-09-15 · 00:29:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-40-06">2026-06-26 · 00:40:06</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
@@ -31,7 +31,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-28-54" style="--pulse-height:67%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-29-10" style="--pulse-height:67%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-ghislaine-maxwell-t-00-53-32" style="--pulse-height:33%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54) | 2 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10) | 2 |
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-ghislaine-maxwell-t-00-53-32) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24) | 1 |
@@ -160,7 +160,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10)**
+**[00:18:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10)**
 > "...ur resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)—it's always the New York Post, okay? I view them as the feds. Like if I'm the..."
 
 </details>
@@ -168,10 +168,10 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
 
-**[00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54)**
+**[00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10)**
 > "Epstein with his little friend Ghislaine"
 
-**[00:29:56](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49)**
+**[00:29:49](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49)**
 > "Epstein with his little friend Ghislaine, and Ghislaine's father, Robert Maxwell"
 
 </details>

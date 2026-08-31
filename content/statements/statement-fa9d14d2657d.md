@@ -28,7 +28,7 @@ type: "prediction"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:37:19](/episodes/ep-X3VKJVJ7cN4.md#t-00-37-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2239);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2239s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Is it possible that to deal with this, they're going to like kill Tyler? ... Or they're going to like make up some plan and pretend like Erika couldn't deal, she was overwhelmed. ... And then they're going to go, oh, we're pinning it on Candace. Now we also have the dial back speech laws.
 

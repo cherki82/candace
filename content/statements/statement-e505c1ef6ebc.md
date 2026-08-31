@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:07:41](/episodes/ep-HZvwbfePe7o.md#t-00-07-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(461);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=461s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then he goes, here are my observations. It can be an evil thing to release a man's private messages after his death. ... Not everything is meant to be public. I can understand certain things in certain contexts, but Candace (Candace Owens) is weaponizing these messages to diminish Charlie (Charlie Kirk)'s public statements and advance her own agenda. And he's not here to defend himself.
 

@@ -1,17 +1,17 @@
 ---
-title: "the donors became very rotten at the end. He relied on his d..."
-description: "\"the donors became very rotten at the end. He relied on his donors. They were making threats. Some of them, up until the very last minute, were making ...\" — Candace Owens"
+title: "Owens accused some of Charlie Kirk's donors of making financ..."
+description: "\"Owens accused some of Charlie Kirk's donors of making financial threats against him until shortly before his death.\" — Candace Owens"
 statement_id: "statement-636dceeed820"
 speaker: "Candace Owens"
 type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> the donors became very rotten at the end. He relied on his donors. They were making threats. Some of them, up until the very last minute, were making threats against him. Financial threats
+> Owens accused some of Charlie Kirk's donors of making financial threats against him until shortly before his death.
 
 ## Attribution
 
@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [01:04:21](/episodes/ep-2WEHTk0Xewg.md#t-01-03-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3861);return false;">Play</a>
+**Timestamp:** [01:04:21](/episodes/ep-2WEHTk0Xewg.md#t-01-04-09) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=3861s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to have so many donors. What I do know is the donors became very rotten at the end. ... He relied on his donors. ... They were making threats. ... Some of them—up until the very last minute—were making threats against him. ... Financial threats, I'm referring to—obviously.
 

@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,8 +27,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:20:00](/episodes/ep-581dILVcEE4.md#t-00-19-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1200);return false;">Play</a>
+**Timestamp:** [00:20:00](/episodes/ep-581dILVcEE4.md#t-00-19-43) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=1200s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Going to have a major, major, major scoop tomorrow about what's happening on the inside of Turning Point USA. ... I just want to triple-, quadruple-confirm,
 

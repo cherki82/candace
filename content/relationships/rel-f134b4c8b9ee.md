@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Cabot Phillips](/entities/person-cabot-phillips) formerly dated [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 
@@ -20,6 +20,10 @@ object: "person-erika-kirk"
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
 - [00:04:38](/episodes/ep-eLgD5yUVbko#t-00-04-38): _Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September._
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:43:55](/episodes/ep-w1oqQbR_bYs#t-00-43-55): _I didn't say this is Erika's ex-boyfriend from 2017._
 
 **[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
 

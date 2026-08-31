@@ -3,13 +3,22 @@ title: "Joe Gebbia"
 description: "Joe Gebbia (People) - 1 mention"
 id: "person-joe-gebbia"
 type: "PERSON"
+categories:
+  - "technology entrepreneur"
+  - "Airbnb"
 ---
 
 _Type: People_
 
+**Categories:** technology entrepreneur, Airbnb
+
+**Entity verification:** verified
+> Airbnb's official leadership page confirms canonical name Joe Gebbia and identifies him as an Airbnb co-founder, matching the transcript context.
+Source: [Joe Gebbia - Airbnb Newsroom](https://news.airbnb.com/about-us/leadership/joe-gebbia/)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30">2025-11-05 · 00:10:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30">2025-11-05 · 00:10:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-19">2025-11-05 · 00:10:41</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-19">2025-11-05 · 00:10:41</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -20,15 +29,15 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-19">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-19" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-19) | 1 |
 
 </details>
 </section>
@@ -41,7 +50,7 @@ _Type: People_
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[00:10:41](/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30)**
+**[00:10:41](/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-19)**
 > "...iated super PAC. He gave $8.3 million to stop Mamdani, and it didn't matter. The Airbnb co-founder, Joe Gebbia, gave $3.1 million. It didn't matter. The Tisch family gave $1.2 million. It didn't matter. Still M..."
 
 </details>
@@ -57,7 +66,7 @@ _Type: People_
 - **[Airbnb](/entities/org-airbnb.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30): “The Airbnb co-founder, Joe Gebbia”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-19): “The Airbnb co-founder, Joe Gebbia”
 
 </details>
 
@@ -69,7 +78,7 @@ _Type: People_
 - **[Airbnb](/entities/org-airbnb.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30): “The Airbnb co-founder, Joe Gebbia”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-19): “The Airbnb co-founder, Joe Gebbia”
 
 </details>
 
@@ -83,7 +92,7 @@ _Type: People_
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
-- [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani."](/statements/statement-411d9c4a3eeb.md)
+- [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-19) (Claim) **Candace Owens**: ["Candace Owens said Airbnb co-founder Joe Gebbia gave $3.1 million agai..."](/statements/statement-411d9c4a3eeb.md)
   - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 </details>

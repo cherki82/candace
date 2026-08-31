@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:24:56](/episodes/ep-SKNJPul29zU.md#t-00-24-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1496);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=1496s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > bad and this is going to be used as a justification for us to enrich defense contractors they profit off war right now you know there's a town in alabama where they make um rockets and military weaponry and it's booming all of a sudden because of the war against iran and um it's funny listening to an interview of like one of the workers there because you as they're able to like compartmentalize the economic boom they're experiencing from what it's feeding into.
 

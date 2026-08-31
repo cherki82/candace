@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:29:11](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1751);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1751s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it is my personal opinion that a deal was done when i look at the evidence when i look at everything i'm looking at when i see how duplicitous she was and i know that Charlie (Charlie Kirk) did not know these things because i was there
 

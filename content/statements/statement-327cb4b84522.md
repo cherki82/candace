@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:44:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2686);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2686s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't buy anything really that Erika (Erika Kirk) says. She lies a lot.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:35:48](/episodes/ep-wcD2khO3rOA.md#t-00-35-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2148);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2148s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For the last two years, I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls, both in the 1990s and in 2008.
 

@@ -6,6 +6,11 @@ date: "2025-06-04"
 ---
 
 **Date:** 2025-06-04
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “June 4th”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-06-04"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:27:48](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1668);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1668s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > June 4th, Charlie speaking at Dream City.

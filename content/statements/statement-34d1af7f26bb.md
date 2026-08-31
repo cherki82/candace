@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:15:40](/episodes/ep-VMNWMXX1vO8.md#t-00-15-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(940);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=940s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Ladies and gentlemen, they are not guessing. They are providing a description that never happened. It never happened. ... And yet they described that as if it was pre-planned for them to go out there. I'm going to investigate these people who came out here and said this right near his heart. ... Because that is way too specific. They are providing false witness intentionally.
 

@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:18:02](/episodes/ep-IqHsl7d2dos.md#t-00-17-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1082);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1082s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In December of 2020, Jean-Luc Brunel was arrested at the Charles de Gaulle airport in Paris, obviously. ... Now, Jean-Luc Brunel, he was taken into custody on counts of rape and sexual assault on a minor under the age of 15, rape and sexual assault on a minor over 15, sexual harassment, criminal associations, human trafficking to the detriment of minor victims for the purposes of sexual exploitation.
 

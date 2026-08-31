@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:56:00](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3360);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=3360s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That are more intimately involved with Turning Point USA and since nothing they say is true I am under under no illusions when it comes to the people that are in charge now, Erica (Erika Kirk) among them.
 

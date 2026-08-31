@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:13:58](/episodes/ep-xjzb_t5Tk9o.md#t-00-13-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(838);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=838s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Israel sends a Mossad agent and then he leads four to five different bomb attacks on Jewish synagogues and Jewish communities. ... They killed their own people. ... and that happened in Iraq and then because of that 150,000 Jews went in just like a year and a half. ... to Israel.
 

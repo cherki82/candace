@@ -24,13 +24,13 @@ type: "factual_claim"
 - [Provo](/entities/gpe-provo.md) (gpe)
 - [Wilmington](/entities/gpe-wilmington.md) (gpe)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Walid Mahmood](/entities/person-walid-mahmood.md) (person)
+- [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md) (anonymous_source)
 
 ## Source
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(846);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=846s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm reminding you that that flight from Provo to Delaware on the yellow plane had only four people on board. ... Okay, so that plane pretty much emptied out and then had only four people, one of which was a foreign dignitary. ... Now, one of those individuals I can confirm ... was using the name—and when I say using the name, we are dealing with governments; we are dealing with power; and these people just print passports, okay?— ... But the name that one of those individuals was using ... is Walid Mahmood, okay? ... So we now know that of the four people that flew to Delaware, someone flew using the name Walid Mahmood, okay?
 

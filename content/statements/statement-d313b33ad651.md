@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:22:12](/episodes/ep-sreYYcID-QY.md#t-00-22-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1332);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1332s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I remember that we were like 15 feet away, and I thought, like, the shot was like a firecracker or something
 

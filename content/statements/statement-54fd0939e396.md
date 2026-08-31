@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:05:57](/episodes/ep-EtLHqDbxqks.md#t-01-05-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3957);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=3957s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I know what my gut is telling me about Charlie (Charlie Kirk)'s assassination. I've been clear on the fact that I believe Israel is involved and I've been clear on the fact that there was something very dark about the history of Ben Shapiro, the way that he stalks and obsesses.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:28:40](/episodes/ep-69A8TzAGHlU.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1720);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=1720s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And what is so shocking about this is that throughout this lawsuit, he explicitly lies, the lawyer explicitly lies in this filing by claiming. ... That I asserted over and over again that that snow, that Mitch Snow was telling the truth about Harpole when in fact, no, I went through a great many pains to repeatedly assert publicly that I could not confirm that he saw Harpole.
 

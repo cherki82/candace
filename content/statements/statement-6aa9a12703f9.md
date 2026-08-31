@@ -26,8 +26,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:58:10](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3490);return false;">Play</a>
+**Timestamp:** [00:58:10](/episodes/ep-9k2xrAC0H88.md#t-00-57-33) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=3490s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the biggest political assassination since JFK and RFK
 

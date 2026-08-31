@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:50:59](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3059);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=3059s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so people say, well, don't talk about it, you know, stay away from it. I learned my lesson. I learned my lesson what happens when I stay quiet and I listen to these people. ... I'm not going to put up with another bad precedent being set because I'm told that I should hate Alex Jones. ... I think it's I think it's not right when Alex Jones said and what he did. He agrees with that. ... Should you be able to shut somebody up because of it?
 

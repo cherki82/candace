@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [01:03:38](/episodes/ep-q7f8r-THr84.md#t-01-03-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3818);return false;">Play</a>
+**Timestamp:** [01:03:38](/episodes/ep-q7f8r-THr84.md#t-01-02-59) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3818s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Oh, are you the same Bill Ackman that made an absurd amount of money while we were in COVID lockdowns and we couldn't work? ... Are you the same Bill Ackman who, like, turned that into, like, billions?
 

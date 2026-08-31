@@ -1,8 +1,8 @@
 ---
-title: "after our Egyptian plane, tail number SUBTT, landed into thi..."
-description: "\"after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King St...\" — Candace Owens"
+title: "An anonymous source claimed that after Egyptian plane SU-BTT..."
+description: "\"An anonymous source claimed that after Egyptian plane SU-BTT landed in a federally monitored hangar, a foreign dignitary was discreetly moved to 920 K...\" — Satys and Egyptian-aircraft source (identity unverified)"
 statement_id: "statement-2a88ad32aba8"
-speaker: "Candace Owens"
+speaker: "Satys and Egyptian-aircraft source (identity unverified)"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,27 @@ type: "factual_claim"
 
 ## Statement
 
-> after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service
+> An anonymous source claimed that after Egyptian plane SU-BTT landed in a federally monitored hangar, a foreign dignitary was discreetly moved to 920 King Street
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Satys and Egyptian-aircraft source (identity unverified)](/entities/anon-src-sImMM04XdWY-001.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** private source communication
+
+## About
+
+- [SU-BTT](/entities/vehicle-su-btt.md) (vehicle)
 
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:06:12](/episodes/ep-sImMM04XdWY.md#t-00-05-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(372);return false;">Play</a>
+**Timestamp:** [00:06:02](/episodes/ep-sImMM04XdWY.md#t-00-06-02) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=362s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And don't forget that that same core, that same source claimed that after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service
+> And don't forget that that same core, that same source claimed that after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street
 
 ## Verification
 

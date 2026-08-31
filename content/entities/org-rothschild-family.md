@@ -1,6 +1,6 @@
 ---
 title: "Rothschild family"
-description: "Rothschild family (Organizations) - 45 mentions"
+description: "Rothschild family (Organizations) - 46 mentions"
 id: "org-rothschild-family"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com/topic/Rothschild-family)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-rothschild-family-t-00-55-46">2025-10-28 · 00:56:13</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-rothschild-family-t-00-55-46">2025-10-28 · 00:56:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-rothschild-family-t-00-39-23">2026-06-26 · 00:39:23</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -72,7 +72,7 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -264,8 +264,8 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
-**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-rothschild-family-t-00-55-46)**
-> "Emmanuel Macron is a Rothschild creation"
+**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-org-rothschild-family-t-00-55-46)**
+> "...st like the state of Israel—a Rothschild creation; talking about the military industrial c..."
 
 </details>
 

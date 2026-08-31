@@ -1,8 +1,8 @@
 ---
-title: "A local source told me that virtually everyone on that block..."
-description: "\"A local source told me that virtually everyone on that block works for that company. The Steeles are a big family in Orem.\" — Anonymous legacy source (claim-a092bd212322)"
+title: "A local source told Owens that the Steeles are a big family ..."
+description: "\"A local source told Owens that the Steeles are a big family in Orem.\" — Anonymous Source #3 (Ep sreYYcID-QY)"
 statement_id: "statement-6e7ed0bbff48"
-speaker: "Anonymous legacy source (claim-a092bd212322)"
+speaker: "Anonymous Source #3 (Ep sreYYcID-QY)"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -11,23 +11,23 @@ veracity: "mixed"
 
 ## Statement
 
-> A local source told me that virtually everyone on that block works for that company. The Steeles are a big family in Orem.
+> A local source told Owens that the Steeles are a big family in Orem.
 
 ## Attribution
 
-**Speaker:** [Anonymous legacy source (claim-a092bd212322)](/entities/anon-src-sreYYcID-QY-legacy-548e6916.md) (Anonymous Source)
+**Speaker:** [Anonymous Source #3 (Ep sreYYcID-QY)](/entities/anon-src-sreYYcID-QY-003.md) (Anonymous Source)
 
-**Delivery:** Quoted from speech/interview
+**Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** anonymous local source
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:16:10](/episodes/ep-sreYYcID-QY.md#t-00-15-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(970);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They were in piping and valves, and I'm going, "Okay, whatever." A local source told me that virtually everyone on that block works for that company
+> A local source told me that virtually everyone on that block works for that company. The Steeles are a big family in Orem.
 
 ## Verification
 

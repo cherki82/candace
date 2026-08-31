@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:36:35](/episodes/ep-7FS1tUeSfdE.md#t-00-36-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2195);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=2195s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when they questioned Farahani—Farahani, um, Farahani denied the rumors of any sort of an affair.
 

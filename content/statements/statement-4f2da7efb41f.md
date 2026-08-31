@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [01:00:40](/episodes/ep-IqHsl7d2dos.md#t-01-00-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3640);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=3640s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Lance Twiggs is being protected. I believe it was Lance Twiggs that was walking in the video. ... I don't know when that video was taken, but I believe it's Lance Twiggs that is walking in the maroon shirt. ... ironically just realized this is a maroon shirt um that was taken uh this allegedly the same day
 

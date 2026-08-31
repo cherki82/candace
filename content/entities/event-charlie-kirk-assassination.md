@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 237 mentions"
+description: "Charlie Kirk assassination (Events) - 247 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -28,11 +28,11 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02">2025-09-15 · 00:24:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22">2026-07-23 · 00:54:30</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>237</strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>247</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>151</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>173</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,14 +43,14 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02" style="--pulse-height:21%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2WEHTk0Xewg.md#t-00-42-35" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#t-00-10-23" style="--pulse-height:47%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 9 mentions" title="2025-09-18 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12" style="--pulse-height:32%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 6 mentions" title="2025-09-19 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#t-00-15-13" style="--pulse-height:32%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 6 mentions" title="2025-09-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37" style="--pulse-height:32%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 6 mentions" title="2025-09-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44" style="--pulse-height:32%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 6 mentions" title="2025-09-22 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#t-00-00-00" style="--pulse-height:16%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-event-charlie-kirk-assassination-t-00-00-01" style="--pulse-height:26%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#t-00-09-14" style="--pulse-height:11%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00" style="--pulse-height:16%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 3 mentions" title="2025-09-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-event-charlie-kirk-assassination-t-00-27-26" style="--pulse-height:32%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 6 mentions" title="2025-09-30 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#t-00-02-54" style="--pulse-height:26%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#t-00-02-36" style="--pulse-height:26%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-00-00" style="--pulse-height:21%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-event-charlie-kirk-assassination-t-00-13-01" style="--pulse-height:42%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 8 mentions" title="2025-10-06 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#t-00-24-12" style="--pulse-height:37%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 7 mentions" title="2025-10-07 · 7 mentions"><span></span></a>
@@ -60,16 +60,16 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <a href="/episodes/ep-YFmRH8p5lt0.md#t-00-00-00" style="--pulse-height:47%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 9 mentions" title="2025-10-31 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#t-00-07-32" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-01-25" style="--pulse-height:16%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#t-01-00-48" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-43" style="--pulse-height:32%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#t-01-01-09" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-50" style="--pulse-height:32%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00" style="--pulse-height:37%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 7 mentions" title="2025-11-10 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51" style="--pulse-height:16%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#t-00-27-59" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-00-44" style="--pulse-height:32%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 6 mentions" title="2025-11-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-03-23" style="--pulse-height:32%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 6 mentions" title="2025-11-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#t-00-05-44" style="--pulse-height:37%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 7 mentions" title="2025-11-17 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#t-00-03-33" style="--pulse-height:63%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 12 mentions" title="2025-11-18 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-03-51" style="--pulse-height:63%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 12 mentions" title="2025-11-18 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#t-00-00-00" style="--pulse-height:32%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 6 mentions" title="2025-11-19 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#t-00-00-39" style="--pulse-height:42%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 8 mentions" title="2025-11-20 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#t-00-00-34" style="--pulse-height:42%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 8 mentions" title="2025-11-20 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#t-00-00-00" style="--pulse-height:53%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 10 mentions" title="2025-11-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-event-charlie-kirk-assassination-t-00-12-02" style="--pulse-height:89%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 17 mentions" title="2025-12-01 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-14-05" style="--pulse-height:47%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 9 mentions" title="2025-12-02 · 9 mentions"><span></span></a>
@@ -77,7 +77,9 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-event-charlie-kirk-assassination-t-00-19-27" style="--pulse-height:11%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00" style="--pulse-height:68%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 13 mentions" title="2025-12-05 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-charlie-kirk-assassination-t-00-00-00" style="--pulse-height:26%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 5 mentions" title="2025-12-08 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-00-00" style="--pulse-height:37%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 7 mentions" title="2025-12-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-event-charlie-kirk-assassination-t-00-13-27" style="--pulse-height:16%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-01-58" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-45-12" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
@@ -90,14 +92,14 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02) | 4 |
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-10-23) | 9 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12) | 6 |
-| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-15-13) | 6 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37) | 6 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44) | 6 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) | 3 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-event-charlie-kirk-assassination-t-00-00-01) | 5 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-09-14) | 2 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00) | 3 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-event-charlie-kirk-assassination-t-00-27-26) | 6 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-02-54) | 5 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-02-36) | 5 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-00) | 4 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-event-charlie-kirk-assassination-t-00-13-01) | 8 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-24-12) | 7 |
@@ -107,16 +109,16 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00) | 9 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-07-32) | 1 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-01-25) | 3 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#t-01-00-48) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-43) | 6 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#t-01-01-09) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-50) | 6 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00) | 7 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-27-59) | 2 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-00-44) | 6 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-03-23) | 6 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) | 7 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-03-33) | 12 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-03-51) | 12 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-00-00) | 6 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-00-39) | 8 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-00-34) | 8 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-00-00) | 10 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-event-charlie-kirk-assassination-t-00-12-02) | 17 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05) | 9 |
@@ -124,7 +126,9 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-event-charlie-kirk-assassination-t-00-19-27) | 2 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) | 13 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-event-charlie-kirk-assassination-t-00-00-00) | 5 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-00-00) | 7 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-event-charlie-kirk-assassination-t-00-13-27) | 3 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-01-58) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-45-12) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45) | 2 |
@@ -136,7 +140,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (237)</strong></summary>
+<summary><strong class="section-title">Raw mentions (247)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -176,8 +180,48 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01)**
+**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-01-58)**
 > "...deral prints are all over the Charlie Kirk assassination story, okay?"
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:13:27](/episodes/ep-6DhWawD4ZiM.md#ent-event-charlie-kirk-assassination-t-00-13-27)**
+> "...day on YouTube. talking about Charlie Kirk's assassination and the BS narrative that is being fed and the ve..."
+
+**[00:13:56](/episodes/ep-6DhWawD4ZiM.md#ent-event-charlie-kirk-assassination-t-00-13-27)**
+> "...ization immediately following Charlie Kirk's assassination."
+
+**[00:45:10](/episodes/ep-6DhWawD4ZiM.md#ent-event-charlie-kirk-assassination-t-00-44-54)**
+> "...ere coming from on the day of Charlie Kirk's assassination."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (7 mentions)</summary>
+
+**[00:00:00](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-00-00)**
+> "... the final days leading up to Charlie Kirk's assassination, Charlie (Charlie Kirk) was pretty busy, right?"
+
+**[00:43:18](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-42-49)**
+> "... and claim you benefited from Charlie Kirk's assassination, what she's doing to me right fucking now."
+
+**[00:44:30](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-44-11)**
+> "...ng someone who benefited from Charlie Kirk's assassination."
+
+**[00:44:49](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-44-49)**
+> "... feds have given us regarding Charlie Kirk's assassination."
+
+**[00:45:44](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-45-31)**
+> "in the wake of Charlie Kirk's assassination, he thinks he's pioneering that? Are you out of y..."
+
+**[00:47:34](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-47-26)**
+> "...to people that would cover up Charlie Kirk's assassination. I hope that I have made my point perfectly clear..."
+
+**[00:51:47](/episodes/ep-t4U7NjnUEgc.md#ent-event-charlie-kirk-assassination-t-00-51-47)**
+> "...out this French angle and the Charlie Kirk assassination."
 
 </details>
 
@@ -249,7 +293,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > ".... Anyways, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well. Regarding my assassination attempt, he appeared on Greg Gutfeld's show, and he decided to promote his appearance with a little..."
 
 **[00:31:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-31-49)**
-> "...is absurd point that he is making about why we shouldn't be speaking about Charlie (Charlie Kirk)'s assassination. Take a listen. (Clip: Tim Pool speaking on his show) You can come, and you can burn everything I h..."
+> "I hope he gets well, but I do wanna address this absurd point that he is making about why we shouldn't be speaking about Charlie (Charlie Kirk)'s assassination."
 
 **[00:43:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-58)**
 > "... just us knowing what it is and just the fact that so many people are awake to the reality that the assassination attempt was real—and that if it wasn't, we should be hearing from proper channels, not Cam Higby gi..."
@@ -328,7 +372,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > "...ark way. It was water-cooler talk at Turning Point USA immediately after Charlie's (Charlie Kirk's) assassination. A few people had signified and were speculating and thinking about things that were weird, and, yo..."
 
 **[00:27:13](/episodes/ep-a-e7HC6SeK8.md#t-00-26-49)**
-> "And a few of them had signified that one of the things that was being whispered about—that people thought was quite odd—that they learned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife (Justin Strife):"
+> "And a few of them had signified that one of the things that was being whispered about—that people thought was quite odd—that they learned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife:"
 
 **[00:28:45](/episodes/ep-a-e7HC6SeK8.md#t-00-28-45)**
 > "...ion that Turning Point USA raised in the first couple of weeks following Charlie's (Charlie Kirk's) assassination." We are talking like billionaire money— potentially billions of dollars. And this was a very big s..."
@@ -444,7 +488,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (8 mentions)</summary>
 
-**[00:00:51](/episodes/ep-sImMM04XdWY.md#t-00-00-39)**
+**[00:00:51](/episodes/ep-sImMM04XdWY.md#t-00-00-34)**
 > "...s that. Because I know that many of you guys were wondering whether or not Charlie (Charlie Kirk)'s assassination was meant to distract us from the Brigitte Macron investigation. And rightfully so; that is a fair ..."
 
 **[00:01:35](/episodes/ep-sImMM04XdWY.md#t-00-01-32)**
@@ -453,19 +497,19 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 **[00:02:01](/episodes/ep-sImMM04XdWY.md#t-00-01-32)**
 > "... and over again. I would say that happened in the first 72 hours following Charlie (Charlie Kirk)'s assassination. I was in a state of trauma, and not for a single second during that state of trauma did I believe ..."
 
-**[00:22:04](/episodes/ep-sImMM04XdWY.md#t-00-21-44)**
+**[00:22:04](/episodes/ep-sImMM04XdWY.md#t-00-21-35)**
 > "...nna stay in Wilmington, Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination. I find this now to be very interesting, okay? Very interesting as to whether or not on that Egypti..."
 
-**[00:25:12](/episodes/ep-sImMM04XdWY.md#t-00-25-07)**
+**[00:25:12](/episodes/ep-sImMM04XdWY.md#t-00-25-00)**
 > "...ion becomes, who was the foreign dignitary that was escorted on the day of Charlie (Charlie Kirk)'s assassination to 920 King Street? Is it plausible that for whatever reason, Charlie (Charlie Kirk), allowing Tuck..."
 
-**[00:49:06](/episodes/ep-sImMM04XdWY.md#t-00-48-34)**
+**[00:49:06](/episodes/ep-sImMM04XdWY.md#t-00-49-03)**
 > "...ee the light of day. Stay safe." Yeah. I think there was something about the Charlie (Charlie Kirk) assassination that made a lot of us want to be brave because Charlie (Charlie Kirk) was about as safe socks as it..."
 
-**[00:50:25](/episodes/ep-sImMM04XdWY.md#t-00-50-01)**
+**[00:50:25](/episodes/ep-sImMM04XdWY.md#t-00-50-19)**
 > "...be resolved in government. Like I said, if there is any silver lining in the Charlie (Charlie Kirk) assassination, it's that I think it taught all of us a lesson about our faith that we could somehow fix it in thi..."
 
-**[00:50:40](/episodes/ep-sImMM04XdWY.md#t-00-50-01)**
+**[00:50:40](/episodes/ep-sImMM04XdWY.md#t-00-50-19)**
 > "...top pointing fingers at one another. Elizabeth Jones writes: "Do you think Charlie (Charlie Kirk)'s assassination could be a message to Trump or Kash to stay in line?" I'm gonna say definitely—maybe Trump almost g..."
 
 </details>
@@ -479,13 +523,13 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 **[00:00:33](/episodes/ep-SKGUzGHymcI.md#t-00-00-00)**
 > "...: What was the Egyptian military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware? Actually, we should figure that out. Welcome back to Candace (Candace Owens). T..."
 
-**[00:03:23](/episodes/ep-SKGUzGHymcI.md#t-00-03-23)**
+**[00:03:12](/episodes/ep-SKGUzGHymcI.md#t-00-03-12)**
 > "...ot of information that is known to virtually none of us, on the morning of Charlie (Charlie Kirk)'s assassination, the plane that had initially carried over the 12 or 14 quote-unquote Egyptians six days earlier—th..."
 
 **[00:44:20](/episodes/ep-SKGUzGHymcI.md#t-00-44-04)**
 > "...t. We have to understand exactly what happened in the months leading up to Charlie (Charlie Kirk)'s assassination to understand a fuller picture. To try to get to what the truth is. And yeah, anyways, I thought it..."
 
-**[00:48:56](/episodes/ep-SKGUzGHymcI.md#t-00-48-56)**
+**[00:48:56](/episodes/ep-SKGUzGHymcI.md#t-00-48-37)**
 > "... I saw in that vision that I told you guys I had in the days leading up to Charlie (Charlie Kirk)'s assassination that made me pull my kids out of school. I kind of know where the story is going to end and I would..."
 
 **[00:54:29](/episodes/ep-SKGUzGHymcI.md#t-00-54-00)**
@@ -496,40 +540,40 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (12 mentions)</summary>
 
-**[00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33)**
+**[00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-51)**
 > "...Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination. So we are looking at anywhere between 12 to 14 quote-unquote Egyptians that were on this flight an..."
 
-**[00:08:41](/episodes/ep-581dILVcEE4.md#t-00-08-20)**
+**[00:08:36](/episodes/ep-581dILVcEE4.md#t-00-08-36)**
 > "...o 14 Egyptians didn't drop into Provo, Utah, in the six days leading up to Charlie (Charlie Kirk)'s assassination to fix like a broken light on the plane, okay? Again, my source there is me not being born yesterda..."
 
-**[00:09:24](/episodes/ep-581dILVcEE4.md#t-00-09-05)**
+**[00:09:22](/episodes/ep-581dILVcEE4.md#t-00-09-11)**
 > "... exactly were these Egyptians with the federal escorts doing on the day of Charlie (Charlie Kirk)'s assassination? Well, in terms of some potentially interesting leads, someone—many of you guys actually noted to u..."
 
-**[00:10:38](/episodes/ep-581dILVcEE4.md#t-00-10-23)**
+**[00:10:35](/episodes/ep-581dILVcEE4.md#t-00-10-35)**
 > "...ould be the reason that UVU has denied every request, not just to release footage of the day of the assassination, but also to release footage of the days leading up to the assassination. Why? I think it's because..."
 
-**[00:11:21](/episodes/ep-581dILVcEE4.md#t-00-11-07)**
+**[00:11:14](/episodes/ep-581dILVcEE4.md#t-00-11-14)**
 > "...we know that those Egyptian planes came in six days before—six days before Charlie (Charlie Kirk)'s assassination—it's possible that they could have staged some of that, which they eventually edited maybe a bit an..."
 
-**[00:12:18](/episodes/ep-581dILVcEE4.md#t-00-12-18)**
-> "...didn't include their names, but here is the article. You can see it was published the day after the assassination, and it reads, "Utah Valley University student recalls seeing man walking on or near the Lozier Cen..."
+**[00:12:18](/episodes/ep-581dILVcEE4.md#t-00-11-59)**
+> "You can see it was published the day after the assassination, and it reads, "Utah Valley University student recalls seeing man walking on or near the Losee Center roof twice in two weeks.""
 
 **[00:17:02](/episodes/ep-581dILVcEE4.md#t-00-17-02)**
 > "...e stairwell photo and the footage that we have seen of the shooter was actually recorded before the assassination. Of course, that's a possibility. In the absence of quite literally anything verifiable the feds ha..."
 
-**[00:17:42](/episodes/ep-581dILVcEE4.md#t-00-17-42)**
+**[00:17:36](/episodes/ep-581dILVcEE4.md#t-00-17-36)**
 > "...ou are a student and you saw someone up on the rooftop in the days or in the week leading up to the assassination, we want to hear from you. More tips at candaceowens.com because every time I have tried to chase d..."
 
-**[00:21:03](/episodes/ep-581dILVcEE4.md#t-00-20-39)**
+**[00:21:01](/episodes/ep-581dILVcEE4.md#t-00-21-01)**
 > "... interest to me because it wasn't Charlie (Charlie Kirk), and they got into Provo just ahead of the assassination, and it has to be somebody big. I don't think the students are flying around on private planes. It'..."
 
-**[00:24:23](/episodes/ep-581dILVcEE4.md#t-00-24-10)**
+**[00:24:18](/episodes/ep-581dILVcEE4.md#t-00-23-45)**
 > "...Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members. On the day of the assassination, you'll recognize he's the guy that had the black strap. I don't know if we have a photo. He had a ..."
 
-**[00:27:33](/episodes/ep-581dILVcEE4.md#t-00-27-08)**
+**[00:27:32](/episodes/ep-581dILVcEE4.md#t-00-27-02)**
 > "... military career. I... obviously have been very clear that I believe that this was a military-level assassination. Everyone on the ground that day—every witness—for some reason, this is not a military academy, but..."
 
-**[00:48:28](/episodes/ep-581dILVcEE4.md#t-00-47-56)**
+**[00:48:25](/episodes/ep-581dILVcEE4.md#t-00-48-07)**
 > "...that. Not just in this country—worldwide, right? There's something about the Charlie (Charlie Kirk) assassination that we spiritually already recognize has international implications. That's very clear. And it wil..."
 
 </details>
@@ -563,22 +607,22 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
 
-**[00:00:44](/episodes/ep-7RLtGgkTh9o.md#t-00-00-44)**
+**[00:00:44](/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-03-23)**
 > "...e insistence from the brood of vipers. I don't know how it's possible, but Charlie (Charlie Kirk)'s assassination is pulling in all of these elements. And we need to speak a lot more about the Calvary Chapel and a..."
 
-**[00:03:40](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30)**
-> "...You cannot question Israel at all, or they descend on you. Somehow, the Charlie (Charlie Kirk) Kirk assassination is bringing together every single last one of these themes that we have been exploring. So, where d..."
+**[00:03:35](/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-03-23)**
+> "You see it everywhere. You cannot question Israel at all, or they descend on you. Somehow, the Charlie Kirk assassination is bringing together every single last one of these themes that we have been exploring."
 
-**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30)**
-> "...ens of thousands of kids, but Candace (Candace Owens) investigating the Charlie (Charlie Kirk) Kirk assassination is crazy. It's unbiblical. It only furthered my sense that faith had somehow been infiltrated. Fait..."
+**[00:04:06](/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-04-06)**
+> "This is—I can't even believe it. Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of kids, but Candace (Candace Owens) investigating the Charlie Kirk assassination is crazy."
 
-**[00:24:33](/episodes/ep-7RLtGgkTh9o.md#t-00-24-33)**
+**[00:24:33](/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-04-06)**
 > "...en, of course, brings us the next way that they accomplish what they want: the media—a reputational assassination, right? The MeToo movement. That's what I was getting at. It was such an easy way to hostilely take..."
 
-**[00:47:45](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26)**
-> "...like so much is being revealed right now, and the linchpin of this is a Charlie (Charlie Kirk) Kirk assassination. And we are really understanding the way that our world works. So if you have any more information ..."
+**[00:47:45](/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-47-26)**
+> "This feels to me like so much is being revealed right now, and the linchpin of this is a Charlie Kirk assassination. And we are really understanding the way that our world works."
 
-**[00:51:38](/episodes/ep-7RLtGgkTh9o.md#t-00-51-38)**
+**[00:51:18](/episodes/ep-7RLtGgkTh9o.md#ent-event-charlie-kirk-assassination-t-00-47-26)**
 > "... girls were all involved in a conspiracy cover-up against a convicted predator— but questioning the assassination of his dearest friend is unchristian and crazy." That's what I said. Like, if you want to really se..."
 
 </details>
@@ -600,10 +644,10 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 **[00:01:51](/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51)**
 > "...f the week, because we have got some very interesting updates for you in the Charlie (Charlie Kirk) assassination—the assassination that seems to have broken the brains of Zionists. They are not acting right. Can ..."
 
-**[00:35:48](/episodes/ep-MUA9ebCF4Ow.md#t-00-35-39)**
+**[00:35:48](/episodes/ep-MUA9ebCF4Ow.md#t-00-35-27)**
 > "...ld War II? Kind of the question that I think is hanging in the air right now—after perhaps also the assassination of JFK. Like, when you talk about the military-industrial complex—like, how industrial did this com..."
 
-**[00:46:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-46-31)**
+**[00:46:48](/episodes/ep-MUA9ebCF4Ow.md#t-00-46-48)**
 > "...arlie (Charlie Kirk) thing to say. Brittany Watson writes, "The Charlie (Charlie Kirk) betrayal and assassination is shaping up to be the scandal of our lifetime. And you are leading the charge of investigating an..."
 
 </details>
@@ -637,14 +681,14 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (6 mentions)</summary>
 
-**[00:06:09](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-43)**
+**[00:06:09](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-50)**
 > "...along the way. And obviously I'm making a lot of enemies right now for some reason looking into the Charlie Kirk assassination and the lies that we are being told. Anyways, let's get into Erika Kirk. Obviously it was a very an..."
 
 **[00:10:42](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-10-08)**
 > "...the way—was so impacted. He met Charlie (Charlie Kirk) a couple of times, but he was so impacted by Charlie Kirk's assassination that it made him go, "I want to be—and my dad said this—I want to be a better grandfather and a bet..."
 
 **[00:17:59](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-10-08)**
-> "...erviewing Erika Kirk clip): There's other theories swirling around about Charlie's (Charlie Kirk's) assassination. Right. How does that make you feel? When everything happened, my phone died and became a black hol..."
+> "There's other theories swirling around about Charlie's (Charlie Kirk's) assassination."
 
 **[00:25:39](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-10-08)**
 > "... can't believe somebody asked a question." "I can't believe there's interest in this event where an assassination took place." No: people are asking because they're well-meaning, and he just comes right back and a..."
@@ -652,15 +696,15 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 **[00:30:51](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-10-08)**
 > "...bout, okay? It is the killing of Charlie Kirk, and nothing else for me. And in the aftermath of his assassination, people were downright nasty to me. You saw that. It was definitively not organic. It was this weir..."
 
-**[01:05:10](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-10-08)**
-> "...h in his coverage of the absurd things that we are being told about the Charlie Kirk (Charlie Kirk) assassination. Mina Barbie writes: "Hi Candace: my name is Mina. You have made such a positive impact on my life...."
+**[01:05:10](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-01-04-31)**
+> "of the absurd things that we are being told about the Charlie Kirk assassination. Mina Barbie writes: "Hi Candace: my name is Mina."
 
 </details>
 
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
-**[01:01:14](/episodes/ep-LATnak75Si0.md#t-01-00-48)**
+**[01:01:14](/episodes/ep-LATnak75Si0.md#t-01-01-09)**
 > "...of evil that should scare everyone because the implications are that if this was in fact a military assassination, then there is— I mean, forget talking about a deep state—we are talking about a kind of evil which..."
 
 </details>
@@ -668,14 +712,14 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3 mentions)</summary>
 
-**[00:01:59](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-01-25)**
-> "...e something that flagged in the back of my mind as odd in the aftermath of Charlie (Charlie Kirk)'s assassination. One of these things that might seem small, but it's always the small details that help to paint th..."
+**[00:01:56](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-01-25)**
+> "I don't care who has to laugh at me about it. And there was this little something that flagged in the back of my mind as odd in the aftermath of Charlie Kirk's assassination."
 
-**[00:08:36](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-08-19)**
-> "...e sentiment that we received from our Turning Point USA insiders following Charlie (Charlie Kirk)'s assassination—that the, you know, supercalifragilisticexpialidocious Mikey McCoy appeared to have like an extra s..."
+**[00:08:29](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-08-16)**
+> "I think Mikey was promised or told or encouraged that he would become the new Charlie Kirk. And it is a fact that that was the number one sentiment that we received from our Turning Point USA insiders following Charlie Kirk's assassination—that the, you know, supercalifragilisticexpialidocious Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath, and that he seemed all too happy to assume Charlie Kirk's position."
 
-**[00:20:26](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-20-26)**
-> "...min Netanyahu (Bibi Netanyahu) doing propaganda rounds, denying that he had anything to do with the assassination of Charlie (Charlie Kirk)—perfectly normal thing to do, right? Perfectly normal. For some reason, I..."
+**[00:20:23](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-20-23)**
+> "They've just been lying nonstop quickly, right? Right out the gate, Benjamin Netanyahu doing propaganda rounds, denying that he had anything to do with the assassination of Charlie Kirk—perfectly normal thing to do, right?"
 
 </details>
 
@@ -722,19 +766,19 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
 
-**[00:00:13](/episodes/ep-iHav0PPzUz8.md#t-00-00-00)**
+**[00:00:08](/episodes/ep-iHav0PPzUz8.md#t-00-00-00)**
 > "Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination."
 
-**[00:06:59](/episodes/ep-iHav0PPzUz8.md#t-00-06-25)**
+**[00:06:59](/episodes/ep-iHav0PPzUz8.md#t-00-06-23)**
 > "...at flight manifest. In theory, it's not really our business, but of course, given this high-profile assassination, it feels like everything should be our business. Anyways, here's what he said specifically. I'm go..."
 
-**[00:12:21](/episodes/ep-iHav0PPzUz8.md#t-00-11-49)**
+**[00:12:21](/episodes/ep-iHav0PPzUz8.md#t-00-11-47)**
 > "... that you make, they're hiding something. So I reported that on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously..."
 
 **[00:12:38](/episodes/ep-iHav0PPzUz8.md#t-00-12-29)**
 > "...past year. And both times it was in the lead-up—in the weeks leading up to Charlie (Charlie Kirk)'s assassination. Okay, here is that plane. The tail number you can see here is SUBTT. And this is a screenshot agai..."
 
-**[00:23:42](/episodes/ep-iHav0PPzUz8.md#t-00-23-06)**
+**[00:23:40](/episodes/ep-iHav0PPzUz8.md#t-00-23-20)**
 > "...ddle East. So I'm thinking there might've been some foreign involvement in Charlie (Charlie Kirk)'s assassination. Anyways, you guys, we are going to take a break and then put you through a Seth Dillon-level strug..."
 
 </details>
@@ -762,20 +806,20 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (5 mentions)</summary>
 
-**[00:02:02](/episodes/ep-2Riv3I7D0Yk.md#t-00-01-27)**
+**[00:01:55](/episodes/ep-2Riv3I7D0Yk.md#t-00-01-27)**
 > "... their own bombs. And that's exactly what is happening right now to Josh Hammer for weeks after the assassination of Charlie (Charlie Kirk). Josh Hammer obsessively and shamelessly accused people of lying, people ..."
 
 **[00:08:05](/episodes/ep-2Riv3I7D0Yk.md#t-00-07-35)**
 > "...of course, would like people to believe that Josh's quote-tweet is suspicious in the context of the assassination of Charlie (Charlie Kirk). But Josh was just sharing what many conservatives were sharing and stati..."
 
-**[00:10:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26)**
+**[00:10:45](/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26)**
 > "...'s tweets. And it gets pretty interesting on September 9th, the day before Charlie (Charlie Kirk)'s assassination. This is what Josh Hammer tweeted. He tweeted a total of nine times on September 9th, and you can g..."
 
 **[00:21:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29)**
-> "...book. (Clip of Josh Hammer:) "We actually did speak for the last time less than 24 hours before the assassination happened. We had a Zoom call: a friend of mine, him, a couple of his producers. It was a small call..."
+> ""We actually did speak for the last time less than 24 hours before the assassination happened. We had a Zoom call: a friend of mine, him, a couple of his producers."
 
 **[00:29:05](/episodes/ep-2Riv3I7D0Yk.md#t-00-29-05)**
-> "...:) "The wild conspiracy theories on social media claiming that Israel and the Mossad are behind the assassination of Charlie (Charlie Kirk) because he was turning on Israel. Now, you spoke to him just hours before..."
+> ""The wild conspiracy theories on social media claiming that Israel and the Mossad are behind the assassination of Charlie (Charlie Kirk) because he was turning on Israel."
 
 </details>
 
@@ -840,13 +884,13 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 **[00:00:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-00)**
 > "And I think that Charlie (Charlie Kirk)'s assassination, while of course it was a tragedy, has also worked to awaken the world to a deeper evil, something more sinister that sits below."
 
-**[00:13:32](/episodes/ep-t1YtLS1n8Vs.md#t-00-13-12)**
+**[00:13:32](/episodes/ep-t1YtLS1n8Vs.md#t-00-13-04)**
 > "...nnecticut bureau down to UVU after Charlie (Charlie Kirk) was assassinated. To help investigate the assassination. Okay, let's just look that up again. They decided to go upwards on the East Coast and to send the ..."
 
-**[00:27:40](/episodes/ep-t1YtLS1n8Vs.md#t-00-27-37)**
+**[00:27:40](/episodes/ep-t1YtLS1n8Vs.md#t-00-27-11)**
 > "We are right now living through the JFK assassination."
 
-**[00:27:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-27-37)**
+**[00:27:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-27-11)**
 > "...re for that. I wasn't there for that. But we wondered; we knew we're still being lied to about that assassination. And I just wondered like AJ did, aloud yesterday, did all of the homies of JFK just try to cover i..."
 
 </details>
@@ -854,10 +898,10 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (5 mentions)</summary>
 
-**[00:02:54](/episodes/ep-adJ4LNGp84I.md#t-00-02-54)**
+**[00:02:54](/episodes/ep-adJ4LNGp84I.md#t-00-02-36)**
 > "... it was globally traumatizing to everybody. I think everybody was moved by Charlie (Charlie Kirk)'s assassination. The people that held that space were willing to oblige it. So that tracks with me. That seems accu..."
 
-**[00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)**
+**[00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-13)**
 > "a long tenure in DC, Robert Bohls. His first case is Charlie (Charlie Kirk)'s assassination."
 
 **[00:26:44](/episodes/ep-adJ4LNGp84I.md#t-00-26-38)**
@@ -911,11 +955,11 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:09:36](/episodes/ep-K5GjF53bfN4.md#t-00-09-14)**
+**[00:09:35](/episodes/ep-K5GjF53bfN4.md#t-00-09-14)**
 > "... see this footage of someone quickly remove the SD cards that you guys had something to do with the assassination of Charlie (Charlie Kirk), and you quite literally have footage that in theory should vindicate you..."
 
-**[00:39:55](/episodes/ep-K5GjF53bfN4.md#t-00-39-27)**
-> "...nz). I obviously didn't watch what everybody else was saying about Charlie (Charlie Kirk) after his assassination because I was absolutely wrecked. It was a very tough week for me and I felt, I didn't even feel mo..."
+**[00:39:55](/episodes/ep-K5GjF53bfN4.md#t-00-39-18)**
+> "I obviously didn't watch what everybody else was saying about Charlie (Charlie Kirk) after his assassination because I was absolutely wrecked."
 
 </details>
 
@@ -946,56 +990,56 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > "...the original videos that were going viral on social media on 9/10, all the videos pertaining to the assassination, the people that were providing testimony as to what happened. And immediately we started to notice..."
 
 **[00:07:53](/episodes/ep-UBkFkg4UNY8.md#t-00-07-53)**
-> "...rm and clarify two things. Again, not because I think her or her nieces had anything to do with the assassination, but because they were eyewitnesses. And I first and foremost wanted to know why Good Morning Ameri..."
+> "Again, not because I think her or her nieces had anything to do with the assassination, but because they were eyewitnesses."
 
 **[00:53:48](/episodes/ep-UBkFkg4UNY8.md#t-00-53-48)**
-> "...se. His public views on the genocide and Netanyahu, however, are the things that changed before his assassination." Yeah, I never accepted the Fed slop. That's what I call it—just Fed slop. The whole message is, l..."
+> "His public views on the genocide and Netanyahu (Benjamin Netanyahu), however, are the things that changed before his assassination."
 
 </details>
 
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (6 mentions)</summary>
 
-**[00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13)**
-> "...ector of the FBI, I am committed to ensuring the investigation into Charlie Kirk's (Charlie Kirk's) assassination is thorough and exhaustive, pursuing every lead to its conclusion. The full weight of America's law..."
-
-**[00:15:34](/episodes/ep-ja26iltROkM.md#t-00-15-13)**
+**[00:15:34](/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44)**
 > "...t has emerged, but our efforts extend beyond initial findings. We are examining every facet of this assassination. We are meticulously investigating theories and questions, including the location from where the sh..."
 
-**[00:15:54](/episodes/ep-ja26iltROkM.md#t-00-15-54)**
+**[00:15:54](/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44)**
 > "...sported, hand gestures observed as potential signals near Charlie (Charlie Kirk) at the time of his assassination, and visitors to the alleged shooter's residence in the hours and the days leading up to September ..."
 
-**[00:16:26](/episodes/ep-ja26iltROkM.md#t-00-16-26)**
+**[00:16:26](/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44)**
 > "... about the plane that allegedly turned off its transponder after departing from an airport near the assassination site. We can share updates when answers are confirmed. After interviews with the pilot, in consulta..."
 
-**[00:16:56](/episodes/ep-ja26iltROkM.md#t-00-16-26)**
-> "...rlie Kirk (Charlie Kirk). We will not rest until justice is served, and our investigation into this assassination will continue until every question is answered." Okay, so first thing that I can very quickly debun..."
+**[00:15:13](/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44)**
+> ""Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion."
 
-**[00:48:44](/episodes/ep-ja26iltROkM.md#t-00-48-44)**
-> "...o Jesus—also the children that spoke yesterday." She is referring to the children who witnessed the assassination of Charlie Kirk (Charlie Kirk) and spoke out about that on the news the next morning on Good Morning America. "Also..."
+**[00:16:56](/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44)**
+> "We will not rest until justice is served, and our investigation into this assassination will continue until every question is answered.""
+
+**[00:48:44](/episodes/ep-ja26iltROkM.md#ent-event-charlie-kirk-assassination-t-00-48-44)**
+> "She is referring to the children who witnessed the assassination of Charlie Kirk and spoke out about that on the news the next morning on Good Morning America."
 
 </details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
 
-**[00:03:59](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12)**
+**[00:03:54](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37)**
 > "...m, and he is also the individual, as many of you pointed out, that was near Charlie just before the assassination. But let's check out that footage of him in the immediate aftermath, kind of switching around the c..."
 
-**[00:14:03](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12)**
+**[00:13:59](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37)**
 > "...received that is pretty interesting because look, as you guys know, when I began investigating this assassination, at no point did I ever speculate that any other country was involved and never speculated that Isr..."
 
-**[00:33:22](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12)**
+**[00:33:22](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37)**
 > "...s message is from May. We can pull that back up, right? Charlie sent me his tweet because after the assassination of Sarah Milgram and Yaron Lechinsky in D.C., people were calling for like hate speech laws, and Ch..."
 
-**[00:34:46](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12)**
+**[00:34:37](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37)**
 > "...And the strangest thing is that Pam Bondi, who is a complete loser and a tool, is trying to use the assassination of Charlie Kirk to lay the groundwork for hate speech laws in America. The very thing that Charlie was fighting aga..."
 
-**[00:36:12](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12)**
+**[00:36:12](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37)**
 > "...they're doing it in the most disturbing way ever—by going after Charlie Kirk's legacy and using his assassination to say, oh, well, now we've got to get hate speech done—which, by the way, who was the person—what ..."
 
-**[00:39:06](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12)**
-> "...mel because he has been pulled off air indefinitely over his comments in the aftermath of Charlie's assassination. So let's take a listen to what Jimmy Kimmel said on his show. "We hit some new lows over the weeke..."
+**[00:39:06](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-37)**
+> "And speaking of free speech, I want to speak about Jimmy Kimmel because he has been pulled off air indefinitely over his comments in the aftermath of Charlie's assassination."
 
 </details>
 
@@ -1003,38 +1047,38 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (9 mentions)</summary>
 
 **[00:10:43](/episodes/ep-sreYYcID-QY.md#t-00-10-23)**
-> "...on the doorbell cam footage, right? Because that mysteriously made its way to TMZ the morning after Charlie Kirk's assassination. Can we actually... what time did that footage make its way? Just so I can take a look. I'm gonna g..."
+> "Because that mysteriously made its way to TMZ the morning after Charlie (Charlie Kirk)'s assassination."
 
 **[00:12:10](/episodes/ep-sreYYcID-QY.md#t-00-11-44)**
-> "...ays a good question—when you sense that something is wrong, as I very much sense right now with the Charlie Kirk assassination—to go back and reflect on who opened up to the press with information. Look, if you've been a longt..."
+> "So it's always a good question—when you sense that something is wrong, as I very much sense right now with the Charlie (Charlie Kirk) assassination—to go back and reflect on who opened up to the press with information."
 
 **[00:14:25](/episodes/ep-sreYYcID-QY.md#t-00-14-12)**
-> "...ce the height of the footage in general. Secondly, like I said, this clip is from the morning after Charlie Kirk's assassination. So TMZ had already publicized that footage. And so that strikes me as a little odd. That would sti..."
+> "Secondly, like I said, this clip is from the morning after Charlie (Charlie Kirk)'s assassination."
 
 **[00:19:47](/episodes/ep-sreYYcID-QY.md#t-00-19-38)**
-> "... Orem. Here is what these particular Steeles told Good Morning America in the early hours following Charlie Kirk's assassination, like the next day. Take a listen. We're joined now by Tiffany Barker and our nieces Elle Steele an..."
+> "Here is what these particular Steeles told Good Morning America in the early hours following Charlie (Charlie Kirk)'s assassination, like the next day."
 
 **[00:25:18](/episodes/ep-sreYYcID-QY.md#t-00-25-18)**
-> "...e university itself, and that that is where they believe that the true shooter ran to following the assassination of Charlie Kirk. They think—and again, they're floating a theory here—that Tyler Robinson was instructed to merely ..."
+> "but this is what they are saying—is that they're not being honest about the fact that the house right next door to where the gun was found is a mysteriously vacant home that is owned by the university itself, and that that is where they believe that the true shooter ran to following the assassination of Charlie (Charlie Kirk)."
 
 **[00:43:02](/episodes/ep-sreYYcID-QY.md#t-00-42-55)**
 > "...that said, “I want my name off of the building at Turning Point,” in the 48 hours leading up to his assassination—the couple of days leading up to the assassination. They were squeezing him, trying to control who ..."
 
 **[00:47:11](/episodes/ep-sreYYcID-QY.md#t-00-46-31)**
-> "...like, we're just gonna all howl at Candace (Candace Owens) to try to distract her from looking into Charlie Kirk's murder and assassination. But it's focusing me more because this is not normal. Like, the amount of lying ..."
+> "So I don't know what this is—just like, we're just gonna all howl at Candace (Candace Owens) to try to distract her from looking into Charlie (Charlie Kirk)'s murder and assassination. But it's focusing me more because this is not normal."
 
 **[00:54:44](/episodes/ep-sreYYcID-QY.md#t-00-54-20)**
-> "... open.” It feels that way right now. I really do. I believe that the devil overplayed his hand. The Charlie Kirk assassination—whatever it is, whatever truth we come to—it's going to explode, and there's going to be so many re..."
+> "The Charlie (Charlie Kirk) assassination—whatever it is, whatever truth we come to—it's going to explode, and there's going to be so many revelations about how this world really works."
 
 **[00:56:12](/episodes/ep-sreYYcID-QY.md#t-00-55-46)**
-> "...Surley writes, "God bless you and keep up the search for truth." Martin, did you see the book about Charlie Kirk's assassination on Amazon that was available the day before it happened? Praying for you and your family's safety. ..."
+> "Martin, did you see the book about Charlie (Charlie Kirk)'s assassination on Amazon that was available the day before it happened?"
 
 </details>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
-**[00:42:59](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35)**
+**[00:42:47](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35)**
 > "...poke about what Charlie (Charlie Kirk) was going through because he saw him very shortly before his assassination. And he intimates to everybody what it was exactly that was on Charlie (Charlie Kirk)'s mind and wh..."
 
 </details>
@@ -1043,16 +1087,16 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (4 mentions)</summary>
 
 **[00:24:03](/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02)**
-> "...l of this mean that Benjamin Netanyahu and that this somehow proves that Israel was involved in the assassination of Charlie (Charlie Kirk)? No, we have no evidence of that. We can't say that because there is no e..."
+> "Now, does all of this mean that Benjamin Netanyahu and that this somehow proves that Israel was involved in the assassination of Charlie?"
 
 **[00:26:16](/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02)**
-> "...Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie (Charlie Kirk)’s assassination. It's not a good sign if somebody even has to ask if you did have anything to do with the assassina..."
+> "And it's not a good sign when somebody has to ask you, as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie’s assassination."
 
 **[00:26:27](/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02)**
-> "...ssination. It's not a good sign if somebody even has to ask if you did have anything to do with the assassination. It doesn't make you a great person, okay? And that's what she asked him. Take a listen. (Clip: Gre..."
+> "It's not a good sign if somebody even has to ask if you did have anything to do with the assassination."
 
 **[00:36:02](/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02)**
-> "...mo code Candace (Candace Owens). Okay. Let's get into what we know about the Charlie (Charlie Kirk) assassination thus far in terms of what the authorities are telling us. First, I just want to toss it to Michael ..."
+> "Let's get into what we know about the Charlie assassination thus far in terms of what the authorities are telling us."
 
 </details>
 
@@ -1074,7 +1118,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:17](/episodes/ep-ja26iltROkM.md#t-00-02-10): “They should watch Tucker Carlson's speech”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:14](/episodes/ep-ja26iltROkM.md#t-00-02-10): “They should watch Tucker Carlson's (Tucker Carlson) speech.”
 
 </details>
 
@@ -1100,12 +1144,31 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Investigated By (1)</summary>
+
+- **[FBI](/entities/org-fbi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:03:19](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47): “Obviously, he's very close to Charlie (Charlie Kirk) when his shooting happens.”
+
+</details>
+
+- **[FBI](/entities/org-fbi.md)** investigated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
 
 </details>
 
@@ -1119,7 +1182,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** spoke at this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:17](/episodes/ep-ja26iltROkM.md#t-00-02-10): “They should watch Tucker Carlson's speech”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:14](/episodes/ep-ja26iltROkM.md#t-00-02-10): “They should watch Tucker Carlson's (Tucker Carlson) speech.”
 
 </details>
 
@@ -1135,7 +1198,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (151)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (173)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>
@@ -1144,10 +1207,10 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
   - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:32:04](/episodes/ep-4JxgOclKzqg.md#t-00-32-04) (Claim) **John Kiriakou** (via quoted speech): ["Kiriakou said that because a kid from Utah allegedly shot Charlie Kirk..."](/statements/statement-c34029d141ff.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
 
 - [00:33:26](/episodes/ep-4JxgOclKzqg.md#t-00-33-14) (Accusation) **Candace Owens**: ["Owens said it was very strange that Kash Patel apparently shut down Jo..."](/statements/statement-b00f742e4138.md)
-  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Joe Kent](/entities/person-joe-kent.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Joe Kent](/entities/person-joe-kent.md), [FBI](/entities/org-fbi.md)
 
 - [00:34:32](/episodes/ep-4JxgOclKzqg.md#t-00-34-32) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of becoming increasingly vicious towar..."](/statements/statement-bb4432381ad8.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -1223,6 +1286,13 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:17:18](/episodes/ep-7ERqbYElOfs.md#t-00-17-15) (Claim) **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions..."](/statements/statement-fd9c3a9d04cf.md)
+
+</details>
+
+<details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
 
 - [00:35:28](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28) (Accusation) **Candace Owens**: ["Turning Point USA would not help the public investigate Charlie Kirk's..."](/statements/statement-d395be83c9bf.md)
@@ -1231,56 +1301,64 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (11)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
-- [00:04:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) (Claim) **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on the Losey Cent..."](/statements/statement-07a11f812a7d.md)
+- [00:45:41](/episodes/ep-w1oqQbR_bYs.md#t-00-45-12) (Accusation) **Candace Owens**: ["Owens said she was starting to think in a major way that Israel had so..."](/statements/statement-9eb64b2d9640.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:05:05](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The eyewitness claims the weapon he saw looked more like a .223, somet..."](/statements/statement-55e79a721200.md)
+</details>
 
-- [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The person observed on the rooftop was wearing black tactical gear plu..."](/statements/statement-971650dfc88f.md)
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (9)</summary>
 
-- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it w..."](/statements/statement-7a001609cde2.md)
+- [00:04:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-06) (Claim) **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on the Losey Cent..."](/statements/statement-07a11f812a7d.md)
+
+- [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-49) (Claim) **Candace Owens** (via paraphrase): ["The eyewitness described the rooftop person as wearing what seemed to ..."](/statements/statement-971650dfc88f.md)
+
+- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-49) (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it w..."](/statements/statement-7a001609cde2.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon rather than the c..."](/statements/statement-d6bc3e541f55.md)
+- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-31) (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon rather than the c..."](/statements/statement-d6bc3e541f55.md)
 
-- [00:06:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was..."](/statements/statement-45dd12dab038.md)
+- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-31) (Claim) **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was..."](/statements/statement-45dd12dab038.md)
 
-- [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
+- [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-55) (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["There were multiple sets of fingerprints on the weapon that was found,..."](/statements/statement-b7fe2b123ba2.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:53:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["Authorities at Fort Huachuca kept asking about the next 24 hours and w..."](/statements/statement-83f8b5f3882a.md)
+- [00:52:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) (Opinion) **Mitch Snow**: ["Authorities at Fort Huachuca repeatedly focused on the next 24 hours a..."](/statements/statement-83f8b5f3882a.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
-- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved ..."](/statements/statement-69914990950d.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [01:11:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) (Accusation) **Candace Owens**: ["I do believe that our government was involved in the Charlie Kirk assa..."](/statements/statement-27873a676737.md)
+- [01:11:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-23) (Accusation) **Candace Owens**: ["I do believe that our government was involved in the Charlie Kirk assa..."](/statements/statement-27873a676737.md)
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
 
-- [00:00:29](/episodes/ep-Kmt6HgRjckU.md#t-00-00-00) (Claim) **Candace Owens**: ["Kash Patel has been directly asked about French involvement in Charlie..."](/statements/statement-f29fac89127d.md)
+- [00:51:47](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47) (Accusation) **Candace Owens**: ["Owens said Kash Patel was not interested and that she struggled to bel..."](/statements/statement-5fbef31cf806.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [French intelligence](/entities/org-french-intelligence.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5)</summary>
+
+- [00:00:29](/episodes/ep-Kmt6HgRjckU.md#t-00-00-00) (Claim) **Candace Owens**: ["Owens said Kash Patel had been directly asked about potential French i..."](/statements/statement-f29fac89127d.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md)
 
-- [00:07:43](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) (Claim) **Megyn Kelly**: ["Candace Owens received a credible death threat from the French, and th..."](/statements/statement-0629fdc132de.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md)
+- [00:07:40](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly relayed Owens's allegation that she had received a credibl..."](/statements/statement-0629fdc132de.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 
-- [00:09:15](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Claim) **Candace Owens**: ["I had proof that the government of France was involved in Charlie Kirk..."](/statements/statement-d529dcc242c3.md)
+- [00:09:15](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Accusation) **Candace Owens**: ["Owens said she had proof that the government of France was involved in..."](/statements/statement-e726f9ee561e.md)
   - Also about: [France](/entities/gpe-france.md)
 
-- [00:09:15](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Accusation) **Candace Owens**: ["I have proof that the government of France was involved in Charlie Kir..."](/statements/statement-e726f9ee561e.md)
-  - Also about: [France](/entities/gpe-france.md)
+- [00:09:57](/episodes/ep-Kmt6HgRjckU.md#t-00-09-57) (Opinion) **Candace Owens**: ["Owens asserted that Kash Patel knew she was telling the truth about al..."](/statements/statement-183d0d63d3e0.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [France](/entities/gpe-france.md)
 
-- [00:20:32](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18) (Claim) **Candace Owens**: ["Charlie Kirk messaged Dan Flood the night before he died and explicitl..."](/statements/statement-b5378b994635.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
-
-- [00:35:11](/episodes/ep-Kmt6HgRjckU.md#t-00-35-04) (Accusation) **Candace Owens**: ["The deep state is involved in Charlie Kirk's assassination and multipl..."](/statements/statement-c8cb29812aa4.md)
+- [00:35:11](/episodes/ep-Kmt6HgRjckU.md#t-00-35-04) (Accusation) **Candace Owens**: ["Owens said she truly believed the deep state and multiple states were ..."](/statements/statement-c8cb29812aa4.md)
 
 </details>
 
@@ -1326,13 +1404,97 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (11)</summary>
 
-- [00:09:52](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23) (Opinion) **Candace Owens**: ["Candace doesn't believe Tyler Robinson was the lone person involved in..."](/statements/statement-c74b87f46747.md)
+- [00:09:31](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23) (Opinion) **Candace Owens**: ["Owens said she could never have forgiven Tyler Robinson for whatever p..."](/statements/statement-84f522080f3f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:12:38](/episodes/ep-vwG1juDCQZQ.md#t-00-12-18) (Claim) **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions..."](/statements/statement-fd9c3a9d04cf.md)
+- [00:09:43](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23) (Opinion) **Candace Owens**: ["Owens said she did not believe Tyler Robinson was the lone person invo..."](/statements/statement-c74b87f46747.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:14:07](/episodes/ep-vwG1juDCQZQ.md#t-00-13-30) (Claim) **Tyler Bowyer** (via quoted tweet): ["Tyler Bowyer claimed they have 4K footage of the Charlie Kirk assassin..."](/statements/statement-7d7ba3312e1a.md)
+- [00:12:36](/episodes/ep-vwG1juDCQZQ.md#t-00-12-18) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said she had seen Charlie Kirk's autopsy report and portion..."](/statements/statement-c6641c6dd90b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:30](/episodes/ep-vwG1juDCQZQ.md#t-00-13-30) (Claim) **Candace Owens** (via paraphrase): ["Owens paraphrased Erika Kirk as saying she had seen the autopsy report..."](/statements/statement-30ad6a99227a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:06](/episodes/ep-vwG1juDCQZQ.md#t-00-14-06) (Claim) **Tyler Bowyer** (via quoted tweet): ["Tyler Bowyer wrote in a tweet, "We have footage in 4K—all of the stuff..."](/statements/statement-7d7ba3312e1a.md)
+
+- [00:18:43](/episodes/ep-vwG1juDCQZQ.md#t-00-18-22) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she respected that people were trying to understand Ch..."](/statements/statement-dfc43e42e8d0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:29](/episodes/ep-vwG1juDCQZQ.md#t-00-20-17) (Accusation) **Candace Owens**: ["Owens accused federal investigators of not investigating Charlie Kirk'..."](/statements/statement-13f56109ca65.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:20](/episodes/ep-vwG1juDCQZQ.md#t-00-25-05) (Claim) **Colby Sessions (commenter; identity unverified)** (via quoted post): ["The commenter shown as Colby Sessions said he and a teammate were on t..."](/statements/statement-bf719d0ac036.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:41:14](/episodes/ep-vwG1juDCQZQ.md#t-00-40-48) (Opinion) **Candace Owens**: ["Owens said it was possible that someone used a contact or phone call t..."](/statements/statement-3554d5747194.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:51:21](/episodes/ep-vwG1juDCQZQ.md#t-00-51-06) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of engaging in a cover-up by lying, wh..."](/statements/statement-877adb7b126d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [01:03:05](/episodes/ep-vwG1juDCQZQ.md#t-01-02-28) (Prediction) **Candace Owens**: ["Owens predicted that Charlie Kirk's assassination would be solved and ..."](/statements/statement-bb907a1b8ca2.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (16)</summary>
+
+- [00:04:49](/episodes/ep-LATnak75Si0.md#t-00-04-30) (Accusation) **Candace Owens**: ["Candace Owens said the circumstances screamed and reeked to her of an ..."](/statements/statement-394e38fb6410.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:35](/episodes/ep-LATnak75Si0.md#t-00-05-09) (Accusation) **Candace Owens**: ["Candace Owens said it was becoming clearer that, somehow, at some laye..."](/statements/statement-16edaa3ebdfe.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:42](/episodes/ep-LATnak75Si0.md#t-00-06-26) (Accusation) **Candace Owens**: ["It looked to Candace Owens like the apparent plan was to assassinate C..."](/statements/statement-10e98b7cc902.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:39](/episodes/ep-LATnak75Si0.md#t-00-31-13) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was never rendered immediate first aid..."](/statements/statement-5cd7686cb9b0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:39](/episodes/ep-LATnak75Si0.md#t-00-31-13) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was never rendered immediate first aid..."](/statements/statement-01280192630c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:30](/episodes/ep-LATnak75Si0.md#t-00-32-30) (Claim) **Candace Owens**: ["Candace Owens said a security guard lifted Charlie Kirk and guided him..."](/statements/statement-6a70c2440a6d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:18](/episodes/ep-LATnak75Si0.md#t-00-38-18) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that within a minute of Charlie Kirk being shot, Micha..."](/statements/statement-327a414fb3e7.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:47](/episodes/ep-LATnak75Si0.md#t-00-38-18) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said Michael McCoy then called Rob McCoy, told him Charlie ..."](/statements/statement-0f0bba63920b.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:35](/episodes/ep-LATnak75Si0.md#t-00-39-35) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that after the group learned Charlie Kirk had died, Mi..."](/statements/statement-b84640e8b043.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:16](/episodes/ep-LATnak75Si0.md#t-00-39-52) (Accusation) **Candace Owens**: ["Candace Owens said Blake Neff might think he was telling the truth and..."](/statements/statement-33758382aa0e.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:42:25](/episodes/ep-LATnak75Si0.md#t-00-42-00) (Claim) **Candace Owens**: ["Candace Owens said Michael McCoy made three early phone calls, includi..."](/statements/statement-87a6a6ebcc99.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:42:48](/episodes/ep-LATnak75Si0.md#t-00-42-45) (Accusation) **Candace Owens**: ["Every day, it felt more to Candace Owens like Turning Point USA was en..."](/statements/statement-14ecc95c404d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:44:46](/episodes/ep-LATnak75Si0.md#t-00-44-45) (Accusation) **Candace Owens**: ["Turning Point USA is lying about the phone calls on the day Charlie Ki..."](/statements/statement-d7015a166221.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:00:37](/episodes/ep-LATnak75Si0.md#t-01-00-28) (Accusation) **Candace Owens**: ["Candace Owens said everything visible from the day of Charlie Kirk's a..."](/statements/statement-a876ddb288c9.md)
+
+- [01:01:14](/episodes/ep-LATnak75Si0.md#t-01-01-09) (Accusation) **Candace Owens**: ["Candace Owens said that if Charlie Kirk's assassination was in fact mi..."](/statements/statement-a1dab47509ce.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md)
+
+- [01:02:51](/episodes/ep-LATnak75Si0.md#t-01-02-35) (Promise) **Candace Owens**: ["Candace Owens said she would not vote until Charlie Kirk's assassinati..."](/statements/statement-2f0aece967a3.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
+
+- [00:30:41](/episodes/ep-K1tFD7FfoCU.md#t-00-30-22) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk called for cameras in the courtroom and transparency, sayin..."](/statements/statement-be60317bc174.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -1342,28 +1504,28 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 - [00:00:13](/episodes/ep-iHav0PPzUz8.md#t-00-00-00) (Claim) **Candace Owens**: ["Egyptian military men were on the ground on September 10th in Utah, on..."](/statements/statement-e0ba21dd6b27.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) (Claim) **Candace Owens**: ["N1098L departed Biggs Army Airfield at a stated 6:13 a.m. and made a l..."](/statements/statement-918543babcb5.md)
+- [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-17) (Claim) **Candace Owens**: ["N1098L departed Biggs Army Airfield at a stated 6:13 a.m. and made a l..."](/statements/statement-918543babcb5.md)
   - Also about: [N1098L](/entities/vehicle-n1098l.md), [Biggs Army Airfield](/entities/org-biggs-army-airfield.md), [Provo Airport](/entities/org-provo-airport.md)
 
-- [00:03:38](/episodes/ep-iHav0PPzUz8.md#t-00-03-31) (Claim) **Candace Owens**: ["The plane dipped to just over 300 feet over the Provo Airport runway a..."](/statements/statement-53ebccd3d2aa.md)
+- [00:03:38](/episodes/ep-iHav0PPzUz8.md#t-00-03-11) (Claim) **Candace Owens**: ["The plane dipped to just over 300 feet over the Provo Airport runway a..."](/statements/statement-53ebccd3d2aa.md)
 
-- [00:04:12](/episodes/ep-iHav0PPzUz8.md#t-00-04-12) (Claim) **Candace Owens**: ["N1098L is registered to LASAI Aviation II LLC."](/statements/statement-b811378e0728.md)
+- [00:04:12](/episodes/ep-iHav0PPzUz8.md#t-00-03-53) (Claim) **Candace Owens**: ["N1098L is registered to LASAI Aviation II LLC."](/statements/statement-b811378e0728.md)
   - Also about: [LASAI Aviation II LLC](/entities/org-lasai-aviation-ii-llc.md), [N1098L](/entities/vehicle-n1098l.md)
 
-- [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-40) (Claim) **Candace Owens**: ["The Baugh-Maxfield plane (N888KG) departed from Provo, Utah at 1:20 p...."](/statements/statement-5649171aaf18.md)
+- [00:05:46](/episodes/ep-iHav0PPzUz8.md#t-00-05-42) (Claim) **Candace Owens**: ["The Baugh-Maxfield plane (N888KG) departed from Provo, Utah at 1:20 p...."](/statements/statement-5649171aaf18.md)
 
-- [00:10:11](/episodes/ep-iHav0PPzUz8.md#t-00-09-53) (Accusation) **Candace Owens**: ["Airport personnel had been instructed to lie about the Maxfield flight"](/statements/statement-dff8fd2d09a7.md)
+- [00:10:11](/episodes/ep-iHav0PPzUz8.md#t-00-09-50) (Accusation) **Candace Owens**: ["Airport personnel had been instructed to lie about the Maxfield flight"](/statements/statement-dff8fd2d09a7.md)
 
-- [00:20:09](/episodes/ep-iHav0PPzUz8.md#t-00-19-42) (Claim) **Candace Owens**: ["The anonymous source never said the secret mission was related to Char..."](/statements/statement-e16e265513a1.md)
+- [00:20:09](/episodes/ep-iHav0PPzUz8.md#t-00-20-00) (Claim) **Candace Owens**: ["The anonymous source never said the secret mission was related to Char..."](/statements/statement-e16e265513a1.md)
 
-- [00:23:40](/episodes/ep-iHav0PPzUz8.md#t-00-23-06) (Opinion) **Candace Owens**: ["There may have been foreign involvement in Charlie Kirk's assassinatio..."](/statements/statement-378abeb10049.md)
+- [00:23:40](/episodes/ep-iHav0PPzUz8.md#t-00-23-20) (Opinion) **Candace Owens**: ["There may have been foreign involvement in Charlie Kirk's assassinatio..."](/statements/statement-378abeb10049.md)
 
 </details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:31:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29) (Accusation) **Candace Owens**: ["Military-grade actors were present when Charlie Kirk got shot"](/statements/statement-f59c4e4811ab.md)
+- [00:31:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-30-46) (Accusation) **Candace Owens**: ["Owens said she thinks some military-grade actors were present when Cha..."](/statements/statement-f59c4e4811ab.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -1377,28 +1539,44 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (10)</summary>
 
-- [00:04:41](/episodes/ep-pc3pxRyNFZk.md#t-00-04-14) (Claim) **Candace Owens**: ["Owens reported that Kirk was shot from the front, that the projectile ..."](/statements/statement-fed281d00fc2.md)
+- [00:04:41](/episodes/ep-pc3pxRyNFZk.md#t-00-04-35) (Claim) **Candace Owens**: ["Owens reported that Kirk was shot from the front, that the projectile ..."](/statements/statement-fed281d00fc2.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-</details>
+- [00:09:53](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53) (Claim) **Candace Owens**: ["Owens said the man shown pushing the eyewitness was not Andrew Kolvet ..."](/statements/statement-22e427da7979.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-<details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
+- [00:17:57](/episodes/ep-pc3pxRyNFZk.md#t-00-17-57) (Claim) **Candace Owens**: ["Owens asserted that the audible rifle did not hit Kirk and that the fa..."](/statements/statement-5a868cb3bfb5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:06:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) (Claim) **Candace Owens**: ["Josh Hammer retweeted a 2013 Donald Trump tweet saying 'Should be publ..."](/statements/statement-b31e58c6f471.md)
-  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:20:09](/episodes/ep-pc3pxRyNFZk.md#t-00-19-41) (Opinion) **Candace Owens**: ["Owens said it was her well-informed opinion that a rifle was likely fi..."](/statements/statement-4f591bc50d4c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:02](/episodes/ep-pc3pxRyNFZk.md#t-00-20-25) (Accusation) **Candace Owens**: ["Owens accused Tyler Bowyer of lying that the person who removed camera..."](/statements/statement-22fe751c1fba.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:23:21](/episodes/ep-pc3pxRyNFZk.md#t-00-23-21) (Opinion) **Jason Chaffetz** (via quoted speech): ["Chaffetz said that, if he had to guess while events were still raw, th..."](/statements/statement-a5a18c781b28.md)
+
+- [00:24:57](/episodes/ep-pc3pxRyNFZk.md#t-00-24-57) (Accusation) **Candace Owens**: ["Owens said she thought she had accidentally disrupted a federal narrat..."](/statements/statement-ec6f9b1a7830.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:54](/episodes/ep-pc3pxRyNFZk.md#t-00-26-23) (Accusation) **Nick (on-the-ground assistant; surname unverified)** (via quoted speech): ["Nick said he felt federal agents were trying to implant a one-shot mem..."](/statements/statement-c5e896aec56e.md)
+
+- [00:37:28](/episodes/ep-pc3pxRyNFZk.md#t-00-37-01) (Accusation) **Candace Owens**: ["Owens said N1098L flew from Texas over Utah around the time of Kirk’s ..."](/statements/statement-22c29913a733.md)
+  - Also about: [N1098L](/entities/vehicle-n1098l.md)
+
+- [00:38:11](/episodes/ep-pc3pxRyNFZk.md#t-00-37-39) (Accusation) **Candace Owens**: ["Owens asserted that Kirk's assassination was a military operation."](/statements/statement-a58c8e67a381.md)
 
 </details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4)</summary>
 
-- [00:00:52](/episodes/ep-adJ4LNGp84I.md#t-00-00-36) (Claim) **Candace Owens**: ["A woman was with Charlie Kirk's shooter in doorbell camera footage cap..."](/statements/statement-2b690862fa3b.md)
+- [00:00:52](/episodes/ep-adJ4LNGp84I.md#t-00-00-24) (Claim) **Candace Owens**: ["A woman was with Charlie Kirk's shooter in doorbell camera footage cap..."](/statements/statement-2b690862fa3b.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:01:00](/episodes/ep-adJ4LNGp84I.md#t-00-00-36) (Claim) **Candace Owens**: ["The FBI did not release or acknowledge the existence of footage showin..."](/statements/statement-b368291101c1.md)
+- [00:01:00](/episodes/ep-adJ4LNGp84I.md#t-00-00-24) (Claim) **Candace Owens**: ["The FBI did not release or acknowledge the existence of footage showin..."](/statements/statement-b368291101c1.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
 - [00:13:21](/episodes/ep-adJ4LNGp84I.md#t-00-13-19) (Claim) **Candace Owens**: ["TMZ had doorbell cam footage on the morning of September 11th"](/statements/statement-7a53712c1938.md)
@@ -1413,6 +1591,27 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
 
 - [00:13:18](/episodes/ep-YA1FxrDWNIo.md#t-00-12-58) (Accusation) **Phil Lyman** (via quoted speech): ["I do not believe that that .30-06 that they showed—recovered in the bu..."](/statements/statement-e534f0dd98ed.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (6)</summary>
+
+- [00:09:04](/episodes/ep-K5GjF53bfN4.md#t-00-08-44) (Claim) **Candace Owens**: ["Owens said Turning Point USA would not release its footage of Charlie ..."](/statements/statement-a88064bb3306.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:12:06](/episodes/ep-K5GjF53bfN4.md#t-00-11-57) (Accusation) **Candace Owens**: ["Owens said her instinct was that federal authorities injected themselv..."](/statements/statement-8e6889988b47.md)
+
+- [00:28:04](/episodes/ep-K5GjF53bfN4.md#t-00-27-30) (Claim) **Range Day Bro**: ["Range Day Bro said footage clearly showed Charlie Kirk being shot from..."](/statements/statement-7f2fa70cf3c4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:05](/episodes/ep-K5GjF53bfN4.md#t-00-28-05) (Claim) **Candace Owens**: ["Owens said the apparent blood splatter in the footage was actually Cha..."](/statements/statement-9bfd27ce5330.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:30:21](/episodes/ep-K5GjF53bfN4.md#t-00-30-00) (Opinion) **Range Day Bro**: ["Range Day Bro said a blurry image looked like a person holding a rifle..."](/statements/statement-837f9a7be46a.md)
+
+- [00:38:07](/episodes/ep-K5GjF53bfN4.md#t-00-37-58) (Opinion) **Candace Owens**: ["Owens said critics were treating her as guilty for investigating Charl..."](/statements/statement-171200301d35.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -1463,7 +1662,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 - [00:08:02](/episodes/ep-QZWSsq8ZWzw.md#t-00-07-30) (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)** (via read message): ["There is more than one set of fingerprints on the gun used in the Char..."](/statements/statement-3a395df3b33d.md)
 
-- [00:08:22](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-06) (Claim) **Candace Owens**: ["Tyler Robinson was told to walk and drop off his gun at a neighboring ..."](/statements/statement-5b063640521b.md)
+- [00:08:22](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-06) (Claim) **Candace Owens**: ["Candace Owens said people on the ground believed Tyler Robinson had be..."](/statements/statement-5b063640521b.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:10:58](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16) (Claim) **Candace Owens**: ["I had an overwhelming feeling 10 days before Charlie Kirk got assassin..."](/statements/statement-75266006792f.md)
@@ -1493,9 +1692,71 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (3)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (22)</summary>
 
-- [00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38) (Claim) **Kash Patel** (via quoted tweet): ["Kash Patel stated the FBI is meticulously investigating theories inclu..."](/statements/statement-59864f87ad68.md)
+- [00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) (Claim) **Candace Owens**: ["A lot of the eyewitnesses and people sharing videos weren't random UVU..."](/statements/statement-dd94fb9aba56.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) (Claim) **Candace Owens**: ["The viral videos about the assassination on 9/10 were shared by people..."](/statements/statement-66ede0f4ebd3.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:32](/episodes/ep-UBkFkg4UNY8.md#t-00-03-27) (Claim) **Tiffany Peterson Barker** (via quoted speech): ["Tiffany Barker said one shot rang out and people saw Charlie Kirk shot..."](/statements/statement-2f01e3731bce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:24](/episodes/ep-UBkFkg4UNY8.md#t-00-16-01) (Claim) **Candace Owens**: ["Owens said a man wearing a WireFi shirt approached after the shot and ..."](/statements/statement-ab42ac0bd47b.md)
+  - Also about: [WireFi](/entities/org-wirefi.md)
+
+- [00:17:02](/episodes/ep-UBkFkg4UNY8.md#t-00-16-38) (Claim) **Candace Owens**: ["Owens inferred from WireFi branding at the event and a source's accoun..."](/statements/statement-058a61f068de.md)
+  - Also about: [WireFi](/entities/org-wirefi.md)
+
+- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the shooter reached the roof no earlier ..."](/statements/statement-e5d368cc96d8.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Opinion) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["The eyewitness told Owens that the FBI's reported 12:15 roof-arrival t..."](/statements/statement-a62780c5890e.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:23:04](/episodes/ep-UBkFkg4UNY8.md#t-00-22-39) (Claim) **Candace Owens**: ["Owens said the video metadata began at 12:22 and continued into 12:23,..."](/statements/statement-536908955ab5.md)
+
+- [00:23:23](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["The eyewitness told Owens that the shooter description he reported dif..."](/statements/statement-8acfe8fbba49.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:23:31](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the shooter wore tactical gear and a fac..."](/statements/statement-826e27868c00.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:23:47](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Opinion) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the shooter looked to him like a foreign..."](/statements/statement-09eff96da597.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:23:54](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Opinion) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["The eyewitness told Owens he was very certain the shooter was skilled,..."](/statements/statement-973c2024303b.md)
+
+- [00:24:16](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that after George Zinn was arrested, he told ..."](/statements/statement-c30f477ea3a9.md)
+  - Also about: [George Zinn](/entities/person-george-zinn.md)
+
+- [00:24:25](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Opinion) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["The eyewitness told Owens the shooter was obviously young because he w..."](/statements/statement-df82daead25e.md)
+
+- [00:24:37](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the gun found by the FBI was not the gun..."](/statements/statement-fc87a34e3d20.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:07](/episodes/ep-UBkFkg4UNY8.md#t-00-24-44) (Opinion) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via read message): ["An eyewitness speculated that the shooter may have used a shorter rifl..."](/statements/statement-a324d115ce60.md)
+
+- [00:58:31](/episodes/ep-UBkFkg4UNY8.md#t-00-58-02) (Citation) **Candace Owens**: ["Owens said she heard a police-scanner call after Charlie Kirk was shot..."](/statements/statement-039e524672a1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:58:33](/episodes/ep-UBkFkg4UNY8.md#t-00-58-02) (Citation) **Candace Owens**: ["Owens affirmed that she had personally heard the police-scanner call d..."](/statements/statement-c9b01b91cb0a.md)
+
+- [00:58:33](/episodes/ep-UBkFkg4UNY8.md#t-00-58-02) (Accusation) **Candace Owens**: ["Owens asked why the public never heard the police-scanner suspect desc..."](/statements/statement-42d67635fdb7.md)
+
+- [00:58:33](/episodes/ep-UBkFkg4UNY8.md#t-00-58-02) (Claim) **Candace Owens**: ["Owens said the police scanner was privatized after 3,000 people tuned ..."](/statements/statement-01c0af8c8e86.md)
+
+- [00:59:11](/episodes/ep-UBkFkg4UNY8.md#t-00-58-45) (Accusation) **Candace Owens**: ["Owens maintained that Tyler Robinson was only one piece of Charlie Kir..."](/statements/statement-ef2a0a91f8e7.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:59:13](/episodes/ep-UBkFkg4UNY8.md#t-00-58-45) (Opinion) **Candace Owens** (via paraphrase): ["Owens said she interpreted Kash Patel's long message as signaling that..."](/statements/statement-00a8348f97dd.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2)</summary>
 
 - [00:15:36](/episodes/ep-ja26iltROkM.md#t-00-15-13) (Claim) **Kash Patel** (via quoted tweet): ["FBI investigating theories including: location of shot, possibility of..."](/statements/statement-a0c999d1aae6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1505,151 +1766,60 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (14)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (5)</summary>
 
 - [00:00:07](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) (Claim) **Candace Owens**: ["Two men appeared mere minutes after Charlie Kirk was shot, moved his c..."](/statements/statement-35b5db0a6a50.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:00:14](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) (Claim) **Candace Owens**: ["Two men moved Charlie Kirk's chair and took down the camera directly b..."](/statements/statement-1ec3c7f3b8d8.md)
-
 - [00:00:23](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) (Claim) **Candace Owens**: ["I was able to establish a connection with one of those individuals and..."](/statements/statement-eeba8af5c1f8.md)
 
-- [00:07:19](/episodes/ep-aDlhjfW6hz8.md#t-00-07-14) (Claim) **Anonymous Source #1 (Ep aDlhjfW6hz8)**: ["I was sitting right to the left of Charlie when Charlie got shot and I..."](/statements/statement-8235c7f3befe.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:08:18](/episodes/ep-aDlhjfW6hz8.md#t-00-07-53) (Claim) **Anonymous Source #1 (Ep aDlhjfW6hz8)**: ["The first thing that I thought was that I better secure the footage an..."](/statements/statement-23f3f32e636d.md)
-
-- [00:08:48](/episodes/ep-aDlhjfW6hz8.md#t-00-08-33) (Citation) **Candace Owens** (via paraphrase): ["People that certainly have the credibility are ballistics experts that..."](/statements/statement-aeca98e406f8.md)
-
-- [00:11:24](/episodes/ep-aDlhjfW6hz8.md#t-00-11-21) (Claim) **Candace Owens**: ["There is nothing gory about this shot at all. There's no blood from th..."](/statements/statement-46f4ca227132.md)
-
-- [00:13:14](/episodes/ep-aDlhjfW6hz8.md#t-00-12-47) (Accusation) **Candace Owens**: ["The feds are lying about everything, so they should not be the only pe..."](/statements/statement-31bcbc19c474.md)
+- [00:13:14](/episodes/ep-aDlhjfW6hz8.md#t-00-12-58) (Accusation) **Candace Owens**: ["The feds are lying about everything, so they should not be the only pe..."](/statements/statement-31bcbc19c474.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
-- [00:14:03](/episodes/ep-aDlhjfW6hz8.md#t-00-13-24) (Claim) **Candace Owens**: ["At no point did I ever speculate that any other country was involved a..."](/statements/statement-3b0b2b80bcfc.md)
+- [00:14:03](/episodes/ep-aDlhjfW6hz8.md#t-00-13-38) (Claim) **Candace Owens**: ["At no point did I ever speculate that any other country was involved a..."](/statements/statement-3b0b2b80bcfc.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
-- [00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44) (Claim) **Candace Owens**: ["The doorbell cam footage, which TMZ happened upon somehow, was from a ..."](/statements/statement-8ba1940aa7aa.md)
-  - Also about: [Caldera Engineering](/entities/org-caldera-engineering.md)
-
-- [00:14:59](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44) (Claim) **Candace Owens**: ["We all believe there's very clearly a government-level conspiracy that..."](/statements/statement-9c6948ca7285.md)
-
-- [00:19:43](/episodes/ep-aDlhjfW6hz8.md#t-00-19-00) (Opinion) **Candace Owens**: ["I perceive a government conspiracy. You'd be a fool not to see a gover..."](/statements/statement-c0bbc0915782.md)
-
-- [00:31:57](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) (Claim) **Candace Owens**: ["There was definitely some weird activity leading up to this moment hap..."](/statements/statement-7d145dac302b.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:35:25](/episodes/ep-aDlhjfW6hz8.md#t-00-34-55) (Opinion) **Pam Bondi**: ["There's free speech and then there's hate speech. There is no place—es..."](/statements/statement-e29412474eb3.md)
+- [00:19:43](/episodes/ep-aDlhjfW6hz8.md#t-00-19-38) (Opinion) **Candace Owens**: ["I perceive a government conspiracy. You'd be a fool not to see a gover..."](/statements/statement-c0bbc0915782.md)
 
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (12)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (6)</summary>
 
-- [00:20:20](/episodes/ep-sreYYcID-QY.md#t-00-20-17) (Claim) **Tiffany Peterson Barker** (via quoted speech): ["We had 16 of us there at the shooting—five adults and 11 children—and ..."](/statements/statement-569d210f4861.md)
-
-- [00:21:20](/episodes/ep-sreYYcID-QY.md#t-00-21-15) (Claim) **Elle Steele** (via quoted speech): ["I saw the shooting and saw blood everywhere. It hit his artery"](/statements/statement-6b62c96a17cb.md)
+- [00:07:26](/episodes/ep-2WEHTk0Xewg.md#t-00-06-42) (Claim) **Candace Owens**: ["Charlie Kirk was shot at 12:23 p.m. on September 10th"](/statements/statement-7e084d28a188.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:22:00](/episodes/ep-sreYYcID-QY.md#t-00-21-56) (Claim) **Elle Steele** (via quoted speech): ["I saw blood everywhere and it hit his artery, then I just fell to the ..."](/statements/statement-6393541f92b4.md)
-
-- [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) (Claim) **Mia Grant** (via quoted speech): ["We were like 15 feet away from the shooting"](/statements/statement-93c1c773c1eb.md)
-
-- [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) (Claim) **Mia Grant** (via quoted speech): ["We were like 15 feet away, and I thought the shot was like a firecrack..."](/statements/statement-107711955070.md)
-
-- [00:22:22](/episodes/ep-sreYYcID-QY.md#t-00-22-09) (Claim) **Tiffany Peterson Barker** (via quoted speech): ["There was one shot that rang out, and everybody instantly looked aroun..."](/statements/statement-81f527a24f36.md)
-
-- [00:23:30](/episodes/ep-sreYYcID-QY.md#t-00-22-48) (Claim) **Tiffany Peterson Barker** (via quoted speech): ["We had 16 of us there—five adults and like 11 children—and we instantl..."](/statements/statement-22d4bcfda25b.md)
-
-- [00:24:44](/episodes/ep-sreYYcID-QY.md#t-00-24-33) (Claim) **Candace Owens** (via paraphrase): ["The gun was found by a chicken coop in a backyard, and the house next ..."](/statements/statement-be3ef5fc2015.md)
+- [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-47) (Claim) **Candace Owens**: ["Tyler Robinson entered campus at 8:07 AM wearing a maroon t-shirt and ..."](/statements/statement-5926c4d45563.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:25:18](/episodes/ep-sreYYcID-QY.md#t-00-24-33) (Claim) **Candace Owens**: ["Locals are theorizing the gun was found by a chicken coop in someone's..."](/statements/statement-32be868ef4b3.md)
-
-- [00:33:12](/episodes/ep-sreYYcID-QY.md#t-00-33-10) (Claim) **Benjamin Netanyahu** (via quoted speech): ["Somebody has fabricated a monstrous big lie that Israel had something ..."](/statements/statement-768519578741.md)
-
-- [00:44:53](/episodes/ep-sreYYcID-QY.md#t-00-44-23) (Opinion) **Candace Owens**: ["I am convinced this is a full-blown Fed operation regarding the Charli..."](/statements/statement-53074d8df0c2.md)
-
-- [00:56:16](/episodes/ep-sreYYcID-QY.md#t-00-55-46) (Claim) **Candace Owens**: ["A book about Charlie Kirk's assassination was available on Amazon the ..."](/statements/statement-6b7c904af6ce.md)
-
-</details>
-
-<details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (23)</summary>
-
-- [00:07:26](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) (Claim) **Candace Owens**: ["Charlie Kirk was shot at 12:23 p.m. on September 10th"](/statements/statement-7e084d28a188.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:07:35](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) (Claim) **Candace Owens**: ["George Zinn was announced as a suspect in custody approximately 30 min..."](/statements/statement-555d98edba8f.md)
-  - Also about: [George Zinn](/entities/person-george-zinn.md)
-
-- [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) (Claim) **Candace Owens**: ["Governor Cox mentioned at 5:30 PM during a press conference that a sec..."](/statements/statement-4f2ff6f7a5e5.md)
-  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
-
-- [00:09:04](/episodes/ep-2WEHTk0Xewg.md#t-00-08-42) (Claim) **Kash Patel** (via quoted tweet): ["The subject in custody has been released. Our investigation continues"](/statements/statement-4860acce423a.md)
-
-- [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-28) (Claim) **Candace Owens**: ["Tyler Robinson entered campus at 8:07 AM wearing a maroon t-shirt and ..."](/statements/statement-5926c4d45563.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:15:32](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) (Claim) **Candace Owens**: ["Tyler Robinson was seen walking back onto campus at 11:51 AM in differ..."](/statements/statement-54088ef71ce0.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:17:47](/episodes/ep-2WEHTk0Xewg.md#t-00-17-34) (Claim) **Anonymous Source #1 (Ep 2WEHTk0Xewg)** (via quoted speech): ["We have recovered what we believe is the weapon that was used in yeste..."](/statements/statement-355c4ab067cf.md)
-
-- [00:17:49](/episodes/ep-2WEHTk0Xewg.md#t-00-17-34) (Claim) **FBI** (via quoted speech): ["The FBI recovered a high-powered bolt-action rifle in a wooded area wh..."](/statements/statement-2259f8fcf3a2.md)
-
-- [00:19:08](/episodes/ep-2WEHTk0Xewg.md#t-00-18-53) (Claim) **Candace Owens**: ["The New York Post published an exclusive about the weapon used in the ..."](/statements/statement-04b15c7c6af1.md)
-  - Also about: [New York Post](/entities/org-new-york-post.md)
 
 - [00:19:48](/episodes/ep-2WEHTk0Xewg.md#t-00-19-38) (Claim) **Candace Owens**: ["I have a source whose information about the Charlie Kirk investigation..."](/statements/statement-376c232f6072.md)
   - Also about: [Anonymous Source #2 (Ep 2WEHTk0Xewg)](/entities/anon-src-2WEHTk0Xewg-002.md)
 
-- [00:23:16](/episodes/ep-2WEHTk0Xewg.md#t-00-22-59) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["Tyler Robinson was taken into custody around 7 PM on September 11 in W..."](/statements/statement-f0f47bddc300.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:34:20](/episodes/ep-2WEHTk0Xewg.md#t-00-33-45) (Opinion) **Candace Owens**: ["Candace believes the FBI can easily debunk conspiracy theories by rele..."](/statements/statement-07429451f7ec.md)
 
-- [00:25:14](/episodes/ep-2WEHTk0Xewg.md#t-00-24-54) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["Lance Twiggs was brought in for questioning around 11 PM on September ..."](/statements/statement-eccfcb1802fb.md)
-  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+- [00:49:02](/episodes/ep-2WEHTk0Xewg.md#t-00-48-55) (Opinion) **Tucker Carlson** (via quoted speech): ["Tucker Carlson is not accusing anyone of being involved in Charlie Kir..."](/statements/statement-9c8a2a30295c.md)
 
-- [00:27:02](/episodes/ep-2WEHTk0Xewg.md#t-00-26-19) (Claim) **Donald J. Trump** (via quoted speech): ["Donald Trump announced on Fox & Friends at 6am on September 12th that ..."](/statements/statement-283298053299.md)
-
-- [00:27:07](/episodes/ep-2WEHTk0Xewg.md#t-00-27-02) (Claim) **Donald J. Trump** (via quoted speech): ["I think with a high degree of certainty, we have him in custody"](/statements/statement-fa416edb0493.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Claim) **Spencer Cox** (via quoted speech): ["Tyler Robinson was encountered by investigators in Washington County i..."](/statements/statement-551743034477.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:33:18](/episodes/ep-2WEHTk0Xewg.md#t-00-33-03) (Accusation) **Candace Owens**: ["The person in the maroon t-shirt walking on campus at 8:29 AM is diffe..."](/statements/statement-cd87813d5738.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:33:18](/episodes/ep-2WEHTk0Xewg.md#t-00-33-03) (Opinion) **Candace Owens**: ["Candace suspects there were two different people involved - one in mar..."](/statements/statement-0b29997baa76.md)
-
-- [00:34:20](/episodes/ep-2WEHTk0Xewg.md#t-00-33-47) (Opinion) **Candace Owens**: ["Candace believes the FBI can easily debunk conspiracy theories by rele..."](/statements/statement-07429451f7ec.md)
-
-- [00:49:02](/episodes/ep-2WEHTk0Xewg.md#t-00-48-57) (Opinion) **Tucker Carlson** (via quoted speech): ["Tucker Carlson is not accusing anyone of being involved in Charlie Kir..."](/statements/statement-9c8a2a30295c.md)
-
-- [00:54:05](/episodes/ep-2WEHTk0Xewg.md#t-00-53-24) (Claim) **Candace Owens**: ["Candace has reached out to someone she knows from the event to request..."](/statements/statement-4bbdb21326b9.md)
-
-- [00:58:22](/episodes/ep-2WEHTk0Xewg.md#t-00-57-40) (Opinion) **Candace Owens**: ["Candace believes this is a federal-level conspiracy in Charlie Kirk's ..."](/statements/statement-cda9f290af69.md)
-
-- [01:06:00](/episodes/ep-2WEHTk0Xewg.md#t-01-05-15) (Opinion) **Candace Owens**: ["Candace believes Tyler Robinson played a part in the assassination but..."](/statements/statement-817d81674c7c.md)
-
-- [01:06:02](/episodes/ep-2WEHTk0Xewg.md#t-01-06-00) (Accusation) **Candace Owens**: ["Multiple people were involved in the Charlie Kirk assassination, inclu..."](/statements/statement-e50302cfab9c.md)
-  - Also about: [George Zinn](/entities/person-george-zinn.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:54:05](/episodes/ep-2WEHTk0Xewg.md#t-00-53-57) (Claim) **Candace Owens**: ["Candace has reached out to someone she knows from the event to request..."](/statements/statement-4bbdb21326b9.md)
 
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (3)</summary>
 
-- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-06-59) (Claim) **Candace Owens**: ["Children were present at the time of the shooting, leading to count si..."](/statements/statement-3fef8ac9fe5c.md)
+- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-07-21) (Claim) **Utah County Attorney's Office** (via quoted document): ["Children were present at the time of the shooting, leading to count si..."](/statements/statement-3fef8ac9fe5c.md)
 
-- [00:08:07](/episodes/ep-q7f8r-THr84.md#t-00-07-39) (Claim) **Candace Owens**: ["Surveillance camera recorded individual in dark clothing who crossed r..."](/statements/statement-c94566f55e07.md)
+- [00:08:07](/episodes/ep-q7f8r-THr84.md#t-00-08-06) (Claim) **Utah County Attorney's Office** (via quoted document): ["Surveillance camera recorded individual in dark clothing who crossed r..."](/statements/statement-c94566f55e07.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-07) (Claim) **Candace Owens**: ["Charlie Kirk gets shot at 12:23 p.m."](/statements/statement-a9c04b4ae280.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:35:07](/episodes/ep-q7f8r-THr84.md#t-00-34-43) (Accusation) **Candace Owens**: ["Candace Owens asserted that more people were involved in Charlie Kirk'..."](/statements/statement-5609549e7f0f.md)
 
-- [00:35:10](/episodes/ep-q7f8r-THr84.md#t-00-34-45) (Accusation) **Candace Owens**: ["There are very clearly more people involved in the Charlie Kirk shooti..."](/statements/statement-5609549e7f0f.md)
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
+
+- [00:42:50](/episodes/ep-czVBmqZP6Ss.md#t-00-42-33) (Claim) **Candace Owens**: ["Charlie Kirk gets shot at 12:23 p.m."](/statements/statement-a9c04b4ae280.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

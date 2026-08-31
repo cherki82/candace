@@ -24,11 +24,11 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-air-force-t-00-05-20">2026-07-20 · 00:05:20</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
 <div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,13 +39,14 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#t-00-04-27" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-37" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39" style="--pulse-height:17%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 12 mentions" title="2025-11-21 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-16-09" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-14-05" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-air-force-t-00-37-21" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-15" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-united-states-air-force-t-00-57-41" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-united-states-air-force-t-00-19-13" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-air-force-t-01-01-18" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -73,13 +74,14 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-04-27) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37) | 4 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24) | 4 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-37) | 3 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45) | 12 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-air-force-t-00-37-21) | 3 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45) | 4 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-15) | 4 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-united-states-air-force-t-00-57-41) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-united-states-air-force-t-00-19-13) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-united-states-air-force-t-01-01-18) | 1 |
@@ -324,33 +326,41 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
 
-**[00:35:47](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
+**[00:35:38](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
 > "The United States Air Force Special Air Mission exists to provide safe and secure transport"
 
-**[00:36:41](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-36-07)**
+**[00:36:41](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
 > "...o call sign instantly becomes Air Force One."
 
-**[00:36:58](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-36-47)**
+**[00:36:57](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
 > "...n board, the aircraft becomes Air Force Two, but again, the filed call sign is normally S..."
 
-**[00:37:40](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-37-27)**
+**[00:37:40](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-37-19)**
 > "...hen the White House or the US Air Force want to be deliberately vague about the exact pas..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:57:45](/episodes/ep-6J6lRZPQ4jk.md#ent-org-united-states-air-force-t-00-57-41)**
+> "That represents Air Force."
 
 </details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
-**[00:43:49](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45)**
+**[00:43:49](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-15)**
 > "... that is based out of Andrews Air Force Base, shown as Camp Springs below."
 
-**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45)**
+**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-15)**
 > "US Air Force C37A Gulfstream is a, Gulfstream 5 is a VIP jet, ..."
 
-**[00:44:39](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45)**
+**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-15)**
 > "US Air Force C37A Gulfstream is a, Gulfstream 5 is a VIP jet"
 
-**[00:48:37](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-17)**
+**[00:48:35](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-15)**
 > "That's a standard Air Force call sign designator."
 
 </details>
@@ -438,19 +448,16 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
-**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
+**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-37)**
 > "...ing something. So I reported that on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptian military..."
 
-**[00:18:50](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
+**[00:18:50](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-37)**
 > "...verything, as I'm not gonna read it all—I noticed that the trend here is that it always flies to an Air Force base, okay? Look in 2025. If you look under 2025, you will see this is what it did. It went from Se..."
 
-**[00:27:44](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
+**[00:27:44](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-14)**
 > "...an they physically landed on American air bases. I meant that they landed in cities where there are Air Force bases. And the notable exception here is that Provo does not have an Air Force base. They have one ..."
-
-**[00:27:48](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
-> "...ties where there are Air Force bases. And the notable exception here is that Provo does not have an Air Force base. They have one in Salt Lake City, but they do not have one in Provo. So I hope that makes more..."
 
 </details>
 
@@ -458,7 +465,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
-> "...o worked on Charlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi. I think he act..."
+> "And regarding Dr. Lee Trotter, he had his residency on the Air Force base."
 
 **[00:29:16](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
 > "... Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi. I think he actually might be in the Air Force from what I'm looking ..."
@@ -549,7 +556,19 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Includes (1)</summary>
+
+- **[Special Air Mission](/entities/concept-special-air-mission.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:35:38](/episodes/ep-9k2xrAC0H88.md#t-00-35-25): “The flight was a special air mission flight. The United States Air Force Special Air Mission exists to provide safe and secure transport to our country's highest ranking individuals.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -573,6 +592,13 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 </details>
 
+- **[Special Air Mission](/entities/concept-special-air-mission.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:35:38](/episodes/ep-9k2xrAC0H88.md#t-00-35-25): “The flight was a special air mission flight. The United States Air Force Special Air Mission exists to provide safe and secure transport to our country's highest ranking individuals.”
+
+</details>
+
 - **[Carl Wallnau](/entities/person-carl-wallnau.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -592,7 +618,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Air Force (14)</strong></summary>
+<summary><strong class="section-title">Statements about United States Air Force (13)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
@@ -642,7 +668,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (2)</summary>
 
 - [00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) (Claim) **Candace Owens**: ["Bill Montgomery served in the U.S. Air Force Reserve and was from Linc..."](/statements/statement-f20ea24a8eac.md)
-  - Also about: [Bill Montgomery](/entities/person-bill-montgomery.md), [Lincoln, Nebraska](/entities/gpe-lincoln-nebraska.md)
+  - Also about: [Bill Montgomery](/entities/person-bill-montgomery.md), [Lincoln](/entities/gpe-lincoln.md)
 
 - [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) (Claim) **Candace Owens**: ["If his Wikipedia biography is to be believed, Stanley Clark Moore has ..."](/statements/statement-4700141ba93b.md)
   - Also about: [Stanley Clark Moore](/entities/person-stanley-clark-moore.md), [NASA](/entities/org-nasa.md)
@@ -660,7 +686,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) (Claim) **Baron Coleman** (via quoted speech): ["SAM000 call signs are highly sensitive and used when the White House o..."](/statements/statement-e907c35b1863.md)
+- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-19) (Claim) **Baron Coleman** (via quoted speech): ["SAM000 call signs are highly sensitive and used when the White House o..."](/statements/statement-e907c35b1863.md)
   - Also about: [White House](/entities/org-white-house.md)
 
 </details>
@@ -670,14 +696,6 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 - [00:17:09](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39) (Claim) **Candace Owens**: ["Lance Wallnau graduated from a military academy and his father Carl Wa..."](/statements/statement-468e84d36ae1.md)
   - Also about: [Lance Wallnau](/entities/person-lance-wallnau.md)
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
-
-- [00:29:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lee Trotter might be in the Air Force"](/statements/statement-4585f0b74ba9.md)
-  - Also about: [Lee Trotter](/entities/person-lee-trotter.md)
 
 </details>
 

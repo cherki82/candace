@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:46:56](/episodes/ep-SgVcnx4Oh30.md#t-00-46-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2816);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2816s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's here's why it's so frustrating is because there is going to be even more evidence that is presented to the public in May at the evidentiary hearing. ... And the prosecution is going to lay out its case against Tyler Robinson. And I'm told it's a whopper. I'm told they've got this guy dead to rights.
 

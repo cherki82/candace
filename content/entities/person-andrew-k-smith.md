@@ -12,6 +12,10 @@ _Type: People_
 
 **Categories:** restaurant investment, Savory Fund
 
+**Entity verification:** verified
+> Savory Fund official site identifies Andrew K. Smith and names him as host of the Restaurantology podcast, matching the source context.
+Source: [Savory Fund | Restaurantology Podcast](https://savoryfund.com/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-k-smith-t-00-13-16">2025-11-17 · 00:13:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36">2026-07-14 · 00:11:57</a></strong></div>
@@ -72,7 +76,7 @@ _Type: People_
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33): “Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie Kirk,”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33): “Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:11:57](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36): “It's like they didn't want him to land in Provo. He does this restaurant event. His last interview with a guy named Andrew Smith.”
 
 </details>
@@ -85,7 +89,7 @@ _Type: People_
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33): “Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie Kirk,”
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33): “Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:11:57](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36): “It's like they didn't want him to land in Provo. He does this restaurant event. His last interview with a guy named Andrew Smith.”
 
 </details>

@@ -11,12 +11,11 @@ object: "person-eric-bolling"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Eric Bolling](/entities/person-eric-bolling)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 
-- [00:00:07](/episodes/ep-sreYYcID-QY#t-00-00-07): _And a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast_
-- [00:00:33](/episodes/ep-sreYYcID-QY#t-00-00-33): _a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative... that I haven't spoken to Charlie Kirk in years._
+- [00:38:58](/episodes/ep-sreYYcID-QY#t-00-38-58): _At some point, her credibility—I mean—is going to go down the tubes because she needs to bring receipts._
 
 ### Related
 

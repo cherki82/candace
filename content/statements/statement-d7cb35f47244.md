@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:10:46](/episodes/ep-h76ZN-xXC6c.md#t-00-10-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(646);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=646s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't think they wanted it to hit his neck. I think that is what went wrong. I think the best case scenario, if I'm, just as an example. ... If I'm theorizing here and I'm the Israelis and I'm bringing his device, I wanted to hit his chest.
 

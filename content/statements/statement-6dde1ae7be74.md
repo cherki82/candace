@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:13:26](/episodes/ep-4DvYXBn_5JI.md#t-00-13-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(806);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=806s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the official story is that a 16-year-old student who attended Evergreen High School named Desmond Holly showed up to school with the Smith & Wesson 38 Special Revolver at 1221, two minutes before Charlie. ... He shot a 14-year-old student at close range while still inside of the school. Then Desmond leaves the school building. He crosses the football field. ... And comes across a second student. That student's name is Matthew Silverstone. And he shoots him at close range, shoots him once in the head, I believe also in the chest.
 

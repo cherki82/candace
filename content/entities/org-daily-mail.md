@@ -23,7 +23,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,12 +32,12 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <p>Highest activity: <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-01">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-04" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-04" style="--pulse-height:14%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06" style="--pulse-height:14%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-13" style="--pulse-height:14%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-01" style="--pulse-height:14%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07" style="--pulse-height:29%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
@@ -65,12 +65,12 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40) | 1 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-04) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47) | 1 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-04) | 2 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-13) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-01) | 2 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07) | 4 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18) | 1 |
@@ -401,10 +401,10 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
-**[00:12:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06)**
+**[00:12:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-01)**
 > "...edly having an affair and unlawfully using her money to fund trips of their own. This headline from Daily Mail reads, and claims he charged her estate for the pair's trip to the Holy Land to get baptized. And g..."
 
-**[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-55-59)**
+**[00:56:31](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-56-23)**
 > "...t behind is just too desperate to be genuine." Yeah, of course it's not genuine. Even yesterday—the Daily Mail—their AIPAC reporter, Victoria Churchill— publishes an article—the most bizarre headline I've—what?..."
 
 </details>
@@ -412,10 +412,10 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:21:26](/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-04)**
+**[00:21:21](/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-13)**
 > "...that information with what was trending yesterday, right? This is the headline that came out of the Daily Mail. "Kash Patel shuts down Charlie (Charlie Kirk) foreign intelligence probe in an explosive feud with..."
 
-**[00:31:09](/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-30-48)**
+**[00:31:05](/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-31-05)**
 > "... does look like that. Like this is not—that's not AI, okay? That's not AI. He wrote an op-ed in the Daily Mail—which they actually published—calling for Tucker (Tucker Carlson) to be neutralized. Yeah, this is ..."
 
 </details>
@@ -447,7 +447,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:24:32](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00)**
+**[00:24:32](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-04)**
 > "...hat are just so nakedly deceptive that people go, okay, why am I even reading this publication? The Daily Mail put out this headline about me. I can't even—like—this. Look at this journalist, Victoria Churchill..."
 
 </details>
@@ -469,9 +469,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:46](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “This is what we got from the Daily Mail.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
 
 </details>
@@ -493,14 +492,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details>
-<summary>Employs (2)</summary>
-
-- **[Victoria Churchill](/entities/person-victoria-churchill.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:24:35](/episodes/ep-aDlhjfW6hz8.md#t-00-24-00): “The Daily Mail put out this headline about me...Victoria Churchill, who reached out”
-
-</details>
+<summary>Employs (1)</summary>
 
 - **[Charlie Spiering](/entities/person-charlie-spiering.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -531,7 +523,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -543,9 +535,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:46](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “This is what we got from the Daily Mail.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
 
 </details>
@@ -561,13 +552,6 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:04:42](/episodes/ep-Wjul6YV6izo.md#t-00-04-07): “The experts that the Daily Mail spoke to were quick to note that Kirk has been an easy target for people who don't share her or her husband's staunch political or religious views. ... said L.A. grief therapist Claire Bidwell Smith.”
-
-</details>
-
-- **[Victoria Churchill](/entities/person-victoria-churchill.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:24:35](/episodes/ep-aDlhjfW6hz8.md#t-00-24-00): “The Daily Mail put out this headline about me...Victoria Churchill, who reached out”
 
 </details>
 
@@ -730,7 +714,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
-- [00:41:40](/episodes/ep-Kmt6HgRjckU.md#t-00-41-32) (Claim) **Candace Owens**: ["A life insurance policy was taken out on Charlie Kirk"](/statements/statement-8f9f7ee2947f.md)
+- [00:41:32](/episodes/ep-Kmt6HgRjckU.md#t-00-41-32) (Citation) **Candace Owens**: ["Owens said the Daily Mail reported that a life insurance policy had be..."](/statements/statement-8f9f7ee2947f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

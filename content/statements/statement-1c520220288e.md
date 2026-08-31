@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:36:25](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2185);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=2185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which calls into question who this so-called anonymous source actually is. There isn't a single word that is an accurate depiction of Erica's (Erika Kirk's) views or comments publicly or privately.
 

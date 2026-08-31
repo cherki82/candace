@@ -6,6 +6,11 @@ date: "2026-01-06"
 ---
 
 **Date:** 2026-01-06
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-01-06"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:02:11](/episodes/ep-zSKrxIUMNqw.md#event-event-2026-01-06-candace-owens-said-her-program-revealed--t-00-02-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(131);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=131s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was yesterday, just yesterday, that we scooped the Daily Wire's cringe new show

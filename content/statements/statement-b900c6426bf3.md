@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:12:04](/episodes/ep-4DvYXBn_5JI.md#t-00-11-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(724);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=724s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to again stress this plane is known to turn to Point USA. Somebody aboard that plane knows Charlie.
 

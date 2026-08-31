@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:20:09](/episodes/ep-iHav0PPzUz8.md#t-00-19-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1209);return false;">Play</a>
+**Timestamp:** [00:20:09](/episodes/ep-iHav0PPzUz8.md#t-00-20-00) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1209s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, I will again stress that this individual never ever said that the mission—the secret mission—was related to Charlie (Charlie Kirk). In fact, they were explicit that they weren't entirely sure what the specific mission was, but that it was top secret.
 

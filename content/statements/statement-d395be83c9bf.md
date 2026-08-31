@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:35:28](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2128);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Help the public investigate what happened on that day, things that in no way would transform the ongoing investigation. ... Entering basic questions would actually remove some of the rumor and innuendo. No one can explain to me why these tapes were removed, why there's so many lies.
 

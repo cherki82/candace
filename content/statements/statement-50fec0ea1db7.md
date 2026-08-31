@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:54:56](/episodes/ep-qZ8RWfyuewQ.md#t-00-54-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3296);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3296s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then she lied to my face. And from that point on, when I clocked her on those lies and the public kept repeatedly clocking her on lies and seeing your reaction to it like it is right now, I grew increasingly suspicious of Erica (Erika Kirk). ... I remain suspicious of Erica (Erika Kirk).
 

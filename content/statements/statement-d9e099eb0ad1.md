@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:13:54](/episodes/ep-SubDoZWHARo.md#t-00-13-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(834);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=834s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the accompanying video of the auditorium, he wrote, turning point USA seems to have misestimated crowd size for Vance, the Akins Ford Arena less than 25% filled for the vice president. Now he's assuming it's because of Vance, right, that people are not showing.
 

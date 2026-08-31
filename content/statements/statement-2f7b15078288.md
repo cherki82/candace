@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:13:55](/episodes/ep-Wjul6YV6izo.md#t-00-13-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(835);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=835s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he was actually the priest that flew with Erika to utah he was with her when they called her that he did not make it he prayed over him she actually asked him to pray the rosary there at the hospital ... He said the homily at the private funeral the Friday before the memorial.
 

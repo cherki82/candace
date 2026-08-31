@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:24:08](/episodes/ep-3QJqtW_NOSI.md#t-00-24-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1448);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=1448s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And from what I am told, they are trying to make it more difficult for people to FOIA requests to be able to hold these documents as classified for a period of time.
 

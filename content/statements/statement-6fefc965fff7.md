@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(473);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=473s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was a broken man when he got fired from Fox, and he's never been the same. Perhaps he should see a good psychiatrist.
 

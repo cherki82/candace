@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:19:45](/episodes/ep-4YgrOhhy708.md#t-00-19-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1185);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I'm going to say this is a lead. ... I'm going to cage this. It's a possibility that this does not pan out. ... but it's potentially explosive. There is a director of U.S. Border Patrol, ... also chief of staff. ... Staff of the Southern Command in Tucson named Thomas Martin.
 

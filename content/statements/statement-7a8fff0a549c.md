@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:23:27](/episodes/ep-Vu6Y24pqhZs.md#t-00-23-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1407);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=1407s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Richmond, Virginia just fires the inspector general who was there, James Asuna, who had been in that position for six years. ... They were told, quote, no comments will be made on personnel matters. And NDAs were signed unusually.
 

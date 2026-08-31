@@ -1,8 +1,8 @@
 ---
-title: "I was in touch with Charlie Kirk on an almost daily basis fo..."
-description: "\"I was in touch with Charlie Kirk on an almost daily basis for months, ... the meeting that I had with him, and the entire purpose of the meeting—calle...\" — Rabbi Pesach Wolicki (Ep 2Riv3I7D0Yk)"
+title: "Rabbi Pesach Wolicki said Charlie Kirk called a meeting with..."
+description: "\"Rabbi Pesach Wolicki said Charlie Kirk called a meeting with pro-Israel friends to prepare for campus questions, check facts, and formulate answers he...\" — Pesach Wolicki"
 statement_id: "statement-16b83026642f"
-speaker: "Rabbi Pesach Wolicki (Ep 2Riv3I7D0Yk)"
+speaker: "Pesach Wolicki"
 type: "factual_claim"
 ---
 
@@ -10,23 +10,28 @@ type: "factual_claim"
 
 ## Statement
 
-> I was in touch with Charlie Kirk on an almost daily basis for months, ... the meeting that I had with him, and the entire purpose of the meeting—called by Charlie Kirk. Charlie Kirk called this meeting, and it was on our schedule for weeks, ... in preparation for this new campus tour, ... to talk about Israel issues.
+> Rabbi Pesach Wolicki said Charlie Kirk called a meeting with pro-Israel friends to prepare for campus questions, check facts, and formulate answers he was comfortable with.
 
 ## Attribution
 
-**Speaker:** [Rabbi Pesach Wolicki (Ep 2Riv3I7D0Yk)](/entities/anon-src-2Riv3I7D0Yk-legacy-30741686.md) (Quoted)
+**Speaker:** [Pesach Wolicki](/entities/person-pesach-wolicki.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** JTV interview
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:29:05](/episodes/ep-2Riv3I7D0Yk.md#t-00-28-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1745);return false;">Play</a>
+**Timestamp:** [00:30:45](/episodes/ep-2Riv3I7D0Yk.md#t-00-30-45) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=1845s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Did you feel that that was the case, that he was in fact turning on Israel?" "Lidar, I was in touch with Charlie (Charlie Kirk) on an almost daily basis for months, and he certainly had some disagreements with Israeli policy, and he criticized Israel where he felt appropriate.
+> So in preparation for this new campus tour, he called a meeting of a few people that he trusted to talk about Israel issues and to anticipate the questions that he would be getting, the challenges that he would be getting on this campus tour, and to make sure that he had the truth and that he could formulate answers that he was comfortable with.
 
 ## Verification
 

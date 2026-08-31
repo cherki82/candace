@@ -20,14 +20,14 @@ type: "accusation"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:11:14](/episodes/ep-EtLHqDbxqks.md#t-01-11-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4274);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Close the courtyard off to anybody but the feds. The FBI took over that region so we can now reasonably assume that the paper was telling the truth when he said that the FBI made the call because only the FBI was allowed to make calls about what was going on in the courtyard. The FBI then kept the bomb dogs away from the courtyard. The FBI is evident evidently to me, in my opinion, engaged in a massive cover up.
 

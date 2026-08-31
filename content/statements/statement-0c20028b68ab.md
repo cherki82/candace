@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:02:55](/episodes/ep-xi8SYJTUXPM.md#t-00-02-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In this footage that Terryl (Terryl Farnsworth) has selectively shared with Candace, we can't see the ground where Charlie had been sitting.
 

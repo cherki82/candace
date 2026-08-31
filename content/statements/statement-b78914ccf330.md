@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:18:27](/episodes/ep-Ux1kzgQxkws.md#t-01-18-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4707);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4707s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > why I, in terms of the left, like you think I'm going to defend the DC elite of the left? ... They crushed my dad. ... They went when when they saw their chance, they did everything in their power to to push, push him out.
 

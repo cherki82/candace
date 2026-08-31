@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:11:15](/episodes/ep-1CFDtD0IgEg.md#t-00-11-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(675);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=675s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so they said, we're going to go up to this individual. And when that suspicious individual was approached, he told the campus security that he was Senator Mike Lee's bodyguard, scoping out the area to ensure that the senator was going to be safe ahead of the event. So they said, OK, that makes sense. We'll get we'll let you go.
 

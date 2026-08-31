@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:36:49](/episodes/ep-7ERqbYElOfs.md#t-00-36-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2209);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=2209s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > During that phone call, some information was provided about. about Tyler potentially having some suicidal ideations was en route to remote area Washington County. ... The parents convinced him not to do that and, you know, conveyed that they would, you know, stand by him and help him surrender peacefully.
 

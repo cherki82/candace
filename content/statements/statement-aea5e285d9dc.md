@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:14:54](/episodes/ep-VMNWMXX1vO8.md#t-00-14-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(894);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I heard a loud bang, which I figured a shot would be a little bit louder, but I just saw it hit him in the chest and then all of a sudden just tons of blood gushing right out where his heart is and then he like fell over and slumped down and everybody got down and was screaming and then we all ran.
 

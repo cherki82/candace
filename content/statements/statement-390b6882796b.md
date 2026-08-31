@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:04:48](/episodes/ep-zSKrxIUMNqw.md#t-00-04-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(288);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=288s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And his strategy is to find Christians and to pressure them usually through financial means to go after other Christians when he gets angry in particular.
 

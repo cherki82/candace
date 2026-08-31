@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:09:09](/episodes/ep-ChuWo-n49B8.md#t-00-08-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(549);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=549s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were told that there was clear footage of Tyler Robinson's car on campus. That is thus far unproven. It would remain a mystery as to if there was that footage, why they wouldn't have presented at the preliminary hearing. What we have been presented with is blurry footage of a car that resembles Tyler Robinson's car. He's not the only person in Utah or in the United States or in the world that drives that particular vehicle in that color.
 

@@ -25,7 +25,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:07:37](/episodes/ep-1CFDtD0IgEg.md#t-00-07-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(457);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=457s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said. Hey guys, just an FYI, I do woodworking as a hobby and I use CA glue and spray activator and I'm not sure where I learned it, but I always remember being told to use black nitrile gloves because it's the most resistant to that crazy adhesive.
 

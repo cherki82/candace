@@ -3,9 +3,18 @@ title: "British Columbia"
 description: "British Columbia (Places) - 2 mentions"
 id: "gpe-british-columbia"
 type: "GPE"
+categories:
+  - "Canadian province"
+  - "episode location"
 ---
 
 _Type: Places_
+
+**Categories:** Canadian province, episode location
+
+**Entity verification:** verified
+> The Government of British Columbia geographical-names record confirms British Columbia as the official province name.
+Source: [BC Geographical Names — British Columbia](https://apps.gov.bc.ca/pub/bcgnws/names/49333.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-british-columbia-t-00-03-03">2025-10-27 · 00:03:19</a></strong></div>

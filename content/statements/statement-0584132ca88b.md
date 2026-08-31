@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:52:20](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I will say right now, Andrew Kolvet, you have my full permission to release the entire conversation because how dare you remove this joke from its context, okay?
 

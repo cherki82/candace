@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:55:56](/episodes/ep-Ux1kzgQxkws.md#t-00-55-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3356);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=3356s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Alyssa was, what, six months pregnant at the time? You know, she got in the car, she was alone at the time, and sped off, and they followed her, and they ran her off the road. ... You know, she panicked. And then, you know, she got and did it again, and they surrounded her.
 

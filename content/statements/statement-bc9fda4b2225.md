@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:17:20](/episodes/ep-rupRLXmSndU.md#t-00-16-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1040);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1040s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were all living in the same house down in Keller, Texas, both the Henderson family and the Qureshi family. ... what is not up for debate is that both families were living in the same house down in Keller, Texas
 

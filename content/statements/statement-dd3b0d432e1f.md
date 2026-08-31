@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:04:10](/episodes/ep-69A8TzAGHlU.md#t-00-03-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(250);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=250s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The statement not only incorrectly calls into question the competence of Mr. ... Harpole by falsely accusing him and his team of criminal negligence by failing to render aid to Kirk after he was shot.
 

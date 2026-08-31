@@ -24,7 +24,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:55:34](/episodes/ep-tB5SXXmd9vU.md#t-00-55-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3334);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=3334s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I told you guys that Andrew Kolvet called me from the hospital and basically said you and Tucker (Tucker Carlson) should shut up because you guys are on a list
 

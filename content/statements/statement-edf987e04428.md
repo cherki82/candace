@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:01:16](/episodes/ep-c5BcKF91iec.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(76);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=76s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He also knew that I was the only person who was going to step up to defend him after he was gone. That sounds crazy, but it's the truth.
 

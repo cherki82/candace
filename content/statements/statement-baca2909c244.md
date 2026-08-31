@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:44:00](/episodes/ep-2Riv3I7D0Yk.md#t-00-43-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2640);return false;">Play</a>
+**Timestamp:** [00:44:00](/episodes/ep-2Riv3I7D0Yk.md#t-00-43-27) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=2640s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, Turning Point, as we have learned, is not going to show anybody anything in 4K or in 5K
 

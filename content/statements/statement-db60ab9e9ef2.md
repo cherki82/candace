@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:07:03](/episodes/ep-mLvJqdxS-FY.md#t-00-06-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The camera battery lasts approximately 14 hours. At the end of every shift, we have to dock our cameras all on a detachment shared dock.
 

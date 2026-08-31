@@ -1,8 +1,8 @@
 ---
-title: "He apparently had a 15–20 year plan according to Frank Turek..."
-description: "\"He apparently had a 15–20 year plan according to Frank Turek. Or was it Rob McCoy? Rob McCoy said that, I think\" — Candace Owens"
+title: "Owens recalled that Rob McCoy apparently said Charlie Kirk h..."
+description: "\"Owens recalled that Rob McCoy apparently said Charlie Kirk had a 15–20 year plan that he kept in his notebooks.\" — Rob McCoy"
 statement_id: "statement-f764fe2e33e4"
-speaker: "Candace Owens"
+speaker: "Rob McCoy"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,28 @@ type: "factual_claim"
 
 ## Statement
 
-> He apparently had a 15–20 year plan according to Frank Turek. Or was it Rob McCoy? Rob McCoy said that, I think
+> Owens recalled that Rob McCoy apparently said Charlie Kirk had a 15–20 year plan that he kept in his notebooks.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Rob McCoy](/entities/person-rob-mccoy.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Rob McCoy statement recalled by Candace Owens
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Rob McCoy](/entities/person-rob-mccoy.md) (person)
 
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:48:26](/episodes/ep-a-e7HC6SeK8.md#t-00-47-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2906);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=2906s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And I know that I'm sure that that's probably what Charlie (Charlie Kirk) would— He apparently had a 15–20 year plan according to Frank Turek
+> He apparently had a 15–20 year plan according to Frank Turek. Or was it Rob McCoy? Rob McCoy said that, I think. I think they all said it—honestly—but Rob McCoy did say that. He kept this in his notebooks.
 
 ## Verification
 

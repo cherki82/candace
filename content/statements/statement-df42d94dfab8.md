@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:45:31](/episodes/ep-SgVcnx4Oh30.md#t-00-45-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2731);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=2731s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There is a murder weapon that was found near the site of the shooting. It was owned by Tyler Robinson's family. ... It is of the caliber used to shoot Charlie (Charlie Kirk). It has his DNA all over it.
 

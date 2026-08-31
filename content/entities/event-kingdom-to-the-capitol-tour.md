@@ -5,11 +5,21 @@ id: "event-kingdom-to-the-capitol-tour"
 type: "EVENT"
 aliases:
   - "Capitol Tour"
+categories:
+  - "Christian worship tour"
+  - "TPUSA Faith event"
+  - "state capitol tour"
 ---
 
 _Type: Events_
 
 **Also known as:** Capitol Tour
+
+**Categories:** Christian worship tour, TPUSA Faith event, state capitol tour
+
+**Entity verification:** verified
+> Official TPUSA article names the Kingdom to the Capitol Tour, identifies Sean Feucht as founder, and describes the TPUSA Faith partnership and 50-state-capitol itinerary, matching the episode.
+Source: [There is a War Being Fought for the Soul of America | TPUSA](https://tpusa.com/live/there-is-a-war-being-fought-for-the-soul-of-america/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-event-kingdom-to-the-capitol-tour-t-00-13-10">2025-10-31 · 00:13:28</a></strong></div>

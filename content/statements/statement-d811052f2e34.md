@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:02:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-02-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(178);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=178s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And moreover, it's extremely obvious to anyone who watches that this guy had direct connections to a foreign government. Now, no one's allowed to say that that foreign government is Israel because we have been somehow cowed.
 

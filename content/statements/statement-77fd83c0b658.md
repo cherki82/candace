@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:37:42](/episodes/ep-1CFDtD0IgEg.md#t-00-37-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2262);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=2262s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mr. President, did the United States bomb a girl's elementary school in southern Iran on the first day of the war and kill 175 people? ... I have no opinion. Based on what I've seen, that was done by Iran.
 

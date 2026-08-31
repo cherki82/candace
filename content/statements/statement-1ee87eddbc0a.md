@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:51:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3089);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=3089s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > oh actually no mikey (Michael McCoy) did not call you within seconds mikey (Michael McCoy) called his wife ... and then he three-waged you minutes later
 

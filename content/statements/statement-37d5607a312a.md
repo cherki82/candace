@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:14:53](/episodes/ep-HYn0P-P1wUw.md#t-00-14-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(893);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=893s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I also presented to you guys the photos from inside Charlie (Charlie Kirk)'s SUV after assassination. I broke the story that the feds did not impound that vehicle.
 

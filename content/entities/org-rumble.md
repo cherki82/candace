@@ -1,6 +1,6 @@
 ---
 title: "Rumble"
-description: "Rumble (Organizations) - 29 mentions"
+description: "Rumble (Organizations) - 33 mentions"
 id: "org-rumble"
 type: "ORG"
 aliases:
@@ -20,10 +20,10 @@ _Type: Organizations_
 Source: [Rumble corporate site](https://corp.rumble.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43">2025-12-16 · 00:08:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-38">2025-12-16 · 00:08:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-rumble-t-00-43-09">2026-05-27 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -34,7 +34,8 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-rumble-t-00-48-23">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43" style="--pulse-height:86%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-38" style="--pulse-height:86%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-rumble-t-00-23-22" style="--pulse-height:57%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-rumble-t-01-32-52" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-rumble-t-00-48-23" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 7 mentions" title="2026-01-30 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-rumble-t-00-09-05" style="--pulse-height:14%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -47,7 +48,8 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43) | 6 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-38) | 6 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-rumble-t-00-23-22) | 4 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-rumble-t-01-32-52) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-rumble-t-00-48-23) | 7 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-rumble-t-00-09-05) | 1 |
@@ -62,7 +64,7 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -166,24 +168,41 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
 
-**[00:08:31](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
-> "the answer is Rumble"
+**[00:23:40](/episodes/ep-9k2xrAC0H88.md#ent-org-rumble-t-00-23-22)**
+> "It's Rumble. If you're not already on it, Rumble, you should ..."
 
-**[00:37:43](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
-> "...well, honestly, the answer is Rumble."
-
-**[00:37:56](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
-> "...you're not already on Rumble, Rumble is the free speech video platform where you can f..."
-
-**[00:38:09](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
+**[00:23:53](/episodes/ep-9k2xrAC0H88.md#ent-org-rumble-t-00-23-22)**
 > "...ople do not realize this, but Rumble actually hosts some of the largest political live..."
 
-**[00:38:27](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-38-27)**
+**[00:24:10](/episodes/ep-9k2xrAC0H88.md#ent-org-rumble-t-00-24-05)**
+> "...store or Google Play, type in Rumble and hit download. Once you're in, you can search ..."
+
+**[00:24:30](/episodes/ep-9k2xrAC0H88.md#ent-org-rumble-t-00-24-05)**
+> "... matter just as much. Move to Rumble today. Just click the link in the description bel..."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6 mentions)</summary>
+
+**[00:08:31](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-38)**
+> "the answer is Rumble"
+
+**[00:37:38](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-38)**
+> "...well, honestly, the answer is Rumble."
+
+**[00:37:56](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-38)**
+> "...you're not already on Rumble, Rumble is the free speech video platform where you can f..."
+
+**[00:38:09](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-38)**
+> "...ople do not realize this, but Rumble actually hosts some of the largest political live..."
+
+**[00:38:23](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-38-23)**
 > "...Store or Google Play, type in Rumble, and hit download."
 
-**[00:38:51](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-38-27)**
+**[00:38:48](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-38-23)**
 > "You can move to Rumble today."
 
 </details>
@@ -197,10 +216,11 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:48:23](/episodes/ep-Wjul6YV6izo.md#t-00-48-23): “Rumble is one of the only companies that has stood the test of time. My show is there and they were the only place to have my back when I got demonetized over here on YouTube.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:25:45](/episodes/ep-1IY2oD-_xVA.md#t-00-25-26): “Platforms are controlling narratives and pushing the stuff that they want us to see. We absolutely have to fight back. Rumble is the only company that has stood the test of time and they totally deserve our support. ... My show is on there and they were the only place to have my back when YouTube demonetized me.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:23:40](/episodes/ep-9k2xrAC0H88.md#t-00-23-22): “It's Rumble. If you're not already on it, Rumble, you should know, is a free speech video platform where you can find my show and where a huge community of independent creators who are sick of censorship, demonetization, and shadow banning are building real audiences.”
 
 </details>
 

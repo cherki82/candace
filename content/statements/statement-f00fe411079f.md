@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:42:10](/episodes/ep-y8lak3CRwDw.md#t-00-42-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2530);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2530s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Who was there? None other than Justin Streiff, the current COO of Turning Point USA, who became the COO seven days before Charlie was assassinated.
 
@@ -39,7 +39,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:00:35](/episodes/ep-7FS1tUeSfdE.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(35);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=35s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And on that note, I also learned an interesting thing about Justin Streiff, the COO. He became the COO of Turning Point USA seven days before Charlie (Charlie Kirk) died.
 

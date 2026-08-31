@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(214);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=214s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I will say, however, that he seemed a little bit surprised to learn that his one-time guest, Brian Harpole, is suing me and extraordinarily trying to spin this tale in the courts that the only reason he was forced to go on the Sean Ryan show. ... thereby making him a limited public figure was because of me and my harassment, despite the fact that I never uttered his name before he went on the Sean Ryan show and had that disaster of an interview.
 

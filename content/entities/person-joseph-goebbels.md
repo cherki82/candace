@@ -3,9 +3,17 @@ title: "Joseph Goebbels"
 description: "Joseph Goebbels (People) - 2 mentions"
 id: "person-joseph-goebbels"
 type: "PERSON"
+categories:
+  - "Nazi Germany political figure"
 ---
 
 _Type: People_
+
+**Categories:** Nazi Germany political figure
+
+**Entity verification:** verified
+> The United States Holocaust Memorial Museum confirms the canonical name Joseph Goebbels and his role as Nazi propaganda minister.
+Source: [Joseph Goebbels | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/joseph-goebbels-1)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-joseph-goebbels-t-00-33-10">2025-09-18 · 00:33:10</a></strong></div>

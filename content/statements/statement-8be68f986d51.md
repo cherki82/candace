@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:04:45](/episodes/ep-X3VKJVJ7cN4.md#t-00-04-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(285);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=285s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is his shirt. I have taken care of multiple burns as a plastic and reconstructive surgery nurse, and that is his shirt.
 

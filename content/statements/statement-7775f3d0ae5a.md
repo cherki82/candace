@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:18:36](/episodes/ep-k1b1NDCrNFs.md#t-00-18-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1116);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1116s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You'll recall when YouTuber Paramount Tactical, one of the bros, accidentally read Andrew Kolvet's text messages live on air. And he said, just a little too quickly, he read the message and then Andrew (Andrew Kolvet) said, please don't share publicly, but he had read that out loud and it was an alibi regarding Fort Huachuca, asserting that the story was insane and that Erika (Erika Kirk) was at home with her children.
 

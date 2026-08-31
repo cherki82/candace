@@ -1,6 +1,6 @@
 ---
-title: "During the pandemic, he refused to do mass layoffs like ever..."
-description: "\"During the pandemic, he refused to do mass layoffs like everybody else in the country was doing. Said no to the — whatever that check was. ... the PPE...\" — Andrew Kolvet"
+title: "Andrew Kolvet said Charlie Kirk refused to carry out mass la..."
+description: "\"Andrew Kolvet said Charlie Kirk refused to carry out mass layoffs during the pandemic\" — Andrew Kolvet"
 statement_id: "statement-adc8512c7e33"
 speaker: "Andrew Kolvet"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> During the pandemic, he refused to do mass layoffs like everybody else in the country was doing. Said no to the — whatever that check was. ... the PPE loans
+> Andrew Kolvet said Charlie Kirk refused to carry out mass layoffs during the pandemic
 
 ## Attribution
 
@@ -18,15 +18,20 @@ type: "factual_claim"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** Culture Apothecary with Alex Clark
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md) (event)
 
 ## Source
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:36:45](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2205);return false;">Play</a>
+**Timestamp:** [00:36:39](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) 
+<a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=2199s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> During the pandemic, he refused to do mass layoffs like everybody else in the country was doing
+> During the pandemic, he refused to do mass layoffs like everybody else in the country was doing.
 
 ## Verification
 

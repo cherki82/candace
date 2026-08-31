@@ -1,6 +1,6 @@
 ---
-title: "Dr. Lee Trotter is a pilot and may actually be in the Air Fo..."
-description: "\"Dr. Lee Trotter is a pilot and may actually be in the Air Force based on a person who matches his name, age, and description in public records.\" — Candace Owens"
+title: "Owens said she thinks Dr. Lee Trotter might actually be in t..."
+description: "\"Owens said she thinks Dr. Lee Trotter might actually be in the Air Force, although she could not confirm it, and that he is a pilot\" — Candace Owens"
 statement_id: "statement-1dc94b89b3e9"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Dr. Lee Trotter is a pilot and may actually be in the Air Force based on a person who matches his name, age, and description in public records.
+> Owens said she thinks Dr. Lee Trotter might actually be in the Air Force, although she could not confirm it, and that he is a pilot
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:29:22](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1762);return false;">Play</a>
+**Timestamp:** [00:29:20](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1760s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Can't confirm that entirely, but there's a person who matches his name, age, description—living where he's living—who is actually in the Air Force.
+> I think he actually might be in the Air Force from what I'm looking at. Can't confirm that entirely, but there's a person who matches his name, age, description—living where he's living—who is actually in the Air Force. And he also for a fact is a pilot, so it would track that he was in the military.
 
 ## Verification
 

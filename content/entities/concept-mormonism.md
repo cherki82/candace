@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 69 mentions"
+description: "Mormonism (Concepts) - 78 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -24,10 +24,10 @@ _Type: Concepts_
 Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](https://newsroom.churchofjesuschrist.org/article/mormonism-101)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-00">2026-01-06 · 00:47:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08">2025-10-08 · 00:37:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mormonism-t-00-45-38">2026-07-29 · 00:45:58</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,8 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08" style="--pulse-height:47%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 7 mentions" title="2025-10-08 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-mormonism-t-00-54-23" style="--pulse-height:13%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-00" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-mormonism-t-00-53-40" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29" style="--pulse-height:73%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
@@ -60,6 +62,8 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08) | 7 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mormonism-t-00-54-23) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-00) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-mormonism-t-00-53-40) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29) | 11 |
@@ -84,7 +88,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3 mentions)</summary>
@@ -375,6 +379,43 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 **[00:47:51](/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-51)**
 > "So did the Mormons know that the bees were commies in 1948? Did anyb..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+
+**[00:54:35](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mormonism-t-00-54-23)**
+> "I'm old. The reality and the danger of organized evil. Yes, of course. And I want to be very clear that a lot of the stuff that I have been able to find out in this investigation has been because of Mormons that have been willing to go on the ground to ask questions, to get me information, to get me phone numbers. Would not have been possible without these young Mormon students."
+
+**[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mormonism-t-00-27-03)**
+> "... look into the quote-unquote "Mormon mafia," which she said sits above Hollywood and e..."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (7 mentions)</summary>
+
+**[00:37:08](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08)**
+> "...rael." 100%, it's happened in Mormon country."
+
+**[00:37:17](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08)**
+> "How come there were no Mormon people, no Mormon presidents coming out and sayin..."
+
+**[00:37:27](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08)**
+> "...) did. How come there were no Mormon people that started Operation Mormon Pastor or Pr..."
+
+**[00:37:38](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08)**
+> "I was actually on the Mormons. I've been on the show calling them out by name, ..."
+
+**[00:37:42](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-00-37-08)**
+> "Mormons were not offended by that at all. Because they wa..."
+
+**[01:09:53](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-01-09-48)**
+> "...blical. Angela Lewis writes, "Mormon here. We love you, Candace (Candace Owens). We ju..."
+
+**[01:10:00](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-mormonism-t-01-09-48)**
+> "... want to say shout-out to the Mormon community for never accusing me of being antisemi..."
 
 </details>
 

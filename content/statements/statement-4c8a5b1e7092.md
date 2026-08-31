@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:36:07](/episodes/ep-zSKrxIUMNqw.md#t-00-36-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2167);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=2167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Nimi skincare is made here in the USA and it's built around that same idea of intentional simplicity.
 

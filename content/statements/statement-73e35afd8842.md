@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1785);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1785s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Oh, I know because you're all lying. That's pretty obvious by now. You're all lying. Please just stop lying. about everything. Because eventually what's happening is what we're going through right now. The public is having to decide whether or not you have been making genuine mistakes repeatedly or if you have been fibbing non-stop at all hours of every day because you're engaged in a cover-up. And I am of the latter opinion I have been for a while.
 

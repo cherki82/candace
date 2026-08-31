@@ -324,7 +324,7 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 - [00:50:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-10) (Claim) **Victor Marx**: ["Victor Marx says he immediately brought a team to relieve Charlie Kirk..."](/statements/statement-11ab1843d94b.md)
   - Also about: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:50:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-52) (Claim) **Victor Marx**: ["Victor Marx says Eileen Marx is like a second mother to Erika Kirk and..."](/statements/statement-dfc27f7f919b.md)
+- [00:50:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-52) (Claim) **Victor Marx**: ["Victor Marx says Eileen Marx is perhaps like a second mother to Erika ..."](/statements/statement-dfc27f7f919b.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

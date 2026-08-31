@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:17:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-16-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1029s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had no idea that the Utah state flag is a hexagonal beehive, right? And I mean, notice to me that it has always been the Beehive State. So in 2024, they modernized their flag, but they've always been known as the Beehive State. And to be clear, it's not because they make honey. It's not because they have a high presence of bees. In fact, in terms of making honey or bee-related products, they rank number 24. It's actually the Beehive State. It relates to the Mormon Church—the Church of Jesus Christ of Latter-day Saints. Early Mormon pioneers founded that state, and they liked the idea of a beehive working toward a common good.
 

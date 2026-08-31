@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:20:41](/episodes/ep-2T39-oADLj0.md#t-00-20-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1241);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=1241s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He had an office on Harvard campus despite only having a high school diploma, which I can't even verify his high school diploma,
 

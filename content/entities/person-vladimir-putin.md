@@ -35,7 +35,7 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-vladimir-putin-t-00-00-44">I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34" style="--pulse-height:22%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34" style="--pulse-height:17%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-vladimir-putin-t-01-04-36" style="--pulse-height:11%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-vladimir-putin-t-00-01-51" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-vladimir-putin-t-00-01-06" style="--pulse-height:28%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
@@ -48,7 +48,7 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34) | 4 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-vladimir-putin-t-01-04-36) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-vladimir-putin-t-00-01-51) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-vladimir-putin-t-00-01-06) | 5 |
@@ -194,19 +194,16 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
 
 **[00:36:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34)**
 > "Like I'm gonna go live with Putin (Vladimir Putin)."
 
-**[00:38:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34)**
-> "Could you imagine Vladimir Putin (Vladimir Putin) sending this tweet?"
-
 **[00:40:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-01)**
-> "There was no question that Vladimir Putin (Vladimir Putin) and the homies laughed."
+> "There was no question that Vladimir Putin and the homies laughed."
 
 **[00:41:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-46)**
-> "Could you imagine Vladimir Putin (Vladimir Putin) sending this tweet?"
+> "Could you imagine Vladimir Putin sending this tweet?"
 
 </details>
 

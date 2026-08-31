@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:07:15](/episodes/ep-4YgrOhhy708.md#t-00-06-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(435);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=435s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We should be clear it was a prerecord. ... so Bad Bunny was performing live, ... Turning Point USA prerecorded, I think, a couple of weeks ago.
 

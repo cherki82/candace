@@ -1,6 +1,6 @@
 ---
-title: "Mamdani won the New York City mayoral election"
-description: "\"Mamdani won the New York City mayoral election\" — Candace Owens"
+title: "Mamdani won the New York City mayoral election."
+description: "\"Mamdani won the New York City mayoral election.\" — Candace Owens"
 statement_id: "statement-70d16cea31e1"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Mamdani won the New York City mayoral election
+> Mamdani won the New York City mayoral election.
 
 ## Attribution
 
@@ -22,24 +22,15 @@ veracity: "true"
 ## About
 
 - [Zohran Mamdani](/entities/person-zohran-mamdani.md) (person)
+- [New York City](/entities/gpe-new-york-city.md) (gpe)
 
-## Appearances (2)
-
-### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=5s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Happy Wednesday for some people in New York City. Mamdani won.
-
-### 2. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
-
-**Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5);return false;">Play</a>
-
-> Happy Wednesday for some people in New York City
 
 ## Verification
 

@@ -3,9 +3,18 @@ title: "Rand Paul"
 description: "Rand Paul (People) - 1 mention"
 id: "person-rand-paul"
 type: "PERSON"
+categories:
+  - "United States politics"
+  - "U.S. Senate"
 ---
 
 _Type: People_
+
+**Categories:** United States politics, U.S. Senate
+
+**Entity verification:** verified
+> Official Senate biography confirms the canonical name Rand Paul and his service as a U.S. Senator.
+Source: [About Dr. Rand Paul](https://www.paul.senate.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-rand-paul-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>

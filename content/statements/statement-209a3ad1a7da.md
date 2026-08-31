@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:52:15](/episodes/ep-2tFYJf1klgY.md#t-00-52-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3135);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=3135s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's no truth to that. Erica (Erika Kirk) definitively still has her kids. UT Gramshar writes, thank you, Candace (Candace Owens), for simply being you.
 

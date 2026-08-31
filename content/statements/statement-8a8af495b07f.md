@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:21:32](/episodes/ep-YA1FxrDWNIo.md#t-00-21-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1292);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1292s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His job—Detective Mike Mitchell—was to create messages online to entrap pedophiles, okay, by pretending that he was underage. You guys know—you've heard about these sorts of stings. You pretend that you're underage as an officer and see people that try to hook up with you, and then you make an arrest.
 

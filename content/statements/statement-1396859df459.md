@@ -1,6 +1,6 @@
 ---
-title: "something that big, you're clearing $100 million a year"
-description: "\"something that big, you're clearing $100 million a year\" — Candace Owens"
+title: "Owens said Turning Point USA was clearing $100 million a yea..."
+description: "\"Owens said Turning Point USA was clearing $100 million a year.\" — Candace Owens"
 statement_id: "statement-1396859df459"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> something that big, you're clearing $100 million a year
+> Owens said Turning Point USA was clearing $100 million a year.
 
 ## Attribution
 
@@ -20,13 +20,17 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:19:32](/episodes/ep-K5GjF53bfN4.md#t-00-19-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1172);return false;">Play</a>
+**Timestamp:** [00:19:25](/episodes/ep-K5GjF53bfN4.md#t-00-19-19) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=1165s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Of course, something that big, you're clearing $100 million a year, you gotta have lieutenants and you have to trust those lieutenants.
+> But in terms of the accounting specifics, he trusted his lieutenants. Of course, something that big, you're clearing $100 million a year, you gotta have lieutenants and you have to trust those lieutenants.
 
 ## Verification
 

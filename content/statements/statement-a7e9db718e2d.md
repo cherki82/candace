@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:33:59](/episodes/ep-5-HUyv9LyMg.md#t-00-33-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2039);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=2039s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now I've learned about his dad and his uncles and his cousins and their relationship with Lori Frantzve dating back to 2013
 

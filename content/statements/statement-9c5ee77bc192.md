@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2080);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=2080s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there, despite reports of abuse.
 

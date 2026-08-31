@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:12:31](/episodes/ep-9CuC1yf8-PU.md#t-00-12-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(751);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=751s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This was the most compelling piece of evidence that we were never supposed to have. The car was sent for a tow, a cleanup, an auction, all very expeditiously. They didn't want to keep this for evidence.
 

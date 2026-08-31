@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:21:30](/episodes/ep-amqTMimDr0A.md#t-00-21-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1290);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1290s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But most critically, what is something that you should know about Gary Javitch? He is—and he has been—the executive director of B'nai B'rith International for years. ... Anyway, back to Gary (Gary Javitch). He served on the B'nai B'rith International's board as their executive board chair in 2011, 2016, 2017, 2018, 2019. ... He received the inaugural President's Award in 2019 for advancing the organization's mission.
 

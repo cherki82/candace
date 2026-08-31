@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [01:05:18](/episodes/ep-IqHsl7d2dos.md#t-01-05-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3918);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=3918s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So regarding whether or not I think it's possible that Charlie (Charlie Kirk) was still alive, no, I don't think so. I don't think Charlie (Charlie Kirk) was alive, given what I've learned about the explosive. I do believe he was taken out by an explosive, and I don't think that it's possible he survived. ... And I'll leave it at that. I also don't think he was given the medical care in the car that they are all pretending that he was given either.
 

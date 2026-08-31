@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:01:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-01-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(110);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=110s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The first that we could find to publicly announce that Charlie Kirk had passed away on September 10th on social media, I believe it was on Instagram, it was an hour and a half before the President of the United States made the announcement, even though he has since deleted that Instagram post.
 

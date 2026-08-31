@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:04:31](/episodes/ep-NIEbqsLAK8g.md#t-00-04-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(271);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=271s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It's a single night fundraiser for the American Cancer Society. And it's massive. To be clear, it's the world's largest single night fundraiser. It was founded 50 years ago. in Dallas, Texas.
 

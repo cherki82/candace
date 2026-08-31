@@ -1,16 +1,17 @@
 ---
-title: "Members of Congress are actively being blackmailed. The Epst..."
-description: "\"Members of Congress are actively being blackmailed. The Epstein playbook is being used on a daily basis\" — Charlie Kirk"
+title: "Charlie Kirk said the Epstein playbook was being used on a d..."
+description: "\"Charlie Kirk said the Epstein playbook was being used on a daily basis\" — Charlie Kirk"
 statement_id: "statement-aa7605c48a8f"
 speaker: "Charlie Kirk"
-type: "factual_claim"
+type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Members of Congress are actively being blackmailed. The Epstein playbook is being used on a daily basis
+> Charlie Kirk said the Epstein playbook was being used on a daily basis
 
 ## Attribution
 
@@ -28,14 +29,27 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:30:39](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1839);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1839s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Members of Congress are actively being blackmailed. The Epstein playbook is being used on a daily basis.
+> The Epstein playbook is being used on a daily basis.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+A contemporaneous report and embedded excerpt quote Kirk saying exactly that the Epstein playbook was being used on a daily basis. This verifies the attributed statement, not the underlying allegation that such blackmail was occurring daily.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Charlie Kirk: 'The Epstein playbook is being used on a daily basis'](https://humanevents.com/2024/01/05/charlie-kirk-the-epstein-playbook-is-being-used-on-a-daily-basis)
+
+*Verified: 2026-08-30T16:18:00.911142*
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** Yes

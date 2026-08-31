@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 368 mentions"
+description: "Blake Neff (People) - 371 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21">2026-08-21 · 00:24:21</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>368</strong></div>
-<div><span>Statements by</span><strong>46</strong></div>
-<div><span>Statements about</span><strong>51</strong></div>
-<div><span>Relationships</span><strong>37</strong></div>
+<div><span>Episodes</span><strong>72</strong></div>
+<div><span>Mentions</span><strong>371</strong></div>
+<div><span>Statements by</span><strong>48</strong></div>
+<div><span>Statements about</span><strong>50</strong></div>
+<div><span>Relationships</span><strong>41</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,16 +40,17 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-5autG89PW6w.md#t-00-15-02" style="--pulse-height:17%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32" style="--pulse-height:11%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#t-00-10-04" style="--pulse-height:11%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-24" style="--pulse-height:44%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-05-43" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22" style="--pulse-height:50%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 9 mentions" title="2025-11-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32" style="--pulse-height:44%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-05-50" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-01" style="--pulse-height:44%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41" style="--pulse-height:67%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 12 mentions" title="2025-12-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36" style="--pulse-height:78%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 14 mentions" title="2025-12-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-blake-neff-t-00-37-15" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05" style="--pulse-height:17%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36" style="--pulse-height:22%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17" style="--pulse-height:22%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05" style="--pulse-height:11%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
@@ -116,16 +117,17 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-15-02) | 3 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32) | 2 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-10-04) | 2 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-24) | 8 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22) | 9 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32) | 8 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-05-50) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-01) | 8 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14) | 9 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41) | 12 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36) | 14 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-blake-neff-t-00-37-15) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05) | 3 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36) | 4 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52) | 2 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17) | 4 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31) | 2 |
@@ -191,7 +193,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (368)</strong></summary>
+<summary><strong class="section-title">Raw mentions (371)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1377,11 +1379,28 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[01:00:06](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52)**
+**[01:00:06](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37)**
 > "It makes Blake Neff's story especially weird"
 
-**[01:00:12](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52)**
+**[01:00:12](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37)**
 > "But why would he say that to Blake Neff if he's on the phone with his wife?"
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+
+**[00:27:44](/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17)**
+> "...because we know this, because Blake Neff has given us his call log to his mother."
+
+**[00:27:52](/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17)**
+> "Blake Neff called his mom. His call with his mother lasted 4..."
+
+**[00:28:02](/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-28-02)**
+> "Blake Neff ends that phone call with his mother. Mikey (Mike..."
+
+**[01:05:51](/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-01-05-51)**
+> "..., obviously you saw the offer Blake Neff made, which was not a true offer."
 
 </details>
 
@@ -1391,25 +1410,25 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:26:36](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
 > "...week, what we got from Blake (Blake Neff), and I know he's untouchable, he's in the fam, b..."
 
-**[00:34:24](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+**[00:34:20](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
 > "what we got from Blake (Blake Neff), and I know he's untouchable"
 
-**[00:56:11](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-56-08)**
-> "...son is making the joke, maybe Blake (Blake Neff)."
-
-**[00:56:14](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-56-08)**
+**[00:56:08](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-55-41)**
 > "I didn't look into the Blake (Blake Neff) thing or why he left Fox News because I'm just m..."
+
+**[00:45:47](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "... until I gave him the correct Neff."
 
 </details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
 
-**[00:04:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05)**
-> "whether or not it's potential that Blake Neff has military connections"
-
 **[00:25:05](/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05)**
-> "...ot it's potential that Blake (Blake Neff) Neff (Blake Neff) has military connections as we..."
+> "...er or not it's potential that Blake Neff has military connections as well."
+
+**[00:27:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05)**
+> "He said that this commander, Neff, by the way, was the commander of force protectio..."
 
 **[00:55:20](/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-55-15)**
 > "The likes of Andrew, Blake (Blake Neff), Mikey (Mikey McCoy), Tyler (Tyler Robinson), et..."
@@ -1420,7 +1439,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:37:36](/episodes/ep-Kmt6HgRjckU.md#ent-person-blake-neff-t-00-37-15)**
-> "...e, last episode was regarding Blake Neff and his diatribe of, you know, why Turning Point ..."
+> "All right, our top comment from last episode came from Joanne (commenter; surname unverified). That, of course—the last episode—was regarding Blake Neff and his diatribe of, you know, why Turning Point took a while to respond."
 
 </details>
 
@@ -1484,7 +1503,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > "...them. I think that's it. That's what it must be. Frank Turek has come out, and he's telling us that Blake Neff—even though he seems very insincere—you should know that Charlie (Charlie Kirk) told him—told Frank..."
 
 **[00:28:02](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-27-46)**
-> "...that he knows. Trust the science. Take a listen. (Clip: Frank Turek speaking about Charlie Kirk and Blake Neff) The night before Charlie (Charlie Kirk) was murdered— I'm not just saying this, but I went into hi..."
+> "Trust the science. Take a listen. (Clip: Frank Turek speaking about Charlie Kirk and Blake Neff)"
 
 **[00:28:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-27-46)**
 > "... saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks. And he was going to dinner, and he said, "H..."
@@ -1496,7 +1515,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > "... he was going to dinner, and he said, "Hey, you're going to dinner with Blake and Danny." He said, "Blake is my secret weapon. He's the smartest man I know." And, uh, he loved you. And for anybody to sugge..."
 
 **[00:29:16](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-29-14)**
-> "... unconvincing and emotionally manipulative. It's so obvious. Like, Charlie (Charlie Kirk) said that Blake Neff was the smartest person in the world. So you should just accept that, okay? And that's what he told..."
+> "Like, Charlie (Charlie Kirk) said that Blake Neff was the smartest person in the world."
 
 **[00:29:29](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-29-14)**
 > "... Josh Hammer's book. He had that meeting; then he had a meeting with Frank Turek, and he was like, "Blake Neff is the smartest person, and nobody should question Blake Neff." It just—it was a lot. Like it was—h..."
@@ -1545,33 +1564,30 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (8 mentions)</summary>
 
-**[00:21:32](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22)**
+**[00:21:32](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-01)**
 > "...ght back because Turning Point is dropping receipts—kind of a little bit. We're going to talk about Blake Neff, who dropped a receipt; Brian Harpole, the security who dropped a receipt—right after a few of our ..."
 
 **[00:31:52](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
 > "... be passing the buck. So thank you for the receipt that wasn't actually a receipt. Next up, we have Blake Neff. Obviously, you guys will recall Blake Neff was the Turning Point USA employee that was standing di..."
 
-**[00:31:54](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
-> "...eceipt that wasn't actually a receipt. Next up, we have Blake Neff. Obviously, you guys will recall Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy when the sh..."
-
-**[00:32:07](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
+**[00:32:07](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-32-07)**
 > "...nt USA employee that was standing directly next to super-Mikey McCoy when the shot rang out. And he—Blake Neff—has similarly decided to drop a receipt. This happened, I think, actually last week, of his actions..."
 
-**[00:32:26](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
-> "...se of the magnificent Mikey McCoy, who he says had a quivering lip. And I'm gonna let you listen to Blake's account of that day again as a reminder before we get to his receipt. Take a listen. (Blake Neff ..."
+**[00:32:26](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-32-07)**
+> "And I'm gonna let you listen to Blake's account of that day again as a reminder before we get to his receipt."
 
 **[00:32:34](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-32-34)**
-> "...en to Blake's account of that day again as a reminder before we get to his receipt. Take a listen. (Blake Neff Clip) The shooting occurs. I am next to Mikey. Both of us hear a loud crack. We both turn. We both ..."
+> "(Blake Neff Clip) The shooting occurs. I am next to Mikey. Both of us hear a loud crack."
 
-**[00:35:46](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-34)**
+**[00:35:42](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-38)**
 > "...brave. It's everything. It's every adjective I ever knew and more. What's interesting there is that Blake Neff then had a back-and-forth with somebody on X. And I want to be clear: I actually don't think Blake ..."
 
-**[00:35:50](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-34)**
+**[00:35:50](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-38)**
 > "...e Neff then had a back-and-forth with somebody on X. And I want to be clear: I actually don't think Blake Neff is in on the corruption here. I don't know why; I've just never gotten that vibe. I think he believ..."
 
-**[00:36:29](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-34)**
+**[00:36:29](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-38)**
 > "...s call log with his mom, or rather a screenshot of the call that he had with his mom. Now remember, Blake is in Arizona now, so this is going to say 11:24. It's supposed to be obviously 12:24 Utah time. We..."
 
 </details>
@@ -1579,7 +1595,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:05:56](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43)**
+**[00:05:55](/episodes/ep-vwG1juDCQZQ.md#t-00-05-50)**
 > "...f the Brigitte Macron thing." "Oh, it's because of the Kamala Chronicles." "Oh, it's because of the Blake Lively lawsuit." The common denominator here is me looking for truth. And I think people are catching on t..."
 
 </details>
@@ -1587,22 +1603,22 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (8 mentions)</summary>
 
-**[00:35:57](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-24)**
+**[00:35:57](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32)**
 > "...nd the excuse that we were given about what Mikey was doing is like running in the back of my head. Blake Neff, who was there—he's also carrying on Charlie (Charlie Kirk)'s show. And he was pretty fired up abou..."
 
-**[00:36:06](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-36-06)**
+**[00:36:06](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32)**
 > "... up about people asking questions about what Mikey was doing. And I just want you to listen to what Blake Neff says that Mikey was up to in those seconds. (Clip of Blake Neff) Now, like I said, we can track Mik..."
 
-**[00:40:19](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-36-06)**
+**[00:40:16](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32)**
 > "... brings his hand down, okay? He's not covering his ears for that long—which doesn't make any sense. Blake might think he's telling the truth, but it's not a true account of what happened on that day, okay?..."
 
-**[00:40:24](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-36-06)**
+**[00:40:23](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32)**
 > "...ing the truth, but it's not a true account of what happened on that day, okay? I'll say that again. Blake might think he's telling the truth, so it is possible that Blake is not lying, okay? But it is not ..."
 
-**[00:40:44](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-40-37)**
+**[00:40:44](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-40-33)**
 > "...ng lot—that he seems to be going straight and then to the left. And he is on the phone already, and Blake Neff is nowhere to be seen. We can track those movements. We are told that within the minute of Charlie ..."
 
-**[00:41:51](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-40-37)**
+**[00:41:42](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-40-33)**
 > "... he is saying is true— and until they reunited—which does not happen in our eyesight. We do not see Blake and Mikey reunite when we track Mikey all the way straight down to the left. Okay. The 12-23 minute..."
 
 **[00:43:24](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-43-24)**
@@ -1617,10 +1633,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
 **[00:10:04](/episodes/ep-Qfwr08Ebczo.md#t-00-10-04)**
-> "...me he ever did it. Take a listen to Mikey McCoy explain that. Today is really fun because Mikey and Blake are going to talk about their last trip with Charlie (Charlie Kirk) to Asia. And Mikey, you are now..."
+> "Today is really fun because Mikey and Blake are going to talk about their last trip with Charlie Kirk to Asia."
 
-**[00:10:21](/episodes/ep-Qfwr08Ebczo.md#t-00-10-04)**
-> "...t three, four days before Utah. And it was Charlie (Charlie Kirk)'s dream to always go to Asia. And Blake and I got the gift of being able to tag along for that. And so I brought the camera with me. I've n..."
+**[00:10:21](/episodes/ep-Qfwr08Ebczo.md#t-00-10-13)**
+> "And Blake and I got the gift of being able to tag along for that. And so I brought the camera with me."
 
 </details>
 
@@ -1631,7 +1647,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > "...cks. The first thing I would have done—just like I did when I was being accused of colluding on the Blake Lively story, when I got drafted into that lawsuit and they thought that I was working with Blake Lively's..."
 
 **[00:45:05](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
-> "...th Justin Baldoni's team—is I quite literally live-subpoenaed myself. Held to my phone. I typed in "Blake Lively," and I showed you the only two times that I had ever texted about her in my phone at all to demons..."
+> "Held up my phone. I typed in "Blake Lively," and I showed you the only two times that I had ever texted about her in my phone at all"
 
 </details>
 
@@ -1641,7 +1657,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:15:25](/episodes/ep-5autG89PW6w.md#t-00-15-02)**
 > "...a few people. Don't know where it went from there, apparently. But here we are. One of the reasons, Blake, that I'm glad to have this now public—it was not mine to share publicly—but you know, one of the c..."
 
-**[00:17:07](/episodes/ep-5autG89PW6w.md#t-00-17-07)**
+**[00:17:07](/episodes/ep-5autG89PW6w.md#t-00-16-54)**
 > "... that that text chain is consistent with public frustrations that he voiced many times. And I know, Blake, you were in the trenches on a lot of this stuff because we were workshopping how we were going to ..."
 
 **[00:19:06](/episodes/ep-5autG89PW6w.md#t-00-18-31)**
@@ -1655,14 +1671,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (4)</summary>
-
-- **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
-
-</details>
+<summary>Appeared With (3)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1684,6 +1693,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:24:21](/episodes/ep-_cNtgris8Ik.md#t-00-24-21): “All right, you guys, today on the Beavis and Butthead show, so fitting for Andrew Kolvet and Blake Neff. They were joined by Andrew Wilson.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Close Associate Of (1)</summary>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:33:48](/episodes/ep-581dILVcEE4.md#t-00-33-16): “I pause; I look around me; and I see Mikey. And I see Mikey there. And I'll never—truthfully, I will never forget what I saw because I've seen Mikey almost every day for the past two years. I know his personality very well. He's a very bubbly guy. He's a very happy guy almost all of the time.”
 
 </details>
 
@@ -1832,7 +1853,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>Lives In (1)</summary>
 
-- **[Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)**
+- **[Phoenix](/entities/gpe-phoenix.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:37:08](/episodes/ep-N4uM8Jdr410.md#t-00-37-08): “—interpreted as, 'Did you stay in Utah that night?' as opposed to returning to Phoenix, where I live. And I stayed in Utah that night.”
@@ -1842,12 +1863,32 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
+<summary>Met With (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:28:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05): “You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:28:05](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05): “The night before Charlie (Charlie Kirk) was murdered— I'm not just saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
 
 </details>
 
@@ -1860,12 +1901,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
-- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:54](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to Mikey McCoy”
-- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:57](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I opened the tweets, which went out from Blake Neff around midnight last night”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:52](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Next up, we have Blake Neff. Obviously, you guys will recall Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy when the shot rang out.”
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:03:53](/episodes/ep-DqGNvi36ol8.md#t-00-03-41)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:01:48](/episodes/ep-mLvJqdxS-FY.md#t-00-01-40): “Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
 
 </details>
 
@@ -1881,14 +1922,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
-
-- **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
-
-</details>
+<summary>Referenced By (20)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1910,6 +1944,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:24:21](/episodes/ep-_cNtgris8Ik.md#t-00-24-21): “All right, you guys, today on the Beavis and Butthead show, so fitting for Andrew Kolvet and Blake Neff. They were joined by Andrew Wilson.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** close associate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:33:48](/episodes/ep-581dILVcEE4.md#t-00-33-16): “I pause; I look around me; and I see Mikey. And I see Mikey there. And I'll never—truthfully, I will never forget what I saw because I've seen Mikey almost every day for the past two years. I know his personality very well. He's a very bubbly guy. He's a very happy guy almost all of the time.”
 
 </details>
 
@@ -1993,12 +2034,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:01:48](/episodes/ep-mLvJqdxS-FY.md#t-00-01-40): “Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point.”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
 
 </details>
 
@@ -2047,7 +2089,21 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
-- **[Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)** residence of this
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:28:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05): “You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:28:05](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05): “The night before Charlie (Charlie Kirk) was murdered— I'm not just saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks.”
+
+</details>
+
+- **[Phoenix](/entities/gpe-phoenix.md)** residence of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:37:08](/episodes/ep-N4uM8Jdr410.md#t-00-37-08): “—interpreted as, 'Did you stay in Utah that night?' as opposed to returning to Phoenix, where I live. And I stayed in Utah that night.”
@@ -2059,7 +2115,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (46)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (48)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2)</summary>
@@ -2243,13 +2299,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [✓] (Claim) ["Blake Neff said that, although he might have been imagining the exact words, he ..."](/statements/statement-4a781858dc80.md)
+- [00:24:53](/episodes/ep-es7PWdFGoFI.md#t-00-24-53) [✓] (Claim) ["Blake Neff said that, although he might have been imagining the exact words, he ..."](/statements/statement-4a781858dc80.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:25:51](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [○] (Claim) ["Mikey called Erika and then immediately called his dad Rob McCoy saying 'dad, so..."](/statements/statement-03a81f579a0f.md)
-  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 
@@ -2294,10 +2347,24 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3)</summary>
+
+- [00:38:18](/episodes/ep-LATnak75Si0.md#t-00-38-18) [✓] (Claim) ["Blake Neff said that within a minute of Charlie Kirk being shot, Michael McCoy s..."](/statements/statement-327a414fb3e7.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:47](/episodes/ep-LATnak75Si0.md#t-00-38-18) [✓] (Claim) ["Blake Neff said Michael McCoy then called Rob McCoy, told him Charlie Kirk had b..."](/statements/statement-0f0bba63920b.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:35](/episodes/ep-LATnak75Si0.md#t-00-39-35) [✓] (Claim) ["Blake Neff said that after the group learned Charlie Kirk had died, Michael McCo..."](/statements/statement-b84640e8b043.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (51)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (50)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2505,22 +2572,17 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
-- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) (Opinion) **Candace Owens**: ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is..."](/statements/statement-64dacbaa174f.md)
+- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-37) (Opinion) **Candace Owens**: ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is..."](/statements/statement-64dacbaa174f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
-- [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff's call with his mother lasted 45 seconds"](/statements/statement-89f562ad0771.md)
+- [00:27:52](/episodes/ep-es7PWdFGoFI.md#t-00-27-17) (Claim) **Candace Owens**: ["Candace Owens said Blake Neff's call log showed a 45-second call to hi..."](/statements/statement-0f55d4b039c7.md)
 
-- [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff called his mother and the call lasted 45 seconds, ending ar..."](/statements/statement-0f55d4b039c7.md)
-
-- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey called Erika after Blake Neff ended his phone call with his moth..."](/statements/statement-af7ca7b67be0.md)
-  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey McCoy called Erika Kirk after Blake Neff ended his call with his..."](/statements/statement-20ddd092b3d2.md)
+- [00:28:02](/episodes/ep-es7PWdFGoFI.md#t-00-28-02) (Claim) **Candace Owens**: ["Candace Owens said Mikey McCoy added Erika Kirk to his call after Blak..."](/statements/statement-20ddd092b3d2.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -2566,7 +2628,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
-- [00:36:04](/episodes/ep-581dILVcEE4.md#t-00-35-34) (Claim) **Candace Owens**: ["Blake Neff's phone log shows he called his mom at 11:24 AM Arizona tim..."](/statements/statement-f3a5b0547f55.md)
+- [00:36:04](/episodes/ep-581dILVcEE4.md#t-00-35-38) (Claim) **Candace Owens**: ["Blake Neff's phone log shows he called his mom at 11:24 AM Arizona tim..."](/statements/statement-f3a5b0547f55.md)
 
 - [00:36:36](/episodes/ep-581dILVcEE4.md#t-00-36-17) (Claim) **Candace Owens**: ["Blake Neff called his mom at 11:24 Arizona time (12:24 Utah time), app..."](/statements/statement-1dd2119a179a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -2574,10 +2636,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2)</summary>
 
-- [00:43:18](/episodes/ep-LATnak75Si0.md#t-00-42-45) (Citation) **Candace Owens** (via paraphrase): ["Blake Neff says they got Charlie Kirk to the hospital within 25 minute..."](/statements/statement-0724ec75944f.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:40:16](/episodes/ep-LATnak75Si0.md#t-00-39-52) (Accusation) **Candace Owens**: ["Candace Owens said Blake Neff might think he was telling the truth and..."](/statements/statement-33758382aa0e.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:43:18](/episodes/ep-LATnak75Si0.md#t-00-42-45) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens said Blake Neff had said elsewhere that they got Charlie..."](/statements/statement-0724ec75944f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
 
 </details>
 

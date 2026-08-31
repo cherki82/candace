@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:40:22](/episodes/ep-kaWtDuoY_ns.md#t-00-40-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2422);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in that piece he wrote this, quote, Laura Loomer has been diagnosed at various times and by various doctors as suffering from bipolar disorder, histrionic personality disorder, borderline personality disorder, and narcissistic personality disorder.
 

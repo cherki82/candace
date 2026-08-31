@@ -1,31 +1,39 @@
 ---
-title: "Trump wrote on April 19th, 2013: 'Should be public execution..."
-description: "\"Trump wrote on April 19th, 2013: 'Should be public execution for all to see. You will end this bull fast.'\" — Candace Owens"
+title: "Josh Hammer wrote that Tucker Carlson, Candace Owens, and ot..."
+description: "\"Josh Hammer wrote that Tucker Carlson, Candace Owens, and other bad-faith actors were lying about Charlie Kirk and Israel.\" — Josh Hammer"
 statement_id: "statement-39163e4e9a86"
-speaker: "Candace Owens"
-type: "factual_claim"
+speaker: "Josh Hammer"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Trump wrote on April 19th, 2013: 'Should be public execution for all to see. You will end this bull fast.'
+> Josh Hammer wrote that Tucker Carlson, Candace Owens, and other bad-faith actors were lying about Charlie Kirk and Israel.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Josh Hammer](/entities/person-josh-hammer.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from tweet
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** X
+
+## About
+
+- [Tucker Carlson](/entities/person-tucker-carlson.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:06:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(401);return false;">Play</a>
+**Timestamp:** [00:03:02](/episodes/ep-2Riv3I7D0Yk.md#t-00-02-54) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=182s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Trump wrote on April 19th, 2013: "Should be public execution for all to see
+> Tucker (Tucker Carlson), Candace (Candace Owens), and other bad faith actors are lying through their teeth about Charlie (Charlie Kirk) and Israel.
 
 ## Verification
 
@@ -33,4 +41,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

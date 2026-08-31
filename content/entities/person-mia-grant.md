@@ -24,9 +24,9 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11">2026-06-24 · 00:54:29</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,7 +36,7 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-person-mia-grant-t-00-19-52" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-mia-grant-t-00-03-13" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 4 mentions" title="2025-09-23 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04" style="--pulse-height:50%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04" style="--pulse-height:25%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-mia-grant-t-00-13-04" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
@@ -46,7 +46,7 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-mia-grant-t-00-19-52) | 4 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-mia-grant-t-00-03-13) | 4 |
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04) | 2 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-mia-grant-t-00-13-04) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11) | 1 |
 
@@ -75,12 +75,9 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
 
-**[00:00:47](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
-> "I brought my cousin Mia, you know, the one that has a really bad attitude"
-
-**[00:02:35](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
+**[00:02:33](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
 > "...then I brought my cousin Mia (Mia Grant), you know, the one that has a really bad attitud..."
 
 </details>
@@ -125,25 +122,55 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (2)</summary>
 
 - **[Elle Steele](/entities/person-elle-steele.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:05](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+
+</details>
+
+- **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Cousin Of (1)</summary>
+<summary>Cousin Of (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:29](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Ashley (commenter; surname unverified) writes, 'Hi, Candace. Congratulations. Also curious what cousin Mia (Mia Grant)'s opinion is about Erika (Erika Kirk) when you both walked out of that meeting months ago.'”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:24](/episodes/ep-zSKrxIUMNqw.md#t-00-13-04): “And I was venting about this to my cousin, Mia (Mia Grant), you know, Mia (Mia Grant), who I just brought with me for no reason—for vibes,”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:33](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “He was in a conference. And then I brought my cousin Mia (Mia Grant), you know, the one that has a really bad attitude.”
+
+</details>
+
+- **[Elle Steele](/entities/person-elle-steele.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:05:00](/episodes/ep-UBkFkg4UNY8.md#t-00-04-25): “It was just me, Mia (Mia Grant), and then my other cousin, Bella.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:21:52](/episodes/ep-sreYYcID-QY.md#t-00-21-15): “It was just me, Mia, and then my other cousin, Bella.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (1)</summary>
+
+- **[Good Morning America](/entities/work-good-morning-america.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
@@ -153,36 +180,63 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 <summary>Niece/Nephew Of (1)</summary>
 
 - **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Elle Steele](/entities/person-elle-steele.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:05](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+
+</details>
+
+- **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** cousin of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:29](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Ashley (commenter; surname unverified) writes, 'Hi, Candace. Congratulations. Also curious what cousin Mia (Mia Grant)'s opinion is about Erika (Erika Kirk) when you both walked out of that meeting months ago.'”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:24](/episodes/ep-zSKrxIUMNqw.md#t-00-13-04): “And I was venting about this to my cousin, Mia (Mia Grant), you know, Mia (Mia Grant), who I just brought with me for no reason—for vibes,”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:33](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “He was in a conference. And then I brought my cousin Mia (Mia Grant), you know, the one that has a really bad attitude.”
+
+</details>
+
+- **[Elle Steele](/entities/person-elle-steele.md)** cousin of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:05:00](/episodes/ep-UBkFkg4UNY8.md#t-00-04-25): “It was just me, Mia (Mia Grant), and then my other cousin, Bella.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:21:52](/episodes/ep-sreYYcID-QY.md#t-00-21-15): “It was just me, Mia, and then my other cousin, Bella.”
+
+</details>
+
+- **[Good Morning America](/entities/work-good-morning-america.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
 - **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)** uncle/aunt of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:04](/episodes/ep-sreYYcID-QY.md#t-00-19-52): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:03:13](/episodes/ep-UBkFkg4UNY8.md#t-00-03-13): “We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon.”
 
 </details>
 
@@ -191,19 +245,10 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mia Grant (4)</strong></summary>
+<summary><strong class="section-title">Statements by Mia Grant (1)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4)</summary>
-
-- [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) [○] (Claim) ["We were like 15 feet away from the shooting"](/statements/statement-93c1c773c1eb.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) [○] (Claim) ["They were about 15 feet away from Charlie Kirk when he was shot"](/statements/statement-bfab84d4314d.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Mia Grant](/entities/person-mia-grant.md)
-
-- [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) [○] (Claim) ["We were like 15 feet away, and I thought the shot was like a firecracker or some..."](/statements/statement-107711955070.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
 - [00:22:12](/episodes/ep-sreYYcID-QY.md#t-00-22-09) [○] (Claim) ["We were like 15 feet away, and I thought, like, the shot was like a firecracker ..."](/statements/statement-d313b33ad651.md)
 
@@ -212,21 +257,13 @@ Source: [Prior Candace Owens episode naming Mia Grant](https://www.youtube.com/w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mia Grant (2)</strong></summary>
+<summary><strong class="section-title">Statements about Mia Grant (1)</strong></summary>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) (Claim) **Candace Owens**: ["Candace Owens said her private meeting lasted four hours and 30 minute..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
-
-- [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) (Claim) **Mia Grant** (via quoted speech): ["They were about 15 feet away from Charlie Kirk when he was shot"](/statements/statement-bfab84d4314d.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

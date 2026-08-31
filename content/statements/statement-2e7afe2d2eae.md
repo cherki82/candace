@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:26:23](/episodes/ep-IqHsl7d2dos.md#t-00-26-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1583);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1583s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Did you know what he was doing right before Charlie (Charlie Kirk) died? His official title was senior consultant to the Department of War. ... Now he's allegedly moved to Arizona to full-time assist Turning Point USA in their information war regarding Charlie (Charlie Kirk)'s assassination.
 

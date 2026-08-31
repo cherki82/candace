@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:06:19](/episodes/ep-I0OaY6Gryqk.md#t-00-06-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(379);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=379s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > As a veteran who deployed to combat 11 times, and as a Gold Star husband who lost my beloved wife Shannon (Shannon Kent) in a war manufactured by Israel, I cannot support sending the next generation off to fight and die in a war that serves no benefit to the American people nor justifies the cost of American lives.
 

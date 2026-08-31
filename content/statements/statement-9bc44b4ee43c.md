@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:31:05](/episodes/ep-iHav0PPzUz8.md#t-00-30-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1865);return false;">Play</a>
+**Timestamp:** [00:31:05](/episodes/ep-iHav0PPzUz8.md#t-00-30-25) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=1865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He wrote an op-ed in the Daily Mail—which they actually published—calling for Tucker (Tucker Carlson) to be neutralized.
 

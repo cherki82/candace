@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 73 mentions"
+description: "Las Vegas, Nevada (Places) - 71 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -27,9 +27,9 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00">2026-08-06 · 00:38:00</a></strong></div>
 <div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,10 +40,10 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48" style="--pulse-height:60%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-nevada-t-00-18-59" style="--pulse-height:10%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-42" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-26" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-09-45" style="--pulse-height:30%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03" style="--pulse-height:90%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 9 mentions" title="2025-12-17 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33" style="--pulse-height:20%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03" style="--pulse-height:80%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 8 mentions" title="2025-12-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-28" style="--pulse-height:10%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40" style="--pulse-height:60%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
@@ -71,10 +71,10 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 |---|---|---:|
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48) | 6 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-nevada-t-00-18-59) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-42) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-26) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-09-45) | 3 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03) | 9 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03) | 8 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-28) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40) | 6 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09) | 1 |
@@ -102,7 +102,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -358,18 +358,15 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
-**[01:00:56](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33)**
-> "Mark Amodei from Las Vegas"
-
-**[01:00:58](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33)**
+**[01:00:57](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-28)**
 > "Mark Amodei from Las Vegas."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (9 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (8 mentions)</summary>
 
 **[00:38:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03)**
 > "Las Vegas, you'll recall, is the home of FBI Director Kash Patel"
@@ -377,25 +374,22 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 **[00:38:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03)**
 > "...ee hours, and then it flew to Las Vegas, arriving there at 4.48 p.m. local time."
 
-**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-25)**
+**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-52)**
 > "...s flight as he says goes into Las Vegas and we're gonna now show you that flight path uh ..."
 
 **[00:39:33](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-39-24)**
-> "...on August 25th, it flies into Las Vegas, lands at 448 p.m. local time as SAM000."
-
-**[00:39:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-39-24)**
 > "...wing day, the 26th, it leaves Las Vegas as a reach flight, 658, leaving at 314 p.m. You s..."
 
-**[00:44:02](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-43-23)**
+**[00:44:02](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-44-02)**
 > "...mportant character flies into Las Vegas."
 
-**[00:44:12](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-44-05)**
+**[00:44:10](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-44-02)**
 > "...ng to get off of the plate of Las Vegas and suddenly that flight is going to be an RCH fl..."
 
-**[01:02:06](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-01-01-55)**
+**[01:02:05](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-01-01-46)**
 > "...at meeting did happen to be a Las Vegas congressman."
 
-**[01:02:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-01-01-55)**
+**[01:02:34](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-01-02-29)**
 > "Is it Las Vegas?"
 
 </details>
@@ -417,7 +411,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
-**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-42)**
+**[00:28:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-26)**
 > "...htsome, the original 'knee fights.'" "So who is it that doesn't drink, doesn't gamble, but they run Vegas? And a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy." "Jay-Z, Beyo..."
 
 </details>
@@ -525,7 +519,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Las Vegas, Nevada (13)</strong></summary>
+<summary><strong class="section-title">Statements about Las Vegas, Nevada (12)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -547,7 +541,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
 
 - [00:41:16](/episodes/ep-uC_GjKU8rs8.md#t-00-41-16) (Citation) **Candace Owens**: ["The FARA documents specifically list geofencing and targeting in Tucso..."](/statements/statement-0844694d3bfd.md)
-  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Phoenix](/entities/gpe-phoenix.md)
 
 </details>
 
@@ -582,9 +576,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
-
-- [00:34:20](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["The 702 call sign on military flights may reference Las Vegas area cod..."](/statements/statement-9f738f51f413.md)
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:34:23](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["The number 702 in the aircraft call signs is also the Las Vegas area c..."](/statements/statement-f1340a1c50d0.md)
 
@@ -598,7 +590,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 - [00:39:33](/episodes/ep-9k2xrAC0H88.md#t-00-39-24) (Claim) **Candace Owens**: ["The flight from Las Vegas changed call signs from SAM to REACH after t..."](/statements/statement-666fa1c5306d.md)
 
-- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-46) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>

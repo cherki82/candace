@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:53:43](/episodes/ep-nPhCKwJ6ye8.md#t-02-53-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(10423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=10423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I was invited there to do some debate training. That's literally what I was invited there to do on recommendation. ... I just reached out to TPUSA and said I'm prepping for a debate. Is there anything that's pertinent that I can use here?
 
@@ -38,7 +38,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [02:12:37](/episodes/ep-aPOyk1i2LOc.md#t-02-12-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(7957);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=7957s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I was invited there to do some debate training. ... That's literally what I was invited there to do on recommendation. ... I just reached out to TPUSA and said, I'm prepping for a debate. Is there anything that's pertinent that I can use here?
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:13:27](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(807);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just after Charlie (Charlie Kirk) was shot, and again, ... I have proof Pierre (Pierre Falcone) had a phone call with Justin Streiff. ... He also had a phone call with Mr. ... Don Orico (Turning Point USA representative; full-name spelling unverified) of Turning Point USA down in Tampa. ... he knew that Charlie (Charlie Kirk) was dead before the rest of the world did.
 

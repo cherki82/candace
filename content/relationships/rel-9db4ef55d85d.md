@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Tucker Carlson](/entities/person-tucker-carlson) interviewed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
@@ -27,7 +27,11 @@ object: "person-candace-owens"
 
 **[Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY)**
 
-- [00:19:08](/episodes/ep-sImMM04XdWY#t-00-19-08): _Tucker Carlson releases an episode with me._
+- [00:19:06](/episodes/ep-sImMM04XdWY#t-00-19-06): _Anyways, moving on to August 1st—same week—Tucker (Tucker Carlson) releases an episode with me._
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:08:09](/episodes/ep-w1oqQbR_bYs#t-00-08-09): _Tucker Carlson is going to be the first person to capture my reaction to it. ... Elsewhere in my interview with Tucker_
 
 ### Related
 

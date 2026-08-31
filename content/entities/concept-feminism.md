@@ -1,6 +1,6 @@
 ---
 title: "Feminism"
-description: "Feminism (Concepts) - 27 mentions"
+description: "Feminism (Concepts) - 29 mentions"
 id: "concept-feminism"
 type: "CONCEPT"
 categories:
@@ -13,10 +13,10 @@ _Type: Concepts_
 **Categories:** social movement, political ideology
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29">2026-01-16 · 00:01:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-feminism-t-00-52-13">2025-12-02 · 00:52:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41">2026-08-14 · 02:58:41</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -27,6 +27,8 @@ _Type: Concepts_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29">Myron Gaines x Candace Owens</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-feminism-t-00-52-13" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-feminism-t-00-50-07" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 13 mentions" title="2026-01-16 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-feminism-t-01-01-53" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-feminism-t-00-23-59" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
@@ -39,6 +41,8 @@ _Type: Concepts_
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-feminism-t-00-52-13) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-feminism-t-00-50-07) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29) | 13 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-feminism-t-01-01-53) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-feminism-t-00-23-59) | 1 |
@@ -53,7 +57,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -159,6 +163,22 @@ _Type: Concepts_
 
 **[01:01:53](/episodes/ep-X92MllIHDzw.md#ent-concept-feminism-t-01-01-53)**
 > "the state of feminism"
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:50:35](/episodes/ep-w1oqQbR_bYs.md#ent-concept-feminism-t-00-50-07)**
+> "...ally gets into the history of feminism and who brought the plague to break down families..."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:52:18](/episodes/ep-a-e7HC6SeK8.md#ent-concept-feminism-t-00-52-13)**
+> "...d it gets into the history of feminism, and it's quite a personal book also and kind of ..."
 
 </details>
 

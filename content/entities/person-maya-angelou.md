@@ -3,12 +3,20 @@ title: "Maya Angelou"
 description: "Maya Angelou (People) - 2 mentions"
 id: "person-maya-angelou"
 type: "PERSON"
+categories:
+  - "poet and author"
 ---
 
 _Type: People_
 
+**Categories:** poet and author
+
+**Entity verification:** verified
+> Poetry Foundation biography confirms canonical name Maya Angelou and her literary identity.
+Source: [Maya Angelou | Poetry Foundation](https://www.poetryfoundation.org/poets/maya-angelou)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-maya-angelou-t-01-07-48">2025-10-28 · 01:07:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-maya-angelou-t-01-07-48">2025-10-28 · 01:06:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-maya-angelou-t-01-07-48">2025-10-28 · 01:07:57</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -41,7 +49,7 @@ _Type: People_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[01:07:00](/episodes/ep-Cq7nj9rxPdo.md#ent-person-maya-angelou-t-01-07-48)**
+**[01:06:54](/episodes/ep-Cq7nj9rxPdo.md#ent-person-maya-angelou-t-01-07-48)**
 > "Quoting Maya Angelou"
 
 **[01:07:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-maya-angelou-t-01-07-48)**

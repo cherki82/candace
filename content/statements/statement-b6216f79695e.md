@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1388);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1388s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics.
 

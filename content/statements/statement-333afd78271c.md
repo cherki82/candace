@@ -23,7 +23,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:08:52](/episodes/ep-1CFDtD0IgEg.md#t-00-08-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(532);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1CFDtD0IgEg&t=532s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Turns out that yes, black nitrile gloves are used by woodworkers when they are handling super glue, crazy glue, and it is because it makes it easy to wipe off adhesive.
 

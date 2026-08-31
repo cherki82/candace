@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:04:33](/episodes/ep-iB-YtO3UZOg.md#t-00-04-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(273);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=273s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After listening to the preliminary hearing, we suspect that Tyler... ... It's plausible. Could have been set up by Lance. His prints are everywhere. He lives with him. uh he had the login to it's plausible that he could have a login to his boyfriend's discord that wouldn't be strange when you're dating someone and living with them his prints were less degraded certainly than tyler robinson's were on the gun which had dust in the barrel so likely wasn't even fired who could have had access to tyler's stuff
 

@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:15:09](/episodes/ep-VMNWMXX1vO8.md#t-00-15-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(909);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=909s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was a direct shot to the heart. It looked like right where his heart is, it started going red.
 

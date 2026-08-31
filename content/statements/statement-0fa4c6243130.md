@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:20:53](/episodes/ep-iB-YtO3UZOg.md#t-00-20-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1253);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1253s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And and so then, you know, once you get that cut shirt off, shirt cut off and moved out of the way, you know, there's enough medical professionals in there. ... And so I just want to get out of their way. And so I got out of their way and walked out of the room and then stood outside the room and held guard on the outside door of the room so nobody else could come in there.
 

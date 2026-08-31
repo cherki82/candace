@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:02:57](/episodes/ep-czVBmqZP6Ss.md#t-00-02-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(177);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, I watched my friend get shot in the neck
 

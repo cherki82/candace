@@ -1,8 +1,8 @@
 ---
-title: "Mamdani got 32% of the Jewish vote according to a CNN exit p..."
-description: "\"Mamdani got 32% of the Jewish vote according to a CNN exit poll.\" — Candace Owens"
+title: "Mamdani received 32% of the Jewish vote, according to a CNN ..."
+description: "\"Mamdani received 32% of the Jewish vote, according to a CNN exit poll.\" — Mark (Candace show producer; surname unverified)"
 statement_id: "statement-e709079b17bf"
-speaker: "Candace Owens"
+speaker: "Mark (Candace show producer; surname unverified)"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -11,20 +11,24 @@ veracity: "mixed"
 
 ## Statement
 
-> Mamdani got 32% of the Jewish vote according to a CNN exit poll.
+> Mamdani received 32% of the Jewish vote, according to a CNN exit poll.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Mark (Candace show producer; surname unverified)](/entities/person-mark-candace-show-producer.md) (Guest)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Zohran Mamdani](/entities/person-zohran-mamdani.md) (person)
+- [CNN](/entities/org-cnn.md) (org)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:14:45](/episodes/ep-LATnak75Si0.md#t-00-14-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(885);return false;">Play</a>
+**Timestamp:** [00:14:45](/episodes/ep-LATnak75Si0.md#t-00-14-38) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=885s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 32% is pretty insane ... This is according to a CNN exit poll of about 4,700 people coming out.
 

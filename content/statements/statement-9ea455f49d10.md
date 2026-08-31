@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:56:23](/episodes/ep-X92MllIHDzw.md#t-00-56-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3383);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=3383s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > probably to identify kids and make sure that if they are in any measure brilliant, and I'm not saying that I'm brilliant, I just happen to be in one of these programs. They probably want you to work for the government. They probably want to make sure that they can track you and that is a totally sensible conclusion,
 

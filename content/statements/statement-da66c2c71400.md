@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:08:41](/episodes/ep-ti5Fxrvegno.md#t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(521);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=521s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And by the way, don't forget, he also apparently had no fears the next day, Erika (Erika Kirk) says. ... But we are also told that he had no fears the next day. Actually, he went to bed and he was just excited. He was elated. He couldn't sleep. because doing college campus events was so brand new to him that he felt like a kid on Christmas morning.
 

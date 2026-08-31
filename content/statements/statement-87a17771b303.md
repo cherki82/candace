@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(126);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=126s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said that the families of those who had orchestrated the murder of JFK, corrupt cops, mafia members, I believe obviously that, yeah, they were a part of the ensemble, but he said that those same families were also involved in the assassination of Charlie Kirk, a group of Texas boys.
 

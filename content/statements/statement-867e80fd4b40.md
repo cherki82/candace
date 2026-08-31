@@ -26,8 +26,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:16:11](/episodes/ep-iHav0PPzUz8.md#t-00-15-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(971);return false;">Play</a>
+**Timestamp:** [00:16:11](/episodes/ep-iHav0PPzUz8.md#t-00-16-02) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=971s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am telling you that when that plane left, okay, those people were mysteriously missing from that plane.
 

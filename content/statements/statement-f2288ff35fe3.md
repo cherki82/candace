@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:22:35](/episodes/ep-YeEtS7nix3o.md#t-00-22-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1355);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=1355s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Very difficult for anybody to show what law kicked Jewish people out, but they willfully left when people said, you can't kill czars and plan assassinations and pamphlet here.
 

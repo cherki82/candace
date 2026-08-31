@@ -11,7 +11,11 @@ object: "person-frank-turek"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) appeared with [Frank Turek](/entities/person-frank-turek)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
+
+- [00:33:49](/episodes/ep-MUA9ebCF4Ow#t-00-33-49): _This is me, Charlie (Charlie Kirk), and in the middle is Butch Hibbs._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 

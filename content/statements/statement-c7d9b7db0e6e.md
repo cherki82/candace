@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:19:45](/episodes/ep-MUA9ebCF4Ow.md#t-00-19-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1185);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=1185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that after UVU showed them multiple options inside and outside, UVU recommended to Turning Point that they not hold the event in the amphitheater because of safety reasons. ... "Not a good idea because we can't shut this area down. ... It's not a good idea because there's no control here. ... We cannot control the traffic, the flow of traffic coming in and out of this amphitheater." ... But Turning Point insisted that that was where they wanted to have the event. ... It was because Turning Point insisted that that event was then held outside.
 

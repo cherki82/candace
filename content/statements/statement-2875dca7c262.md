@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:52:42](/episodes/ep-I0OaY6Gryqk.md#t-00-52-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3162);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=3162s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, Mike (Mike Huckabee). Yes, I'm alive. ... So it's a punch card. Today I erased two names on the punch card, and you see how many more to go on this batch.
 

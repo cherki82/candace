@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:13:51](/episodes/ep-QZWSsq8ZWzw.md#t-00-13-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(831);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=831s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I didn't know him. I never even saw his face 18 days prior. And I'm with Charlie Kirk. We're hitting the ground running. And I'm just like, I feel compelled that we must go to the UK.
 

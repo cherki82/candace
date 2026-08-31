@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Kash Patel](/entities/person-kash-patel) interviewed by [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:35:37](/episodes/ep-K1tFD7FfoCU#t-00-35-37): _One, Charlie Kirk was a big supporter of Kash Patel, had him on his show, really pushed for him to get the role that he is in—director of the FBI—and he has just been terrible in this case._
 
 **[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
 

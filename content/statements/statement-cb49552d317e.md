@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:51:49](/episodes/ep-EtLHqDbxqks.md#t-00-51-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=3109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know. It's so shameless and grotesque and dishonest and the amount of money being spent on this for these emotional assets to come out and wax poetic and then not realize they made a mistake and now they're all kind of backtracking and being like, oh, no, it doesn't actually show him get shot, but it shows him getting into the prone position and, oh, they didn't realize that they had no idea when they all started making these videos to cover up the.
 

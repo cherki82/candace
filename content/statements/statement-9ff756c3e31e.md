@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:03:28](/episodes/ep-WoXd4oLwd3w.md#t-00-02-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(208);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=208s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > which I still have, and phone conversations, he said, look, take it up with Trump (Donald Trump). He's the one who shut down the investigation.
 

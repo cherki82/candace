@@ -17,15 +17,20 @@ type: "factual_claim"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Utah Valley University](/entities/org-utah-valley-university.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:02:59](/episodes/ep-LATnak75Si0.md#t-00-02-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">Play</a>
+**Timestamp:** [00:02:59](/episodes/ep-LATnak75Si0.md#t-00-02-32) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=179s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> "Can Charlie (Charlie Kirk) speak on campus?" And then they immediately approve that request, and they schedule it as his first stop some six weeks later
+> And then they immediately approve that request, and they schedule it as his first stop some six weeks later.
 
 ## Verification
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:33:45](/episodes/ep-amqTMimDr0A.md#t-00-33-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2025);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=2025s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tracy (Tracy Martin), let us know what your thoughts are on this. And by the way, were you the person that Daily Mail contacted and you provided this information? ... Absolutely not. ... No, absolutely not.
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:04:24](/episodes/ep-sKuYLNx3iRo.md#t-00-04-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(264);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > molecular to close this case. I do believe firmly that it was Charlie (Charlie Kirk)'s RØDE mic bits that were shattered all over the car floor.
 

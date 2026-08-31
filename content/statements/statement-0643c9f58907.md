@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:43:19](/episodes/ep-VMNWMXX1vO8.md#t-00-43-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2599);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2599s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Your conversation clearly was related to the text that he dropped, where he said, "You've left me no choice but to abandon the pro-Israel cause."
 

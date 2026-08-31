@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:28:49](/episodes/ep-Dkxa9OUA9K8.md#t-00-28-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1729);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=1729s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So no, I did not walk into a police station. I called the sheriff's department. and made the claim many years later. ... The reason why it is a cold case, it was 40 years old, we don't know where the house is, we don't know where he was buried, we don't know who the victim was, and my grandfather, it was my stepfather at the time, he was put in prison for unrelated charges to murder, but it was sadly drug use and bringing it in. ... there's a cold case. They could not find anything. At least I went to them to clear my conscience because I suffered for years thinking that I'd killed a person.
 

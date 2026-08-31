@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:15:39](/episodes/ep-B9TyCs-6o_0.md#t-00-15-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(939);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=939s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he was on a massive plane all by himself. ... He collapsed into Erika's arms.
 

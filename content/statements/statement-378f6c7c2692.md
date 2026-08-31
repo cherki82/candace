@@ -1,8 +1,8 @@
 ---
-title: "Lance Twiggs found a note under keyboard stating 'I had the ..."
-description: "\"Lance Twiggs found a note under keyboard stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'\" — Candace Owens"
+title: "Tyler Robinson reportedly left a note stating, 'I had the op..."
+description: "\"Tyler Robinson reportedly left a note stating, 'I had the opportunity to take out Charlie Kirk and I'm going to take it.'\" — Tyler Robinson"
 statement_id: "statement-378f6c7c2692"
-speaker: "Candace Owens"
+speaker: "Tyler Robinson"
 type: "factual_claim"
 ---
 
@@ -10,14 +10,15 @@ type: "factual_claim"
 
 ## Statement
 
-> Lance Twiggs found a note under keyboard stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'
+> Tyler Robinson reportedly left a note stating, 'I had the opportunity to take out Charlie Kirk and I'm going to take it.'
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Tyler Robinson](/entities/person-tyler-robinson.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Utah County probable cause statement quoting a note
 
 ## About
 
@@ -28,10 +29,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:20:14](/episodes/ep-q7f8r-THr84.md#t-00-19-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1214);return false;">Play</a>
+**Timestamp:** [00:20:05](/episodes/ep-q7f8r-THr84.md#t-00-19-48) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=1205s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They just say on September 10th, 2025, no time given, the roommate received a text message from Robinson, which said, quote, "Drop what you are doing and look under my keyboard." The roommate, Lance (Lance Twiggs), then looks under his keyboard and he finds a note that states, quote, "I...
+> The roommate, Lance (Lance Twiggs), then looks under his keyboard and he finds a note that states, quote, "I had the opportunity to take out Charlie Kirk ... and I'm going to take it."
 
 ## Verification
 

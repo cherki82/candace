@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:05:42](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(342);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=342s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Let me take you through the litany of LLCs that she has filed, this is Lori (Lori Frantzve), which feature Richard or Donna Erpenbeck as either the secretary, the incorporator, the notary across a 25-year period, okay?
 

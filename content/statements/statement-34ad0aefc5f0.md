@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 **Timestamp:** [00:06:42](/episodes/ep-ZGxnf5cj4Uw.md#t-00-06-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(402);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZGxnf5cj4Uw&t=402s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > over. Tyler was bewildered. He disputed the idea that he had murdered Charlie (Charlie Kirk). In fact, according to my source, Tyler has
 

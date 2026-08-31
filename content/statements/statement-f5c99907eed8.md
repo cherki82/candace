@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2610);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2610s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and crucially the Bowyers the Farnsworths the Frantzves the Kolvets they're all just vibing around each other at all times and what happens crucially is that Tyler Bowyer is going to meet Charlie Kirk this year It is still not clear to me how they met, but we can state that Tyler (Tyler Bowyer) is the chairman at that time of the Maricopa County Republican Committee and Eddie Farnsworth is on that committee and David Farnsworth is on that committee.
 

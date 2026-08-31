@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:08:25](/episodes/ep-G3zdOeHpvS0.md#t-00-08-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(505);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=505s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Failed the GSR test, especially when they say he was wearing the same outfit. It would also explain why Taryl Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage because it would have captured that the .30-06, which would have decapitated Charlie (Charlie Kirk), did not go through.
 

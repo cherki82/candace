@@ -1,8 +1,8 @@
 ---
-title: "Tyler Robinson turned himself in at more like seven o'clock ..."
-description: "\"Tyler Robinson turned himself in at more like seven o'clock p.m., while feds are saying 33 hours, that's nine o'clock p.m.\" — Candace Owens"
+title: "Unnamed sources reportedly placed Tyler Robinson's surrender..."
+description: "\"Unnamed sources reportedly placed Tyler Robinson's surrender around 7 p.m., while the federal 33-hour timeline implied 9 p.m.\" — Anonymous Source #25 (Ep sreYYcID-QY)"
 statement_id: "statement-5ffce0ab8bec"
-speaker: "Candace Owens"
+speaker: "Anonymous Source #25 (Ep sreYYcID-QY)"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,23 @@ type: "factual_claim"
 
 ## Statement
 
-> Tyler Robinson turned himself in at more like seven o'clock p.m., while feds are saying 33 hours, that's nine o'clock p.m.
+> Unnamed sources reportedly placed Tyler Robinson's surrender around 7 p.m., while the federal 33-hour timeline implied 9 p.m.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous Source #25 (Ep sreYYcID-QY)](/entities/anon-src-sreYYcID-QY-025.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** unnamed sources relayed by Owens
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:18:10](/episodes/ep-sreYYcID-QY.md#t-00-17-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1090);return false;">Play</a>
+**Timestamp:** [00:18:07](/episodes/ep-sreYYcID-QY.md#t-00-17-36) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1087s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> You know, feds are saying 33 hours; that's nine o'clock p.m
+> But then we found out from other sources that actually it was more like seven o'clock p.m. You know, feds are saying 33 hours; that's nine o'clock p.m.
 
 ## Verification
 

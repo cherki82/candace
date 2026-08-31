@@ -1,16 +1,16 @@
 ---
-title: "Tyler Robinson made his first in-person court appearance and..."
-description: "\"Tyler Robinson made his first in-person court appearance and seemed like he was smiling\" — Candace Owens"
+title: "Owens said Tyler Robinson appeared to be smiling at his firs..."
+description: "\"Owens said Tyler Robinson appeared to be smiling at his first in-person court appearance and did not seem worried about receiving the death penalty\" — Candace Owens"
 statement_id: "statement-0119a3b20162"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Tyler Robinson made his first in-person court appearance and seemed like he was smiling
+> Owens said Tyler Robinson appeared to be smiling at his first in-person court appearance and did not seem worried about receiving the death penalty
 
 ## Attribution
 
@@ -26,14 +26,14 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md)
 **Timestamp:** [00:35:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2112);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=2112s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He made his first in-person court appearance, kind of seemed like he was smiling. I did not get the energy of someone who is worried about getting the electric chair.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

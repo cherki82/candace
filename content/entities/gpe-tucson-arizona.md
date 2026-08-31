@@ -223,7 +223,7 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
 
 - [00:41:16](/episodes/ep-uC_GjKU8rs8.md#t-00-41-16) (Citation) **Candace Owens**: ["The FARA documents specifically list geofencing and targeting in Tucso..."](/statements/statement-0844694d3bfd.md)
-  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Phoenix](/entities/gpe-phoenix.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

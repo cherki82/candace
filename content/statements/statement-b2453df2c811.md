@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:54:54](/episodes/ep-mLvJqdxS-FY.md#t-00-54-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=3294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So and we got to talk about the occult. We got to talk about Freemasons, my belief that Charlie (Charlie Kirk) was murdered and it was a Freemasonic ritual, occult ritual. ... And I that's my opinion and I'm sticking to it until. ... proven otherwise, which we certainly haven't been yet.
 

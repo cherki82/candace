@@ -6,6 +6,11 @@ date: "2001-09"
 ---
 
 **Date:** 2001-09
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “a week before 9-11”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2001-09"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:43:37](/episodes/ep-xjzb_t5Tk9o.md#event-event-2001-09-bassem-youssef-changed-his-return-flight-t-01-43-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6217);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6217s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my money ran out a week before 9-11 so I just like changed my ticket and I came back

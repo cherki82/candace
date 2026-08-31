@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:50:21](/episodes/ep-EtLHqDbxqks.md#t-00-50-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3021);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=3021s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was really tough to watch. The prosecution has a demonstrable, overwhelming case. They said that multiple times. The defense has nothing. They asked minutiae questions about DNA evidence, but the judge was just shooing them along as we
 

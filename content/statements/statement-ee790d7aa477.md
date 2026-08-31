@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-23-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1451);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=1451s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Another example, lock them down at home. Make them wear a mask, right? Create COVID in a lab, make everybody sick, force them to get the jab.
 

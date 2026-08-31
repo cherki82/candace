@@ -7,7 +7,7 @@ type: "prediction"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:13:09](/episodes/ep-I0OaY6Gryqk.md#t-00-13-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(789);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=789s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If not stopped, Iran could produce a nuclear weapon in a very short time. It could be a year, it could be within a few months.
 

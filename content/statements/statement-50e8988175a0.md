@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:18:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-18-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1110);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=1110s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And the very person that platformed him for you, Corey (Corey Kennedy), has filed out a statement, both with local authorities and FBI, that he is homicidal and he told her and her husband. ... That he had plans to kill me and she felt responsible for it being fueled and your name was brought up as he's aggravated something about he didn't get what he wanted out of your show. ... That he was struggling with homicidal thoughts and he gave detailed plans on how he was going to lay in wait to kill me.
 

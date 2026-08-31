@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:32:52](/episodes/ep-NIEbqsLAK8g.md#t-00-32-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1972);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1972s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > my wife lived in China for six months and she'll show you the videos. She'll show you the images.
 

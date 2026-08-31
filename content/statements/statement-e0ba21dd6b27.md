@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 **Timestamp:** [00:00:13](/episodes/ep-iHav0PPzUz8.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(13);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=13s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination.
 

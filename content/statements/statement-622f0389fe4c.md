@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:55:08](/episodes/ep-DdPjoy5W-wY.md#t-00-54-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3308);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=3308s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like Erika (Erika Kirk)'s mom is a shyster. I just feel it. I know it. I can see it. Like she's the one in the ear the whole time. Like do this, there's this directing things to be done.
 

@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:39:39](/episodes/ep-c5BcKF91iec.md#t-00-38-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2379);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=2379s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any time
 

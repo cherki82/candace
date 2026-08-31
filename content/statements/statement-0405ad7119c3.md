@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:13:34](/episodes/ep-ti5Fxrvegno.md#t-00-12-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(814);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika (Erika Kirk) allegedly is the one who put forth this three-way call. She's on the call. There was no HIPAA violation here. And she is the one that suggested that Charlie (Charlie Kirk) has a Superman neck.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,8 +30,8 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(750);return false;">Play</a>
+**Timestamp:** [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-01) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=750s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just a couple of years ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships
 

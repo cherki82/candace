@@ -24,13 +24,13 @@ veracity: "true"
 ## About
 
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 
 ## Source
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(905);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=905s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Afterwards, and there's all these conspiracy videos about why did he grab the SD cards. Well, first of all, they're in the possession of the FBI, okay? It's not like he took them and, like, ran off with them.
 

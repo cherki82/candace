@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:04:05](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(245);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, I should skip to the part and tell you Wilhelm Fliess also molested his own son, Robert Fliess. Robert Fliess spoke about that when he got older,
 

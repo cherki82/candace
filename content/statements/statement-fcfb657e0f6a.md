@@ -1,6 +1,6 @@
 ---
-title: "like Nikki Haley signing bombs, people going over there to s..."
-description: "\"like Nikki Haley signing bombs, people going over there to sign bombs that are going to be dropped and killing children.\" — Candace Owens"
+title: "Owens said Nikki Haley had signed bombs and that people were..."
+description: "\"Owens said Nikki Haley had signed bombs and that people were signing bombs that would be dropped and kill children.\" — Candace Owens"
 statement_id: "statement-fcfb657e0f6a"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> like Nikki Haley signing bombs, people going over there to sign bombs that are going to be dropped and killing children.
+> Owens said Nikki Haley had signed bombs and that people were signing bombs that would be dropped and kill children.
 
 ## Attribution
 
@@ -23,10 +23,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:41:57](/episodes/ep-K5GjF53bfN4.md#t-00-41-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2517);return false;">Play</a>
+**Timestamp:** [00:42:02](/episodes/ep-K5GjF53bfN4.md#t-00-41-25) 
+<a href="https://www.youtube.com/watch?v=K5GjF53bfN4&t=2522s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> It does seem to bear their signature, like Nikki Haley signing bombs, people going over there to sign bombs that are going to be dropped and killing children.
+> Just a thought. Thank you." Yeah, it does. It does seem to bear their signature, like Nikki Haley signing bombs, people going over there to sign bombs that are going to be dropped and killing children.
 
 ## Verification
 

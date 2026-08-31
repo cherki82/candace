@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Israel](/entities/gpe-israel) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -32,6 +32,10 @@ object: "person-candace-owens"
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 
 - [00:00:35](/episodes/ep-h76ZN-xXC6c#t-00-00-35): _Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want._
+
+**[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
+
+- [00:46:58](/episodes/ep-pc3pxRyNFZk#t-00-46-58): _Israel is going to partially withdraw its troops from Gaza ... And yeah, they have destroyed 85% of Gaza. And they're going to try to tell us that we've reached peace._
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(148);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=148s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.
 

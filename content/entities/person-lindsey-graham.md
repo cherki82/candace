@@ -26,8 +26,8 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -214,7 +214,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:30:07](/episodes/ep-Kmt6HgRjckU.md#ent-person-lindsey-graham-t-00-29-56)**
-> "...ica's last last traitors like Lindsey Graham are getting promoted."
+> "They will lose because America Last traitors like Lindsey Graham are getting promoted."
 
 </details>
 
@@ -222,22 +222,22 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
 
 **[00:01:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46)**
-> "...how fake are we talking? What shade of gayness are we talking? And I think we should start with the Lindsey Graham (Lindsey Graham) shade, which he threw at American voters. So what happened was he was on stage at ..."
+> "And I think we should start with the Lindsey Graham shade, which he threw at American voters."
 
 **[00:01:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-01-30)**
-> "...Israel, a foreign nation, then you're not even allowed to be a Republican anymore. Take a listen to Lindsey Graham (Lindsey Graham) in his own words. Lindsey Graham (clip): I want the world to know anti-Semitism, a..."
+> "Take a listen to Lindsey Graham in his own words."
 
 **[00:01:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-01-57)**
-> "...owed to be a Republican anymore. Take a listen to Lindsey Graham (Lindsey Graham) in his own words. Lindsey Graham (clip): I want the world to know anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not th..."
+> "Lindsey Graham (clip): I want the world to know anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not the road to being elected as a Republican."
 
 **[00:02:08](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-01-57)**
-> "...mitism, anti-Israel rhetoric, anti-Israel thought is not the road to being elected as a Republican. Lindsey Graham (clip): You will lose. Lindsey Graham (clip): You can't even have an anti-Israel thought. So if you..."
+> "Lindsey Graham (clip): You will lose."
 
 **[00:02:11](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-01-57)**
-> "...ael thought is not the road to being elected as a Republican. Lindsey Graham (clip): You will lose. Lindsey Graham (clip): You can't even have an anti-Israel thought. So if you're thinking like, I don't know, killi..."
+> "Lindsey Graham (clip): You can't even have an anti-Israel thought."
 
 **[00:03:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-02-58)**
-> "...ith them, support Israel, or you can't sit with us. Can't sit with me, Randy Fine (Randy Fine), and Lindsey Graham (Lindsey Graham). And to show us just how hip and motivated and relevant they are, they sent some p..."
+> "Can't sit with me, Randy Fine, and Lindsey Graham."
 
 </details>
 
@@ -288,6 +288,18 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 <details>
+<summary>Spoke At (1)</summary>
+
+- **[Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:01:25](/episodes/ep-K1tFD7FfoCU.md#t-00-00-46): “And I think we should start with the Lindsey Graham shade, which he threw at American voters. So what happened was he was on stage at the Republican Jewish Coalition.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supporter Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
@@ -301,7 +313,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -331,6 +343,13 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:25](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “director of National Counterterrorism Center, could not have come at a better time. What? Like in his statement explaining why he's resigning in protest, Mr. Kent is echoing the Democratic talking points, which are devoid of fact or evidence.”
+
+</details>
+
+- **[Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:01:25](/episodes/ep-K1tFD7FfoCU.md#t-00-00-46): “And I think we should start with the Lindsey Graham shade, which he threw at American voters. So what happened was he was on stage at the Republican Jewish Coalition.”
 
 </details>
 
@@ -368,15 +387,15 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
 
-- [00:01:57](/episodes/ep-K1tFD7FfoCU.md#t-00-01-30) [○] (Opinion) ["Anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not the road to bein..."](/statements/statement-887308af724e.md)
-  - About: [Lindsey Graham](/entities/person-lindsey-graham.md)
+- [00:01:57](/episodes/ep-K1tFD7FfoCU.md#t-00-01-30) [✓] (Opinion) ["Anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not the road to bein..."](/statements/statement-887308af724e.md)
+  - About: [Israel](/entities/gpe-israel.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lindsey Graham (7)</strong></summary>
+<summary><strong class="section-title">Statements about Lindsey Graham (6)</strong></summary>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
@@ -406,13 +425,6 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 - [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) (Accusation) **Tucker Carlson** (via quoted speech): ["What you don't want are flighty, emotionally incontinent, silly people..."](/statements/statement-b3c35b55e3f1.md)
 
 - [00:08:31](/episodes/ep-ZZGWo6oDscc.md#t-00-08-23) (Opinion) **Tucker Carlson** (via quoted speech): ["Lindsey Graham is like a drunk girlfriend picking fights he will never..."](/statements/statement-f66c9d0d8748.md)
-
-</details>
-
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
-
-- [00:01:57](/episodes/ep-K1tFD7FfoCU.md#t-00-01-30) (Opinion) **Lindsey Graham** (via quoted speech): ["Anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not the ro..."](/statements/statement-887308af724e.md)
 
 </details>
 

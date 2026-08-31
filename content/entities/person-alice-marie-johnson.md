@@ -5,15 +5,23 @@ id: "person-alice-marie-johnson"
 type: "PERSON"
 aliases:
   - "Alice Johnson"
+categories:
+  - "criminal justice reform"
 ---
 
 _Type: People_
 
 **Also known as:** Alice Johnson
 
+**Categories:** criminal justice reform
+
+**Entity verification:** verified
+> The U.S. Department of Justice clemency warrant confirms the full canonical name Alice Marie Johnson used in the episode.
+Source: [Executive Grant of Clemency - Alice Marie Johnson](https://www.justice.gov/pardon/page/file/1068926/dl)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alice-marie-johnson-t-00-16-01">2025-11-03 · 00:16:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alice-marie-johnson-t-00-16-01">2025-11-03 · 00:16:14</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alice-marie-johnson-t-00-16-01">2025-11-03 · 00:16:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alice-marie-johnson-t-00-16-01">2025-11-03 · 00:16:13</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -45,8 +53,8 @@ _Type: People_
 <details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
-**[00:16:14](/episodes/ep-K1tFD7FfoCU.md#ent-person-alice-marie-johnson-t-00-16-01)**
-> "Like, you know. Well, there's things to be taken seriously, but celebrities probably are on that list. Yeah, so Ben Shapiro's (Ben Shapiro) right. Yeah, no. Well, he's right about this, you know. But he was like trying to correlate like what Kim did like with Alice Marie Johnson (Alice Marie Johnson)"
+**[00:16:13](/episodes/ep-K1tFD7FfoCU.md#ent-person-alice-marie-johnson-t-00-16-01)**
+> "Yeah, no. Well, he's right about this, you know. But he was like trying to correlate like what Kim did like with Alice Marie Johnson was like that, and I'm like, "Come on, man. That's like totally different." And just in general like sometimes he just gets a little like hall monitor for me. Like, you know, like it's just like, you know, he can't help himself."
 
 </details>
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:08:56](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4136);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=4136s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, let me tell you, we helped 6,000 children who had been affected by the war between Hamas and Israel.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:41:23](/episodes/ep-CMcktj3Egfo.md#t-00-40-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2483);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2483s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's what it's about. It's about making sure that they can control your platform.
 

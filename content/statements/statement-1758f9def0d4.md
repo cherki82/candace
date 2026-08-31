@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:08:33](/episodes/ep-IqHsl7d2dos.md#t-00-08-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(513);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=513s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What I was able to confirm is that James Rawlinson Jr. himself was indeed in the military. We found that out early on. He joined Army boot camp in 2011. ... He was promoted to a corporal and or specialist at the beginning of 2014 for the Utah National Guard.
 

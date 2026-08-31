@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:15:41](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(941);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=941s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Alan Dershowitz just went just threw it back to, you know, neo-Nazi Jew hating Israel basher quits administration. ... Good riddance to bad garbage.
 

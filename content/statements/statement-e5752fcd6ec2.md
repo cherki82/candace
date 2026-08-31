@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:15:38](/episodes/ep-Ux1kzgQxkws.md#t-00-15-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=938s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He put me on a plane in New York and I flew to a place that was started by Eric Clapton called Crossroads in Antigua and I went to rehab and I came out and I went directly when I came out, my brother picked me up from the airport.
 

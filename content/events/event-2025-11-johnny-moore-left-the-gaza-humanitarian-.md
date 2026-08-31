@@ -6,6 +6,11 @@ date: "2025-11"
 ---
 
 **Date:** 2025-11
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “November”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-11"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:21:17](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-11-johnny-moore-left-the-gaza-humanitarian--t-00-21-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1277);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He would eventually abandon the project in November. There was no fixing it.

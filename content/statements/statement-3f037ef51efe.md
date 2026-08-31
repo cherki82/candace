@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:04:49](/episodes/ep-CMcktj3Egfo.md#t-00-04-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(289);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Back in 2018, Charlie and I went to Israel together.
 

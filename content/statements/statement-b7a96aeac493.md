@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:11:35](/episodes/ep-Vu6Y24pqhZs.md#t-00-11-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(695);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it looked like he was unfolding a gun. ... Truly, that's what my brain told me. Maybe it's because I had this guy I'm talking about a full day or I don't know, but that's it's not definitive.
 

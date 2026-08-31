@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 **Timestamp:** [00:39:16](/episodes/ep-iHav0PPzUz8.md#t-00-39-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2356);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=2356s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, the argument I'd like to go with is that Seth Dillon is a liar—which is why two days before Charlie (Charlie Kirk) was killed, he was explicit in saying he was left with no choice but to leave the pro-Israel cause
 

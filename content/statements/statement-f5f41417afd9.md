@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:18:12](/episodes/ep-DqGNvi36ol8.md#t-00-17-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1092);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=1092s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like back in 2014, the Ukrainians were authentically and truly just done with their president, Yanukovych. ... And when John McCain went over there and led the protesters in the streets, he was really representing the voice of the people. ... It was not another United States military color revolution.
 

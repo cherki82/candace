@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:22:15](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=1335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they said, "Look, actually, I had been able to scrape everything about Thomas Matthew Crooks before the feds got rid of everything." And it's shocking what you look at
 

@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:04:41](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(281);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=281s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They don't have what it takes and they never did. They've all been thrown off television, lost their shows and aren't even invited on TV because nobody cares about them. They are nut jobs, troublemakers, and they will say anything necessary for some free and cheap publicity.
 

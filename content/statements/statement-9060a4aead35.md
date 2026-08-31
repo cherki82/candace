@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:57:19](/episodes/ep-i8m_6D4QGmk.md#t-00-57-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they just do it. You can do a poll right now anywhere—X, Facebook. Everybody loves it. They're just releasing bots, fake people on the Internet, to pretend that this is being supported, that people just love war.
 

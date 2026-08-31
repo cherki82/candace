@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:01:41](/episodes/ep-1QZ4X6q1DPg.md#t-00-01-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(101);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the FBI has had physical possession of Hunter Biden's laptop, which reportedly contains, well, a lot of disturbing material.
 

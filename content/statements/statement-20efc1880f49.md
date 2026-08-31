@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:06:06](/episodes/ep-SKNJPul29zU.md#t-01-06-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3966);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=3966s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that he the night before texted and said that he thought they were going to kill him and not only that but she explicitly denied that ... until I clocked it and said well Andrew Kolvet told me that he was one of the ones that received it and then it became the story about oh maybe it was in telegram Dan Flood received a message as well it wasn't on telegram it was on iMessage so who did who deleted it or were you lying or did somebody delete it okay I want to give you the benefit of the doubt maybe
 

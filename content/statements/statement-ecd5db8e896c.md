@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:29:35](/episodes/ep-OgRyiOAVtWU.md#t-00-29-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1775);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1775s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She said she almost felt compassion for Tyler Robinson and definitely for his family because it's just so sad that two families were destroyed on that day.
 

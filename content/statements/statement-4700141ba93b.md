@@ -29,7 +29,7 @@ veracity: "false"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2535);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=2535s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She is married to a man named Stanley Clark Moore. ... He has an Air Force background, ... also went to go work for NASA, ... if his Wikipedia is to be believed for a little bit,
 

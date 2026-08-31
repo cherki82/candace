@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:03:44](/episodes/ep-q7f8r-THr84.md#t-00-03-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(224);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=224s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And now in addition to those charges, we learn that he's been harboring images of child abuse, okay
 

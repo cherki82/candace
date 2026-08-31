@@ -24,7 +24,7 @@ veracity: "mixed"
 ## About
 
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
-- [BYU](/entities/org-byu.md) (org)
+- [Brigham Young University](/entities/org-brigham-young-university.md) (org)
 - [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md) (org)
 - [Jerusalem](/entities/gpe-jerusalem.md) (gpe)
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1456);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1456s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > fortunately, someone told me. ... BYU has direct ties to the CIA. ... They recruit directly from BYU. And I am saying this with 100% certainty, it is not a conspiracy, and what is even more odd is that they recruit specifically from BYU Jerusalem in Israel.
 

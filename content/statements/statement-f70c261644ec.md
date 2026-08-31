@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:41:05](/episodes/ep-BxN2-aeMYIs.md#t-00-40-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2465);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2465s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I bet it was Iran that made Bibi (Benjamin Netanyahu) go on Fox News the next day and say, I didn't kill him. It wasn't me.
 

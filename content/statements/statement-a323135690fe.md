@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:41:18](/episodes/ep-sreYYcID-QY.md#t-00-40-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2478);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2478s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Okay, then I get fired from The Daily Wire
 

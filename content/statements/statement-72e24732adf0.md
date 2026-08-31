@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:37:42](/episodes/ep-9CuC1yf8-PU.md#t-00-37-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2262);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2262s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To be convincing enough when she talked about how these girls that manage the modeling departments that she did herself live in, but I didn't feel confident that the girl that she dealt with was Erika (Erika Kirk), but she said in their capacity, they also got these underage girls into clubs at night. underage girls into clubs at night, getting them in with fake IDs. This is what she described to me in like a one hour conversation, giving them drugs while they were, you know, partying underaged. But again, I did not feel like her memory that it was Erika (Erika Kirk) was correct, but she said, I lived in this building.
 

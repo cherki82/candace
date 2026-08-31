@@ -1,6 +1,6 @@
 ---
 title: "Dairy Queen"
-description: "Dairy Queen (Organizations) - 34 mentions"
+description: "Dairy Queen (Organizations) - 44 mentions"
 id: "org-dairy-queen"
 type: "ORG"
 aliases:
@@ -22,8 +22,8 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26">2025-09-18 · 00:05:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31">2026-08-21 · 01:01:39</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,7 +35,12 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 <p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 9 mentions" title="2025-09-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-dairy-queen-t-00-46-22" style="--pulse-height:22%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-dairy-queen-t-00-13-55" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38" style="--pulse-height:44%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 4 mentions" title="2025-09-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-36-53" style="--pulse-height:56%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-dairy-queen-t-00-09-50" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-dairy-queen-t-00-43-38" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45" style="--pulse-height:78%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -51,7 +56,12 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26) | 9 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-dairy-queen-t-00-46-22) | 2 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-dairy-queen-t-00-13-55) | 1 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38) | 4 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-36-53) | 5 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-dairy-queen-t-00-09-50) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-dairy-queen-t-00-43-38) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45) | 7 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20) | 2 |
@@ -68,7 +78,7 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -179,6 +189,42 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 </details>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+
+**[00:43:58](/episodes/ep-sImMM04XdWY.md#ent-org-dairy-queen-t-00-43-38)**
+> "... makes a hasty retreat into a Dairy Queen where he texts every minute of what he did to his..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+
+**[00:10:01](/episodes/ep-iHav0PPzUz8.md#ent-org-dairy-queen-t-00-09-50)**
+> "...t like they were guarding the Dairy Queen."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5 mentions)</summary>
+
+**[00:36:53](/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-36-53)**
+> "... the story, Tyler was seen at Dairy Queen."
+
+**[00:36:57](/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-36-53)**
+> "...g in the cemetery beside that Dairy Queen."
+
+**[00:37:11](/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-36-53)**
+> "...ter a kill and decided to eat Dairy Queen."
+
+**[00:37:27](/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-37-27)**
+> "...ike, he just decided to go to DQ, sit down, write some poetic text messages."
+
+**[00:37:38](/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-37-27)**
+> "...y are freaking out about that Dairy Queen leak because it disrupts their narrative."
+
+</details>
+
+<details>
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (4 mentions)</summary>
 
 **[00:01:38](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38)**
@@ -196,12 +242,31 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 </details>
 
 <details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+
+**[00:13:55](/episodes/ep-ja26iltROkM.md#ent-org-dairy-queen-t-00-13-55)**
+> "...on decided to take a break at Dairy Queen and issue some texts that sound like they were wr..."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+
+**[00:46:52](/episodes/ep-aDlhjfW6hz8.md#ent-org-dairy-queen-t-00-46-22)**
+> "...at were emailing us about the Dairy Queen photo."
+
+**[00:49:22](/episodes/ep-aDlhjfW6hz8.md#ent-org-dairy-queen-t-00-48-58)**
+> "...rst, I want to tell you guys: Dairy Queen photo—some of you guys noticed that there was thi..."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (9 mentions)</summary>
 
 **[00:05:44](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26)**
 > "...aken at 6:38 p.m. at a nearby Dairy Queen."
 
-**[00:06:38](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26)**
+**[00:06:37](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26)**
 > "allegedly taken at 6:38 p.m. at a nearby Dairy Queen"
 
 **[00:08:32](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-08-13)**

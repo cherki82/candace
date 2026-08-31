@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:08:39](/episodes/ep-EtLHqDbxqks.md#t-01-08-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4119);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=4119s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, the people that were present don't even want to acknowledge the phone call. I only got an acknowledgement that it happened from Erika (Erika Kirk) in person who then said, oh, he was just following up on a letter that Charlie (Charlie Kirk) wrote in May.
 

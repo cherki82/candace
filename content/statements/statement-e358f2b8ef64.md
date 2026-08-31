@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:09:27](/episodes/ep-Kmt6HgRjckU.md#t-00-09-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(567);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Kmt6HgRjckU&t=567s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And you have not reached out to me
 

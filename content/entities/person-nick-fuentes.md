@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 95 mentions"
+description: "Nick Fuentes (People) - 94 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 categories:
@@ -20,9 +20,9 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12">2025-10-06 · 00:46:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58">2026-07-22 · 00:26:06</a></strong></div>
 <div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>95</strong></div>
+<div><span>Mentions</span><strong>94</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,14 +33,14 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12" style="--pulse-height:14%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 4 mentions" title="2025-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-nick-fuentes-t-00-11-47" style="--pulse-height:10%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-27" style="--pulse-height:45%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 13 mentions" title="2025-10-30 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-10" style="--pulse-height:41%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 12 mentions" title="2025-10-30 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-nick-fuentes-t-00-33-17" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49" style="--pulse-height:38%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 11 mentions" title="2025-11-03 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-32-18" style="--pulse-height:21%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-27" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-21" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-01-26" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 29 mentions" title="2025-11-08 · 29 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-23" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-nick-fuentes-t-00-40-43" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-36" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
@@ -59,14 +59,14 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 |---|---|---:|
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12) | 4 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-nick-fuentes-t-00-11-47) | 3 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-27) | 13 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-10) | 12 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-nick-fuentes-t-00-33-17) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49) | 11 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-32-18) | 6 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-27) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-21) | 2 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-01-26) | 29 |
-| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36) | 2 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-23) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-nick-fuentes-t-00-40-43) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-36) | 1 |
@@ -85,7 +85,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+<summary><strong class="section-title">Raw mentions (94)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -211,19 +211,16 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:52:07](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55)**
+**[00:52:07](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-23)**
 > "And then when you see like Tim Pool and Nick Fuentes, Candace is over"
 
-**[00:52:04](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55)**
+**[00:52:01](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-23)**
 > "...hen you see like Tim Pool and Nick Fuentes, Candace is over."
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
-
-**[00:34:03](/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36)**
-> "Nick Fuentes mentioned as trying to sell narrative about .30-06 stopping"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:34:08](/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36)**
 > "Nick Fuentes acting, you know, someone who looks like he's nev..."
@@ -325,10 +322,10 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-27)**
-> "...g— like I said, you lost the party. MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald (Donald Trump) Trump looked at us in our faces and said, "Epstein who?" That's when..."
+**[00:16:43](/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-21)**
+> "MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald Trump looked at us in our faces and said, "Epstein who?""
 
-**[00:19:52](/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-19-19)**
+**[00:19:49](/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-19-19)**
 > "...blind rage because you're so angry that the conservative base's attitudes are rapidly changing—that Nick Fuentes is getting national attention—so you have turned around in response. You are compromising your own ..."
 
 </details>
@@ -336,20 +333,20 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6 mentions)</summary>
 
-**[00:32:46](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-32-18)**
-> "...how to respond to all of this Zionist backlash that he was receiving for having a conversation with Nick Fuentes. And foremost, Tucker (Tucker Carlson) explains why he had the conversation with Nick Fuentes. Take..."
+**[00:32:39](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-32-18)**
+> "Tucker Carlson joined Dave Smith. I kind of want to qualify Tucker Carlson. I feel like I want to say "the stupendous Tucker Carlson" joined Dave Smith on his show to respond to all of this Zionist backlash that he was receiving for having a conversation with Nick Fuentes."
 
 **[00:32:56](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-32-18)**
-> "... with Nick Fuentes. And foremost, Tucker (Tucker Carlson) explains why he had the conversation with Nick Fuentes. Take a listen. I didn't make Nick Fuentes hardly. I just want to know what this is about. And I wa..."
+> "And foremost, Tucker Carlson explains why he had the conversation with Nick Fuentes. Take a listen."
 
 **[00:33:02](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-33-02)**
-> "...ucker Carlson) explains why he had the conversation with Nick Fuentes. Take a listen. I didn't make Nick Fuentes hardly. I just want to know what this is about. And I wanted to make the point that I often make—an..."
+> "I didn't make Nick Fuentes hardly. I just want to know what this is about. And I wanted to make the point that I often make—and now seems even more important than it ever has—which is that virtue and sin are not transmitted genetically."
 
-**[00:35:39](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-35-24)**
-> "...e. Now, Tucker (Tucker Carlson) then explains specifically why he chose to have a conversation with Nick Fuentes. Take a listen. You should be forgiving always. Things are being said right now that almost seem li..."
+**[00:35:39](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-35-17)**
+> "Now, Tucker Carlson then explains specifically why he chose to have a conversation with Nick Fuentes. Take a listen."
 
-**[00:36:09](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-35-53)**
-> "... that's so severe— like, how do you get past that? I think we should force ourselves. I interviewed Nick Fuentes to attack my wife and my son and my dad. He attacked my dad. And I interviewed him anyway. I choked..."
+**[00:36:07](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-35-53)**
+> "I think we should force ourselves. I interviewed Nick Fuentes, who attacked my wife and my son and my dad."
 
 **[00:37:32](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-37-10)**
 > "... not assuming that there's some like blood oath that you need to honor, but saying, "You know what? Nick Fuentes has said some crappy things about me, and I'm going to speak to him." I did the same thing. I was l..."
@@ -360,37 +357,37 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (11 mentions)</summary>
 
 **[00:07:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49)**
-> "...y control are allowed to be in positions of power. So recently, Tucker (Tucker Carlson) interviewed Nick Fuentes (Nick Fuentes). The reason he did that, I've heard, is because it happens to be a free country, and..."
+> "So recently, Tucker (Tucker Carlson) interviewed Nick Fuentes."
 
 **[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-07-32)**
-> "...ed to besmirch Charlie's (Charlie Kirk) name by asserting that Tucker (Tucker Carlson) interviewing Nick Fuentes (Nick Fuentes) is a betrayal to Charlie (Charlie Kirk). He's no longer Charlie's (Charlie Kirk) fri..."
+> "But of course with Zionists—the very same ones who were causing Charlie (Charlie Kirk) all of that grief in the final days and hours leading up to his assassination, the very same ones that Charlie (Charlie Kirk) thought were going to kill him—they've now decided to besmirch Charlie's (Charlie Kirk) name by asserting that Tucker (Tucker Carlson) interviewing Nick Fuentes is a betrayal to Charlie (Charlie Kirk)."
 
 **[00:08:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
-> "... sense. Before Charlie (Charlie Kirk) died—really kind of just before he died in July—I interviewed Nick Fuentes (Nick Fuentes). And Charlie (Charlie Kirk) and I discussed the interview, and never once did he tel..."
+> "Before Charlie (Charlie Kirk) died—really kind of just before he died in July—I interviewed Nick Fuentes."
 
 **[00:08:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
-> "...Charlie (Charlie Kirk) and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes (Nick Fuentes). Never once did he consider it an act of betrayal. To the contrary, I had a very lon..."
+> "And Charlie (Charlie Kirk) and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes."
 
 **[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
-> "...Andrew Kolvet (Andrew Kolvet) separately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes (Nick Fuentes) on his show and debate him. I tried to make that happen. You guys will recall this. ..."
+> "I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes on his show and debate him."
 
 **[00:08:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
-> "... can confirm that everything that I am saying is true. Oh, it's such an act of betrayal to speak to Nick Fuentes (Nick Fuentes). Never at any point did Charlie (Charlie Kirk) say, "Don't do that." Because that's ..."
+> "Oh, it's such an act of betrayal to speak to Nick Fuentes."
 
 **[00:09:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-01)**
-> "...alking points. "Tucker Carlson (Tucker Carlson) has betrayed Charlie Kirk (Charlie Kirk) by hosting Nick Fuentes (Nick Fuentes)." And for absolutely no reason at all, I caught a stray bullet, which tends to happe..."
+> ""Tucker Carlson has betrayed Charlie Kirk by hosting Nick Fuentes.""
 
 **[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-57)**
-> "...(Tucker Carlson), you see, is a coward. Ben Shapiro (clip): And here is where his relationship with Nick Fuentes (Nick Fuentes) begins, with Nick Fuentes (Nick Fuentes) correctly pointing out that Tucker Carlson ..."
+> "Ben Shapiro (clip): And here is where his relationship with Nick Fuentes begins, with Nick Fuentes correctly pointing out that Tucker Carlson is a coward."
 
 **[00:14:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-14-16)**
-> "... Carlson) was supposedly Charlie Kirk's (Charlie Kirk) friend. Charlie (Charlie Kirk) believed that Nick Fuentes (Nick Fuentes) was vermin. That's a direct quote. He believed that because Nick Fuentes (Nick Fuent..."
+> "Charlie (Charlie Kirk) believed that Nick Fuentes was vermin."
 
 **[00:14:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-14-16)**
-> "...lieved that Nick Fuentes (Nick Fuentes) was vermin. That's a direct quote. He believed that because Nick Fuentes (Nick Fuentes) dedicated his life to destroying Charlie Kirk (Charlie Kirk) and TPUSA from the insi..."
+> "He believed that because Nick Fuentes dedicated his life to destroying Charlie Kirk and TPUSA from the inside."
 
 **[00:48:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-48-01)**
-> "... and gay." Yeah, Charlie (Charlie Kirk) believed in free speech. He didn't even blink when I hosted Nick Fuentes (Nick Fuentes). What an absurd idea that Charlie (Charlie Kirk) would have—if Charlie (Charlie Kirk..."
+> "Nick Fuentes. What an absurd idea that Charlie (Charlie Kirk) would have—if Charlie (Charlie Kirk) ever messaged me and said, "You're betraying me by speaking to this person.""
 
 </details>
 
@@ -403,43 +400,40 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (13 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (12 mentions)</summary>
 
-**[00:29:34](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-27)**
+**[00:29:34](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-10)**
 > "...his is exceptional. The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show. And to be clear, I've hosted Nick Fuentes on my show. I don't like Nick Fuentes, and t..."
 
-**[00:29:38](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-27)**
-> "...Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show. And to be clear, I've hosted Nick Fuentes on my show. I don't like Nick Fuentes, and truly not because of anything he said in the past, becau..."
-
-**[00:29:42](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-27)**
+**[00:29:42](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-10)**
 > "...hosted Nick Fuentes on his show. And to be clear, I've hosted Nick Fuentes on my show. I don't like Nick Fuentes, and truly not because of anything he said in the past, because how he treated me and my team and h..."
 
-**[00:30:28](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-30-03)**
+**[00:30:25](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-30-25)**
 > "... Now, why are they saying he should be canceled? Well, because it's so dangerous that he platformed Nick Fuentes, who has said terrible things online, and Nick Fuentes has been adversarial to Charlie (Charlie Kir..."
 
-**[00:30:36](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-30-03)**
+**[00:30:36](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-30-25)**
 > "...and Nick Fuentes has been adversarial to Charlie (Charlie Kirk). Charlie (Charlie Kirk) didn't like Nick Fuentes. So why is Tucker (Tucker Carlson) speaking to him? Like that's their logic. I spoke to him. I don'..."
 
-**[00:30:43](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-30-03)**
+**[00:30:43](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-30-25)**
 > "...y is Tucker (Tucker Carlson) speaking to him? Like that's their logic. I spoke to him. I don't like Nick Fuentes. I speak to people I don't like all the time, actually. It's a good thing to do. You should get out..."
 
-**[00:35:56](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-35-53)**
+**[00:35:53](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-35-53)**
 > "...rominent as Tucker (Tucker Carlson)—with his large audience he has—if he was standing in the way of Nick Fuentes becoming more mainstream. I think that would be a good thing for everybody. And I'm disappointed th..."
 
-**[00:36:21](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-36-18)**
+**[00:36:18](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-36-18)**
 > "...w, I would say that for all the people—by the way—who are so upset that Candace (Candace Owens) and Nick Fuentes have become so huge—like honestly, dude, talking to guys like you—you have no one but yourself to b..."
 
-**[00:37:15](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-37-00)**
+**[00:37:13](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-37-00)**
 > "...ther people they had to shut up. I'm not a part of cancel culture. I don't care. I got into it with Nick Fuentes, and everyone said, cancel him, take him off Twitter—someone needs to do this. If I feel that my id..."
 
-**[00:37:55](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-37-39)**
+**[00:37:39](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-37-39)**
 > "... Carlson) is not a true friend to Charlie (Charlie Kirk) because Charlie (Charlie Kirk) didn't like Nick Fuentes and Tucker (Tucker Carlson) spoke to him. Watch this—truly. This is a psychological operation. Thes..."
 
-**[00:45:00](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-44-47)**
+**[00:44:47](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-44-47)**
 > "...(Charlie Kirk) would have considered shutting down Tucker (Tucker Carlson) because he sat down with Nick Fuentes. It is so beyond the realm of possibility that it is sickening to watch them do this. It really sho..."
 
-**[00:48:05](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-47-29)**
-> "...show? Okay, it was not Piers Morgan, right, Skyler? Okay, listen to what Seth Dillon says about why Nick Fuentes is a terrible human. I don't know why, but this made me laugh out loud because it's quite childish...."
+**[00:48:05](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-48-05)**
+> "Okay, listen to what Seth Dillon says about why Nick Fuentes is a terrible human. I don't know why, but this made me laugh out loud because it's quite childish."
 
 **[00:49:19](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-48-48)**
 > "...you names—just so you know—the internet is optional. Watching Tucker (Tucker Carlson) sit down with Nick Fuentes is optional. If you don't like someone, you are not required by law to watch their content. So toug..."
@@ -566,19 +560,21 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Interviewed By (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
 - [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-10): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:16:43](/episodes/ep-LATnak75Si0.md#t-00-16-21): “MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald Trump looked at us in our faces”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:36:07](/episodes/ep-Qfwr08Ebczo.md#t-00-35-53): “I interviewed Nick Fuentes, who attacked my wife and my son and my dad.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “I've hosted Nick Fuentes on my show.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-10): “I've hosted Nick Fuentes on my show.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16): “I interviewed Nick Fuentes.”
 
 </details>
@@ -656,19 +652,21 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
 - [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-10): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:16:43](/episodes/ep-LATnak75Si0.md#t-00-16-21): “MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald Trump looked at us in our faces”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:36:07](/episodes/ep-Qfwr08Ebczo.md#t-00-35-53): “I interviewed Nick Fuentes, who attacked my wife and my son and my dad.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “I've hosted Nick Fuentes on my show.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-10): “I've hosted Nick Fuentes on my show.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16): “I interviewed Nick Fuentes.”
 
 </details>
@@ -721,7 +719,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Fuentes (21)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Fuentes (26)</strong></summary>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
@@ -799,29 +797,43 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2)</summary>
 
 - [00:20:09](/episodes/ep-LATnak75Si0.md#t-00-20-02) (Accusation) **Ted Cruz** (via quoted tweet): ["Trump's bombing of the Ayatollah's nuclear facilities made the little ..."](/statements/statement-ff670def82b5.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:21:53](/episodes/ep-LATnak75Si0.md#t-00-21-53) (Accusation) **Ted Cruz** (via quoted speech): ["Ted Cruz said Nick Fuentes calls himself a Nazi and has said Hitler wa..."](/statements/statement-1fcea6a986b9.md)
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1)</summary>
 
-- [00:36:20](/episodes/ep-Qfwr08Ebczo.md#t-00-35-53) (Claim) **Tucker Carlson**: ["Tucker Carlson interviewed Nick Fuentes despite Fuentes having attacke..."](/statements/statement-3722299b36c8.md)
+- [00:36:07](/episodes/ep-Qfwr08Ebczo.md#t-00-35-53) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson interviewed Nick Fuentes despite Fuentes having attacke..."](/statements/statement-3722299b36c8.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6)</summary>
 
-- [00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens interviewed Nick Fuentes in July before Charlie Kirk die..."](/statements/statement-ada664cc8921.md)
+- [00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens said she interviewed Nick Fuentes in July, shortly befor..."](/statements/statement-ada664cc8921.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:08:23](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Charlie Kirk and Candace Owens discussed her Nick Fuentes interview an..."](/statements/statement-18dd9c25886a.md)
+- [00:08:23](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk discussed Owens's July interview with N..."](/statements/statement-41ef74024513.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:23](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk never told her not to speak to Nick Fu..."](/statements/statement-18dd9c25886a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:29](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk never considered her interview with Ni..."](/statements/statement-b04ad7a37582.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:08:38](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens said she separately had a long discussion with Andrew Ko..."](/statements/statement-f85ea2194ee5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:14:23](/episodes/ep-K1tFD7FfoCU.md#t-00-14-16) (Accusation) **Ben Shapiro** (via quoted speech): ["Ben Shapiro said Charlie Kirk believed Nick Fuentes was "vermin" becau..."](/statements/statement-2577d22857b0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

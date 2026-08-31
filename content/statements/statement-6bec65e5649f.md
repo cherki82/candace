@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -23,21 +23,11 @@ veracity: "mixed"
 
 - [Bob Shillman](/entities/person-bob-shillman.md) (person)
 
-## Appearances (2)
-
-### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:43:09](/episodes/ep-sreYYcID-QY.md#t-00-42-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2589);return false;">Play</a>
-
-> This is... then suddenly he gets a Shulman guy is the one that said, “I want my name off of the building at Turning Point,” in the 48 hours leading up to his assassination—the couple of days leading up to the assassination.
-
-### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
-
-**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:43:09](/episodes/ep-sreYYcID-QY.md#t-00-42-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2589);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2589s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > then suddenly he gets a Shulman guy is the one that said, “I want my name off of the building at Turning Point,” in the 48 hours leading up to his assassination—the couple of days leading up to the assassination
 

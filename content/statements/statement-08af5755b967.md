@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(341);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=341s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when Kash Patel arrived, he had the FBI immediately seize the footage from inside the hospital.
 

@@ -1,6 +1,6 @@
 ---
 title: "Anonymous Source #1 (Ep sreYYcID-QY)"
-description: "Anonymous Source #1 (Ep sreYYcID-QY) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #1 (Ep sreYYcID-QY) (Anonymous Sources) - 1 mention"
 id: "anon-src-sreYYcID-QY-001"
 type: "ANONYMOUS_SOURCE"
 ---
@@ -9,8 +9,8 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -19,9 +19,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -33,13 +31,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Anonymous Source #1 (Ep sreYYcID-QY) (1)</strong></summary>
+<summary><strong class="section-title">Statements by Anonymous Source #1 (Ep sreYYcID-QY) (2)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2)</summary>
 
-- [00:04:22](/episodes/ep-sreYYcID-QY.md#t-00-04-09) [○] (Claim) ["The feds told locals who had footage that they were not allowed to share it at a..."](/statements/statement-86dc0802fac8.md)
-  - About: [FBI](/entities/org-fbi.md)
+- [00:04:09](/episodes/ep-sreYYcID-QY.md#t-00-04-09) [○] (Claim) ["Local residents who emailed Owens reported sending any footage they found to fed..."](/statements/statement-383f8dd21c5c.md)
+
+- [00:04:09](/episodes/ep-sreYYcID-QY.md#t-00-04-09) [○] (Claim) ["Those local residents reported that federal authorities told them not to share t..."](/statements/statement-162463ded89e.md)
 
 </details>
 

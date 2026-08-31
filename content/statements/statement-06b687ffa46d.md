@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:22:48](/episodes/ep-d7VsbEIWkP8.md#t-00-22-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1368);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=d7VsbEIWkP8&t=1368s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I wanted to share some context about a character named Loona from the animated series Helluva Boss. ... Loona is a very popular character among members of the furry fandom. She is an anthropomorphic hellhound who normally has a wolf-like appearance, but she is also able to disguise herself in a human form and switch back to her hellhound form.
 

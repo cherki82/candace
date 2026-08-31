@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:14:35](/episodes/ep-xjzb_t5Tk9o.md#t-00-14-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(875);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=875s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > After the sleeper cell, the espionage cell was discovered, ... Israel denied it, denied any connection to those people, of course, for 51 years. ... And then in 2005, ... they finally acknowledged it by giving the participants in the Lavone Affair operation participation. ... certificates like an amazon card or something and
 

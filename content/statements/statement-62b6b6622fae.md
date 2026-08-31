@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:04:01](/episodes/ep-N4uM8Jdr410.md#t-00-03-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(241);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=241s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That looks like an explosion to me. I mean, just the fact that no one started doing first aid to Charlie Kirk, they were more concerned about getting SD cards out of cameras, removing cameras, and then getting him off the X somehow.
 

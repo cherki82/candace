@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2888);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2888s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Blake Neff is a liar. He is a coward. He is a backstabber and he is made of the stuff. ... You proved yourself to be a deceitful traitor by pretending he was not close to Tucker Carlson. Everybody knows that he was close to Tucker Carlson. He confided with him.
 

@@ -6,6 +6,11 @@ date: "1985-10"
 ---
 
 **Date:** 1985-10
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “October 20. 21st 1985”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1985-10"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:22:27](/episodes/ep-4YgrOhhy708.md#event-event-1985-10-a-times-union-article-reported-on-the-sa-t-00-22-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1347);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=1347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 21st 1985 it appeared in the times union and it says the sanctuary movement is on trial

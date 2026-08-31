@@ -18,7 +18,6 @@ veracity: "true"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
 
 ## About
 
@@ -29,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(146);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=146s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyway, the thing that I realized is that Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason, he always requires an adjective
 

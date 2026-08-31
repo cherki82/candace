@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2612);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2612s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > then flies from Fort Huachuca to El Paso and arrives at 1 20 p.m local remains on the ground for four hours and 10 minutes and then it returns back to Joint Base Andrews just outside of DC
 

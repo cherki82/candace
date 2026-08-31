@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -25,7 +25,7 @@ veracity: "true"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:23:59](/episodes/ep-HZvwbfePe7o.md#t-00-23-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=1439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Beware of talking-head personalities who peddle conspiracy theories to their room-temperature-IQ audiences in hopes of generating a few more clicks and a few more dollars for their narcissistic pseudo-empires. ... Beware of modern-day Ahabs and Jezebels who sit behind microphones in air-conditioned studios, running their podcasts, monetizing tragedy, attempting to depress the people, divide the movement, and stop us from building in this unprecedented era of opportunity.
 

@@ -29,7 +29,7 @@ type: "prediction"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's going to go bankrupt. This next one, Charlie (Charlie Kirk)'s chief of security, Brian (Brian Harpole), she's done.
 

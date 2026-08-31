@@ -20,14 +20,14 @@ type: "opinion"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
+- [FBI](/entities/org-fbi.md) (org)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
 ## Source
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:42:53](/episodes/ep-Wjul6YV6izo.md#t-00-42-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2573);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Wjul6YV6izo&t=2573s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i have presented so much more evidence than the fbi ever did against tyler robinson
 

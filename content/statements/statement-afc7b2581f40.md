@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(625);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=625s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It lists Ahmed (Ahmed Qureshi) first and foremost, as you can see here, as the president and COO of Built Incorporated
 

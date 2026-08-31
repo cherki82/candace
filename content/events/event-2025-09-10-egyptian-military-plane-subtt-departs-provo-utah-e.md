@@ -7,25 +7,20 @@ time: "07:14"
 ---
 
 **Date:** 2025-09-10 at 07:14
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the morning of Charlie Kirk's assassination”
 
 ## Event
 
 > Egyptian military plane SUBTT departs Provo, Utah en route to Wilmington, Delaware
 
-## Mentioned In (2 times)
-
-### 1. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
+## Mentioned In
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:03:23](/episodes/ep-SKGUzGHymcI.md#t-00-02-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(203);return false;">▶️ Play</a>
+**Timestamp:** [00:03:12](/episodes/ep-SKGUzGHymcI.md#event-event-2025-09-10-egyptian-military-plane-subtt-departs-provo-utah-e-t-00-03-12) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> ng Charlie's assassination and the Egyptian planes. Now, what is even more compelling about this tip is that this individual who works with or for the government sent it before I had fi
-
-### 2. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
-
-**Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:03:43](/episodes/ep-SKGUzGHymcI.md#t-00-03-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(223);return false;">▶️ Play</a>
-
-> ng Charlie's assassination and the Egyptian planes. Now, what is even more compelling about this tip is that this individual who works with or for the government sent it before I had fi
+> the yellow plane, departed on the morning at 7:14 a.m. local time from Provo, Utah.

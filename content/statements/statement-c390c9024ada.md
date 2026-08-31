@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:39:23](/episodes/ep-ZAuuSq_j2_w.md#t-00-39-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2363);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAuuSq_j2_w&t=2363s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It makes me think about how intentional Charlie (Charlie Kirk) was about saying, "We want this to be a youth organization." He wanted it to be fresh. He didn't want to become the RNC. In fact, he wanted to take over for the RNC with youth and a commitment to truth.
 

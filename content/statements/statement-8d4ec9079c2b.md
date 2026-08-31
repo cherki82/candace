@@ -29,7 +29,7 @@ type: "prediction"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:58:20](/episodes/ep-2T39-oADLj0.md#t-00-57-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=3500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I know for a fact one of them. I'm not going to name has a text message from Charlie the day before he died saying they are going to kill me.
 

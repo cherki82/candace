@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:58:05](/episodes/ep-tB5SXXmd9vU.md#t-00-57-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3485);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=3485s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They chose to publicly execute Charlie (Charlie Kirk) and then to dare us to question the narrative.
 

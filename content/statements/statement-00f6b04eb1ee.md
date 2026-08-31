@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:07:24](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(444);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=444s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You are quite literally mocking people because they comprehend something that you don't. Tucker Carlson is more powerful than you.
 

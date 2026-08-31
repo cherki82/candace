@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:16:29](/episodes/ep-4YgrOhhy708.md#t-00-15-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(989);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=989s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because it is such a perfect analogy for what this organization has become. ... wealthy, ... corrupt, ... and dishonest.
 

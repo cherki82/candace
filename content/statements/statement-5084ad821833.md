@@ -23,13 +23,13 @@ veracity: "true"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Israel](/entities/gpe-israel.md) (gpe)
-- [The Hamptons](/entities/gpe-the-hamptons.md) (gpe)
+- [Hamptons](/entities/gpe-hamptons.md) (gpe)
 
 ## Source
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:34:48](/episodes/ep-4YgrOhhy708.md#t-00-34-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2088);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2088s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was heated and spirited debate about the issue of Israel. ... in the room but it was debate that Charlie (Charlie Kirk) himself initiated and he wanted to hear different perspectives on it and so we we voiced a lot of our perspectives one of the things that i disagreed with him on was he said that you know there's
 

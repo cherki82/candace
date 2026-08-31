@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:25:52](/episodes/ep-_vg7ucP1E0g.md#t-00-25-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1552);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1552s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > was back-channeling and telling people that she knew the people that were around Kanye (Kanye West), that she had family that was around Kanye (Kanye West) and pushed for that tweet to go out.
 

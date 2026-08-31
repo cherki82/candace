@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(434);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=434s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore. Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.
 

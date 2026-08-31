@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:07:17](/episodes/ep-2tFYJf1klgY.md#t-00-07-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(437);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=437s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And her parents, Kent (Kent Randall Frantzve) and Lori (Lori Frantzve), allegedly get married that year in Marblehead, Massachusetts, although we cannot find a single shred of documentation that verifies that.
 

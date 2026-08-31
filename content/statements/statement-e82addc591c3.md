@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:37:41](/episodes/ep-SubDoZWHARo.md#t-00-37-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2261);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2261s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his daughter, very public back forth that went on where she was accusing him of abuse. ... there's a lot of that and then she retracted her statements after they began speaking again
 

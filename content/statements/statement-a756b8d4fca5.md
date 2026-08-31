@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:01:24](/episodes/ep-Vu6Y24pqhZs.md#t-00-01-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(84);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=84s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet emerges from his 25-hour silence and says, I have no meeting at the White House.
 

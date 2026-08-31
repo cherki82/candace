@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:14:28](/episodes/ep-NIEbqsLAK8g.md#t-00-14-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(868);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he gave an interview about his upbringing where he said, and I quote, I was born in Denton, Texas and grew up. a quote-unquote military brat living in numerous states and Europe. I started my law enforcement career in 1968 with the Texas Department of Public Safety, living in Amarillo, Childress, Amarillo, Floresville, and Stephenville. I retired from TDPS as a sergeant in highway patrol. I then went to work for the Erath County Sheriff's Office and after 12 years of service, retired as captain.
 

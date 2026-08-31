@@ -116,7 +116,7 @@ _No relationships extracted yet._
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3)</summary>
 
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["The January 6th pipe bomber was revealed to be Shawna Rae Kirkhoff, a ..."](/statements/statement-578e19c4da01.md)
-  - Also about: [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
+  - Also about: [Shauni Rae Kerkhoff](/entities/person-shauni-rae-kerkhoff.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
 
 - [00:13:05](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) (Claim) **Candace Owens**: ["Four out of six protest permits issued on January 6th were issued to i..."](/statements/statement-de79ed3beb78.md)
   - Also about: [NAR](/entities/org-nar.md)

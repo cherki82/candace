@@ -7,6 +7,11 @@ time: "17:24"
 ---
 
 **Date:** 2025-09-08 at 17:24
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 8th at 5:24 p.m.”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "17:24"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:40:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-40-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2437);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2437s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika will allege that that's she arrives home at 5 24

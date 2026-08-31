@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:36:17](/episodes/ep-uC_GjKU8rs8.md#t-00-36-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2177);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=2177s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just eight days after Charlie Kirk was assassinated, Show Faith by Works began their contracting registration under FARA. ... The principle of the company, to be clear, is Israel's Ministry of Foreign Affairs. Their stated purpose is to target Christians in the United States with anti-Palestinian and pro-Israel messaging. ... With geofencing.
 
@@ -41,7 +41,7 @@ veracity: "true"
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:02:11](/episodes/ep-FFQ9675oqRI.md#t-00-01-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(131);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=FFQ9675oqRI&t=131s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you remember we told you obviously about Show Faith by Works LLC, that's that FARA-registered propaganda arm of the Israeli Foreign Ministry. ... they also included an entire detailed accounting of the propaganda that they intend to execute upon Christian minds. ... they are targeting evangelicals
 

@@ -1,6 +1,6 @@
 ---
 title: "Blackout"
-description: "Blackout (Works & Media) - 21 mentions"
+description: "Blackout (Works & Media) - 23 mentions"
 id: "work-blackout"
 type: "WORK"
 categories:
@@ -16,10 +16,10 @@ _Type: Works & Media_
 Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/collections/bundles)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37">2025-09-25 · 00:44:07</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-work-blackout-t-00-41-10">2025-09-24 · 00:41:24</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-blackout-t-00-53-02">2026-08-04 · 00:53:10</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -30,7 +30,9 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37" style="--pulse-height:67%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-work-blackout-t-00-41-10" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-44-10" style="--pulse-height:67%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-blackout-t-00-49-55" style="--pulse-height:33%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-blackout-t-00-57-56" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-blackout-t-00-56-00" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-30" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
@@ -50,7 +52,9 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37) | 2 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-work-blackout-t-00-41-10) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-44-10) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-work-blackout-t-00-49-55) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-blackout-t-00-57-56) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-blackout-t-00-56-00) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-30) | 1 |
@@ -72,7 +76,7 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -196,13 +200,29 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 </details>
 
 <details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:50:09](/episodes/ep-Qt0VHV-POCg.md#ent-work-blackout-t-00-49-55)**
+> ""I just got Blackout the Book, Finishing the College Scam.""
+
+</details>
+
+<details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:44:07](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37)**
+**[00:44:00](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-44-10)**
 > "When I announced my book, Blackout, I wanted to make it like a cool thing"
 
-**[00:44:13](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37)**
+**[00:44:10](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-44-10)**
 > "When I announced my book, Blackout,"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
+
+**[00:41:24](/episodes/ep-QZWSsq8ZWzw.md#ent-work-blackout-t-00-41-10)**
+> "...note here—we have some signed Blackout copies that are available 15% off on our website,..."
 
 </details>
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:10:13](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(613);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=613s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He's told us repeatedly, as he said publicly, he's satisfied with the effort Kash (Kash Patel) and I put in.
 

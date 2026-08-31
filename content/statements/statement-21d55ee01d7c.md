@@ -23,14 +23,15 @@ type: "factual_claim"
 
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
 - [Kurt Kolvet](/entities/person-kurt-kolvet.md) (person)
+- [Robert Kolvet](/entities/person-robert-kolvet.md) (person)
 
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:23:58](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1438);return false;">Play</a>
+**Timestamp:** [00:23:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1415s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> His cousin, Captain Robert Kolvet, is high up in the military.
+> His brother, Captain Kurt Kolvet, is in the military. His cousin, Captain Robert Kolvet, is high up in the military. So that's interesting.
 
 ## Verification
 

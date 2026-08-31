@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:36:36](/episodes/ep-581dILVcEE4.md#t-00-36-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2196);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=2196s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now remember, Blake is in Arizona now, so this is going to say 11:24. ... It's supposed to be obviously 12:24 Utah time. ... You can see he calls his mom, and the call is 45 seconds long, and the call begins at 11:24. ... Charlie (Charlie Kirk) was shot at 12:23, right?
 

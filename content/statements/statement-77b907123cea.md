@@ -30,7 +30,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:45:58](/episodes/ep-69A8TzAGHlU.md#t-00-45-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2758);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=2758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Donors literally telling me that she is lying about the audio clip that she presented at AmFest. The one that they now assert that they are never going to show us the video component regarding Charlie Kirk saying Erika Kirk, I appoint my wife, Erika (Erika Kirk), to become the CEO. ... Donors saying that actually never went down. He never said that.
 

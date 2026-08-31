@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:04:51](/episodes/ep-G3zdOeHpvS0.md#t-00-04-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(291);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=291s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I just completely discount that theory. It is much more likely that the reason there was focus on the necklace, the reason the feds were looking for that necklace, the reason that it was given to Erika (Erika Kirk) is because if our theory is correct, it contained explosive residue.
 

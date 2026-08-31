@@ -7,6 +7,7 @@ time: "09:16"
 ---
 
 **Date:** 2025-09-10 at 09:16
+**Date precision:** Day
 
 ## Event
 
@@ -15,7 +16,7 @@ time: "09:16"
 ## Mentioned In
 
 **Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:01:57](/episodes/ep-iHav0PPzUz8.md#event-event-2025-09-10-military-contracted-plane-dips-low-over-provo-airp-t-00-01-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(117);return false;">▶️ Play</a>
+**Timestamp:** [00:01:57](/episodes/ep-iHav0PPzUz8.md#event-event-2025-09-10-military-contracted-plane-dips-low-over-provo-airp-t-00-01-17) 
+<a href="https://www.youtube.com/watch?v=iHav0PPzUz8&t=117s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > tracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right? And despite the fact that they were heading to Montana,

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:21:32](/episodes/ep-IqHsl7d2dos.md#t-00-21-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1292);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1292s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, there is a current class action lawsuit that's making its way through the court system right now against next model management. ... They're named as a defendant alongside MC2, Jean-Luc Brunel's agency named as defendants. ... Paychecks deducted up to 70%, which kept them dependent as underaged workers while the industry completely controlled their work, completely controlled their money, their access, their housing. ... Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.
 

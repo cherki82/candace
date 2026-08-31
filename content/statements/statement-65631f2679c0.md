@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:23:38](/episodes/ep-eMtjzXkQrsU.md#t-00-23-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1418);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=1418s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > No one listens to him. No one watches him. And somehow on October 15th. He's given a show on the Salem podcast network, the same network that hosts the Charlie Kirk show.
 

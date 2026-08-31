@@ -33,7 +33,7 @@ veracity: "true"
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:03:30](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(210);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=210s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And again, we know Charlie was advocating to President Trump against this war with Iran. And we knew at the end of the 12-day war, at the end of Midnight Hammer, that the Israelis were going to come back and ask us to go back to war.
 

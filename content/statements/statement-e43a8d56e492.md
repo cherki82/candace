@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:23:01](/episodes/ep-7ERqbYElOfs.md#t-00-23-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1381);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1381s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Jonathan Marcello is an interesting character because of his background. Of course, he's a Marine in the Marine Corps from 2013 at least until up until 2017. ... He was providing security to the Marine Corps to their various embassies throughout the world. I think you're supposed to do three embassies or securing like state secrets or something, particularly that can only find that he was stationed in Chile. ... He also worked as a helicopter technician for an attack squadron.
 

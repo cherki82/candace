@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:50:30](/episodes/ep-7ERqbYElOfs.md#t-00-50-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3030);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=3030s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Quote, I'm looking at the clouds and the mountains, Ms. Kirk recalled of those surreal hours. It was such a gorgeous day and I was thinking, this is exactly what he last saw.
 

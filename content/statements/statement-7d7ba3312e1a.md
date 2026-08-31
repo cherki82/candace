@@ -1,6 +1,6 @@
 ---
-title: "Tyler Bowyer claimed they have 4K footage of the Charlie Kir..."
-description: "\"Tyler Bowyer claimed they have 4K footage of the Charlie Kirk assassination from all angles at the university\" — Tyler Bowyer"
+title: "Tyler Bowyer wrote in a tweet, \"We have footage in 4K—all of..."
+description: "\"Tyler Bowyer wrote in a tweet, \"We have footage in 4K—all of the stuff.\"\" — Tyler Bowyer"
 statement_id: "statement-7d7ba3312e1a"
 speaker: "Tyler Bowyer"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Tyler Bowyer claimed they have 4K footage of the Charlie Kirk assassination from all angles at the university
+> Tyler Bowyer wrote in a tweet, "We have footage in 4K—all of the stuff."
 
 ## Attribution
 
@@ -18,6 +18,7 @@ type: "factual_claim"
 
 **Delivery:** Quoted from tweet
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** X
 
 ## About
 
@@ -26,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:14:07](/episodes/ep-vwG1juDCQZQ.md#t-00-13-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(847);return false;">Play</a>
+**Timestamp:** [00:14:06](/episodes/ep-vwG1juDCQZQ.md#t-00-14-06) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=846s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Tyler Bowyer said, "We have footage in 4K—all of the stuff," when he was tweeting.
+> And in theory it would be the footage, right? Tyler Bowyer said, "We have footage in 4K—all of the stuff," when he was tweeting.
 
 ## Verification
 

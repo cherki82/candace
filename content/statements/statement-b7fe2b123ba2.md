@@ -27,9 +27,9 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
 **Timestamp:** [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(467);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=467s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And there were multiple sets of prints on the weapon that was found, something that I did not share with you, but I did know this for some time.
+> And I can confirm this to you because that's one of their things. They got the prints of Tyler Robinson (accused shooter) on this gun. There were multiple sets of prints that were on the gun that was recovered thanks to the instincts of the feds and not the noses of the dogs.
 
 ## Verification
 

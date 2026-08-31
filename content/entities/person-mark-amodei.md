@@ -23,13 +23,13 @@ _Type: People_
 Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.gov/People/Detail/8772)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33">2025-12-18 · 01:00:50</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-28">2025-12-18 · 01:00:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-mark-amodei-t-00-37-24">2026-01-06 · 00:38:02</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,7 +37,7 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-mark-amodei-t-00-19-58">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33" style="--pulse-height:25%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-28" style="--pulse-height:25%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-31-41" style="--pulse-height:62%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mark-amodei-t-00-58-16" style="--pulse-height:38%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-mark-amodei-t-00-19-58" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-28) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-31-41) | 5 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-mark-amodei-t-00-58-16) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-mark-amodei-t-00-19-58) | 8 |
@@ -125,10 +125,10 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
-**[01:00:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
+**[01:00:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-28)**
 > "...rs, I'm blanking on his name, Mark Amodei."
 
-**[01:00:58](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
+**[01:00:57](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-28)**
 > "Mark Amodei from Las Vegas."
 
 </details>
@@ -139,26 +139,38 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Met With (1)</summary>
+<summary>Member Of (2)</summary>
 
-- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[House Appropriations Committee](/entities/org-house-appropriations-committee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): “This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy.”
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): “Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:35:37](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37): “in the House Appropriations Committee, of which I am a member”
+
+</details>
+
+- **[United States House of Representatives](/entities/org-us-house-of-representatives.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58): “I was returning to Washington DC from my district and voting on the floor of the House of Representatives.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
-- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[House Appropriations Committee](/entities/org-house-appropriations-committee.md)** has member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): “This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy.”
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): “Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:35:37](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37): “in the House Appropriations Committee, of which I am a member”
+
+</details>
+
+- **[United States House of Representatives](/entities/org-us-house-of-representatives.md)** has member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58): “I was returning to Washington DC from my district and voting on the floor of the House of Representatives.”
 
 </details>
 
@@ -167,7 +179,7 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark Amodei (5)</strong></summary>
+<summary><strong class="section-title">Statements about Mark Amodei (4)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
@@ -177,15 +189,12 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
-- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and ..."](/statements/statement-1708c00a71da.md)
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei mi..."](/statements/statement-14390b402a8a.md)
   - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Official committee records omit Mark Amodei from roll calls 1 and 2 on..."](/statements/statement-14390b402a8a.md)
-  - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
-
-- [00:36:52](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Candace Owens**: ["According to official committee records, Mark Amodei first appears in ..."](/statements/statement-b9a86ad8ed2a.md)
+- [00:36:24](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Diligent Denison (X account; identity unverified)** (via quoted post): ["Diligent Denison claimed that Mark Amodei was absent from the first tw..."](/statements/statement-b9a86ad8ed2a.md)
   - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>
@@ -193,7 +202,7 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [01:01:11](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain the congressman I saw at the Fort Huachuca mee..."](/statements/statement-849e9251a645.md)
+- [01:00:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-00-28) (Claim) **Mitch Snow**: ["I am 95 percent certain the congressman I saw at the Fort Huachuca mee..."](/statements/statement-849e9251a645.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>

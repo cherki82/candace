@@ -11,11 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Donald J. Trump](/entities/person-donald-trump) political ally of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (4 mentions)
-
-**[Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk)**
-
-- [00:00:16](/episodes/ep-2Riv3I7D0Yk#t-00-00-16): _...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec..._
+### Evidence (3 mentions)
 
 **[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
 

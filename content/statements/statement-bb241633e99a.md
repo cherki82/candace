@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:08:30](/episodes/ep-tB5SXXmd9vU.md#t-00-08-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(510);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=510s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And here is the official response issued by the Élysée Palace
 

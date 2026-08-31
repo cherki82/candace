@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(9202);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=9202s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they said that the French Foreign Legion was involved and on the ground that day. I've already said that.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:10:33](/episodes/ep-HYn0P-P1wUw.md#t-00-10-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(633);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=633s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So when I spoke to the people who had reported this, they suspect, and I think this is a good suspicion, a good instinct to follow, that he may have gone to his grandma's house afterwards
 

@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:34:51](/episodes/ep-BxN2-aeMYIs.md#t-00-34-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2091);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2091s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they're reaching out to Daily Mail reporters and saying they can have a screening ... We can bring it to you. We can show you on FaceTime, but you can never tell anybody. ... We're just saying you gave us the audio, give us the video.
 

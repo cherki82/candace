@@ -7,7 +7,7 @@ type: "citation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:36:20](/episodes/ep-DdPjoy5W-wY.md#t-00-36-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2180);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2180s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For future. Anyway, back into the timeline. 2013, we have, okay, Erika (Erika Kirk) begins dating Josh Harrellson. You can, that is very much evidenced by her saved tweets. ... She started dating him actually in 2012. So during her actual crown year. And yeah, we can go back to our timeline here and you can see.
 

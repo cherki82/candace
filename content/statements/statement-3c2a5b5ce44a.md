@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md)
 **Timestamp:** [00:20:32](/episodes/ep-H9p2ZGHAs9A.md#t-00-20-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1232);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > While independent fact checkers have found no evidence linking Ms. Kirk's work to illicit activities, I believe the history of the Antonio Placement Center warrants further investigation. I was personally placed in this center under dubious circumstances.
 

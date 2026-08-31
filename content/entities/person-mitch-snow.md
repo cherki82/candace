@@ -1,14 +1,18 @@
 ---
 title: "Mitch Snow"
-description: "Mitch Snow (People) - 107 mentions"
+description: "Mitch Snow (People) - 131 mentions"
 id: "person-mitch-snow"
 type: "PERSON"
+aliases:
+  - "Mitch"
 categories:
   - "podcast guest"
   - "Fort Huachuca claims"
 ---
 
 _Type: People_
+
+**Also known as:** Mitch
 
 **Categories:** podcast guest, Fort Huachuca claims
 
@@ -17,13 +21,13 @@ _Type: People_
 Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died - Transcript](https://fight.fudgie.org/search/show/co/episode/20251218_Thu_v71099a)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">2026-01-05 · 00:35:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-00-00">2025-12-18 · 00:00:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>131</strong></div>
+<div><span>Statements by</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,17 +35,19 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-19-55" style="--pulse-height:63%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 12 mentions" title="2025-12-18 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-33-02" style="--pulse-height:63%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 12 mentions" title="2025-12-20 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 19 mentions" title="2026-01-05 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-16-07" style="--pulse-height:32%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 6 mentions" title="2026-01-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-mitch-snow-t-00-34-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#t-00-01-26" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-mitch-snow-t-00-01-26" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#t-00-11-29" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-mitch-snow-t-00-11-29" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-50" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-42" style="--pulse-height:21%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 4 mentions" title="2026-01-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-33-58" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-mitch-snow-t-00-33-58" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-mitch-snow-t-00-00-01" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitch-snow-t-00-09-38" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-mitch-snow-t-00-01-45" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
@@ -60,17 +66,19 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-19-55) | 12 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-33-02) | 12 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09) | 19 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-16-07) | 6 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-mitch-snow-t-00-34-01) | 1 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-01-26) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-mitch-snow-t-00-01-26) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26) | 4 |
-| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-11-29) | 3 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-mitch-snow-t-00-11-29) | 3 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-50) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42) | 4 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-42) | 4 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54) | 2 |
-| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-58) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-mitch-snow-t-00-33-58) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-mitch-snow-t-00-00-01) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-mitch-snow-t-00-09-38) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-mitch-snow-t-00-01-45) | 1 |
@@ -91,7 +99,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (131)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -341,7 +349,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
 
-**[00:34:24](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-58)**
+**[00:34:24](/episodes/ep-ZzAT2xijKGQ.md#ent-person-mitch-snow-t-00-33-58)**
 > "the Fort Huachuca story, I'm leaning towards Mitch."
 
 </details>
@@ -383,10 +391,10 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 **[01:15:26](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-19)**
 > "...speaking to a commenter about Mitch Snow."
 
-**[01:15:32](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-19)**
+**[01:15:32](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-32)**
 > "...tive on Fort Huachuca because Mitch's baby mama from 20 years ago has something to say."
 
-**[01:15:50](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-19)**
+**[01:15:50](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-50)**
 > "you speak about Mitch when we now know that he's up to no good 20 years..."
 
 </details>
@@ -402,13 +410,13 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (3 mentions)</summary>
 
-**[00:11:38](/episodes/ep-X92MllIHDzw.md#t-00-11-29)**
+**[00:11:38](/episodes/ep-X92MllIHDzw.md#ent-person-mitch-snow-t-00-11-29)**
 > "and she subsequently deleted the message and there was no reason for her to have done that other than she thought okay maybe I was wrong the whole internet is so mad at me for saying this this person has absolutely nothing to do with Mitch Snell so somebody else had published online that they could confirm"
 
-**[00:02:02](/episodes/ep-X92MllIHDzw.md#t-00-01-26)**
+**[00:02:02](/episodes/ep-X92MllIHDzw.md#ent-person-mitch-snow-t-00-01-26)**
 > "They were bringing out Mitch's baby mama drama,"
 
-**[00:10:47](/episodes/ep-X92MllIHDzw.md#t-00-10-47)**
+**[00:10:47](/episodes/ep-X92MllIHDzw.md#ent-person-mitch-snow-t-00-10-47)**
 > "...st in any manner or form that Mitch's testimony that he plausibly saw Erika at Fort Hua..."
 
 </details>
@@ -433,10 +441,10 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2 mentions)</summary>
 
-**[00:01:54](/episodes/ep-CMcktj3Egfo.md#t-00-01-26)**
+**[00:01:54](/episodes/ep-CMcktj3Egfo.md#ent-person-mitch-snow-t-00-01-26)**
 > "followed by Operation Debunk Mitch and Fort Huachuca with baby mama drama."
 
-**[00:02:46](/episodes/ep-CMcktj3Egfo.md#t-00-02-03)**
+**[00:02:46](/episodes/ep-CMcktj3Egfo.md#ent-person-mitch-snow-t-00-02-03)**
 > "Mitch is baby mamas."
 
 </details>
@@ -455,7 +463,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 **[00:16:11](/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-16-07)**
 > "... up with evidence that Mitch (Mitch Snow) was telling the truth about what happened on Sep..."
 
-**[00:20:03](/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-16-07)**
+**[00:20:03](/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-19-58)**
 > "uh that i mitch had described a person who he was sure was a cong..."
 
 **[00:21:36](/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-21-17)**
@@ -534,6 +542,88 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 </details>
 
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (12 mentions)</summary>
+
+**[00:33:20](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-33-02)**
+> "You can support Mitch at GiveSendGo.com slash Candace podcast."
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-32-19)**
+> "...le are trying to dig up about Mitch."
+
+**[00:37:23](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-37-03)**
+> "...e can confirm every aspect of Mitch's story, but we can't confirm his memory and whethe..."
+
+**[00:38:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-38-25)**
+> "...evidence that the people that Mitch saw were in fact on that base on that date."
+
+**[00:39:11](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-39-11)**
+> "...just so you know, when I send Mitch stuff that's happening and I'm trying to guess wh..."
+
+**[00:42:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-42-27)**
+> "And I can't trust Mitch's vision on this, but it at least is compelling."
+
+**[00:43:14](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-43-06)**
+> "...arer understanding that maybe Mitch thinks he remembers things."
+
+**[00:43:55](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-43-46)**
+> "...r, it could be a full case of Mitch misremembering, but I didn't give him the context..."
+
+**[00:46:33](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-45-57)**
+> "... not want an email about what Mitch did in 1993 and why you don't think he's a good p..."
+
+**[00:51:37](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-51-30)**
+> "...encourage you guys to support Mitch because he has people picking apart his entire li..."
+
+**[00:51:58](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-51-30)**
+> "You can support Mitch and I will be doing that too."
+
+**[00:52:00](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-snow-t-00-51-30)**
+> "You'll see that I haven't donated yet because I literally hit publish on that right before we went live, but you can support Mitch at GiveSendGo.com slash Candace podcast."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (12 mentions)</summary>
+
+**[00:20:39](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-19-55)**
+> "Now, when we get back after this brief break from our sponsors, we are going to bring on, and this is his new name, Mitch."
+
+**[00:20:13](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-19-55)**
+> "...on, and this is his new name, Mitch."
+
+**[00:25:09](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-25-09)**
+> "...because I do want to bring on Mitch, who apparently has what I would describe as, I d..."
+
+**[00:25:30](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-25-09)**
+> "Mitch, welcome to my podcast."
+
+**[00:25:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-25-38)**
+> "...at just said, you should call Mitch after I prayed and said, I'm missing a piece of t..."
+
+**[00:25:57](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-25-38)**
+> "And so, Mitch, my audience is up to date on what happened to yo..."
+
+**[01:07:58](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-01-07-58)**
+> "I'm going to let Mitch sign off here and then I will answer some of your..."
+
+**[01:10:18](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-01-10-03)**
+> "...t together a give send go for Mitch and his family."
+
+**[01:10:42](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-01-10-42)**
+> "...at I get a fundraiser out for Mitch and his family and hopefully we can help them wit..."
+
+**[01:10:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-01-10-42)**
+> "... writes, we stand behind you, Mitch, and your family just as much as we stand behind,..."
+
+**[01:14:41](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-01-14-11)**
+> "for Mitch and his family."
+
+**[00:00:31](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-00-00)**
+> "...yewitness from Fort Huachuca (Mitch)."
+
+</details>
+
 </details>
 
 <details open>
@@ -552,12 +642,38 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details>
-<summary>Formerly Member Of (1)</summary>
+<summary>Formerly Member Of (2)</summary>
 
 - **[Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:46](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “Mitch (Mitch Snow) was certain. He was certain. And I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike. He has not adopted, he has not adapted that story. He has not adapted that story. Despite the undue harassment that he received, in particular, after seeing Erika (Erika Kirk) on the evening of the 8th, he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the Joint Task Force, the Southern Border Unit. And he was a border unit and he was surprised he saw a guy. Running the JTF thing, I think he said it was JTF 10, the 10th Mountain Brigade. He's like, oh, where are you guys? I thought this was like disbanded. I used to be on this same task force, Southern Border.”
+
+</details>
+
+- **[United States Army Special Forces](/entities/org-us-army-special-forces.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:50:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-50-50): “I, yeah, and then they mentioned a bomb threat. They wanted to check my vehicle. I mentioned that because I was in Special Forces, obviously I must be some sort of a bomb threat.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (2)</summary>
+
+- **[10th Mountain Division](/entities/org-10th-mountain-division.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division”
+
+</details>
+
+- **[Joint Task Force Six](/entities/org-joint-task-force-six.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6”
 
 </details>
 
@@ -571,6 +687,30 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:29:07](/episodes/ep-69A8TzAGHlU.md#t-00-29-07): “Okay, here is just one of many examples on my podcast. This is actually when I interviewed Mitch Snow where I said, I can't confirm who you saw.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07): “airbase that were not you know weird so I made the decision when I first presented the story which was absent before my interview with Mitch (Mitch Snow) so I basically first told Mitch (Mitch Snow)'s story um his entire background and then I said and he says that he saw Brian Harpole if you go back and you watch that I said he saw Brian Harpole on the 9th right removed Erika (Erika Kirk) from it entirely instantly the next day Erika (Erika Kirk) did went on her tour the stop tour day Erika (Erika Kirk) did went on her tour the stop tour”
+
+</details>
+
+</details>
+
+<details>
+<summary>Married To (1)</summary>
+
+- **[Amy (Mitch's wife; surname unverified)](/entities/anon-src-ewBzjVe3LNQ-amy-mitch-wife.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:41:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-41-00): “And I was on the phone with my wife here, and I even told her about it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Captain Adam Neff](/entities/person-captain-adam-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-28): “But yeah, they escorted me out across the parking lot to the park benches there. And me, one of the captains there, his name was Captain Neff, nice guy.”
 
 </details>
 
@@ -601,6 +741,30 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details>
+<summary>Supported By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:02:15](/episodes/ep-ewBzjVe3LNQ.md#t-01-02-02): “I don't know what to say other than I know what you are going to go through now and I want you to know that you have an ally with me and I know how much you are already going through fighting them and I intend to help you raise money to go through these lawsuits with the federal government.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[United States Border Patrol](/entities/org-us-border-patrol.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:28:36](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-36): “Um, and I was looking at the data while the skeleton crew of the Border Patrol was left there with me as well.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -613,7 +777,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Anonymous Source #3 (Ep OEAHy3SsIiI)](/entities/anon-src-OEAHy3SsIiI-003.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -636,6 +800,20 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 </details>
 
+- **[10th Mountain Division](/entities/org-10th-mountain-division.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division”
+
+</details>
+
+- **[Joint Task Force Six](/entities/org-joint-task-force-six.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6”
+
+</details>
+
 - **[Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)** has former member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -643,11 +821,26 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[United States Army Special Forces](/entities/org-us-army-special-forces.md)** has former member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:50:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-50-50): “I, yeah, and then they mentioned a bomb threat. They wanted to check my vehicle. I mentioned that because I was in Special Forces, obviously I must be some sort of a bomb threat.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:25:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-09): “Mitch, welcome to my podcast. It's so great to have you here.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:29:07](/episodes/ep-69A8TzAGHlU.md#t-00-29-07): “Okay, here is just one of many examples on my podcast. This is actually when I interviewed Mitch Snow where I said, I can't confirm who you saw.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07): “airbase that were not you know weird so I made the decision when I first presented the story which was absent before my interview with Mitch (Mitch Snow) so I basically first told Mitch (Mitch Snow)'s story um his entire background and then I said and he says that he saw Brian Harpole if you go back and you watch that I said he saw Brian Harpole on the 9th right removed Erika (Erika Kirk) from it entirely instantly the next day Erika (Erika Kirk) did went on her tour the stop tour day Erika (Erika Kirk) did went on her tour the stop tour”
+
+</details>
+
+- **[Captain Adam Neff](/entities/person-captain-adam-neff.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-28): “But yeah, they escorted me out across the parking lot to the park benches there. And me, one of the captains there, his name was Captain Neff, nice guy.”
 
 </details>
 
@@ -658,12 +851,19 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:02:15](/episodes/ep-ewBzjVe3LNQ.md#t-01-02-02): “I don't know what to say other than I know what you are going to go through now and I want you to know that you have an ally with me and I know how much you are already going through fighting them and I intend to help you raise money to go through these lawsuits with the federal government.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mitch Snow (3)</strong></summary>
+<summary><strong class="section-title">Statements by Mitch Snow (15)</strong></summary>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
@@ -684,10 +884,51 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 </details>
 
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (12)</summary>
+
+- [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-10) [○] (Claim) ["We were part of a mission going down to the border of JTF-6 assigned from 10th M..."](/statements/statement-e8d167e7b955.md)
+  - About: [10th Mountain Division](/entities/org-10th-mountain-division.md)
+
+- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-36) [◐] (Claim) ["We discovered underground tunnel signals that were subterranean, and were able t..."](/statements/statement-54e2de6e1ea2.md)
+  - About: [Arizona](/entities/gpe-arizona.md)
+
+- [00:30:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) [○] (Accusation) ["An American lieutenant colonel was pictured on the Mexican side after the tunnel..."](/statements/statement-630dfb08f6c5.md)
+  - About: [United States Border Patrol](/entities/org-us-border-patrol.md)
+
+- [00:31:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) [◐] (Accusation) ["There had been substantial suspicion that the federal government knew that rough..."](/statements/statement-30bdc172939d.md)
+  - About: [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
+
+- [00:32:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-10) [✓] (Accusation) ["Mitch agreed that, after the tunnel discovery, his identity was fed to cartels a..."](/statements/statement-3a4c86c4b5cb.md)
+  - About: [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:37:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-09) [○] (Claim) ["On September 8, I checked into the Candlewood Suites at Fort Huachuca and saw a ..."](/statements/statement-58fce571197c.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:45:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-44-51) [○] (Claim) ["After I entered the JTF headquarters at Fort Huachuca on September 9, multiple l..."](/statements/statement-5eb1850fe988.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:46:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-06) [○] (Claim) ["At the Fort Huachuca JTF headquarters, I saw a civilian who looked like a congre..."](/statements/statement-1ac2526e812d.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:52:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) [○] (Opinion) ["Authorities at Fort Huachuca repeatedly focused on the next 24 hours and appeare..."](/statements/statement-83f8b5f3882a.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:55:53](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-53) [○] (Claim) ["I am 95-99 percent certain that the man I saw at the Fort Huachuca meeting on Se..."](/statements/statement-d7c3e7e4fe7b.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:57:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) [○] (Claim) ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the hotel lob..."](/statements/statement-fe5aea94c1fd.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [01:00:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-00-28) [○] (Claim) ["I am 95 percent certain the congressman I saw at the Fort Huachuca meeting on Se..."](/statements/statement-849e9251a645.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitch Snow (20)</strong></summary>
+<summary><strong class="section-title">Statements about Mitch Snow (25)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
@@ -790,6 +1031,28 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 - [01:08:59](/episodes/ep-OEAHy3SsIiI.md#t-01-08-55) (Opinion) **Candace Owens**: ["Candace Owens said she felt that Mitch Snow had seen Brian Harpole at ..."](/statements/statement-cc3ecedba73f.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
+
+- [00:32:38](/episodes/ep-w1oqQbR_bYs.md#t-00-32-19) (Claim) **Candace Owens**: ["Owens said she had verified Mitch's location and Captain Neff's presen..."](/statements/statement-614098d3d935.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:33:48](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["Owens said paperwork she reviewed showed that Mitch had lawsuits and w..."](/statements/statement-4ba55ebd24e4.md)
+
+- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Mitch tentatively identified Cabot Phillips from a photo, but Owens ca..."](/statements/statement-b16f405410db.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+
+- [00:32:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-10) (Accusation) **Mitch Snow**: ["Mitch agreed that, after the tunnel discovery, his identity was fed to..."](/statements/statement-3a4c86c4b5cb.md)
+
+- [01:10:18](/episodes/ep-ewBzjVe3LNQ.md#t-01-10-03) (Promise) **Candace Owens**: ["I will create a GiveSendGo fundraiser for Mitch and his family and hel..."](/statements/statement-1ee36c549681.md)
 
 </details>
 

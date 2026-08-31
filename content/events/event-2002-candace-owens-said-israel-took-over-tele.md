@@ -6,6 +6,11 @@ date: "2002"
 ---
 
 **Date:** 2002
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “it was in 2002”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2002"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [01:06:04](/episodes/ep-QdM9jLwjwLw.md#event-event-2002-candace-owens-said-israel-took-over-tele-t-01-05-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3964);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=3964s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > television sets in Gaza and blaring out pornography to use it as a spiritual weapon against them.

@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:38:35](/episodes/ep-OEAHy3SsIiI.md#t-00-38-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2315);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=2315s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he's basically 100% certain he saw Brian Harpole at this top brass meeting. That took place on the morning of the 9th, a meeting which was concluding on the morning of the 9th around 7.30 a.m. He sent me all of the receipts to back this up, okay?
 
@@ -38,7 +38,7 @@ type: "accusation"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:46:27](/episodes/ep-KpxIBWkNsSs.md#t-00-46-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2787);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=2787s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian Harpole he saw on the 9th and he was leaving the meeting on Fort Huachuca base and that was when the cops were called
 

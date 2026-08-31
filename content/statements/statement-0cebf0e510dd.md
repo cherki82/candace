@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:21:07](/episodes/ep-1mYNOqzAdXs.md#t-00-21-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1267);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she pulled out of the TPUSA event because of a bunch of factors i don't think it was just security concerns the source said if there were security concerns the vice president wouldn't have gone
 

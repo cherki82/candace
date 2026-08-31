@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:16:39](/episodes/ep-SKNJPul29zU.md#t-00-16-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(999);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you know, a lot of collateral damage and people were very critical about that. And so she just had to read an article so she would know what the story is, as we talk about on the show. She couldn't be bothered to read the article. She had no interest at all. I'm like, why are you even in this space? What are you doing?
 

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:14:41](/episodes/ep-ChuWo-n49B8.md#t-00-14-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(881);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=881s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We also saw testimony in court that the police moved to use an Israeli tech firm to extract the messages. Cellebrite, it's called an Israeli forensic tech firm to extract those messages.
 

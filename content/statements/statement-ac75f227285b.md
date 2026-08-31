@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:12:25](/episodes/ep-CMcktj3Egfo.md#t-00-11-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(745);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=745s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You guys know what Turning Point USA has evolved from a charity asking for a check or asking for a one-time credit card donation to now asking for people to pledge their 401ks, their property, basically a means for the elderly they've established to. ... To include Turning Point USA in their wills
 

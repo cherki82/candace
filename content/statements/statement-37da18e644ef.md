@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:26:04](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1564);return false;">Play</a>
+**Timestamp:** [00:26:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-47) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1563s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Beast—both of his parents high up in the military.
+> Mr. Beast—both of his parents high up in the military.
 
 ## Verification
 

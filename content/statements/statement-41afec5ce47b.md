@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 **Timestamp:** [00:07:37](/episodes/ep-mKXdKV-OBog.md#t-00-07-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(457);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mKXdKV-OBog&t=457s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Approximately 750,000 people statewide, okay? And in Minot, there are just 45,000 people, and that includes 5,000 people who are stationed there at the Minot Air Force.
 

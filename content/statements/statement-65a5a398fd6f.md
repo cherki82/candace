@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:40:51](/episodes/ep-sKuYLNx3iRo.md#t-00-40-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2451);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2451s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And even if you go back to Dave Rubin's book, which I read, Don't Burn This Book, I knew he had no idea about foreign policy because there's a chapter where he actually published, I think this was back in 2020 when he published his book, that Ukraine was a member of NATO.
 

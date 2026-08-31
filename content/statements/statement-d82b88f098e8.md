@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 **Timestamp:** [00:56:45](/episodes/ep-YaZfwLQ7vrI.md#t-00-56-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3405);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YaZfwLQ7vrI&t=3405s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On that note, later on this week, we'll be having a guest join us that will speak on Friday about Turning Point's finances, and that's going to paint a big picture.
 

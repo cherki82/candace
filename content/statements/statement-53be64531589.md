@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:19:19](/episodes/ep-JQjCAsfoXEE.md#t-00-18-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1159);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=1159s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The blue plane, SU-BND, did, however, power on. And I want to be very clear as to what I mean when I say that this plane was on. I am saying that it was transponding, okay? It's transponding at the FBO at Duncan Aviation, a private terminal.
 

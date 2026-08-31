@@ -5,11 +5,19 @@ id: "event-uss-liberty-incident"
 type: "EVENT"
 aliases:
   - "USS Liberty episode"
+categories:
+  - "military incident, Six-Day War"
 ---
 
 _Type: Events_
 
 **Also known as:** USS Liberty episode
+
+**Categories:** military incident, Six-Day War
+
+**Entity verification:** verified
+> The NSA's historical exhibit confirms the June 8, 1967 attack on USS Liberty during the Six-Day War, matching the source's interview reference.
+Source: [Cold War: U.S.S. Liberty — NSA](https://www.nsa.gov/History/National-Cryptologic-Museum/Exhibits-Artifacts/Exhibit-View/Article/2718838/cold-war-uss-liberty/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#t-00-39-41">2025-11-08 · 00:40:03</a></strong></div>

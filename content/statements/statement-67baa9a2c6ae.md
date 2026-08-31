@@ -29,7 +29,7 @@ type: "citation"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:01:38](/episodes/ep-y8lak3CRwDw.md#t-00-01-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(98);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=98s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is a school out in Scottsdale, and we were able to further confirm this from the middle school because they once tweeted this referring to her as alumni. ... They wrote, thanks alumni Erika Frantzve for sharing the importance of being an everyday hero. Copa pride.
 

@@ -6,6 +6,11 @@ date: "2024-01"
 ---
 
 **Date:** 2024-01
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “January of 2024”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2024-01"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(249);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=249s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > after Mikey McCoy becomes the chief of staff in January of 2024, Charlie suddenly

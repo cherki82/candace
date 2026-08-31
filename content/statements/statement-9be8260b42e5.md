@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:47:51](/episodes/ep-i8m_6D4QGmk.md#t-00-47-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2871);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2871s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Do you think eventually there will be a need for boots on the ground? ... I would not exclude it for those reasons or other, but we have to see how it goes forward. ... I exclude nothing. We have been waiting for 47 years, and we came to a point where every—every necessary means should be taken ... in order to achieve our goals.
 

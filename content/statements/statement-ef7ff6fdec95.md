@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:00:16](/episodes/ep-ZzAT2xijKGQ.md#t-00-00-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(16);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=16s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > President Trump (Donald J. Trump) has appointed Erika Kirk to the Air Force Academy's Board of Visitors.
 

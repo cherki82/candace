@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:20:08](/episodes/ep-puuMVxEu5NU.md#t-00-20-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1208);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1208s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But yeah, absolutely all black and the rifle looked smaller than the Mauser they recovered.
 

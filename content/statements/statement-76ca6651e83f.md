@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:01:09](/episodes/ep-ti5Fxrvegno.md#t-00-00-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(69);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=69s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I've seen enough. Erika Kirk should be dragged into a police precinct for questioning. Like I said,
 

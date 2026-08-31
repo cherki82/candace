@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:35:32](/episodes/ep-1IY2oD-_xVA.md#t-00-35-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2132);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2132s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They had a child, multiple children actually at the school, and obviously the child is an adult today and has always maintained that he was sexually abused by very specific people at the top of the school.
 

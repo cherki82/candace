@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:01:49](/episodes/ep-wcD2khO3rOA.md#t-00-01-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(109);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=109s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what typical preparations entail for Charlie Kirk events. ... And so we started our first before that one, the 24th of the month prior. ... we put that in a timeline on an app so that this all goes up and every guy that's on that job can see all the intel that comes in.
 

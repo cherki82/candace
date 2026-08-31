@@ -21,7 +21,7 @@ _Type: People_
 Source: [Greg Skordas — KSL NewsRadio](https://kslnewsradio.com/our-team-members/greg-skordas/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51">2025-10-02 · 00:31:51</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-22">2025-10-02 · 00:31:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-32-28">2025-10-02 · 00:32:29</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -33,15 +33,15 @@ Source: [Greg Skordas — KSL NewsRadio](https://kslnewsradio.com/our-team-membe
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-22">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-22" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-22) | 3 |
 
 </details>
 </section>
@@ -54,10 +54,10 @@ Source: [Greg Skordas — KSL NewsRadio](https://kslnewsradio.com/our-team-membe
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
-**[00:31:51](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
+**[00:31:51](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-22)**
 > "... Robinson to do so.” “And we think that you can help to this.” I got a very rude response that only Skordas is allowed to find a representation for Tyler Robinson. So, Skordas is a guy who's running as a sta..."
 
-**[00:31:58](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
+**[00:31:58](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-58)**
 > "... a very rude response that only Skordas is allowed to find a representation for Tyler Robinson. So, Skordas is a guy who's running as a state prosecutor. So, here's the problem with that. State prosecutor ca..."
 
 **[00:32:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-32-28)**

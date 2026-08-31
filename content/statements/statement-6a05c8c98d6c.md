@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:17:41](/episodes/ep-BxN2-aeMYIs.md#t-00-17-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1061);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1061s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Their reports monitor major conservative and dissident right accounts, and they frequently frame those accounts as vulnerable to or participating in. ... In foreign influence operations
 

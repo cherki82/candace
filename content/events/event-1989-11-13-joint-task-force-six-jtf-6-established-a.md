@@ -6,25 +6,27 @@ date: "1989-11-13"
 ---
 
 **Date:** 1989-11-13
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “1990”
+
+**Normalization note:** Official JTF North history states Army Gen. Colin Powell issued the establishing order on 1989-11-13; transcript frames the command as brand new in 1990, preserved as a mention-level discrepancy.
+
+**Date source:** [https://www.jtfn.northcom.mil/About-Us/History/dvpsearch/searchstring/](https://www.jtfn.northcom.mil/About-Us/History/dvpsearch/searchstring/)
 
 ## Event
 
 > Joint Task Force Six (JTF-6) established at Fort Bliss, Texas by General Colin Powell
 
-## Mentioned In (2 times)
-
-### 1. Charlie Kirk’s Last Trip To Asia… | Candace Ep 277
+## Mentioned In
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
-**Timestamp:** [00:05:05](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(305);return false;">▶️ Play</a>
+**Timestamp:** [00:05:09](/episodes/ep-t4U7NjnUEgc.md#event-event-1989-11-13-joint-task-force-six-jtf-6-established-a-t-00-05-09) 
+<a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=309s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> In 1990, this young man named Harry Myers discovered something that would shape the next three decades of his life. He was at the bottom of the military chain. He was just 20 years old, and he was put on what was actually a brand new command, the first ever Joint Task Force Six, and this new command was being created down at the border by President George H.W. Bush
+> he was put on what was actually a brand new command, the first ever Joint Task Force Six
 
-### 2. EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Be...
-
-**Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:26:24](/episodes/ep-ewBzjVe3LNQ.md#event-event-1989-11-13-joint-task-force-six-jtf-6-established-a-t-00-26-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1584);return false;">▶️ Play</a>
-
-> we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division
+> **Date stated in this source:** “1990”
+> **Date review note:** Transcript frames JTF-6 as brand new in 1990; official JTF North history dates establishment to 1989-11-13, so the canonical date is retained.

@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:42:06](/episodes/ep-ds6umq1rHAw.md#t-00-41-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2526);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=2526s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What kind of Christian would just say, lie explicitly, say Andrew Kolvet went rogue, the surgeon went rogue, and I had no idea about it? That's not true.
 

@@ -6,6 +6,11 @@ date: "2025-09-14"
 ---
 
 **Date:** 2025-09-14
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 14th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-14"
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:07:02](/episodes/ep-jsqUIkszZd0.md#event-event-2025-09-14-victor-marx-announced-his-campaign-for-g-t-00-07-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(422);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > governor of Colorado at a Charlie Kirk memorial event in Denver on September 14th
 
@@ -25,6 +30,6 @@ date: "2025-09-14"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:05:53](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(353);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=353s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > at the memorial service for Charlie Kirk just four days after Charlie's death.

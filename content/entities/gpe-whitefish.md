@@ -3,9 +3,17 @@ title: "Whitefish"
 description: "Whitefish (Places) - 1 mention"
 id: "gpe-whitefish"
 type: "GPE"
+categories:
+  - "Montana city"
 ---
 
 _Type: Places_
+
+**Categories:** Montana city
+
+**Entity verification:** verified
+> The official municipal site confirms Whitefish, Montana.
+Source: [City of Whitefish, Montana](https://www.cityofwhitefish.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-whitefish-t-00-24-32">2025-11-13 · 00:24:32</a></strong></div>

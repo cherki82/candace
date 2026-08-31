@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:32:22](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=1942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire. People who had access to the court documents approached me with them quite early, before the situation was resolved.
 

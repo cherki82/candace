@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:25:55](/episodes/ep-QRS_hR7NXaQ.md#t-00-25-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1555);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1555s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, I got suddenly interested in this narrative for a couple of reasons, all because I then realized her mother was used again in an alibi when I was contacting Justin Streiff trying to figure out what Erika (Erika Kirk) was doing on September 8th, just wanting some sort of an alibi and it kept getting delayed. And I was told that her mother was very, very sick and that that was the reason why and that she was spending her days in the hospital. in a hospital with her mother.
 

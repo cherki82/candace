@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:04:18](/episodes/ep-SKGUzGHymcI.md#t-00-04-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(258);return false;">Play</a>
+**Timestamp:** [00:04:18](/episodes/ep-SKGUzGHymcI.md#t-00-03-50) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=258s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then for whatever reason, these Egyptians decided to stay in Wilmington, Delaware for a night until the following day...Because they departed September 11th at 7:56 a.m. That means that we can definitively rule out that this was just a fuel stop
 

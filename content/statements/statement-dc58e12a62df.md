@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:57:32](/episodes/ep-xjzb_t5Tk9o.md#t-00-57-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3452);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3452s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > most useful most energetic places in the united states university company and we have seen what happens to those young kids they were vilified in the media they were ridiculed they were belittled they had their careers some of them were even were shot i have a friend of mine palestinian he and two of his friends were shot and now he's ... He is paralyzed from waist down, all because he didn't even, he wasn't even one of the protests, ... he was wearing a keffiyeh and he was speaking Arabic.
 

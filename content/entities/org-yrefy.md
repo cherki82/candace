@@ -1,11 +1,12 @@
 ---
 title: "Yrefy"
-description: "Yrefy (Organizations) - 15 mentions"
+description: "Yrefy (Organizations) - 18 mentions"
 id: "org-yrefy"
 type: "ORG"
 aliases:
   - "YREFY"
   - "Y-Refy"
+  - "YieldiFi"
 categories:
   - "student loan refinancing"
   - "aviation-related episode discussion"
@@ -13,7 +14,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** YREFY, Y-Refy
+**Also known as:** YREFY, Y-Refy, YieldiFi
 
 **Categories:** student loan refinancing, aviation-related episode discussion
 
@@ -22,12 +23,12 @@ _Type: Organizations_
 Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-yrefy-t-00-34-53">2026-03-23 · 00:34:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-yrefy-t-00-19-05">2025-12-02 · 00:19:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-yrefy-t-00-24-23">2026-06-13 · 00:24:23</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +37,7 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-yrefy-t-00-27-27">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-yrefy-t-00-19-05" style="--pulse-height:60%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-yrefy-t-00-34-53" style="--pulse-height:80%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-yrefy-t-00-27-27" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 5 mentions" title="2026-03-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-yrefy-t-00-09-56" style="--pulse-height:40%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
@@ -47,6 +49,7 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-yrefy-t-00-19-05) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-yrefy-t-00-34-53) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-yrefy-t-00-27-27) | 5 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-yrefy-t-00-09-56) | 2 |
@@ -60,7 +63,7 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
@@ -134,6 +137,20 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 
 </details>
 
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+
+**[00:19:16](/episodes/ep-a-e7HC6SeK8.md#ent-org-yrefy-t-00-19-05)**
+> "...arlie Kirk) speaks in Westchester, New York. At the end of July—this is a new little update for you—YieldiFi comes in as the number one sponsor of the Charlie (Charlie Kirk) fall tour. So this is end of July,..."
+
+**[00:20:09](/episodes/ep-a-e7HC6SeK8.md#ent-org-yrefy-t-00-19-44)**
+> "... wondering—why was this put together so late in the day? And I am musing here, but I'm wondering if YieldiFi—after Charlie (Charlie Kirk) lost millions of dollars—said, "Hey, you can make that up by going on ..."
+
+**[00:20:38](/episodes/ep-a-e7HC6SeK8.md#ent-org-yrefy-t-00-20-28)**
+> "... not introducing that as a fact. I'm introducing that as a question. Anyways, back to our timeline. YieldiFi is going big, and they are gonna be the main sponsor of this fall tour. And that's how that came to..."
+
+</details>
+
 </details>
 
 <details open>
@@ -166,7 +183,7 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Yrefy (7)</strong></summary>
+<summary><strong class="section-title">Statements about Yrefy (8)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
@@ -210,6 +227,14 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 
 - [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
   - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Provo](/entities/gpe-provo.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:19:16](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05) (Claim) **Candace Owens**: ["YieldiFi comes in as the number one sponsor of the Charlie Kirk fall t..."](/statements/statement-cd0bc3ba229f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

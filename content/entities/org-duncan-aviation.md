@@ -31,7 +31,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-15" style="--pulse-height:75%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 3 mentions" title="2025-11-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-34-53" style="--pulse-height:75%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
@@ -42,7 +42,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55) | 4 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-15) | 3 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-34-53) | 3 |
@@ -104,18 +104,15 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
 
-**[00:06:39](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18)**
+**[00:06:35](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-15)**
 > "... that we can now add to the Egyptian mix. So that's a total of five rental cars that were rented by Duncan Aviation that we can review. Also want to thank the many of you who emailed us yesterday and informed me tha..."
 
-**[00:06:44](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18)**
-> "Five rental cars rented by Duncan Aviation identified"
-
-**[00:08:36](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-08-20)**
+**[00:08:36](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-08-36)**
 > "...r silver 2025 Toyota 4Runner, Utah license plate number Z349AA. Five vehicles which were secured by Duncan Aviation. Now, since I wasn't born yesterday, I feel pretty confident concluding that these 12 to 14 Egyptia..."
 
-**[00:54:11](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-53-36)**
+**[00:54:03](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-53-36)**
 > "...e take a look at this picture of why this SU-BND jet might have been transponding without moving at Duncan Aviation. So stay tuned, and we'll see you tomorrow."
 
 </details>
@@ -126,7 +123,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 **[00:19:34](/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55)**
 > "...that this plane was on. I am saying that it was transponding, okay? It's transponding at the FBO at Duncan Aviation, a private terminal. So at the very least, they powered up the electronics. At most, they fully pow..."
 
-**[00:20:08](/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55)**
+**[00:20:07](/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55)**
 > "It's transponding at the FBO at Duncan Aviation, a private terminal."
 
 **[00:22:10](/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-22-10)**
@@ -141,6 +138,18 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Based In (1)</summary>
+
+- **[Provo](/entities/gpe-provo.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:27:13](/episodes/ep-JQjCAsfoXEE.md#t-00-26-57): “I learned that oddly, Duncan Aviation—you know, where that plane was transponding from, the FBO in Provo—sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Formerly Employed (1)</summary>
@@ -167,16 +176,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 </details>
 
 <details>
-<summary>Has Coo (1)</summary>
-
-- **[Tom Burt](/entities/person-tom-burt.md)**
-
-</details>
-
-<details>
 <summary>Referenced By (3)</summary>
-
-- **[Tom Burt](/entities/person-tom-burt.md)** COO of this
 
 - **[Tom Burt](/entities/person-tom-burt.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -189,6 +189,13 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:16:54](/episodes/ep-ds6umq1rHAw.md#t-00-16-54): “what I do know about Robert Graff, who owned this jet, is very interesting. He was the founder of Robert Graff, Inc., which became Duncan Aviation.”
+
+</details>
+
+- **[Provo](/entities/gpe-provo.md)** location of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:27:13](/episodes/ep-JQjCAsfoXEE.md#t-00-26-57): “I learned that oddly, Duncan Aviation—you know, where that plane was transponding from, the FBO in Provo—sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation.”
 
 </details>
 
@@ -218,9 +225,9 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
-- [00:08:13](/episodes/ep-581dILVcEE4.md#t-00-07-41) (Claim) **Candace Owens**: ["Owens said a fifth rented vehicle was a gray or silver 2025 Toyota 4Ru..."](/statements/statement-ffa90a52a32f.md)
+- [00:08:13](/episodes/ep-581dILVcEE4.md#t-00-07-40) (Claim) **Candace Owens**: ["Owens said a fifth rented vehicle was a gray or silver 2025 Toyota 4Ru..."](/statements/statement-ffa90a52a32f.md)
 
-- [00:08:41](/episodes/ep-581dILVcEE4.md#t-00-08-20) (Claim) **Candace Owens**: ["Five rental cars were secured by Duncan Aviation for the Egyptians"](/statements/statement-f63549257440.md)
+- [00:08:41](/episodes/ep-581dILVcEE4.md#t-00-08-36) (Claim) **Candace Owens**: ["Five rental cars were secured by Duncan Aviation for the Egyptians"](/statements/statement-f63549257440.md)
 
 </details>
 

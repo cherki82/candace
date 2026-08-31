@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:39:11](/episodes/ep-i8m_6D4QGmk.md#t-00-39-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2351);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2351s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And my best guess is that's at least part of the reason, the real reason why Trump is obsessed with acquiring Greenland, because they do have untapped crude oil, an estimated 31 billion barrels worth.
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(45);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=45s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.
 

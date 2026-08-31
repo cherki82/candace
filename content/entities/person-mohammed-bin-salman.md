@@ -5,11 +5,19 @@ id: "person-mohammed-bin-salman"
 type: "PERSON"
 aliases:
   - "Saudi Crown Prince"
+categories:
+  - "Saudi Arabian government"
 ---
 
 _Type: People_
 
 **Also known as:** Saudi Crown Prince
+
+**Categories:** Saudi Arabian government
+
+**Entity verification:** verified
+> Saudi Vision 2030 official material confirms the canonical name Mohammed bin Salman and the Crown Prince and Prime Minister roles.
+Source: [Saudi Vision 2030 Executive Summary](https://www.vision2030.gov.sa/media/jgvb3mrb/executive-summary-vision2030.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-mohammed-bin-salman-t-00-17-12">2025-12-05 · 00:03:47</a></strong></div>
@@ -18,7 +26,7 @@ _Type: People_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -58,7 +66,29 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Met With (1)</summary>
+
+- **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:17:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-12): “Well, official receipts just landed straight from the Egyptian presidency website that on April 3rd, 2023, President al-Sisi touched down in Riyadh aboard that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown Prince Mohammed bin Salman.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:17:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-12): “Well, official receipts just landed straight from the Egyptian presidency website that on April 3rd, 2023, President al-Sisi touched down in Riyadh aboard that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown Prince Mohammed bin Salman.”
+
+</details>
+
+</details>
 
 </details>
 

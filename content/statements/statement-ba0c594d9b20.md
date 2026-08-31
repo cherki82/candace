@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:22:45](/episodes/ep-hWTdXHGQ8R4.md#t-00-22-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1365);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1365s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But he was not messaging people the day before saying, I'm going to be murdered. They're coming after me. Someone's going to kill me. He didn't say that.
 

@@ -6,6 +6,11 @@ date: "2026-06-08"
 ---
 
 **Date:** 2026-06-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “yesterday”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-06-08"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:19:42](/episodes/ep-YeEtS7nix3o.md#event-event-2026-06-08-candace-owenss-team-narrows-a-white-hous-t-01-19-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4782);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=4782s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So we went back to them yesterday and with just, you know, even more constraint.

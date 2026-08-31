@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:55:00](/episodes/ep-Dkxa9OUA9K8.md#t-00-54-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3300);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=3300s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They were lacking what we provided dignity kits for personal hygiene. We provided food. We provided water. We started providing surgeries as our donations came in and never did we take. ... take any governmental funding. To this day, we have it.
 

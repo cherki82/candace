@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:22:37](/episodes/ep-ti5Fxrvegno.md#t-00-22-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1357);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > is being caught telling lies. These are lies. It is inexplicable why her assistant was pulled back on September 10th. Maybe it is something that can be explained, then they should explain it. This is way too coincidental. I want to be very clear, very clear on my perspective on this. I believe this is a conspiracy.
 

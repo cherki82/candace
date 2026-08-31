@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:18:15](/episodes/ep-SgVcnx4Oh30.md#t-00-17-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1095);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1095s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew (Andrew Kolvet) himself has never said that he took the 319 Santa Barbara flight, tail number N8724A. Erika (Erika Kirk) made that claim to my face.
 

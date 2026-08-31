@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:05:35](/episodes/ep-k1b1NDCrNFs.md#t-00-05-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So, you know, there were actually people online who did publicly and very clearly accuse Brian Harpole of murdering Charlie Kirk. It wasn't implied. They weren't like, hey, maybe it was this guy killed Charlie Kirk directly. Forget a meeting at Fort Huachuca. It was this is our guy, Brian Harpole. He pulled the trigger or pulled something. thing. And yet mysteriously, I've been sort of watching and paying attention and those people are not being sued for defamation, people that were making videos claiming that he did that, right?
 

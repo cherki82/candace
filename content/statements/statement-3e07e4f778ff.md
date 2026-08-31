@@ -1,6 +1,6 @@
 ---
-title: "Dan Flood received a message the night before saying 'the le..."
-description: "\"Dan Flood received a message the night before saying 'the left is going to kill me'\" — Candace Owens"
+title: "Candace Owens said meeting participants clarified that Dan F..."
+description: "\"Candace Owens said meeting participants clarified that Dan Flood's message read, 'the left is going to kill me,' but Owens said she could not confirm ...\" — Candace Owens"
 statement_id: "statement-3e07e4f778ff"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Dan Flood received a message the night before saying 'the left is going to kill me'
+> Candace Owens said meeting participants clarified that Dan Flood's message read, 'the left is going to kill me,' but Owens said she could not confirm that wording and had to trust them.
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(427);return false;">Play</a>
+**Timestamp:** [00:07:21](/episodes/ep-es7PWdFGoFI.md#t-00-07-21) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=441s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> clarified that the message that Dan (Dan Flood) received said the left is going to kill me.
+> Andrew (Andrew Kolvet) did not know who they were, who they, the they that he was referring to were, but they, clarified that the message that Dan (Dan Flood) received said the left is going to kill me. So I can't confirm that one way or the other. I have to trust them on that because I did not see that concrete message.
 
 ## Verification
 

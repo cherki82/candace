@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:10:19](/episodes/ep-1mYNOqzAdXs.md#t-00-09-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(619);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=619s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And it looks certainly like he acknowledges Erika (Erika Kirk) on stage and looks to the left. He says her name and he says like, thank you, Erika (Erika Kirk). ... So Erika (Erika Kirk), thank you. Thank you for your friendship and believing in Yrefy. ... I'm telling you, I am with Baron (Baron Coleman) on this. She was in the building and she was backstage where people could not see her.
 

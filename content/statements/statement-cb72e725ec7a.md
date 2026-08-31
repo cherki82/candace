@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:21:06](/episodes/ep-QRS_hR7NXaQ.md#t-00-20-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1266);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1266s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said I don't know when turning point just became a literal military operation, but indeed it did. All these people with very strong ties to the military, his wife included, right? Her mother in particular.
 

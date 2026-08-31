@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:50:19](/episodes/ep-_cNtgris8Ik.md#t-00-49-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3019);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=3019s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to Andrew Kolvet on the phone every single day. And it was Andrew Kolvet who was telling me, and we were speaking about a potential foreign angle in Charlie's assassination.
 

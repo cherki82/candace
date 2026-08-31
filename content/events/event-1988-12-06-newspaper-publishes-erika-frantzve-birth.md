@@ -6,6 +6,11 @@ date: "1988-12-06"
 ---
 
 **Date:** 1988-12-06
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “December 6th, two weeks after her November 1988 birth”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1988-12-06"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:22:04](/episodes/ep-ZAsV0fHGBiM.md#event-event-1988-12-06-newspaper-publishes-erika-frantzve-birth-t-00-21-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1324);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=1324s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There's a newspaper relic announcing her birth two weeks later on December 6th that tells us

@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:40:51](/episodes/ep-1mYNOqzAdXs.md#t-00-40-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2451);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2451s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Apparently, the Los Angeles Times did a piece uncovering this back in 2012. When Mitt Romney was running, they learned that he was struggling to raise the initial $37 million that they wanted for their fund. So they turned to foreign investors and Robert Maxwell gave him $2 million out of the $37 million, as well as some other foreign shady investors.
 

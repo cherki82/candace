@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:07:06](/episodes/ep-a2bZf4fic10.md#t-00-07-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(426);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=426s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you that that jacket was returned to his security and made it back to Erika Kirk's apartment with blood still on it. It was not collected into evidence. ... pretty immediately back to Erika Kirk's apartment in Arizona by the security.
 

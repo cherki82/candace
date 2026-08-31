@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:43:22](/episodes/ep-1mYNOqzAdXs.md#t-00-42-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2602);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2602s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They got a summary report and they told you what they took a look at. They determined that the cartridge case matched the gun.
 

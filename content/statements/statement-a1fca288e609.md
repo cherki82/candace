@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:48:27](/episodes/ep-1mYNOqzAdXs.md#t-00-48-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2907);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1mYNOqzAdXs&t=2907s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then after he failed to protect Charlie (Charlie Kirk), didn't even, as I am told from our sources, did not even do a walkthrough. All he cared about in the lead up to that was ensuring that they had a clean exit behind Charlie (Charlie Kirk).
 

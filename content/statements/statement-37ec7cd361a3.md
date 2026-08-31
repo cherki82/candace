@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2148);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=2148s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Just 48 hours before my friend Charlie Kirk was shot, in spite of the fierce pushback, he made known his intention to have Candace (Candace Owens) speak at his own signature event.
 

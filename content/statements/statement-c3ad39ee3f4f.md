@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:13:16](/episodes/ep-SgVcnx4Oh30.md#t-00-13-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(796);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=796s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Is there really an office inside of Atlantic? And remarkably, we were able to determine that Hopkinson is indeed in a building that is separate from Atlantic, but Atlantic accepts all of their mail. And the reason that Atlantic does that. ... is because Hopkinson does not actually have its own address. It's a building that stands alone and is separate from Atlantic FBO Terminal where you would fly out if you were going private.
 

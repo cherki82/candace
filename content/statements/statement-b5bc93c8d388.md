@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:04:24](/episodes/ep-BxN2-aeMYIs.md#t-00-04-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(264);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the internal email that we had shared with you guys requesting the artificial boosting of Erika's I want to go home clip because that's a very odd priority for our military to be concerned with, right, making an Erika Kirk. ... Erika Kirk clip go viral, describing her as an emotional asset, making sure this is number one overnight. Reach out to the surrogates.
 

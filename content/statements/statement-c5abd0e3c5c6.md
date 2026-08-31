@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:07:40](/episodes/ep-2T39-oADLj0.md#t-00-07-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(460);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=460s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies.
 

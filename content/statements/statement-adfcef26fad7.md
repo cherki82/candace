@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:46:42](/episodes/ep-19vHhjF7-NA.md#t-00-46-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2802);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=2802s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we filed an FOIA request for Brad Hansell, the undersecretary of war. ... We just won an FOIA request regarding who was on the plane with him to go to Fort Huachuca. So that's interesting for us. He stops in Tucson, then he goes to Fort Huachuca on the 8th.
 

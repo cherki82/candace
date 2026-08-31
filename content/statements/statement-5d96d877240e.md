@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:10:57](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(657);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=657s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Those data, without those data files, we can't even start to analyse, to understand, to appreciate the conclusions, the statistical analyses, the results of those tests.
 

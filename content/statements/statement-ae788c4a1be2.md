@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2778);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2778s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You have all of these billionaires, Peter Thiel, Alex Karp, ... Larry Ellison, ... they have a weird affair with Israel. ... They openly donate to the IDF. They openly have their headquarters in Israel. ... They pump huge amount of money. ... They use their technology in order to kill more Palestinians and they use Palestinians as rat labs in order to test these AI advanced horrible lethal weapons.
 

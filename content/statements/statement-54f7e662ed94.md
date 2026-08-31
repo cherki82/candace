@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:58:41](/episodes/ep-GY6GWceEqtQ.md#t-00-58-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3521);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=3521s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this person writes funny how they fired 40 people for leaking info but kept the head of security after the biggest possible failure yeah i will say i did not hear that it was 40 people but i did hear that it was a lot of people ... More. I heard more. It sounded like 15 people that got fired,
 

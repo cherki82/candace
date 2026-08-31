@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:27:55](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1675);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=1675s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is from my own experience that... ... You can't question the narrative and work at Turning Point. ... That is how I feel.
 

@@ -1,8 +1,8 @@
 ---
-title: "This message is from May... Charlie sent me his tweet... And..."
-description: "\"This message is from May... Charlie sent me his tweet... And he wrote back—as you can see, and the date here is May 22nd of this year—'It totally is.'\" — Candace Owens"
+title: "Charlie Kirk replied that speech censorship was coming to Am..."
+description: "\"Charlie Kirk replied that speech censorship was coming to America: ‘It totally is.’\" — Charlie Kirk"
 statement_id: "statement-957d1bf2a3d9"
-speaker: "Candace Owens"
+speaker: "Charlie Kirk"
 type: "factual_claim"
 ---
 
@@ -10,22 +10,23 @@ type: "factual_claim"
 
 ## Statement
 
-> This message is from May... Charlie sent me his tweet... And he wrote back—as you can see, and the date here is May 22nd of this year—'It totally is.'
+> Charlie Kirk replied that speech censorship was coming to America: ‘It totally is.’
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** text message shown by Owens
 
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:33:18](/episodes/ep-aDlhjfW6hz8.md#t-00-32-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1998);return false;">Play</a>
+**Timestamp:** [00:33:46](/episodes/ep-aDlhjfW6hz8.md#t-00-33-27) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2026s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Charlie sent me his tweet because after the assassination of Sarah Milgram and Yaron Lechinsky in D.
+> And I said, speech censorship is coming to America. And he wrote back—as you can see, and the date here is May 22nd of this year— "It totally is."
 
 ## Verification
 

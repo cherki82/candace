@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:05:12](/episodes/ep-HGtMfbePDKk.md#t-00-05-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(312);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I agree. The person in this picture does not look like Tyler Robinson at village crazy lady. ... But do you not understand that you are sharing what appears to be an AI enhanced photo from the original video evidence?
 

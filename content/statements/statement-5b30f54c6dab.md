@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:37:08](/episodes/ep-2tFYJf1klgY.md#t-00-36-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2228);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=2228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You learned the reason. Rick (Richard William Erpenbeck) is the movant that is mentioned throughout this article. I'm just going to clear this up for you. The first reason that his legal license was removed is because he didn't pay his dues.
 

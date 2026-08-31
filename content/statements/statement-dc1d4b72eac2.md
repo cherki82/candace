@@ -30,7 +30,7 @@ type: "accusation"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:35:05](/episodes/ep-4YgrOhhy708.md#t-00-34-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2105);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=2105s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > in the room but it was debate that Charlie (Charlie Kirk) himself initiated and he wanted to hear different perspectives on it and so we we voiced a lot of our perspectives one of the things that i disagreed with him on was he said that you know there's ... If you don't, if you're not sufficiently supportive of Israel, ... it can be really ruinous for you in ... a position like ... his. ... If you criticize Israel at all, they'll try to denigrate you and destroy you and call you names, ... call you anti-Semitic, et cetera, ... and it can ruin you.
 

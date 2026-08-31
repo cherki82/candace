@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:01:44](/episodes/ep-SKNJPul29zU.md#t-00-01-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(104);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=104s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what would you do if Trump (Donald Trump) gets elected and he goes to war with Iran you just straight up said I will no longer support him and I'll be vocal about it and I'm like okay we'll see we'll see and you made good on that promise and I really appreciate that
 

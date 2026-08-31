@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:26:30](/episodes/ep-rupRLXmSndU.md#t-00-26-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1590);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1590s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you specifically what the name is of the company that the CIA uses to bring some of this youth talent on board. ... They specifically use a company, and this will trigger them if they're watching, called Metro One Talent. Metro One Talent. That's how they interview their talent and set them on the path to joining the CIA.
 

@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:14:45](/episodes/ep-SKNJPul29zU.md#t-00-14-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(885);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=885s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I never bought into national security threats or that narrative from the government when it came to manufacturing consent for wars that we got involved in. But right now, when you just look at the facts, our military capability is weakened. We don't have the manufacturing capacity that Iran has, for instance.
 

@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Bari Weiss](/entities/person-bari-weiss) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
+
+- [00:06:58](/episodes/ep-6J6lRZPQ4jk#t-00-06-58): _Okay, Bari Weiss is actually one of the people that we should study when it comes to being unimpressive and just getting handouts anyways._
 
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 
@@ -23,7 +27,7 @@ object: "person-candace-owens"
 
 **[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
 
-- [00:24:22](/episodes/ep-ewBzjVe3LNQ#t-00-24-22): _obviously Barry Weiss is one of these actors. This is clearly an act. You obviously are not intelligent. You obviously are not some journalist that works their way up and broke some important stories. You are obviously an intelligence op and not so intelligent op._
+- [00:24:20](/episodes/ep-ewBzjVe3LNQ#t-00-24-20): _I mean, obviously Bari Weiss is one of these actors. This is clearly an act. You obviously are not intelligent._
 
 ### Related
 

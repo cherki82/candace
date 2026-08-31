@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:33:07](/episodes/ep-ChuWo-n49B8.md#t-00-33-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1987);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=1987s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yeah, you know over the last week and a half two weeks I've been doing everything I can to bring awareness to the the issue of the teen suicides and gay bullying and in doing so a lot of people have called me a hypocrite and a bully myself and a big one and that's not how I want to be perceived and that's not what I want to put out there into the world and it was a big wake-up call that so many people saw me that way so you know from now on I really want to be part of the solution and not part of the problem. I want to be the change that I want to see in others. So I'm going to do things differently on my website than I have in the past. I'm not going to call people nasty nicknames. I'm not going to go the mean route. I'm going to force myself to try and be funnier or smarter or just do things differently, not doodle inappropriate things, not out people, which I have done all of those things in the past.
 

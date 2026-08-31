@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:10:26](/episodes/ep-2tFYJf1klgY.md#t-00-09-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(626);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=626s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm just telling you that according to their own website, E3 Tech, they received an award for whatever they were doing for that operation.
 

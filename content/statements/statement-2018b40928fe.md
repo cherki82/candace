@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:39:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(5969);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=5969s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he was a undercover cop which i don't like that i don't know what he did undercover it's very hard to find anything about mike mitchell but he worked with them for 20 plus years the police officers uh the reason why tyler robinson knew him was because he lived nearby
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [01:08:46](/episodes/ep-aPOyk1i2LOc.md#t-01-08-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4126);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=4126s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was a undercover cop, which I don't like that. I don't know what he did undercover. It's very hard to find anything about Mike Mitchell, but he worked with them for 20 plus years, the police officers. ... The reason why Tyler Robinson knew him was because he lived nearby
 

@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:19:19](/episodes/ep-ja26iltROkM.md#t-00-18-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1159);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1159s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because once we began learning about that house next door that's been vacant and is owned by UVU, and once we began looking into the witnesses and finding a common last name and looking into Caldera Engineering as we did last week—again, not implying that they did anything wrong, j
 

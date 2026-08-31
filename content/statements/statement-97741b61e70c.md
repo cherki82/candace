@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:25:31](/episodes/ep-ja26iltROkM.md#t-00-25-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1531);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1531s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But over the weekend, somebody reported me to the FBI and the CIA.
 

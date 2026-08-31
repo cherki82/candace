@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md)
 **Timestamp:** [00:04:02](/episodes/ep-9CuC1yf8-PU.md#t-00-03-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(242);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=242s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, nope, that was taken care of too because the feds were looking for it for some unknown reason, as was Frank Turek, and it was then given to the widow who now wears it around her neck.
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:10:58](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(658);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QZWSsq8ZWzw&t=658s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had never experienced something like that since, until about a week before—or actually 10 days before—Charlie Kirk got assassinated.
 

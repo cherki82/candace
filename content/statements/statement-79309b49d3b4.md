@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:29:24](/episodes/ep-1hcjQGgvxUY.md#t-00-29-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1764);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1764s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I believe September 10th was obviously a military operation.
 

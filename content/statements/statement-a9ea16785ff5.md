@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [01:04:07](/episodes/ep-OEAHy3SsIiI.md#t-01-03-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3847);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=3847s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, Israel had been working with Al Qaeda. ... or an al-Qaeda-adjacent group. I think Al-Nusra is the name of the group
 

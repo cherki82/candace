@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:06:57](/episodes/ep-69A8TzAGHlU.md#t-00-06-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(417);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=417s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You implied that Charlie Kirk's security team, including Mr. Harpole, had insider knowledge about Kirk's assassination. Specifically, you questioned how the security team knew that Charlie Kirk was dead before official confirmation.
 

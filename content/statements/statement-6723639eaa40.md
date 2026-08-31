@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 **Timestamp:** [00:36:10](/episodes/ep-YA1FxrDWNIo.md#t-00-36-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=2170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > About 48 hours before Charlie Kirk died, Charlie (Charlie Kirk) informed people at Turning Point—as well as Jewish donors and a rabbi—that he had no choice but to abandon the pro-Israel cause outright, okay? ... Charlie (Charlie Kirk) was done. ... He said it explicitly: that he refused to be bullied anymore by the Jewish donors.
 

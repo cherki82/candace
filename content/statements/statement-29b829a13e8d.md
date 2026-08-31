@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:35:27](/episodes/ep-OgRyiOAVtWU.md#t-00-35-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2127);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=2127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We sold nothing with Charlie (Charlie Kirk)'s face. ... No memorabilia, not a single item was sold by us in the aftermath of his death. ... And I would point out that in our tribute episode to Charlie (Charlie Kirk), our biggest episode by views ever, we ran zero ads. Zero. None.
 

@@ -6,6 +6,7 @@ type: "GPE"
 aliases:
   - "Hall of Flags"
   - "the Hall of Flags"
+  - "Flag Hall"
 categories:
   - "Utah Valley University"
   - "campus interior"
@@ -13,7 +14,7 @@ categories:
 
 _Type: Places_
 
-**Also known as:** Hall of Flags, the Hall of Flags
+**Also known as:** Hall of Flags, the Hall of Flags, Flag Hall
 
 **Categories:** Utah Valley University, campus interior
 
@@ -22,9 +23,9 @@ _Type: Places_
 Source: [UVU Hall of Flags Guidelines and Protocols](https://www.uvu.edu/policies/docs/guidelines/hall_of_flags.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-35-24">2025-11-20 · 00:35:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-hall-of-flags-t-00-28-48">2025-09-25 · 00:29:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hall-of-flags-t-00-06-14">2026-07-16 · 00:06:14</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
@@ -34,16 +35,20 @@ Source: [UVU Hall of Flags Guidelines and Protocols](https://www.uvu.edu/policie
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-35-24">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-37-15">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-35-24" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hall-of-flags-t-00-06-14" style="--pulse-height:14%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-hall-of-flags-t-00-28-48" style="--pulse-height:20%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-hall-of-flags-t-00-49-13" style="--pulse-height:20%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-37-15" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hall-of-flags-t-00-06-14" style="--pulse-height:20%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-35-24) | 7 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hall-of-flags-t-00-28-48) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-hall-of-flags-t-00-49-13) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-37-15) | 5 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hall-of-flags-t-00-06-14) | 1 |
 
 </details>
@@ -63,28 +68,38 @@ Source: [UVU Hall of Flags Guidelines and Protocols](https://www.uvu.edu/policie
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (7 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
 
-**[00:35:37](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-35-24)**
-> "...arily—and only—concerned with the Hall of Flags, which is behind—that's what was behind Charlie (..."
-
-**[00:35:57](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-35-24)**
-> "the Hall of Flags, which is behind—that's what was behind Charlie Kirk"
-
-**[00:37:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-36-51)**
+**[00:37:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-37-15)**
 > "...out, for whatever reason, was the Hall of Flags—controlled access in the Hall of Flags."
 
-**[00:38:39](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-15)**
+**[00:38:39](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-12)**
 > "...ut what was happening in that Hall of Flags."
 
-**[00:38:54](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-15)**
+**[00:38:54](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-54)**
 > "...med to be a lot of buzz about the Hall of Flags."
 
-**[00:39:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-58)**
+**[00:39:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-54)**
 > "He was in the Hall of Flags."
 
-**[00:39:11](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-58)**
+**[00:39:11](/episodes/ep-sImMM04XdWY.md#ent-gpe-hall-of-flags-t-00-38-54)**
 > "... about what was going down in the Hall of Flags."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:49:26](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-hall-of-flags-t-00-49-13)**
+> "Who were they?" That's the Hall of Flags that's behind Charlie Kirk's head, and I do find ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:29:10](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hall-of-flags-t-00-28-48)**
+> "...one, which they call like the Flag Hall, which is where that person actually shot the foo..."
 
 </details>
 

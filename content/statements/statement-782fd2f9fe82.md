@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:24:08](/episodes/ep-2T39-oADLj0.md#t-00-23-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1448);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=1448s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's how I read it. I read it as like a public threat and they want something from him and they're going to be like capitulate or we will hit you with everything they have. And we need to have a leader that says, just comes right out in a press conference and says,
 

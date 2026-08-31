@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:10:09](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(609);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=609s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they had been working on behalf of the Nazis and it became a rather big story in the 50s and the Israeli government cleaned it up for them. That's the short and the thick of it, that Brigitte's family has worked for Israel since and now, yeah, she works for the president and there are some stories about how she has allegedly betrayed France and Paris working on behalf of Israel.
 

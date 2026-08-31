@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:19:09](/episodes/ep-tXoI0TTKVrs.md#t-00-18-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1149);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=1149s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, I've become legally literate due to a great many frivolous lawsuits against me. Andrew Kolvet is very clearly being advised to lie by omission or to bring on people who are willing to lie explicitly like Graham Allen, to have other people make claims while he refrains from making them.
 

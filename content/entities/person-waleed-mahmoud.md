@@ -71,7 +71,7 @@ _No relationships extracted yet._
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
 
 - [00:26:25](/episodes/ep-MhakwJxK-Zk.md#t-00-26-01) (Claim) **Candace Owens**: ["Waleed Mahmoud was aboard the Egyptian aircraft SU-BTV when it flew in..."](/statements/statement-9f81ab25d575.md)
-  - Also about: [SU-BTV](/entities/vehicle-su-btv.md), [Provo](/entities/gpe-provo.md), [Wilmington, Delaware](/entities/gpe-wilmington-delaware.md)
+  - Also about: [SU-BTV](/entities/vehicle-su-btv.md), [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md)
 
 </details>
 

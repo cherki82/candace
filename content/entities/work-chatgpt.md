@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT"
-description: "ChatGPT (Works & Media) - 9 mentions"
+description: "ChatGPT (Works & Media) - 10 mentions"
 id: "work-chatgpt"
 type: "WORK"
 categories:
@@ -19,7 +19,7 @@ Source: [OpenAI: ChatGPT](https://openai.com/chatgpt/overview/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-work-chatgpt-t-00-30-20">2025-11-10 · 00:30:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-chatgpt-t-00-59-39">2026-08-17 · 00:59:39</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -52,7 +52,7 @@ Source: [OpenAI: ChatGPT](https://openai.com/chatgpt/overview/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>

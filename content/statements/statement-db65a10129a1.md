@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -25,21 +25,11 @@ veracity: "true"
 
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
-## Appearances (2)
-
-### 1. To My Friend, Charlie Kirk.
-
-**Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
-**Timestamp:** [00:10:19](/episodes/ep-_dRaEO47-co.md#t-00-09-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(619);return false;">Play</a>
-
-> So you can only imagine when just a couple of months later, we've been listening to Kanye's old albums on repeat, suddenly Kanye West tweets, “I love the way Candace (Candace Owens) thinks.”
-
-### 2. Bride Of Charlie: Red Sparrow | Episode 8
+## Source
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:20:32](/episodes/ep-_vg7ucP1E0g.md#t-00-20-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1232);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=1232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is then just a couple of weeks later after predicting his death that Kanye (Kanye West) tweets, "I love the way Candace Owens thinks,"
 

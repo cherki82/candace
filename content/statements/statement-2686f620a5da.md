@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:17:28](/episodes/ep-iB-YtO3UZOg.md#t-00-17-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1048);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1048s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian Harpole's or Rick Cutler's boxers for evidence. In my mind, they likely took their clothes and had them destroyed. ... That's in my mind. I don't know that for certain. It's an unknowable thing unless you are Tyler Robinson's defense team and you can demand access to that sort of information, which I would if I was on Tyler Robinson's defense.
 

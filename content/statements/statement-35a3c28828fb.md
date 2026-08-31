@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:04:47](/episodes/ep-19vHhjF7-NA.md#t-00-04-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(287);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=287s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Planet nine is five floors in total, but worry not because you're like, that's a lot of stairs. It has two elevators. It accommodates 16 guests. It has a master apartment that's 3000 square feet. It has a movie theater, a steam room, three libraries, a jacuzzi, you name it.
 

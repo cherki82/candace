@@ -30,7 +30,7 @@ veracity: "unverifiable"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:16:32](/episodes/ep-ti5Fxrvegno.md#t-00-16-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(992);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=992s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was a schedule a few weeks ago for Bibi (Benjamin Netanyahu), Erika Kirk, and Ben Shapiro to film together something. Maybe it was supposed to be for the Super Bowl. I don't know, but it got canceled at the last second. They were filming something in Palm Beach. And it got canceled last second.
 

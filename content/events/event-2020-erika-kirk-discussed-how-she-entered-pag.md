@@ -6,6 +6,11 @@ date: "2020"
 ---
 
 **Date:** 2020
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2020”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2020"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:47:34](/episodes/ep-1IY2oD-_xVA.md#event-event-2020-erika-kirk-discussed-how-she-entered-pag-t-00-47-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2854);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2854s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this is her discussing that back in 2020 take a listen

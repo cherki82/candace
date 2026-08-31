@@ -67,7 +67,7 @@ Source: [Campus Culture and Traditions | Ole Miss](https://olemiss.edu/who-we-ar
 **[00:06:55](/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-06-26)**
 > "...Watters, who hosted this discussion—also trailed her at the event that she did with JD Vance at the University of Mississippi. Now, people around the world obviously have been moved by Erika's commitment to her Christian fait..."
 
-**[00:15:23](/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-14-49)**
+**[00:15:21](/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-15-21)**
 > "... One you probably didn't catch, which is behind Jesse and Erika as they're walking backstage at the University of Mississippi event that they headlined: there was a priest. Look in the corner there. I know a priest's collar w..."
 
 </details>

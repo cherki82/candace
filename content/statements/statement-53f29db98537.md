@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:31:26](/episodes/ep-EtLHqDbxqks.md#t-00-31-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1886);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1886s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that would not be scientifically defensible, would it? ... Correct.
 

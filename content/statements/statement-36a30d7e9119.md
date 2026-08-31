@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:42:50](/episodes/ep-EtLHqDbxqks.md#t-00-42-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2570);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2570s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > of the alleged shooting? There is not, Judge. Okay, I just wanted to clarify that.
 

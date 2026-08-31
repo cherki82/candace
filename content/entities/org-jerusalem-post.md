@@ -26,8 +26,8 @@ Source: [The Jerusalem Post | About Us](https://www.jpost.com/landedpages/aboutu
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -65,13 +65,13 @@ Source: [The Jerusalem Post | About Us](https://www.jpost.com/landedpages/aboutu
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
 
 **[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
-> "...ation to stage a hostile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk (Erika Kirk..."
+> "Turning my attention to another matter: Israel is rather obsessed with this already failed operation to stage a hostile takeover of the legacy of Charlie Kirk—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk."
 
 **[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
-> "...by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr (Michael Starr). They published this: "Charlie Kirk ..."
+> "Here is the statement that was issued by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr."
 
 **[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-21-54)**
-> "...t) wrote this: "This is the first we're hearing of this." "We've reached out to the reporter at the Jerusalem Post for a correction." How do you just say "Erika Kirk (Erika Kirk) is going to accept this award on be..."
+> ""We've reached out to the reporter at the Jerusalem Post for a correction.""
 
 </details>
 
@@ -80,18 +80,73 @@ Source: [The Jerusalem Post | About Us](https://www.jpost.com/landedpages/aboutu
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:20:53](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31): “Turning my attention to another matter: Israel is rather obsessed with this already failed operation to stage a hostile takeover of the legacy of Charlie Kirk—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Contributor (1)</summary>
+
+- **[Michael Starr](/entities/person-michael-starr.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:20:55](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31): “Here is the statement that was issued by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Michael Starr](/entities/person-michael-starr.md)** contributor to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:20:55](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31): “Here is the statement that was issued by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:20:53](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31): “Turning my attention to another matter: Israel is rather obsessed with this already failed operation to stage a hostile takeover of the legacy of Charlie Kirk—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Jerusalem Post (1)</strong></summary>
+<summary><strong class="section-title">Statements about The Jerusalem Post (4)</strong></summary>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>
 
 - [00:40:57](/episodes/ep-9naMwS0kMBE.md#t-00-40-49) (Citation) **Candace Owens**: ["The Jerusalem Post reported that World Jewish Congress president Ronal..."](/statements/statement-e540999a5ed4.md)
   - Also about: [Ronald S. Lauder](/entities/person-ronald-s-lauder.md), [Donald J. Trump](/entities/person-donald-trump.md), [World Jewish Congress](/entities/org-world-jewish-congress.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3)</summary>
+
+- [00:20:53](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31) (Accusation) **Candace Owens**: ["Candace Owens accused The Jerusalem Post of publishing a deranged lie ..."](/statements/statement-ca069b9c4911.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:21:15](/episodes/ep-K1tFD7FfoCU.md#t-00-21-15) (Claim) **Michael Starr** (via quoted article): ["Michael Starr reported that Charlie Kirk would be posthumously honored..."](/statements/statement-ea44748b3547.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:18](/episodes/ep-K1tFD7FfoCU.md#t-00-21-54) (Claim) **Andrew Kolvet** (via quoted post): ["Andrew Kolvet wrote that the report was the first Turning Point USA ha..."](/statements/statement-48a901e70967.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

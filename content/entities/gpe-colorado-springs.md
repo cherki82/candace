@@ -17,13 +17,13 @@ _Type: Places_
 Source: [City of Colorado Springs](https://coloradosprings.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45">2025-12-10 · 00:44:15</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-44-11">2025-12-10 · 00:44:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-colorado-springs-t-00-44-18">2026-06-13 · 00:44:40</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,7 +31,7 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-44-11" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-colorado-springs-t-00-16-07" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-21-26" style="--pulse-height:33%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
@@ -43,7 +43,7 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-44-11) | 3 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03) | 6 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-colorado-springs-t-00-16-07) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-21-26) | 2 |
@@ -117,13 +117,13 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 **[00:38:03](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03)**
 > "Whoever flew under this incredibly highly sensitive call sign, SAM-000, on August 25 flew from Joint Base Andrews to Colorado Springs"
 
-**[00:37:54](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-37-27)**
+**[00:37:47](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-37-19)**
 > "...ight on this jet from D.C. to Colorado Springs with that important and rarely used call sign, SA..."
 
 **[00:38:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03)**
 > "It stayed in Colorado Springs for three hours, and then it flew to Las Vegas, a..."
 
-**[00:39:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-39-24)**
+**[00:39:33](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-39-24)**
 > "...as missing before it lands in Colorado Springs, which you can see on the map here."
 
 **[00:40:54](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-40-54)**
@@ -137,13 +137,13 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:44:15](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45)**
+**[00:44:11](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-44-11)**
 > "...he plane flew from Andrews to Colorado Springs."
 
-**[00:44:22](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45)**
+**[00:44:22](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-44-11)**
 > "...n September 8th, it flew from Colorado Springs to Tucson."
 
-**[00:44:42](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45)**
+**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-44-11)**
 > "on September 7th, the plane flew from Andrews to Colorado Springs"
 
 </details>
@@ -152,6 +152,18 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Location Of (1)</summary>
+
+- **[10th Special Forces Group](/entities/org-10th-special-forces-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:03](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Whoever flew under this incredibly highly sensitive call sign, SAM-000, on August 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special Forces Group.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Residence Of (1)</summary>
@@ -166,7 +178,14 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[10th Special Forces Group](/entities/org-10th-special-forces-group.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:03](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Whoever flew under this incredibly highly sensitive call sign, SAM-000, on August 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special Forces Group.”
+
+</details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** lives in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -193,7 +212,7 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
 
-- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) (Claim) **Baron Coleman** (via quoted speech): ["A Special Air Mission flight with call sign SAM000 flew from Joint Bas..."](/statements/statement-88ba3d5e54ae.md)
+- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-19) (Claim) **Baron Coleman** (via quoted speech): ["A Special Air Mission flight with call sign SAM000 flew from Joint Bas..."](/statements/statement-88ba3d5e54ae.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) (Claim) **Baron Coleman** (via quoted speech): ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at..."](/statements/statement-cf82c67961c5.md)

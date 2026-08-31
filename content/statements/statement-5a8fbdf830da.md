@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:50:31](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3031);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=3031s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Alex Jones was patient zero for the censorship regime back in 2018. And now Alex Jones is patient zero for lawfare strategies to be able to shut people up that they don't like.
 

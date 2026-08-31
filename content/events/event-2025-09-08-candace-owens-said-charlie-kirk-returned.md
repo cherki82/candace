@@ -6,6 +6,11 @@ date: "2025-09-08"
 ---
 
 **Date:** 2025-09-08
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “very late on the 7th; almost early morning on September 8th”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-08"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:29:18](/episodes/ep-QRS_hR7NXaQ.md#event-event-2025-09-08-candace-owens-said-charlie-kirk-returned-t-00-29-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1758);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=1758s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > very late, almost early morning on September 8th, very late on the 7th.
 
@@ -25,6 +30,6 @@ date: "2025-09-08"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:03:11](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-08-candace-owens-said-charlie-kirk-returned-t-00-02-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(191);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=191s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > despite having just arrived on a flight back from Tokyo shortly before midnight on the 7th

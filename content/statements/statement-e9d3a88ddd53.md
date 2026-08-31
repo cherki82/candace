@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:39:31](/episodes/ep-X92MllIHDzw.md#t-00-39-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2371);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=2371s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, this guy took a meeting with Dan Wilks' partner after years of screaming about Ben Shapiro and talking about Israel. He took a meeting with Defend Texas Liberty.
 

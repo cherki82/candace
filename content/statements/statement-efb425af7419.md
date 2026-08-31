@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(41);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=41s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then a lawsuit arrives from Brian Harpole. But then we learn it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction.
 

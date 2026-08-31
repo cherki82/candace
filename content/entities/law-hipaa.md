@@ -1,6 +1,6 @@
 ---
 title: "HIPAA"
-description: "HIPAA (Laws & Legislation) - 25 mentions"
+description: "HIPAA (Laws & Legislation) - 26 mentions"
 id: "law-hipaa"
 type: "LAW"
 aliases:
@@ -23,10 +23,10 @@ _Type: Laws & Legislation_
 Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-professionals/index.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27">2025-12-16 · 00:03:12</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-53">2025-12-16 · 00:02:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-law-hipaa-t-00-42-16">2026-07-22 · 00:42:23</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,8 +37,9 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-UYkXV9mYbT4.md#ent-law-hipaa-t-00-10-02">PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27" style="--pulse-height:67%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-53" style="--pulse-height:67%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-03-57" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-law-hipaa-t-00-41-05" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-41" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-03-02" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
@@ -56,8 +57,9 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27) | 2 |
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09) | 2 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-53) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-03-57) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-law-hipaa-t-00-41-05) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-41) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-03-02) | 2 |
@@ -77,7 +79,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -203,12 +205,20 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 </details>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:41:14](/episodes/ep-w1oqQbR_bYs.md#ent-law-hipaa-t-00-41-05)**
+> "...he absolutely did not violate HIPAA when he suggested, hey, maybe it's a frangible bu..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
-**[00:04:25](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09)**
+**[00:04:22](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-03-57)**
 > "First off, HIPAA compliance."
 
-**[00:05:31](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-05-31)**
+**[00:05:25](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-05-25)**
 > "...ike, you know, he's violating HIPAA to get this information out there in this very hi..."
 
 </details>
@@ -216,10 +226,10 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
 
-**[00:03:12](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27)**
+**[00:02:58](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-53)**
 > "this post is so fake as it would violate HIPAA"
 
-**[00:14:03](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27)**
+**[00:14:03](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-53)**
 > "...s so fake as it would violate HIPAA."
 
 </details>

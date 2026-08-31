@@ -1,16 +1,16 @@
 ---
-title: "Brian Harpole lied in his Sean Ryan interview by misrepresen..."
-description: "\"Brian Harpole lied in his Sean Ryan interview by misrepresenting text messages about security coverage at UVU\" — Candace Owens"
+title: "Candace Owens accused Brian Harpole of being fundamentally d..."
+description: "\"Candace Owens accused Brian Harpole of being fundamentally dishonest by presenting another pair's text exchange as if it were his own and omitting its...\" — Candace Owens"
 statement_id: "statement-93e937c4f898"
 speaker: "Candace Owens"
-type: "opinion"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Brian Harpole lied in his Sean Ryan interview by misrepresenting text messages about security coverage at UVU
+> Candace Owens accused Brian Harpole of being fundamentally dishonest by presenting another pair's text exchange as if it were his own and omitting its context
 
 ## Attribution
 
@@ -22,19 +22,21 @@ type: "opinion"
 ## About
 
 - [Brian Harpole](/entities/person-brian-harpole.md) (person)
+- [Dan Flood](/entities/person-dan-flood.md) (person)
+- [Jeff Long](/entities/person-jeff-long.md) (person)
 
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:34:44](/episodes/ep-sImMM04XdWY.md#t-00-34-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2084);return false;">Play</a>
+**Timestamp:** [00:36:44](/episodes/ep-sImMM04XdWY.md#t-00-36-34) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=2204s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Pick me so I could confirm to you guys that something else that they could have done would have been to at least walk around UVU when they arrived
+> Obviously, he knew the context of that. It's very strange that he's reading that off of his phone as if it's on his phone and he had the communication. ... That's fundamentally dishonest. He should have said, "This text message happened between Dan Flood and Jeff Long," and here's what it was pertaining to—or he should have showed more, but he couldn't show more.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** Yes

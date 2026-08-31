@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:25:32](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1532);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=1532s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the last several months of Charlie's life were devoted in part to arguing about this event, in fact this speech, in fact my speech here, which he asked me to do earlier this year this summer and was immediately put under just immense pressure from people who give money to turning point
 

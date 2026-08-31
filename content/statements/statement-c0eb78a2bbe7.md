@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:28:33](/episodes/ep-NIEbqsLAK8g.md#t-00-28-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1713);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=1713s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I find this explanation absurd. ... You are telling me that the security team was not allowed drones, ... My honest opinion is I do not believe that. ... that is really silly and it may have cost Charlie Kirk his life.
 

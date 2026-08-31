@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:17:00](/episodes/ep-1IY2oD-_xVA.md#t-00-17-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1020);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1020s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can thank Indiana for the hippies movement. Thank you, Indiana. Anyway, suddenly Jerri (Jerri Frantzve)'s big time. Okay. In 1971, she heads out to Chicago and she begins working for Quaker Oats for three years. Now, if you're...
 

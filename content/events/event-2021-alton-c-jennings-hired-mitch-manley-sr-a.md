@@ -6,6 +6,11 @@ date: "2021"
 ---
 
 **Date:** 2021
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2021”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2021"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:16:10](/episodes/ep-ZZGWo6oDscc.md#event-event-2021-alton-c-jennings-hired-mitch-manley-sr-a-t-00-15-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(970);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=970s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr.

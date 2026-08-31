@@ -31,7 +31,7 @@ veracity: "unverifiable"
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:57:36](/episodes/ep-k1b1NDCrNFs.md#t-00-57-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3456);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k1b1NDCrNFs&t=3456s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I think that in part could be because, like I told you, Blake Neff was writing her speech allegedly, I'm told by people with direct knowledge who have since been fired from the Daily, have been fired from Turning Point USA.
 

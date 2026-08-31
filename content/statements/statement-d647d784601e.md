@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:19:16](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1156);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=1156s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Despite starting to do work before 2010, they didn't officially file paperwork for their global ministries until 2010, right?
 

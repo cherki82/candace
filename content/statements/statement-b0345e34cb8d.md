@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:50:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3033);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=3033s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica (Erika Kirk) was in Cincinnati, ... Ohio for daycare in 1992. She attended a... ... Did a place called Walnut Corner Children's Center in Cincinnati, ... Ohio,
 

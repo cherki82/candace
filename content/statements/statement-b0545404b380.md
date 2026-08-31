@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:11:34](/episodes/ep-QRS_hR7NXaQ.md#t-00-11-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(694);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=694s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Britain tells us later that Babylon was indeed plundered during the 2003 war when content from Hammurabi and Nebuchadnezzar museums and from the Babylon library and archive were stolen and destroyed.
 

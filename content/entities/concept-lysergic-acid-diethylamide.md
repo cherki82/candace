@@ -1,6 +1,6 @@
 ---
 title: "Lysergic acid diethylamide"
-description: "Lysergic acid diethylamide (Concepts) - 3 mentions"
+description: "Lysergic acid diethylamide (Concepts) - 4 mentions"
 id: "concept-lysergic-acid-diethylamide"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [LSD Drug Fact Sheet — U.S. Drug Enforcement Administration](https://www.dea.gov/factsheets/lsd)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-lysergic-acid-diethylamide-t-00-16-20">2026-02-27 · 00:16:47</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-lysergic-acid-diethylamide-t-00-21-34">2025-11-15 · 00:21:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-lysergic-acid-diethylamide-t-00-32-12">2026-02-27 · 00:41:16</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [LSD Drug Fact Sheet — U.S. Drug Enforcement Administration](https://w
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-lysergic-acid-diethylamide-t-00-16-20">Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-lysergic-acid-diethylamide-t-00-21-34" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-lysergic-acid-diethylamide-t-00-16-20" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 3 mentions" title="2026-02-27 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-lysergic-acid-diethylamide-t-00-21-34) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-lysergic-acid-diethylamide-t-00-16-20) | 3 |
 
 </details>
@@ -50,7 +52,7 @@ Source: [LSD Drug Fact Sheet — U.S. Drug Enforcement Administration](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (3 mentions)</summary>
@@ -63,6 +65,14 @@ Source: [LSD Drug Fact Sheet — U.S. Drug Enforcement Administration](https://w
 
 **[00:41:16](/episodes/ep-1IY2oD-_xVA.md#ent-concept-lysergic-acid-diethylamide-t-00-32-12)**
 > "...5, a powerful essential fatty acid that research shows many people are deficient in...."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:21:58](/episodes/ep-7RLtGgkTh9o.md#ent-concept-lysergic-acid-diethylamide-t-00-21-34)**
+> "And Courtney—who is writing a book on this, so I'm not exposing anything—told me that she was given LSD at this age."
 
 </details>
 

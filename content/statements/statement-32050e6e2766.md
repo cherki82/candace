@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:38:14](/episodes/ep-DdPjoy5W-wY.md#t-00-37-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2294);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But she very clearly says she lived in China and the answer is she was obviously there longer because she was there from June all the way through until at least August, early August. ... Which happens to match the exact dates that her boyfriend was there. Why the lies? Why the lies?
 

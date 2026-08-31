@@ -1,8 +1,8 @@
 ---
 title: "Tyler James Robinson surrendered to police at Washington Cou..."
-description: "\"Tyler James Robinson surrendered to police at Washington County Sheriff's Office on September 11, 2025\" — Candace Owens"
+description: "\"Tyler James Robinson surrendered to police at Washington County Sheriff's Office on September 11, 2025\" — Utah County Attorney's Office"
 statement_id: "statement-ac0e06512d64"
-speaker: "Candace Owens"
+speaker: "Utah County Attorney's Office"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,9 +15,11 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md) (Quoted)
 
 **Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Utah County probable cause statement
 
 ## About
 
@@ -26,8 +28,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(425);return false;">Play</a>
+**Timestamp:** [00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-50) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=425s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On September 11, 2025, when Tyler James Robinson surrendered to police at Washington County Sheriff's Office...
 

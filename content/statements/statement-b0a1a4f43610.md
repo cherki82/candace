@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:41:42](/episodes/ep-wcD2khO3rOA.md#t-00-41-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2502);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2502s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a psychological operation that's being orchestrated by Israel because you sort of missed it if your whole brand is Christianity but you decided to stay mom on the atrocities that Israel is committing in Gaza
 

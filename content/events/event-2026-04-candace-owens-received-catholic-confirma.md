@@ -6,6 +6,11 @@ date: "2026-04"
 ---
 
 **Date:** 2026-04
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “next month”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2026-04"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [01:07:36](/episodes/ep-qZ8RWfyuewQ.md#event-event-2026-04-candace-owens-received-catholic-confirma-t-01-07-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4056);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=4056s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was confirmed by in the old Latin rite by a cardinal. My priest flew in from London.
 
@@ -25,7 +30,7 @@ date: "2026-04"
 
 **Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
 **Timestamp:** [00:59:08](/episodes/ep-uC_GjKU8rs8.md#event-event-2026-04-candace-owens-received-catholic-confirma-t-00-59-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3548);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=3548s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > i had the most amazing confirmation ever i could like cry thinking about how amazing it was
 
@@ -33,6 +38,6 @@ date: "2026-04"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:41:56](/episodes/ep-Ux1kzgQxkws.md#event-event-2026-04-candace-owens-received-catholic-confirma-t-01-41-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(6116);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=6116s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > getting confirmed being in italy the deep history like what outlasts that

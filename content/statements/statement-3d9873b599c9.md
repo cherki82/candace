@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2817);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=2817s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We then learn actually that the reason that Trump (Donald J. Trump) fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship. ... relationship with Christine Fang and she Trump (Donald J. Trump) believes that she intervened and tipped him off and he was angry with her
 

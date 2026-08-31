@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:42:34](/episodes/ep-5NQyGuRYbU8.md#t-00-42-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2554);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=2554s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > if she intentionally pushed him to be more anti-israel and yeah no babe you got this no push back harder on that don't know no you tell this guy this then what they said no we can't control him we can't bring him back we have to take charlie kirk out think
 

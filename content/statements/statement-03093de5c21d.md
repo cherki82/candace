@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:14:48](/episodes/ep-5-HUyv9LyMg.md#t-00-14-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(888);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=888s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We're so grateful, and thank you for honoring Charlie Kirk. And Charlie and his legacy and his mission to have a Club America on every high school chapter across the country.
 

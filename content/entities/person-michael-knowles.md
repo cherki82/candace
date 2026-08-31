@@ -22,7 +22,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <div><span>Episodes</span><strong>16</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,9 +33,9 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06" style="--pulse-height:14%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-michael-knowles-t-00-11-19" style="--pulse-height:14%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59" style="--pulse-height:43%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10" style="--pulse-height:14%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-49" style="--pulse-height:14%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59" style="--pulse-height:29%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10" style="--pulse-height:29%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-27" style="--pulse-height:14%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32" style="--pulse-height:14%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-michael-knowles-t-00-17-52" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
@@ -54,9 +54,9 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 |---|---|---:|
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-michael-knowles-t-00-11-19) | 1 |
-| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59) | 3 |
-| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10) | 1 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-49) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-27) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-michael-knowles-t-00-17-52) | 7 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19) | 1 |
@@ -178,7 +178,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
 
-**[00:35:33](/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32)**
+**[00:35:32](/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32)**
 > "Matt Walsh, Michael Nose, nicest people ever"
 
 </details>
@@ -186,27 +186,27 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:41:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-49)**
+**[00:41:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-27)**
 > "...e, okay? Because it meant there were gonna be protests. They will burn you in effigy—as they did to Michael Knowles at a Turning Point USA event. So there has to be certain parameters that are set to allow these par..."
 
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:22:27](/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10)**
+**[00:22:28](/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10)**
 > "...in a movie that Brett Cooper starred in at the Daily Wire: "Lady Ballers." You're good friends with Michael Knowles. You know fully well who Brett Cooper is. And that was a super classless tweet coming from you. Lik..."
+
+**[00:22:21](/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10)**
+> "...rs." You're good friends with Michael Knowles."
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:25:16](/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59)**
+**[00:25:14](/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59)**
 > "...to promote his book as like Charlie (Charlie Kirk)'s last wish. It's really amazing. Also, why does Michael Knowles randomly catch a stray? Like what's Michael Knowles been up to? That he's like now on their list. M..."
-
-**[00:25:19](/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59)**
-> "... last wish. It's really amazing. Also, why does Michael Knowles randomly catch a stray? Like what's Michael Knowles been up to? That he's like now on their list. Michael Knowles, Megyn Kelly—they're listing them. Th..."
 
 **[00:25:23](/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59)**
 > "...s randomly catch a stray? Like what's Michael Knowles been up to? That he's like now on their list. Michael Knowles, Megyn Kelly—they're listing them. That's coming next, okay? Inevitably, it comes inward. And I jus..."
@@ -324,7 +324,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael Knowles (5)</strong></summary>
+<summary><strong class="section-title">Statements about Michael Knowles (4)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -355,14 +355,6 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 
 - [00:21:55](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Gabrielle Cuccia** (via quoted post): ["VFT internal comments discuss going after Nick Fuentes by undermining ..."](/statements/statement-18814118b50d.md)
   - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Matt Walsh](/entities/person-matt-walsh.md)
-
-</details>
-
-<details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
-
-- [00:23:12](/episodes/ep-2Riv3I7D0Yk.md#t-00-22-45) (Opinion) **Josh Hammer** (via quoted speech): ["Matt Gaetz, Megyn Kelly and Michael Knowles are teetering on their sup..."](/statements/statement-5432aac57cf0.md)
-  - Also about: [Matt Gaetz](/entities/person-matt-gaetz.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
 
 </details>
 

@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1843);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1843s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I told you he's a sexual deviant. It's like, I mean, there's just so much out there. It's crazy. Anyways, um, he says—the person said—‘I knew a few girls from there.’ ‘Homemade whiskey makes a person frisky.’ I think that's in a song. And Tyler (Tyler Bowyer) responds, ‘Haha, that's probably the cause-and-effect statement of the night. And I can drink a lot, so I don't pass out or get weird or anything.’ Huh. Okay, okay, we can come out of that.
 

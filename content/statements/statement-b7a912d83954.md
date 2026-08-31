@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
 **Timestamp:** [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(590);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=590s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he places a phone call. I am assuming that this person did not say it was a phone call to DC, but said it was likely a phone call to someone political and somebody who was very high up who then ordered the feds to stand down
 

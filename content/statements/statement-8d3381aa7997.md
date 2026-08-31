@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
 **Timestamp:** [00:06:14](/episodes/ep-5NQyGuRYbU8.md#t-00-06-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(374);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5NQyGuRYbU8&t=374s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There was a man named Mark A. Liti, and he died in a rather bizarre accident. The initial story is that he was in his backyard messing around with his burn barrel when something suddenly exploded. ... And they don't know what exactly it is that exploded in that burn barrel, but something did and caused a piece of shrapnel to hit his neck and end his life.
 

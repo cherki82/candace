@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:29:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1749);return false;">Play</a>
+**Timestamp:** [00:29:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-28-37) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=1751s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He completed residency at the Keesler Air Force Medical Center in Mississippi.
+> The doctor who worked on Charlie (Charlie Kirk) was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi.
 
 ## Verification
 

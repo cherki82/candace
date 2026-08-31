@@ -6,6 +6,11 @@ date: "2025-09-11"
 ---
 
 **Date:** 2025-09-11
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “It was me at UVU yesterday ... surrendering ... in a few moments”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-11"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:03:35](/episodes/ep-iB-YtO3UZOg.md#event-event-2025-09-11-candace-owens-quoted-an-alleged-discord--t-00-03-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(215);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=215s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was me at UVU yesterday. I'm sorry for all of this. surrendering through a sheriff friend

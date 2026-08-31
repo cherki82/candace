@@ -6,6 +6,11 @@ date: "2018"
 ---
 
 **Date:** 2018
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “2018”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2018"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:17:42](/episodes/ep-HGtMfbePDKk.md#event-event-2018-brandy-zadrozny-first-met-candace-owens-t-00-17-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1062);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1062s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I first met Candace Owens in 2018. Okay, so first, I really appreciate you taking the time.

@@ -20,11 +20,16 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [George Zinn](/entities/person-george-zinn.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:03:31](/episodes/ep-q7f8r-THr84.md#t-00-03-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(211);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=211s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Man arrested for allegedly faking a confession to Charlie Kirk's killing, George Zinn, accused of obstructing justice, was also booked in connection with images on his cell phone related to child abuse, okay?
 

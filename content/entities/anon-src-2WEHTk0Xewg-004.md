@@ -7,10 +7,12 @@ type: "ANONYMOUS_SOURCE"
 
 _Type: Anonymous Sources_
 
+> **Possibly overlapping entity records:** [Anonymous Source #2 (Ep 2WEHTk0Xewg)](/entities/anon-src-2WEHTk0Xewg-002). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
 <div><span>Mentions</span><strong>0</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -33,27 +35,13 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Anonymous Source #4 (Ep 2WEHTk0Xewg) (4)</strong></summary>
-
-<details>
-<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3)</summary>
-
-- [00:30:32](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) [○] (Claim) ["A source with direct knowledge of Tyler Robinson's arrest told Candace Owens tha..."](/statements/statement-5952e7cf3c63.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) [○] (Accusation) ["The arrest source told Candace Owens that Governor Spencer Cox and police were l..."](/statements/statement-a3c20629d66e.md)
-  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:31:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-03) [○] (Claim) ["The arrest source told Candace Owens that police initially planned to pick Tyler..."](/statements/statement-cb379db076a1.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Warner Valley](/entities/gpe-warner-valley.md)
-
-</details>
+<summary><strong class="section-title">Statements by Anonymous Source #4 (Ep 2WEHTk0Xewg) (1)</strong></summary>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
 
-- [00:29:06](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] (Accusation) ["An anonymous source told Candace that Governor Cox lied about Tyler Robinson bei..."](/statements/statement-fbb0b0aeeeaf.md)
-  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+- [00:29:51](/episodes/ep-2WEHTk0Xewg.md#t-00-29-43) [○] (Opinion) ["A classmate of Tyler Robinson said he was very tidy and clean and regarded the r..."](/statements/statement-0e8dd2da2a7e.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

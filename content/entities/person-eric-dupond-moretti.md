@@ -3,9 +3,21 @@ title: "Eric Dupond-Moretti"
 description: "Eric Dupond-Moretti (People) - 2 mentions"
 id: "person-eric-dupond-moretti"
 type: "PERSON"
+aliases:
+  - "Éric Dupond-Moretti"
+categories:
+  - "French lawyer and former justice minister"
 ---
 
 _Type: People_
+
+**Also known as:** Éric Dupond-Moretti
+
+**Categories:** French lawyer and former justice minister
+
+**Entity verification:** verified
+> France's Ministry of Justice identifies Éric Dupond-Moretti as garde des Sceaux and minister of justice, validating the canonical person name.
+Source: [Éric Dupond-Moretti se rendra à Rennes](https://www.justice.gouv.fr/actualites/espace-presse/eric-dupond-moretti-se-rendra-rennes-jeudi-21-septembre-0)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-eric-dupond-moretti-t-00-05-38">2025-12-02 · 00:05:52</a></strong></div>
@@ -42,10 +54,10 @@ _Type: People_
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:05:52](/episodes/ep-a-e7HC6SeK8.md#ent-person-eric-dupond-moretti-t-00-05-38)**
-> "You remember—actually, right before we had been sort of interrupted in Becoming Brigitte (Brigitte Macron) series two, season two—we were speaking about Eric Dupond-Moretti (Eric Dupond-Moretti)."
+> "You remember—actually, right before we had been sort of interrupted in Becoming Brigitte series two, season two—we were speaking about Eric Dupond-Moretti."
 
 **[00:06:04](/episodes/ep-a-e7HC6SeK8.md#ent-person-eric-dupond-moretti-t-00-05-38)**
-> "Eric Dupond-Moretti (Eric Dupond-Moretti)."
+> "Eric Dupond-Moretti."
 
 </details>
 

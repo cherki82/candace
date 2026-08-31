@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:02:55](/episodes/ep-UYkXV9mYbT4.md#t-00-02-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(175);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=175s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And what does he do when he races down? He returns to the crime scene and violates it. More specifically, he grabs the very chair that Charlie Kirk had just been sitting in, the chair that Charlie (Charlie Kirk) was murdered in, and he takes it over back to the camera and he stands on that chair, that bloody chair, and removes specifically the SD card from the camera.
 

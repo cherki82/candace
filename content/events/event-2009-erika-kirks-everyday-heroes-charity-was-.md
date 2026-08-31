@@ -6,6 +6,11 @@ date: "2009"
 ---
 
 **Date:** 2009
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2009”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2009"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:37:23](/episodes/ep-cZxHqYsWRYg.md#event-event-2009-erika-kirks-everyday-heroes-charity-was--t-00-36-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2243);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2243s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what she calls her charity once it gets minted in 2009, but that's it.
 
@@ -25,6 +30,6 @@ date: "2009"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:18:21](/episodes/ep-2tFYJf1klgY.md#event-event-2009-erika-kirks-everyday-heroes-charity-was--t-00-18-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1101);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1101s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 2009, Lori Frantzve is going to establish Everyday Heroes Like You in April.

@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Just after Charlie was shot”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-10"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:13:29](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(809);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=809s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I have proof Pierre had a phone call with Justin Streif
 
@@ -25,6 +30,6 @@ date: "2025-09-10"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:00:44](/episodes/ep-7FS1tUeSfdE.md#t-00-00-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(44);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=44s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > allegedly phoned the mysterious Pierre on that day.

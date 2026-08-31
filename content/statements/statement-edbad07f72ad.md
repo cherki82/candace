@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:09:29](/episodes/ep-ja26iltROkM.md#t-00-08-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(569);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=569s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mentioned to his doctor that there were dozens of staff, students, and special guests standing directly behind Charlie (Charlie Kirk) on the other side of the tent, and he replied, "It was an absolute miracle that someone else didn't get killed." His bone—referring to Charlie (Charlie Kirk)—was so healthy and the density was so, so impressive that he's like the Man of Steel
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:25:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Everyone who knew Charlie (Charlie Kirk) well and spent time around him knew this was the case. So the fact that he's just going to go ahead and say, no, the video is not even needed.
 

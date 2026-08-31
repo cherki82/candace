@@ -27,7 +27,7 @@ Source: [About Us - Young America's Foundation](https://yaf.org/about-us/)
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -92,5 +92,18 @@ Source: [About Us - Young America's Foundation](https://yaf.org/about-us/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Young America's Foundation (1)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:18:16](/episodes/ep-w1oqQbR_bYs.md#t-00-17-44) (Accusation) **Candace Owens**: ["Ben Shapiro staffs audiences with people who work for YAF who are told..."](/statements/statement-3eb9a38e3071.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</details>
 
 </details>

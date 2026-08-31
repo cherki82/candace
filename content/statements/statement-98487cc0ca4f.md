@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:36:27](/episodes/ep-i8m_6D4QGmk.md#t-00-36-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2187);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So, in effect, hate speech laws. There's a new IHRA definition for anti-Semitism, a definition that is so broad that it includes, quote, accusing Jewish citizens of being more loyal to Israel or to the alleged priorities of Jews worldwide than to the interest of their own nations.
 

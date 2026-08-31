@@ -1,6 +1,6 @@
 ---
-title: "The Tisch family gave $1.2 million to stop Mamdani."
-description: "\"The Tisch family gave $1.2 million to stop Mamdani.\" — Candace Owens"
+title: "Candace Owens said the Tisch family gave $1.2 million."
+description: "\"Candace Owens said the Tisch family gave $1.2 million.\" — Candace Owens"
 statement_id: "statement-5700d61fdbdd"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,25 @@ veracity: "mixed"
 
 ## Statement
 
-> The Tisch family gave $1.2 million to stop Mamdani.
+> Candace Owens said the Tisch family gave $1.2 million.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Tisch family](/entities/org-tisch-family.md) (org)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:10:47](/episodes/ep-LATnak75Si0.md#t-00-10-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(647);return false;">Play</a>
+**Timestamp:** [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-19) 
+<a href="https://www.youtube.com/watch?v=LATnak75Si0&t=641s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The Tisch family gave $1.2 million
+> The Tisch family gave $1.2 million. It didn't matter.
 
 ## Verification
 

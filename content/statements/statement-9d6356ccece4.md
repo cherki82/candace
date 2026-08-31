@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:02:49](/episodes/ep-HYn0P-P1wUw.md#t-00-02-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(169);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=169s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tyler Robinson, we can exclusively confirm to you all. Drove three hours away from Orem. Utah, down to Panguitch, Utah.
 

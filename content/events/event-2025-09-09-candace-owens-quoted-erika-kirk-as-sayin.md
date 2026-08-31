@@ -6,6 +6,11 @@ date: "2025-09-09"
 ---
 
 **Date:** 2025-09-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the night before his murder”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-09"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:10:09](/episodes/ep-mFuno0TuuQQ.md#t-00-09-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(609);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=609s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie's adrenaline glands were just going off. He couldn't sleep.
 
@@ -25,6 +30,6 @@ date: "2025-09-09"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:10:46](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-09-candace-owens-quoted-erika-kirk-as-sayin-t-00-10-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(646);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=646s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean he just was like I can't wait it's gonna be the best and he got up around 2 45 3 ish

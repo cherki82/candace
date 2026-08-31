@@ -3,11 +3,11 @@ title: "Amazon reportedly said a technical issue caused the title's ..."
 description: "\"Amazon reportedly said a technical issue caused the title's incorrect publication date, and Amazon removed the book.\" — Candace Owens"
 statement_id: "statement-6999c5a92101"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -17,14 +17,14 @@ veracity: "true"
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Paraphrased
+**Original Source:** producer's note relaying Amazon response
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:56:36](/episodes/ep-sreYYcID-QY.md#t-00-56-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3396);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=3396s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Amazon issued a response—apparently; this is my producer's note—blaming it on technical issues for the incorrect date of the publication of the title
 
@@ -47,4 +47,4 @@ PolitiFact quotes Amazon's statement that a technical issue displayed an incorre
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Citation | **Verifiable:** Yes

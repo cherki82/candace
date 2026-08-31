@@ -1,6 +1,6 @@
 ---
 title: "India"
-description: "India (Places) - 13 mentions"
+description: "India (Places) - 14 mentions"
 id: "gpe-india"
 type: "GPE"
 categories:
@@ -17,10 +17,10 @@ _Type: Places_
 Source: [United Nations Member States](https://www.un.org/about-us/member-states)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46">2025-12-10 · 00:10:14</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-india-t-00-33-47">2025-11-04 · 00:33:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-india-t-00-33-55">2026-05-28 · 00:34:24</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -31,6 +31,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-21-47">BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-india-t-00-33-47" style="--pulse-height:20%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46" style="--pulse-height:60%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-india-t-00-11-28" style="--pulse-height:40%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-india-t-00-02-06" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
@@ -41,6 +42,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-india-t-00-33-47) | 1 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46) | 3 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-india-t-00-11-28) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-india-t-00-02-06) | 2 |
@@ -53,7 +55,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -108,14 +110,22 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:10:14](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46)**
+**[00:10:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46)**
 > "to India as the ambassador to India, which feels kind of o..."
 
 **[00:11:42](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
 > "That's just an ambassador to India swearing in ceremony."
 
-**[00:11:54](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
+**[00:11:47](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
 > "to be sworn into the ambassador to India"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:33:51](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-india-t-00-33-47)**
+> "...untries do this. All of Asia, India—this is like an intuitive response that people ha..."
 
 </details>
 

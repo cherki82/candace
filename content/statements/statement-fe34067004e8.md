@@ -29,8 +29,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1220);return false;">Play</a>
+**Timestamp:** [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-20-18) 
+<a href="https://www.youtube.com/watch?v=581dILVcEE4&t=1220s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were able to determine that that plane that departed Scottsdale at eight local time and landed at about 10 a.m. local time into Provo was owned by a Turning Point USA donor, T.W. ... Lewis. ... Actually, Turning Point USA is featured on T.W. ... Lewis's foundation website as something—as someone that they fund.
 

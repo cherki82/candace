@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:35:56](/episodes/ep-ja26iltROkM.md#t-00-35-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2156);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=2156s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I feel like it's becoming like the word racism. Like, we just disagree with them, so we just have to call them a name. I don't think they're actually anti-Semitic. I think people just can't agree with them, and they can't prove them wrong.
 

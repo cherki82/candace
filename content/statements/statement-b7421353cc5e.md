@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:38:37](/episodes/ep-kaWtDuoY_ns.md#t-00-38-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2317);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=2317s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She's not even Jewish. Her entire identity as being a feisty Jewess is something that she made up around 2019. ... She told me that she was not Jewish. She told multiple people that she is not Jewish.
 

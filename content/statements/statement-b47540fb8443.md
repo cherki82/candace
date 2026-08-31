@@ -26,7 +26,7 @@ type: "promise"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [01:14:22](/episodes/ep-E7P2ShoYDUA.md#t-01-14-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4462);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=4462s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So, yeah, I'm going to take care of my sisters. I'm going to give money to the Catholic Church and I'm going to decide what I want to do.
 

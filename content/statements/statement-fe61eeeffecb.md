@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:03:40](/episodes/ep-HYn0P-P1wUw.md#t-00-03-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(220);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=220s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, one of the servers recognized him as the person that was sitting at the bar the night before. So they decided to huddle up with management and said, no, that that person, Tyler Robinson, he was here. ... what they decided to do was to verify that he was in the building. ... but rather just looking through credit card charges.
 

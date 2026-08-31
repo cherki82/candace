@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:13:01](/episodes/ep-QRS_hR7NXaQ.md#t-00-12-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(781);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=781s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Locals reported that at night Americans were digging and they were extracting in military operations.
 

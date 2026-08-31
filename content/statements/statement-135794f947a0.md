@@ -7,7 +7,7 @@ type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:31:05](/episodes/ep-cPidFQDJLbo.md#t-00-30-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=1865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And something else that they said that was mentioned, which was later confirmed by the Daily Mail in their investigation into the AI video. ... Was that, uh, Erika (Erika Kirk) also communicated that a Turning Point USA board member was going to be helping them with those changes. ... Interestingly enough, you might recall from that Daily Mail article that they said that they spoke to a TPUSA board member who said that he was helping with those affairs.
 

@@ -24,8 +24,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:08:07](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">Play</a>
+**Timestamp:** [00:08:07](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=487s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Spears committed her to an eight-month tour named Circus
 

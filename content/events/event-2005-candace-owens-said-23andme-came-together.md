@@ -6,6 +6,11 @@ date: "2005"
 ---
 
 **Date:** 2005
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2005”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2005"
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:02:58](/episodes/ep-DYD_QHMPwqM.md#t-00-02-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(178);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=DYD_QHMPwqM&t=178s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Well, in 2005, the now bankrupt company, 23andMe came together

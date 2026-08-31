@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [01:06:30](/episodes/ep-mLvJqdxS-FY.md#t-01-06-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3990);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=3990s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > A lot of these pastors are introduced by PragerU, and they've never lied about who they are and their connection, obviously, to the Mossad. ... So it is, in my view, a full psychological operation.
 

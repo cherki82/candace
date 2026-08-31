@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
 **Timestamp:** [00:08:59](/episodes/ep-Pb7UlpRdW6U.md#t-00-08-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(539);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=539s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It then goes on, and this is important too, to describe external commentary. Expect aligned outside commentators, so talking about their surrogates to independently amplify. ... The professionalism of protective response, the media conduct during the evacuation, political rhetoric and escalation concerns. We saw all of this happening. ... Broader executive stability themes.
 

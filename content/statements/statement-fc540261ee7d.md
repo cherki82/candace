@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
 **Timestamp:** [00:13:21](/episodes/ep-19vHhjF7-NA.md#t-00-13-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(801);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=19vHhjF7-NA&t=801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He says Venezuela was a success. I think Americans would disagree. Oh, we got all this oil. Where did it go? I remember the headlines. They started shipping it immediately to Israel.
 

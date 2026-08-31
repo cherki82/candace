@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 223 mentions"
+description: "PreBorn! (Organizations) - 226 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -23,13 +23,13 @@ _Type: Organizations_
 Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-28-26">2026-08-18 · 00:28:33</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>223</strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>226</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,30 +38,33 @@ Source: [PreBorn!](https://preborn.com/)
 <p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-36-55" style="--pulse-height:86%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 6 mentions" title="2025-09-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-34" style="--pulse-height:29%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-36-55" style="--pulse-height:57%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 4 mentions" title="2025-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-08" style="--pulse-height:29%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-preborn-t-00-23-16" style="--pulse-height:43%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 3 mentions" title="2025-09-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-preborn-t-00-27-06" style="--pulse-height:43%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-preborn-t-00-22-55" style="--pulse-height:29%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-preborn-t-00-29-48" style="--pulse-height:43%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-preborn-t-00-56-23" style="--pulse-height:43%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-33-35" style="--pulse-height:43%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-33-34" style="--pulse-height:43%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-preborn-t-00-35-07" style="--pulse-height:43%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-23-48" style="--pulse-height:43%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-24-05" style="--pulse-height:43%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-preborn-t-00-44-38" style="--pulse-height:43%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-24-27" style="--pulse-height:43%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-24-23" style="--pulse-height:43%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-preborn-t-00-24-49" style="--pulse-height:43%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-preborn-t-00-34-16" style="--pulse-height:29%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-preborn-t-00-30-21" style="--pulse-height:29%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-06" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-preborn-t-00-30-34" style="--pulse-height:14%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-24" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-preborn-t-00-30-48" style="--pulse-height:14%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-preborn-t-00-23-20" style="--pulse-height:29%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-preborn-t-00-41-23" style="--pulse-height:71%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-preborn-t-00-29-06" style="--pulse-height:71%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-preborn-t-00-22-22" style="--pulse-height:57%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-31-59" style="--pulse-height:86%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-preborn-t-00-33-47" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-31-53" style="--pulse-height:57%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19" style="--pulse-height:86%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 6 mentions" title="2025-12-12 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 7 mentions" title="2025-12-18 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-preborn-t-00-35-40" style="--pulse-height:57%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-preborn-t-00-21-32" style="--pulse-height:43%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-39" style="--pulse-height:71%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46" style="--pulse-height:71%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30" style="--pulse-height:43%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-34" style="--pulse-height:43%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
@@ -113,30 +116,33 @@ Source: [PreBorn!](https://preborn.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31) | 7 |
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-36-55) | 6 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-34) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-36-55) | 4 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-08) | 2 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-preborn-t-00-23-16) | 3 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-preborn-t-00-27-06) | 3 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-preborn-t-00-22-55) | 2 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-preborn-t-00-29-48) | 3 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-preborn-t-00-56-23) | 3 |
-| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-33-35) | 3 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-33-34) | 3 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-preborn-t-00-35-07) | 3 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-23-48) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-24-05) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-preborn-t-00-44-38) | 3 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-24-27) | 3 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-24-23) | 3 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-preborn-t-00-24-49) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-preborn-t-00-34-16) | 2 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-preborn-t-00-30-21) | 2 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-06) | 2 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-preborn-t-00-30-34) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-24) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-preborn-t-00-30-48) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-preborn-t-00-23-20) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-preborn-t-00-41-23) | 5 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-preborn-t-00-29-06) | 5 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-preborn-t-00-22-22) | 4 |
-| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-31-59) | 6 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-preborn-t-00-33-47) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-31-53) | 4 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19) | 6 |
-| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44) | 7 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-preborn-t-00-35-40) | 4 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-preborn-t-00-21-32) | 3 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-39) | 5 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-34) | 3 |
@@ -189,7 +195,7 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (223)</strong></summary>
+<summary><strong class="section-title">Raw mentions (226)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
@@ -784,36 +790,61 @@ Source: [PreBorn!](https://preborn.com/)
 > "If you've heard about Preborn before and you've not yet taken action, there is ..."
 
 **[00:28:02](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-27-30)**
-> "If you're able to, head to preborn.com slash Candice to give."
+> "If you're able to, head to preborn.com slash Candace to give."
 
 **[00:28:06](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-27-30)**
-> "Again, that's preborn.com slash Candice."
+> "Again, that's preborn.com slash Candace."
 
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5 mentions)</summary>
 
-**[00:20:44](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+**[00:20:39](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-39)**
 > "Through our partnership with Preborn, we can help save babies and support mothers in need."
 
-**[00:20:39](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-04)**
-> "Through our partnership with Preborn, we can help save babies and support mothers in n..."
-
-**[00:21:05](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+**[00:21:05](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-39)**
 > "If you've heard about Preborn before, but you've not yet taken action, there is..."
 
-**[00:21:19](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+**[00:21:19](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-21-19)**
 > "head to preborn.com slash Candace to give."
 
-**[00:21:22](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
-> "Again, that's preborn.com slash Candace."
-
-**[01:12:29](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-12-11)**
+**[01:12:26](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-12-04)**
 > "I would like to help with Preborn."
 
-**[01:12:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-12-11)**
+**[01:12:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-12-04)**
 > "Please reach out to Preborn."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:21:42](/episodes/ep-9k2xrAC0H88.md#ent-org-preborn-t-00-21-32)**
+> "Through our partnership with Preborn, we can help save babies and support mothers in n..."
+
+**[00:22:04](/episodes/ep-9k2xrAC0H88.md#ent-org-preborn-t-00-21-32)**
+> "... years. If you've heard about Preborn before, but you've not yet taken any action, ther..."
+
+**[00:22:18](/episodes/ep-9k2xrAC0H88.md#ent-org-preborn-t-00-22-13)**
+> "...mes that, you should. Head to preborn.com slash Candice to give. Again, that's preborn...."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+
+**[00:35:54](/episodes/ep-es7PWdFGoFI.md#ent-org-preborn-t-00-35-40)**
+> "Through our partnership with Preborn, we can help save babies and support mothers that..."
+
+**[00:36:16](/episodes/ep-es7PWdFGoFI.md#ent-org-preborn-t-00-35-40)**
+> "... years. If you've heard about Preborn before and you've not yet taken action, there is ..."
+
+**[00:36:30](/episodes/ep-es7PWdFGoFI.md#ent-org-preborn-t-00-36-25)**
+> "...hat amount obviously. Head to preborn.com slash Candace if you'd like to give."
+
+**[00:36:37](/episodes/ep-es7PWdFGoFI.md#ent-org-preborn-t-00-36-25)**
+> "That's preborn.com slash Candace. Also want to tell you guys abo..."
 
 </details>
 
@@ -841,25 +872,30 @@ Source: [PreBorn!](https://preborn.com/)
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
-**[00:32:21](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-31-59)**
+**[00:32:21](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-31-53)**
 > "Through our partnership with Preborn, we can help save babies and support mothers in n..."
 
-**[00:32:26](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-31-59)**
-> "Everyday Preborn's clinics rescue hundreds of babies because when a ..."
-
-**[00:32:48](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-32-43)**
+**[00:32:43](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-32-35)**
 > "If you've heard about Preborn before and have not yet taken action, there is no..."
 
-**[00:33:02](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-32-43)**
-> "Head to preborn.com slash Candice to give."
+**[00:33:02](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-32-35)**
+> "Head to preborn.com slash Candace to give. Again, that's preborn.com slash Candace. Also reminding you guys about American financing, because what if you could delay your next two mortgage payments?"
 
-**[00:33:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-32-43)**
-> "Again, that's preborn.com slash Candice."
-
-**[00:44:54](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-32-43)**
+**[00:44:54](/episodes/ep-6DhWawD4ZiM.md#ent-org-preborn-t-00-32-35)**
 > "Through our partnership with Preborn, we can help save babies"
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:34:21](/episodes/ep-t4U7NjnUEgc.md#ent-org-preborn-t-00-33-47)**
+> "... years. If you've heard about Preborn before and you've not yet taken action, there is ..."
+
+**[00:34:39](/episodes/ep-t4U7NjnUEgc.md#ent-org-preborn-t-00-34-29)**
+> "Head to preborn.com slash Candace to give. Again, that's preborn...."
 
 </details>
 
@@ -934,7 +970,7 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:31:07](/episodes/ep-sImMM04XdWY.md#ent-org-preborn-t-00-30-34)**
+**[00:31:07](/episodes/ep-sImMM04XdWY.md#ent-org-preborn-t-00-30-48)**
 > "...ave to stand for truth and what is right and save lives from abortion, standing firm in the gospel. preborn.org/candace to provide an ultrasound for just $28. Also, I want to tell you guys about Beekeeper's ..."
 
 </details>
@@ -942,10 +978,10 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:22:26](/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-06)**
+**[00:22:24](/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-24)**
 > "...ut. Do not wait for permission. You can be bold, clear, and unapologetically pro-life by heading to preborn.org/Candace right now. You can give $28, or you can give 10 times that amount if you can. This is t..."
 
-**[00:22:44](/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-06)**
+**[00:22:44](/episodes/ep-581dILVcEE4.md#ent-org-preborn-t-00-22-24)**
 > "...h and for justice. We have to save lives from abortion and stand firm in our gospel. Again, that is preborn.org/Candace. Provide an ultrasound for just $28. I'll also remind you guys about American Financing..."
 
 </details>
@@ -989,14 +1025,14 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3 mentions)</summary>
 
-**[00:24:49](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-24-27)**
+**[00:24:49](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-24-23)**
 > "...e'll take a break, and we'll come right back. All right, you guys—jumping in here to tell you about PreBorn! Rather, to remind you about PreBorn! Because you guys know that lately I have been feeling that we..."
 
-**[00:25:34](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-25-10)**
-> "...sit this one out. Don't wait for permission. Be bold. Be clear. Be unapologetically pro-life. Go to preborn.org/Candace (Candace Owens) right now. You can give $28, or you can give 10 times that amount if yo..."
+**[00:25:29](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-25-03)**
+> "So don't sit this one out. Don't wait for permission. Be bold. Be clear. Be unapologetically pro-life. Go to preborn.org/Candace Owens right now."
 
-**[00:25:49](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-25-10)**
-> "...e have to do what's right, and we can save lives from abortion and stand firm in our gospel. Again, preborn.org/Candace (Candace Owens) to provide an ultrasound for just $28. Also, I want to tell you guys ab..."
+**[00:25:49](/episodes/ep-Qfwr08Ebczo.md#ent-org-preborn-t-00-25-44)**
+> "Again, preborn.org/Candace Owens to provide an ultrasound for just $28. Also, I want to tell you guys about Fatty15."
 
 </details>
 
@@ -1017,13 +1053,13 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
-**[00:24:07](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-23-48)**
+**[00:24:05](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-24-05)**
 > "...(Tucker Carlson) or something. Anyways, we'll be right back. Jumping in here to tell you guys about PreBorn! You know I love them. I've watched so many people who I'm close to be vilified for standing up for..."
 
-**[00:24:55](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-24-33)**
+**[00:24:55](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-24-44)**
 > "... out. Don't wait for permission. Be bold. Be clear. We should be unapologetically pro-life. Head to preborn.org/Candace right now. Give $28. You can also give 10 times that amount if you can. This is the lin..."
 
-**[00:25:08](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-24-33)**
+**[00:25:05](/episodes/ep-iHav0PPzUz8.md#ent-org-preborn-t-00-24-44)**
 > "... and what's right. We need to save lives from abortion and stand firm in the gospel. Again, that is preborn.org/Candace to provide an ultrasound for just $28. Also want to tell you guys about The Wellness Co..."
 
 </details>
@@ -1045,10 +1081,10 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (3 mentions)</summary>
 
-**[00:33:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-33-35)**
+**[00:33:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-33-34)**
 > "... CandaceOwens.com. All right, you guys, I'm going to throw it to some sponsors. First and foremost, Preborn! You guys know I love them because I have watched too many people who I am close to be vilified for..."
 
-**[00:34:31](/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-34-17)**
+**[00:34:28](/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-34-17)**
 > "...e out. Don't wait for permission. You can be bold. You can be unapologetically pro-life by going to preborn.org/Candace right now. Give $28, or you can give 10 times that amount if you can, because this is a..."
 
 **[00:34:47](/episodes/ep-pc3pxRyNFZk.md#ent-org-preborn-t-00-34-17)**
@@ -1126,22 +1162,19 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:22:34](/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-34)**
+**[00:22:34](/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-08)**
 > "... out. Do not wait for permission. Be bold. Be clear. Be unapologetic in your pro-life stance. Go to preborn.org/Candace right now. Give $28. Give 10 times that if you can—actually, because this is the line, ..."
 
-**[00:22:48](/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-34)**
+**[00:22:47](/episodes/ep-aDlhjfW6hz8.md#ent-org-preborn-t-00-22-47)**
 > "...th and what is right. We must save lives from abortion and stand firm in the gospel. Again, that is preborn.org/Candace to provide an ultrasound for just $28. Also telling you guys about the Wellness Company..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (6 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4 mentions)</summary>
 
 **[00:37:02](/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-36-55)**
 > "...our money. What I want and I need is the truth. First and foremost, you guys, I'm telling you about PreBorn because every heartbeat tells a story. And at PreBorn, they give moms in crisis the chance to hear ..."
-
-**[00:37:07](/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-36-55)**
-> "...and foremost, you guys, I'm telling you about PreBorn because every heartbeat tells a story. And at PreBorn, they give moms in crisis the chance to hear that heartbeat for free. And that's exactly why I part..."
 
 **[00:37:11](/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-36-55)**
 > "... moms in crisis the chance to hear that heartbeat for free. And that's exactly why I partnered with PreBorn, because PreBorn is not out to judge women. They're making motherhood possible for them. They provi..."
@@ -1152,15 +1185,12 @@ Source: [PreBorn!](https://preborn.com/)
 **[00:37:49](/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-37-34)**
 > "...on't just say you're pro-life. You can actually live it by donating now. Call 855-601-2229 or go to preborn.com/Candace. Again, that's preborn.com/Candace. Telling you guys again about Gno.land, because what..."
 
-**[00:37:54](/episodes/ep-q7f8r-THr84.md#ent-org-preborn-t-00-37-34)**
-> "...can actually live it by donating now. Call 855-601-2229 or go to preborn.com/Candace. Again, that's preborn.com/Candace. Telling you guys again about Gno.land, because what if smart contract platforms weren'..."
-
 </details>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (7 mentions)</summary>
 
-**[00:31:43](/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31)**
+**[00:31:34](/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31)**
 > "First, this is fantastic that Preborn is doing this. Every heartbeat tells a story"
 
 **[00:32:40](/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31)**
@@ -1176,10 +1206,10 @@ Source: [PreBorn!](https://preborn.com/)
 > "...ee ultrasound, one chance to see her baby, and when she does, she's twice as likely to choose life. Preborn is on a mission to save 70,000 babies this year, so don't just say that you're pro-life. You can al..."
 
 **[00:33:27](/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-33-14)**
-> "... say that you're pro-life. You can also live that. Donate now. You can call 855-601-2229 or head to preborn.com slash Candace (Candace Owens). Again, that's preborn.com slash Candace (Candace Owens). Also re..."
+> "You can call 855-601-2229 or head to preborn.com slash Candace."
 
 **[00:33:33](/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-33-14)**
-> "... now. You can call 855-601-2229 or head to preborn.com slash Candace (Candace Owens). Again, that's preborn.com slash Candace (Candace Owens). Also remind you guys about GNOLand, because what if smart contra..."
+> "Again, that's preborn.com slash Candace."
 
 </details>
 
@@ -1192,7 +1222,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1208,6 +1238,14 @@ Source: [PreBorn!](https://preborn.com/)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:11](/episodes/ep-OgRyiOAVtWU.md#t-00-40-04): “That's why I'm making this critical request today. Give a special gift of $250 to Preborn to honor our country's milestone anniversary and to celebrate our great future ahead.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:21:20](/episodes/ep-HZvwbfePe7o.md#t-00-21-12): “Donate simply dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace, preborn.com slash Candace.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:29:18](/episodes/ep-AoYZel7_cGQ.md#t-00-29-18): “Preborn is helping today's mothers choose life by providing these free ultrasounds so that they can meet their baby for the first time.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:21:42](/episodes/ep-9k2xrAC0H88.md#t-00-21-32): “Through our partnership with Preborn, we can help save babies and support mothers in need. Every day, Preborn's clinics rescue hundreds of babies because when a mother sees her baby on an ultrasound, it hears that tiny heartbeat.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:31:19](/episodes/ep-6J6lRZPQ4jk.md#t-00-31-19): “Through our partnership with Preborn, we can help save babies and support mothers that are in need.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:24](/episodes/ep-UBkFkg4UNY8.md#t-00-27-49): “You can be just as bold and as clear and as unapologetically pro-life by heading to preborn.org/Candace right now.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:32:50](/episodes/ep-czVBmqZP6Ss.md#t-00-32-31): “And that's exactly why I partner with Preborn, because Preborn isn't out to judge women.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:12:35](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-04): “Please reach out to Preborn. They do fantastic work, and you are right to recognize that. They were also gaslighting us about that, and I was saying, like, there are so many of these people that have...”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:45](/episodes/ep-pc3pxRyNFZk.md#t-00-33-34): “Preborn! You guys know I love them”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:37:11](/episodes/ep-q7f8r-THr84.md#t-00-36-55): “And that's exactly why I partnered with PreBorn, because PreBorn is not out to judge women. They're making motherhood possible for them.”
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:33:57](/episodes/ep-t4U7NjnUEgc.md#t-00-33-47): “Through our partnership with pre-born, we can help save babies and support mothers that are in need because every day, pre-born's clinics rescue hundreds of babies”
 
 </details>
 
@@ -1230,10 +1268,10 @@ Source: [PreBorn!](https://preborn.com/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1249,6 +1287,14 @@ Source: [PreBorn!](https://preborn.com/)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:11](/episodes/ep-OgRyiOAVtWU.md#t-00-40-04): “That's why I'm making this critical request today. Give a special gift of $250 to Preborn to honor our country's milestone anniversary and to celebrate our great future ahead.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:21:20](/episodes/ep-HZvwbfePe7o.md#t-00-21-12): “Donate simply dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace, preborn.com slash Candace.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:29:18](/episodes/ep-AoYZel7_cGQ.md#t-00-29-18): “Preborn is helping today's mothers choose life by providing these free ultrasounds so that they can meet their baby for the first time.”
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:21:42](/episodes/ep-9k2xrAC0H88.md#t-00-21-32): “Through our partnership with Preborn, we can help save babies and support mothers in need. Every day, Preborn's clinics rescue hundreds of babies because when a mother sees her baby on an ultrasound, it hears that tiny heartbeat.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:31:19](/episodes/ep-6J6lRZPQ4jk.md#t-00-31-19): “Through our partnership with Preborn, we can help save babies and support mothers that are in need.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:24](/episodes/ep-UBkFkg4UNY8.md#t-00-27-49): “You can be just as bold and as clear and as unapologetically pro-life by heading to preborn.org/Candace right now.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:32:50](/episodes/ep-czVBmqZP6Ss.md#t-00-32-31): “And that's exactly why I partner with Preborn, because Preborn isn't out to judge women.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:12:35](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-04): “Please reach out to Preborn. They do fantastic work, and you are right to recognize that. They were also gaslighting us about that, and I was saying, like, there are so many of these people that have...”
+- [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:45](/episodes/ep-pc3pxRyNFZk.md#t-00-33-34): “Preborn! You guys know I love them”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:37:11](/episodes/ep-q7f8r-THr84.md#t-00-36-55): “And that's exactly why I partnered with PreBorn, because PreBorn is not out to judge women. They're making motherhood possible for them.”
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:33:57](/episodes/ep-t4U7NjnUEgc.md#t-00-33-47): “Through our partnership with pre-born, we can help save babies and support mothers that are in need because every day, pre-born's clinics rescue hundreds of babies”
 
 </details>
 
@@ -1260,6 +1306,13 @@ Source: [PreBorn!](https://preborn.com/)
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:28:08](/episodes/ep-HGtMfbePDKk.md#t-00-28-00): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:55:42](/episodes/ep-E7P2ShoYDUA.md#t-00-55-34): “Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:27:47](/episodes/ep-4JxgOclKzqg.md#t-00-27-47): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:27:20](/episodes/ep-w1oqQbR_bYs.md#t-00-26-46): “we have to double down on supporting life through our partnership with Preborn.”
 
 </details>
 

@@ -1,16 +1,16 @@
 ---
-title: "The feds are obviously lying? And I would say at some level,..."
-description: "\"The feds are obviously lying? And I would say at some level, in a very big way, were involved in the death of Charlie because they wanted this sort of...\" — Candace Owens"
+title: "I would say that, at some level and in a very big way, the f..."
+description: "\"I would say that, at some level and in a very big way, the feds were involved in Charlie Kirk's death because they wanted a radical way to push throug...\" — Candace Owens"
 statement_id: "statement-138a19c05c11"
 speaker: "Candace Owens"
-type: "opinion"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> The feds are obviously lying? And I would say at some level, in a very big way, were involved in the death of Charlie because they wanted this sort of radical way to push through laws
+> I would say that, at some level and in a very big way, the feds were involved in Charlie Kirk's death because they wanted a radical way to push through laws
 
 ## Attribution
 
@@ -22,15 +22,15 @@ type: "opinion"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:37:49](/episodes/ep-aDlhjfW6hz8.md#t-00-37-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2269);return false;">Play</a>
+**Timestamp:** [00:37:44](/episodes/ep-aDlhjfW6hz8.md#t-00-37-37) 
+<a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2264s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And I would say at some level—in a very big way—were involved in the death of Charlie because they wanted this sort of radical way to push through laws.
+> It's all out there, and they're lying to you. Am I wrong, or am I cynical for believing that, yeah, the feds are obviously lying? And I would say at some level—in a very big way—were involved in the death of Charlie because they wanted this sort of radical way to push through laws.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** Yes

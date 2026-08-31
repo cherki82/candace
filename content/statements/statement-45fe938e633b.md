@@ -1,6 +1,6 @@
 ---
-title: "That transition took effect in mid-July of this year."
-description: "\"That transition took effect in mid-July of this year.\" — Candace Owens"
+title: "Rob McCoy's transition from head pastor to pastor emeritus t..."
+description: "\"Rob McCoy's transition from head pastor to pastor emeritus took effect in mid-July 2025.\" — Candace Owens"
 statement_id: "statement-45fe938e633b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,20 +11,24 @@ veracity: "true"
 
 ## Statement
 
-> That transition took effect in mid-July of this year.
+> Rob McCoy's transition from head pastor to pastor emeritus took effect in mid-July 2025.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Rob McCoy](/entities/person-rob-mccoy.md) (person)
+- [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md) (org)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:15:02](/episodes/ep-Qfwr08Ebczo.md#t-00-14-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(902);return false;">Play</a>
+**Timestamp:** [00:15:02](/episodes/ep-Qfwr08Ebczo.md#t-00-14-42) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=902s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That transition took effect in mid-July of this year
 

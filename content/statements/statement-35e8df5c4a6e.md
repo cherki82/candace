@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:09:49](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(589);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=589s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Thanks. I said, I saw it, and that you seem to believe that Kash (Kash Patel) and I, who are longtime personal friends with the president, are involved in some sinister cover-up, is absurd.
 

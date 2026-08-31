@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:38:00](/episodes/ep-SubDoZWHARo.md#t-00-37-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We don't need to include that. We didn't include the young woman who alleges that Victor Marx kidnapped her from Canada.
 

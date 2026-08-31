@@ -15,7 +15,7 @@ object: "org-dupont-family"
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:10:39](/episodes/ep-a-e7HC6SeK8#t-00-10-39): _...It appeared that Lisa Dean, who is a DuPont, didn't approve..._
+- [00:10:39](/episodes/ep-a-e7HC6SeK8#t-00-10-39): _It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker._
 
 ### Related
 

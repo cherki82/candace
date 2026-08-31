@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:31:33](/episodes/ep-h76ZN-xXC6c.md#t-00-31-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1893);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=1893s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Physical evidence, we've got nothing. I mean, we have a gun, which they have not even been able to prove was even fired on that day.
 

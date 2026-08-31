@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:41:45](/episodes/ep-VMNWMXX1vO8.md#t-00-41-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2505);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=VMNWMXX1vO8&t=2505s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie Kirk was murdered, and he was not murdered for his opinions on transgenderism. Obviously, I believe—and most people who knew him well, as I did, and were friends with him, as I was, believe—he was most likely murdered for his evolving views on Israel. ... I may be wrong now, but I am sincere. I'm saying what I believe is true
 

@@ -26,8 +26,8 @@ type: "opinion"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:03:36](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(216);return false;">Play</a>
+**Timestamp:** [00:03:36](/episodes/ep-7RLtGgkTh9o.md#t-00-03-23) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=216s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You cannot question Israel at all, or they descend on you.
 

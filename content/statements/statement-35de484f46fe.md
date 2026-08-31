@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(983);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=983s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was lawsuit he the grandson alleges that thereafter, Mitch Manley Sr. isolated his declining grandfather from his friends, from his family, and he seized control of his finances.
 

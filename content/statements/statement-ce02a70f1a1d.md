@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(384);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=384s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The plane in which Erika told me. That Andrew was aboard that day did not land until about 4.40 p.m., OK?
 

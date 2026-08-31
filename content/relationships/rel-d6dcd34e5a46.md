@@ -13,13 +13,13 @@ object: "person-candace-owens"
 
 ### Evidence (2 mentions)
 
-**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+**[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
-- [00:21:21](/episodes/ep-es7PWdFGoFI#t-00-21-21): _Tyler Robinson shot Charlie Kirk. Like that more will come out, but you can take it from me that this is what happened._
+- [01:06:23](/episodes/ep-2WEHTk0Xewg#t-01-06-23): _I believe that Tyler Robinson played a part. I don't know which part he played._
 
-**[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
+**[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
-- [00:03:59](/episodes/ep-ewBzjVe3LNQ#t-00-03-59): _out there right now trying to convince you that there is overwhelming evidence that Tyler Robinson committed this crime._
+- [00:33:36](/episodes/ep-6J6lRZPQ4jk#t-00-33-36): _I think Tyler (Tyler Robinson) was involved on that day._
 
 ### Related
 

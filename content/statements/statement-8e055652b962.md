@@ -1,6 +1,6 @@
 ---
-title: "Deidre Weiss Amaro was announced as the new Utah medical exa..."
-description: "\"Deidre Weiss Amaro was announced as the new Utah medical examiner in May of 2024.\" — Candace Owens"
+title: "Owens said Deidre Weiss Amaro was announced as Utah's new st..."
+description: "\"Owens said Deidre Weiss Amaro was announced as Utah's new state medical examiner in May 2024 and thought she had also worked in California.\" — Candace Owens"
 statement_id: "statement-8e055652b962"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,25 @@ veracity: "mixed"
 
 ## Statement
 
-> Deidre Weiss Amaro was announced as the new Utah medical examiner in May of 2024.
+> Owens said Deidre Weiss Amaro was announced as Utah's new state medical examiner in May 2024 and thought she had also worked in California.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Deirdre Amaro](/entities/person-deirdre-amaro.md) (person)
 
 ## Source
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:19:06](/episodes/ep-pc3pxRyNFZk.md#t-00-18-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1146);return false;">Play</a>
+**Timestamp:** [00:19:13](/episodes/ep-pc3pxRyNFZk.md#t-00-19-13) 
+<a href="https://www.youtube.com/watch?v=pc3pxRyNFZk&t=1153s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I think she also worked at some point in California, and she was announced as the new Utah medical examiner, state Utah medical examiner, in May of 2024
+> I'm sorry, from Missouri. I think she also worked at some point in California, and she was announced as the new Utah medical examiner, state Utah medical examiner, in May of 2024.
 
 ## Verification
 

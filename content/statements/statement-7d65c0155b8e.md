@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:10:48](/episodes/ep-7FS1tUeSfdE.md#t-00-10-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(648);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7FS1tUeSfdE&t=648s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The, I guess you could say the White House military office panicked and they attempted to rescind the email. ... But for some reason that did not work or it worked too late. I don't know what the issue is that but it did not resolve the issue. ... They then panicked even further, I am told, and sent out multiple emails instructing the people that were on that email that they absolutely had to delete it. ... And then they brought in more IT to get involved to deal with this blunder.
 

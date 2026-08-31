@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:56:14](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3374);return false;">Play</a>
+**Timestamp:** [00:56:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3369s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> the fact that Emmanuel Macron is in fact—just like the state of Israel—a Rothschild creation
+> We're talking about who Brigitte actually is, the families that Brigitte is related to, the fact that Emmanuel Macron is in fact—just like the state of Israel—a Rothschild creation; talking about the military industrial complex and talking about the Kabbalah.
 
 ## Verification
 

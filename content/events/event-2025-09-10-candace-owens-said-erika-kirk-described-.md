@@ -6,6 +6,11 @@ date: "2025-09-10"
 ---
 
 **Date:** 2025-09-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the next morning”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2025-09-10"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:12:10](/episodes/ep-mFuno0TuuQQ.md#event-event-2025-09-10-candace-owens-said-erika-kirk-described--t-00-11-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(730);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the next morning when he snuck in, he grabbed his wedding band.
 
@@ -25,6 +30,6 @@ date: "2025-09-10"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:11:39](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-10-candace-owens-said-erika-kirk-described--t-00-11-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(699);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=699s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that's where his wedding ring was and his necklace and he came in and he grabbed that

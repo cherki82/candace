@@ -1,6 +1,6 @@
 ---
 title: "Jewish people"
-description: "Jewish people (Concepts) - 24 mentions"
+description: "Jewish people (Concepts) - 45 mentions"
 id: "concept-jewish-people"
 type: "CONCEPT"
 aliases:
@@ -21,36 +21,48 @@ _Type: Concepts_
 Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/files/documents/2023-06/understanding-jewish-identity-through-sport.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-28-18">2026-01-16 · 00:28:18</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#t-00-43-52">2025-09-17 · 00:44:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#t-00-05-34">2026-07-22 · 00:05:52</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35">BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2T39-oADLj0.md#t-00-28-18" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#t-00-44-56" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#t-02-35-53" style="--pulse-height:17%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 6 mentions" title="2026-04-30 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#t-00-29-13" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-40-41" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#t-00-57-38" style="--pulse-height:17%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#t-00-05-34" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-43-52" style="--pulse-height:14%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-people-t-00-49-28" style="--pulse-height:71%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-59-37" style="--pulse-height:14%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-14-05" style="--pulse-height:43%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-jewish-people-t-00-42-44" style="--pulse-height:57%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 7 mentions" title="2025-12-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#t-00-28-18" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#t-00-44-56" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03" style="--pulse-height:43%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09" style="--pulse-height:29%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#t-02-35-53" style="--pulse-height:14%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35" style="--pulse-height:86%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 6 mentions" title="2026-04-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#t-00-29-13" style="--pulse-height:43%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-40-41" style="--pulse-height:14%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#t-00-57-38" style="--pulse-height:14%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#t-00-05-34" style="--pulse-height:14%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-people-t-00-49-28) | 5 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-59-37) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-14-05) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-jewish-people-t-00-42-44) | 4 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44) | 7 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-28-18) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-44-56) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) | 3 |
@@ -69,7 +81,7 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -192,6 +204,99 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 </details>
 
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (7 mentions)</summary>
+
+**[00:12:45](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44)**
+> "...and Israeli civilians, mostly Jews, some Americans."
+
+**[00:14:38](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44)**
+> "...nely makes insinuations about Jews that both lovers of antisemitism and haters of an..."
+
+**[00:15:06](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44)**
+> "... interpreted her to mean, the Jews."
+
+**[00:15:25](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44)**
+> "...erpreted that as an attack on Jews."
+
+**[00:17:44](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-17-44)**
+> "...sure people, because you know Jewish people who can threaten to take money,"
+
+**[00:26:46](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-26-46)**
+> "Jewish people were the ones that were trading us."
+
+**[00:26:49](/episodes/ep-w1oqQbR_bYs.md#ent-concept-jewish-people-t-00-26-46)**
+> "Jewish people were in control of the slave trade."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
+
+**[00:42:52](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-jewish-people-t-00-42-44)**
+> "... college campuses that offend Jewish people. So like, we're—I guess we're gonna—we're stuck w..."
+
+**[00:49:19](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-jewish-people-t-00-48-48)**
+> "...p, I'm going DEFCON 3 on some Jewish people.""
+
+**[00:49:22](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-jewish-people-t-00-48-48)**
+> "...use Black people are actually Jews also. "You guys have toyed with me and tried to b..."
+
+**[00:49:43](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-jewish-people-t-00-49-33)**
+> "...Hollywood and start murdering Jewish people."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3 mentions)</summary>
+
+**[00:14:18](/episodes/ep-Qfwr08Ebczo.md#t-00-14-05)**
+> "It's like Christians for Jews. You look into it yourself. I honestly can't expl..."
+
+**[00:33:51](/episodes/ep-Qfwr08Ebczo.md#t-00-33-47)**
+> "...way, and certainly not of all Jews—but I'm saying of the Israeli government and of a..."
+
+**[00:35:17](/episodes/ep-Qfwr08Ebczo.md#t-00-35-17)**
+> "...o this land. Because they are Jews and I am a Christian, I recognize that I'm going ..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[01:00:09](/episodes/ep-YFmRH8p5lt0.md#t-00-59-37)**
+> "..."Christian Zionist loyalty to Jews and Israel seems to have replaced loyalty to God,..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
+
+**[00:38:52](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-people-t-00-49-28)**
+> "...ly Jesus can come back if the Jews control the area—that that is goofy."
+
+**[00:46:40](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-people-t-00-49-28)**
+> "...silence not just criticism of Jews, but silence criticism of an ongoing genocide."
+
+**[00:48:17](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-people-t-00-49-28)**
+> "...who has so much animosity for Jews and is just, you know—he says the most horrible t..."
+
+**[00:48:21](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-people-t-00-49-28)**
+> "...ities, towards women, towards Jews."
+
+**[00:49:41](/episodes/ep-iHav0PPzUz8.md#ent-concept-jewish-people-t-00-49-28)**
+> "... men, right? Because he views Jewish people as a separate race."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
+
+**[00:44:14](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)**
+> "...ie (Charlie Kirk) didn't hate Jews. He loved Jews. He had tons of friends who were J..."
+
+</details>
+
 </details>
 
 <details open>
@@ -202,7 +307,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jewish people (6)</strong></summary>
+<summary><strong class="section-title">Statements about Jewish people (7)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>
@@ -239,6 +344,13 @@ _No relationships extracted yet._
 
 - [00:10:45](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21) (Opinion) **Andrew Kolvet** (via quoted speech): ["Turning Point USA does not believe Israel or Jewish people had Charlie..."](/statements/statement-bdd0fe79f23d.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:26:49](/episodes/ep-w1oqQbR_bYs.md#t-00-26-46) (Claim) **Candace Owens**: ["Jewish people were in control of the slave trade"](/statements/statement-af4d843fd91b.md)
 
 </details>
 

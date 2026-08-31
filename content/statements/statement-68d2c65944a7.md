@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:27:30](/episodes/ep-k8ueJdPFel4.md#t-00-27-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1650);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=1650s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Italy's Prime Minister Giorgia Meloni on Wednesday—and she's a friend of Trump (Donald J. Trump)—delivered her strongest criticism of the U.S.-Israeli war on Iran, describing it as part of a growing and dangerous trend of interventions that sit outside the scope of international law.
 

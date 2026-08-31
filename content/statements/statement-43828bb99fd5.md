@@ -32,7 +32,7 @@ type: "factual_claim"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:18:08](/episodes/ep-BxN2-aeMYIs.md#t-00-17-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1088);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=1088s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In another report, they argue that distrust surrounding Charlie Kirk's assassination was mostly due to Americans falling for Russian, Iranian, and Pakistani propaganda networks.
 

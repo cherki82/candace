@@ -18,13 +18,18 @@ veracity: "true"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Wilks Brothers](/entities/person-wilks-brothers.md) (person)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
+- [PragerU](/entities/org-prageru.md) (org)
 
 ## Source
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
-**Timestamp:** [00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(834);return false;">Play</a>
+**Timestamp:** [00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26) 
+<a href="https://www.youtube.com/watch?v=Qfwr08Ebczo&t=834s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well
 

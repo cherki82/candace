@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA wrote that the succession video was real, ..."
-description: "\"Turning Point USA wrote that the succession video was real, Charlie Kirk was not kidding, and Candace Owens had known about it for seven months.\" — Turning Point USA"
+description: "\"Turning Point USA wrote that the succession video was real, Charlie Kirk was not kidding, and Candace Owens apparently had known about it for seven mo...\" — Turning Point USA"
 statement_id: "statement-e41168e9935c"
 speaker: "Turning Point USA"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Turning Point USA wrote that the succession video was real, Charlie Kirk was not kidding, and Candace Owens had known about it for seven months.
+> Turning Point USA wrote that the succession video was real, Charlie Kirk was not kidding, and Candace Owens apparently had known about it for seven months.
 
 ## Attribution
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [01:07:26](/episodes/ep-YeEtS7nix3o.md#t-01-07-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4046);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=4046s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You're all, hey, Candace, the video is real, as you apparently have known for seven months. ... Charlie wasn't kidding.
 

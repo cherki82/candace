@@ -5,18 +5,26 @@ id: "person-dominick-dunne"
 type: "PERSON"
 aliases:
   - "Dominick Dunne"
+categories:
+  - "Vanity Fair writer and crime reporter"
 ---
 
 _Type: People_
 
 **Also known as:** Dominick Dunne
 
+**Categories:** Vanity Fair writer and crime reporter
+
+**Entity verification:** verified
+> Vanity Fair's obituary identifies Dominick Dunne as its special correspondent and best-selling author; his bylined article covers the Lisa Dean Moseley case discussed in the episode.
+Source: [Dominick Dunne: 1925–2009](https://www.vanityfair.com/news/2009/08/dominick-dunne-obituary)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-dominick-dunne-t-00-10-27">2025-12-02 · 00:10:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-dominick-dunne-t-00-10-27">2025-12-02 · 00:10:32</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -56,5 +64,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Dominick Dunne (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) [◐] (Accusation) ["Dominick Dunne reported that money for the killing traced back to the DuPont fam..."](/statements/statement-7c3e83eb0a33.md)
+  - About: [DuPont family](/entities/org-dupont-family.md), [Christopher Moseley](/entities/person-christopher-moseley.md), [Lisa Dean](/entities/person-lisa-dean.md)
+
+</details>
 
 </details>

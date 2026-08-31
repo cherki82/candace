@@ -17,7 +17,7 @@ _Type: People_
 Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-33-30">2025-10-30 · 00:33:57</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-33-38">2025-10-30 · 00:33:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-07-26">2026-08-21 · 00:07:49</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
@@ -31,7 +31,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-person-ana-kasparian-t-00-00-00">Candace Owens x Ana Kasparian</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#t-00-33-30" style="--pulse-height:40%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-33-38" style="--pulse-height:40%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-ana-kasparian-t-00-54-05" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-ana-kasparian-t-00-00-00" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 5 mentions" title="2026-05-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#t-01-12-43" style="--pulse-height:40%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
@@ -42,7 +42,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-33-30) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-33-38) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-ana-kasparian-t-00-54-05) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-ana-kasparian-t-00-00-00) | 5 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-01-12-43) | 2 |
@@ -118,10 +118,10 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-30)**
+**[00:33:52](/episodes/ep-iHav0PPzUz8.md#t-00-33-38)**
 > ""CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker..."
 
-**[00:34:28](/episodes/ep-iHav0PPzUz8.md#t-00-34-12)**
+**[00:34:28](/episodes/ep-iHav0PPzUz8.md#t-00-34-18)**
 > "Anna Kasparian went on like CNN, and that was it."
 
 </details>

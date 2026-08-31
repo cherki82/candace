@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:04:39](/episodes/ep-eMtjzXkQrsU.md#t-00-04-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(279);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eMtjzXkQrsU&t=279s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It certainly did the night before he had a strong sense he was going to die, strong enough that he texted who he thought were his friends, who he thought were the security people meant to protect him. He texted Andrew Kolvet. He texted Dan Flood, and he said they are going to kill me.
 

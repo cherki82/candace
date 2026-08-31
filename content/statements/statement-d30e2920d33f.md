@@ -22,8 +22,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:18:47](/episodes/ep-SKGUzGHymcI.md#t-00-18-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">Play</a>
+**Timestamp:** [00:18:47](/episodes/ep-SKGUzGHymcI.md#t-00-18-39) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > 920 North King Street has been a federal resident office since at least 1997, and today it houses the DEA, the FBI, and the United States Secret Service all at the same address
 

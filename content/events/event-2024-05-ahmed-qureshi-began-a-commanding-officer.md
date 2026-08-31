@@ -6,6 +6,11 @@ date: "2024-05"
 ---
 
 **Date:** 2024-05
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “from May 2024 to present”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2024-05"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:12:05](/episodes/ep-rupRLXmSndU.md#event-event-2024-05-ahmed-qureshi-began-a-commanding-officer-t-00-11-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(725);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=725s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he has all the dates here from May 2024 to present. You can see he's been 06 for a while.

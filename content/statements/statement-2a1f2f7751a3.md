@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:32:52](/episodes/ep-EtLHqDbxqks.md#t-00-32-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1972);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=1972s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Yes, so the major contributor is the majority of the DNA contributed to that sample.
 

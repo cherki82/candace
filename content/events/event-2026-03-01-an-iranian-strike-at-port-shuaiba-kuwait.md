@@ -6,6 +6,15 @@ date: "2026-03-01"
 ---
 
 **Date:** 2026-03-01
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “just”
+
+**Normalization note:** CBS News dates the Port of Shuaiba strike that killed six Americans to March 1, 2026.
+
+**Date source:** [https://www.cbsnews.com/news/iran-strike-us-troops-kuwait-investigation-findings-families/](https://www.cbsnews.com/news/iran-strike-us-troops-kuwait-investigation-findings-families/)
 
 ## Event
 
@@ -15,6 +24,6 @@ date: "2026-03-01"
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#event-event-2026-03-01-an-iranian-strike-at-port-shuaiba-kuwait-t-00-12-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(748);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ZIH5-V6UPkg&t=748s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > you guys just lied about six of our servicemen who died and they had to leak that to CBS News

@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:36:23](/episodes/ep-ZAsV0fHGBiM.md#t-00-35-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2183);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2183s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To the contrary, ... Erica (Erika Kirk) feels so deeply attached to her Scandinavian roots that in 2019 she moved to begin the process of obtaining her dual citizenship. ... She posted this herself,
 

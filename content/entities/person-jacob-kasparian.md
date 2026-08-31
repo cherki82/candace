@@ -29,17 +29,17 @@ Source: [Charlie Kirk source episode](https://www.youtube.com/watch?v=DqGNvi36ol
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36">Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36">Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jacob-kasparian-t-00-20-28" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jacob-kasparian-t-00-20-28" style="--pulse-height:50%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-jacob-kasparian-t-00-20-28) | 1 |
-| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36) | 3 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36) | 2 |
 
 </details>
 </section>
@@ -50,10 +50,7 @@ Source: [Charlie Kirk source episode](https://www.youtube.com/watch?v=DqGNvi36ol
 <summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
-
-**[00:23:54](/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36)**
-> "Jacob Kasparian identified as person who did not duck after shot"
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
 
 **[00:23:56](/episodes/ep-DqGNvi36ol8.md#ent-person-jacob-kasparian-t-00-23-36)**
 > "...fied him as a young man named Jacob Kasparian, and I'm going to show you that video of him not ..."

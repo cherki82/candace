@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:11:00](/episodes/ep-y8lak3CRwDw.md#t-00-11-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(660);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=660s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > AZ Tech, a science and engineering environment, oh, it's an environment, has been at the pinnacle of creating a hybrid cyber, electrical, mechanical capability to address life sustainability and mitigation strategies in the event there is partial to complete shutdown of power. ... This has led her and her incredible engineering team to create eight multiple patents in the predictable in the predictability and cyber analytic area in support of the department of defense the doe and state government relative to sustainability of critical infrastructure protection
 

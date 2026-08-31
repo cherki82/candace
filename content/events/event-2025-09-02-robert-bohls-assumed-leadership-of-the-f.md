@@ -6,6 +6,11 @@ date: "2025-09-02"
 ---
 
 **Date:** 2025-09-02
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 2nd”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-02"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:21:30](/episodes/ep-N4uM8Jdr410.md#event-event-2025-09-02-robert-bohls-assumed-leadership-of-the-f-t-00-21-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1290);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1290s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > On September 2nd, okay, eight days before the Charlie Kirk assassination, Robert Bohls assumes

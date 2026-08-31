@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1018);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=1018s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.
 

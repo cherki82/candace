@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:44:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-43-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2661);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=2661s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And now it seems like in the wake of his assassination, it's becoming the new RNC, but with a faith bent. Is that fair? I think that's fair. I think my opinion is very fair.
 

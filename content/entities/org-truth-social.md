@@ -1,6 +1,6 @@
 ---
 title: "Truth Social"
-description: "Truth Social (Organizations) - 19 mentions"
+description: "Truth Social (Organizations) - 21 mentions"
 id: "org-truth-social"
 type: "ORG"
 categories:
@@ -17,10 +17,10 @@ _Type: Organizations_
 Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16">2025-10-29 · 00:11:23</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-truth-social-t-00-47-28">2025-10-09 · 00:47:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27">2026-06-13 · 00:16:27</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,7 +31,9 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16">Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-truth-social-t-00-47-28" style="--pulse-height:25%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-truth-social-t-00-15-38" style="--pulse-height:25%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-truth-social-t-00-13-58" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-03-51" style="--pulse-height:75%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-truth-social-t-00-34-43" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
@@ -45,7 +47,9 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-truth-social-t-00-47-28) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16) | 4 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-truth-social-t-00-15-38) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-truth-social-t-00-13-58) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-03-51) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-truth-social-t-00-34-43) | 1 |
@@ -61,7 +65,7 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
@@ -149,6 +153,14 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 </details>
 
 <details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+
+**[00:15:38](/episodes/ep-LATnak75Si0.md#ent-org-truth-social-t-00-15-38)**
+> "...ent Trump—dedicated 900% more Truth Social posts to ensuring that Mamdani would lose than to..."
+
+</details>
+
+<details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
 
 **[00:11:23](/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16)**
@@ -162,6 +174,14 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 
 **[00:17:07](/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-15-29)**
 > "[Donald Trump (Truth Social)]: "Every leading legal analyst and pundit said t..."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
+
+**[00:47:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-truth-social-t-00-47-28)**
+> "...Trump) put a statement out on Truth Social: "I am very proud to announce that Israel and Ham..."
 
 </details>
 

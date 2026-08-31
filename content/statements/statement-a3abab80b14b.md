@@ -29,7 +29,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:33:25](/episodes/ep-MhakwJxK-Zk.md#t-00-33-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2005);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2005s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > July 25th is another weird thing that takes place. YRefy comes in as the number one sponsor for Charlie Kirk's fall tour. ... I'll tell you why that's weird. It's weird because they had already signed a contract for the entire year. ... What I mean by that is they signed a contract which included AmFest, included YWLS. It was signed for all of 2025 and included Charlie (Charlie Kirk)'s tour in the spring. But suddenly... ... Late in the day, they're like, hey, we're going to be your number one sponsor for your fall tour. We'd like to essentially write up an addendum.
 

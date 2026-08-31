@@ -23,7 +23,7 @@ type: "accusation"
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:27:44](/episodes/ep-ja26iltROkM.md#t-00-27-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1664);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ja26iltROkM&t=1664s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, as everybody who watches this show knows, we've been selling that merch since before Charlie (Charlie Kirk) got assassinated.
 

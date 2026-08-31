@@ -1,6 +1,6 @@
 ---
 title: "Intermountain Health"
-description: "Intermountain Health (Organizations) - 1 mention"
+description: "Intermountain Health (Organizations) - 2 mentions"
 id: "org-intermountain-health"
 type: "ORG"
 aliases:
@@ -25,10 +25,10 @@ Source: [About - Intermountain Health](https://prod.intermountainhealth.org/abou
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-intermountain-health-t-00-26-05">2026-07-31 · 00:26:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-intermountain-health-t-00-26-05">2026-07-31 · 00:26:20</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,7 +50,7 @@ Source: [About - Intermountain Health](https://prod.intermountainhealth.org/abou
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
@@ -65,7 +65,29 @@ Source: [About - Intermountain Health](https://prod.intermountainhealth.org/abou
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Owns (1)</summary>
+
+- **[Utah Valley Hospital](/entities/org-utah-valley-hospital.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:30:12](/episodes/ep-MUA9ebCF4Ow.md#t-00-30-12): “Utah Valley Hospital is owned by IHC, and they run on a system called Epic—which many of you guys emailed me about.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Utah Valley Hospital](/entities/org-utah-valley-hospital.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:30:12](/episodes/ep-MUA9ebCF4Ow.md#t-00-30-12): “Utah Valley Hospital is owned by IHC, and they run on a system called Epic—which many of you guys emailed me about.”
+
+</details>
+
+</details>
 
 </details>
 

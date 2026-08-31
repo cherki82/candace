@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1201);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=1201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Benjamin Netanyahu is committing a genocide, and Ben Shapiro sat down with him last month
 

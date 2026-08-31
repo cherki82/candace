@@ -1,6 +1,6 @@
 ---
 title: "Hunter Kozak"
-description: "Hunter Kozak (People) - 8 mentions"
+description: "Hunter Kozak (People) - 9 mentions"
 id: "person-hunter-kozak"
 type: "PERSON"
 categories:
@@ -17,13 +17,13 @@ _Type: People_
 Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](https://www.thedailybeast.com/student-behind-final-question-at-charlie-kirk-shooting-speaks-out/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33">2026-01-05 · 00:15:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-hunter-kozak-t-00-15-32">2025-12-12 · 00:15:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-hunter-kozak-t-00-08-49">2026-02-10 · 00:09:18</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,6 +31,7 @@ Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](http
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-hunter-kozak-t-00-15-32" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 6 mentions" title="2026-01-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-hunter-kozak-t-00-08-49" style="--pulse-height:17%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 </div>
@@ -38,6 +39,7 @@ Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](http
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-hunter-kozak-t-00-15-32) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33) | 6 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-hunter-kozak-t-00-08-49) | 1 |
 
@@ -47,7 +49,7 @@ Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -80,6 +82,14 @@ Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](http
 
 </details>
 
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:15:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-hunter-kozak-t-00-15-32)**
+> "They also brought out Hunter Kozak, who asked the last question to Charlie (Charlie ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -98,12 +108,31 @@ Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](http
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Spoke With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:15:35](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32): “They also brought out Hunter Kozak, who asked the last question to Charlie (Charlie Kirk).”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:17:15](/episodes/ep-OEAHy3SsIiI.md#t-00-16-56): “So it's not fair. But I don't like Hunter Kozak. I just don't. And I think that that's a normal human feeling, right?”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:15:35](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32): “They also brought out Hunter Kozak, who asked the last question to Charlie (Charlie Kirk).”
 
 </details>
 

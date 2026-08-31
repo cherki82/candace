@@ -17,7 +17,7 @@ _Type: Concepts_
 **Categories:** religious movement
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11">2025-10-28 · 00:00:52</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11">2025-10-28 · 00:00:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-frankism-t-00-36-32">2026-04-10 · 00:36:56</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -93,7 +93,7 @@ _Type: Concepts_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:00:52](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11)**
+**[00:00:51](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11)**
 > "We're talking about Frankism; we're talking about the Kabbalah; we're talking about the infiltration into the churches—intentional as an aspect of the Frankist movement."
 
 **[00:52:40](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11)**

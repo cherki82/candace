@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:48:23](/episodes/ep-1IY2oD-_xVA.md#t-00-48-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2903);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=2903s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that was my thing ever since I was five like that was my I wanted to play and that's um that was all I wanted to do I was a gym rat for lack of better term and um I remember getting something in the mail when I had come home from um school one summer and it was like hey you should compete at Miss Arizona USA someone nominated you and I was like I don't know who would nominate me for that but okay Okay.
 
@@ -40,7 +40,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:32:26](/episodes/ep-cZxHqYsWRYg.md#t-00-32-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1946);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That was my thing ever since I was five. That was all I wanted to do. I was a gym rat, for lack of a better term. I remember getting something in the mail when I had come home from school one summer, and it was like, 'Hey, you should compete at Miss Arizona USA. Someone nominated you.' And I was like, 'I don't know who would nominate me for that.'
 

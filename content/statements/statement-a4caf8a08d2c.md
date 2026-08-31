@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:15:59](/episodes/ep-BxN2-aeMYIs.md#t-00-15-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(959);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=959s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Shortly after that White House meeting, I was contacted through a third party and asked to script write for VFT.
 

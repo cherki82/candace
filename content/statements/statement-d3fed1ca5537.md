@@ -1,6 +1,6 @@
 ---
-title: "Brian Harpole is actually presenting a text message between ..."
-description: "\"Brian Harpole is actually presenting a text message between Dan Flood and Chief Long\" — Candace Owens"
+title: "Candace Owens said Brian Harpole presented a text exchange b..."
+description: "\"Candace Owens said Brian Harpole presented a text exchange between Dan Flood and Jeff Long as though it were his own communication in his Shawn Ryan i...\" — Candace Owens"
 statement_id: "statement-d3fed1ca5537"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Brian Harpole is actually presenting a text message between Dan Flood and Chief Long
+> Candace Owens said Brian Harpole presented a text exchange between Dan Flood and Jeff Long as though it were his own communication in his Shawn Ryan interview
 
 ## Attribution
 
@@ -20,13 +20,20 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Brian Harpole](/entities/person-brian-harpole.md) (person)
+- [Dan Flood](/entities/person-dan-flood.md) (person)
+- [Jeff Long](/entities/person-jeff-long.md) (person)
+- [Shawn Ryan](/entities/person-shawn-ryan.md) (person)
+
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:33:44](/episodes/ep-sImMM04XdWY.md#t-00-33-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2024);return false;">Play</a>
+**Timestamp:** [00:33:37](/episodes/ep-sImMM04XdWY.md#t-00-33-17) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=2017s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He's actually presenting a text message between Dan Flood and Chief Long
+> I can tell you right now, the reason why he describes his communication with the chief of the UVU police in an odd way is because it's not his communication. ... He's actually presenting a text message between Dan Flood and Chief Long.
 
 ## Verification
 

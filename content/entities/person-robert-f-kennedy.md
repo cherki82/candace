@@ -24,7 +24,7 @@ _Type: People_
 Source: [Robert F. Kennedy - JFK Library](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-56-57">2025-12-17 · 00:57:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-57-33">2025-12-17 · 00:57:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-f-kennedy-t-00-52-00">2026-05-27 · 00:52:00</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -36,16 +36,16 @@ Source: [Robert F. Kennedy - JFK Library](https://www.jfklibrary.org/learn/about
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-56-57">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-57-33">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-56-57" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-57-33" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-f-kennedy-t-00-52-00" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-56-57) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-57-33) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-f-kennedy-t-00-52-00) | 1 |
 
 </details>
@@ -67,7 +67,7 @@ Source: [Robert F. Kennedy - JFK Library](https://www.jfklibrary.org/learn/about
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
-**[00:57:41](/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-56-57)**
+**[00:57:33](/episodes/ep-9k2xrAC0H88.md#ent-person-robert-f-kennedy-t-00-57-33)**
 > "the biggest political assassination since JFK and RFK"
 
 </details>

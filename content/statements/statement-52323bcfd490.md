@@ -31,7 +31,7 @@ type: "factual_claim"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:07:19](/episodes/ep-zSKrxIUMNqw.md#t-00-06-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=439s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was presented to me as a comedy show to make fun of the right and the left. ... However, immediately, you and Tucker Carlson were brought up.
 

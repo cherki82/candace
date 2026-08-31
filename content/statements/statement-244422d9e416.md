@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:09:33](/episodes/ep-mFuno0TuuQQ.md#t-00-09-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(573);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=573s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when I revealed to the public that he had predicted his own death in remarkable detail, ... maybe you went back and you read the rest of those messages, the ones that I haven't yet revealed to the public, ... He thought someone was going to kill him. He did express that in writing.
 

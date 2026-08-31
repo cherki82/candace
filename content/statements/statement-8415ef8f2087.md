@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:11:33](/episodes/ep-Dkxa9OUA9K8.md#t-00-11-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(693);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=693s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I don't know. Anyway, Victor Marx's own son wrote a letter to the board on a company that Victor (Victor Marx) was a part of accusing his father of abusing both him and his sister.
 

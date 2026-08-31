@@ -3,13 +3,22 @@ title: "Outnumbered"
 description: "Outnumbered (Works & Media) - 2 mentions"
 id: "work-outnumbered"
 type: "WORK"
+categories:
+  - "television news program"
+  - "Fox News"
 ---
 
 _Type: Works & Media_
 
+**Categories:** television news program, Fox News
+
+**Entity verification:** verified
+> Fox News’ official program page confirms the canonical title Outnumbered and identifies it as an ensemble news show.
+Source: [Outnumbered | Fox News](https://www.foxnews.com/shows/outnumbered)
+
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46">2025-12-10 · 00:09:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46">2025-12-10 · 00:11:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46">2025-12-10 · 00:09:58</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46">2025-12-10 · 00:11:10</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -41,10 +50,10 @@ _Type: Works & Media_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:09:59](/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46)**
+**[00:09:58](/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46)**
 > "...e Fox and Friends, she's done Outnumbered, she's done Megyn (Megyn Kelly) Live."
 
-**[00:11:30](/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46)**
+**[00:11:10](/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46)**
 > "she's done Fox and Friends, she's done Outnumbered"
 
 </details>

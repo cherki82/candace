@@ -1,32 +1,32 @@
 ---
-title: "Owens said children witnessed the shooting and would provide..."
-description: "\"Owens said children witnessed the shooting and would provide eyewitness testimony, then introduced a GMA interview with Tiffany Barker and her nieces,...\" — Candace Owens"
+title: "Owens said the indictment stated that children witnessed the..."
+description: "\"Owens said the indictment stated that children witnessed the shooting and would provide eyewitness testimony.\" — Candace Owens"
 statement_id: "statement-6b80813191d3"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "citation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
-> Owens said children witnessed the shooting and would provide eyewitness testimony, then introduced a GMA interview with Tiffany Barker and her nieces, who said their group numbered 16
+> Owens said the indictment stated that children witnessed the shooting and would provide eyewitness testimony.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Original Source:** indictment
 
 ## Source
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:19:22](/episodes/ep-sreYYcID-QY.md#t-00-18-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1162);return false;">Play</a>
+**Timestamp:** [00:19:19](/episodes/ep-sreYYcID-QY.md#t-00-18-59) 
+<a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=1159s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And they say that they saw what happened up close, and I believe you're going to hear them say that they were a family of 16
+> We do know, according to the indictment, that there were children that witnessed, that were there for the shooting. ... And these children—like I said—are going to provide an eyewitness testimony to Charlie (Charlie Kirk)'s shooting, and they are with their aunt Tiffany.
 
 ## Verification
 
@@ -48,4 +48,4 @@ ABC's GMA interview confirms Tiffany Barker and her nieces were in the audience,
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Citation | **Verifiable:** Yes

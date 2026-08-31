@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:28:14](/episodes/ep-7ERqbYElOfs.md#t-00-28-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1694);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7ERqbYElOfs&t=1694s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It is. So this is interesting. Sheriff Nate Brooksby has resigned suddenly. He had like a COVID resignation, died suddenly, resigned suddenly. ... He resigned and now there's an interim sheriff in place and there's like I said they're in the middle of an election so now they're down to a single candidate. ... The resignation occurred on Friday and there has not been a public statement given for this out of nowhere resignation but over the weekend his name was quietly removed from the sheriff's office website and social media pages and there was a lot of speculation and I saw that some people said that there was going to be more information that was coming out.
 

@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:28:17](/episodes/ep-puuMVxEu5NU.md#t-00-28-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1697);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=puuMVxEu5NU&t=1697s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they can't even imagine themselves asking this question. We revisit the Butler assassination and speculated that Corey Comperatore, the only person who lost his life on that day, may have even been targeted.
 

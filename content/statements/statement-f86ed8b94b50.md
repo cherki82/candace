@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:03:07](/episodes/ep-kaWtDuoY_ns.md#t-00-02-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(187);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Rather, and also I should say Sheriff Brooksby (first name unverified) did admit that rather the truth is that Tyler Robinson was essentially coerced to go in.
 

@@ -6,6 +6,15 @@ date: "2025-12-12"
 ---
 
 **Date:** 2025-12-12
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “December 12th”
+
+**Normalization note:** TBN's December 12, 2025 episode states Glenn Beck interviewed Erika Kirk that morning.
+
+**Date source:** [https://www.tbn.org/programs/charlie-kirk-today/episodes/glenn-beck-december-12-2025-charlie-kirk-today](https://www.tbn.org/programs/charlie-kirk-today/episodes/glenn-beck-december-12-2025-charlie-kirk-today)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2025-12-12"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:04:14](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-12-12-erika-kirk-conducted-an-interview-with-g-t-00-04-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(254);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=254s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview
 
@@ -25,7 +34,7 @@ date: "2025-12-12"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:33:09](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1989);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=1989s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erica was speaking to Glenn Beck in December
 
@@ -33,6 +42,6 @@ date: "2025-12-12"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:19:58](/episodes/ep-E7P2ShoYDUA.md#event-event-2025-12-12-erika-kirk-conducted-an-interview-with-g-t-00-19-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1198);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is in December that she's joining Glenn Beck, mid-December that she is joining Glenn Beck

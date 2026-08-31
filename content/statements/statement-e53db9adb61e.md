@@ -32,7 +32,7 @@ type: "accusation"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:11:11](/episodes/ep-5-HUyv9LyMg.md#t-00-11-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(671);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=671s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What's going on here is they have just proven they were willing to lie via redactions to the American people to protect rapists, Israeli rapists, and sex traffickers because they donate to the IDF.
 

@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 **Timestamp:** [00:02:14](/episodes/ep-r1PS67aRmcA.md#t-00-02-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(134);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=r1PS67aRmcA&t=134s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Perry had the memorable moments of the evening other than Ron Paul's corpse leaning forward from the grave and strangling the Jews.
 

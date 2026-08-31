@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2411);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=2411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill,
 

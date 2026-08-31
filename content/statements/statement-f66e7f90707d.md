@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:41:09](/episodes/ep-CMcktj3Egfo.md#t-00-40-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2469);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=2469s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > To Seth Dillon trying to compel me to say something about Nick Fuentes and the emotional manipulation of it all.
 

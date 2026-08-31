@@ -6,6 +6,11 @@ date: "1947"
 ---
 
 **Date:** 1947
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 1947”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1947"
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:04:37](/episodes/ep-ds6umq1rHAw.md#event-event-1947-the-stern-gang-attempted-to-assassinate--t-00-04-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(277);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=ds6umq1rHAw&t=277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > tried to assassinate President Truman by letter bomb in 1947, according to a new biography

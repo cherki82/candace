@@ -70,24 +70,24 @@ Source: [USS Harry E. Hubbard DD-748 June 2026 Newsletter](https://dd748.org/jun
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Parent Of (1)</summary>
+<summary>Formerly Worked For (1)</summary>
 
-- **[Rob McCoy](/entities/person-rob-mccoy.md)**
+- **[United States Navy](/entities/org-united-states-navy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “Pastor Rob McCoy—his father was the naval captain, was a naval captain, Roy Edgar McCoy”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “but a pastor with a very strong military background. Pastor Rob McCoy—his father was the naval captain, was a naval captain, Roy Edgar McCoy. ... But also—and this is kind of shocking—his father was also the assistant chief of staff for psychological warfare in the Navy.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Works For (1)</summary>
+<summary>Parent Of (1)</summary>
 
-- **[United States Navy](/entities/org-united-states-navy.md)**
+- **[Rob McCoy](/entities/person-rob-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “Pastor Rob McCoy—his father was the naval captain, was a naval captain, Roy Edgar McCoy”
 
 </details>
 
@@ -103,10 +103,10 @@ Source: [USS Harry E. Hubbard DD-748 June 2026 Newsletter](https://dd748.org/jun
 
 </details>
 
-- **[United States Navy](/entities/org-united-states-navy.md)** employs this
+- **[United States Navy](/entities/org-united-states-navy.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “but a pastor with a very strong military background. Pastor Rob McCoy—his father was the naval captain, was a naval captain, Roy Edgar McCoy. ... But also—and this is kind of shocking—his father was also the assistant chief of staff for psychological warfare in the Navy.”
 
 </details>
 
@@ -127,7 +127,7 @@ Source: [USS Harry E. Hubbard DD-748 June 2026 Newsletter](https://dd748.org/jun
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Rob McCoy's father, Roy Edgar McCoy, was a naval captain and assistant..."](/statements/statement-429010c52274.md)
+- [00:24:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Rob McCoy's father, Roy Edgar McCoy, was a naval captain and assistant..."](/statements/statement-429010c52274.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>

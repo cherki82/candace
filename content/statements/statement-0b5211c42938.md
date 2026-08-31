@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:27:28](/episodes/ep-69A8TzAGHlU.md#t-00-27-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1648);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=1648s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He comes back and his last correspondence was, I got you covered. ... What else am I to do when a command level person from an accredited police department says, I've got this area?
 

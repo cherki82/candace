@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:40:45](/episodes/ep-BxN2-aeMYIs.md#t-00-40-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2445);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=2445s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, he announced that day before he died. He was left with no choice but to abandon the pro-Israel cause.
 
@@ -38,7 +38,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:35:27](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2127);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > September 9th is when Charlie (Charlie Kirk) sends a message declaring he has left the pro-Israel cause due to their intense bullying and financial pressure.
 

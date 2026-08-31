@@ -26,7 +26,7 @@ type: "prediction"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [01:14:36](/episodes/ep-E7P2ShoYDUA.md#t-01-14-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4476);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=4476s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Because the direction that they're headed, I don't see that this is going to be an organization in 10 years down the road. ... I see it crashing and burning like everybody else does.
 

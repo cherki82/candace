@@ -27,7 +27,7 @@ type: "accusation"
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:05:13](/episodes/ep-G3zdOeHpvS0.md#t-00-04-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(313);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=313s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It would be that simple. And if the feds were in on it, as we all suspect, then they would have gone, okay, where is that? We need to make sure we get rid of this necklace in some capacity.
 

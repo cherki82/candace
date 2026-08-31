@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:23:07](/episodes/ep-eLgD5yUVbko.md#t-00-22-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1387);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=eLgD5yUVbko&t=1387s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they quietly took a board seat. ... Caleb Robinson is the CEO of Daily Wire. ... He is now on the board of directors.
 

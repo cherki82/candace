@@ -6,6 +6,11 @@ date: "2026-05-10"
 ---
 
 **Date:** 2026-05-10
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “7 a.m on a Sunday morning”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-05-10"
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:01:51](/episodes/ep-KpxIBWkNsSs.md#event-event-2026-05-10-project-constitution-posted-a-rumor-that-t-00-01-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(111);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=111s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Project Constitution reported that Andrew Kolvet was getting a divorce and it was just not true.

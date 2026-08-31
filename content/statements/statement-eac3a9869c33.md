@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4393);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4393s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They have gotten Jared Kushner, who's never run a private equity fund, has now a $4 billion private equity fund with 80% of the money coming from the Middle East, of which he continues to raise as he is the ambassador at large on behalf of the Trump administration, not as a political pointy, but simply as a son-in-law of the president.
 

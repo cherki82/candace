@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk was genuinely over supporting Israel towards th..."
-description: "\"Charlie Kirk was genuinely over supporting Israel towards the end because of Jewish behavior, living up to stereotypes of Jewish behavior\" — Candace Owens"
+title: "Candace Owens said, 'I think' Charlie Kirk was genuinely ove..."
+description: "\"Candace Owens said, 'I think' Charlie Kirk was genuinely over supporting Israel toward the end because of what she described as his comments about Jew...\" — Candace Owens"
 statement_id: "statement-c8ca27a62ead"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Charlie Kirk was genuinely over supporting Israel towards the end because of Jewish behavior, living up to stereotypes of Jewish behavior
+> Candace Owens said, 'I think' Charlie Kirk was genuinely over supporting Israel toward the end because of what she described as his comments about Jewish behavior and stereotypes.
 
 ## Attribution
 
@@ -21,14 +21,15 @@ type: "opinion"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
 
 ## Source
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
-**Timestamp:** [00:33:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-33-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2023);return false;">Play</a>
+**Timestamp:** [00:33:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-33-29) 
+<a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=2009s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I think, as I've said, he was genuinely over it towards the end because of Jewish behavior. His words, not mine, leading into the stereotypes of Jewish behavior
+> He was always genuine. And I think, as I've said, he was genuinely over it towards the end because of Jewish behavior. His words, not mine, leading into the stereotypes of Jewish behavior, okay?
 
 ## Verification
 

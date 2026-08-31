@@ -88,10 +88,10 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:12:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07)**
-> "brought to and fought for on our shores by people like Emma Goldman (Emma Goldman) on feminism"
+> "Emma Goldman on feminism,"
 
 **[00:49:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-49-22)**
-> "Emma Goldman (Emma Goldman)—speaking of "Beyond the Pale"—that..."
+> "Emma Goldman—speaking of "Beyond the Pale"—that will make sense."
 
 </details>
 

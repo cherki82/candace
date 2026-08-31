@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:27:35](/episodes/ep-IqHsl7d2dos.md#t-00-27-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1655);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1655s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Here's my perspective. Charlie (Charlie Kirk) was killed in a military operation. That part seems very evident to me. The question now is how far are they going to go to continue this failed cover-up?
 

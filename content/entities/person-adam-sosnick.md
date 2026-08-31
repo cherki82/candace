@@ -1,6 +1,6 @@
 ---
 title: "Adam Sosnick"
-description: "Adam Sosnick (People) - 16 mentions"
+description: "Adam Sosnick (People) - 12 mentions"
 id: "person-adam-sosnick"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Q&A With Adam Sosnick! | Valuetainment](https://valuetainment.com/qa-wi
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56">2025-12-01 · 00:46:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-adam-sosnick-t-00-59-32">2026-08-06 · 00:59:32</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,7 +36,7 @@ Source: [Q&A With Adam Sosnick! | Valuetainment](https://valuetainment.com/qa-wi
 <p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 8 mentions" title="2025-12-01 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19" style="--pulse-height:62%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-adam-sosnick-t-00-59-32" style="--pulse-height:12%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
@@ -45,7 +45,7 @@ Source: [Q&A With Adam Sosnick! | Valuetainment](https://valuetainment.com/qa-wi
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56) | 8 |
-| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19) | 5 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-adam-sosnick-t-00-59-32) | 1 |
 
@@ -55,7 +55,7 @@ Source: [Q&A With Adam Sosnick! | Valuetainment](https://valuetainment.com/qa-wi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -66,19 +66,7 @@ Source: [Q&A With Adam Sosnick! | Valuetainment](https://valuetainment.com/qa-wi
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
-
-**[00:26:43](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19)**
-> "His name is Adam Bartholomew."
-
-**[00:26:45](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19)**
-> "...ever ever said anything about Adam Bartholomew."
-
-**[00:27:11](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19)**
-> "That's Adam and that's his son."
-
-**[00:27:19](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19)**
-> "... it strange, I will say about Adam Bartholomew, that when the shot rings out, he's l..."
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
 
 **[00:47:39](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19)**
 > "...(Tucker Carlson) according to Adam Sosnick."

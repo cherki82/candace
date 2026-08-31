@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:11:06](/episodes/ep-c5BcKF91iec.md#t-00-10-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(666);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=666s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The next time that you're gonna see Mikey McCoy, as we just showed you, is in just under two and a half seconds on the other side of the tent
 

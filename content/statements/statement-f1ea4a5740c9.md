@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:52:47](/episodes/ep-zSKrxIUMNqw.md#t-00-52-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3167);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=zSKrxIUMNqw&t=3167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that's why I turned down millions to say something about Kanye West.
 

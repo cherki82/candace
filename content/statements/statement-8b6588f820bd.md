@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
 **Timestamp:** [00:36:29](/episodes/ep-Ux1kzgQxkws.md#t-00-36-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2189);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=2189s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Bannon saves Andrew Giuliani. saved the quote-unquote laptop which by the way is bullshit like if we can agree on that gaslighting i will agree on the gaslighting of this is that It was never a quote-unquote laptop. ... stolen and hacked material wherever it came from, whether it came from a Delaware repair shop or whether it came, like Lev Parnas says, from Dmitry Furtash, who was trying to sell a hard drive of Hunter Biden's in Ukraine.
 

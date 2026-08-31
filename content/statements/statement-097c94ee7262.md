@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:30:48](/episodes/ep-AH1KVKkweUE.md#t-00-30-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1848);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=1848s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he told me that the first and foremost the ministry of health of russia when he went when they said watch the bill which we were all assuming we were going to have to throw in for it's been taken care of by the ministry of health
 

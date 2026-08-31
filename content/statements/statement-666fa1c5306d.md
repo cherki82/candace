@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
 **Timestamp:** [00:39:33](/episodes/ep-9k2xrAC0H88.md#t-00-39-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2373);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=2373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So on August 25th, it flies into Las Vegas, lands at 448 p.m. local time as SAM000. ... Then on the following day, the 26th, it leaves Las Vegas as a reach flight, 658 ... when you see the call sign changing from an RCH to a Sam, is it fair for me to say that this means that this was somebody who was important and then there was somebody who was extremely important to either got on or got off
 

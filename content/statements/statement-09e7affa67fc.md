@@ -24,7 +24,7 @@ veracity: "true"
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1404);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Having them at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo, ... went over to Wilmington, Delaware.
 

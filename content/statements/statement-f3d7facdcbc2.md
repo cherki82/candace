@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:44:44](/episodes/ep-_cNtgris8Ik.md#t-00-44-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2684);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2684s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > so she was you know charlie offered her a job uh basically right on meeting her kind of saw that she was somebody that could help turning point help the movement in his opinion and then they they you know she explodes onto the scene you know Kanye had that tweet uh where it's like I like the way Candace Owens thinks and it was it was kind of like a rocket ship right And then they had but she became more and more difficult to work with more and more issues with the team. ... I think, you know, she was very aware of her rising star power. And so she started exerting more demands on timing, on where she could be deployed, what schools it basically ... canceling an event with us and our event team still tells this story you know like the day before and we had to scramble to get it replaced because you know she ended up in like france with kanye or something the next day
 

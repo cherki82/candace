@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "false"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2008);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2008s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They had a vision. It was a look at all this land in Palestine. We kind of need a fake incident called October 7th in which we are the masters of it. ... And then we're going to claim to be victims. Then we're going to wipe out an entire population.
 

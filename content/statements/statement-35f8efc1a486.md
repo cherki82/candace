@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:31:23](/episodes/ep-4DvYXBn_5JI.md#t-00-31-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1883);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=1883s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He also says, which was very strange, and I ended up texting both him and Justin Streiff after this, that Erika was at the office all day with Charlie. ... She wasn't on the ninth. She has never made that claim publicly. Actually, the exact opposite thing is what she tells Jesse Watters that Charlie was in the office all day. ... So she was not with him on the ninth.
 

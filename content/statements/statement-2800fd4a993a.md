@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:33:54](/episodes/ep-2T39-oADLj0.md#t-00-33-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2034);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=2034s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a bit of the wire because I was like let me go to someone who actually is not an anti-semite right his parents survived the holocaust and he's a professor who was denied tenure for a ridiculous reason because he's committed to tell the truth about Gaza and he wrote so many books on it and that to me was like wow
 

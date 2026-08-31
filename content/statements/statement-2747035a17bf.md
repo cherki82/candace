@@ -26,8 +26,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1944);return false;">Play</a>
+**Timestamp:** [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-32-08) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=1944s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they went there to cover everything up, to cover everything up, including sending US marshals on a wild goose chase
 

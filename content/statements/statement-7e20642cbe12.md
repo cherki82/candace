@@ -20,13 +20,13 @@ type: "factual_claim"
 
 ## About
 
-- [Thomas Michael Camino](/entities/person-thomas-michael-camino.md) (person)
+- [Thomas Michael Cimino](/entities/person-thomas-michael-cimino.md) (person)
 
 ## Source
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 **Timestamp:** [00:08:46](/episodes/ep-yAIb-NuUh_U.md#t-00-08-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(526);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=526s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In 1990, Camino was placed on probation for pleading no contest to lewd conduct involving children in Manhattan Beach.
 

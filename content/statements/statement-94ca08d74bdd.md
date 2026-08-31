@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:25:27](/episodes/ep-2tFYJf1klgY.md#t-00-25-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1527);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=2tFYJf1klgY&t=1527s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She in particular is working with a lot of actors, directors, people involved in this project are affiliated with Fort Huachuca.
 

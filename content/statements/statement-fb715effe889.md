@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
 **Timestamp:** [00:31:44](/episodes/ep-HGtMfbePDKk.md#t-00-31-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1904);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HGtMfbePDKk&t=1904s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they think that Patrick, that David and his crew over at Valuetainment have not been very kind to me. ... I think that he will moderate fairly. I actually truly believe that he will moderate fairly. ... a PBD offered and Andrew wanted to make that happen. And I said, OK, I am fine.
 

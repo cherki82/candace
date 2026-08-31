@@ -29,15 +29,15 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:31:28](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1888);return false;">Play</a>
+**Timestamp:** [00:31:16](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) 
+<a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1876s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> At which point Erika (Erika Kirk) said she was not aware of that happening.
+> At which point Erika (Erika Kirk) said she was not aware of that happening. It is obviously totally possible that that was kept in the business lane of Turning Point USA.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** No

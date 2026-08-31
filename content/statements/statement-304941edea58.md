@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:05:29](/episodes/ep-ChuWo-n49B8.md#t-00-05-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(329);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=329s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had a source and it was solid that actually he was pressured into coming in and told that he had no other option or they were going to bang down his door.
 

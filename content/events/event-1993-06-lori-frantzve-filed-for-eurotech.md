@@ -6,6 +6,11 @@ date: "1993-06"
 ---
 
 **Date:** 1993-06
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “June of 1993”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "1993-06"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:06:02](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(362);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=362s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lori filed for Eurotech in June of 1993. What does it do? Nobody knows.

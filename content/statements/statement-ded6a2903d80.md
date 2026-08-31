@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:49:16](/episodes/ep-wcD2khO3rOA.md#t-00-48-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2956);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2956s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He used his logistics network through the churches to aid the Contras through his unification church and their connected organizations like CAUSA... And he also ran PR for the Reagan administration regarding U.S.'s involvement in Central America through his newspaper, The Washington Times.
 

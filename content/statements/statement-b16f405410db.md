@@ -23,13 +23,13 @@ type: "factual_claim"
 
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 - [Cabot Phillips](/entities/person-cabot-phillips.md) (person)
-- [Mitch](/entities/person-mitch-fort-huachuca-witness.md) (person)
+- [Mitch Snow](/entities/person-mitch-snow.md) (person)
 
 ## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2539);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=2539s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, I sent him the picture of Cabot Phillips and he says, yes, that's the person I remember being at the base. ... Maybe again, this could be a lookalike. ... I messaged Cabot Phillips twice today actually and asked him if he wanted to have an off record conversation because we can't just like take that to the bank. ... And I can't trust Mitch's vision on this, but it at least is compelling.
 

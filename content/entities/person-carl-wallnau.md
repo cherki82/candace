@@ -3,9 +3,18 @@ title: "Carl Wallnau"
 description: "Carl Wallnau (People) - 1 mention"
 id: "person-carl-wallnau"
 type: "PERSON"
+categories:
+  - "United States Air Force"
+  - "petroleum industry"
 ---
 
 _Type: People_
+
+**Categories:** United States Air Force, petroleum industry
+
+**Entity verification:** verified
+> Congressional Record entry honoring Carl Wallnau confirms his canonical name, Air Force rank, and family including son Lance; it matches the episode context.
+Source: [Congressional Record — Honoring Carl Wallnau](https://www.govinfo.gov/content/pkg/CREC-2018-07-12/pdf/CREC-2018-07-12-pt1-PgH6116.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-carl-wallnau-t-00-16-39">2025-11-10 · 00:17:14</a></strong></div>

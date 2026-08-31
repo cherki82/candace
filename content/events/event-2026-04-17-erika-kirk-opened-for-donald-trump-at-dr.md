@@ -6,6 +6,11 @@ date: "2026-04-17"
 ---
 
 **Date:** 2026-04-17
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “Friday of last week”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2026-04-17"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1386);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=1386s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so she opened for Trump at the Dream City Church in Phoenix.

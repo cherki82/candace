@@ -26,7 +26,7 @@ type: "opinion"
 
 **Episode:** [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md)
 **Timestamp:** [00:28:42](/episodes/ep-k8ueJdPFel4.md#t-00-28-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1722);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=1722s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Big Ben Shapiro energy: just starting fights and thinking that you have enough money or your daddy knows someone, and then, well, Bibi (Benjamin Netanyahu) should do it and that's all that matters. And you can see we're in a mess. Everybody's nervous. Nobody knows where Bibi Netanyahu is or why these weird videos look so AI when he's speaking. I mean, there are rumors that he's dead. He's certainly not acting like he's alive, I'll say that. So I think he's dead. I don't know.
 

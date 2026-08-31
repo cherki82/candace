@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2919);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2919s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the Iran-Contra scandal was a trafficking scandal that involved our government, the CIA, of course, the Mossad. ... Jeffrey Epstein was involved in the Iran-Contra scandal. If the Mossad is to be believed, that's how they first brought him in, running weapons through South America.
 

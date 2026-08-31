@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:15:32](/episodes/ep-1IY2oD-_xVA.md#t-00-15-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(932);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=932s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > marries some top brass in the military. Her second husband, and we're not going to get, just going to give the facts about him, he's a man named Kenneth Himsel, and he's a captain in the Indiana National Guard.
 

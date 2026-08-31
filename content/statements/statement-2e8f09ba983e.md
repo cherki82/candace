@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:03:47](/episodes/ep-1hcjQGgvxUY.md#t-00-03-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(227);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It was about a payment for rent and that is how Jillian (Jillian Falcon) meets Erika Kirk. ... somehow during this rent arrangement, ... Erica (Erika Kirk) and her exchange numbers.
 

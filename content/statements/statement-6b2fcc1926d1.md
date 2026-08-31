@@ -28,7 +28,7 @@ type: "accusation"
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:47:45](/episodes/ep-IqHsl7d2dos.md#t-00-47-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=2865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I even think people who were on Turning Point USA's team who were recently hired as they were boiling that frog could also be potentially working for the United States military or working for NATO in some capacity in production and broadcast journalism. We are pulling on those threads.
 

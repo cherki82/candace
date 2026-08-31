@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
 **Timestamp:** [00:20:59](/episodes/ep-E7P2ShoYDUA.md#t-00-20-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1259);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1259s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And she said, oh, it said the left and it was on signal. And I told you guys that was a double lie. ... She lied again. The message was actually sent. And I message.
 

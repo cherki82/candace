@@ -27,7 +27,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -271,7 +271,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 > "There is Ivanka."
 
 **[01:06:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
-> "There is Ivanka, Trump couldnt do anything without getting his daughter back"
+> "Trump (Donald J. Trump) wouldn't and couldn't do anything without getting his daughter back.""
 
 </details>
 
@@ -284,9 +284,10 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <summary>Child Of (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Ivanka and the Middle East”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:06:20](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20): “There is Ivanka. Trump (Donald J. Trump) wouldn't and couldn't do anything without getting his daughter back.”
 
 </details>
 
@@ -317,6 +318,18 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 </details>
 
 <details>
+<summary>Invested In (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:38:57](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I understand Jared and Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Married To (1)</summary>
 
 - **[Jared Kushner](/entities/person-jared-kushner.md)**
@@ -341,12 +354,19 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:34:28](/episodes/ep-tXoI0TTKVrs.md#t-00-34-01): “Ivanka (Ivanka Trump) said years ago, she got on her friend's boat and they decided to go for a swim. And they went for a swim and she said, and I quote, that's effectively how we found the island. Well, who knew she was Leif Erikson? Ivanka (Ivanka Trump) the Red, nobody knew this island was before Ivanka (Ivanka Trump) and her friend Nat (Nathaniel Rothschild) probably was a small boat.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** has investor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:38:57](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I understand Jared and Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet.”
 
 </details>
 
@@ -358,9 +378,10 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Ivanka and the Middle East”
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:06:20](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20): “There is Ivanka. Trump (Donald J. Trump) wouldn't and couldn't do anything without getting his daughter back.”
 
 </details>
 

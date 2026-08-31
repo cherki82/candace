@@ -28,8 +28,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:08:11](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(491);return false;">Play</a>
+**Timestamp:** [00:08:11](/episodes/ep-7RLtGgkTh9o.md#t-00-08-06) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=491s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Only months after arguing that his daughter was incapacitated and therefore needed to be under his control, Mr. Spears committed her to an eight-month tour named Circus.
 

@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:21:35](/episodes/ep-c5BcKF91iec.md#t-00-21-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1295);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=1295s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He said, "Yes, it is new. In fact, this was the first time we were doing it." He said there were two people—two ops watching it back in Arizona.
 

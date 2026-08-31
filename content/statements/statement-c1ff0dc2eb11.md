@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:08:23](/episodes/ep-9hRcfSrri70.md#t-00-08-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(503);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And yesterday we showed you that Terrell (Terrell Farnsworth) pocketed that SD card. We were all wondering what he did with it and he pocketed it before he began texting on his phone, his mannerisms, or he's looking around.
 

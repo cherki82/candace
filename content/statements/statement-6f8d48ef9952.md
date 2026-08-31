@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:39:35](/episodes/ep-tXoI0TTKVrs.md#t-00-39-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2375);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=2375s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Earlier this week, Albania's State Anti-Corruption Agency announced it was opening an investigation into the project, though it has yet to disclose further details.
 

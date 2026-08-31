@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:08:01](/episodes/ep-ZAsV0fHGBiM.md#t-00-07-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(481);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=481s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She appears to pursue proximity to power, ... moving fluidly between television, ... non-profits, ... branding opportunities, ... and ideological spaces that maximize her exposure.
 

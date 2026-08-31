@@ -130,7 +130,7 @@ Source: [Panguitch City — Dining directory](https://panguitchutah.gov/business
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:08:38](/episodes/ep-HYn0P-P1wUw.md#t-00-08-14) (Claim) **Candace Owens**: ["The FBI possesses the Cowboy Smokehouse receipt documenting Tyler Robi..."](/statements/statement-dff1d8971892.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:10:04](/episodes/ep-HYn0P-P1wUw.md#t-00-09-43) (Claim) **Candace Owens**: ["Tyler Robinson arrived at Cowboy Smokehouse at approximately 8:45 p.m...."](/statements/statement-fc81a7fec897.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)

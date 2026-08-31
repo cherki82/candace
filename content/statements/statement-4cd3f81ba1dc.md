@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:38:45](/episodes/ep-wcD2khO3rOA.md#t-00-38-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2325);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=2325s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > almost like they were trying to turn Charlie into a messianic figure... We felt like this was actually about money
 

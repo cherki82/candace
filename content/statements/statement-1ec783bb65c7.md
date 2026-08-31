@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:11:50](/episodes/ep-EtLHqDbxqks.md#t-00-11-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(710);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to be clear that I have never denied that the gun found was indeed Tyler Robinson's gun, but rather I have asserted that the gun was not fired on that day and was not used to kill Charlie Kirk.
 

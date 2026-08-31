@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:14:40](/episodes/ep-kaWtDuoY_ns.md#t-00-14-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(880);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=kaWtDuoY_ns&t=880s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so what that means is that the State Bureau of Investigations, okay, that's the SBI, basically has their hands tied behind their back. They've said that. We have our hands tied behind our back. We are essentially waiting. ... The defense is explaining that the SBI is waiting for the FBI, Kash Patel's agency. ... to send them over their many discovery requests from everything they gathered on that day and they're just not doing it in a timely fashion
 

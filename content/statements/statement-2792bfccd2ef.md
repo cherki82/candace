@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:05:57](/episodes/ep-ti5Fxrvegno.md#t-00-05-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(357);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=357s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He then has what looks like an emergency Zoom call with Rabbi Wolicki (Rabbi Pesach Wolicki). Now, I want you to bear in mind, this is 4 a.m. in Israel. Rabbi Wolicki (Rabbi Pesach Wolicki) lives in Israel. It's 4 a.m. and he's going to jump on this call with Charlie (Charlie Kirk). And he was just on this chat. He was on the chat two hours earlier before this call when Charlie (Charlie Kirk) said that he would no longer be bullied.
 

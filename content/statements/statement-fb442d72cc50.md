@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:12:40](/episodes/ep-4YgrOhhy708.md#t-00-12-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(760);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4YgrOhhy708&t=760s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And when people streamed it, ... it looks like the 2022 World Cup comes into the second spot Brazil versus Croatia when it was streamed on YouTube, ... 6.1 million people tuned in again.
 

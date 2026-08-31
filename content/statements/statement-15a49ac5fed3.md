@@ -1,8 +1,8 @@
 ---
 title: "Investigators found a bolt action rifle wrapped in a towel i..."
-description: "\"Investigators found a bolt action rifle wrapped in a towel in wooded area with one spent round and three unspent rounds inscribed with 'Hey, fascist, ...\" — Candace Owens"
+description: "\"Investigators found a bolt action rifle wrapped in a towel in wooded area with one spent round and three unspent rounds inscribed with 'Hey, fascist, ...\" — Utah County Attorney's Office"
 statement_id: "statement-15a49ac5fed3"
-speaker: "Candace Owens"
+speaker: "Utah County Attorney's Office"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -15,16 +15,17 @@ veracity: "mixed"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md) (Quoted)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Quoted from document
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Utah County probable cause statement
 
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:12:01](/episodes/ep-q7f8r-THr84.md#t-00-11-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(721);return false;">Play</a>
+**Timestamp:** [00:12:01](/episodes/ep-q7f8r-THr84.md#t-00-11-31) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=721s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In that wooded area, investigators found a bolt action rifle wrapped in a towel
 

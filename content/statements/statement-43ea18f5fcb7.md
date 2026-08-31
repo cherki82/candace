@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:11:58](/episodes/ep-69A8TzAGHlU.md#t-00-11-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(718);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You can't fly drones in Provo airspace. Well, I actually spoke to someone regarding that who has. good knowledge of the rules regarding Provo airspace and he said yeah you can't fly in Provo airspace meaning around airports you would have to get clearance you can't fly near hangars but you can fly drones in Provo so his his whole excuse of why he didn't even bring drones
 

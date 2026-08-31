@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,8 +30,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1555);return false;">Play</a>
+**Timestamp:** [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-39) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1555s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We just separated in September because the Kardashians are the slimiest pile of garbage on the planet. ... They actually have blood on their hands, and I know everything.
 

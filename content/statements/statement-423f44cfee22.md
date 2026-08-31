@@ -1,17 +1,17 @@
 ---
-title: "I said, 'No person, nobody, no nation anywhere in the world ..."
-description: "\"I said, 'No person, nobody, no nation anywhere in the world has a right to commit genocide.'\" — Candace Owens"
+title: "Candace Owens said, 'No person, nobody, no nation anywhere i..."
+description: "\"Candace Owens said, 'No person, nobody, no nation anywhere in the world has a right to commit genocide.'\" — Candace Owens"
 statement_id: "statement-423f44cfee22"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
-> I said, 'No person, nobody, no nation anywhere in the world has a right to commit genocide.'
+> Candace Owens said, 'No person, nobody, no nation anywhere in the world has a right to commit genocide.'
 
 ## Attribution
 
@@ -20,13 +20,17 @@ veracity: "false"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+
 ## Source
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:55:39](/episodes/ep-q7f8r-THr84.md#t-00-55-29) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3339);return false;">Play</a>
+**Timestamp:** [00:55:37](/episodes/ep-q7f8r-THr84.md#t-00-55-24) 
+<a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=3337s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I said, "No person, nobody, no nation anywhere in the world has a right to commit genocide." And I was suddenly being flooded with messages from people
+> I remember the tweet. I said, "No person, nobody, no nation anywhere in the world has a right to commit genocide."
 
 ## Verification
 
@@ -47,4 +51,4 @@ Owens accurately recalled the substance but not the wording of her earlier post.
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

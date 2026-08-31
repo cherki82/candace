@@ -30,9 +30,9 @@ type: "accusation"
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
 **Timestamp:** [00:03:04](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(184);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I knew that he was working with Bari Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candice gone
+> And I knew that he was working with Bari Weiss ... to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.
 
 ## Verification
 

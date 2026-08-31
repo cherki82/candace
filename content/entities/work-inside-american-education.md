@@ -3,9 +3,17 @@ title: "Inside American Education"
 description: "Inside American Education (Works & Media) - 2 mentions"
 id: "work-inside-american-education"
 type: "WORK"
+categories:
+  - "education policy book"
 ---
 
 _Type: Works & Media_
+
+**Categories:** education policy book
+
+**Entity verification:** verified
+> Hoover Institution identifies Inside American Education as Thomas Sowell's book on the American education system.
+Source: [Inside American Education | Hoover Institution](https://www.hoover.org/research/inside-american-education)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-work-inside-american-education-t-00-17-52">2025-09-24 · 00:18:16</a></strong></div>

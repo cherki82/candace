@@ -31,7 +31,7 @@ veracity: "false"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:16:39](/episodes/ep-MhakwJxK-Zk.md#t-00-16-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(999);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Two primary models emerged. One proposed a voluntary departure plan. $9,000 in cash per person aimed at relocating around 500,000 Palestinians outside of the Gaza Strip. A second model lowered direct payments to $5,000 but added four years of subsidized housing and one year of food assistance.
 

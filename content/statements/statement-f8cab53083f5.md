@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:11:33](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(693);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=693s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so Gigi (Charlie and Erika Kirk's daughter; full name unverified) and I stayed in our room and that morning he woke up super early and he came into our bedroom, into the bathroom because that's where his wedding ring was and his necklace and he came in and he grabbed that and then he left. I didn't even get to give him a kiss goodbye.
 

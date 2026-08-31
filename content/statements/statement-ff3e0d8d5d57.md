@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3789);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=3789s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But he's always in that way. I mean, he notoriously supported Jonathan Pollard, who was a literal American spy.
 

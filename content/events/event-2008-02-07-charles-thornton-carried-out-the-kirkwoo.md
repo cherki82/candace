@@ -6,6 +6,11 @@ date: "2008-02-07"
 ---
 
 **Date:** 2008-02-07
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “February 7th, 2008”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2008-02-07"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:41:30](/episodes/ep-y8lak3CRwDw.md#event-event-2008-02-07-charles-thornton-carried-out-the-kirkwoo-t-00-41-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2490);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2490s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charles Thornton. He went by Cookie, and he went on a shooting rampage at a city council meeting
 
@@ -25,6 +30,6 @@ date: "2008-02-07"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:42:38](/episodes/ep-y8lak3CRwDw.md#event-event-2008-02-07-charles-thornton-carried-out-the-kirkwoo-t-00-41-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2558);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2558s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > regarding that shooting in Missouri in 2008, he appears in news clip and he speaks about cookie.

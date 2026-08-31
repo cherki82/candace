@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:15:42](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(942);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And those items, as we learned, were then recovered by Sergeant Jennifer Faumuina of the State Bureau of Investigations, her office. And I have to say this, Jennifer Faumuina rubs me the wrong way.
 

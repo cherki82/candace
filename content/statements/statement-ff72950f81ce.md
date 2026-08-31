@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:14:35](/episodes/ep-5-HUyv9LyMg.md#t-00-14-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(875);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=875s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We're so proud to have her and we're so proud of the incredible work that she is doing to help encourage students across the country to engage and join Club America, which we're launching here in Arkansas.
 

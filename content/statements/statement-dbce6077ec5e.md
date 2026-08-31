@@ -7,7 +7,7 @@ type: "promise"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:01:54](/episodes/ep-1QZ4X6q1DPg.md#t-00-01-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(114);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I said I abide by the jury decision. I will do that and I will not pardon him.
 

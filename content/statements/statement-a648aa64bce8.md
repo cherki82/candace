@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [01:21:16](/episodes/ep-SKNJPul29zU.md#t-01-21-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4876);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=4876s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he's speaking out against it and he's taking a huge risk. And guess what? He's got a lot of support, not just from conservatives, but also I'm noticing, you know, the biggest voting block now. ... our independence and he has a lot of support among independents as well
 

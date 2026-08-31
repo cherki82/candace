@@ -26,7 +26,7 @@ type: "factual_claim"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1696);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=1696s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I lost a job in part for saying that pornography is a spiritual weapon against men and that we needed to look into the history of pornography.
 

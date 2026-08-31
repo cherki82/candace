@@ -31,7 +31,7 @@ type: "accusation"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:42:20](/episodes/ep-y8lak3CRwDw.md#t-00-42-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2540);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=2540s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I actually have heard from people that Erika pushed for Justin Streiff. And I will say allegedly there because this is Turning Point employees that are saying that, that Erika was driving Charlie to give Justin Streiff more power. ... Again, I cannot confirm that. That is a Turning Point employees. Everyone can say that until I have proof.
 

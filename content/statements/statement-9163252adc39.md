@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [00:38:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-38-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2306);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=2306s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And probably the difference between me and maybe others that, you know, I've done stuff is there, we don't charge people to set them free. We do this out of love. There's no financial benefit for it, especially kids are incarcerated, but I have over 6,000 letters. ... Here in our headquarters of kids that we've written, we've corresponded back and forth that really were helped in this.
 

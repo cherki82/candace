@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "unverifiable"
 ---
 
-**Status:** ? Cannot be verified
+**Status:** ? Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "unverifiable"
 
 **Episode:** [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md)
 **Timestamp:** [00:17:40](/episodes/ep-CEF7gQRWYCE.md#t-00-17-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1060);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=CEF7gQRWYCE&t=1060s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the lesson is that this is all information that the DOJ wants to hide from us,
 

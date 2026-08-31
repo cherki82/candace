@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:37:43](/episodes/ep-AH1KVKkweUE.md#t-00-37-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2263);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=2263s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, Blake (Blake Neff), I think, said Charlie (Charlie Kirk) would support Trump (Donald J. Trump) with the Iran war; he would support him.
 

@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2575);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=2575s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think that she is not leading that organization in a direction that Charlie Kirk would have let it.
 

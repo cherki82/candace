@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:46:26](/episodes/ep-EtLHqDbxqks.md#t-00-46-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2786);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2786s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And they accidentally left their computer open, so Court TV captured some of that footage. And you can see that it is literally the exact same video as 12.4, but it's been zoomed in.
 

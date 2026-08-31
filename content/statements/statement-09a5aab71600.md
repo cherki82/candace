@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:08:06](/episodes/ep-4DvYXBn_5JI.md#t-00-07-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(486);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=486s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Harpole did not coordinate with Charis Bible College nor the Woodland Police Department because he was not advised that Charlie would be visiting the school.
 

@@ -6,6 +6,11 @@ date: "2020"
 ---
 
 **Date:** 2020
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “in 2020”
 
 ## Event
 
@@ -17,7 +22,7 @@ date: "2020"
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:40:45](/episodes/ep-cZxHqYsWRYg.md#event-event-2020-erika-kirk-gave-an-interview-reflecting--t-00-40-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2445);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=2445s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I prayed for God to just strip my ego from all of that stuff, all of that world, all of the plastic
 
@@ -25,6 +30,6 @@ date: "2020"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:20:28](/episodes/ep-y8lak3CRwDw.md#event-event-2020-erika-kirk-gave-an-interview-reflecting--t-00-20-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1228);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=1228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika actually did a podcast in 2020 and she was reflecting on her time in Romania in 2012 or 2013.

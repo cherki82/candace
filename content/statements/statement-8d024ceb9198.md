@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:18:01](/episodes/ep-UYkXV9mYbT4.md#t-00-18-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1081);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=1081s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Like I said, I've spoken to SWAT, local police departments, sources close to the accused, WVU students, people that work at WVU. Everyone is saying the feds are a part of a broader conspiracy and based on the evidence I am seeing and based on these filings, which I am about to show you, I believe that.
 

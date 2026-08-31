@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:11:42](/episodes/ep-sKuYLNx3iRo.md#t-00-11-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(702);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=702s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And so I'm on my knees with the door open with my butt hanging out of the side and I'm on my knees doing the medical and Justin (Justin Davis)'s driving, you know, we're going 60, 80, 100 and Rick (Rick Cutler) has me.
 

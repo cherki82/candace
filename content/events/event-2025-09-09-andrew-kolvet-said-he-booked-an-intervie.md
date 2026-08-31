@@ -6,6 +6,11 @@ date: "2025-09-09"
 ---
 
 **Date:** 2025-09-09
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “the day before”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2025-09-09"
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:31:33](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-09-andrew-kolvet-said-he-booked-an-intervie-t-00-31-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1893);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1893s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I had booked an interview for him that he was not super pleased that I booked for him

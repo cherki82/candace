@@ -28,7 +28,7 @@ veracity: "mixed"
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:14:25](/episodes/ep-5zgkrOaCCj4.md#t-00-14-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(865);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5zgkrOaCCj4&t=865s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > OK, as it currently stands, they want us to believe that Tyler Robinson slept at home. And then woke himself up before 4 a.m. on September 10th of 2025 because he had to leave his house in St. George before 4 a.m. to make it up to campus when they then catch him walking by the neighbor's house at 8.07 a.m. That's that TMZ released footage, 8.07 a.m.
 

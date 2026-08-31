@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-03-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(258);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=258s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and I just think on the basis of what he told me. that when he was really young they wanted to drug him but his mother said no and he was really grateful for that and instead they decided that they could send him to this x-men school that's the best way I can describe it I would certainly by the way for you internet sleuths I'd like to find out which school Charlie had to attend so he was pulled out of the regular school he was attending and he had to go to some special school for the gifted like he was an x-man
 
@@ -37,7 +37,7 @@ veracity: "unverifiable"
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:33:16](/episodes/ep-A39g5oqB_eM.md#t-00-32-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1996);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=1996s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I know that Charlie (Charlie Kirk) told me the story that they wanted to drug him. ... When he was a kid, but his mom said no, my kid's a genius and instead, ... because his mother refused, they instead put him into this special school.
 

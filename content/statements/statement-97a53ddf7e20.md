@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:11:58](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(718);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Mr. Spears gave tens of thousands of dollars in one year alone to the church, which is about 500 miles away from where he lives in Louisiana.
 

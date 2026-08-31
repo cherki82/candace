@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:35:53](/episodes/ep-EtLHqDbxqks.md#t-00-35-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2153);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=2153s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > There were signs of degradation present in that sample, yes. ... There was—uh, yes.
 

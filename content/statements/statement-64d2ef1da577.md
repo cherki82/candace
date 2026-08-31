@@ -1,36 +1,40 @@
 ---
-title: "Maybe Turning Point will have some very clear answers. They ..."
-description: "\"Maybe Turning Point will have some very clear answers. They haven't given us any thus far, just more attacks on Candace, more people reporting to be C...\" — Candace Owens"
+title: "Owens said Turning Point USA might eventually give clear ans..."
+description: "\"Owens said Turning Point USA might eventually give clear answers but had not done so and had instead responded with attacks on her, including attacks ...\" — Candace Owens"
 statement_id: "statement-64d2ef1da577"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Maybe Turning Point will have some very clear answers. They haven't given us any thus far, just more attacks on Candace, more people reporting to be Christians attacking Candace, using biblical scripture
+> Owens said Turning Point USA might eventually give clear answers but had not done so and had instead responded with attacks on her, including attacks from people professing to be Christians who used scripture.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:56:37](/episodes/ep-a-e7HC6SeK8.md#t-00-56-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3397);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=a-e7HC6SeK8&t=3397s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They haven't given us any thus far—just more attacks on Candace (Candace Owens), more people reporting to be Christians attacking Candace (Candace Owens), using biblical scripture
+> Maybe Turning Point will have some very clear answers. They haven't given us any thus far—just more attacks on Candace (Candace Owens), more people reporting to be Christians attacking Candace (Candace Owens), using biblical scripture.
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

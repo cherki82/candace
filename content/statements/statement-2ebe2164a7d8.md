@@ -23,8 +23,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
-**Timestamp:** [00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1001);return false;">Play</a>
+**Timestamp:** [00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-25) 
+<a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=1001s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Lie number five: the magnificent Mikey McCoy called his dad first
 

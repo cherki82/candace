@@ -1,6 +1,6 @@
 ---
-title: "Rob McCoy tried to launder the reputation of a pedophile"
-description: "\"Rob McCoy tried to launder the reputation of a pedophile\" — Candace Owens"
+title: "Owens accused Rob McCoy of 'defending a pedophile or trying ..."
+description: "\"Owens accused Rob McCoy of 'defending a pedophile or trying to ... launder the reputation of' one\" — Candace Owens"
 statement_id: "statement-1c4876037db4"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Rob McCoy tried to launder the reputation of a pedophile
+> Owens accused Rob McCoy of 'defending a pedophile or trying to ... launder the reputation of' one
 
 ## Attribution
 
@@ -25,10 +25,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
-**Timestamp:** [00:14:31](/episodes/ep-6DhWawD4ZiM.md#t-00-14-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(871);return false;">Play</a>
+**Timestamp:** [00:14:27](/episodes/ep-6DhWawD4ZiM.md#t-00-14-06) 
+<a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=867s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> We actually are showing a clip of Rob (Rob McCoy) defending a pedophile or trying to like launder the reputation of... That's fam. That's the CK show fam.
+> If you call them fam, you can't critique them, right? Oh, I'm sorry. We actually are showing a clip of Rob (Rob McCoy) defending a pedophile or trying to like launder the reputation of... That's fam.
 
 ## Verification
 

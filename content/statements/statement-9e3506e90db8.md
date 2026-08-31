@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [01:02:10](/episodes/ep-EtLHqDbxqks.md#t-01-02-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3730);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=3730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I got the news that Charlie (Charlie Kirk) had been shot and my security was on the phone with Charlie (Charlie Kirk)'s security because nobody knew what the hell was going on while Charlie (Charlie Kirk) was still in the back of the car and we were sort of getting updates along the way. ... Again, I know that only because my security was talking to his security in the car.
 

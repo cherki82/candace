@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:05:53](/episodes/ep-EtLHqDbxqks.md#t-00-05-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(353);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=EtLHqDbxqks&t=353s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So to reiterate and to summarize what we've already said, the evidence presented this week just during the pre-trial evidentiary hearings in the Charlie Kirk assassin trial, the trial of Tyler Robinson, is the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life, my entire ... life.
 

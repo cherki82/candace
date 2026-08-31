@@ -32,7 +32,7 @@ veracity: "true"
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:16:00](/episodes/ep-MhakwJxK-Zk.md#t-00-16-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(960);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=960s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This website tells us—and I'm going to read this website directly—it says, launched in late 2024, Project Aurora was originally framed as a pro bono feasibility study for the Gaza Humanitarian Foundation, a Geneva-registered NGO created with backing from U.S. and Israeli security-linked interests. Over seven months, the project evolved into fully billed ... consulting contracts reportedly worth $4 million. According to a series of leaked documents obtained by the Financial Times, the core of the work focused on estimating the financial costs of various scenarios for Gaza’s post-conflict future.
 

@@ -1,16 +1,16 @@
 ---
-title: "Ben Shapiro knows something about Erika Kirk that he is fear..."
-description: "\"Ben Shapiro knows something about Erika Kirk that he is fearful will come out\" — Candace Owens"
+title: "Owens said she thought Ben Shapiro knew something about Erik..."
+description: "\"Owens said she thought Ben Shapiro knew something about Erika Kirk and was fearful about it\" — Candace Owens"
 statement_id: "statement-3df10f2d2cce"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Ben Shapiro knows something about Erika Kirk that he is fearful will come out
+> Owens said she thought Ben Shapiro knew something about Erika Kirk and was fearful about it
 
 ## Attribution
 
@@ -26,10 +26,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
-**Timestamp:** [00:30:49](/episodes/ep-w1oqQbR_bYs.md#t-00-30-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1849);return false;">Play</a>
+**Timestamp:** [00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00) 
+<a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=36s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Didn't like Charlie. You're telling me he's just obsessed with defending the honor of his widow? No, he's fearful. He's fearful of something about Erika Kirk.
+> Personally, I think he knows something about her. That is what I am sensing that he knows something about Erika Kirk.
 
 ## Verification
 
@@ -37,4 +37,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

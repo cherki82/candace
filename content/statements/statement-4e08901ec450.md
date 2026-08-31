@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:21:43](/episodes/ep-SKGUzGHymcI.md#t-00-21-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1303);return false;">Play</a>
+**Timestamp:** [00:21:43](/episodes/ep-SKGUzGHymcI.md#t-00-21-30) 
+<a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=1303s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to know why the decision was made to murder Charlie (Charlie Kirk), a decision that very clearly had to be approved by Charlie (Charlie Kirk)'s friends.
 

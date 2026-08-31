@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:54:29](/episodes/ep-y8lak3CRwDw.md#t-00-53-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3269);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=3269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They bring us their gambling. Miriam Adelson served in the IDF. Sheldon Adelson said his biggest regret in life was that he didn't.
 

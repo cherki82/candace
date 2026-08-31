@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
 **Timestamp:** [00:12:08](/episodes/ep-WoXd4oLwd3w.md#t-00-11-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(728);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=728s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It actually had nothing to do with the person that it was blamed on and Trump (Donald Trump) did escape with his life and it was a warning.
 

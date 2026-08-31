@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:07:10](/episodes/ep-y8lak3CRwDw.md#t-00-07-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(430);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=y8lak3CRwDw&t=430s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Slot machines. Yeah, no. On January 1st, 2007, eight years after Elena and Nicolae were shot, Romania officially joined the EU alongside Bulgaria.
 

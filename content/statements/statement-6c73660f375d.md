@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md)
 **Timestamp:** [01:13:43](/episodes/ep-Dkxa9OUA9K8.md#t-01-13-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Dkxa9OUA9K8&t=4423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It ... says a ... high-risk humanitarian who has rescued more than 45,000 women and children. So, okay, ... victor2026.com.
 

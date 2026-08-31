@@ -27,7 +27,7 @@ type: "opinion"
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:33:26](/episodes/ep-h76ZN-xXC6c.md#t-00-32-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2006);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=h76ZN-xXC6c&t=2006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, objectively speaking, the actions of the Turning Point USA team look infinitely more suspicious to me than Tyler Robinson's. I'm just going to put that out there.
 

@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:09:34](/episodes/ep-wcD2khO3rOA.md#t-01-09-31) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4174);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=4174s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > His imprisonment has raised concerns about religious freedom in South Korea. ... Pastor Hyun-bo Son remains jailed in South Korea on election law charges and has drawn attention from the Korean administration for his stance on biblical truths.
 

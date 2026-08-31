@@ -23,7 +23,7 @@ type: "factual_claim"
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:17:20](/episodes/ep-czVBmqZP6Ss.md#t-00-17-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1040);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=1040s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I know that Charlie was offered a ton of money in this moment
 

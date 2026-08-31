@@ -21,7 +21,7 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-org-vanity-fair-t-00-43-34">2026-01-27 · 00:44:06</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -97,6 +97,40 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:06](/episodes/ep-A39g5oqB_eM.md#t-00-43-34): “Kanye (Kanye West)'s apology also sat down with Vanity Fair or answered questions for Vanity Fair about this apology,”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Vanity Fair (8)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (8)</summary>
+
+- [00:07:03](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) [✓] (Claim) ["Robert Richards the Fourth was in 2009 convicted of raping his three-year-old da..."](/statements/statement-479c680fd9b3.md)
+  - About: [DuPont family](/entities/org-dupont-family.md), [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
+
+- [00:07:30](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) [○] (Claim) ["the judge who sentenced the heir to the DuPont fortune let him off with no jail ..."](/statements/statement-bbd8ddc04d5b.md)
+  - About: [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md), [Jan Jurden](/entities/person-jan-jurden.md)
+
+- [00:07:36](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) [○] (Claim) ["Vanity Fair reported that Judge Jan Jurden ruled Robert Richards IV would benefi..."](/statements/statement-be46c84a7274.md)
+  - About: [Jan Jurden](/entities/person-jan-jurden.md), [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
+
+- [00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27) [✓] (Claim) ["his father is Robert H. Richards, a retired partner in the Richards, Layton & Fi..."](/statements/statement-ebdcdf4144ee.md)
+  - About: [Robert H. Richards III](/entities/person-robert-h-richards-iii.md), [Richards, Layton & Finger](/entities/org-richards-layton-finger.md)
+
+- [00:09:20](/episodes/ep-a-e7HC6SeK8.md#t-00-09-06) [○] (Claim) ["also admitted to sexually assaulting his infant son"](/statements/statement-9522a2f788ed.md)
+  - About: [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
+
+- [00:09:37](/episodes/ep-a-e7HC6SeK8.md#t-00-09-06) [○] (Claim) ["Vanity Fair reported that Robert Richards IV was initially charged with two coun..."](/statements/statement-d20a4edf0880.md)
+  - About: [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
+
+- [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) [○] (Claim) ["John DuPont shot Olympic wrestler David Schultz dead in the driveway of the fami..."](/statements/statement-9a8d4a44b905.md)
+  - About: [DuPont family](/entities/org-dupont-family.md), [David Schultz](/entities/person-david-schultz.md), [John DuPont](/entities/person-john-dupont.md)
+
+- [00:10:20](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) [○] (Claim) ["Vanity Fair reported that a Las Vegas sex worker's decomposing body was found in..."](/statements/statement-0cd5b2b1df5b.md)
+  - About: [DuPont family](/entities/org-dupont-family.md)
 
 </details>
 

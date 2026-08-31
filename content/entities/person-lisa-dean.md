@@ -5,11 +5,20 @@ id: "person-lisa-dean"
 type: "PERSON"
 aliases:
   - "Lisa Dean"
+  - "Lisa Dean Moseley"
+categories:
+  - "du Pont family member"
 ---
 
 _Type: People_
 
-**Also known as:** Lisa Dean
+**Also known as:** Lisa Dean, Lisa Dean Moseley
+
+**Categories:** du Pont family member
+
+**Entity verification:** verified
+> Dominick Dunne's Vanity Fair report identifies Lisa Dean Moseley as a du Pont family member and Christopher Moseley's wife, matching the source context.
+Source: [In Cold, Blue Blood](https://www.vanityfair.com/style/1999/09/dunne199909)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-lisa-dean-t-00-10-27">2025-12-02 · 00:10:39</a></strong></div>
@@ -18,7 +27,7 @@ _Type: People_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,12 +65,24 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Married To (1)</summary>
+
+- **[Christopher Moseley](/entities/person-christopher-moseley.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. ... So she and her husband, Christopher Moseley, had her killed.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Member Of (1)</summary>
 
 - **[DuPont family](/entities/org-dupont-family.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “...It appeared that Lisa Dean, who is a DuPont, didn't approve...”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker.”
 
 </details>
 
@@ -73,7 +94,7 @@ _Type: People_
 - **[DuPont family](/entities/org-dupont-family.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “...It appeared that Lisa Dean, who is a DuPont, didn't approve...”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker.”
 
 </details>
 
@@ -87,7 +108,7 @@ _Type: People_
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
 
-- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Candace Owens** (via paraphrase): ["the money traced back to the DuPont family. It appeared that Lisa Dean..."](/statements/statement-7c3e83eb0a33.md)
+- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Dominick Dunne** (via quoted article): ["Dominick Dunne reported that money for the killing traced back to the ..."](/statements/statement-7c3e83eb0a33.md)
   - Also about: [DuPont family](/entities/org-dupont-family.md), [Christopher Moseley](/entities/person-christopher-moseley.md)
 
 </details>

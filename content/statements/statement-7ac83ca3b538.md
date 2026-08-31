@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:42:33](/episodes/ep-ChuWo-n49B8.md#t-00-42-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2553);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2553s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > say that they are working behind the scenes with the same PR agents, the same vicious crisis PR firms that employed Hollywood is now employing these groups like Turning Point USA, is now employing these influencers that are targeting your children.
 

@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:54:05](/episodes/ep-2WEHTk0Xewg.md#t-00-53-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3245);return false;">Play</a>
+**Timestamp:** [00:54:05](/episodes/ep-2WEHTk0Xewg.md#t-00-53-57) 
+<a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=3245s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I want to let you know I was able to figure out who that person was because I recognized one of the individuals, and I've reached out to that individual and I said, "You know, I've known you for a long time, and I would like to see the footage.
 

@@ -1,6 +1,6 @@
 ---
 title: "Diddy"
-description: "Diddy (People) - 14 mentions"
+description: "Diddy (People) - 16 mentions"
 id: "person-diddy"
 type: "PERSON"
 aliases:
@@ -25,8 +25,8 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28">2025-11-13 · 00:22:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28">2026-06-10 · 00:03:55</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 <p>Highest activity: <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09">Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28" style="--pulse-height:86%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 6 mentions" title="2025-11-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-15-24" style="--pulse-height:29%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38" style="--pulse-height:14%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
 </div>
@@ -46,6 +47,7 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28) | 6 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-15-24) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09) | 7 |
 
@@ -55,7 +57,7 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (7 mentions)</summary>
@@ -88,6 +90,17 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 
 **[00:22:03](/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38)**
 > "what was happening with Diddy and Cassie (Cassie Ventura)"
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+
+**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-15-24)**
+> "...s Justin Bieber. I believe P. Diddy, I believe, has a house there as well."
+
+**[00:28:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-28-26)**
+> "...Taylor for Kim Kardashian and Diddy.""
 
 </details>
 

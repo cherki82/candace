@@ -1,6 +1,6 @@
 ---
-title: "She says that she has seen the autopsy report"
-description: "\"She says that she has seen the autopsy report\" — Candace Owens"
+title: "Owens paraphrased Erika Kirk as saying she had seen the auto..."
+description: "\"Owens paraphrased Erika Kirk as saying she had seen the autopsy report.\" — Candace Owens"
 statement_id: "statement-30ad6a99227a"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,22 +11,27 @@ veracity: "true"
 
 ## Statement
 
-> She says that she has seen the autopsy report
+> Owens paraphrased Erika Kirk as saying she had seen the autopsy report.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Paraphrased
+
+## About
+
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
 ## Source
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:13:34](/episodes/ep-vwG1juDCQZQ.md#t-00-13-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(814);return false;">Play</a>
+**Timestamp:** [00:13:30](/episodes/ep-vwG1juDCQZQ.md#t-00-13-30) 
+<a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=810s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> She says that she has seen the autopsy report
+> She says that she has seen the autopsy report.
 
 ## Verification
 

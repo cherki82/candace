@@ -29,7 +29,7 @@ veracity: "unverifiable"
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:11:34](/episodes/ep-DdPjoy5W-wY.md#t-00-11-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(694);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=694s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In fact, some people have done work. And I believe just at the life insurance policy that turning point had for Charlie (Charlie Kirk) in the event of his passing, Erika (Erika Kirk) was set to receive $10 million from his work policy.
 

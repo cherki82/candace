@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:14:48](/episodes/ep-N4uM8Jdr410.md#t-00-14-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(888);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=888s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think it was likely a black jacket, just as the person who recorded described. He said he was wearing a black jacket and tactical gear.
 

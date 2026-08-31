@@ -25,8 +25,8 @@ type: "accusation"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:24:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-24-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1465);return false;">Play</a>
+**Timestamp:** [00:24:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-24-00) 
+<a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=1465s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You obviously are not intelligent. You obviously are not some journalist that works their way up and broke some important stories. You are obviously an intelligence op and not so intelligent op.
 

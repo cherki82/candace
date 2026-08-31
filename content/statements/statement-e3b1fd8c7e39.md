@@ -29,7 +29,7 @@ type: "accusation"
 
 **Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
 **Timestamp:** [00:24:49](/episodes/ep-sKuYLNx3iRo.md#t-00-24-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1489);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=1489s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm going to tell you a story, just a tale, and if I did it. All of them climbed into the car. ... That's where all our RØDE mic glass went. All of the shattered RØDE glass pieces that were on Charlie (Charlie Kirk) under him got wiped off of his body, brushed onto the floor, the floor, right?
 

@@ -24,7 +24,7 @@ veracity: "mixed"
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 **Timestamp:** [00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(122);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=t1YtLS1n8Vs&t=122s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The reality is the ADL was born out of a Jewish Freemason organization known as B'nai B'rith
 

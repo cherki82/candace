@@ -19,21 +19,11 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
-## Appearances (2)
-
-### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
-
-**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:21:25](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1285);return false;">Play</a>
-
-> And I can tell you factually, Charlie was praying the rosary
-
-### 2. TPUSA Wants Us To Stop Asking Questions About 9/10?! | Canda...
+## Source
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 **Timestamp:** [00:08:46](/episodes/ep-ozWJz2spBcI.md#t-00-08-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(526);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ozWJz2spBcI&t=526s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Catholics were hoping that he'd take the next step because he was praying the rosary." I never said he converted, because he didn't
 

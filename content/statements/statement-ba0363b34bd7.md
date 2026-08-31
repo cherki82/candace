@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [00:28:02](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1682);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1682s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it's it's a very very very terrible because it's like yeah like you know like you have no buildings now to throw gay people out from above it stupid Muslims and then the day before he died he tweeted saying that Islam is the sword the left is using to slit America's throat
 

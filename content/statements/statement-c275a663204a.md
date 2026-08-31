@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:33:53](/episodes/ep-iB-YtO3UZOg.md#t-00-33-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2033);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=2033s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He certainly sustained a neck injury and his neck should have been stabilized before moving him. I think it wasn't stabilized because they were hiding what was on his shirt. ... It's my opinion.
 

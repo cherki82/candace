@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(228);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=228s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie wanted to go to West Point and then instead started Turning Point USA when he was 18 years old.
 

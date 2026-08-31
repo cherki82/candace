@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:21:41](/episodes/ep-69A8TzAGHlU.md#t-00-21-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1301);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=69A8TzAGHlU&t=1301s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > welcome and tell me that you just weren't there like what's up we don't have to like i don't i don't want to host this guy like why are you being all weird i asked him then beyond that if he wanted to clarify anything i sent brian harpole like a total of four messages and i also sent dan flood a message again from the day before i uh or two days before i interviewed mitch snow through to january you trying to get him to just say yes or no. ... No response. I think they also put a third message in there. I don't know if you can scroll and see that or if that's not attached yet.
 

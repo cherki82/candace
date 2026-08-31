@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:05:13](/episodes/ep-mLvJqdxS-FY.md#t-00-05-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(313);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=mLvJqdxS-FY&t=313s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And of course, when Officer Bagley, the officer who raced over to the Losee Center rooftop at 1244 p.m., tried to get shot at 1223, he's up there at 1244 p.m. and he finds that screwdriver.
 

@@ -32,7 +32,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 <p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44" style="--pulse-height:20%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-13" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 10 mentions" title="2026-04-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-zenger-t-00-20-08" style="--pulse-height:10%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
@@ -41,7 +41,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44) | 2 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-13) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58) | 10 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-zenger-t-00-20-08) | 1 |
 
@@ -99,7 +99,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
-**[00:05:34](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34)**
+**[00:05:34](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-13)**
 > "...but that's the circumstance. Also, I told you there was a new CEO and therefore a new lead surgeon, Andrew Zenger, over at the hospital, the regional hospital that Charlie (Charlie Kirk) was taken to, although tha..."
 
 </details>
@@ -137,7 +137,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 <details>
 <summary>Attended (2)</summary>
 
-- **[BYU](/entities/org-byu.md)**
+- **[Brigham Young University](/entities/org-brigham-young-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Qureshi and Harris. Henderson and our Gina (Gina Romney Henderson), he attended BYU. And it really made me wonder, like, what the heck goes on at BYU? And fortunately, someone told me.”
@@ -180,7 +180,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 <details>
 <summary>Referenced By (5)</summary>
 
-- **[BYU](/entities/org-byu.md)** attended by this
+- **[Brigham Young University](/entities/org-brigham-young-university.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Qureshi and Harris. Henderson and our Gina (Gina Romney Henderson), he attended BYU. And it really made me wonder, like, what the heck goes on at BYU? And fortunately, someone told me.”

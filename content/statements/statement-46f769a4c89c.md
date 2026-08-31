@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:40:59](/episodes/ep-SKNJPul29zU.md#t-00-40-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2459);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2459s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he uh was ... in the idf like no don't trust him
 

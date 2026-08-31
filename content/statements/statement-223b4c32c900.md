@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:41:01](/episodes/ep-i8m_6D4QGmk.md#t-00-40-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2461);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=2461s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And you're not going to believe me, but guess what is being used right now in Lebanon? Check out this headline. Oh, Israel unlawfully using white phosphorus. I wonder where they're getting that from.
 

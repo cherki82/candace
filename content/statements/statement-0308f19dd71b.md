@@ -22,7 +22,7 @@ type: "opinion"
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:02:38](/episodes/ep-Qt0VHV-POCg.md#t-00-02-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(158);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=158s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I actually believe that the reason that we have standardized tests is so that the government can track who is performing above the standard, right? ... Just my suspicion, my own personal conspiracy theory.
 

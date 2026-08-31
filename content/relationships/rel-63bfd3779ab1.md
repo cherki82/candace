@@ -11,7 +11,7 @@ object: "person-alexis-wilkins"
 
 ## [Kash Patel](/entities/person-kash-patel) dating [Alexis Wilkins](/entities/person-alexis-wilkins)
 
-### Evidence (2 mentions)
+### Evidence (4 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -20,6 +20,14 @@ object: "person-alexis-wilkins"
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:32:05](/episodes/ep-5m-Wn6Pr5rM#t-00-32-05): _She's literally dating the FBI director_
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:36:40](/episodes/ep-K1tFD7FfoCU#t-00-36-40): _So the backstory is Kash Patel— ... He starts dating this cute little thing, Alexis (Alexis)._
+
+**[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
+
+- [00:40:03](/episodes/ep-MUA9ebCF4Ow#t-00-40-03): _The fact that she filed this lawsuit, of course, means that she did this with the blessing of her quote-unquote life partner, Kash Patel._
 
 ### Related
 

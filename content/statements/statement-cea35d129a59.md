@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:01:34](/episodes/ep-rupRLXmSndU.md#t-00-01-34) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(94);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=94s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk) described it, as I told you, as an intervention over the topic of Israel.
 

@@ -28,7 +28,7 @@ type: "citation"
 
 **Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
 **Timestamp:** [00:41:28](/episodes/ep-SKNJPul29zU.md#t-00-41-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2488);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=SKNJPul29zU&t=2488s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > former Mossad agents testified that he was brought in for the arms deal for the Iran Contra
 

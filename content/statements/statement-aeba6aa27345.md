@@ -30,7 +30,7 @@ veracity: "mixed"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:07:03](/episodes/ep-4DvYXBn_5JI.md#t-00-07-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=423s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie was supposed to be in Colorado the next day, right, on September 11th, immediately following UVU, his next event, which was for some reason barely publicized, was to take place at Charis Bible College, September 11th. ... We also broke the story that a security plan was not put in place for that event, which is remarkable. ... Now, after Charis Bible, Charlie was due to meet up, as we learned, with Erika at Colorado State University, which is situated at Fort Collins. ... Erika confirmed that in her sit down with Jesse Watters
 

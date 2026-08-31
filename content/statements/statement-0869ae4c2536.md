@@ -27,7 +27,7 @@ type: "citation"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:05:11](/episodes/ep-BxN2-aeMYIs.md#t-00-05-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(311);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=311s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We told you that the White House at first came back to us denying strongly that any person in the military office had drafted or sent the email.
 

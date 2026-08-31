@@ -21,12 +21,12 @@ _Type: People_
 Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35">2025-09-16 · 00:58:07</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-patrick-bet-david-t-00-59-19">2025-09-15 · 00:59:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-01-07-23">2026-08-17 · 01:07:23</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,11 +35,12 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-06-47">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35" style="--pulse-height:9%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-patrick-bet-david-t-00-59-19" style="--pulse-height:9%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-57-31" style="--pulse-height:9%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33" style="--pulse-height:45%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 5 mentions" title="2025-09-18 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25" style="--pulse-height:36%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 4 mentions" title="2025-09-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06" style="--pulse-height:18%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55" style="--pulse-height:9%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-04" style="--pulse-height:27%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-39" style="--pulse-height:18%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-49-06" style="--pulse-height:9%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12" style="--pulse-height:36%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11" style="--pulse-height:27%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47" style="--pulse-height:9%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
@@ -53,11 +54,12 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-57-35) | 1 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-patrick-bet-david-t-00-59-19) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-57-31) | 1 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33) | 5 |
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25) | 4 |
-| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06) | 2 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-04) | 3 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-39) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-49-06) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47) | 1 |
@@ -232,7 +234,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
-**[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55)**
+**[00:49:06](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-49-06)**
 > "...putting it into, whether it's PBD and his team—which spoke a lot about Charlie Kirk..."
 
 </details>
@@ -240,27 +242,24 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06)**
+**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-39)**
 > "...n Shapiro, Brandon Tatum, and PBD"
 
-**[00:44:55](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-47)**
+**[00:44:55](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-39)**
 > "I would debate PBD."
 
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
 
-**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25)**
+**[00:20:24](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-04)**
 > "...hey're delivering it as though it's honest. We're gonna talk about that. I was even surprised. PBD (Patrick Bet-David)—I mean, I've always been friendly with him. I've always been kind to him. I have done nothing wron..."
 
-**[00:25:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-25-17)**
-> "Even on PBD's show, where he just gives a platform"
-
-**[00:25:33](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-25-17)**
+**[00:25:23](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-25-23)**
 > "...e is this random second where PBD, rather oddly, says something along the lines of,..."
 
-**[00:51:59](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-51-24)**
+**[00:51:59](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-51-26)**
 > "Like, why would PBD do that?"
 
 </details>
@@ -288,8 +287,16 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
-**[00:58:07](/episodes/ep-q7f8r-THr84.md#t-00-57-35)**
+**[00:58:03](/episodes/ep-q7f8r-THr84.md#t-00-57-31)**
 > "...ront war because Israel didn't do nothing. He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast. He went on to the Nelk Boys' podcast. Anybody fin..."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+
+**[00:59:22](/episodes/ep-czVBmqZP6Ss.md#ent-person-patrick-bet-david-t-00-59-19)**
+> "...st 2023, I went alone. At the PBD live podcast,"
 
 </details>
 
@@ -297,6 +304,18 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Eric Bolling](/entities/person-eric-bolling.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:24](/episodes/ep-aDlhjfW6hz8.md#t-00-20-04): “he's the one who platformed, without any pushback, Eric Bolling.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Employs (1)</summary>
@@ -311,19 +330,12 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 </details>
 
 <details>
-<summary>Interviewed (5)</summary>
-
-- **[Eric Bolling](/entities/person-eric-bolling.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): “PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling”
-
-</details>
+<summary>Interviewed (4)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Patrick Bet-David: When's the last time you saw Candace Owens in person?”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:59](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Okay. When's the last time you saw Candace Owens ... in person?”
 
 </details>
 
@@ -353,17 +365,17 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <details>
 <summary>Referenced By (6)</summary>
 
-- **[Eric Bolling](/entities/person-eric-bolling.md)** interviewed by this
+- **[Eric Bolling](/entities/person-eric-bolling.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): “PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:24](/episodes/ep-aDlhjfW6hz8.md#t-00-20-04): “he's the one who platformed, without any pushback, Eric Bolling.”
 
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Patrick Bet-David: When's the last time you saw Candace Owens in person?”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:59](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Okay. When's the last time you saw Candace Owens ... in person?”
 
 </details>
 
@@ -405,7 +417,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
 
-- [00:26:45](/episodes/ep-aDlhjfW6hz8.md#t-00-26-42) [○] (Opinion) ["If Candace Owens wasn't involved in this very quiet breakup, she would be the lo..."](/statements/statement-2cacc20845cd.md)
+- [00:26:42](/episodes/ep-aDlhjfW6hz8.md#t-00-26-42) [✓] (Opinion) ["If Candace Owens wasn't involved in this very quiet breakup, she would be the lo..."](/statements/statement-2cacc20845cd.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -413,7 +425,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Patrick Bet-David (5)</strong></summary>
+<summary><strong class="section-title">Statements about Patrick Bet-David (4)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -435,13 +447,10 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
 
-- [00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43) (Accusation) **Candace Owens**: ["Patrick Bet-David platformed lies about Candace Owens without any push..."](/statements/statement-3d057bfb5038.md)
+- [00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-20-04) (Accusation) **Candace Owens**: ["Patrick Bet-David platformed lies about Candace Owens without any push..."](/statements/statement-3d057bfb5038.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:51:15](/episodes/ep-aDlhjfW6hz8.md#t-00-50-39) (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not in the Hamptons despite PBD saying he..."](/statements/statement-e63e7f9ac5f6.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 

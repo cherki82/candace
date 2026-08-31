@@ -24,14 +24,14 @@ veracity: "false"
 - [Jack David Solomon](/entities/person-jack-david-solomon.md) (person)
 - [Utah Valley University](/entities/org-utah-valley-university.md) (org)
 - [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md) (org)
-- [BYU](/entities/org-byu.md) (org)
+- [Brigham Young University](/entities/org-brigham-young-university.md) (org)
 - [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md) (org)
 
 ## Source
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2679);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=2679s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He graduated from what is today known as Utah Valley University. ... He also created on their campus the Center for Jewish Studies. ... Jack Solomon was also a professor at BYU in political science. ... He's the former director of the University's Jerusalem Center.
 

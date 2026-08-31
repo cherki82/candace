@@ -7,7 +7,7 @@ type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:38:55](/episodes/ep-X3VKJVJ7cN4.md#t-00-38-26) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2335);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=X3VKJVJ7cN4&t=2335s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And this none of this would have happened if it wasn't this culture of, quote unquote, digital assassination. And may I just state emphatically that Charlie Kirk was so opposed to this, this idea that speech equates to violence.
 

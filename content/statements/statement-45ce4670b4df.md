@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1627);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=5m-Wn6Pr5rM&t=1627s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It—I mean, the round that he was supposedly shot with was a .30-06, which is a big round. That's a round that you kill a moose with, and it doesn't even have an exit wound. It don't make no sense. It makes zero sense.
 

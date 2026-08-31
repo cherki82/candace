@@ -25,8 +25,8 @@ veracity: "true"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:25:51](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1551);return false;">Play</a>
+**Timestamp:** [00:25:51](/episodes/ep-7RLtGgkTh9o.md#t-00-25-39) 
+<a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=1551s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Don't forget that Lou Taylor was my business manager for 18 years. ... We just separated in September because the Kardashians are the slimiest pile of garbage on the planet.
 

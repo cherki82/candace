@@ -3,9 +3,17 @@ title: "Anton Daniels"
 description: "Anton Daniels (People) - 1 mention"
 id: "person-anton-daniels"
 type: "PERSON"
+categories:
+  - "media creator and entrepreneur"
 ---
 
 _Type: People_
+
+**Categories:** media creator and entrepreneur
+
+**Entity verification:** verified
+> Anton Daniels's official site identifies him by name as a media personality, entrepreneur, and mentor; The Bag Chasers official site also names him as CEO.
+Source: [Anton Daniels – Official Site](https://antondaniels.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-anton-daniels-t-00-57-13">2025-12-02 · 00:57:45</a></strong></div>

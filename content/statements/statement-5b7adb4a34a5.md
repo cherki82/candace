@@ -29,7 +29,7 @@ type: "opinion"
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:02:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-02-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(161);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Candace Owens' stock, which was never very high, has fallen a long way. ... Her attack on the First Lady of France is despicable. I believe in this case, without verification, she is an extremely low IQ individual.
 

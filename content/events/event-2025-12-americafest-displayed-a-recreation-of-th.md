@@ -6,6 +6,15 @@ date: "2025-12"
 ---
 
 **Date:** 2025-12
+**Date precision:** Month
+
+## Date Record
+
+**As stated in the source:** “at AmFest”
+
+**Normalization note:** Official event page dates AmericaFest to December 18–21, 2025; the transcript does not identify which conference day the display was present, so month precision is retained.
+
+**Date source:** [https://tpusa.com/events/america-fest/](https://tpusa.com/events/america-fest/)
 
 ## Event
 
@@ -17,7 +26,7 @@ date: "2025-12"
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:10:01](/episodes/ep-OEAHy3SsIiI.md#event-event-2025-12-americafest-displayed-a-recreation-of-th-t-00-10-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(601);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=601s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > this is a recreation of the tent where Charlie Kirk lost his life at Utah Valley University in September
 
@@ -25,7 +34,7 @@ date: "2025-12"
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:14:49](/episodes/ep-CMcktj3Egfo.md#event-event-2025-12-americafest-displayed-a-recreation-of-th-t-00-14-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(889);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=889s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that is exactly the strand of ick that I got as I was watching Amfest and this tent and like the
 
@@ -33,6 +42,6 @@ date: "2025-12"
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:58:08](/episodes/ep-HYn0P-P1wUw.md#event-event-2025-12-americafest-displayed-a-recreation-of-th-t-00-57-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3488);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=3488s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > having that tent at Amfest as a carnival attraction

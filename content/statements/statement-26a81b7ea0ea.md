@@ -26,7 +26,7 @@ type: "accusation"
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:26:13](/episodes/ep-HZvwbfePe7o.md#t-00-26-03) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1573);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=HZvwbfePe7o&t=1573s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was confused. The faith grift. This is the brainwashing program that pretends it's not political and that's faithful aimed at the youth.
 

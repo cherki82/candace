@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:34:46](/episodes/ep-4DvYXBn_5JI.md#t-00-34-46) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2086);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=2086s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Gary finally responds and says, it's not her son. ... It's her daughter with another child. Look, mystery solved.
 

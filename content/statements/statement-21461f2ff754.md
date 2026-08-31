@@ -27,7 +27,7 @@ type: "factual_claim"
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:13:56](/episodes/ep-tXoI0TTKVrs.md#t-00-13-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(836);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=836s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I am spending zero dollars on ads or influencer networks. I've never once told people not to attend Erika Kirk events.
 

@@ -21,9 +21,9 @@ _Type: Places_
 Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-41-31">2026-08-04 · 00:41:31</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
 <div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
@@ -35,12 +35,13 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25">Donald Trump Has Betrayed America. | Candace Ep 308</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45" style="--pulse-height:12%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45" style="--pulse-height:25%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52" style="--pulse-height:12%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32" style="--pulse-height:12%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11" style="--pulse-height:50%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 4 mentions" title="2025-11-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06" style="--pulse-height:25%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-14" style="--pulse-height:12%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-middle-east-t-00-04-30" style="--pulse-height:12%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-12-13" style="--pulse-height:38%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-middle-east-t-00-42-29" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-middle-east-t-00-47-54" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
@@ -76,12 +77,13 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-20) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11) | 4 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-14) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-middle-east-t-00-04-30) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-12-13) | 3 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-middle-east-t-00-42-29) | 2 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-middle-east-t-00-47-54) | 1 |
@@ -419,7 +421,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
 
-**[00:03:47](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11)**
+**[00:03:46](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11)**
 > "what's happening in the Middle East"
 
 **[00:03:49](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11)**
@@ -464,13 +466,18 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
-**[00:58:47](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06)**
+**[00:04:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-middle-east-t-00-04-30)**
+> "...that held the interest of our Middle Eastern people that are here for some reason."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:58:44](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-14)**
 > "...st sending our sons over to die for Israel. Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them..."
-
-**[00:58:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-48)**
-> ".... Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them from the trouble that they cause. But I'm..."
 
 </details>
 
@@ -510,19 +517,22 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:23:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
+**[00:23:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-20)**
 > "...ie and to explain nothing—means that they are scared and has them shook. And of course, it's in the Middle East. So I'm thinking there might've been some foreign involvement in Charlie (Charlie Kirk)'s assassina..."
 
-**[00:40:36](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-40-36)**
+**[00:40:30](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-40-30)**
 > "...e close to God by telling them that they won't be saved unless they support this abomination in the Middle East. So anyways, this leads us, of course, to Charlie (Charlie Kirk)'s last words in that text chain. H..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:55:10](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45)**
+**[00:55:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45)**
 > "...d, you know, argument on its surface that we should support them. They're the only democracy in the Middle East. Okay, now I know that that's not even true, but like who could care? I was just like pro-America a..."
+
+**[00:55:06](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45)**
+> "...'re the only democracy in the Middle East."
 
 </details>
 

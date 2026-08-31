@@ -7,6 +7,11 @@ time: "11:30"
 ---
 
 **Date:** 2025-09-10 at 11:30
+**Date precision:** Day
+
+## Date Record
+
+**As stated in the source:** “September 10th, approximately 11:30 a.m.”
 
 ## Event
 
@@ -16,6 +21,6 @@ time: "11:30"
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:23:29](/episodes/ep-iB-YtO3UZOg.md#event-event-2025-09-10-candace-owens-said-timpanogos-emergency--t-00-23-19) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1409);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=iB-YtO3UZOg&t=1409s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All of the emergency room patients and all of their files were then transferred to Intermountain.

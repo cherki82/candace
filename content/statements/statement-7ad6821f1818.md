@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:16:57](/episodes/ep-DqGNvi36ol8.md#t-00-16-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1017);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=1017s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I hear this loud sound and I'm like, that wasn't what I thought it was, is it? I was like, no, this can't be happening right now. And we all ducked.
 

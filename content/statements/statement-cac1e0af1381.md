@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "false"
 ---
 
-**Status:** ✗ False
+**Status:** ✗ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -27,7 +27,7 @@ veracity: "false"
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:05:45](/episodes/ep-i8m_6D4QGmk.md#t-00-05-45) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(345);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And indeed, I would agree that it is modern science. In fact, the entire thrust of what was deemed the scientific revolution, a move away from the natural order of things and towards empiricism, rationality, that began because of a long organized Freemasonic effort to remove humanity from our innate spiritual understanding.
 

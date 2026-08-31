@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md)
 **Timestamp:** [00:38:28](/episodes/ep-xi8SYJTUXPM.md#t-00-38-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2308);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=xi8SYJTUXPM&t=2308s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > She says I became addicted to social media. ... I pretty much substituted my lows for adrenaline rushes on Twitter. When I got banned, I was honestly having withdrawals.
 

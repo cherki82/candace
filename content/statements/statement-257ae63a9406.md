@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:04:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-04-48) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(288);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=288s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie (Charlie Kirk), by the way, had himself earned that appointment and there was backlash going, wait, whoa, this is a very big deal. We shouldn't be mixing politics with this. He had earned that appointment in March of 2025. So just six months before he was assassinated.
 

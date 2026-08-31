@@ -1,6 +1,6 @@
 ---
 title: "Tulsi Gabbard"
-description: "Tulsi Gabbard (People) - 23 mentions"
+description: "Tulsi Gabbard (People) - 25 mentions"
 id: "person-tulsi-gabbard"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-tulsi-gabbard-t-00-29-40">2026-08-17 · 00:29:40</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,9 +37,11 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35" style="--pulse-height:43%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27" style="--pulse-height:14%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#t-00-27-38" style="--pulse-height:14%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#t-00-50-42" style="--pulse-height:14%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-tulsi-gabbard-t-00-27-38" style="--pulse-height:14%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-09-52" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-tulsi-gabbard-t-00-50-58" style="--pulse-height:14%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-tulsi-gabbard-t-00-38-49" style="--pulse-height:14%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-tulsi-gabbard-t-00-56-05" style="--pulse-height:14%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-tulsi-gabbard-t-00-28-52" style="--pulse-height:14%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tulsi-gabbard-t-02-21-45" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 7 mentions" title="2026-08-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-tulsi-gabbard-t-01-40-43" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 7 mentions" title="2026-08-14 · 7 mentions"><span></span></a>
@@ -51,9 +53,11 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27) | 1 |
-| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#t-00-27-38) | 1 |
-| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23) | 1 |
-| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-50-42) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-tulsi-gabbard-t-00-27-38) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-09-52) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-tulsi-gabbard-t-00-50-58) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-tulsi-gabbard-t-00-38-49) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-tulsi-gabbard-t-00-56-05) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-tulsi-gabbard-t-00-28-52) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tulsi-gabbard-t-02-21-45) | 7 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-tulsi-gabbard-t-01-40-43) | 7 |
@@ -65,7 +69,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
@@ -136,9 +140,25 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 </details>
 
 <details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:56:19](/episodes/ep-es7PWdFGoFI.md#ent-person-tulsi-gabbard-t-00-56-05)**
+> "...tel, you know, getting mad at Tulsi Gabbard and Joe Kent for trying to look into a potential ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+
+**[00:39:03](/episodes/ep-t4U7NjnUEgc.md#ent-person-tulsi-gabbard-t-00-38-49)**
+> "And that is Tulsi Gabbard's office. I am doing everything that I can, but I a..."
+
+</details>
+
+<details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:51:14](/episodes/ep-sImMM04XdWY.md#t-00-50-42)**
+**[00:51:14](/episodes/ep-sImMM04XdWY.md#ent-person-tulsi-gabbard-t-00-50-58)**
 > "... obviously be fearful. Kash? That's just corruption. I mean, once I saw the article—he was blocking Tulsi's office— I lost all faith in Kash. I think he's a part of the corruption, plain and simple. Black ..."
 
 </details>
@@ -146,7 +166,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
-**[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
+**[00:10:20](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-09-52)**
 > "...nner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or warring with Kash..."
 
 </details>
@@ -154,7 +174,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
-**[00:27:49](/episodes/ep-JQjCAsfoXEE.md#t-00-27-38)**
+**[00:27:49](/episodes/ep-JQjCAsfoXEE.md#ent-person-tulsi-gabbard-t-00-27-38)**
 > "...kay. Honestly, you guys, it brings me great pleasure to deliver this information because now surely Tulsi's office can get involved—because you know those darn Egyptians are at it again. Those darn Egyptia..."
 
 </details>
@@ -210,13 +230,18 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
 
-- [00:38:43](/episodes/ep-t4U7NjnUEgc.md#t-00-38-15) (Claim) **Candace Owens**: ["Tulsi Gabbard's office is the only government office that has responde..."](/statements/statement-006a40efdcbc.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+- [00:38:49](/episodes/ep-t4U7NjnUEgc.md#t-00-38-49) (Claim) **Candace Owens**: ["Owens said Tulsi Gabbard's office was the only government office that ..."](/statements/statement-285d039d2351.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [French intelligence](/entities/org-french-intelligence.md), [Israel](/entities/gpe-israel.md)
 
-- [00:38:49](/episodes/ep-t4U7NjnUEgc.md#t-00-38-49) (Claim) **Candace Owens**: ["Owens said Tulsi Gabbard office was the only government office that ha..."](/statements/statement-285d039d2351.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:51:14](/episodes/ep-sImMM04XdWY.md#t-00-50-58) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said an article reported that Kash Patel was blocking Tu..."](/statements/statement-6bad4eac0a49.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md)
 
 </details>
 

@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:41:40](/episodes/ep-I0OaY6Gryqk.md#t-00-41-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2500);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=2500s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > oh no it's fine that Erika (Erika Kirk)'s working uh with harvest church and they're currently being sued for trafficking children from romania that's fine look the other way everybody grieves differently ... that you would not find that to be problematic to say, I am not going to partner with Harvard Harvest Church until I see an outcome because this is another lawsuit pertaining to children being molested, harmed, trafficked from Romania.
 

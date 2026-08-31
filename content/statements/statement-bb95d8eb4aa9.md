@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:57:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3448);return false;">Play</a>
+**Timestamp:** [00:57:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-02) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3429s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> So we're supposed to believe the government—which Brigitte is controlling, by the way—this person, Brumetz, has worked with the couple since 2017.
+> Mr. Brumetz was the guy who did this—a government official. He made the revelation, and he recounted how Brigitte was stunned to learn that her legal name had been quote-unquote "changed" when she logged into her personal tax account. "We were completely surprised," said Mr. Brumetz. Oh, okay. So we're supposed to believe the government—which Brigitte is controlling, by the way—this person, Brumetz, has worked with the couple since 2017.
 
 ## Verification
 

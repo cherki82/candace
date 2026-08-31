@@ -26,10 +26,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [01:06:32](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3992);return false;">Play</a>
+**Timestamp:** [01:06:03](/episodes/ep-Cq7nj9rxPdo.md#t-01-05-37) 
+<a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=3963s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> No, I don't hold out any hope at all, actually
+> Mrs. Preppy writes, "Do you hold hope that the Trump (Donald J. Trump) administration could come through with justice for Charlie (Charlie Kirk)? ... No, I don't hold out any hope at all, actually. ... I have no hope whatsoever.
 
 ## Verification
 

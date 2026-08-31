@@ -28,7 +28,7 @@ type: "opinion"
 
 **Episode:** [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md)
 **Timestamp:** [00:52:41](/episodes/ep-YeEtS7nix3o.md#t-00-52-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3161);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We don't need less masculinity or toxic masculinity. We need more. Literally, biologically men are less manly.
 

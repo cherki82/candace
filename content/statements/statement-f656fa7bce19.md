@@ -7,7 +7,7 @@ type: "citation"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:05:15](/episodes/ep-1IY2oD-_xVA.md#t-00-05-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(315);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=315s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Obviously, you know who Barbara Bush is, the mother of George Bush. Now, this is the source of the rumors that Barbara Bush is actually the child of Aleister Crowley.
 

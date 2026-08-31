@@ -30,7 +30,7 @@ veracity: "true"
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:32:56](/episodes/ep-1QZ4X6q1DPg.md#t-00-32-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1976);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=1976s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > has no knowledge of the communications alleged in this post, and they did not authorize, draft or publish the content in question. Any attribution to them is completely false.
 

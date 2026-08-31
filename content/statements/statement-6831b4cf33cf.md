@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:34:50](/episodes/ep-JQjCAsfoXEE.md#t-00-34-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2090);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2090s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The Form 990 for fiscal year 2024 is posted for Turning Point USA, but it is missing for all the other three organizations. It looks like it was never turned in.
 

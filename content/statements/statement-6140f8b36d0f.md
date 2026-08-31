@@ -31,7 +31,7 @@ veracity: "true"
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
 **Timestamp:** [00:09:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-09-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(540);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=q1NRQQAYS_Q&t=540s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > In August, before all this happened, he had a... event where he had some donors at and one of the first questions they asked was god forbid if something happens to you like what what what would happen next to turning point and charlie (Charlie Kirk) made a really interesting point he said companies you know example apple macintosh ... And he had made mention at the end, like, you know, Erica (Erika Kirk) will do a great job running it.
 

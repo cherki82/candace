@@ -7,7 +7,7 @@ type: "accusation"
 veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:06:13](/episodes/ep-DEtFh2Ff-58.md#t-00-06-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(373);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=DEtFh2Ff-58&t=373s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, Erika claims that he was on the flight that landed at 4.30 p.m. into Provo. She's lying.
 

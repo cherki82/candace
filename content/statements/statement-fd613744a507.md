@@ -28,7 +28,7 @@ veracity: "false"
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:12:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-10) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(752);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=752s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a social science that was created, to be very clear, ... by German mystical Jews, ... They believed in mystical Judaism. They were practicing the occult.
 

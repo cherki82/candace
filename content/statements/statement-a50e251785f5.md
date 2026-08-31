@@ -28,7 +28,7 @@ type: "factual_claim"
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:10:20](/episodes/ep-jTj9Ip46r4w.md#t-00-09-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(620);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=620s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I cannot make it up. Anyway, back to Jerri (Jerri L. Frantzve). We also learned that she worked with DuPont Chemicals. She's a DuPont Chemicals psychologist.
 

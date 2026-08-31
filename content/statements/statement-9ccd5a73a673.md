@@ -29,7 +29,7 @@ veracity: "true"
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:35:40](/episodes/ep-ChuWo-n49B8.md#t-00-35-32) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2140);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=ChuWo-n49B8&t=2140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I mean, on March 23rd, he posted videos of himself from a hospital bed. and said he almost died from severe sepsis and infections. He claimed that it started with the flu, but he didn't take his medications with food like he was supposed to. So he then developed an ulcer that eventually perforated. He was hospitalized for three weeks and had emergency surgery.
 

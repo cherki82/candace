@@ -1,6 +1,6 @@
 ---
 title: "Harley Pasternak"
-description: "Harley Pasternak (People) - 6 mentions"
+description: "Harley Pasternak (People) - 8 mentions"
 id: "person-harley-pasternak"
 type: "PERSON"
 categories:
@@ -17,10 +17,10 @@ _Type: People_
 Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrandomhouse.com/authors/2008122/harley-pasternak-msc/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25">2025-09-19 · 00:15:40</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-harley-pasternak-t-00-15-33">2025-09-18 · 00:16:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-harley-pasternak-t-00-02-47">2026-07-22 · 00:02:47</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,9 +29,11 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-36">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-harley-pasternak-t-00-15-33" style="--pulse-height:50%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-36" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-harley-pasternak-t-00-22-52" style="--pulse-height:50%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-harley-pasternak-t-00-40-19" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-harley-pasternak-t-00-56-39" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-harley-pasternak-t-00-02-47" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
@@ -40,7 +42,9 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25) | 2 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-harley-pasternak-t-00-15-33) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-36) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-harley-pasternak-t-00-22-52) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-harley-pasternak-t-00-40-19) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-harley-pasternak-t-00-56-39) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-harley-pasternak-t-00-02-47) | 1 |
@@ -51,7 +55,7 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -81,13 +85,29 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 </details>
 
 <details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:23:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-harley-pasternak-t-00-22-52)**
+> "...was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUltra—suddenl..."
+
+</details>
+
+<details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:15:40](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25)**
+**[00:15:36](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-36)**
 > "...le that are really shady like Harley Pasternak—thus far three people who I've investigated who o..."
 
-**[00:16:22](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25)**
+**[00:16:22](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-36)**
 > "like Harley Pasternak—thus far three people who I've investigated"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
+
+**[00:16:02](/episodes/ep-sreYYcID-QY.md#ent-person-harley-pasternak-t-00-15-33)**
+> "When I was looking into Harley Pasternak, that's exactly what his family did."
 
 </details>
 
@@ -128,7 +148,7 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
 
-- [00:23:14](/episodes/ep-7RLtGgkTh9o.md#t-00-22-30) (Accusation) **Candace Owens**: ["Harley Pasternak put Kanye West in a hospital on a psych 5150 hold whe..."](/statements/statement-ab0802f883af.md)
+- [00:23:14](/episodes/ep-7RLtGgkTh9o.md#t-00-22-52) (Accusation) **Candace Owens**: ["Harley Pasternak put Kanye West in a hospital on a psych 5150 hold whe..."](/statements/statement-ab0802f883af.md)
   - Also about: [Kanye West](/entities/person-kanye-west.md)
 
 </details>

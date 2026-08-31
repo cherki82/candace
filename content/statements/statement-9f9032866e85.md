@@ -27,7 +27,7 @@ veracity: "true"
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:05:33](/episodes/ep-BxN2-aeMYIs.md#t-00-05-06) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(333);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=BxN2-aeMYIs&t=333s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We then learned that multiple offices within the DOD have access to various distribution lists.
 

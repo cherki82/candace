@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet told Candace Owens 'it was supposed to be you'..."
-description: "\"Andrew Kolvet told Candace Owens 'it was supposed to be you' within 72 hours of Charlie Kirk's assassination\" — Andrew Kolvet"
+description: "\"Andrew Kolvet told Candace Owens 'it was supposed to be you' within about 72 hours of Charlie Kirk's assassination\" — Andrew Kolvet"
 statement_id: "statement-95a2e0a2f071"
 speaker: "Andrew Kolvet"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Andrew Kolvet told Candace Owens 'it was supposed to be you' within 72 hours of Charlie Kirk's assassination
+> Andrew Kolvet told Candace Owens 'it was supposed to be you' within about 72 hours of Charlie Kirk's assassination
 
 ## Attribution
 
@@ -18,19 +18,19 @@ type: "factual_claim"
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** phone call
 
 ## About
 
-- [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:02:55](/episodes/ep-sImMM04XdWY.md#t-00-02-44) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(175);return false;">Play</a>
+**Timestamp:** [00:02:44](/episodes/ep-sImMM04XdWY.md#t-00-02-44) 
+<a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=164s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> He said, and I quote, "Candace, it was supposed to be you." It was supposed to be you
+> I mean, I am talking maybe 72 hours max after Charlie (Charlie Kirk) was killed, and he was also upset on the phone, but he said something, and it's hitting differently the more that I think about it. ... He said, and I quote, "Candace, it was supposed to be you."
 
 ## Verification
 

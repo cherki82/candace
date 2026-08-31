@@ -28,7 +28,7 @@ veracity: "true"
 
 **Episode:** [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md)
 **Timestamp:** [00:31:39](/episodes/ep-I0OaY6Gryqk.md#t-00-31-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1899);return false;">Play</a>
+<a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=1899s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So this is fantastic news. It's great news. But beyond that, you should know that this was a unanimous decision. ... Everyone on the board agreed that they wanted to move away from Turning Point USA
 

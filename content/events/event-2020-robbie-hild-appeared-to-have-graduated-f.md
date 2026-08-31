@@ -6,6 +6,11 @@ date: "2020"
 ---
 
 **Date:** 2020
+**Date precision:** Year
+
+## Date Record
+
+**As stated in the source:** “around 2020”
 
 ## Event
 
@@ -15,6 +20,6 @@ date: "2020"
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:30:28](/episodes/ep-rupRLXmSndU.md#event-event-2020-robbie-hild-appeared-to-have-graduated-f-t-00-30-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1828);return false;">▶️ Play</a>
+<a href="https://www.youtube.com/watch?v=rupRLXmSndU&t=1828s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.
