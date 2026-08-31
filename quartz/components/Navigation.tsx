@@ -18,7 +18,7 @@ export default ((userOpts?: Partial<NavigationOptions>) => {
     const baseDir = pathToRoot(fileData.slug!)
 
     return (
-      <div class={`navigation ${displayClass ?? ""}`}>
+      <nav class={`navigation ${displayClass ?? ""}`} aria-label={opts.title}>
         <h3>{opts.title}</h3>
         <ul>
           {opts.links.map((link) => (
@@ -27,7 +27,7 @@ export default ((userOpts?: Partial<NavigationOptions>) => {
             </li>
           ))}
         </ul>
-      </div>
+      </nav>
     )
   }
 

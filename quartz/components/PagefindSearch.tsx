@@ -76,8 +76,25 @@ const loadPagefind = async () => {
       document.head.appendChild(link)
     }
 
-    // Load and initialize Pagefind UI
-    const { PagefindUI } = await import(/* webpackIgnore: true */ pagefindBase + '/pagefind-ui.js')
+    // Pagefind's browser bundle is a classic script: it installs
+    // window.PagefindUI rather than exporting an ES module constructor.
+    if (!window.PagefindUI) {
+      await new Promise((resolve, reject) => {
+        const src = pagefindBase + '/pagefind-ui.js'
+        const existing = document.querySelector('script[data-pagefind-ui]')
+        const script = existing || document.createElement('script')
+        script.addEventListener('load', resolve, { once: true })
+        script.addEventListener('error', reject, { once: true })
+        if (!existing) {
+          script.src = src
+          script.dataset.pagefindUi = 'true'
+          document.head.appendChild(script)
+        }
+      })
+    }
+
+    const PagefindUI = window.PagefindUI
+    if (typeof PagefindUI !== 'function') throw new Error('PagefindUI did not load')
 
     containers.forEach((container, index) => {
       container.id = 'pagefind-search-' + index

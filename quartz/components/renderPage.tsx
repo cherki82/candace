@@ -28,7 +28,8 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexScript = `let contentIndexPromise
+const fetchData = () => contentIndexPromise ??= fetch("${contentIndexPath}").then(data => data.json())`
 
   const resources: StaticResources = {
     css: [
@@ -263,6 +264,9 @@ export function renderPage(
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
       <body data-slug={slug}>
+        <a class="skip-link" href="#main-content">
+          Skip to main content
+        </a>
         {/* Top banner - rendered outside main layout for full width */}
         {header.length > 0 && (
           <div class="site-banner">
@@ -274,10 +278,9 @@ export function renderPage(
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
+            <main class="center" id="main-content">
               <div class="page-header">
-                <Header {...componentData}>
-                </Header>
+                <Header {...componentData}></Header>
                 <div class="popover-hint">
                   {beforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
@@ -291,7 +294,7 @@ export function renderPage(
                   <BodyComponent {...componentData} />
                 ))}
               </div>
-            </div>
+            </main>
             {RightComponent}
             <Footer {...componentData} />
           </Body>

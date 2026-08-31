@@ -1,5 +1,21 @@
 // Share modal functionality
-const BASE_URL = window.location.origin
+let lastShareTrigger: HTMLElement | null = null
+
+function shareSiteRoot(): string {
+  const stylesheet = document.querySelector('link[rel="stylesheet"][href$="index.css"]')
+  if (!stylesheet) return ""
+  return new URL((stylesheet as HTMLLinkElement).href, window.location.href).pathname.replace(
+    /\/index\.css$/,
+    "",
+  )
+}
+
+function shareLocalPath(): string {
+  const root = shareSiteRoot()
+  const path = window.location.pathname
+  if (root && path.startsWith(root)) return path.slice(root.length) || "/"
+  return path
+}
 
 function getPageType(): string {
   const path = window.location.pathname
@@ -71,28 +87,51 @@ ${description}
 function createShareModal(): HTMLElement {
   const overlay = document.createElement("div")
   overlay.className = "share-modal-overlay"
+  overlay.setAttribute("aria-hidden", "true")
   overlay.innerHTML = `
-    <div class="share-modal">
-      <h3>Share this page</h3>
-      <div class="share-modal-content"></div>
+    <div class="share-modal" role="dialog" aria-modal="true" aria-labelledby="share-modal-title" aria-describedby="share-modal-content" tabindex="-1">
+      <h3 id="share-modal-title">Share this page</h3>
+      <div class="share-modal-content" id="share-modal-content"></div>
       <div class="share-modal-actions">
-        <button class="share-modal-btn primary" id="copy-snippet">📋 Copy to Clipboard</button>
-        <button class="share-modal-btn secondary" id="close-share-modal">Close</button>
+        <button type="button" class="share-modal-btn primary" id="copy-snippet">Copy to clipboard</button>
+        <button type="button" class="share-modal-btn secondary" id="close-share-modal">Close</button>
       </div>
-      <span class="copy-success" style="display:none">Copied!</span>
+      <span class="copy-success" role="status" aria-live="polite" style="display:none">Copied!</span>
     </div>
   `
+
+  const closeModal = () => {
+    overlay.classList.remove("active")
+    overlay.setAttribute("aria-hidden", "true")
+    lastShareTrigger?.focus()
+  }
 
   // Close on overlay click
   overlay.addEventListener("click", (e) => {
     if (e.target === overlay) {
-      overlay.classList.remove("active")
+      closeModal()
     }
   })
 
   // Close button
   overlay.querySelector("#close-share-modal")?.addEventListener("click", () => {
-    overlay.classList.remove("active")
+    closeModal()
+  })
+
+  overlay.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeModal()
+    if (event.key !== "Tab") return
+    const focusable = [...overlay.querySelectorAll<HTMLElement>("button:not([disabled])")]
+    if (!focusable.length) return
+    const first = focusable[0]
+    const last = focusable.at(-1)!
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault()
+      last.focus()
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault()
+      first.focus()
+    }
   })
 
   // Copy button
@@ -116,8 +155,8 @@ function createShareModal(): HTMLElement {
 }
 
 function addShareButton(): void {
-  // Don't add to index pages
-  if (window.location.pathname === "/" || window.location.pathname === "/index") {
+  // Keep the homepage focused on its primary research actions.
+  if (["/", "/index", "/index.html"].includes(shareLocalPath())) {
     return
   }
 
@@ -131,7 +170,8 @@ function addShareButton(): void {
   // Create share button
   const shareBtn = document.createElement("button")
   shareBtn.className = "share-btn"
-  shareBtn.innerHTML = "📤 Share"
+  shareBtn.type = "button"
+  shareBtn.textContent = "Share"
   shareBtn.title = "Copy shareable snippet"
 
   // Insert after title
@@ -146,12 +186,15 @@ function addShareButton(): void {
 
   // Open modal on click
   shareBtn.addEventListener("click", () => {
+    lastShareTrigger = shareBtn
     const snippet = generateSnippet()
     const content = modal.querySelector(".share-modal-content")
     if (content) {
       content.textContent = snippet
     }
     modal.classList.add("active")
+    modal.setAttribute("aria-hidden", "false")
+    ;(modal.querySelector("#copy-snippet") as HTMLButtonElement)?.focus()
   })
 }
 

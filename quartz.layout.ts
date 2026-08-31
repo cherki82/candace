@@ -18,6 +18,7 @@ export const sharedPageComponents: SharedLayout = {
 
 const mobileLinks = [
   { text: "Research Explorer", href: "index/explorer" },
+  { text: "Event Explorer", href: "index/event-explorer" },
   { text: "Claims", href: "index/claims" },
   { text: "Theory Threads", href: "index/threads" },
   { text: "Episodes", href: "index/episodes" },
@@ -32,6 +33,7 @@ const InvestigateNavigation = Component.Navigation({
   title: "Investigate",
   links: [
     { text: "Research Explorer", href: "index/explorer" },
+    { text: "Event Explorer", href: "index/event-explorer" },
     { text: "Theory Threads", href: "index/threads" },
   ],
 })
@@ -68,9 +70,10 @@ export const defaultContentPageLayout: PageLayout = {
             Component: Component.MobileNavigation({
               links: mobileLinks,
             }),
+            shrink: false,
           },
           { Component: Component.Search(), grow: true },
-          { Component: Component.Darkmode() },
+          { Component: Component.Darkmode(), shrink: false },
         ],
       }),
     ),
@@ -106,9 +109,10 @@ export const defaultListPageLayout: PageLayout = {
             Component: Component.MobileNavigation({
               links: mobileLinks,
             }),
+            shrink: false,
           },
           { Component: Component.Search(), grow: true },
-          { Component: Component.Darkmode() },
+          { Component: Component.Darkmode(), shrink: false },
         ],
       }),
     ),

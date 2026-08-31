@@ -10,6 +10,7 @@
   }
 
   & > .search-button {
+    box-sizing: border-box;
     background-color: transparent;
     border: 1px var(--lightgray) solid;
     border-radius: 4px;
@@ -23,6 +24,14 @@
     cursor: pointer;
     white-space: nowrap;
     width: 100%;
+
+    @media all and ($mobile) {
+      padding: 0;
+
+      & > p {
+        display: none;
+      }
+    }
 
     & > p {
       display: inline;

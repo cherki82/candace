@@ -69,7 +69,7 @@ export default ((userOpts?: Partial<MobileNavigationOptions>) => {
           </svg>
         </button>
         <div class="mobile-nav-overlay"></div>
-        <nav class="mobile-nav-drawer">
+        <nav class="mobile-nav-drawer" aria-label="Primary navigation">
           <div class="mobile-nav-header">
             <span>Browse</span>
           </div>

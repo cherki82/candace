@@ -123,6 +123,7 @@ a {
 
 .flex-component {
   display: flex;
+  min-width: 0;
 
   > div {
     min-width: 0;
