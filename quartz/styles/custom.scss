@@ -104,6 +104,147 @@ body[data-slug^="threads/"] {
   font-size: 0.76rem;
 }
 
+.kg-thread-observatory {
+  position: relative;
+  overflow: hidden;
+  margin: 2rem 0;
+  padding: clamp(1.25rem, 4vw, 2.25rem);
+  background: color-mix(in srgb, var(--dark) 94%, var(--secondary));
+  color: var(--light);
+
+  &::before {
+    position: absolute;
+    top: -4rem;
+    right: -3rem;
+    width: 11rem;
+    height: 11rem;
+    border: 1px solid color-mix(in srgb, var(--light) 28%, transparent);
+    border-radius: 50%;
+    box-shadow:
+      0 0 0 2rem color-mix(in srgb, var(--light) 4%, transparent),
+      0 0 0 4rem color-mix(in srgb, var(--light) 3%, transparent);
+    content: "";
+  }
+
+  > header {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: minmax(14rem, 1.2fr) minmax(14rem, 1fr) auto;
+    gap: 1rem;
+    align-items: end;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--light) 28%, transparent);
+
+    h2 {
+      margin: 0.2rem 0 0;
+      color: inherit;
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      font-weight: 500;
+      letter-spacing: -0.035em;
+    }
+
+    p {
+      max-width: 40ch;
+      margin: 0;
+      color: color-mix(in srgb, var(--light) 72%, transparent);
+      font-size: 0.9rem;
+    }
+
+    > a {
+      color: inherit;
+      font-family: var(--codeFont);
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+  }
+
+  .research-kicker {
+    color: color-mix(in srgb, var(--light) 62%, transparent);
+  }
+}
+
+.kg-thread-grid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  background: color-mix(in srgb, var(--light) 24%, transparent);
+}
+
+.kg-thread-card {
+  display: flex;
+  min-height: 18rem;
+  flex-direction: column;
+  padding: 1.25rem;
+  background: color-mix(in srgb, var(--dark) 97%, var(--secondary));
+
+  &.featured {
+    grid-row: span 2;
+  }
+
+  h3 {
+    max-width: 18ch;
+    margin: 1rem 0 0.6rem;
+    color: inherit;
+    font-size: clamp(1.4rem, 3vw, 2.1rem);
+    font-weight: 500;
+    line-height: 1.02;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+  }
+
+  > p {
+    max-width: 54ch;
+    color: color-mix(in srgb, var(--light) 72%, transparent);
+    font-size: 0.86rem;
+  }
+
+  .thread-lineage {
+    margin-top: auto;
+    color: var(--light);
+    border-color: color-mix(in srgb, var(--light) 26%, transparent);
+    background:
+      linear-gradient(color-mix(in srgb, var(--light) 5%, transparent) 1px, transparent 1px),
+      linear-gradient(90deg, color-mix(in srgb, var(--light) 5%, transparent) 1px, transparent 1px);
+    background-color: color-mix(in srgb, var(--dark) 95%, var(--secondary));
+  }
+
+  .thread-lineage figcaption,
+  .thread-lineage-date,
+  .thread-lineage-axis-label,
+  .thread-lineage-legend,
+  .thread-card-meta {
+    color: color-mix(in srgb, var(--light) 62%, transparent);
+  }
+
+  .thread-lineage-axis,
+  .thread-lineage-tick,
+  .thread-lineage-edge {
+    stroke: color-mix(in srgb, var(--light) 48%, transparent);
+  }
+
+  .thread-lineage-node circle {
+    fill: var(--dark);
+  }
+
+  .thread-lineage-node-label,
+  .thread-lineage-mark {
+    fill: var(--light);
+  }
+
+  .thread-card-open {
+    color: inherit;
+  }
+}
+
 .kg-coverage {
   margin: 1.5rem 0 2rem;
   border-block: 1px solid var(--dark);
@@ -135,7 +276,7 @@ body[data-slug^="threads/"] {
 
 .kg-coverage-grid {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
   border-top: 1px solid var(--lightgray);
 
   > div {
@@ -422,14 +563,326 @@ body[data-slug^="threads/"] {
   margin-top: 0.75rem !important;
 }
 
+.thread-index-intro {
+  max-width: 50ch;
+  font-family: var(--headerFont);
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
+  line-height: 1.25;
+}
+
+.thread-index-audit {
+  display: grid;
+  grid-template-columns: minmax(9rem, 0.5fr) minmax(16rem, 1.5fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+  padding: 0.8rem 0;
+  border-block: 1px solid var(--lightgray);
+
+  strong {
+    font-family: var(--codeFont);
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  span {
+    color: var(--gray);
+    font-size: 0.82rem;
+  }
+}
+
+.thread-index-stats,
+.thread-detail-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1.5rem 0;
+  border-top: 1px solid var(--dark);
+  border-left: 1px solid var(--dark);
+
+  > div {
+    padding: 0.75rem;
+    border-right: 1px solid var(--dark);
+    border-bottom: 1px solid var(--dark);
+
+    strong,
+    span {
+      display: block;
+    }
+
+    strong {
+      font-family: var(--headerFont);
+      font-size: 1.45rem;
+      font-weight: 500;
+      line-height: 1;
+    }
+
+    span {
+      margin-top: 0.3rem;
+      color: var(--gray);
+      font-family: var(--codeFont);
+      font-size: 0.62rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.thread-index-stats {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.thread-detail-stats {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.thread-index-grid {
+  display: grid;
+  gap: 1rem;
+}
+
 .thread-index-card {
-  margin: 1rem 0;
-  padding: 1rem;
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  padding: clamp(1rem, 3vw, 1.5rem);
   border: 1px solid var(--dark);
+  border-left: 0.35rem solid var(--secondary);
+  background: color-mix(in srgb, var(--light) 94%, var(--highlight));
+  transition:
+    border-color 150ms ease,
+    transform 150ms ease;
+
+  &:hover,
+  &:focus-within {
+    border-color: var(--secondary);
+    transform: translateX(0.25rem);
+  }
 
   h2 {
-    margin: 0.3rem 0;
+    max-width: 22ch;
+    margin: 0.8rem 0 0.5rem;
+    font-size: clamp(1.5rem, 4vw, 2.35rem);
+    font-weight: 500;
+    line-height: 1.02;
+
+    a {
+      color: var(--dark);
+      text-decoration: none;
+    }
   }
+
+  > p {
+    max-width: 68ch;
+    color: var(--darkgray);
+  }
+}
+
+.thread-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.9rem;
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.thread-lineage {
+  margin: 1.25rem 0;
+  border: 1px solid var(--dark);
+  color: var(--dark);
+  background:
+    linear-gradient(color-mix(in srgb, var(--dark) 5%, transparent) 1px, transparent 1px),
+    linear-gradient(90deg, color-mix(in srgb, var(--dark) 5%, transparent) 1px, transparent 1px);
+  background-color: color-mix(in srgb, var(--light) 95%, var(--highlight));
+  background-size: 1.2rem 1.2rem;
+
+  figcaption {
+    display: flex;
+    gap: 0.65rem;
+    align-items: baseline;
+    padding: 0.65rem 0.8rem 0;
+    color: var(--gray);
+    font-family: var(--codeFont);
+    font-size: 0.6rem;
+    letter-spacing: 0.045em;
+    text-transform: uppercase;
+
+    strong {
+      color: inherit;
+    }
+
+    span {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}
+
+.thread-lineage-scroll {
+  overflow-x: auto;
+  scrollbar-width: thin;
+
+  svg {
+    display: block;
+    width: 100%;
+    min-width: 620px;
+    height: auto;
+    font-family: var(--codeFont);
+  }
+}
+
+.thread-lineage-axis,
+.thread-lineage-tick {
+  stroke: var(--gray);
+  stroke-width: 1;
+}
+
+.thread-lineage-axis-label,
+.thread-lineage-date {
+  fill: currentColor;
+  font-size: 9px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.thread-lineage-date {
+  font-size: 8px;
+}
+
+.thread-lineage-edge {
+  fill: none;
+  stroke: var(--darkgray);
+  stroke-linecap: round;
+  stroke-width: 2.5;
+  transition: stroke-width 140ms ease;
+
+  &:hover {
+    stroke-width: 5;
+  }
+}
+
+.thread-link-contradicts,
+.thread-link-refutes,
+.thread-link-retracts {
+  stroke: var(--tertiary);
+  stroke-dasharray: 5 4;
+}
+
+.thread-lineage-node {
+  color: var(--dark);
+  text-decoration: none;
+
+  circle {
+    fill: var(--light);
+    stroke: currentColor;
+    stroke-width: 1.5;
+    transition:
+      r 140ms ease,
+      stroke-width 140ms ease;
+  }
+
+  &:hover circle,
+  &:focus circle {
+    r: 14px;
+    stroke-width: 3;
+  }
+}
+
+.thread-lineage-mark,
+.thread-lineage-node-label {
+  fill: currentColor;
+  font-size: 9px;
+  font-weight: 800;
+  pointer-events: none;
+}
+
+.thread-lineage-mark {
+  font-size: 8px;
+}
+
+.thread-lineage-node-label {
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+}
+
+.thread-lineage-node.branch-state-active {
+  color: var(--secondary);
+
+  circle {
+    stroke-width: 3;
+  }
+}
+
+.thread-lineage-node.branch-state-historical {
+  opacity: 0.72;
+}
+
+.thread-lineage-node.branch-state-closed {
+  color: var(--tertiary);
+
+  circle {
+    stroke-dasharray: 2 2;
+  }
+}
+
+.thread-lineage-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 1rem;
+  padding: 0 0.8rem 0.7rem;
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.58rem;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+
+  span {
+    display: inline-flex;
+    gap: 0.35rem;
+    align-items: center;
+
+    &::before {
+      width: 0.55rem;
+      height: 0.55rem;
+      border: 1px solid currentColor;
+      border-radius: 50%;
+      content: "";
+    }
+  }
+
+  .branch-state-active {
+    color: var(--secondary);
+  }
+
+  .branch-state-historical {
+    opacity: 0.72;
+  }
+
+  .branch-state-closed {
+    color: var(--tertiary);
+
+    &::before {
+      border-style: dashed;
+    }
+  }
+}
+
+.thread-card-open {
+  display: inline-flex;
+  gap: 0.45rem;
+  align-items: center;
+  width: fit-content;
+  color: var(--secondary);
+  font-family: var(--codeFont);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 .thread-summary {
@@ -575,6 +1028,23 @@ body[data-slug^="threads/"] {
   }
   .attention-grid,
   .thread-clock-grid {
+    grid-template-columns: 1fr;
+  }
+  .kg-thread-observatory > header {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+  .kg-thread-grid {
+    grid-template-columns: 1fr;
+  }
+  .kg-thread-card.featured {
+    grid-row: auto;
+  }
+  .thread-index-stats,
+  .thread-detail-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .thread-index-audit {
     grid-template-columns: 1fr;
   }
 }

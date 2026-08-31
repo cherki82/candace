@@ -17,10 +17,10 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 const mobileLinks = [
+  { text: "Theory Threads", href: "index/threads" },
   { text: "Research Explorer", href: "index/explorer" },
   { text: "Event Explorer", href: "index/event-explorer" },
   { text: "Claims", href: "index/claims" },
-  { text: "Theory Threads", href: "index/threads" },
   { text: "Episodes", href: "index/episodes" },
   { text: "Entities", href: "index/entities" },
   { text: "Timeline", href: "index/timeline" },
@@ -32,9 +32,9 @@ const mobileLinks = [
 const InvestigateNavigation = Component.Navigation({
   title: "Investigate",
   links: [
+    { text: "Theory Threads", href: "index/threads" },
     { text: "Research Explorer", href: "index/explorer" },
     { text: "Event Explorer", href: "index/event-explorer" },
-    { text: "Theory Threads", href: "index/threads" },
   ],
 })
 
