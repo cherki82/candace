@@ -13,8 +13,12 @@ _Type: Anonymous Sources_
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
+
+## Reviewed theory threads
+
+- [How the Fort Huachuca identifications were contested](/threads/thread-fort-huachuca-witness-identifications) — Tracks the on-channel progression from evidence that a witness was on the base to his identifications of Brian Harpole and Erika Kirk, the limits Owens placed on those identifications, and competing alibi claims.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

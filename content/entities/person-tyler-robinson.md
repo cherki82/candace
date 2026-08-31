@@ -29,7 +29,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div><span>Statements by</span><strong>14</strong></div>
 <div><span>Statements about</span><strong>372</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -250,6 +250,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How Tyler Robinson confession claims were framed](/threads/thread-tyler-robinson-confession-accounts) — Separates an official denial of a confession to authorities from family-report, media, and surrender accounts that were later presented as confessions or rebuttals.
+- [How the rifle evidence was characterized](/threads/thread-charlie-kirk-rifle-evidence) — Tracks the public account from DNA on the recovered rifle through disputed bullet matching and the later ATF distinction between a matching cartridge case and inconclusive bullet fragments.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

@@ -24,7 +24,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -55,6 +55,10 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How Tyler Robinson confession claims were framed](/threads/thread-tyler-robinson-confession-accounts) — Separates an official denial of a confession to authorities from family-report, media, and surrender accounts that were later presented as confessions or rebuttals.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

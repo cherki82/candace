@@ -28,7 +28,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <div><span>Statements by</span><strong>15</strong></div>
 <div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>24</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -95,6 +95,10 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How the Fort Huachuca identifications were contested](/threads/thread-fort-huachuca-witness-identifications) — Tracks the on-channel progression from evidence that a witness was on the base to his identifications of Brian Harpole and Erika Kirk, the limits Owens placed on those identifications, and competing alibi claims.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

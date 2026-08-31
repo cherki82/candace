@@ -13,8 +13,12 @@ _Type: Anonymous Sources_
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
+
+## Reviewed theory threads
+
+- [How the ‘Superman neck’ account was traced](/threads/thread-superman-neck-attribution) — Tracks the claim that a surgeon explained why a high-powered round did not exit Charlie Kirk's neck, the on-channel rejection of that attribution, an alternative frangible-bullet account, and a later claim about who originated the wording.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

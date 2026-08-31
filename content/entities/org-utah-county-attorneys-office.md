@@ -28,7 +28,7 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 <div><span>Statements by</span><strong>19</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How the rifle evidence was characterized](/threads/thread-charlie-kirk-rifle-evidence) — Tracks the public account from DNA on the recovered rifle through disputed bullet matching and the later ATF distinction between a matching cartridge case and inconclusive bullet fragments.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

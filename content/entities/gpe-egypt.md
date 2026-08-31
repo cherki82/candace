@@ -27,7 +27,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -140,6 +140,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How the Egyptian-plane theory expanded](/threads/thread-egyptian-plane-purpose) — Tracks the on-channel progression from Egyptian personnel allegedly being in Utah, through claims that two aircraft tracked Charlie and Erika Kirk, to competing hypotheses about who operated or used the planes.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

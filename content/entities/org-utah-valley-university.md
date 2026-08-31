@@ -33,7 +33,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>71</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -200,6 +200,10 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How the UVU drone account changed](/threads/thread-uvu-security-drone-account) — Tracks competing accounts of whether drones were available before the September 10 UVU event, followed by a lawyerly distinction between security and media-production flights.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

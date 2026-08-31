@@ -24,7 +24,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -41,6 +41,10 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How the UVU drone account changed](/threads/thread-uvu-security-drone-account) — Tracks competing accounts of whether drones were available before the September 10 UVU event, followed by a lawyerly distinction between security and media-production flights.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

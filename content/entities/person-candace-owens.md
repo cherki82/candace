@@ -29,7 +29,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <div><span>Statements by</span><strong>4,443</strong></div>
 <div><span>Statements about</span><strong>601</strong></div>
 <div><span>Relationships</span><strong>872</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Threads</span><strong>7</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -366,6 +366,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 ## Reviewed theory threads
 
 - [How the Hamptons retreat was characterized](/threads/thread-hamptons-retreat-characterization) — Tracks competing on-channel descriptions of the August 2025 Hamptons retreat: first as an intervention over Israel, then as a debate workshop, and later as a retreat convened by Charlie Kirk.
+- [How the UVU drone account changed](/threads/thread-uvu-security-drone-account) — Tracks competing accounts of whether drones were available before the September 10 UVU event, followed by a lawyerly distinction between security and media-production flights.
+- [How Tyler Robinson confession claims were framed](/threads/thread-tyler-robinson-confession-accounts) — Separates an official denial of a confession to authorities from family-report, media, and surrender accounts that were later presented as confessions or rebuttals.
+- [How the rifle evidence was characterized](/threads/thread-charlie-kirk-rifle-evidence) — Tracks the public account from DNA on the recovered rifle through disputed bullet matching and the later ATF distinction between a matching cartridge case and inconclusive bullet fragments.
+- [How the Fort Huachuca identifications were contested](/threads/thread-fort-huachuca-witness-identifications) — Tracks the on-channel progression from evidence that a witness was on the base to his identifications of Brian Harpole and Erika Kirk, the limits Owens placed on those identifications, and competing alibi claims.
+- [How the ‘Superman neck’ account was traced](/threads/thread-superman-neck-attribution) — Tracks the claim that a surgeon explained why a high-powered round did not exit Charlie Kirk's neck, the on-channel rejection of that attribution, an alternative frangible-bullet account, and a later claim about who originated the wording.
+- [How the Egyptian-plane theory expanded](/threads/thread-egyptian-plane-purpose) — Tracks the on-channel progression from Egyptian personnel allegedly being in Utah, through claims that two aircraft tracked Charlie and Erika Kirk, to competing hypotheses about who operated or used the planes.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
