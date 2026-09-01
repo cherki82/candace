@@ -691,7 +691,429 @@ const initEvents = (container: HTMLElement, items: IndexRecord[]) => {
   render(Number(paramsObject().page) || 1)
 }
 
+type ThreadViewBox = { x: number; y: number; width: number; height: number }
+
+const parseThreadViewBox = (svg: SVGSVGElement): ThreadViewBox => {
+  const [x, y, width, height] = (svg.getAttribute("viewBox") || "0 0 1 1").split(/\s+/).map(Number)
+  return { x, y, width, height }
+}
+
+const initThreadEntityRoster = (detail: HTMLElement) => {
+  const input = detail.querySelector<HTMLInputElement>("[data-thread-entity-search]")
+  const output = detail.querySelector<HTMLOutputElement>("[data-thread-entity-count]")
+  const links = [...detail.querySelectorAll<HTMLElement>(".thread-entity-all a")]
+  if (!input || !output || !links.length) return
+  input.addEventListener("input", () => {
+    const query = input.value.trim().toLowerCase()
+    let visible = 0
+    links.forEach((link) => {
+      link.hidden = Boolean(query) && !link.textContent?.toLowerCase().includes(query)
+      if (!link.hidden) visible += 1
+    })
+    output.value = `${visible.toLocaleString()} of ${links.length.toLocaleString()} entities`
+  })
+}
+
+const initThreadDesk = (desk: HTMLElement) => {
+  if (desk.dataset.initialized) return
+  desk.dataset.initialized = "true"
+  const detail = desk.closest<HTMLElement>(".thread-detail")
+  const lineage = desk.querySelector<HTMLElement>("[data-thread-lineage]")
+  const svg = desk.querySelector<SVGSVGElement>("[data-thread-map]")
+  const inspector = desk.querySelector<HTMLElement>("[data-thread-inspector]")
+  const toolbar = desk.querySelector<HTMLElement>("[data-thread-toolbar]")
+  const trailControls = detail?.querySelector<HTMLElement>("[data-thread-trail-controls]")
+  const trailCount = detail?.querySelector<HTMLOutputElement>("[data-thread-trail-count]")
+  if (!detail || !lineage || !svg || !inspector || !toolbar || !trailControls || !trailCount) return
+
+  toolbar.hidden = false
+  trailControls.hidden = false
+  desk.classList.add("is-enhanced")
+  const original = parseThreadViewBox(svg)
+  let view = { ...original }
+  let selected = ""
+  let trailMode = "context"
+  let kindFilter = ""
+  let suppressClick = false
+  const nodes = new Map(
+    [...svg.querySelectorAll<SVGAElement>("[data-node-id]")].map((node) => [
+      node.dataset.nodeId!,
+      node,
+    ]),
+  )
+  const cards = new Map(
+    [...detail.querySelectorAll<HTMLElement>(".thread-milestone[data-node-id]")].map((card) => [
+      card.dataset.nodeId!,
+      card,
+    ]),
+  )
+  const edges = [...svg.querySelectorAll<SVGPathElement>("[data-thread-from]")]
+  const parents = new Map<string, Set<string>>()
+  const children = new Map<string, Set<string>>()
+  edges.forEach((edge) => {
+    const from = edge.dataset.threadFrom!
+    const to = edge.dataset.threadTo!
+    if (!parents.has(to)) parents.set(to, new Set())
+    if (!children.has(from)) children.set(from, new Set())
+    parents.get(to)!.add(from)
+    children.get(from)!.add(to)
+  })
+
+  const screenMetrics = (box: ThreadViewBox) => {
+    const rect = svg.getBoundingClientRect()
+    const viewAspect = box.width / box.height
+    const rectAspect = rect.width / Math.max(rect.height, 1)
+    if (rectAspect > viewAspect) {
+      const width = rect.height * viewAspect
+      return { rect, left: (rect.width - width) / 2, top: 0, width, height: rect.height }
+    }
+    const height = rect.width / viewAspect
+    return { rect, left: 0, top: (rect.height - height) / 2, width: rect.width, height }
+  }
+
+  const screenFraction = (clientX: number, clientY: number, box: ThreadViewBox) => {
+    const metrics = screenMetrics(box)
+    return {
+      x: (clientX - metrics.rect.left - metrics.left) / Math.max(metrics.width, 1),
+      y: (clientY - metrics.rect.top - metrics.top) / Math.max(metrics.height, 1),
+    }
+  }
+
+  const graphPoint = (clientX: number, clientY: number, box = view) => {
+    const fraction = screenFraction(clientX, clientY, box)
+    return { x: box.x + fraction.x * box.width, y: box.y + fraction.y * box.height }
+  }
+
+  const setView = (next: ThreadViewBox) => {
+    const width = Math.min(Math.max(next.width, 320), original.width)
+    const height = Math.min(Math.max(next.height, 220), original.height)
+    view = {
+      x: Math.min(Math.max(next.x, original.x), original.x + original.width - width),
+      y: Math.min(Math.max(next.y, original.y), original.y + original.height - height),
+      width,
+      height,
+    }
+    svg.setAttribute("viewBox", `${view.x} ${view.y} ${view.width} ${view.height}`)
+    const rect = svg.getBoundingClientRect()
+    const unitsPerPixel = view.width / Math.max(rect.width, 1)
+    svg.style.setProperty("--thread-node-radius", `${Math.max(11, unitsPerPixel * 4)}px`)
+    svg.style.setProperty("--thread-label-size", `${Math.max(10, unitsPerPixel * 13)}px`)
+    svg.style.setProperty("--thread-mark-size", `${Math.max(8, unitsPerPixel * 11)}px`)
+    svg.style.setProperty("--thread-date-size", `${Math.max(8, unitsPerPixel * 11)}px`)
+    lineage.dataset.zoomLevel =
+      view.width > 6000 ? "overview" : view.width > 1800 ? "context" : "detail"
+    const zoom = desk.querySelector<HTMLOutputElement>("[data-thread-zoom]")
+    if (zoom) {
+      const focusWidth = Math.min(original.width, 900)
+      zoom.value = `${Math.round((focusWidth / view.width) * 100).toLocaleString()}%`
+    }
+  }
+
+  const zoomAt = (multiplier: number, clientX?: number, clientY?: number) => {
+    const metrics = screenMetrics(view)
+    const x = clientX ?? metrics.rect.left + metrics.rect.width / 2
+    const y = clientY ?? metrics.rect.top + metrics.rect.height / 2
+    const anchor = graphPoint(x, y)
+    const fraction = screenFraction(x, y, view)
+    const width = view.width * multiplier
+    const height = view.height * multiplier
+    setView({
+      x: anchor.x - fraction.x * width,
+      y: anchor.y - fraction.y * height,
+      width,
+      height,
+    })
+  }
+
+  const focusNode = (id: string) => {
+    const node = nodes.get(id)
+    if (!node) return
+    const rect = svg.getBoundingClientRect()
+    const width = Math.min(original.width, 900)
+    const height = Math.min(original.height, width * (rect.height / Math.max(rect.width, 1)))
+    const x = Number(node.dataset.nodeX)
+    const y = Number(node.dataset.nodeY)
+    setView({ x: x - width / 2, y: y - height / 2, width, height })
+  }
+
+  const branchFor = (id: string) => {
+    const branch = new Set([id])
+    for (const relation of [parents, children]) {
+      const queue = [id]
+      const visited = new Set([id])
+      while (queue.length) {
+        const current = queue.shift()!
+        for (const neighbor of relation.get(current) || []) {
+          if (visited.has(neighbor)) continue
+          visited.add(neighbor)
+          branch.add(neighbor)
+          queue.push(neighbor)
+        }
+      }
+    }
+    return branch
+  }
+
+  const visibleTrail = () => {
+    if (trailMode === "all") return new Set(cards.keys())
+    if (trailMode === "branch") return branchFor(selected)
+    return new Set([selected, ...(parents.get(selected) || []), ...(children.get(selected) || [])])
+  }
+
+  const updateInspector = () => {
+    const card = cards.get(selected)
+    if (!card) return
+    const title = card.querySelector(".thread-milestone-title")?.textContent || selected
+    const proposition = card.querySelector(".thread-proposition")?.outerHTML || ""
+    const time = card.querySelector("time")?.outerHTML || ""
+    const kind = card.querySelector(".thread-kind-name")?.outerHTML || ""
+    const connections = card.querySelector(".thread-connections")?.outerHTML || ""
+    const provenance = card.querySelector(".thread-provenance")?.outerHTML || ""
+    const meta = card.querySelector(".thread-meta")?.outerHTML || ""
+    const note = card.querySelector("details")?.outerHTML || ""
+    inspector.innerHTML = `<span class="research-kicker">Selected milestone</span><div class="thread-inspector-meta">${time}${kind}</div><h3>${title}</h3>${proposition}${connections}<div class="thread-inspector-evidence"><strong>Primary evidence</strong>${provenance}${meta}${note}</div><button type="button" class="thread-inspector-jump" data-thread-jump="${selected}">Read in the evidence trail ↓</button>`
+  }
+
+  const updateSelection = () => {
+    const connected = new Set([
+      selected,
+      ...(parents.get(selected) || []),
+      ...(children.get(selected) || []),
+    ])
+    nodes.forEach((node, id) => {
+      const filtered =
+        Boolean(kindFilter) && node.dataset.nodeKind !== kindFilter && id !== selected
+      node.classList.toggle("is-selected", id === selected)
+      node.classList.toggle("is-connected", id !== selected && connected.has(id))
+      node.classList.toggle("is-muted", !connected.has(id))
+      node.classList.toggle("is-filtered-out", filtered)
+      node.setAttribute("aria-current", id === selected ? "true" : "false")
+    })
+    edges.forEach((edge) => {
+      const from = edge.dataset.threadFrom!
+      const to = edge.dataset.threadTo!
+      const related = from === selected || to === selected
+      const filtered =
+        Boolean(kindFilter) &&
+        nodes.get(from)?.dataset.nodeKind !== kindFilter &&
+        nodes.get(to)?.dataset.nodeKind !== kindFilter
+      edge.classList.toggle("is-connected", related)
+      edge.classList.toggle("is-muted", !related)
+      edge.classList.toggle("is-filtered-out", filtered)
+    })
+    const visible = visibleTrail()
+    let count = 0
+    cards.forEach((card, id) => {
+      const show =
+        visible.has(id) && (!kindFilter || card.dataset.nodeKind === kindFilter || id === selected)
+      card.hidden = !show
+      card.classList.toggle("is-selected", id === selected)
+      if (show) count += 1
+    })
+    trailCount.value = `${count.toLocaleString()} of ${cards.size.toLocaleString()} reviewed turns shown`
+    trailControls
+      .querySelectorAll<HTMLButtonElement>("[data-thread-trail]")
+      .forEach((button) =>
+        button.setAttribute("aria-pressed", String(button.dataset.threadTrail === trailMode)),
+      )
+    updateInspector()
+  }
+
+  const selectNode = (id: string, focus = true, scroll = false) => {
+    if (!cards.has(id) || !nodes.has(id)) return
+    selected = id
+    updateSelection()
+    if (focus) focusNode(id)
+    history.replaceState({}, "", `${location.pathname}${location.search}#${encodeURIComponent(id)}`)
+    if (scroll) {
+      requestAnimationFrame(() => {
+        const card = cards.get(id)!
+        card.scrollIntoView({ behavior: "smooth", block: "center" })
+        card.focus({ preventScroll: true })
+      })
+    }
+  }
+
+  desk.addEventListener("click", (event) => {
+    const target = event.target as Element
+    const select = target.closest<HTMLElement>("[data-thread-select]")
+    if (select) {
+      event.preventDefault()
+      if (!suppressClick) selectNode(select.dataset.threadSelect!, true, !svg.contains(select))
+      suppressClick = false
+      return
+    }
+    const action = target.closest<HTMLButtonElement>("[data-thread-action]")?.dataset.threadAction
+    if (action === "zoom-in") zoomAt(0.78)
+    if (action === "zoom-out") zoomAt(1.28)
+    if (action === "overview") setView({ ...original })
+    if (action === "focus") focusNode(selected)
+    const jump = target.closest<HTMLButtonElement>("[data-thread-jump]")?.dataset.threadJump
+    if (jump) selectNode(jump, true, true)
+  })
+
+  detail.addEventListener("click", (event) => {
+    const target = event.target as Element
+    const select = target.closest<HTMLElement>("[data-thread-select]")
+    if (!select || desk.contains(select)) return
+    event.preventDefault()
+    selectNode(select.dataset.threadSelect!, true, true)
+  })
+
+  trailControls.addEventListener("click", (event) => {
+    const button = (event.target as Element).closest<HTMLButtonElement>("[data-thread-trail]")
+    if (!button) return
+    trailMode = button.dataset.threadTrail!
+    updateSelection()
+  })
+
+  desk
+    .querySelector<HTMLSelectElement>("[data-thread-kind-filter]")
+    ?.addEventListener("change", (event) => {
+      kindFilter = (event.currentTarget as HTMLSelectElement).value
+      updateSelection()
+    })
+
+  const search = desk.querySelector<HTMLInputElement>("[data-thread-node-search]")
+  const findSearchResult = () => {
+    const query = search?.value.trim().toLowerCase()
+    if (!query) return
+    const match = [...cards.entries()].find(([, card]) =>
+      [
+        card.querySelector(".thread-milestone-title")?.textContent,
+        card.querySelector("time")?.textContent,
+        card.querySelector(".thread-proposition")?.textContent,
+      ]
+        .join(" ")
+        .toLowerCase()
+        .includes(query),
+    )?.[0]
+    if (match) selectNode(match)
+  }
+  search?.addEventListener("change", findSearchResult)
+  search?.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      event.preventDefault()
+      findSearchResult()
+    }
+  })
+
+  svg.addEventListener(
+    "wheel",
+    (event) => {
+      event.preventDefault()
+      zoomAt(event.deltaY < 0 ? 0.84 : 1.19, event.clientX, event.clientY)
+    },
+    { passive: false },
+  )
+
+  type Pointer = { x: number; y: number }
+  const pointers = new Map<number, Pointer>()
+  let gestureView = { ...view }
+  let gestureAnchor = { x: 0, y: 0 }
+  let gestureStart = { x: 0, y: 0 }
+  let gestureDistance = 0
+  const beginGesture = () => {
+    gestureView = { ...view }
+    const points = [...pointers.values()]
+    gestureStart =
+      points.length === 1
+        ? points[0]
+        : { x: (points[0].x + points[1].x) / 2, y: (points[0].y + points[1].y) / 2 }
+    gestureAnchor = graphPoint(gestureStart.x, gestureStart.y, gestureView)
+    gestureDistance =
+      points.length > 1 ? Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y) : 0
+  }
+  svg.addEventListener("pointerdown", (event) => {
+    if (event.button !== 0) return
+    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY })
+    svg.setPointerCapture(event.pointerId)
+    beginGesture()
+  })
+  svg.addEventListener("pointermove", (event) => {
+    if (!pointers.has(event.pointerId)) return
+    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY })
+    const points = [...pointers.values()]
+    const midpoint =
+      points.length === 1
+        ? points[0]
+        : { x: (points[0].x + points[1].x) / 2, y: (points[0].y + points[1].y) / 2 }
+    if (Math.hypot(midpoint.x - gestureStart.x, midpoint.y - gestureStart.y) > 3)
+      suppressClick = true
+    const fraction = screenFraction(midpoint.x, midpoint.y, gestureView)
+    const ratio =
+      points.length > 1
+        ? gestureDistance /
+          Math.max(Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y), 1)
+        : 1
+    const width = gestureView.width * ratio
+    const height = gestureView.height * ratio
+    setView({
+      x: gestureAnchor.x - fraction.x * width,
+      y: gestureAnchor.y - fraction.y * height,
+      width,
+      height,
+    })
+  })
+  const endGesture = (event: PointerEvent) => {
+    pointers.delete(event.pointerId)
+    if (pointers.size) beginGesture()
+  }
+  svg.addEventListener("pointerup", endGesture)
+  svg.addEventListener("pointercancel", endGesture)
+  svg.addEventListener(
+    "click",
+    (event) => {
+      if (!suppressClick) return
+      event.preventDefault()
+      event.stopPropagation()
+      suppressClick = false
+    },
+    true,
+  )
+  svg.addEventListener("keydown", (event) => {
+    if (["+", "="].includes(event.key)) zoomAt(0.78)
+    else if (event.key === "-") zoomAt(1.28)
+    else if (event.key === "0" || event.key === "Home") setView({ ...original })
+    else if (event.key.startsWith("Arrow")) {
+      const x =
+        event.key === "ArrowLeft"
+          ? -view.width * 0.1
+          : event.key === "ArrowRight"
+            ? view.width * 0.1
+            : 0
+      const y =
+        event.key === "ArrowUp"
+          ? -view.height * 0.1
+          : event.key === "ArrowDown"
+            ? view.height * 0.1
+            : 0
+      setView({ ...view, x: view.x + x, y: view.y + y })
+    } else return
+    event.preventDefault()
+  })
+
+  const hashNode = decodeURIComponent(location.hash.slice(1))
+  selected = cards.has(hashNode)
+    ? hashNode
+    : desk.dataset.defaultNode || cards.keys().next().value || ""
+  updateSelection()
+  setView({ ...original })
+  requestAnimationFrame(() => focusNode(selected))
+}
+
+const initThreadPages = () => {
+  document
+    .querySelectorAll<HTMLElement>(".thread-detail:not([data-thread-initialized])")
+    .forEach((detail) => {
+      detail.dataset.threadInitialized = "true"
+      initThreadEntityRoster(detail)
+      detail.querySelectorAll<HTMLElement>("[data-thread-desk]").forEach(initThreadDesk)
+    })
+}
+
 document.addEventListener("nav", () => {
+  initThreadPages()
   document
     .querySelectorAll<HTMLElement>(".research-workbench:not([data-initialized])")
     .forEach(async (container) => {

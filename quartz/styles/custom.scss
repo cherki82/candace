@@ -1015,6 +1015,726 @@ body[data-slug^="threads/"] {
   color: #b23b2c;
 }
 
+.thread-detail {
+  --thread-desk-border: color-mix(in srgb, var(--dark) 78%, var(--light));
+
+  > h1 {
+    max-width: 22ch;
+    font-size: clamp(2.35rem, 5vw, 4.75rem) !important;
+    font-weight: 500;
+    line-height: 0.96;
+  }
+
+  .thread-summary {
+    max-width: 72ch;
+    font-size: clamp(1.25rem, 2.2vw, 1.75rem);
+  }
+}
+
+.thread-entity-roster {
+  margin: 2rem 0;
+  padding: 1rem 0;
+  border-block: 1px solid var(--dark);
+
+  .thread-entity-heading {
+    display: flex;
+    gap: 1rem;
+    align-items: end;
+    justify-content: space-between;
+
+    h2 {
+      margin: 0.2rem 0 0;
+      font-size: 1.8rem;
+    }
+
+    > strong {
+      font-family: var(--headerFont);
+      font-size: 1.8rem;
+      font-weight: 500;
+
+      span {
+        color: var(--gray);
+        font-family: var(--codeFont);
+        font-size: 0.62rem;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+    }
+  }
+
+  .thread-entity-primary {
+    max-width: 90ch;
+    margin: 0.8rem 0;
+    color: var(--gray);
+    line-height: 1.75;
+  }
+
+  details {
+    margin-top: 0.75rem;
+
+    > summary {
+      width: fit-content;
+      cursor: pointer;
+      color: var(--secondary);
+      font-family: var(--codeFont);
+      font-size: 0.7rem;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.thread-entity-filter {
+  display: grid;
+  max-width: 30rem;
+  margin-top: 1rem;
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.64rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  input {
+    margin-top: 0.35rem;
+    padding: 0.65rem 0.75rem;
+    border: 1px solid var(--gray);
+    border-radius: 0;
+    color: var(--dark);
+    background: var(--light);
+    font: inherit;
+    font-size: 0.78rem;
+    text-transform: none;
+  }
+}
+
+.thread-entity-count {
+  display: block;
+  margin: 0.6rem 0;
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.62rem;
+}
+
+.thread-entity-all {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  max-height: 18rem;
+  overflow: auto;
+  padding: 0.75rem;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 88%, var(--lightgray));
+
+  a {
+    padding: 0.2rem 0.45rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent);
+    color: var(--secondary);
+    background: var(--light);
+    font-size: 0.72rem;
+    line-height: 1.3;
+  }
+}
+
+.thread-evidence-desk {
+  margin: 2.5rem 0;
+  border: 1px solid var(--thread-desk-border);
+  background: color-mix(in srgb, var(--light) 96%, var(--highlight));
+  box-shadow: 0.6rem 0.6rem 0 color-mix(in srgb, var(--dark) 8%, transparent);
+}
+
+.thread-desk-header {
+  display: grid;
+  grid-template-columns: minmax(16rem, 0.7fr) minmax(26rem, 1.3fr);
+  gap: 1.5rem;
+  padding: 1.25rem;
+  border-bottom: 1px solid var(--thread-desk-border);
+
+  h2 {
+    margin: 0.25rem 0 0;
+    font-size: clamp(1.6rem, 3vw, 2.6rem);
+    font-weight: 500;
+    line-height: 1;
+  }
+
+  p {
+    max-width: 55ch;
+    margin: 0.6rem 0 0;
+    color: var(--gray);
+    font-size: 0.85rem;
+  }
+}
+
+.thread-desk-toolbar {
+  display: grid;
+  grid-template-columns: minmax(14rem, 1fr) auto minmax(10rem, 0.55fr);
+  gap: 0.65rem;
+  align-items: end;
+
+  label {
+    display: grid;
+    color: var(--gray);
+    font-family: var(--codeFont);
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  input,
+  select,
+  button,
+  output {
+    min-height: 2.45rem;
+    border: 1px solid var(--gray);
+    border-radius: 0;
+    color: var(--dark);
+    background: var(--light);
+    font-family: var(--codeFont);
+    font-size: 0.68rem;
+  }
+
+  input,
+  select {
+    width: 100%;
+    margin-top: 0.3rem;
+    padding: 0.55rem 0.65rem;
+  }
+
+  button {
+    cursor: pointer;
+    padding: 0.5rem 0.65rem;
+    font-weight: 800;
+
+    &:hover,
+    &:focus-visible {
+      border-color: var(--secondary);
+      color: var(--light);
+      background: var(--secondary);
+    }
+  }
+}
+
+.thread-desk-toolbar[hidden],
+.thread-trail-controls[hidden] {
+  display: none;
+}
+
+.thread-zoom-controls {
+  display: flex;
+  align-items: end;
+
+  > * + * {
+    border-left: 0;
+  }
+
+  output {
+    display: grid;
+    min-width: 4.25rem;
+    place-items: center;
+    padding: 0 0.45rem;
+  }
+}
+
+.thread-desk-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(18rem, 24rem);
+  min-height: clamp(38rem, 72vh, 58rem);
+}
+
+.thread-map-panel {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  border-right: 1px solid var(--thread-desk-border);
+}
+
+.thread-lineage-detail {
+  display: flex;
+  min-height: 0;
+  flex: 1;
+  flex-direction: column;
+  margin: 0;
+  border: 0;
+  background-size: 1.5rem 1.5rem;
+
+  figcaption {
+    flex: 0 0 auto;
+    padding: 0.65rem 0.8rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  .thread-lineage-scroll {
+    min-height: 30rem;
+    flex: 1;
+    overflow: hidden;
+    cursor: grab;
+
+    &:active {
+      cursor: grabbing;
+    }
+  }
+
+  svg {
+    width: 100%;
+    min-width: 0;
+    height: 100%;
+    min-height: 30rem;
+    outline: none;
+    touch-action: none;
+    user-select: none;
+
+    &:focus-visible {
+      box-shadow: inset 0 0 0 3px var(--secondary);
+    }
+  }
+
+  .thread-lineage-axis,
+  .thread-lineage-tick,
+  .thread-lineage-edge,
+  .thread-lineage-node circle {
+    vector-effect: non-scaling-stroke;
+  }
+
+  .thread-lineage-node circle {
+    r: var(--thread-node-radius, 11px);
+  }
+
+  .thread-lineage-node-label {
+    font-size: var(--thread-label-size, 10px);
+  }
+
+  .thread-lineage-mark {
+    font-size: var(--thread-mark-size, 8px);
+  }
+
+  .thread-lineage-date,
+  .thread-lineage-axis-label {
+    font-size: var(--thread-date-size, 8px);
+  }
+
+  &[data-zoom-level="overview"] {
+    .thread-lineage-date,
+    .thread-lineage-axis-label,
+    .thread-lineage-mark,
+    .thread-lineage-node-label {
+      display: none;
+    }
+
+    .thread-lineage-node.is-selected .thread-lineage-mark,
+    .thread-lineage-node.is-selected .thread-lineage-node-label {
+      display: block;
+    }
+  }
+
+  &[data-zoom-level="context"] {
+    .thread-lineage-node-label {
+      display: none;
+    }
+
+    .thread-lineage-node.is-selected .thread-lineage-node-label,
+    .thread-lineage-node.is-connected .thread-lineage-node-label {
+      display: block;
+    }
+  }
+
+  .thread-lineage-node,
+  .thread-lineage-edge {
+    transition:
+      opacity 160ms ease,
+      stroke-width 160ms ease;
+  }
+
+  .thread-lineage-node.is-muted {
+    opacity: 0.1;
+  }
+
+  .thread-lineage-edge.is-muted {
+    opacity: 0.06;
+  }
+
+  .thread-lineage-node.is-connected {
+    opacity: 0.92;
+  }
+
+  .thread-lineage-edge.is-connected {
+    opacity: 1;
+    stroke: var(--secondary);
+    stroke-width: 4;
+  }
+
+  .thread-lineage-node.is-selected {
+    opacity: 1;
+    color: var(--secondary);
+
+    circle {
+      fill: var(--secondary);
+      stroke: var(--light);
+      stroke-width: 4;
+    }
+
+    .thread-lineage-mark {
+      fill: var(--light);
+    }
+  }
+
+  .is-filtered-out {
+    display: none;
+  }
+
+  .thread-lineage-legend {
+    flex: 0 0 auto;
+    padding-top: 0.65rem;
+    border-top: 1px solid var(--lightgray);
+  }
+}
+
+.thread-map-help {
+  position: absolute;
+  z-index: 2;
+  right: 0.75rem;
+  bottom: 3.15rem;
+  margin: 0;
+  padding: 0.35rem 0.5rem;
+  color: var(--gray);
+  background: color-mix(in srgb, var(--light) 90%, transparent);
+  font-family: var(--codeFont);
+  font-size: 0.58rem;
+  pointer-events: none;
+}
+
+.thread-inspector {
+  overflow: auto;
+  padding: clamp(1rem, 2vw, 1.5rem);
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--secondary) 9%, transparent), transparent 55%),
+    var(--light);
+
+  h3 {
+    margin: 0.5rem 0 0.8rem;
+    font-size: clamp(1.65rem, 2.8vw, 2.4rem);
+    font-weight: 500;
+    line-height: 1.02;
+  }
+
+  .thread-proposition {
+    font-family: var(--headerFont);
+    font-size: 1.12rem;
+    line-height: 1.35;
+  }
+}
+
+.thread-inspector-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.8rem;
+  margin-top: 0.65rem;
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+}
+
+.thread-inspector-evidence {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--dark);
+
+  > strong {
+    font-family: var(--codeFont);
+    font-size: 0.64rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .thread-provenance,
+  .thread-meta {
+    font-size: 0.75rem;
+  }
+}
+
+.thread-inspector-jump {
+  width: 100%;
+  margin-top: 1.25rem;
+  padding: 0.7rem;
+  border: 1px solid var(--secondary);
+  border-radius: 0;
+  cursor: pointer;
+  color: var(--light);
+  background: var(--secondary);
+  font-family: var(--codeFont);
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.thread-connections {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1rem 0;
+
+  > div > strong {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: var(--gray);
+    font-family: var(--codeFont);
+    font-size: 0.58rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .thread-connection-root,
+  .thread-connection-leaf {
+    span {
+      color: var(--gray);
+      font-size: 0.72rem;
+    }
+  }
+}
+
+.thread-connection-links {
+  display: grid;
+  gap: 0.3rem;
+
+  a {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.5rem;
+    padding: 0.45rem 0.55rem;
+    border-left: 3px solid var(--secondary);
+    color: var(--dark);
+    background: color-mix(in srgb, var(--secondary) 8%, var(--light));
+    font-size: 0.72rem;
+    line-height: 1.2;
+
+    &:hover,
+    &:focus-visible {
+      color: var(--secondary);
+      background: color-mix(in srgb, var(--secondary) 14%, var(--light));
+    }
+
+    small {
+      align-self: start;
+      color: var(--gray);
+      font-family: var(--codeFont);
+      font-size: 0.52rem;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.thread-detail .thread-clock-grid {
+  grid-template-columns: minmax(15rem, 0.34fr) minmax(0, 1fr);
+}
+
+.thread-detail .thread-event-clock {
+  align-self: start;
+  position: sticky;
+  top: 1rem;
+}
+
+.thread-trail-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: end;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--dark);
+
+  h2,
+  p {
+    margin: 0;
+  }
+}
+
+.thread-trail-controls {
+  display: flex;
+
+  button {
+    padding: 0.5rem 0.65rem;
+    border: 1px solid var(--gray);
+    border-radius: 0;
+    cursor: pointer;
+    color: var(--dark);
+    background: var(--light);
+    font-family: var(--codeFont);
+    font-size: 0.58rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    + button {
+      border-left: 0;
+    }
+
+    &[aria-pressed="true"] {
+      color: var(--light);
+      background: var(--secondary);
+    }
+  }
+}
+
+.thread-trail-count {
+  display: block;
+  margin-top: 0.7rem;
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.62rem;
+}
+
+.thread-detail .thread-milestones {
+  &::before {
+    left: 1rem;
+  }
+}
+
+.thread-detail .thread-milestone {
+  margin-bottom: 0.8rem;
+  padding: 1rem 1rem 1.25rem 3.2rem !important;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  transition:
+    border-color 160ms ease,
+    background 160ms ease;
+
+  &[hidden] {
+    display: none;
+  }
+
+  &.is-selected {
+    border-color: var(--secondary);
+    background: color-mix(in srgb, var(--secondary) 7%, var(--light));
+    box-shadow: inset 0.25rem 0 0 var(--secondary);
+  }
+
+  .thread-mark {
+    top: 1rem;
+    left: 0.15rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+
+  .thread-milestone-heading {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.25rem 0.75rem;
+  }
+
+  .thread-kind-name {
+    color: var(--gray);
+    font-family: var(--codeFont);
+    font-size: 0.58rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .thread-milestone-title {
+    grid-column: 1 / -1;
+    margin: 0.15rem 0 0;
+    font-size: clamp(1.35rem, 2.5vw, 1.9rem);
+    font-weight: 500;
+    line-height: 1.05;
+
+    button {
+      padding: 0;
+      border: 0;
+      cursor: pointer;
+      color: var(--dark);
+      background: transparent;
+      font: inherit;
+      text-align: left;
+
+      &:hover,
+      &:focus-visible {
+        color: var(--secondary);
+      }
+    }
+  }
+
+  .thread-proposition {
+    margin: 0.65rem 0;
+    font-family: var(--headerFont);
+    font-size: 1.08rem;
+    line-height: 1.38;
+  }
+
+  .thread-connections {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding-block: 0.8rem;
+    border-block: 1px solid var(--lightgray);
+  }
+}
+
+@media (min-width: 1200px) {
+  .page:has(.thread-detail) {
+    max-width: 1780px;
+
+    #quartz-body {
+      grid-template-columns: 280px minmax(0, 1fr);
+      grid-template-areas:
+        "grid-sidebar-left grid-header"
+        "grid-sidebar-left grid-center"
+        "grid-sidebar-left grid-footer";
+    }
+
+    .sidebar.right {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 1199px) {
+  .thread-entity-roster .thread-entity-heading,
+  .thread-desk-header,
+  .thread-desk-layout,
+  .thread-detail .thread-clock-grid,
+  .thread-trail-heading {
+    grid-template-columns: 1fr;
+  }
+
+  .thread-entity-roster .thread-entity-heading {
+    display: grid;
+    align-items: start;
+  }
+
+  .thread-desk-toolbar {
+    grid-template-columns: 1fr;
+  }
+
+  .thread-zoom-controls {
+    flex-wrap: wrap;
+
+    > * {
+      min-width: 2.8rem;
+      flex: 1;
+    }
+
+    > * + * {
+      border-left: 1px solid var(--gray);
+    }
+  }
+
+  .thread-desk-layout {
+    min-height: 0;
+  }
+
+  .thread-map-panel {
+    min-height: 60vh;
+    border-right: 0;
+    border-bottom: 1px solid var(--thread-desk-border);
+  }
+
+  .thread-inspector {
+    max-height: none;
+  }
+
+  .thread-detail .thread-event-clock {
+    position: static;
+  }
+}
+
 .sr-only {
   position: absolute;
   overflow: hidden;
@@ -1070,6 +1790,85 @@ body[data-slug^="threads/"] {
   }
   .thread-index-audit {
     grid-template-columns: 1fr;
+  }
+  .thread-entity-roster .thread-entity-heading,
+  .thread-desk-header,
+  .thread-desk-layout,
+  .thread-detail .thread-clock-grid,
+  .thread-trail-heading {
+    grid-template-columns: 1fr;
+  }
+  .thread-entity-roster .thread-entity-heading {
+    align-items: start;
+  }
+  .thread-desk-toolbar {
+    grid-template-columns: 1fr;
+  }
+  .thread-zoom-controls {
+    flex-wrap: wrap;
+
+    > * {
+      min-width: 2.8rem;
+      flex: 1;
+    }
+
+    > * + * {
+      border-left: 1px solid var(--gray);
+    }
+  }
+  .thread-desk-layout {
+    min-height: 0;
+  }
+  .thread-map-panel {
+    min-height: 60vh;
+    border-right: 0;
+    border-bottom: 1px solid var(--thread-desk-border);
+  }
+  .thread-lineage-detail .thread-lineage-scroll,
+  .thread-lineage-detail svg {
+    min-height: 28rem;
+  }
+  .thread-map-help {
+    display: none;
+  }
+  .thread-inspector {
+    max-height: none;
+  }
+  .thread-trail-controls {
+    overflow-x: auto;
+
+    button {
+      min-width: max-content;
+      flex: 1;
+    }
+  }
+  .thread-detail .thread-event-clock {
+    position: static;
+  }
+  .thread-detail .thread-milestone .thread-connections {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .thread-zoom-controls {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+
+    > * {
+      min-width: 0;
+    }
+
+    [data-thread-action="zoom-out"],
+    [data-thread-zoom],
+    [data-thread-action="zoom-in"] {
+      grid-column: span 2;
+    }
+
+    [data-thread-action="overview"],
+    [data-thread-action="focus"] {
+      grid-column: span 3;
+    }
   }
 }
 
